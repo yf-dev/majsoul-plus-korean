@@ -1,0 +1,25 @@
+{
+  "id": "korean",
+  "version": "1.0.0",
+  "name": "한국어?",
+  "author": "Nesswit",
+  "description": "이게 굴러갈까?",
+  "preview": "preview.png",
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+    "en/extendRes/emo/e200001/1.png",
+    "en/extendRes/emo/e200001/4.png",
+    "en/extendRes/emo/e200002/0.png",
+    "en/extendRes/emo/e200002/7.png",
+    "en/extendRes/emo/e200005/4.png",
+    "en/extendRes/emo/e200006/3.png",
+    "en/extendRes/emo/e200006/5.png",
+    "en/extendRes/emo/e200017/7.png",
+    "en/extendRes/emo/e200018/2.png",
+    "en/extendRes/emo/e200019/0.png",
+    "en/extendRes/emo/e200019/3.png",
+    "en/extendRes/emo/e200020/2.png"
+  ]
+}
