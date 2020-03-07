@@ -27,6 +27,21 @@
 6. 작혼 Plus 런쳐 상단의 새로고침 아이콘을 클릭합니다.
 7. 나타난 한국어 리소스 팩을 활성화합니다.
 
-### 3. License
+### 3. 리소스 미리보기
+
+![](/assets/en/extendRes/emo/e200001/1.png)
+![](/assets/en/extendRes/emo/e200001/4.png)
+![](/assets/en/extendRes/emo/e200002/0.png)
+![](/assets/en/extendRes/emo/e200002/7.png)
+![](/assets/en/extendRes/emo/e200005/4.png)
+![](/assets/en/extendRes/emo/e200006/3.png)
+![](/assets/en/extendRes/emo/e200006/5.png)
+![](/assets/en/extendRes/emo/e200017/7.png)
+![](/assets/en/extendRes/emo/e200018/2.png)
+![](/assets/en/extendRes/emo/e200019/0.png)
+![](/assets/en/extendRes/emo/e200019/3.png)
+![](/assets/en/extendRes/emo/e200020/2.png)
+
+### License
 
 MIT
