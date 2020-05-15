@@ -1,7 +1,7 @@
 작혼 Plus: 한국어 리소스 팩
 ========================
 
-![미리보기 이미지](/preview.png)
+![미리보기 이미지](/screenshot.png)
 
 작혼 Plus: 한국어 리소스 팩은 [작혼 Plus](https://github.com/MajsoulPlus/majsoul-plus)에서 사용할 수 있는 리소스 팩으로, 다양한 요소를 한국어로 표시합니다.
 
