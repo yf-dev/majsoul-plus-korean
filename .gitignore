@@ -1,1 +1,3 @@
 dev-resources/
+src/generated/*
+!src/generated/__init__.py

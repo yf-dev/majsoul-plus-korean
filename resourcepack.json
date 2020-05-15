@@ -1,6 +1,6 @@
 {
   "id": "korean",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "한국어",
   "author": "Nesswit",
   "description": "다양한 이미지를 한국어로 표시합니다.",
@@ -9,6 +9,9 @@
     "majsoul_plus": "^2.0.0"
   },
   "replace": [
+    "bitmapfont/en/en_hanyi.fnt",
+    "bitmapfont/en/en_haolong.fnt",
+    "bitmapfont/en/en_shuhun.fnt",
     "en/extendRes/emo/e200001/1.png",
     "en/extendRes/emo/e200001/4.png",
     "en/extendRes/emo/e200002/0.png",
@@ -21,6 +24,9 @@
     "en/extendRes/emo/e200019/0.png",
     "en/extendRes/emo/e200019/3.png",
     "en/extendRes/emo/e200020/2.png",
+    "res/config/lqc.lqbin",
+    "res/atlas/bitmapfont/en.atlas",
+    "res/atlas/bitmapfont/en.png",
     "res/atlas/en/myres/mjdesktop1.png",
     "res/atlas/en/myres/mjdesktop2.png",
     "res/atlas/en/myres3.png"
