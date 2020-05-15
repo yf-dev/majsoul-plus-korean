@@ -17,7 +17,7 @@ src\generated\csv\FandescFandesc.csv,desc_en,"Win a hand with four Sequences and
 src\generated\csv\FandescFandesc.csv,name_en,Pure Double Sequence,이페코
 src\generated\csv\FandescFandesc.csv,desc_en,Win a hand with two identical Sequences,완전히 동일한 슌쯔 두개를 몸통으로 사용하여 화료
 src\generated\csv\FandescFandesc.csv,name_en,Robbing a Kan,창깡
-src\generated\csv\FandescFandesc.csv,desc_en,"Call a Ron (declare winning) on another player’s Kan (when you have a Tenpai for Thirteen Orphans, you can call on a Closed Kan)",다른 플레이어가 가깡(자신이 펑한 패에 추가로 붙여 깡)을 한 패를 론(다른 사람의 패)으로 화료 - 국사무쌍 텐파이 상태일 경우에 한하여 안깡도 론 가능 
+src\generated\csv\FandescFandesc.csv,desc_en,"Call a Ron (declare winning) on another player’s Kan (when you have a Tenpai for Thirteen Orphans, you can call on a Closed Kan)",다른 플레이어가 가깡(자신이 펑한 패에 추가로 붙여 깡)을 한 패를 론(다른 사람의 패)으로 화료 - 국사무쌍 텐파이 상태일 경우에 한하여 안깡도 론 가능
 src\generated\csv\FandescFandesc.csv,name_en,After a Kan,영상개화
 src\generated\csv\FandescFandesc.csv,desc_en,Win a hand with the tile drawn from the Dead Wall after immediately calling a Kan,영상패(깡을 할 때 손으로 가져오는 패)로 화료
 src\generated\csv\FandescFandesc.csv,name_en,Under the Sea,해저로월
@@ -248,6 +248,127 @@ src\generated\csv\StrStr.csv,en,View Yaku,역 보기
 src\generated\csv\StrStr.csv,en,Log Out,로그아웃
 src\generated\csv\StrStr.csv,en,Rank,랭킹
 src\generated\csv\StrStr.csv,en,Info,정보
-src\generated\csv\StrStr.csv,en,Turn,순: 
+src\generated\csv\StrStr.csv,en,Turn,순:
 src\generated\csv\StrStr.csv,en,Wall,패산
 src\generated\csv\StrStr.csv,en,Repeat Counter,연장
+src\generated\csv\StrStr.csv,en,Ranked Match,단위전
+src\generated\csv\StrStr.csv,en,Recent High Score,최근 고득점
+src\generated\csv\StrStr.csv,en,Confirm,확인
+src\generated\csv\StrStr.csv,en,Trends,트렌드
+src\generated\csv\StrStr.csv,en,Detailed Info,상세 정보
+src\generated\csv\StrStr.csv,en,East Round,동풍전
+src\generated\csv\StrStr.csv,en,1st,1위
+src\generated\csv\StrStr.csv,en,2nd,2위
+src\generated\csv\StrStr.csv,en,3rd,3위
+src\generated\csv\StrStr.csv,en,4th,4위
+src\generated\csv\StrStr.csv,en,Negative,들통
+src\generated\csv\StrStr.csv,en,Total Played,총 플레이 수
+src\generated\csv\StrStr.csv,en,Avg Score,평균 점수
+src\generated\csv\StrStr.csv,en,Avg Rank,평균 순위
+src\generated\csv\StrStr.csv,en,Max Repeats,최대 연장
+src\generated\csv\StrStr.csv,en,Win Rate,승률
+src\generated\csv\StrStr.csv,en,Tsumo Rate,쯔모 비율
+src\generated\csv\StrStr.csv,en,Deal-in Rate,방총율
+src\generated\csv\StrStr.csv,en,Call Rate,울기 비율
+src\generated\csv\StrStr.csv,en,Riichi Rate,리치 비율
+src\generated\csv\StrStr.csv,en,South Round,반장전
+src\generated\csv\StrStr.csv,en,Yaku Achieved,달성한 역
+src\generated\csv\StrStr.csv,en,Quest,퀘스트
+src\generated\csv\StrStr.csv,en,Settings,설정
+src\generated\csv\StrStr.csv,en,BGM,배경음
+src\generated\csv\StrStr.csv,en,Mute,음소거
+src\generated\csv\StrStr.csv,en,SE,효과음
+src\generated\csv\StrStr.csv,en,Voice,음성
+src\generated\csv\StrStr.csv,en,Audio,오디오
+src\generated\csv\StrStr.csv,en,Preference,환경설정
+src\generated\csv\StrStr.csv,en,Single tap,한번 터치
+src\generated\csv\StrStr.csv,en,Double tap,두번 터치
+src\generated\csv\StrStr.csv,en,Message,메시지
+src\generated\csv\StrStr.csv,en,Anybody,누구나
+src\generated\csv\StrStr.csv,en,Friends only,친구만
+src\generated\csv\StrStr.csv,en,Forbid all,모두 금지
+src\generated\csv\StrStr.csv,en,Others,기타
+src\generated\csv\StrStr.csv,en,High FPS mode,고사양 모드
+src\generated\csv\StrStr.csv,en,Power saving mode,저사양 모드
+src\generated\csv\StrStr.csv,en,Restart Now,지금 재시작
+src\generated\csv\StrStr.csv,en,Authentication,인증
+src\generated\csv\StrStr.csv,en,Gift Code,기프트 코드
+src\generated\csv\StrStr.csv,en,Tutorials,튜토리얼
+src\generated\csv\StrStr.csv,en,View Yaku,역 보기
+src\generated\csv\StrStr.csv,en,Log Out,로그아웃
+src\generated\csv\StrStr.csv,en,Tap to close,탭하여 닫기
+src\generated\csv\StrStr.csv,en,Added to titles,타이틀에 추가됨
+src\generated\csv\StrStr.csv,en,Enter a Gift Code to claim rewards,보상을 받기 위해 기프트 코드 입력
+src\generated\csv\StrStr.csv,en,Mute this for 5m,5분 동안 음소거
+src\generated\csv\StrStr.csv,en,Join,참가
+src\generated\csv\StrStr.csv,en,Invites you to join,게임 초대
+src\generated\csv\StrStr.csv,en,Auto-cancel after 3 minutes,3분 뒤 자동 취소
+src\generated\csv\StrStr.csv,en,Add,추가
+src\generated\csv\StrStr.csv,en,Enter number,번호 입력
+src\generated\csv\StrStr.csv,en,No Red Five,적도라 없음
+src\generated\csv\StrStr.csv,en,3 Red Five,적도라 3개
+src\generated\csv\StrStr.csv,en,4 Red Five,적도라 4개
+src\generated\csv\StrStr.csv,en,2 Red Five,적도라 2개
+src\generated\csv\StrStr.csv,en,Just now,지금
+src\generated\csv\StrStr.csv,en,minutes,분
+src\generated\csv\StrStr.csv,en,hours,시간
+src\generated\csv\StrStr.csv,en,days,일
+src\generated\csv\StrStr.csv,en,weeks,주
+src\generated\csv\StrStr.csv,en,months,개월
+src\generated\csv\StrStr.csv,en,Second,초
+src\generated\csv\StrStr.csv,en,Minute,분
+src\generated\csv\StrStr.csv,en,Hour,시
+src\generated\csv\StrStr.csv,en,Day,일
+src\generated\csv\StrStr.csv,en,AI(Easy),AI(쉬움)
+src\generated\csv\StrStr.csv,en,AI(Normal),AI(보통)
+src\generated\csv\StrStr.csv,en,Friendly Match,친선전
+src\generated\csv\StrStr.csv,en,4-Player (1 Game),4인 (단판)
+src\generated\csv\StrStr.csv,en,4-Player East,4인 동풍전
+src\generated\csv\StrStr.csv,en,4-Player South,4인 반장전
+src\generated\csv\StrStr.csv,en,4-Player (vs AI),4인 (vs AI)
+src\generated\csv\StrStr.csv,en,3-Player (1 Game),3인 (단판)
+src\generated\csv\StrStr.csv,en,3-Player East,3인 동풍전
+src\generated\csv\StrStr.csv,en,3-Player South,3인 반장전
+src\generated\csv\StrStr.csv,en,3-Player (vs AI),3인 (vs AI)
+src\generated\csv\StrStr.csv,en,Current version,현재 버전
+src\generated\csv\StrStr.csv,en,Join Room #,참가: Room #
+src\generated\csv\StrStr.csv,en,Mode,모드
+src\generated\csv\StrStr.csv,en,Thinking Time,턴 시간 제한
+src\generated\csv\StrStr.csv,en,Number of Red Five,적도라 수
+src\generated\csv\StrStr.csv,en,Open Tanyao,쿠이탕
+src\generated\csv\StrStr.csv,en,No,아니오
+src\generated\csv\StrStr.csv,en,Yes,예
+src\generated\csv\StrStr.csv,en,Starting Points,시작 점수
+src\generated\csv\StrStr.csv,en,Minimum Points to Win,최소 승리 점수
+src\generated\csv\StrStr.csv,en,Negative Points,들통 점수
+src\generated\csv\StrStr.csv,en,Upper Limit,상한
+src\generated\csv\StrStr.csv,en,Riichi Points,리치 점수
+src\generated\csv\StrStr.csv,en,Repeat Counter Points,연장 점수
+src\generated\csv\StrStr.csv,en,No-Tenpai Penalty,노텐 패널티
+src\generated\csv\StrStr.csv,en,Game Tips,게임 팁
+src\generated\csv\StrStr.csv,en,Enable,활성화
+src\generated\csv\StrStr.csv,en,Disable,비활성화
+src\generated\csv\StrStr.csv,en,Finding opponents,상대방을 찾는 중
+src\generated\csv\StrStr.csv,en,Starting soon,잠시 후 시작
+src\generated\csv\GameLiveSelectFilters.csv,name1_en,Friends Room,친선전
+src\generated\csv\GameLiveSelectFilters.csv,name2_en,4-Player East,4인 동풍전
+src\generated\csv\GameLiveSelectFilters.csv,name2_en,4-Player South,4인 반장전
+src\generated\csv\GameLiveSelectFilters.csv,name1_en,Bronze Room,동탁
+src\generated\csv\GameLiveSelectFilters.csv,name2_en,Best of One Game,최고의 한게임
+src\generated\csv\GameLiveSelectFilters.csv,name1_en,Silver Room,은탁
+src\generated\csv\GameLiveSelectFilters.csv,name1_en,Gold Room,금탁
+src\generated\csv\GameLiveSelectFilters.csv,name1_en,Jade Room,옥탁
+src\generated\csv\GameLiveSelectFilters.csv,name1_en,Melee Room,Melee Room
+src\generated\csv\GameLiveSelectFilters.csv,name1_en,Throne Room,왕좌탁
+src\generated\csv\GameLiveSelectFilters.csv,name2_en,3-Player East,3인 동풍전
+src\generated\csv\GameLiveSelectFilters.csv,name2_en,3-Player South,3인 반장전
+src\generated\csv\DesktopMatchmode.csv,room_name_en,Bronze Room,동탁
+src\generated\csv\DesktopMatchmode.csv,room_name_en,Silver Room,은탁
+src\generated\csv\DesktopMatchmode.csv,room_name_en,Gold Room,금탁
+src\generated\csv\DesktopMatchmode.csv,room_name_en,Jade Room,옥탁
+src\generated\csv\DesktopMatchmode.csv,room_name_en,Melee Room,Melee Room
+src\generated\csv\DesktopMatchmode.csv,room_name_en,Throne Room,왕좌탁
+src\generated\csv\DesktopMatchmode.csv,room_name_en,Casual Match,캐주얼
+src\generated\csv\DesktopMatchmode.csv,room_name_en,DoraDorara,도라도라라
+src\generated\csv\DesktopMatchmode.csv,room_name_en,Open Hand Match,Open Hand Match
+src\generated\csv\DesktopMatchmode.csv,room_name_en,Chaotic Wall Break,Chaotic Wall Break

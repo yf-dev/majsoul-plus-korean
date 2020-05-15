@@ -1,7 +1,9 @@
 #! /usr/bin/python
 import csv
+from google.protobuf.descriptor import FieldDescriptor
 from pathlib import Path
 from generated import config_pb2, sheets_pb2
+import json
 
 config_table = config_pb2.ConfigTables()
 with open("./dev-resources/assets-latest/res/config/lqc.lqbin", "rb") as lqc:
@@ -26,7 +28,10 @@ for data in config_table.datas:
             row = []
             for x in getattr(sheets_pb2, class_name)().DESCRIPTOR.fields:
                 if hasattr(field, x.name):
-                    row.append(getattr(field, x.name))
+                    v = getattr(field, x.name)
+                    if x.label == FieldDescriptor.LABEL_REPEATED:
+                        v = json.dumps(list(v))
+                    row.append(v)
                 else:
                     row.append(None)
             csv_writer.writerow(row)

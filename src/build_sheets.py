@@ -3,6 +3,7 @@ import csv
 from google.protobuf.descriptor import FieldDescriptor
 from pathlib import Path
 from generated import config_pb2, sheets_pb2
+import json
 
 target_csvs = []
 
@@ -51,24 +52,28 @@ for data_index in range(len(config_table.datas)):
             field = getattr(sheets_pb2, class_name)()
             for i, col in enumerate(header):
                 value = row[i]
-                field_type = field.DESCRIPTOR.fields_by_name[col].type
-                if field_type in [
-                    FieldDescriptor.TYPE_INT32,
-                    FieldDescriptor.TYPE_INT64,
-                    FieldDescriptor.TYPE_SINT32,
-                    FieldDescriptor.TYPE_SINT64,
-                    FieldDescriptor.TYPE_UINT32,
-                    FieldDescriptor.TYPE_UINT64,
-                    ]:
-                    value = int(value)
-                elif field_type in [
-                    FieldDescriptor.TYPE_DOUBLE,
-                    FieldDescriptor.TYPE_FIXED32,
-                    FieldDescriptor.TYPE_FIXED64,
-                    FieldDescriptor.TYPE_FLOAT,
-                    ]:
-                    value = float(value)
-                setattr(field, col, value)
+                fd = field.DESCRIPTOR.fields_by_name[col]
+                if fd.label == FieldDescriptor.LABEL_REPEATED:
+                    getattr(field, col).extend(json.loads(value))
+                else:
+                    field_type = fd.type
+                    if field_type in [
+                        FieldDescriptor.TYPE_INT32,
+                        FieldDescriptor.TYPE_INT64,
+                        FieldDescriptor.TYPE_SINT32,
+                        FieldDescriptor.TYPE_SINT64,
+                        FieldDescriptor.TYPE_UINT32,
+                        FieldDescriptor.TYPE_UINT64,
+                        ]:
+                        value = int(value)
+                    elif field_type in [
+                        FieldDescriptor.TYPE_DOUBLE,
+                        FieldDescriptor.TYPE_FIXED32,
+                        FieldDescriptor.TYPE_FIXED64,
+                        FieldDescriptor.TYPE_FLOAT,
+                        ]:
+                        value = float(value)
+                    setattr(field, col, value)
             data.data.append(field.SerializeToString())
 
 with open("./assets/res/config/lqc.lqbin", "wb") as lqc:
