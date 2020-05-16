@@ -1,7 +1,7 @@
 작혼 Plus: 한국어 리소스 팩
 ========================
 
-![미리보기 이미지](/screenshot.png)
+![리소스 팩 썸네일](/assets/en/extendRes/emo/e200005/4.png)
 
 작혼 Plus: 한국어 리소스 팩은 [작혼 Plus](https://github.com/MajsoulPlus/majsoul-plus)에서 사용할 수 있는 리소스 팩으로, 다양한 요소를 한국어로 표시합니다.
 
@@ -28,6 +28,16 @@
 7. 나타난 한국어 리소스 팩을 활성화합니다.
 
 ### 3. 리소스 미리보기
+
+#### 3.1. 스크린샷
+
+![스크린샷 1](/screenshots/1.png)
+![스크린샷 2](/screenshots/2.png)
+![스크린샷 3](/screenshots/3.png)
+![스크린샷 4](/screenshots/4.png)
+![스크린샷 5](/screenshots/5.png)
+
+#### 3.2. 이모지
 
 ![](/assets/en/extendRes/emo/e200001/1.png)
 ![](/assets/en/extendRes/emo/e200001/4.png)
