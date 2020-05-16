@@ -199,12 +199,12 @@ src\generated\csv\FanFan.csv,name_en,Bamboo Forest,대죽림
 src\generated\csv\FanFan.csv,name_en,Numerous Neighbours,대수린
 src\generated\csv\FanFan.csv,name_en,Ishinouenimosannen,돌 위에서 삼년
 src\generated\csv\FanFan.csv,name_en,Big Seven Stars,대칠성
-src\generated\csv\StrStr.csv,en,Deal-in is not the end; All Last is only the beginning!,"한번 쏘였다고 게임이 끝난 것은 아니고, 오라스는 시작일 뿐입니다!"
-src\generated\csv\StrStr.csv,en,"No matter how big your hand is, a Tanyao will end it all.","내 손패가 아무리 강해도, 탕야오가 모든 것을 끝낼 것입니다."
+src\generated\csv\StrStr.csv,en,Deal-in is not the end; All Last is only the beginning!,"쏘였다고 경기에서 패배한 것은 아니며, 오라스는 또다른 시작일 뿐입니다!"
+src\generated\csv\StrStr.csv,en,"No matter how big your hand is, a Tanyao will end it all.","내 손패가 아무리 강해도, 탕야오 한번에 끝날 수 있습니다."
 src\generated\csv\StrStr.csv,en,"You must have Yaku to declare a win. Before you make a call (Chii/Pon/Kan), make sure you check if you have Yaku.",화료하기 위해서는 역이 필요합니다. 울기(치/펑/깡) 전에 역이 있는지 꼭 확인하세요.
 src\generated\csv\StrStr.csv,en,Go to settings menu to view all types of Yaku,설정 메뉴에서 모든 역을 확인할 수 있습니다.
-src\generated\csv\StrStr.csv,en,"In settings, you can choose to play a tile with single or double click",설정에서 클릭 또는 더블 클릭으로 타패하도록 변경할 수 있습니다.
-src\generated\csv\StrStr.csv,en,Players who use IE or Opera browsers may encounter lag issues. We recommend Chrome，FireFox or Edge browsers.,"인터넷 익스플로러 또는 오페라 브라우저에서는 게임이 원할하게 구동되지 않을 수 있습니다. 크롬, 파이어폭스, 엣지 브라우저를 추천합니다."
+src\generated\csv\StrStr.csv,en,"In settings, you can choose to play a tile with single or double click",설정에서 한번 터치 또는 두번 터치로 타패하도록 변경할 수 있습니다.
+src\generated\csv\StrStr.csv,en,Players who use IE or Opera browsers may encounter lag issues. We recommend Chrome，FireFox or Edge browsers.,"인터넷 익스플로러 또는 오페라 브라우저에서는 게임이 원할하게 구동되지 않을 수 있습니다. 크롬, 파이어폭스, 엣지 브라우저를 사용하는 것을 추천합니다."
 src\generated\csv\StrStr.csv,en,Mangan at Draw,유국만관
 src\generated\csv\StrStr.csv,en,Four-Wind Discarded,사풍연타
 src\generated\csv\StrStr.csv,en,Four-kan Abortion,사깡유국
@@ -349,7 +349,8 @@ src\generated\csv\StrStr.csv,en,Game Tips,게임 팁
 src\generated\csv\StrStr.csv,en,Enable,활성화
 src\generated\csv\StrStr.csv,en,Disable,비활성화
 src\generated\csv\StrStr.csv,en,Finding opponents,상대방을 찾는 중
-src\generated\csv\StrStr.csv,en,Starting soon,잠시 후 시작
+src\generated\csv\StrStr.csv,en,Starting soon,"잠시 후 시작: "
+src\generated\csv\StrStr.csv,en,Ranked,단위전
 src\generated\csv\GameLiveSelectFilters.csv,name1_en,Friends Room,친선전
 src\generated\csv\GameLiveSelectFilters.csv,name2_en,4-Player East,4인 동풍전
 src\generated\csv\GameLiveSelectFilters.csv,name2_en,4-Player South,4인 반장전
