@@ -1,8 +1,9 @@
 #! /usr/bin/python
 import csv
+import json
 from pathlib import Path
 
-chars = set()
+chars = set(chr(x) for x in range(32, 127))
 
 for csv_path in Path("./src/generated/csv").glob('*.csv'):
     with open(csv_path, 'r', encoding='utf-8') as csvfile:
@@ -26,6 +27,22 @@ for csv_path in Path("./src/generated/csv").glob('*.csv'):
                 for char in text:
                     if char not in chars:
                         chars.add(char)
+
+def parse_node(node, path):
+    if 'text' in node['props']:
+        text = node['props']['text']
+        if text:
+            for char in text:
+                if char not in chars:
+                    chars.add(char)
+    if 'child' in node:
+        for i, child in enumerate(node['child']):
+            parse_node(child, f'{path}|{i}')
+
+with open('./assets/uiconfig/ui_en.json', 'r', encoding='utf-8') as jsonfile:
+    ui_en = json.load(jsonfile)
+    for node_key in ui_en:
+        parse_node(ui_en[node_key], node_key)
 
 sorted_chars = sorted(chars)
 with open("./src/generated/chars.txt", 'w', encoding='utf-8') as charsfile:
