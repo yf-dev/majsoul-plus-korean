@@ -1,5 +1,5 @@
 pushd .
-cd %~dp0..\..
+cd %~dp0..
 setlocal
 if not defined MAJSOUL_LANG (
   set MAJSOUL_LANG=en

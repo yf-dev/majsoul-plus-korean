@@ -173,9 +173,9 @@ script\dev\build_src.bat
 
 ```
 rmdir .\dev-resources\assets-latest /s /q
-cmd /C "set MAJSOUL_LANG=jp&&.\script\dev\merge_assets.bat"
-cmd /C "set MAJSOUL_LANG=jp&&.\script\dev\export_lqc.bat"
-cmd /C "set MAJSOUL_LANG=jp&&.\script\dev\generate_translation.bat"
+cmd /C "set MAJSOUL_LANG=jp&&.\script\merge_assets.bat"
+cmd /C "set MAJSOUL_LANG=jp&&.\script\export_lqc.bat"
+cmd /C "set MAJSOUL_LANG=jp&&.\script\generate_translation.bat"
 ```
 
 그 다음 아래 경로의 파일을 복사해 파일명을 변경하여 붙여넣어 주세요.  
@@ -192,7 +192,7 @@ cmd /C "set MAJSOUL_LANG=jp&&.\script\dev\generate_translation.bat"
 작업이 완료되었으면, 아까와 동일하게 본 리소스팩이 있는 폴더에서 명령 프롬프트(powershell 아님)를 실행한 후 다음 명령어를 입력합니다.
 
 ```
-cmd /C "set MAJSOUL_LANG=jp&&.\script\dev\update_translation.bat"
+cmd /C "set MAJSOUL_LANG=jp&&.\script\update_translation.bat"
 ```
 
 이후 `resourcepack-jp.json` 파일의 텍스트를 복사하여 `resourcepack.json` 파일에 덮어씌웁니다.
