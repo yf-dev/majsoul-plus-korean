@@ -2,3 +2,5 @@ dev-resources/
 src/generated/*
 !src/generated/__init__.py
 .vscode/
+build/
+*.spec

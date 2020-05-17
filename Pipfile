@@ -5,6 +5,8 @@ verify_ssl = true
 
 [dev-packages]
 ipdb = "*"
+pyinstaller = "*"
+pywin32 = "*"
 
 [packages]
 protobuf = "*"

@@ -1,4 +1,4 @@
 pushd .
 cd %~dp0..
-pipenv run python src\merge_assets.py
+bin\merge_assets.exe
 popd
