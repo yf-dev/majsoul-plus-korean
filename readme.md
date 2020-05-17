@@ -55,3 +55,8 @@
 ### License
 
 MIT
+
+또한, 이 프로젝트는 다음의 제3자 소프트웨어의 바이너리를 포함하고 있습니다.
+
+- [fontbm](https://github.com/vladimirgamalyan/fontbm) - BMFont compatible, cross-platform command line bitmap font generator
+- [Protocol Buffers](https://github.com/protocolbuffers/protobuf) - Google's data interchange format
