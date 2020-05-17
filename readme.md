@@ -149,6 +149,14 @@ script\dev\update_translation.bat
 script\dev\update_font.bat
 ```
 
+#### 사전 빌드 바이너리 갱신
+
+`src` 폴더 내의 파이썬 파일을 수정했을 경우, 사전 빌드 바이너리를 갱신해야 합니다.
+
+```
+script\dev\build_src.bat
+```
+
 
 ### License
 
