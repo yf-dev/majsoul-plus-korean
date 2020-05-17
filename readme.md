@@ -83,18 +83,18 @@
 
 단순히 리소스 팩을 사용하시려면 `2. 적용방법` 항목을 읽어주세요.
 
-#### 요구사양
+#### 5.1. 요구사양
 
 - Python 3.7 이상
 - [Pipenv](https://github.com/pypa/pipenv)
 
-#### 라이브러리 다운로드
+#### 5.2. 라이브러리 다운로드
 
 ```
 pipenv install --dev
 ```
 
-#### 원본 Asset 병합
+#### 5.3. 원본 Asset 병합
 
 ```
 script\dev\merge_assets.bat
@@ -102,7 +102,7 @@ script\dev\merge_assets.bat
 
 병합된 Asset은 `dev-resources\assets-latest`에 저장됩니다.
 
-#### lqc.lqbin 파일에서 Sheet 추출
+#### 5.4. lqc.lqbin 파일에서 Sheet 추출
 
 ```
 script\dev\export_lqc.bat
@@ -110,11 +110,10 @@ script\dev\export_lqc.bat
 
 추출된 Sheet는 `src\generated\csv`에 저장됩니다.
 
-#### 번역 템플릿 생성
+#### 5.5. 번역 템플릿 생성
 
 ```
-pipenv run python src\generate_translation_sheet.py
-pipenv run python src\generate_translation_json.py
+script\dev\generate_translation.bat
 ```
 
 생성된 템플릿은 다음 경로에 저장됩니다.
@@ -122,7 +121,7 @@ pipenv run python src\generate_translation_json.py
 - `src\generated\translate_sheet_template.csv`
 - `src\generated\translate_json_template.csv`
 
-#### 번역 작업 진행
+#### 5.6. 번역 작업 진행
 
 먼저 템플릿 파일을 복사하여 번역용 파일 경로에 붙여넣습니다.
 
@@ -138,13 +137,13 @@ pipenv run python src\generate_translation_json.py
 
 **새로운 리소스를 번역했다면, `resourcepack.json` 파일에 해당 리소스의 경로를 추가하는 것을 잊지 마세요!**
 
-#### 번역 적용
+#### 5.7. 번역 적용
 
 ```
 script\dev\update_translation.bat
 ```
 
-#### 폰트 갱신
+#### 5.8. 폰트 갱신
 
 폰트 갱신 작업은 번역 적용(`update_translation.bat`) 과정에 포함되어 있으므로, 번역만을 갱신하기 위해 별도로 실행할 필요는 없습니다.
 
@@ -154,7 +153,7 @@ script\dev\update_translation.bat
 script\dev\update_font.bat
 ```
 
-#### 사전 빌드 바이너리 갱신
+#### 5.9. 사전 빌드 바이너리 갱신
 
 `src` 폴더 내의 파이썬 파일을 수정했을 경우, 사전 빌드 바이너리를 갱신해야 합니다.
 
@@ -163,11 +162,58 @@ script\dev\build_src.bat
 ```
 
 
+### 6. 일본 서버용 작업
+
+:warning: 일본 서버용 한국어 번역 리소스는 이 프로젝트에서 현재 제공되지 않습니다. :warning:
+
+이하의 내용은 일본 서버에서 한국어 리소스 팩을 만들어 적용하는 방법에 대해서 설명합니다.  
+(어느 정도 프로그래밍에 대한 지식이 필요할 수 있습니다)
+
+먼저 본 리소스팩이 있는 폴더에서 명령 프롬프트(powershell 아님)를 실행한 후 다음 명령어를 입력합니다.
+
+```
+rmdir .\dev-resources\assets-latest /s /q
+cmd /C "set MAJSOUL_LANG=jp&&.\script\dev\merge_assets.bat"
+cmd /C "set MAJSOUL_LANG=jp&&.\script\dev\export_lqc.bat"
+cmd /C "set MAJSOUL_LANG=jp&&.\script\dev\generate_translation.bat"
+```
+
+그 다음 아래 경로의 파일을 복사해 파일명을 변경하여 붙여넣어 주세요.  
+(이미 존재하는 파일은 글로벌 서버용이므로 덮어씌워야 합니다)
+
+- `src\generated\translate_sheet_template.csv` => `src\translate_sheet.csv`
+- `src\generated\translate_json_template.csv` => `src\translate_json.csv`
+
+복사한 파일을 열어 필요없는 문장(단순 공백, 숫자, 번역하지 않을 문장 등)을 삭제한 후, 적절히 번역하여 저장합니다.
+
+실제 문자열로 저장되어있지 않은 리소스(이미지 등)는 직접 `dev-resources\assets-latest`에서 복사하여 `assets` 폴더에 경로를 잘 지정하여 붙여넣고 직접 수정합니다.
+추후 리소스 수정이 용이하도록 가능하면 작업파일(`.psd` 등)을 같이 보관해주세요.
+
+작업이 완료되었으면, 아까와 동일하게 본 리소스팩이 있는 폴더에서 명령 프롬프트(powershell 아님)를 실행한 후 다음 명령어를 입력합니다.
+
+```
+cmd /C "set MAJSOUL_LANG=jp&&.\script\dev\update_translation.bat"
+```
+
+이후 `resourcepack-jp.json` 파일의 텍스트를 복사하여 `resourcepack.json` 파일에 덮어씌웁니다.
+
+만약 별도로 번역한 리소스(이미지 등)이 있다면, 적절히 `resourcepack.json` 파일에 추가합니다.
+
+이제 작혼 Plus에서 정상적으로 적용이 되었는지 확인하면 작업이 완료됩니다.
+
+(만약, 한글은 출력되지만 한자가 표시되지 않는다면 폰트가 정상적으로 변환되지 않았을 가능성이 높습니다.
+이 프로젝트는 배치 스크립트에 대하여 적절한 오류처리를 수행하지 않았으므로, 실제 실행 결과가 명령 프롬프트에 출력되는 것을 확인하면서 오류가 발생한 부분을 찾아야 합니다.)
+
+
 ### License
 
 MIT
 
-또한, 이 프로젝트는 다음의 제3자 소프트웨어의 바이너리를 포함하고 있습니다.
+또한, 이 프로젝트는 다음의 제3자 소프트웨어 및 폰트의 바이너리를 포함하고 있습니다.
 
 - [fontbm](https://github.com/vladimirgamalyan/fontbm) - BMFont compatible, cross-platform command line bitmap font generator
 - [Protocol Buffers](https://github.com/protocolbuffers/protobuf) - Google's data interchange format
+- [Noto Sans (CJK)](https://www.google.com/get/noto/)
+- [배달의민족 을지로체](https://www.woowahan.com/#/fonts)
+- [산돌국대떡볶이체](http://kukde.co.kr/?page_id=627)
+- [정묵 바위체](https://sangsangfont.com/21/?idx=122)

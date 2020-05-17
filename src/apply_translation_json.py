@@ -1,7 +1,8 @@
 #! /usr/bin/python
 import csv
 import json
-
+import os
+lang = os.getenv('MAJSOUL_LANG', 'en') 
 
 def get_node(root, path_list):
     p = list(path_list)
@@ -23,7 +24,7 @@ def update_value(root, path_list, value):
     root[p[0]] = node
 
 ui_en = None
-with open('./dev-resources/assets-latest/uiconfig/ui_en.json', 'r', encoding='utf-8') as jsonfile:
+with open(f'./dev-resources/assets-latest/uiconfig/ui_{lang}.json', 'r', encoding='utf-8') as jsonfile:
     ui_en = json.load(jsonfile)
 
 with open(f'./src/translate_json.csv', 'r', encoding='utf-8') as csvfile:
@@ -50,5 +51,5 @@ with open(f'./src/translate_json.csv', 'r', encoding='utf-8') as csvfile:
         
         update_value(ui_en, path.split('|'), translated)
 
-with open('./assets/uiconfig/ui_en.json', 'w', encoding='utf-8') as jsonfile:
+with open(f'./assets/uiconfig/ui_{lang}.json', 'w', encoding='utf-8') as jsonfile:
     json.dump(ui_en, jsonfile, separators=(',', ':'), ensure_ascii=False)

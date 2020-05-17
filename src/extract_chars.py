@@ -2,6 +2,8 @@
 import csv
 import json
 from pathlib import Path
+import os
+lang = os.getenv('MAJSOUL_LANG', 'en')
 
 chars = set(chr(x) for x in range(32, 127))
 
@@ -15,7 +17,7 @@ for csv_path in Path("./src/generated/csv").glob('*.csv'):
             if is_header:
                 header = row
                 for i, col in enumerate(header):
-                    if col == 'en' or col.endswith('_en'):
+                    if col == lang or col.endswith(f'_{lang}'):
                         header_text.append(i)
                 if not header_text:
                     break
@@ -39,7 +41,7 @@ def parse_node(node, path):
         for i, child in enumerate(node['child']):
             parse_node(child, f'{path}|{i}')
 
-with open('./assets/uiconfig/ui_en.json', 'r', encoding='utf-8') as jsonfile:
+with open(f'./assets/uiconfig/ui_{lang}.json', 'r', encoding='utf-8') as jsonfile:
     ui_en = json.load(jsonfile)
     for node_key in ui_en:
         parse_node(ui_en[node_key], node_key)

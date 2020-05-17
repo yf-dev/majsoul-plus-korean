@@ -3,8 +3,15 @@ import os
 import shutil
 from distutils.dir_util import copy_tree
 from pathlib import Path
+import os
+lang = os.getenv('MAJSOUL_LANG', 'en')
 
-ASSET_PATH = '../../static/2'
+lang_map = {
+    'en': 2,
+    'jp': 1,
+}
+
+ASSET_PATH = f'../../static/{lang_map[lang]}'
 TARGET = './dev-resources/assets-latest'
 
 def order_version(a):

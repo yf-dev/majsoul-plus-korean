@@ -4,6 +4,8 @@ from google.protobuf.descriptor import FieldDescriptor
 from pathlib import Path
 from generated import config_pb2, sheets_pb2
 import json
+import os
+lang = os.getenv('MAJSOUL_LANG', 'en') 
 
 target_csvs = []
 

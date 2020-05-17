@@ -1,5 +1,7 @@
 #! /usr/bin/python
 from generated import config_pb2
+import os
+lang = os.getenv('MAJSOUL_LANG', 'en')
 
 config_table = config_pb2.ConfigTables()
 with open("./dev-resources/assets-latest/res/config/lqc.lqbin", "rb") as lqc:

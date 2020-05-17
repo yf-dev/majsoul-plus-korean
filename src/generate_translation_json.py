@@ -2,6 +2,8 @@
 import json
 import csv
 from pathlib import Path
+import os
+lang = os.getenv('MAJSOUL_LANG', 'en')
 
 translate_json_rows = []
 
@@ -14,7 +16,7 @@ def parse_node(node, path):
         for i, child in enumerate(node['child']):
             parse_node(child, f'{path}|{i}')
 
-with open('./dev-resources/assets-latest/uiconfig/ui_en.json', 'r', encoding='utf-8') as jsonfile:
+with open(f'./dev-resources/assets-latest/uiconfig/ui_{lang}.json', 'r', encoding='utf-8') as jsonfile:
     ui_en = json.load(jsonfile)
     for node_key in ui_en:
         parse_node(ui_en[node_key], node_key)

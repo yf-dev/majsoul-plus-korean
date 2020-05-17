@@ -1,6 +1,8 @@
 #! /usr/bin/python
 import csv
 from pathlib import Path
+import os
+lang = os.getenv('MAJSOUL_LANG', 'en')
 
 translate_sheet_rows = []
 
@@ -14,7 +16,7 @@ for csv_path in Path("./src/generated/csv").glob('*.csv'):
             if is_header:
                 header = row
                 for i, col in enumerate(header):
-                    if col == 'en' or col.endswith('_en'):
+                    if col == lang or col.endswith(f'_{lang}'):
                         header_to_translate.append(i)
                 if not header_to_translate:
                     break

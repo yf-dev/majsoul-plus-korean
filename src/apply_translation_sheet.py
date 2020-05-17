@@ -1,5 +1,7 @@
 #! /usr/bin/python
 import csv
+import os
+lang = os.getenv('MAJSOUL_LANG', 'en') 
 
 with open(f'./src/translate_sheet.csv', 'r', encoding='utf-8') as csvfile:
     csv_reader = csv.reader(csvfile)
