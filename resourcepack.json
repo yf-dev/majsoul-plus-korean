@@ -28,9 +28,13 @@
     "uiconfig/ui_en.json",
     "res/atlas/bitmapfont/en.atlas",
     "res/atlas/bitmapfont/en.png",
+    "res/atlas/en/myres.atlas",
+    "res/atlas/en/myres.png",
+    "res/atlas/en/myres1.png",
+    "res/atlas/en/myres2.png",
+    "res/atlas/en/myres/mjdesktop.atlas",
+    "res/atlas/en/myres/mjdesktop.png",
     "res/atlas/en/myres/mjdesktop1.png",
-    "res/atlas/en/myres/mjdesktop2.png",
-    "res/atlas/en/myres/mjdesktop3.png",
-    "res/atlas/en/myres3.png"
+    "res/atlas/en/myres/mjdesktop2.png"
   ]
 }
