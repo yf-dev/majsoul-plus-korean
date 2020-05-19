@@ -14,5 +14,7 @@ pipenv run pyinstaller --distpath .\bin --workpath .\build\generate_sheet_proto 
 pipenv run pyinstaller --distpath .\bin --workpath .\build\generate_translation_json --onefile src\generate_translation_json.py
 pipenv run pyinstaller --distpath .\bin --workpath .\build\generate_translation_sheet --onefile src\generate_translation_sheet.py
 pipenv run pyinstaller --distpath .\bin --workpath .\build\merge_assets --onefile src\merge_assets.py
+pipenv run pyinstaller --distpath .\bin --workpath .\build\unpack_atlas --onefile src\unpack_atlas.py
+pipenv run pyinstaller --distpath .\bin --workpath .\build\pack_atlas --onefile src\pack_atlas.py
 endlocal
 popd
