@@ -87,10 +87,14 @@ for image_path in image_paths:
 
     x_offset = 0
     y_offset = 0
-    m = re.search(r'(\[([+-]?\d+),\s*([+-]?\d+)\])\.png$', image_path.name)
+    w_offset = 0
+    h_offset = 0
+    m = re.search(r'(\[([+-]?\d+),\s*([+-]?\d+),\s*([+-]?\d+),\s*([+-]?\d+)\])\.png$', image_path.name)
     if m:
         x_offset = int(m.group(2))
         y_offset = int(m.group(3))
+        w_offset = int(m.group(4))
+        h_offset = int(m.group(5))
         image_path = image_path.parent / image_path.name.replace(m.group(1), '')
     
     images.append({
@@ -101,8 +105,8 @@ for image_path in image_paths:
             "w": cropped_width,
         },
         "sourceSize": {
-            "h": height,
-            "w": width
+            "h": height + h_offset,
+            "w": width + w_offset
         },
         "spriteSourceSize": {
             "x": left + x_offset,
