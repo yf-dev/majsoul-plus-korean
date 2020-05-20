@@ -110,7 +110,7 @@ script\dev\export_lqc.bat
 
 추출된 Sheet는 `src\generated\csv`에 저장됩니다.
 
-#### 5.5. 번역 템플릿 생성
+#### 5.5. 문장 번역 템플릿 생성
 
 ```
 script\dev\generate_translation.bat
@@ -121,7 +121,7 @@ script\dev\generate_translation.bat
 - `src\generated\translate_sheet_template.csv`
 - `src\generated\translate_json_template.csv`
 
-#### 5.6. 번역 작업 진행
+#### 5.6. 문장 번역 작업 진행
 
 먼저 템플릿 파일을 복사하여 번역용 파일 경로에 붙여넣습니다.
 
@@ -132,18 +132,69 @@ script\dev\generate_translation.bat
 
 복사한 파일을 열어 필요없는 문장(단순 공백, 숫자, 번역하지 않을 문장 등)을 삭제한 후, 적절히 번역하여 저장합니다.
 
+#### 5.7. 이미지 리소스 번역
+
 실제 문자열로 저장되어있지 않은 리소스(이미지 등)는 직접 `dev-resources\assets-latest`에서 복사하여 `assets` 폴더에 경로를 잘 지정하여 붙여넣고 직접 수정합니다.
 추후 리소스 수정이 용이하도록 가능하면 작업파일(`.psd` 등)을 같이 보관해주세요.
 
 **새로운 리소스를 번역했다면, `resourcepack.json` 파일에 해당 리소스의 경로를 추가하는 것을 잊지 마세요!**
 
-#### 5.7. 번역 적용
+#### 5.8. 텍스처 아틀라스 번역
+
+리소스 중 파일명이 `.atlas`로 끝나는 파일은 텍스처 아틀라스의 구조 정보를 기록하고 있는 파일입니다.
+
+이 정보를 통해 텍스처 아틀라스의 각 이미지를 분리하고 다시 병합할 수 있습니다.
+
+#### 5.8.1. 텍스처 아틀라스 분해 
+
+먼저, 텍스처 아틀라스를 분해하려면 다음과 같은 명령어를 사용합니다.
+
+(텍스처 아틀라스 파일의 경로가 `.\dev-resources\assets-latest\res\atlas\en\myres.atlas` 일 경우,)
+
+```
+pipenv run python .\src\unpack_atlas.py .\dev-resources\assets-latest\res\atlas\en\myres.atlas
+```
+
+위 예시와 같이 명령어를 사용하면 `.\dev-resources\assets-latest\res\atlas\en\myres.atlas_unpack` 폴더가 생성되고, 해당 폴더 안에 각 텍스처 이미지가 저장됩니다.
+
+#### 5.8.2. 텍스처 아틀라스 생성 
+
+이제 분해된 텍스처 이미지를 수정하고 다시 패킹하기 위해서는 다음과 같은 명령어를 입력하시면 됩니다.
+
+```
+pipenv run python .\src\pack_atlas.py .\dev-resources\assets-latest\res\atlas\en\myres.atlas_unpack
+```
+
+(해당 명령어는 기존 `.atlas` 파일과 실제 텍스처 아틀라스 원본 `.png` 파일들을 덮어씌우니 사용하실 때 원본 파일들을 잘 백업해주세요.)
+
+#### 5.8.3. 텍스처 아틀라스 오프셋 지정
+
+`.atlas_unpack` 폴더 내부의 이미지 파일명에 오프셋 정보를 추가하여 `sourceSize`와 `spriteSourceSize` 값을 변경할 수 있습니다.
+
+원본 이미지 파일명이 `filename.png`일 때, 파일명을 `filename[10,-20,0,0].png`과 같이 변경하여 오프셋을 지정합니다.
+
+대괄호 내의 숫자는 각각 다음의 오프셋을 지정합니다.
+
+- spriteSourceSize의 x 오프셋
+- spriteSourceSize의 y 오프셋
+- sourceSize의 w 오프셋
+- sourceSize의 h 오프셋
+
+예를 들어, 원본 이미지 너비를 30px 늘리고(w offset을 -30으로 지정),
+우측으로 20px 이동(x offset을 20으로 지정)하고 싶다면 다음과 같이 파일명을 변경합니다.
+
+```
+filename[20,0,-30,0].png
+```
+
+
+#### 5.9. 번역 적용
 
 ```
 script\dev\update_translation.bat
 ```
 
-#### 5.8. 폰트 갱신
+#### 5.10. 폰트 갱신
 
 폰트 갱신 작업은 번역 적용(`update_translation.bat`) 과정에 포함되어 있으므로, 번역만을 갱신하기 위해 별도로 실행할 필요는 없습니다.
 
@@ -153,7 +204,7 @@ script\dev\update_translation.bat
 script\dev\update_font.bat
 ```
 
-#### 5.9. 사전 빌드 바이너리 갱신
+#### 5.11. 사전 빌드 바이너리 갱신
 
 `src` 폴더 내의 파이썬 파일을 수정했을 경우, 사전 빌드 바이너리를 갱신해야 합니다.
 
