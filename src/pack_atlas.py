@@ -8,27 +8,31 @@ from rectpack import newPacker
 
 size_factor = 8
 
-def export_image(images, positions, group_id, target_size):
+def export_image(images, positions, group_id, target_size, padding):
     new_image = Image.new('RGBA', (target_size, target_size), (0, 0, 0, 0))
     for i, image in enumerate(images):
         position = positions[i]
+        real_position = (position[0] + padding, position[1] + padding)
         name = image['path'].name
-        new_image.paste(image['cropped_data'], position)
+        new_image.paste(
+            image['cropped_data'],
+            real_position
+        )
         colors = image['cropped_data'].getcolors(2)
         if (colors and len(colors) == 1):
             draw = ImageDraw.Draw(new_image)
             draw.rectangle((
-                position[0] - 1,
-                position[1] - 1,
-                position[0] + image['frame']['w'],
-                position[1] + image['frame']['h']
+                real_position[0] - 1,
+                real_position[1] - 1,
+                real_position[0] + image['frame']['w'],
+                real_position[1] + image['frame']['h']
             ), width=1, outline=colors[0][1])
-            print(colors)
+            # print(colors)
         del image['path']
         del image['cropped_data']
         image['frame']['idx'] = group_id
-        image['frame']['x'] = position[0]
-        image['frame']['y'] = position[1]
+        image['frame']['x'] = real_position[0]
+        image['frame']['y'] = real_position[1]
         atlas['frames'][name] = image
     group_number = group_id if group_id > 0 else ''
     new_image_name = f"{atlas_unpack_path.name[:-len('.atlas_unpack')]}{group_number}.png"
@@ -120,36 +124,10 @@ for abin in packer:
     positions = []
     for rect in abin:
         image_group.append(images[rect.rid])
-        positions.append((rect.x - padding, rect.y - padding))
+        positions.append((rect.x, rect.y))
         images[rect.rid] = None
-    new_image_names.append(export_image(image_group, positions, group_id, target_size))
+    new_image_names.append(export_image(image_group, positions, group_id, target_size, padding))
     group_id += 1
-
-
-# image_group = []
-# image = None
-# positions = None
-# group_id = 0
-# new_image_names = []
-# while images:
-#     image = images.pop(0)
-#     temp_image_size = image_sizes + [(image["frame"]["w"], image["frame"]["h"])]
-
-#     positions = rpack.pack(temp_image_size)
-#     width, height = rpack.enclosing_size(temp_image_size, positions)
-#     enclosing_max = max(width, height)
-
-#     if enclosing_max > target_size:
-#         new_image_names.append(export_image(image_group, positions, group_id, target_size))
-#         group_id += 1
-#         image_sizes = []
-#         image_group = []
-#     else:
-#         image_sizes = temp_image_size
-#         image_group.append(image)
-# else:
-#     if positions:
-#         new_image_names.append(export_image(image_group + [image], positions, group_id, target_size))
 
 atlas['meta']['image'] = ",".join(new_image_names)
 
