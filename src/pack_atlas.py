@@ -5,6 +5,7 @@ import os
 import sys
 from pathlib import Path
 from rectpack import newPacker
+import re
 
 size_factor = 8
 
@@ -83,6 +84,14 @@ for image_path in image_paths:
 
     if max_height < cropped_height:
         max_height = cropped_height
+
+    x_offset = 0
+    y_offset = 0
+    m = re.search(r'(\[([+-]?\d+),\s*([+-]?\d+)\])\.png$', image_path.name)
+    if m:
+        x_offset = int(m.group(2))
+        y_offset = int(m.group(3))
+        image_path = image_path.parent / image_path.name.replace(m.group(1), '')
     
     images.append({
         "path": image_path,
@@ -96,8 +105,8 @@ for image_path in image_paths:
             "w": width
         },
         "spriteSourceSize": {
-            "x": left,
-            "y": top
+            "x": left + x_offset,
+            "y": top + y_offset
         }
     })
 
