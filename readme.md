@@ -256,6 +256,14 @@ cmd /C "set MAJSOUL_LANG=jp&&.\script\update_translation.bat"
 이 프로젝트는 배치 스크립트에 대하여 적절한 오류처리를 수행하지 않았으므로, 실제 실행 결과가 명령 프롬프트에 출력되는 것을 확인하면서 오류가 발생한 부분을 찾아야 합니다.)
 
 
+### Contributors
+
+- [Nesswit](https://github.com/rishubil)
+- 신짱구
+- 일급천재
+
+이외에도 익명의 기여자분들이 번역에 많은 도움을 주셨습니다. 감사합니다.
+
 ### License
 
 MIT
