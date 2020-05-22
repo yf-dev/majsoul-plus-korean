@@ -4,6 +4,7 @@ setlocal
 if not defined MAJSOUL_LANG (
   set MAJSOUL_LANG=en
 )
+call script\pack_all_atlas.bat
 bin\apply_translation_sheet.exe
 bin\apply_translation_json.exe
 bin\extract_chars.exe
