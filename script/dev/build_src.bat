@@ -17,5 +17,6 @@ pipenv run pyinstaller --distpath .\bin --workpath .\build\merge_assets --onefil
 pipenv run pyinstaller --distpath .\bin --workpath .\build\unpack_atlas --onefile src\unpack_atlas.py
 pipenv run pyinstaller --distpath .\bin --workpath .\build\pack_atlas --onefile src\pack_atlas.py
 pipenv run pyinstaller --distpath .\bin --workpath .\build\pack_all_atlas --onefile src\pack_all_atlas.py
+pipenv run pyinstaller --distpath .\bin --workpath .\build\unpack_all_atlas --onefile src\unpack_all_atlas.py
 endlocal
 popd
