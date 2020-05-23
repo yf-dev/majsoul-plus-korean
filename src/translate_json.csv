@@ -379,7 +379,7 @@ lobby/create_room|0|1|2,Create Room,방 만들기
 lobby/diamond_less|0|2,Insufficient Jade,휘옥 부족
 lobby/diamond_less|0|4|0,Buy,구매
 lobby/diamond_less|0|5|0,Cancel,취소
-lobby/diamond_less|0|6,Insufficient Jade ，Do you wish to Purchase ？,휘옥가 부족합니다. 구매하시겠습니까?
+lobby/diamond_less|0|6,Insufficient Jade ，Do you wish to Purchase ？,휘옥이 부족합니다. 구매하시겠습니까?
 lobby/force_update|0|2,"New updates detected, please try to restart your game",새로운 업데이트가 있습니다. 게임을 다시 시작해주세요.
 lobby/force_update|0|3|0,Confirm,확인
 lobby/friend|0|1|0,Friends,친구
@@ -745,7 +745,7 @@ lobby/treasure|4|2|2|2|2|0,Duplicate characters will be converted to Wishing Sto
 lobby/treasure|4|2|2|2|3,Chance to get decorations: 15%,장식 획득 확률: 15%
 lobby/treasure|4|2|2|2|3|0,Duplicate decorations will be converted into Star Stones,중복된 장식은 별의 소옥으로 전환됩니다
 lobby/treasure|4|2|2|2|4,Chance to get green gift/blue gift/purple gift:  24%/51%/5%,초록색/파란색/보라색 선물 획득 확률:  24%/51%/5%
-lobby/treasure|4|2|2|2|5,You will get at least 1 purple gift when you perform a 10-summon using Jade.,휘옥를 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다.
+lobby/treasure|4|2|2|2|5,You will get at least 1 purple gift when you perform a 10-summon using Jade.,휘옥을 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다.
 lobby/treasure|4|2|2|3|0,"Each time you summon, you can get 1",당신은 1번 기원할 때 마다 1개의 신앙(
 lobby/treasure|4|2|2|3|1,"(Faith), as well as all-new characters and decorations",)과 새로운 캐릭터와 장식을 얻을 수 있습니다.
 lobby/treasure|4|2|2|3|2,Chance to get characters: 5%,캐릭터 획득 확률: 5%
@@ -756,7 +756,7 @@ lobby/treasure|4|2|2|3|4|0,Duplicate decorations will be converted into Star Sto
 lobby/treasure|4|2|2|3|5,Chance to get new effects: 7.35%,새 효과를 획득할 확률: 7.35%
 lobby/treasure|4|2|2|3|6,Chance to get green gift/blue gift/purple gift:  24%/51%/5%,초록색/파란색/보라색 선물 획득 확률:  24%/51%/5%
 lobby/treasure|4|2|2|3|7,New characters and effects are limited-time Rate Up,제한 기간까지 새 캐릭터와 효과 획득 확률 상승
-lobby/treasure|4|2|2|3|8,You will get at least 1 purple gift when you perform a 10-summon using Jade.,휘옥를 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다.
+lobby/treasure|4|2|2|3|8,You will get at least 1 purple gift when you perform a 10-summon using Jade.,휘옥을 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다.
 lobby/treasure|4|3|1|2|0|0|0,Character Info,캐릭터 정보
 lobby/treasure|4|3|1|2|0|1|0,Height:,신장:
 lobby/treasure|4|3|1|2|0|1|2,Birthday:,생일:
@@ -779,7 +779,7 @@ lobby/treasure|5|0|16,Summon Stones?,기원의 소옥?
 lobby/treasure|6|0|2,Insufficient Jade,휘옥 부족
 lobby/treasure|6|0|4|0,Buy,구매
 lobby/treasure|6|0|5|0,Cancel,취소
-lobby/treasure|6|0|6,Insufficient Jade ，Do you wish to Purchase ？,휘옥가 부족합니다. 구매하시겠습니까?
+lobby/treasure|6|0|6,Insufficient Jade ，Do you wish to Purchase ？,휘옥이 부족합니다. 구매하시겠습니까?
 lobby/visit|0|2,Visit,방문
 lobby/visit|2|3|0,Info,정보
 lobby/visit|2|4|0,Voice,음성
