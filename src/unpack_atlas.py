@@ -37,5 +37,7 @@ for filename in atlas['frames']:
     new_image = Image.new('RGBA', (frame['sourceSize']['w'], frame['sourceSize']['h']), (0, 0, 0, 0))
     new_image.paste(image, (frame['spriteSourceSize']['x'], frame['spriteSourceSize']['y']))
 
-
-    new_image.save(str(unpack_path / filename), 'PNG')
+    if filename.endswith('jpg'):
+        new_image.convert('RGB').save(str(unpack_path / filename), 'JPEG')
+    else:
+        new_image.save(str(unpack_path / filename), 'PNG')
