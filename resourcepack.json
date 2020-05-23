@@ -1,6 +1,6 @@
 {
   "id": "korean",
-  "version": "1.20200523.4",
+  "version": "1.20200523.5",
   "name": "한국어",
   "author": "Nesswit",
   "description": "다양한 이미지를 한국어로 표시합니다.",
@@ -36,6 +36,9 @@
     "res/atlas/en/myres/mjdesktop.png",
     "res/atlas/en/myres/mjdesktop1.png",
     "res/atlas/en/myres/mjdesktop2.png",
+    "scene/Assets/Resource/effect/texture/winlose_en.png",
+    "scene/Assets/Resource/effect/texture/yimanjihuiENG.png",
+    "scene/Assets/Resource/effect/texture/yimanquedingENG.png",
     "scene/Assets/Resource/table/tablemid_en/chang.png",
     "scene/Assets/Resource/table/tablemid_en/feng.png"
   ]
