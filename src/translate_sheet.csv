@@ -45,7 +45,7 @@ src\generated\csv\FandescFandesc.csv,name_en,Triple Triplets,삼색동각
 src\generated\csv\FandescFandesc.csv,desc_en,"Win a hand with three Triplets with the same number out of the Number Tiles (Man, Pin, Sou)","세가지 같은 숫자로 각 수패(만수, 통수, 삭수)로 커쯔 몸통을 만들어 화료 "
 src\generated\csv\FandescFandesc.csv,name_en,Three Quads,산깡즈
 src\generated\csv\FandescFandesc.csv,desc_en,Win a hand with three Quads,깡 3개를 포함하여 화료
-src\generated\csv\FandescFandesc.csv,name_en,All Triplets,또이또이호
+src\generated\csv\FandescFandesc.csv,name_en,All Triplets,또이또이
 src\generated\csv\FandescFandesc.csv,desc_en,Win a hand with four Triplets or Quads,커쯔 4개로 몸통을 만들어 화료
 src\generated\csv\FandescFandesc.csv,name_en,Three Concealed Triplets,산안커
 src\generated\csv\FandescFandesc.csv,desc_en,Win a hand with three closed Triplets or closed Quads,안커(펑/깡으로 만들지 않은 커쯔) 3개를 손패에 포함화여 화료
@@ -155,7 +155,7 @@ src\generated\csv\FanFan.csv,name_en,Mixed Triple Sequence,삼색동순
 src\generated\csv\FanFan.csv,name_en,Double Riichi,더블리치
 src\generated\csv\FanFan.csv,name_en,Triple Triplets,삼색동각
 src\generated\csv\FanFan.csv,name_en,Three Quads,산깡즈
-src\generated\csv\FanFan.csv,name_en,All Triplets,또이또이호
+src\generated\csv\FanFan.csv,name_en,All Triplets,또이또이
 src\generated\csv\FanFan.csv,name_en,Three Concealed Triplets,산안커
 src\generated\csv\FanFan.csv,name_en,Little Three Dragons,소삼원
 src\generated\csv\FanFan.csv,name_en,All Terminals and Honors,혼노두
@@ -349,7 +349,7 @@ src\generated\csv\StrStr.csv,en,Game Tips,게임 팁
 src\generated\csv\StrStr.csv,en,Enable,활성화
 src\generated\csv\StrStr.csv,en,Disable,비활성화
 src\generated\csv\StrStr.csv,en,Finding opponents,상대방을 찾는 중
-src\generated\csv\StrStr.csv,en,Starting soon,"잠시 후 시작: "
+src\generated\csv\StrStr.csv,en,Starting soon,잠시 후 시작: 
 src\generated\csv\StrStr.csv,en,Ranked,단위전
 src\generated\csv\GameLiveSelectFilters.csv,name1_en,Friends Room,친선전
 src\generated\csv\GameLiveSelectFilters.csv,name2_en,4-Player East,4인 동풍전
@@ -373,3 +373,186 @@ src\generated\csv\DesktopMatchmode.csv,room_name_en,Casual Match,캐주얼
 src\generated\csv\DesktopMatchmode.csv,room_name_en,DoraDorara,도라도라라
 src\generated\csv\DesktopMatchmode.csv,room_name_en,Open Hand Match,Open Hand Match
 src\generated\csv\DesktopMatchmode.csv,room_name_en,Chaotic Wall Break,Chaotic Wall Break
+src\generated\csv\AudioBgm.csv,name_en,Sakura,벛꽃
+src\generated\csv\AudioBgm.csv,unlock_desc_en,,
+src\generated\csv\AudioBgm.csv,name_en,Midsummer,한여름
+src\generated\csv\AudioBgm.csv,unlock_desc_en,Unlock by event,이벤트로 해제
+src\generated\csv\AudioBgm.csv,name_en,Bamboo,대나무
+src\generated\csv\CharacterEmoji.csv,unlock_desc_en,Bond,인연
+src\generated\csv\CharacterEmoji.csv,after_unlock_desc_en,,
+src\generated\csv\CharacterEmoji.csv,unlock_desc_en,,
+src\generated\csv\CharacterEmoji.csv,unlock_desc_en,Event,이벤트
+src\generated\csv\CharacterEmoji.csv,after_unlock_desc_en,9/27  (PDT),9/27  (PDT)
+src\generated\csv\CharacterEmoji.csv,after_unlock_desc_en,10/30 (PDT),10/30 (PDT)
+src\generated\csv\CharacterEmoji.csv,after_unlock_desc_en,11/09 (PDT),11/09 (PDT)
+src\generated\csv\CharacterEmoji.csv,after_unlock_desc_en,12/11(PDT),12/11(PDT)
+src\generated\csv\CharacterEmoji.csv,after_unlock_desc_en,12/26(PDT),12/26(PDT)
+src\generated\csv\CharacterEmoji.csv,unlock_desc_en,Sticker Shop,스티커 상점
+src\generated\csv\CharacterEmoji.csv,after_unlock_desc_en,2/28(UTC-7),2/28(UTC-7)
+src\generated\csv\CharacterEmoji.csv,unlock_desc_en,Unlock Outfit,의상으로 해제
+src\generated\csv\CharacterEmoji.csv,after_unlock_desc_en,Christmas,크리스마스
+src\generated\csv\CharacterEmoji.csv,after_unlock_desc_en,Halloween,할로윈
+src\generated\csv\CharacterEmoji.csv,after_unlock_desc_en,Beach Party,비치 파티
+src\generated\csv\CharacterEmoji.csv,after_unlock_desc_en,New Year,신년
+src\generated\csv\CharacterEmoji.csv,after_unlock_desc_en,Spring Festival,봄 축제
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Ichihime,이치히메
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,154 cm,154 cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,11th January,1월 11일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_age_en,Unknown,불명
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Maaya Uchida,우치다 마아야
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Food, sleep","먹는 것, 자는 것"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"One of the first characters to appear in the Mahjong Soul Temple. She is the current priestess of the temple who claims to be human, despite her cat ears. To Ichiihime, nothing is more important than eating and napping.","혼천 신사에 나타난 최초의 작사 중 한 명으로 혼천 신사의 현역 무녀. 고양이귀를 달고 있으며 자신이 인간이라 강력히 주장한다. 그녀에겐 밥과 잠이 무엇보다 중요하다."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Miki Nikaidou,니카이도 미키
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,168 cm,168 cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,14th February,2월 14일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_age_en,24,24
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Chiwa Saitou,사이토 치와
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Gems, hedgehog pet","보석, 고슴도치 기르기"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"A mysterious female Mahjong player. She is intelligent with a flirtatious nature. Therefore, people often find her to be unpredictable. She owns a pet hedgehog and gorgeous gems are her favorite.","미스테리한 여성 작사. 총명하고 지적이지만, 묘하게 남을 놀리 듯 행동해 진심이 드러나지 않는다. 애완동물로 고슴도치 한마리를 키우고 있으며, 보석이라하면 사족을 못쓴다."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Kana Fujita,후지타 카나
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,159 cm,159 cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,27th April,4월 27일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_age_en,17,17
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,Gaming,게임
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Before Kana became an idol, she was just an ordinary high school girl with cute looks. A talent scout discovered her by chance when she was playing arcade games in Akihabara. As a gameholic, Kana learned to play Mahjong under the influence of her senior, Nadeshiko. “Nadeshiko outplays me in all other games, but I will never lose in a game of luck such as Mahjong!” Kana's not wrong, she has great luck indeed.","평범한 여고생이지만, 귀여운 외모 덕에 오락실에 스카웃되어 아이돌로 일하고 있다. 게임 오타쿠인 그녀가 마작을 시작하게 된 계기는 선배 나데시코 때문. ""선배는 어떤 게임이든 나보다 잘하지만, 운이 좌우하는 마작이라면 나도 지지 않는다구요!""라고 말하는 그녀에겐 언제나 행운이 함께 한다."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Chiori Mikami,미카미 치오리
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,143 cm,143 cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,23rd May,5월 23일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_age_en,14,14
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Yuka Iguchi,이구치 유카
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,Teddy bear,곰
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Chiori was born to a rich family in Tokyo. Her father is a university professor and her mother is a surgeon. They are often traveling for work and leave a maid to take care of Chiori most of the time. One year, she received a teddy bear bag from her parents as her birthday present, and she keeps it with her all the time. She learned about mahjong from a TV show and fell in love with the game. ""Mahjong is so fun! I can have so much from other people's suffering.""","유복한 가정에서 태어난 아가씨. 아버지는 대학 교수, 어머니는 외과 의사라 자주 부재중이기에, 항상 가정부가 그녀를 돌봐주고 있다. 생일선물로 부모님에게 받은 곰돌이 가방을 언제나 손에 쥐고 다니는 그녀는 우연히 홈쇼핑으로 마작을 알게 되어 푹 빠지게 되었다. ""다른 사람의 고통을 지배하는 즐거움이 있으니, 마작은 참 즐겁지."""
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Mai Aihara,아이하라 마이
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,165 cm,165 cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,26th June,6월 26일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_age_en,18,18
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,Reading,독서
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Mai works as a priestess in the Temple of Moons. Despite having to greet people often in her line of work, she is incredibly shy. Visitors often complain about her voice being hard to hear. She is a quiet girl that loves books, but never talks about what she is reading. Occasionally, some will notice the title of one of her books ' ""Garden Files."" ""Oh, mahjong? ... I'm actually not that good at it. I only play it with the elderlies that live nearby...""","천월 신사의 무녀. 신사에서 일하기에 타인과의 만남이 잦지만, 의외로 대인기피증이 있어 ""목소리가 너무 작다""는 말을 자주 듣는다. 사적인 공간에선 조용한 문학소녀로 읽고 있는 책에 대해서 한마디도 남겨주지 않는다. 인형의 증언에 따르면 ""화원 파일""이란 책이 있다 한다. ""네…? 마작 말인가요…? 이웃 노인 분들과 함께 치는 정도라, 그렇게 잘하진…"""
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Nadeshiko,나데시코
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,175 cm,175 cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,14th August,8월 14일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_age_en,28,28
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Beer, traveling","맥주, 여행"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Nadeshiko lost her mother when she was young, and so she was raised by her father who is a mechanic. She has a natural love for motorbikes, beer, and traveling. Her height often gives others the impression that she is cold and distant, but she is actually very easy to get along with. Nadeshiko is a talented Mahjong player; she learned most of games, including Mahjong, without any guidance.","어린 나이에 어머니를 잃고 정비사인 아버지 손에 자란 그녀는 자연스럽게 맥주, 오토바이를 사랑하게 되었다. 큰 키 덕분에 고상하고 쿨한 사람이라 많이들 생각하지만, 사실은 무척이나 명랑하다. 한가할 때는 종종 장거리 여행을 다니곤 한다. 마작을 포함해 모든 게임에 천재적이다."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Yui Yagi,야기 유이
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,162 cm,162 cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,7th September,9월 7일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_age_en,19,19
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Ami Koshimizu,코시미즈 아미
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Snacks, coffee, swimming","간식, 커피, 수영"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Yagi Yui is a genius with an IQ of 180, but people keep their distance from her because she cannot interpret their emotions. Still, she longs to understand others and to be understood. On a chance visit, she came to the Mahjong Soul Shrine, and she started to change. Other than coffee and snacks, being her favourite beverage and food, Yui really has a poor sense of taste.","IQ180의 천재, 하지만 다른 사람의 감정을 잘 이해하지 못하는 탓에 주변 사람들과 어울리지 못한다. 우연히 혼천 신사에 다른 사람들과 잘 어울릴 수 있도록 참배하러 왔다가, 조금씩 변하기 시작했다. 커피와 간식을 좋아하면서, 동시에 절망적인 미각을 갖고 있다."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Riu Kujou,쿠죠 리우
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,161 cm,161 cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,29th November,11월 29일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Taekwondo, black tea, clothing","태권도, 홍차, 옷"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Like Chiori, Riu was also born in Tokyo. Her father and Chiori’s father are good friends. Because Chiori’s parents are away from home most of the time, Riu has been living with Chiori and taking care of her like an elder sister ever since they were children. She also started playing Mahjong because of Chiori. Over time, Kujou fell in love with the game. Her hobby is to collect all kinds of beautiful dresses.","Like Chiori, Riu was also born in Tokyo. Her father and Chiori’s father are good friends. Because Chiori’s parents are away from home most of the time, Riu has been living with Chiori and taking care of her like an elder sister ever since they were children. She also started playing Mahjong because of Chiori. Over time, Kujou fell in love with the game. Her hobby is to collect all kinds of beautiful dresses."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Xenia,지니아
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,158 cm,158 cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,2nd February,2월 2일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Mai Nakahara,나카하라 마이
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Gaming, camping, cooking","게임, 캠프, 요리"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Being born a noble is probably not as much a blessing as most people believe. To Xenia, the world beyond the cage-like walls of her home is always strange yet full of beauty. With a rebellious nature, she is filled with resentment for the inflexibility and harshness of her family. Xenia’s greatest dream is to leave family in pursuit of her own freedom.","Being born a noble is probably not as much a blessing as most people believe. To Xenia, the world beyond the cage-like walls of her home is always strange yet full of beauty. With a rebellious nature, she is filled with resentment for the inflexibility and harshness of her family. Xenia’s greatest dream is to leave family in pursuit of her own freedom."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Kaavi,카비
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,12th October,10월 12일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Gems, inevitable fate","보석, 변하지 않는 진실"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,A mysterious fortune teller who deeply believes that one’s fate is inevitable and unavoidable. She opposes any effort in trying to change fate because she simply cannot stand meaningless struggles. One of her main motives in becoming a fortune teller is probably the pleasurable moment in delivering someone’s fate and the amusement of watching them react in a desperate and ugly way.,A mysterious fortune teller who deeply believes that one’s fate is inevitable and unavoidable. She opposes any effort in trying to change fate because she simply cannot stand meaningless struggles. One of her main motives in becoming a fortune teller is probably the pleasurable moment in delivering someone’s fate and the amusement of watching them react in a desperate and ugly way.
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Natsuki Shinomiya,시노미야 나츠키
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,178cm,178cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,24th December,12월 24일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Jun Fukuyama,후쿠야마 쥰
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Mahjong, gaming, bartending","마작, 게임, 칵테일"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Natsuki Shinomiya is a common college boy as well as a part-time bartender of LULLABY. Like many Otakus, Shinomiya spends all his spare time in playing video games and reading mangas, and behaves like a chunibyo in certain circumstances. Under the influence of the owner of LULLABY, Shinomiya learned and became fond of Mahjong.
+Shinomiya role-plays a rogue character named WhiteNight in an MMORPG. He cosplays his rogue from time to time, and calls himself the best coser of WhiteNight.","Natsuki Shinomiya is a common college boy as well as a part-time bartender of LULLABY. Like many Otakus, Shinomiya spends all his spare time in playing video games and reading mangas, and behaves like a chunibyo in certain circumstances. Under the influence of the owner of LULLABY, Shinomiya learned and became fond of Mahjong.
+Shinomiya role-plays a rogue character named WhiteNight in an MMORPG. He cosplays his rogue from time to time, and calls himself the best coser of WhiteNight."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Wanjirou,왕지로
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,165cm,165cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,13th January,1월 13일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Yuuki Ono,오노 유우키
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Together with Ichihime, Wanjirou was one of the first characters to appear at the Mahjong Soul Shrine. After refusing to be bound by the mysterious duty entrusted to him, Wanjirou left the shrine in the pursuit of freedom. Unlike Ichihime’s human appearance, Wanjirou unabashedly bears a canine face, which is probably a little punishment from Kami-sama. To Wanjirou, nothing is more common than good fortune and tasty food.","Together with Ichihime, Wanjirou was one of the first characters to appear at the Mahjong Soul Shrine. After refusing to be bound by the mysterious duty entrusted to him, Wanjirou left the shrine in the pursuit of freedom. Unlike Ichihime’s human appearance, Wanjirou unabashedly bears a canine face, which is probably a little punishment from Kami-sama. To Wanjirou, nothing is more common than good fortune and tasty food."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Sora Ichinose,이치노세 소라
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,147cm,147cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,14th March,3월 14일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_age_en,13,13
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Junko Minagawa,미나가와 준코
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Reading, math, cubes","독서, 수학, 큐브"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"People often say that “too smart for your own good”. Ever since he was a boy, Ichinose’s weak and frail body made him prone to sickness often. His world view is rooted in science and believes that everything can be explained through scientific methodology. Once upon random chance, Ichinose happened upon the Mahjong Soul Shrine. He thought that this was a very interesting game of probabilities, and so he decided to join in.","People often say that “too smart for your own good”. Ever since he was a boy, Ichinose’s weak and frail body made him prone to sickness often. His world view is rooted in science and believes that everything can be explained through scientific methodology. Once upon random chance, Ichinose happened upon the Mahjong Soul Shrine. He thought that this was a very interesting game of probabilities, and so he decided to join in."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Hideki Akechi,아케치 히데키
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,177cm,177cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,9th January,1월 9일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_age_en,20,20
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Shinnosuke Tachibana,타치바나 신노스케
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Horse riding, playing Go","승마, 바둑"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Hideki Akechi is the leader of his university’s mahjong club. Even though Hideki was raised through prestigious ivy league schooling, however he always shows his courteous nature and gives a warm smile to anyone he meets. Influenced by his grandmother, Hideki often likes to make local yaku even if the rule doesn’t allow for this. There seems to be a shroud of mystery to his past. Every time someone brings up relatable topics of the past, Hideki would slyly change the topic entirely.","Hideki Akechi is the leader of his university’s mahjong club. Even though Hideki was raised through prestigious ivy league schooling, however he always shows his courteous nature and gives a warm smile to anyone he meets. Influenced by his grandmother, Hideki often likes to make local yaku even if the rule doesn’t allow for this. There seems to be a shroud of mystery to his past. Every time someone brings up relatable topics of the past, Hideki would slyly change the topic entirely."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Keikumusume,케이쿠무스메
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,159cm,159cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,9th September,9월 9일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Konomi Kohara,코하라 코노미
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Light novels, teasing her younger sister","라이트 노벨, 동생에게 장난치기"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat. As the head of her school’s literature club, which is on the verge of being dissolved, Keikumusume is constantly leaning to her fellow club members to try saving their beloved club. 
+Keikumusume’s personality changes when she takes off her witch hat. Once the hat is off, she goes from being a carefree naive girl to someone who is very dependable in nature. But such change is totally clueless to herself.
+It seems that she has an infinite supply of witch hats at her disposal, yet where she keeps her supply remains a mystery.","Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat. As the head of her school’s literature club, which is on the verge of being dissolved, Keikumusume is constantly leaning to her fellow club members to try saving their beloved club. 
+Keikumusume’s personality changes when she takes off her witch hat. Once the hat is off, she goes from being a carefree naive girl to someone who is very dependable in nature. But such change is totally clueless to herself.
+It seems that she has an infinite supply of witch hats at her disposal, yet where she keeps her supply remains a mystery."
+src\generated\csv\ItemDefinitionCharacter.csv,desc_item_en,Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat.,Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat.
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Sara,사라
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,158cm,158cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,25th September,9월 25일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,M·A·O,이치미치 마오
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Skirts, dance, cats","치마, 춤추기, 고양이와 놀기"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Sara is the top dancer of the touring performing group ""Soul"". She was crowned as ""Cassiopeia on Stage"" for her passionate dance moves as well as her attractive but elegant physique. Sara got her distinctive appearance from her parents, who came from different countries and backgrounds. Her different-colored eyes can charm people; some even feel that her looks can reach deep into their souls. She's a cat lover, and her characters are also as unpredictable as one. One day, Sara stepped into Mahjong Soul Shrine by coincidence, and because of the cat hobby of hers, she soon became very fond of Ichihime.","Sara is the top dancer of the touring performing group ""Soul"". She was crowned as ""Cassiopeia on Stage"" for her passionate dance moves as well as her attractive but elegant physique. Sara got her distinctive appearance from her parents, who came from different countries and backgrounds. Her different-colored eyes can charm people; some even feel that her looks can reach deep into their souls. She's a cat lover, and her characters are also as unpredictable as one. One day, Sara stepped into Mahjong Soul Shrine by coincidence, and because of the cat hobby of hers, she soon became very fond of Ichihime."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Hana Ninomiya,니노미야 하나
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,155cm,155cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,12th July,7월 12일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Gardening, reading","원예, 독서"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"An occasional chance brought Hana Ninomiya into Mahjong. It didn’t take long for her to notice that people would take her seriously once she showed her capabilities on the Mahjong table. However, Hana probably hasn’t realized it by herself yet that she shines while playing Mahjong. With her confidence blossoms, she would become so different from the regular her, a shy and insignificant girl who knows only gardening.","An occasional chance brought Hana Ninomiya into Mahjong. It didn’t take long for her to notice that people would take her seriously once she showed her capabilities on the Mahjong table. However, Hana probably hasn’t realized it by herself yet that she shines while playing Mahjong. With her confidence blossoms, she would become so different from the regular her, a shy and insignificant girl who knows only gardening."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Nana Shiraishi,시라이시 나나
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,167cm,167cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,31th May,5월 31일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Sports, teen mangas","스포츠, 소년만화"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"She can easily become close with anyone. But sometimes people feel awkward because of her wild laid-back spirit.” This is the first impression Nana left for most people. With her carefree personality and responsible attitude, she is no doubt a trustworthy class representative. From time to time, she helps out sport clubs with her excellent sport talents, but she never considers to join any of them. After all, she puts her class duties above sports.","She can easily become close with anyone. But sometimes people feel awkward because of her wild laid-back spirit.” This is the first impression Nana left for most people. With her carefree personality and responsible attitude, she is no doubt a trustworthy class representative. From time to time, she helps out sport clubs with her excellent sport talents, but she never considers to join any of them. After all, she puts her class duties above sports."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Hinata Takanashi,타카나시 히나타
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,28th June,6월 28일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Rie Murakawa,무라카와 리에
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Photography, gardening","사진 촬영, 원예"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Hinata loves gardening, and hence she joined the school club to deepen her knowledge. Even during the summer vacations, Hinata often goes to school to take care of plants, and she enjoys to record the progress of their growth with photos she takes. Hinata has always been a very sensible girl. As her parents become more and more busy with their careers, she would choose to stay at home, read diaries and browse photos of her childhood, no matter how desired she wants to go out with them for a nature tour.","Hinata loves gardening, and hence she joined the school club to deepen her knowledge. Even during the summer vacations, Hinata often goes to school to take care of plants, and she enjoys to record the progress of their growth with photos she takes. Hinata has always been a very sensible girl. As her parents become more and more busy with their careers, she would choose to stay at home, read diaries and browse photos of her childhood, no matter how desired she wants to go out with them for a nature tour."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Haruna Igarashi,이가라시 하루나
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,134cm,134cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,24th November,11월 24일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_age_en,11,11
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Game consoles, cat, ice pop","게임, 고양이, 아이스크림"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Haruna Igarashi is a girl with endless power, who never gets tired throughout the whole day. She is an optimist type, who can screw around with boys. Haruna can't resist to have an ice pop and once made a great speech about her goal ""to try all the flavors of ice pop in the world"" in her composition class. In her spare time, she always brings cat food to street cats nearby and plays with them. Although Haruna calls herself ""Leader of Cats"", the street cats seem to regard her as a small attendant who often brings food for them.","Haruna Igarashi is a girl with endless power, who never gets tired throughout the whole day. She is an optimist type, who can screw around with boys. Haruna can't resist to have an ice pop and once made a great speech about her goal ""to try all the flavors of ice pop in the world"" in her composition class. In her spare time, she always brings cat food to street cats nearby and plays with them. Although Haruna calls herself ""Leader of Cats"", the street cats seem to regard her as a small attendant who often brings food for them."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Anju Suzumiya,스즈미야 안즈
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,148cm,148cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,16th May,5월 16일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Aya Suzaki,스자키 아야
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Artwork, recording, milk","미술품, 기록, 딸기 우유"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Anju claims that she is a ""type KR-976"" artificial intelligence. Most of the time, she is rather quiet and would respond to all your questions with a mechanical tone. However, when the question asked is beyond her ability to interpret, she would reply with ""warning, warning, low battery, unable to perform any duty"" and avoid the question by pretending to be offline. Her hobby is to record everything that has happened around her, because as an artificial intelligence she needs to gather more data for learning, so her behaviors can better mimic those of a human.","Anju claims that she is a ""type KR-976"" artificial intelligence. Most of the time, she is rather quiet and would respond to all your questions with a mechanical tone. However, when the question asked is beyond her ability to interpret, she would reply with ""warning, warning, low battery, unable to perform any duty"" and avoid the question by pretending to be offline. Her hobby is to record everything that has happened around her, because as an artificial intelligence she needs to gather more data for learning, so her behaviors can better mimic those of a human."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Joseph,조셉
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,189cm,189cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,17th January,1월 17일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_age_en,35,35
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Hiroki Yasumoto,야스모토 히로키
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Liquor, adventure, fishing","술, 탐험, 낚시"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"""As the host of an adventure channel, Joseph has loved animals and the nature since his childhood. Despite his young age, he has almost traveled all around the globe.
+Under the suggestion of his friends, he started adventuring as a career. His humorous speech and bold actions brought the adventure show back to life. 
+Sometimes, you can see him in a Mahjong club sitting in door for the entire afternoon.""","""As the host of an adventure channel, Joseph has loved animals and the nature since his childhood. Despite his young age, he has almost traveled all around the globe.
+Under the suggestion of his friends, he started adventuring as a career. His humorous speech and bold actions brought the adventure show back to life. 
+Sometimes, you can see him in a Mahjong club sitting in door for the entire afternoon."""
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Osamu Saitou,사이토 오사무
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,190cm,190cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,18th May,5월 18일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_age_en,29,29
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Gem, sudoku","보석, 스도쿠"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Osamu Saitou is perfect as a company director; he is calm, decisive and performs his daily routines like an accurate robot. When it comes to work, he is strict to himself as well as his employees, so they often refer to him as the ""Devil Boss"". If one has to find out a weak point of his, it is probably his younger sister who is still in high school, Mami Saitou.","Osamu Saitou is perfect as a company director; he is calm, decisive and performs his daily routines like an accurate robot. When it comes to work, he is strict to himself as well as his employees, so they often refer to him as the ""Devil Boss"". If one has to find out a weak point of his, it is probably his younger sister who is still in high school, Mami Saitou."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Sawako Kitami,키타미 사와코
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,160cm,160cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,15th October,10월 15일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_age_en,32,32
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Card game, dress","보드게임, 양복"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Despite Sawako's somewhat naive looks, she has everything well-organized at home. She is also able to enjoy her hobbies at free time, which has made nearby housewives very envious as they often come to her for tips. She has won a lot of popularity in her neighborhood, especially amongst the kids as they often refer to her as ""the ideal mother"".","Despite Sawako's somewhat naive looks, she has everything well-organized at home. She is also able to enjoy her hobbies at free time, which has made nearby housewives very envious as they often come to her for tips. She has won a lot of popularity in her neighborhood, especially amongst the kids as they often refer to her as ""the ideal mother""."
+src\generated\csv\ItemDefinitionCharacter.csv,name_en,Ein,에인
+src\generated\csv\ItemDefinitionCharacter.csv,desc_stature_en,175cm,175cm
+src\generated\csv\ItemDefinitionCharacter.csv,desc_birth_en,13th April,4월 13일
+src\generated\csv\ItemDefinitionCharacter.csv,desc_cv_en,Tetsuya Kakihara,카키하라 테츠야
+src\generated\csv\ItemDefinitionCharacter.csv,desc_hobby_en,"Fruit, hunting, game consoles","과일, 사냥, 게임기"
+src\generated\csv\ItemDefinitionCharacter.csv,desc_en,"Ein is the descendant of an ancient race. Their most significant trait is their appearance. Male or female, old or young, all of them have some characteristics that can be linked to animals. He took his father's words to look for a hunting ground when he was 16. Accidentally, he stepped onto the land of far east where his instinct was awakened by a certain object. It is at this moment, he realized he have already found his ""hunting ground"".","Ein is the descendant of an ancient race. Their most significant trait is their appearance. Male or female, old or young, all of them have some characteristics that can be linked to animals. He took his father's words to look for a hunting ground when he was 16. Accidentally, he stepped onto the land of far east where his instinct was awakened by a certain object. It is at this moment, he realized he have already found his ""hunting ground""."
