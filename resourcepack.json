@@ -1,6 +1,6 @@
 {
   "id": "korean",
-  "version": "1.20200523.5",
+  "version": "1.20200525.1",
   "name": "한국어",
   "author": "Nesswit",
   "description": "다양한 이미지를 한국어로 표시합니다.",
@@ -32,6 +32,8 @@
     "res/atlas/en/myres.png",
     "res/atlas/en/myres1.png",
     "res/atlas/en/myres2.png",
+    "res/atlas/en/myres/lobby.atlas",
+    "res/atlas/en/myres/lobby.png",
     "res/atlas/en/myres/mjdesktop.atlas",
     "res/atlas/en/myres/mjdesktop.png",
     "res/atlas/en/myres/mjdesktop1.png",
