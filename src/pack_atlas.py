@@ -4,7 +4,7 @@ import json
 import os
 import sys
 from pathlib import Path
-from rectpack import newPacker
+from rectpack import newPacker, PackingMode
 import re
 
 size_factor = 8
@@ -62,6 +62,7 @@ with (atlas_unpack_path / 'prefix.txt').open('r', encoding="utf-8") as prefixfil
     atlas['meta']['prefix'] = prefixfile.readline().strip()
 
 image_paths = list(atlas_unpack_path.glob('*.png'))
+image_paths += list(atlas_unpack_path.glob('*.jpg'))
 images = []
 max_width = 0
 max_height = 0
@@ -114,21 +115,23 @@ for image_path in image_paths:
         }
     })
 
+padding = 2
+
 target_size = 2 ** size_factor
 max_size = max(max_height, max_width)
-while max_size > target_size:
+print(f'max_size = {max_size}')
+while max_size > (target_size - (padding * 2)):
     target_size *= 2
 
 print(f'target_size = {target_size}')
 
-padding = 2
 image_sizes = [(image["frame"]["w"] + (padding * 2), image["frame"]["h"] + (padding * 2), i) for i, image in enumerate(images)]
 new_image_names = []
 
-packer = newPacker(rotation=False)
+packer = newPacker(mode=PackingMode.Offline, rotation=False)
 for image_size in image_sizes:
 	packer.add_rect(*image_size)
-packer.add_bin(target_size, target_size, float("inf"))
+packer.add_bin(target_size - (padding * 2), target_size - (padding * 2), float("inf"))
 packer.pack()
 
 group_id = 0
