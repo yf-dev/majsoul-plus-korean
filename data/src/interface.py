@@ -103,8 +103,11 @@ def action_build(args):
     from build_sheets import main as build_sheets
     build_sheets(args.original_assets_path, args.translation_path, args.dist_path, args.temp_path)
 
+    from merge_all_atlas import main as merge_all_atlas
+    merge_all_atlas(args.original_assets_path, args.translation_path, args.temp_path)
+
     from pack_all_atlas import main as pack_all_atlas
-    pack_all_atlas(args.atlas_size, args.translation_path, str(Path(args.dist_path) / 'assets'))
+    pack_all_atlas(args.atlas_size, args.temp_path, str(Path(args.dist_path) / 'assets'))
 
     from extract_chars import main as extract_chars
     extract_chars(args.translation_path, args.dist_path, args.temp_path)
@@ -182,6 +185,8 @@ if __name__ == '__main__':
         elif args.action == 'all':
             if not args.skip_download:
                 action_download(args)
+            from unpack_all_atlas import main as unpack_all_atlas
+            unpack_all_atlas(args.original_assets_path)
             action_template(args)
             action_build(args)
 
