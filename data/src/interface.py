@@ -6,22 +6,34 @@ import shutil
 from pathlib import Path
 from common import run_cmd
 
-DEFAULT_PATHS = {
-    'dist': str(Path('..')),
-    'cached_static': str(Path('../../../static')),
-    'original_assets': str(Path('./assets-original')),
-    'translation': str(Path('./translation')),
-    'temp': str(Path('./temp')),
-    'protoc': str(Path('./utils/protoc/bin/protoc.exe')),
-    'fontbm': str(Path('./utils/fontbm/fontbm.exe')),
-    'fonts': str(Path('./fonts')),
-}
+DEFAULT_PATHS = {}
+
+if getattr(sys, 'frozen', False):
+    # bundle env
+    DEFAULT_PATHS['dist'] = str(Path('.'))
+    DEFAULT_PATHS['cached_static'] = str(Path('../../static'))
+    DEFAULT_PATHS['original_assets'] = str(Path('./data/assets-original'))
+    DEFAULT_PATHS['translation'] = str(Path('./data/translation'))
+    DEFAULT_PATHS['temp'] = str(Path('./data/temp'))
+    DEFAULT_PATHS['protoc'] = str(Path('./data/utils/protoc/bin/protoc.exe'))
+    DEFAULT_PATHS['fontbm'] = str(Path('./data/utils/fontbm/fontbm.exe'))
+    DEFAULT_PATHS['fonts'] = str(Path('./data/fonts'))
+else:
+    # script env
+    DEFAULT_PATHS['dist'] = str(Path('..'))
+    DEFAULT_PATHS['cached_static'] = str(Path('../../../static'))
+    DEFAULT_PATHS['original_assets'] = str(Path('./assets-original'))
+    DEFAULT_PATHS['translation'] = str(Path('./translation'))
+    DEFAULT_PATHS['temp'] = str(Path('./temp'))
+    DEFAULT_PATHS['protoc'] = str(Path('./utils/protoc/bin/protoc.exe'))
+    DEFAULT_PATHS['fontbm'] = str(Path('./utils/fontbm/fontbm.exe'))
+    DEFAULT_PATHS['fonts'] = str(Path('./fonts'))
 
 def action_download(args):
     if hasattr(args, 'clear') and args.clear:
         shutil.rmtree(args.original_assets_path, ignore_errors=True)
     if hasattr(args, 'merge') and args.merge:
-        from merge_assets import main as merge_assets
+        from data.src.merge_assets import main as merge_assets
         merge_assets(args.original_assets_path, args.cached_static_path)
     from download_assets import main as download_assets
     download_assets(args.original_assets_path)
