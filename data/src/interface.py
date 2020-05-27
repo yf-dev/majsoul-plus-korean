@@ -7,9 +7,9 @@ from pathlib import Path
 from common import run_cmd
 
 DEFAULT_PATHS = {
-    'dist': str(Path('./dist/korean')),
-    'cached_static': str(Path('../../static')),
-    'original_assets': str(Path('./dev-resources/assets-latest')),
+    'dist': str(Path('..')),
+    'cached_static': str(Path('../../../static')),
+    'original_assets': str(Path('./assets-original')),
     'translation': str(Path('./translation')),
     'temp': str(Path('./temp')),
     'protoc': str(Path('./utils/protoc/bin/protoc.exe')),
@@ -30,22 +30,24 @@ def action_template(args):
     proto_temp = Path(args.temp_path) / "proto"
     proto_temp.mkdir(parents=True, exist_ok=True)
 
-    run_cmd([
+    if not run_cmd([
         args.protoc_path,
         f'--proto_path={Path(args.original_assets_path) / "res" / "proto"}',
         f'--python_out={proto_temp}',
         'config.proto'
-    ])
+    ]):
+        sys.exit(-1)
 
     from generate_sheet_proto import main as generate_sheet_proto
     generate_sheet_proto(args.original_assets_path, args.temp_path)
 
-    run_cmd([
+    if not run_cmd([
         args.protoc_path,
         f'--proto_path={proto_temp}',
         f'--python_out={proto_temp}',
         'sheets.proto'
-    ])
+    ]):
+        sys.exit(-1)
 
     from export_sheets import main as export_sheets
     export_sheets(args.original_assets_path, args.temp_path)

@@ -62,7 +62,7 @@ def main(dist_path, fonts_path, temp_path, fontbm_path):
         str(temp_path)
     )
 
-    dist_font_path = dist_path / 'bitmapfont' / lang
+    dist_font_path = dist_path / 'assets' / 'bitmapfont' / lang
     dist_font_path.mkdir(parents=True, exist_ok=True)
     for font_name in fonts[lang]:
         copyfile(temp_path / 'fonts' / f'{font_name}.fnt', dist_font_path / f'{font_name}.fnt')

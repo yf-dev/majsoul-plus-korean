@@ -17,4 +17,5 @@ rectpack = "~=0.2.1"
 python_version = "3.7"
 
 [scripts]
-build = "pyinstaller --distpath .\ --workpath .\build --onefile src\interface.py -n majsoul-plus-korean --hidden-import google.protobuf"
+build = "pyinstaller --distpath ../ --workpath ./build --onefile src/interface.py -n majsoul-plus-korean --hidden-import google.protobuf"
+mpk = "python src/interface.py"

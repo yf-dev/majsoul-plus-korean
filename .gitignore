@@ -1,7 +1,11 @@
-dev-resources/
 .vscode/
-build/
 *.spec
 __pycache__
-temp/
-translation/templates
+*.py[co]
+
+dev-resources/
+
+data/assets-original
+data/build/
+data/temp/
+data/translation/templates

@@ -88,7 +88,7 @@ def main(original_assets_path, translation_path, dist_path, temp_path):
                         setattr(field, col, value)
                 data.data.append(field.SerializeToString())
 
-    target_path = Path(dist_path) / 'res' / 'config' / 'lqc.lqbin'
+    target_path = Path(dist_path) / 'assets' / 'res' / 'config' / 'lqc.lqbin'
     target_path.parent.mkdir(parents=True, exist_ok=True)
     with open(target_path, "wb") as lqc:
         lqc.write(config_table.SerializeToString())
