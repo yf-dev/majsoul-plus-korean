@@ -14,3 +14,6 @@ def run_cmd(cmd, print_result=True):
     if stderr and print_result:
         print(stderr.decode())
     return p.returncode == 0
+
+def order_version(a):
+    return [int(i) if i.isdigit() else i for i in a.split('.')]
