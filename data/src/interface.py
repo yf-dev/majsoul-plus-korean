@@ -32,9 +32,9 @@ else:
 def action_download(args):
     if hasattr(args, 'clear') and args.clear:
         shutil.rmtree(args.original_assets_path, ignore_errors=True)
-    if hasattr(args, 'merge') and args.merge:
-        from data.src.merge_assets import main as merge_assets
-        merge_assets(args.original_assets_path, args.cached_static_path)
+    if hasattr(args, 'copy') and args.copy:
+        from copy_cached_asset import main as copy_cached_asset
+        copy_cached_asset(args.original_assets_path, args.cached_static_path)
     from download_assets import main as download_assets
     download_assets(args.original_assets_path)
 
@@ -106,6 +106,12 @@ def action_build(args):
     from generate_fonts import main as generate_fonts
     generate_fonts(args.dist_path, args.fonts_path, args.temp_path, args.fontbm_path)
 
+    from copy_translated_asset import main as copy_translated_asset
+    copy_translated_asset(args.translation_path, args.dist_path)
+
+    from generate_resourcepack import main as generate_resourcepack
+    generate_resourcepack(args.dist_path)
+
 if __name__ == '__main__':
     orig_env = dict(os.environ)
     try:
@@ -124,7 +130,7 @@ if __name__ == '__main__':
         action_subparsers = parser.add_subparsers(title='action', description='action to do', dest='action', required=True)
         parser_download = action_subparsers.add_parser('download', help='download assets from server')
         parser_download.add_argument('--clear', help='remove all files before download', action='store_true')
-        parser_download.add_argument('--merge', help='merge cached static files before download', action='store_true')
+        parser_download.add_argument('--copy', help='copy cached static files before download', action='store_true')
 
         parser_template = action_subparsers.add_parser('template', help='generate template files to translate')
 

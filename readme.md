@@ -40,7 +40,7 @@
 
 1. 작혼 Plus 런처를 실행하고, 좌측 Resource Packs 메뉴를 선택합니다.
 2. 우상단의 폴더 열기 아이콘을 클릭하여 리소스 팩 폴더를 엽니다.
-3. 열린 리소스 팩 폴더에서 `majsoul-plus-korean.exe` 를 실행합니다.
+3. 열린 리소스 팩 폴더에서 `majsoul-plus-korean.bat` 을 실행합니다.
 4. 실행한 프로그램이 종료되면, 작혼 Plus 런처에서 Resource Packs 상단의 새로고침 아이콘을 클릭합니다.
 5. Launch Game 버튼을 눌러 작혼을 실행하고, 정상적으로 구동되는지 확인합니다.
 
@@ -90,6 +90,7 @@
 #### 5.2. 라이브러리 다운로드
 
 ```
+cd data
 pipenv install --dev
 ```
 

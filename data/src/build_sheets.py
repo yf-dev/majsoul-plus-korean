@@ -39,17 +39,19 @@ def main(original_assets_path, translation_path, dist_path, temp_path):
         class_words = f"{data.table}_{data.sheet}".split("_")
         class_name = "".join(name.capitalize() for name in class_words)
 
-        csv_path = Path(temp_path) / 'csv' / '{class_name}.csv'
+        csv_path = Path(temp_path) / 'csv' / f'{class_name}.csv'
 
         if not csv_path.is_file():
+            print(f'[!] This csv is not exist: {csv_path}')
             continue
+
+        if csv_path.name not in target_csvs:
+            print(f'[.] Skip {csv_path}')
+            continue
+
+        print(f'[+] Building {csv_path}')
 
         csv_path = str(csv_path) # for matching csv format
-
-        if csv_path not in target_csvs:
-            continue
-
-        print(f'Building {csv_path}')
 
         with open(csv_path, 'r', encoding='utf-8') as csvfile:
             csv_reader = csv.reader(csvfile)

@@ -1,9 +1,9 @@
 {
   "id": "korean",
-  "version": "1.20200525.1",
+  "version": "2.20202705.235821",
   "name": "한국어",
   "author": "Nesswit",
-  "description": "다양한 이미지를 한국어로 표시합니다.",
+  "description": "인터페이스를 한국어로 표시합니다.",
   "preview": "preview.png",
   "dependencies": {
     "majsoul_plus": "^2.0.0"
@@ -24,8 +24,6 @@
     "en/extendRes/emo/e200019/0.png",
     "en/extendRes/emo/e200019/3.png",
     "en/extendRes/emo/e200020/2.png",
-    "res/config/lqc.lqbin",
-    "uiconfig/ui_en.json",
     "res/atlas/bitmapfont/en.atlas",
     "res/atlas/bitmapfont/en.png",
     "res/atlas/en/myres.atlas",
@@ -38,10 +36,16 @@
     "res/atlas/en/myres/mjdesktop.png",
     "res/atlas/en/myres/mjdesktop1.png",
     "res/atlas/en/myres/mjdesktop2.png",
+    "res/atlas/en/myres/necessary.atlas",
+    "res/atlas/en/myres/necessary.png",
+    "res/atlas/en/myres/room.atlas",
+    "res/atlas/en/myres/room.png",
+    "res/config/lqc.lqbin",
     "scene/Assets/Resource/effect/texture/winlose_en.png",
     "scene/Assets/Resource/effect/texture/yimanjihuiENG.png",
     "scene/Assets/Resource/effect/texture/yimanquedingENG.png",
     "scene/Assets/Resource/table/tablemid_en/chang.png",
-    "scene/Assets/Resource/table/tablemid_en/feng.png"
+    "scene/Assets/Resource/table/tablemid_en/feng.png",
+    "uiconfig/ui_en.json"
   ]
 }
