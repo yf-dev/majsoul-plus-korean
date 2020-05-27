@@ -4,14 +4,17 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-ipdb = "*"
-pyinstaller = "*"
-pywin32 = "*"
+ipdb = "~=0.13.2"
+pyinstaller = "~=3.6"
+pywin32 = ">=227"
 
 [packages]
-protobuf = "*"
-pillow = "*"
-rectpack = "*"
+protobuf = "~=3.12.1"
+pillow = "~=7.1.2"
+rectpack = "~=0.2.1"
 
 [requires]
 python_version = "3.7"
+
+[scripts]
+build = "pyinstaller --distpath .\ --workpath .\build --onefile src\interface.py -n majsoul-plus-korean --hidden-import google.protobuf"

@@ -1,0 +1,162 @@
+#! /usr/bin/python
+import argparse
+import sys
+import os
+import shutil
+from pathlib import Path
+from common import run_cmd
+
+DEFAULT_PATHS = {
+    'dist': str(Path('./dist/korean')),
+    'cached_static': str(Path('../../static')),
+    'original_assets': str(Path('./dev-resources/assets-latest')),
+    'translation': str(Path('./translation')),
+    'temp': str(Path('./temp')),
+    'protoc': str(Path('./utils/protoc/bin/protoc.exe')),
+    'fontbm': str(Path('./utils/fontbm/fontbm.exe')),
+    'fonts': str(Path('./fonts')),
+}
+
+def action_download(args):
+    if hasattr(args, 'clear') and args.clear:
+        shutil.rmtree(args.original_assets_path, ignore_errors=True)
+    if hasattr(args, 'merge') and args.merge:
+        from merge_assets import main as merge_assets
+        merge_assets(args.original_assets_path, args.cached_static_path)
+    from download_assets import main as download_assets
+    download_assets(args.original_assets_path)
+
+def action_template(args):
+    proto_temp = Path(args.temp_path) / "proto"
+    proto_temp.mkdir(parents=True, exist_ok=True)
+
+    run_cmd([
+        args.protoc_path,
+        f'--proto_path={Path(args.original_assets_path) / "res" / "proto"}',
+        f'--python_out={proto_temp}',
+        'config.proto'
+    ])
+
+    from generate_sheet_proto import main as generate_sheet_proto
+    generate_sheet_proto(args.original_assets_path, args.temp_path)
+
+    run_cmd([
+        args.protoc_path,
+        f'--proto_path={proto_temp}',
+        f'--python_out={proto_temp}',
+        'sheets.proto'
+    ])
+
+    from export_sheets import main as export_sheets
+    export_sheets(args.original_assets_path, args.temp_path)
+
+    from generate_translation_sheet import main as generate_translation_sheet
+    generate_translation_sheet(args.translation_path, args.temp_path)
+
+    from generate_translation_json import main as generate_translation_json
+    generate_translation_json(args.original_assets_path, args.translation_path)
+
+def action_atlas(args):
+    if args.atlas_action == 'pack':
+        from pack_atlas import main as pack_atlas
+        pack_atlas(args.atlas_size, args.path, args.target_path)
+    elif args.atlas_action == 'pack-all':
+        from pack_all_atlas import main as pack_all_atlas
+        pack_all_atlas(args.atlas_size, args.translation_path, args.target_path)
+    elif args.atlas_action == 'unpack':
+        from unpack_atlas import main  as unpack_atlas
+        unpack_atlas(args.path)
+    elif args.atlas_action == 'unpack-all':
+        from unpack_all_atlas import main as unpack_all_atlas
+        unpack_all_atlas(args.original_assets_path)
+
+def action_build(args):
+    from export_sheets import main as export_sheets
+    export_sheets(args.original_assets_path, args.temp_path)
+
+    from apply_translation_sheet import main as apply_translation_sheet
+    apply_translation_sheet(args.translation_path, args.temp_path)
+
+    from apply_translation_json import main as apply_translation_json
+    apply_translation_json(args.original_assets_path, args.translation_path, args.dist_path)
+
+    from build_sheets import main as build_sheets
+    build_sheets(args.original_assets_path, args.translation_path, args.dist_path, args.temp_path)
+
+    from pack_all_atlas import main as pack_all_atlas
+    pack_all_atlas(args.atlas_size, args.translation_path, str(Path(args.dist_path) / 'assets'))
+
+    from extract_chars import main as extract_chars
+    extract_chars(args.translation_path, args.dist_path, args.temp_path)
+
+    from generate_fonts import main as generate_fonts
+    generate_fonts(args.dist_path, args.fonts_path, args.temp_path, args.fontbm_path)
+
+if __name__ == '__main__':
+    orig_env = dict(os.environ)
+    try:
+        parser = argparse.ArgumentParser()
+        parser.add_argument('--lang', help='language to translate', type=str, choices=('en', 'jp'))
+        parser.add_argument('--dist-path', help=f'path to save built data (default={DEFAULT_PATHS["dist"]})', type=str, default=DEFAULT_PATHS['dist'])
+        parser.add_argument('--cached-static-path', help=f'path of cached static files (default={DEFAULT_PATHS["cached_static"]})', type=str, default=DEFAULT_PATHS['cached_static'])
+        parser.add_argument('--original-assets-path', help=f'path to save downloaded original assets (default={DEFAULT_PATHS["original_assets"]})', type=str, default=DEFAULT_PATHS['original_assets'])
+        parser.add_argument('--translation-path', help=f'path of translation data (default={DEFAULT_PATHS["translation"]})', type=str, default=DEFAULT_PATHS['translation'])
+        parser.add_argument('--protoc-path', help=f'path of protoc (default={DEFAULT_PATHS["protoc"]})', type=str, default=DEFAULT_PATHS['protoc'])
+        parser.add_argument('--fontbm-path', help=f'path of fontbm (default={DEFAULT_PATHS["fontbm"]})', type=str, default=DEFAULT_PATHS['fontbm'])
+        parser.add_argument('--temp-path', help=f'path to use temporary (default={DEFAULT_PATHS["temp"]})', type=str, default=DEFAULT_PATHS['temp'])
+        parser.add_argument('--fonts-path', help=f'path of fonts (default={DEFAULT_PATHS["fonts"]})', type=str, default=DEFAULT_PATHS['fonts'])
+        parser.add_argument('--atlas-size', help='size factor of atlas image (default=8)', type=int, default=8)
+
+        action_subparsers = parser.add_subparsers(title='action', description='action to do', dest='action', required=True)
+        parser_download = action_subparsers.add_parser('download', help='download assets from server')
+        parser_download.add_argument('--clear', help='remove all files before download', action='store_true')
+        parser_download.add_argument('--merge', help='merge cached static files before download', action='store_true')
+
+        parser_template = action_subparsers.add_parser('template', help='generate template files to translate')
+
+        parser_atlas = action_subparsers.add_parser('atlas', help='pack/unpack atlas file')
+        atlas_subparsers = parser_atlas.add_subparsers(title='action', description='action to do', dest='atlas_action', required=True)
+
+        parser_atlas_pack = atlas_subparsers.add_parser('pack', help='pack .atlas_unpack directory to .atlas file')
+        parser_atlas_pack.add_argument('path', help='path of .atlas_unpack directory', type=str)
+        parser_atlas_pack.add_argument('--target-path', help='path to save .atlas file and images', type=str, default='')
+
+        parser_atlas_pack_all = atlas_subparsers.add_parser('pack-all', help='pack all .atlas_unpack directories in default path')
+        parser_atlas_pack_all.add_argument('--target-path', help=f'path to save .atlas file and images (default={Path(DEFAULT_PATHS["dist"]) / "assets"})', type=str, default=(Path(DEFAULT_PATHS['dist']) / 'assets'))
+
+        parser_atlas_unpack = atlas_subparsers.add_parser('unpack', help='unpack .atlas file to .atlas_unpack directory')
+        parser_atlas_unpack.add_argument('path', help='path of .atlas file', type=str)
+
+        parser_atlas_unpack_all = atlas_subparsers.add_parser('unpack-all', help='unpack all .atlas files in default path')
+
+        parser_build = action_subparsers.add_parser('build', help='build asset data')
+
+        parser_all = action_subparsers.add_parser('all', help='update original assets, apply translation and build all things automatically')
+        parser_all.add_argument('--skip-download', help='skip download', action='store_true')
+
+        args = parser.parse_args()
+
+        if args.lang:
+            os.environ['MAJSOUL_LANG'] = args.lang
+
+        if args.action == 'download':
+            action_download(args)
+
+        elif args.action == 'template':
+            action_template(args)
+
+        elif args.action == 'atlas':
+            action_atlas(args)
+
+        elif args.action == 'build':
+            action_build(args)
+
+        elif args.action == 'all':
+            if not args.skip_download:
+                action_download(args)
+            action_template(args)
+            action_build(args)
+
+    finally:
+        os.environ.clear()
+        os.environ.update(orig_env)

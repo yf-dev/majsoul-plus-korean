@@ -1,23 +1,19 @@
 #! /usr/bin/python
-import sys
 from pathlib import Path
-from subprocess import Popen, PIPE
+from pack_atlas import main as pack_atlas
 
-command_prefix = None
-if getattr(sys, 'frozen', False) and hasattr(sys, '_MEIPASS'):
-    command_prefix = [str(Path(sys.executable).parent / 'pack_atlas.exe')]
-else:
-    command_prefix = ['python', f'{str(Path(sys.argv[0]).parent / "pack_atlas.py")}']
+def main(size_factor, translation_path, target_path):
+    assets_path = Path(translation_path) / 'assets'
+    if not target_path:
+        target_path = str(assets_path)
+    for atlas_unpack_path in assets_path.glob('**/*.atlas_unpack'):
+        print(f'[-] Packing {atlas_unpack_path}')
+        new_target_path = Path(target_path) / atlas_unpack_path.relative_to(assets_path)
+        pack_atlas(size_factor, str(atlas_unpack_path), str(new_target_path.parent))
 
-for atlas_unpack_path in Path("./assets").glob('**/*.atlas_unpack'):
-    print(f'[-] Packing {atlas_unpack_path}')
-    p = Popen(
-        command_prefix + [str(atlas_unpack_path)],
-        shell=True,
-        stdout=PIPE,
-        stderr=PIPE
+if __name__ == '__main__':
+    main(
+        8,
+        str(Path('./translation')),
+        str(Path('./dist/korean/assets'))
     )
-    result = p.stdout.read().decode()
-    result += p.stderr.read().decode()
-    if result:
-        print(result)

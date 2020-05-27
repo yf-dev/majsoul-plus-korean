@@ -1,6 +1,5 @@
 #! /usr/bin/python
 import os
-import shutil
 from distutils.dir_util import copy_tree
 from pathlib import Path
 import os
@@ -11,17 +10,20 @@ lang_map = {
     'jp': 1,
 }
 
-ASSET_PATH = f'../../static/{lang_map[lang]}'
-TARGET = './dev-resources/assets-latest'
-
 def order_version(a):
     return [int(i) if i.isdigit() else i for i in a.split('.')]
 
-subdirs = sorted(next(os.walk(ASSET_PATH))[1], key=order_version)
-shutil.rmtree(TARGET, ignore_errors=True)
-Path(TARGET).mkdir(parents=True, exist_ok=True)
-for subdir in subdirs:
-    subdir_path = f'{ASSET_PATH}/{subdir}'
-    print(f'Merging {subdir_path}')
-    copy_tree(f'{ASSET_PATH}/{subdir}', TARGET)
+def main(original_assets_path, cached_static_path):
+    asset_path = Path(cached_static_path) / lang_map[lang]
+    subdirs = sorted(next(os.walk(asset_path))[1], key=order_version)
+    Path(original_assets_path).mkdir(parents=True, exist_ok=True)
+    for subdir in subdirs:
+        subdir_path = f'{asset_path}/{subdir}'
+        print(f'Merging {subdir_path}')
+        copy_tree(f'{asset_path}/{subdir}', original_assets_path)
 
+if __name__ == '__main__':
+    main(
+        str(Path('./dev-resources/assets-latest')),
+        str(Path('../../static'))
+    )
