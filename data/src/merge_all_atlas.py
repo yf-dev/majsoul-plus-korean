@@ -8,7 +8,8 @@ def main(original_assets_path, translation_path, temp_path):
     temp_assets_path = Path(temp_path) / 'assets'
     original_assets_path = Path(original_assets_path)
     translation_assets_path = Path(translation_path) / 'assets'
-    rmtree(str(temp_assets_path))
+    if temp_assets_path.is_dir():
+        rmtree(str(temp_assets_path))
     temp_assets_path.mkdir(parents=True, exist_ok=True)
     for atlas_unpack_path in original_assets_path.glob('**/*.atlas_unpack'):
         translation_atlas_path = translation_assets_path / atlas_unpack_path.relative_to(original_assets_path)
