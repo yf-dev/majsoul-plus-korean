@@ -41,8 +41,11 @@ def action_download(args):
 
     if not hasattr(args, 'force_update'):
         setattr(args, 'force_update', False)
+
+    if not hasattr(args, 'max_tries'):
+        setattr(args, 'max_tries', 10)
     from download_assets import main as download_assets
-    download_assets(not args.skip_exist, args.force_update, args.original_assets_path)
+    download_assets(not args.skip_exist, args.force_update, args.original_assets_path, args.max_tries)
 
 def action_template(args):
     proto_temp = Path(args.temp_path) / "proto"
@@ -142,6 +145,7 @@ if __name__ == '__main__':
         parser_download.add_argument('--copy', help='copy cached static files before download', action='store_true', default=False)
         parser_download.add_argument('--skip-exist', help='skip file to download that already exist', action='store_true', default=False)
         parser_download.add_argument('--force-update', help='do not skip file to download that older than downloaded version', action='store_true', default=False)
+        parser_download.add_argument('--max-tries', help='max number of tries to download files (default=10)', type=int, default=10)
 
         parser_template = action_subparsers.add_parser('template', help='generate template files to translate')
 
