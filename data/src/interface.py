@@ -36,13 +36,13 @@ def action_download(args):
         from copy_cached_asset import main as copy_cached_asset
         copy_cached_asset(args.original_assets_path, args.cached_static_path)
 
-    if not hasattr(args, 'overwrite_exist'):
-        setattr(args, 'overwrite_exist', False)
+    if not hasattr(args, 'skip_exist'):
+        setattr(args, 'skip_exist', False)
 
     if not hasattr(args, 'force_update'):
         setattr(args, 'force_update', False)
     from download_assets import main as download_assets
-    download_assets(args.overwrite_exist, args.force_update, args.original_assets_path)
+    download_assets(not args.skip_exist, args.force_update, args.original_assets_path)
 
 def action_template(args):
     proto_temp = Path(args.temp_path) / "proto"
@@ -140,7 +140,7 @@ if __name__ == '__main__':
         parser_download = action_subparsers.add_parser('download', help='download assets from server')
         parser_download.add_argument('--clear', help='remove all files before download', action='store_true', default=False)
         parser_download.add_argument('--copy', help='copy cached static files before download', action='store_true', default=False)
-        parser_download.add_argument('--overwrite-exist', help='do not skip file to download that already exist', action='store_true', default=False)
+        parser_download.add_argument('--skip-exist', help='skip file to download that already exist', action='store_true', default=False)
         parser_download.add_argument('--force-update', help='do not skip file to download that older than downloaded version', action='store_true', default=False)
 
         parser_template = action_subparsers.add_parser('template', help='generate template files to translate')

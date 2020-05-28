@@ -8,7 +8,7 @@ lang = os.getenv('MAJSOUL_LANG', 'en')
 def main(dist_path):
     resourcepack_data = {
         'id': 'korean',
-        'version': f'2.{datetime.now().strftime("%Y%d%m.1%H%M%S")}',
+        'version': f'2.{datetime.now().strftime("%Y%m%d.1%H%M%S")}',
         'name': '한국어',
         'author': 'Nesswit',
         'description': '인터페이스를 한국어로 표시합니다.',

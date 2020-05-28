@@ -1,32 +1,55 @@
 #! /usr/bin/python
 import os
+import sys
 import urllib.request
 import shutil
 import json
 from pathlib import Path
-from multiprocessing.pool import ThreadPool
 from common import order_version
+import asyncio
+from contextlib import closing
+import aiohttp
+import aiofiles
 
 lang = os.getenv('MAJSOUL_LANG', 'en')
 
-def download(url):
-    filepath = url['target'] / url['path']
+def chunks(lst, n):
+    """Yield successive n-sized chunks from lst."""
+    for i in range(0, len(lst), n):
+        yield lst[i:i + n]
 
-    try:
-        full_url = f'{url["server"]}/{url["prefix"]}/{url["path"]}'.replace(' ', '%20')
-        with urllib.request.urlopen(full_url) as response:
-            Path(filepath.parent).mkdir(parents=True, exist_ok=True)
-            with open(filepath, 'wb') as out_file:
-                if url['path'].startswith('en/extendRes/'):
-                    byte = response.read(1)
-                    while byte != b"":
-                        out_file.write(bytes([byte[0] ^ 0x49]))
-                        byte = response.read(1)
+async def download_file(session, url):
+    filepath = url['target'] / url['path']
+    full_url = f'{url["server"]}/{url["prefix"]}/{url["path"]}'.replace(' ', '%20')
+    retry_counter = 5
+    while retry_counter > 0:
+        try:
+            timeout = aiohttp.ClientTimeout(total=30)
+            async with session.get(full_url, timeout=timeout) as response:
+                if response.status == 200:
+                    Path(filepath.parent).mkdir(parents=True, exist_ok=True)
+                    async with aiofiles.open(filepath, "wb") as out_file:
+                        if url['path'].startswith('en/extendRes/'):
+                            ba = await response.content.read()
+                            await out_file.write(bytes(b ^ 0x49 for b in ba))
+                        else:
+                            await out_file.write(await response.content.read())
+                        await out_file.flush()
+                    return f'[+] Download OK - {filepath}'
                 else:
-                    shutil.copyfileobj(response, out_file)
-    except urllib.error.HTTPError as e:
-        return f'[!] Download Failed({e.code}) - {filepath}'
-    return f'[+] Download OK - {filepath}'
+                    return f'[!] Download Failed({response.status}) - {filepath} = {full_url}'
+        except asyncio.TimeoutError as e:
+            retry_counter -= 1
+        except aiohttp.client_exceptions.ClientConnectorError as e:
+            retry_counter -= 1
+    return f'[!] Download Failed(max retry) - {filepath} = {full_url}'
+
+@asyncio.coroutine
+async def download_files(urls):
+    async with aiohttp.ClientSession() as session:
+        download_futures = [download_file(session, url) for url in urls]
+        for download_future in asyncio.as_completed(download_futures):
+            print(await download_future)
 
 def main(overwrite_exist, force_update, original_assets_path):
     server = None
@@ -34,8 +57,6 @@ def main(overwrite_exist, force_update, original_assets_path):
         server = 'https://mahjongsoul.game.yo-star.com'
     elif lang == 'jp':
         server = 'https://game.mahjongsoul.com'
-
-    THREAD = 16
 
     prev_version = None
     prev_version_path = Path(original_assets_path) / 'version.txt'
@@ -70,14 +91,21 @@ def main(overwrite_exist, force_update, original_assets_path):
                 'target': Path(original_assets_path)
             })
 
-    results = ThreadPool(THREAD).imap_unordered(download, urls)
-    for result in results:
-        print(result)
+    connection_num = 256
+
+    try:
+        for chunk in chunks(urls, connection_num):
+            if asyncio.get_event_loop().is_closed():
+                asyncio.set_event_loop(asyncio.new_event_loop())
+            with closing(asyncio.get_event_loop()) as loop:
+                loop.run_until_complete(download_files(chunk))
+    except asyncio.CancelledError:
+        print('[!] Tasks has been canceled')
+        sys.exit(-1)
 
     with open(Path(original_assets_path) / 'version.txt', 'w', encoding='utf-8') as version_file:
         version_file.write('v')
         version_file.write(version)
 
 if __name__ == '__main__':
-    main(False, False, str(Path('./dev-resources/assets-latest')))
-
+    main(True, False, str(Path('./dev-resources/assets-latest')))
