@@ -193,7 +193,7 @@ both_ui/otherplayerinfo_en|0|6|0,3-Player,3인
 both_ui/otherplayerinfo_en|0|7|0,Message,메시지
 both_ui/popwindow|0|4|0,Confirm,확인
 both_ui/popwindow|1|2|0,Confirm,확인
-both_ui/report_nickname|0|2,"If you have found any inappropriate information in the game, please contact our customer support.","게임 중 부적절한 행위를 발견했을 경웨, 고객 지원부에 문의해주세요."
+both_ui/report_nickname|0|2,"If you have found any inappropriate information in the game, please contact our customer support.","게임 중 부적절한 행위를 발견했을 경우, 고객 지원부에 문의해주세요."
 both_ui/report_nickname|0|3|0,Report,신고
 both_ui/report_nickname|0|4|0,Cancel,취소
 both_ui/report_nickname|0|5,Report the nickname,닉네임 신고
@@ -279,7 +279,7 @@ entrance/ios_webview_update|0|1,New update available in iOS. Please download fro
 entrance/maintenance|0|0|2|0,OK,OK
 lobby/activity|0|3|1|1|0|0,Claim,받기
 lobby/activity|0|3|1|2|0|0,Delete,삭제
-lobby/activity|0|3|2,No Mail,메일 없음
+lobby/activity|0|3|2,No Mail,편지 없음
 lobby/activity|0|4|2,No Event,이벤트 없음
 lobby/activitys/activitybase|0|0|1|1|3,coppers,동전: 
 lobby/activitys/activitybase|0|0|1|1|4,Revival Tokens,부활 토큰
@@ -422,7 +422,7 @@ lobby/lobby|5|4|0,Info,정보
 lobby/lobbychat|0|1|0|2|0|0,Send,보내기
 lobby/match_lobby|0|0,Lobby,로비
 lobby/match_lobby|1|0|1|0,Search,검색
-lobby/match_lobby|1|0|2|0,Enter Tournament ID,토너먼트 ID 입력
+lobby/match_lobby|1|0|2|0,Enter Tournament ID,대회 ID 입력
 lobby/match_lobby|1|1|0,Followed only,팔로우 한정
 lobby/match_lobby|1|3|0|2,Followed,팔로우함
 lobby/match_lobby|1|3|0|5,Not started,시작되지 않음
@@ -432,11 +432,11 @@ lobby/match_lobby|1|3|0|7|0,End time:,종료 일시:
 lobby/match_lobby|1|3|0|8,Ended,종료됨
 lobby/match_lobby|1|3|0|8|0,End time:,종료 일시:
 lobby/match_lobby|1|3|0|9|0|0,View,보기
-lobby/match_lobby|1|4,No tournaments,토너먼트 없음
+lobby/match_lobby|1|4,No tournaments,대회 없음
 lobby/match_lobby|1|7|0,My ID:,내 ID:
 lobby/match_lobby|2|0|5|0,Close,닫기
 lobby/match_lobby|2|0|6|0,Enter,입장
-lobby/match_room|0|0,Tournament,토너먼트
+lobby/match_room|0|0,Tournament,대회
 lobby/match_room|1|0|0|0,Home,홈
 lobby/match_room|1|0|1|0,Log,로그
 lobby/match_room|1|0|2|0,Watch,관전
@@ -471,7 +471,7 @@ lobby/match_room|3|0|2,Enter Log Number,로그 번호 입력
 lobby/match_room|3|0|3|0,Confirm,확인
 lobby/match_room|3|0|6|1,Anonymously Share,익명 공유
 lobby/match_room|4|0|2,Criteria not met,기준 미달
-lobby/match_room|4|0|3,You are not eligible to participate in this tournament. Unable to start match,이 토너먼트에 참가할 자격이 없습니다. 경기를 시작할 수 없습니다.
+lobby/match_room|4|0|3,You are not eligible to participate in this tournament. Unable to start match,이 대회에 참가할 자격이 없습니다. 경기를 시작할 수 없습니다.
 lobby/match_room|4|0|4|0,Close,닫기
 lobby/nickname|0|2,Name Your Character,캐릭터 이름
 lobby/nickname|0|4,Name (1-14 chars),이름 (1-14자)
@@ -513,7 +513,7 @@ lobby/paipu|1|6,Collection Limit:,컬렉션 제한:
 lobby/paipu|1|7|0|1,Overview,요약
 lobby/paipu|1|7|1|1,Match,경기
 lobby/paipu|1|7|2|1,Friends,친구
-lobby/paipu|1|7|3|1,Tournament,토너먼트
+lobby/paipu|1|7|3|1,Tournament,대회
 lobby/paipu|1|7|4|1,Collection,컬렉션
 lobby/paipu|1|8,No record,기록 없음
 lobby/paipu|2|2,Enter Log Number,로그 번호 입력
@@ -791,7 +791,7 @@ lobby/visit|2|5|0|0|1|6,Blood Type:,혈액형:
 lobby/visit|2|5|0|0|1|8,CV:,CV:
 lobby/visit|2|5|0|0|1|10,Hobby:,취미:
 lobby/visit|2|5|0|0|1|12,Biography:,약력:
-lobby/visit|2|5|0|0|3|0|0,Emoji,이모지
+lobby/visit|2|5|0|0|3|0|0,Emoji,이모티콘
 lobby/visit|2|5|0|0|3|1|0|1|0,Bond,인연
 lobby/visit|2|5|1|1|0,Requires a 5-heart Bond,5하트 인연 필요
 lobby/visit|2|5|1|1|1|0|0,Gift,선물
@@ -836,7 +836,7 @@ mj/desktopInfo|12|4|1,No Chii/Pon/Kan,치/펑/깡 금지
 mj/desktopInfo|12|4|4,C,울
 mj/desktopInfo|12|5|3,Auto Draw & Discard,자동 쯔모기리
 mj/desktopInfo|12|5|4,D,쯔
-mj/desktopInfo|13|5,Emoji,이모지
+mj/desktopInfo|13|5,Emoji,이모티콘
 mj/gameend|0|6,Match End,경기 종료
 mj/gameend|0|7|2,Added to titles,타이틀에 추가
 mj/gameend|0|8|2,Confirm,확인

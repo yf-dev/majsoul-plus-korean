@@ -135,6 +135,266 @@ FandescFandesc.csv,name_en,Nine Different Terminals and Honors,구종구패
 FandescFandesc.csv,desc_en,You have the option to declare a draw in the first turn if your hand consists of 9 different Terminal Tiles  before any tiles are called,"자신의 첫 쯔모 후 손패에 9개 이상의 서로 다른 요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)가 있을 경우 유국시킬 수 있음(선택적)"
 FandescFandesc.csv,name_en,Four-player Riichi,사가리치
 FandescFandesc.csv,desc_en,The game becomes a draw when all players have declared Riichi,4명의 플레이어가 모두 리치 선언을 했을 경우 유국
+InfoError.csv,en,Unknown error. Please try to refresh the page.,알 수 없는 오류. 페이지를 새로고침 해주세요.
+InfoError.csv,en,System error. Please try to refresh the page.,시스템 오류. 페이지를 새로고침 해주세요.
+InfoError.csv,en,Parameter error. Please try to refresh the page.,매개변수 오류. 페이지를 새로고침 해주세요.
+InfoError.csv,en,Please don’t mess around.,엉망으로 만들지 마십시오.
+InfoError.csv,en,System communication error. Please try to refresh the page.,시스템 통신 오류. 페이지를 새로고침 해주세요.
+InfoError.csv,en,Illegal protocol. Please try to refresh the page.,잘못된 프로토콜. 페이지를 새로고침 해주세요.
+InfoError.csv,en,Unknown error.,알 수 없는 오류.
+InfoError.csv,en,You must enter something.,값을 입력해주세요.
+InfoError.csv,en,Invalid input. Please try another one.,잘못된 입력입니다. 다른 값을 사용해주세요.
+InfoError.csv,en,Server under maintenance.,서버 점검 중입니다.
+InfoError.csv,en,Cannot find corresponding configuration.,해당 구성을 찾을 수 없습니다.
+InfoError.csv,en,Invalid gift code. Please check your input.,잘못된 선물 코드입니다. 입력하신 코드를 다시 확인하세요.
+InfoError.csv,en,This gift code has already been used.,이미 사용한 선물 코드입니다.
+InfoError.csv,en,You have already claimed this gift.,이미 획득한 선물입니다.
+InfoError.csv,en,Login failed. Please try again.,로그인할 수 없습니다. 다시 시도해주세요.
+InfoError.csv,en,Login expired. Please login again.,로그인이 만료되었습니다. 다시 로그인해주세요.
+InfoError.csv,en,Validation failed. Please check your account info and try again.,유효성 검사가 실패했습니다. 계정 정보를 확인한 후 다시 시도해주세요.
+InfoError.csv,en,Invalid gift code.,잘못된 선물 코드입니다.
+InfoError.csv,en,Please wait a while before getting a Verification Code again.,인증 코드를 다시 요청하기 전에 잠시 기다려주십시오.
+InfoError.csv,en,Incorrect Verification Code. Please try again.,정확하지 않은 인증 코드입니다. 다시 시도해주세요.
+InfoError.csv,en,Authorization for the validation has expired. Please try again.,유효성 검사에 대한 권한이 만료되었습니다. 다시 시도해주세요.
+InfoError.csv,en,This mobile number has already been linked.,이 휴대전화 번호는 이미 연결되어 있습니다.
+InfoError.csv,en,Failed to send message. Please try again later.,메시지를 보낼 수 없습니다. 나중에 다시 시도해주세요.
+InfoError.csv,en,Insufficient resources.,리소스가 부족합니다.
+InfoError.csv,en,Your input contains censored content. Please change it.,입력 내용에 검열된 내용이 포함되어 있습니다. 내용을 수정해주세요.
+InfoError.csv,en,Your account has been banned for violating relevant game rules.,당신의 계정은 게임 규정을 위반하여 정지되었습니다.
+InfoError.csv,en,Resource is unique.,리소스가 유일(Unique)합니다.
+InfoError.csv,en,Contains unsupported characters. Please try again.,지원되지 않는 문자가 포함되어 있습니다. 다시 시도해주세요.
+InfoError.csv,en,You cannot send friend requests or leave messages to players from another region.,다른 지역의 플레이어에게 친구 요청을 하거나 메시지를 남길 수 없습니다.
+InfoError.csv,en,This account has already been registered.,이 계정은 이미 등록되었습니다.
+InfoError.csv,en,Account does not exist. Please create an account first.,계정이 존재하지 않습니다. 먼저 계정을 생성해주세요.
+InfoError.csv,en,"Oops, wrong password.","이런, 잘못된 비밀번호입니다."
+InfoError.csv,en,Connection failed. Please try to refresh the page.,연결 실패. 페이지를 새로고침 해주세요.
+InfoError.csv,en,Your account is already logged in.,당신의 계정은 이미 로그인되어 있습니다.
+InfoError.csv,en,"Oops, account does not exist.","이런, 계정이 존재하지 않습니다."
+InfoError.csv,en,You don’t have this character yet.,아직 이 캐릭터를 가지고 있지 않습니다.
+InfoError.csv,en,Character has been unlocked.,캐릭터가 해금되었습니다.
+InfoError.csv,en,You are already logged in on another device.,다른 장치에 이미 로그인되어 있습니다.
+InfoError.csv,en,This name has already been taken. Please try another one.,이 이름은 이미 사용되었습니다. 다른 이름을 사용해 보세요.
+InfoError.csv,en,You don’t have a nickname yet.,아직 닉네임이 없습니다.
+InfoError.csv,en,You already have a nickname.,이미 닉네임이 존재합니다.
+InfoError.csv,en,You need a Rename Scroll to change your nickname.,닉네임을 변경하려면 이름 변경 스크롤이 필요합니다.
+InfoError.csv,en,You can only change your name once in the 30 days.,이름은 30일에 한 번만 변경할 수 있습니다.
+InfoError.csv,en,Real name authentication has already been completed.,실명 인증이 이미 완료되었습니다.
+InfoError.csv,en,Registration closed.,등록이 마감되었습니다.
+InfoError.csv,en,Insufficient VIP level.,VIP 레벨이 부족합니다.
+InfoError.csv,en,You have already claimed this reward.,이 보상은 이미 받았습니다.
+InfoError.csv,en,Unknown error. Please try to refresh the page.(Age),알 수 없는 오류. 페이지를 새로고침 해주세요.(Age)
+InfoError.csv,en,You are currently in a match.,현재 게임 중입니다.
+InfoError.csv,en,Your character name is too long.,캐릭터 이름이 너무 깁니다.
+InfoError.csv,en,"Can`t find this room, please check the room number","방을 찾을 수 없습니다, 방 번호를 확인하십시오"
+InfoError.csv,en,"Oops, room is full.","이런, 방이 가득 찼습니다."
+InfoError.csv,en,This player is no longer in the room. Try refreshing this page if you keep seeing this message.,이 플레이어는 더 이상 방에 없습니다. 이 메시지가 계속 나타나면 이 페이지를 새로고침 해주세요.
+InfoError.csv,en,Unable to perform this action as you are not the room host.,당신이 방 호스트 아니기 때문에 이 작업을 수행 할 수 없습니다.
+InfoError.csv,en,One or more players are not ready yet. Please wait.,한 명 이상의 플레이어가 아직 준비되지 않았습니다. 기다려주세요.
+InfoError.csv,en,You have already joined this room.,이미 이 방에 참여했습니다.
+InfoError.csv,en,You have not joined any room.,어떤 방에도 참여하지 않았습니다.
+InfoError.csv,en,The player you are looking for is not in the room.,찾고 있는 플레이어가 방에 없습니다.
+InfoError.csv,en,You cannot kick yourself from the room.,자신을 방에서 강퇴할 수 없습니다.
+InfoError.csv,en,The match in this room has started,이 방은 게임이 시작되었습니다
+InfoError.csv,en,"Oops, there are no rooms available. Please try again later.","이런, 참가할 수 있는 방이 없습니다. 나중에 다시 시도해주세요."
+InfoError.csv,en,The room is full. Cannot add AI players.,방이 가득 차 있습니다. AI 플레이어를 추가할 수 없습니다.
+InfoError.csv,en,Room mode error. Try restarting the game.,방 모드 오류. 게임을 다시 시작해주세요.
+InfoError.csv,en,The previous match has ended.,이전 게임이 종료되었습니다.
+InfoError.csv,en,This game does not exist.,게임이 존재하지 않습니다.
+InfoError.csv,en,"Oops, you don’t seem to satisfy the entry criteria.","이런, 참가 기준을 만족하지 못하는 것 같습니다."
+InfoError.csv,en,Game has already ended.,게임이 이미 종료되었습니다.
+InfoError.csv,en,Cannot manually end the game.,게임을 수동으로 종료할 수 없습니다.
+InfoError.csv,en,Failed to open match. Please try again later.,게임을 시작할 수 없습니다. 나중에 다시 시도해주세요.
+InfoError.csv,en,Game paused.,게임이 일시정지 되었습니다.
+InfoError.csv,en,Game in progress (1210),게임이 진행중입니다 (1210)
+InfoError.csv,en,The game has been paused for too long.,게임이 너무 오래 일시정지 되었습니다.
+InfoError.csv,en,You're already in matchmaking.,이미 게임을 찾는 중입니다.
+InfoError.csv,en,"Oops, a strange error happened. Please close the pop up window.","이런, 이상한(strange) 오류가 발생했습니다. 팝업 창을 닫아주세요."
+InfoError.csv,en,A strange error happened. Please try a different way.,이상한(strange) 오류가 발생했습니다. 다른 방식으로 다시 시도해주세요.
+InfoError.csv,en,You don’t have enough Coins to enter this room. You can claim Revival Tokens in “Event” once per day.,이 방에 입장하기 위한 동전이 충분하지 않습니다. “이벤트”에서 부활 토큰을 하루에 한 번 받을 수 있습니다.
+InfoError.csv,en,Unable to enter this room with your current rank. Please try another room.,현재 등급으로는 방에 입장할 수 없습니다. 다른 방으로 시도하십시오.
+InfoError.csv,en,This room is under renovation. Please visit somewhere else.,이 방은 보수 공사(renovation) 중입니다. 다른 곳을 방문하십시오.
+InfoError.csv,en,"Invalid login information, please try to relog your game","잘못된 로그인 정보입니다. 다시 로그인해주세요."
+InfoError.csv,en,You are not friends yet.,아직 친구가 아닙니다.
+InfoError.csv,en,You are already friends.,이미 친구입니다.
+InfoError.csv,en,A strange problem happened while searching. Please try a different way.,검색하는 동안 이상한(strange) 문제가 발생했습니다. 다른 방식으로 다시 시도해주세요.
+InfoError.csv,en,We can’t seem to process your query. Please try a different one.,요청을 처리할 수 없습니다. 다른 방식으로 다시 시도해주세요.
+InfoError.csv,en,A strange problem happened during the application. Please try a different way.,애플리케이션에서 이상한(strange) 문제가 발생했습니다. 다른 방식으로 다시 시도해주세요.
+InfoError.csv,en,This player’s application list is full. Unable to send invitation.,이 플레이어의 애플리케이션 목록이 가득 찼습니다. 초대를 보낼 수 없습니다.
+InfoError.csv,en,You cannot have any more friends.,더 이상 친구를 추가할 수 없습니다.
+InfoError.csv,en,You cannot add yourself as a friend.,자신을 친구로 추가할 수 없습니다.
+InfoError.csv,en,This player cannot have any more friends.,이 플레이어는 더 이상 친구를 추가할 수 없습니다.
+InfoError.csv,en,You don’t have this item.,이 아이템을 가지고 있지 않습니다.
+InfoError.csv,en,Insufficient items.,아이템이 부족합니다.
+InfoError.csv,en,This item cannot be used.,이 아이템은 사용할 수 없습니다.
+InfoError.csv,en,This item cannot be created.,이 아이템은 만들 수 없습니다.
+InfoError.csv,en,Unable to find this daily quest.,이 일일 퀘스트를 찾을 수 없습니다.
+InfoError.csv,en,The refresh attempts will reset at 5 A.M. tomorrow morning.,새로고침 횟수는 내일 오전 5시에 초기화됩니다.
+InfoError.csv,en,Mailbox is empty.,우편함이 비어있습니다.
+InfoError.csv,en,This mail does not have any attachments.,이 편지는 첨부(attachment)가 없습니다.
+InfoError.csv,en,You have already claimed the attachment.,이미 첨부(attachment)를 받았습니다.
+InfoError.csv,en,Please claim your uncollected reward first,먼저 획득하지 않은 보상을 받아주세요.
+InfoError.csv,en,Live cast not found. Please try again.,라이브 캐스트를 찾을 수 없습니다. 다시 시도해주세요.
+InfoError.csv,en,You can`t view other region`s match.,다른 지역의 게임은 볼 수 없습니다.
+InfoError.csv,en,Recharge feature is temporarily unavailable.,충전(recharge) 기능을 일시적으로 사용할 수 없습니다.
+InfoError.csv,en,Order not found.,주문을 찾을 수 없습니다.
+InfoError.csv,en,Order has been processed.,주문이 처리되었습니다.
+InfoError.csv,en,Payment platform error.,결제 플랫폼 오류.
+InfoError.csv,en,Unable to find item ID.,아이템 ID를 찾을 수 없습니다.
+InfoError.csv,en,Google platform validation error. Please contact customer support.,구글 플랫폼 유효성 검사 오류. 고객 지원부에 문의해주세요.
+InfoError.csv,en,WeChat Pay cannot be used at the moment.,현재 WeChat Pay를 사용할 수 없습니다.
+InfoError.csv,en,Payment expired. Please purchase again.,결제가 만료되었습니다. 다시 구매해주세요.
+InfoError.csv,en,Alipay cannot be used at the moment.,현재 Alipay를 사용할 수 없습니다.
+InfoError.csv,en,This payment method is currently unavailable.,이 결제 방법은 현재 사용할 수 없습니다.
+InfoError.csv,en,"Failed to create the purchase order, please try again later(JP)","구매 주문을 생성할 수 없으므로, 나중에 다시 시도해주세요(JP)"
+InfoError.csv,en,"In-game recharge is temporarily unavailable, sorry(JP)","게임 내 충전(recharge) 기능을 일시적으로 사용할 수 없습니다, 죄송합니다(JP)"
+InfoError.csv,en,"Failed to create the purchase order, please try again later(YoStar)","구매 주문을 생성할 수 없으므로, 나중에 다시 시도해주세요(YoStar)"
+InfoError.csv,en,"Failed to create the purchase order, please try again later(EN)","구매 주문을 생성할 수 없으므로, 나중에 다시 시도해주세요(EN)"
+InfoError.csv,en,"In-game recharge is temporarily unavailable, sorry(EN)","게임 내 충전(recharge) 기능을 일시적으로 사용할 수 없습니다, 죄송합니다(EN)"
+InfoError.csv,en,You have already claimed Revival Tokens today.,오늘은 이미 부활 토큰을 받았습니다.
+InfoError.csv,en,You still have lots of Coins and don’t need Revival Tokens.,이미 동전이 많아 부활 토큰이 필요하지 않습니다.
+InfoError.csv,en,You don’t have this title yet.,아직 이 타이틀을 가지고 있지 않습니다.
+InfoError.csv,en,This player only allows friends to leave messages.,이 플레이어에게는 친구만 메시지를 전송할 수 있습니다.
+InfoError.csv,en,The player does not allow anyone to leave a message.,이 플레이어는 메시지 수신을 허용하지 않았습니다.
+InfoError.csv,en,You cannot leave yourself a message.,자신에게 메시지를 남길 수 없습니다.
+InfoError.csv,en,You cannot send message while in a match.,게임 중에는 메시지를 전송할 수 없습니다.
+InfoError.csv,en,You cannot delete messages from other people.,다른 사람의 메시지를 삭제할 수 없습니다.
+InfoError.csv,en,You are sending messages too frequently. Please wait for 8 seconds before sending again.,메시지를 너무 자주 보내고 있습니다. 다시 전송하기 전에 8초 동안 기다려주세요.
+InfoError.csv,en,Unable to find this chest.,이 상자를 찾을 수 없습니다.
+InfoError.csv,en,Incorrect summon attempts.,잘못된 기원 시도입니다.
+InfoError.csv,en,Game logs you saved have reached the limit,저장한 게임 로그가 한계에 도달했습니다
+InfoError.csv,en,Daily reward was already collected or Fortune Charm wasn't purchased yet,일일 보상을 이미 획득했거나 행운의 부적을 아직 구매하지 않았습니다
+InfoError.csv,en,Fortune Charm maximum duration exseeded,행운의 부적 최대 기간 초과
+InfoError.csv,en,The number of purchases has reached the ceiling and cannot be re-purchased,구매 횟수가 상한선에 도달하여 더 이상 구매할 수 없습니다.
+InfoError.csv,en,This item cannot be sent as a gift. Keep it to yourself.,이 아이템은 선물할 수 없습니다. 스스로 간직하세요.
+InfoError.csv,en,Cannot send any more gifts today.,오늘은 더 이상 선물을 보낼 수 없습니다.
+InfoError.csv,en,Maximum Bond reached.,최대 인연에 도달했습니다.
+InfoError.csv,en,The Bond between you and this character is not deep enough.,캐릭터와의 인연이 충분히 깊지 않습니다.
+InfoError.csv,en,You cannot have a bonding promise with this character yet.,이 캐릭터와는 아직 인연을 가질 수 없습니다.
+InfoError.csv,en,Emoji locked. Unable to be used.,이모티콘이 잠겨있습니다. 사용할 수 없습니다.
+InfoError.csv,en,The God doesn’t like this item.,신(The God)께서는 이 아이템을 좋아하지 않으십니다.
+InfoError.csv,en,Item not found.,아이템을 찾을 수 없습니다.
+InfoError.csv,en,Item sold out.,매진된 아이템입니다.
+InfoError.csv,en,Attempt to buy items that have not appeared in Misc Shop.,잡화 상점에 표시되지 않은 아이템을 구입하려고 시도했습니다.
+InfoError.csv,en,No more refresh chances today.,오늘은 더 이상 새로고침할 수 없습니다.
+InfoError.csv,en,Item infor not received,아이템 정보를 받지 못했습니다
+InfoError.csv,en,"Item price has changed, please refresh the page and purchase again","아이템 가격이 변경되었습니다, 페이지를 새로고침하고 다시 구매해주세요"
+InfoError.csv,en,Item can only be purchased once,아이템은 한 번만 구매할 수 있습니다
+InfoError.csv,en,Item was not Offering period expired,아이템 기간이 만료되지 않았습니다
+InfoError.csv,en,Cannot find this tournament. Refresh the page and try again.,이 대회를 찾을 수 없습니다. 페이지를 새로고침하고 다시 시도해주세요.
+InfoError.csv,en,Maximum number of tournaments reached.,최대 대회 수에 도달햇습니다.
+InfoError.csv,en,Tournament ID generation error. Please try again later.,대회 ID 생성 오류. 나중에 다시 시도해주세요.
+InfoError.csv,en,Repeated login. Please try to refresh the page.,반복 로그인. 페이지를 새로고침해주세요.
+InfoError.csv,en,Not logged in. Please login.,로그인되지 않음. 로그인해주세요.
+InfoError.csv,en,You do not have the permission to do this.,이 동작을 수행할 권한이 없습니다.
+InfoError.csv,en,Tournament has not started yet.,대회가 아직 시작되지 않았습니다.
+InfoError.csv,en,Tournament has already ended.,대회가 이미 종료되었습니다.
+InfoError.csv,en,This player is not in the waiting list. Please try to refresh the page.,이 플레이어는 대기 목록에 없습니다. 페이지를 새로고침해주세요.
+InfoError.csv,en,Other admin is working on this player.,다른 관리자는 이 플레이어에서 작업하고 있습니다.
+InfoError.csv,en,You cannot participate in this tournament due to the name list restriction. Please contact a tournament admin.,이름 목록 제한으로 인해 이 대회에 참여할 수 없습니다. 대회 관리자에게 문의해주세요.
+InfoError.csv,en,You cannot send chat messages due to tournament room restrictions.,대회 방 제한으로 인해 채팅 메시지를 보낼 수 없습니다.
+InfoError.csv,en,Only the tournament creator can perform this action.,대회 개최자만 이 작업을 수행할 수 있습니다.
+InfoError.csv,en,You can only assign up to 20 admins.,관리자는 최대 20명까지만 할당할 수 있습니다.
+InfoError.csv,en,Each account can only create up to 1 tournament every 7 days.,각 계정은 7일마다 최대 1개의 대회를 개최할 수 있습니다.
+InfoError.csv,en,Your account does not have the permission to create a tournament.,당신의 계정은 대회를 개최할 권한이 없습니다.
+InfoError.csv,en,Tournament parameter configuration error.,대회 매개변수 구성 오류.
+InfoError.csv,en,You cannot participate in this tournament because you have not reached the required rank. Please consult the tournament organizer for more details.,요구 등급에 도달하지 못해 이 대회에 참여할 수 없습니다. 자세한 내용은 대회 관리자에게 문의하세요.
+InfoError.csv,en,You have played too many matches and cannot continue to take part in this tournament. Please consult the tournament organizer for more details.,너무 많은 게임을 진행하여 이 대회에 더 이상 참여할 수 없습니다. 세한 내용은 대회 관리자에게 문의하세요.
+InfoError.csv,en,This player is in matchmaking.,이 플레이어는 게임을 찾는 중입니다.
+InfoError.csv,en,"Due to the server entry limit, you cannot participate in this tournament.","서버 입장 제한으로 인해 이 대회에 참여할 수 없습니다."
+InfoError.csv,en,Event does not exist. Please try to refresh the page.,이벤트가 존재하지 않습니다. 페이지를 새로고침해주세요.
+InfoError.csv,en,This event has already ended.,이 이벤트는 이미 종료되었습니다.
+InfoError.csv,en,You have claimed all available rewards.,획득 가능한 모든 보상을 받았습니다.
+InfoError.csv,en,Quest has not been accepted.,퀘스트가 수락되지 않았습니다.
+InfoError.csv,en,Quest incomplete.,퀘스트가 완료되지 않았습니다.
+InfoError.csv,en,Upper limit of collection,수집 상한
+InfoError.csv,en,Unable to claim the rewards right now,지금 보상을 받을 수 없습니다.
+InfoError.csv,en,The rewards has already been claimed,보상을 이미 받았습니다.
+InfoError.csv,en,Not enough attempts,더 이상 시도할 수 없습니다.
+InfoError.csv,en,Invalid block,잘못된 칸(block)
+InfoError.csv,en,Unable to claim rewards from this block,이 칸에서 보상을 받을 수 없습니다
+InfoError.csv,en,You have already checked in,이미 체크인했습니다
+InfoError.csv,en,Mahjong Soul Shrine has received your response. Thank you for your contribution in making a better gaming environment!,혼천신사에서 당신의 응답(response)을 받았습니다. 더 나은 게임 환경을 만드는 데 기여해주셔서 감사합니다!
+VipVip.csv,name_en,No,없음
+VipVip.csv,desc_en,Daily Gift Attempts: 2 \n Max No. of Friends +0 \n Misc Shop Refresh Attempts: 5 \n Misc Shop Free Refresh: 0 \n Bond Bonus from Matches +0%\n Log Collection Limit: 20,일일 선물 상한: 2 \n 친구 수 상한 +0 \n 잡화 상점 일일 새로고침 횟수: 5 \n 잡화 상점 무료 새로고침 횟수: 0 \n 단위전 인연 보너스 +0%\n 로그 컬렉션 갯수: 20
+VipVip.csv,name_en,Soul Contractor - Beginner,혼의 계약자 - 초급
+VipVip.csv,desc_en,Daily Gift Attempts: 4 \n Max No. of Friends +0 \n Misc Shop Refresh Attempts: 6 \n Misc Shop Free Refresh: 1 \n Bond Bonus from Matches +50%\n Log Collection Limit: 25,일일 선물 상한: 4 \n 친구 수 상한 +0 \n 잡화 상점 일일 새로고침 횟수: 6 \n 잡화 상점 무료 새로고침 횟수: 1 \n 단위전 인연 보너스 +50%\n 로그 컬렉션 갯수: 25
+VipVip.csv,name_en,Soul Contractor - Intermediate,혼의 계약자 - 중급
+VipVip.csv,desc_en,Daily Gift Attempts: 6 \nMax No. of Friends +10\n Misc Shop Refresh Attempts: 7 \n Misc Shop Free Refresh: 1 \n Bond Bonus from Matches +75%\n Log Collection Limit: 30,일일 선물 상한: 6 \n친구 수 상한 +10\n 잡화 상점 일일 새로고침 횟수: 7 \n 잡화 상점 무료 새로고침 횟수: 1 \n 단위전 인연 보너스 +75%\n 로그 컬렉션 갯수: 30
+VipVip.csv,name_en,Soul Contractor - Senior,혼의 계약자 - 상급
+VipVip.csv,desc_en,Daily Gift Attempts: 8 \n Max No. of Friends +20 \n Misc Shop Refresh Attempts: 8 \n Misc Shop Free Refresh: 1 \n Bond Bonus from Matches +100%\n Log Collection Limit: 35,일일 선물 상한: 8 \n 친구 수 상한 +20 \n 잡화 상점 일일 새로고침 횟수: 8 \n 잡화 상점 무료 새로고침 횟수: 1 \n 단위전 인연 보너스 +100%\n 로그 컬렉션 갯수: 35
+VipVip.csv,name_en,Soul Enlightener - Beginner,혼의 계몽자 - 초급
+VipVip.csv,desc_en,Daily Gift Attempts: 10 \n Max No. of Friends +30 \n Misc Shop Refresh Attempts: 9 \n Misc Shop Free Refresh: 1 \n Bond Bonus from Matches +120%\n Log Collection Limit: 40,일일 선물 상한: 10 \n 친구 수 상한 +30 \n 잡화 상점 일일 새로고침 횟수: 9 \n 잡화 상점 무료 새로고침 횟수: 1 \n 단위전 인연 보너스 +120%\n 로그 컬렉션 갯수: 40
+VipVip.csv,name_en,Soul Enlightener - Intermediate,혼의 계몽자 - 중급
+VipVip.csv,desc_en,Daily Gift Attempts: 12 \n Max No. of Friends +40 \n Misc Shop Refresh Attempts: 10 \n Misc Shop Free Refresh: 1 \n Bond Bonus from Matches +140%\n Log Collection Limit: 45,일일 선물 상한: 12 \n 친구 수 상한 +40 \n 잡화 상점 일일 새로고침 횟수: 10 \n 잡화 상점 무료 새로고침 횟수: 1 \n 단위전 인연 보너스 +140%\n 로그 컬렉션 갯수: 45
+VipVip.csv,name_en,Soul Enlightener - Senior,혼의 계몽자 - 상급
+VipVip.csv,desc_en,Daily Gift Attempts: 14 \n Max No. of Friends +50 \n Misc Shop Refresh Attempts: 11 \n Misc Shop Free Refresh: 2 \n Bond Bonus from Matches +160%\n Log Collection Limit: 50,일일 선물 상한: 14 \n 친구 수 상한 +50 \n 잡화 상점 일일 새로고침 횟수: 11 \n 잡화 상점 무료 새로고침 횟수: 2 \n 단위전 인연 보너스 +160%\n 로그 컬렉션 갯수: 50
+VipVip.csv,name_en,Soul Creator - Beginner,혼의 창조자 - 초급
+VipVip.csv,desc_en,Daily Gift Attempts: 16 \n Max No. of Friends +60 \n Misc Shop Refresh Attempts: 12 \n Misc Shop Free Refresh: 2 \n Bond Bonus from Matches +200%\n Log Collection Limit: 55,일일 선물 상한: 16 \n 친구 수 상한 +60 \n 잡화 상점 일일 새로고침 횟수: 12 \n 잡화 상점 무료 새로고침 횟수: 2 \n 단위전 인연 보너스 +200%\n 로그 컬렉션 갯수: 55
+VipVip.csv,name_en,Soul Creator - Intermediate,혼의 창조자 - 중급
+VipVip.csv,desc_en,Daily Gift Attempts: 18 \n Max No. of Friends +70 \n Misc Shop Refresh Attempts: 13 \n Misc Shop Free Refresh: 2 \n Bond Bonus from Matches +200%\n Log Collection Limit: 60,일일 선물 상한: 18 \n 친구 수 상한 +70 \n 잡화 상점 일일 새로고침 횟수: 13 \n 잡화 상점 무료 새로고침 횟수: 2 \n 단위전 인연 보너스 +200%\n 로그 컬렉션 갯수: 60
+VipVip.csv,name_en,Soul Creator - Senior,혼의 창조자 - 상급
+VipVip.csv,desc_en,Daily Gift Attempts: 20 \n Max No. of Friends +80 \n Misc Shop Refresh Attempts: 14 \n Misc Shop Free Refresh: 3 \n Bond Bonus from Matches +200%\n Log Collection Limit: 65,일일 선물 상한: 20 \n 친구 수 상한 +80 \n 잡화 상점 일일 새로고침 횟수: 14 \n 잡화 상점 무료 새로고침 횟수: 3 \n 단위전 인연 보너스 +200%\n 로그 컬렉션 갯수: 65
+VipVip.csv,name_en,Soul Excelsior,혼의 초월자
+VipVip.csv,desc_en,Daily Gift Attempts: 22 \n Max No. of Friends +90 \n Misc Shop Refresh Attempts: 15 \n Misc Shop Free Refresh: 4 \n Bond Bonus from Matches +200%\n Log Collection Limit: 70,일일 선물 상한: 22 \n 친구 수 상한 +90 \n 잡화 상점 일일 새로고침 횟수: 15 \n 잡화 상점 무료 새로고침 횟수: 4 \n 단위전 인연 보너스 +200%\n 로그 컬렉션 갯수: 70
+VipVip.csv,name_en,Cat Food Supplier,캣푸드 상인
+VipVip.csv,desc_en,Daily Gift Attempts: 25 \n Max No. of Friends +100 \n Misc Shop Refresh Attempts: 20 \n Misc Shop Free Refresh: 5 \n Bond Bonus from Matches +200%\n Log Collection Limit: 75,일일 선물 상한: 25 \n 친구 수 상한 +100 \n 잡화 상점 일일 새로고침 횟수: 20 \n 잡화 상점 무료 새로고침 횟수: 5 \n 단위전 인연 보너스 +200%\n 로그 컬렉션 갯수: 75
+VipVip.csv,name_en,Royal Cat Guard,고양이 왕국의 수호자
+VipVip.csv,desc_en,Daily Gift Attempts: 30 \n Max No. of Friends +110 \n Misc Shop Refresh Attempts: 25 \n Misc Shop Free Refresh: 7 \n Bond Bonus from Matches +250%\n Log Collection Limit: 80,일일 선물 상한: 30 \n 친구 수 상한 +110 \n 잡화 상점 일일 새로고침 횟수: 25 \n 잡화 상점 무료 새로고침 횟수: 7 \n 단위전 인연 보너스 +250%\n 로그 컬렉션 갯수: 80
+ItemDefinitionCurrency.csv,name_en,Jade,휘옥
+ItemDefinitionCurrency.csv,desc_en,Can be used to buy props.,소품(props)을 구입하는데 사용할 수 있습니다.
+ItemDefinitionCurrency.csv,name_en,Copper,동전
+ItemDefinitionCurrency.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
+ItemDefinitionCurrency.csv,name_en,Outfit Voucher,의상 교환권
+ItemDefinitionCurrency.csv,desc_en,A currency used to purchase outfits,의상을 구입하는데 사용되는 화폐입니다.
+DesktopChest.csv,name_en,Silver Chest,은 상자
+DesktopChest.csv,name_en,Gold Chest,금 상자
+DesktopChest.csv,name_en,Jade Chest,비취 상자
+DesktopChest.csv,name_en,King’s Chest,왕의 상자
+DesktopChest.csv,name_en,Casual Chest,캐주얼 상자
+ExchangeSearchexchange.csv,name_en,200 Summon Stones,200 기원의 소옥
+ExchangeSearchexchange.csv,desc_en,Collect a specific amount to summon.,기원하기 위해 특정량을 모으세요.
+ExchangeSearchexchange.csv,name_en,"1,800 Summon Stones","1,800 기원의 소옥"
+ExchangeExchange.csv,name_en,"5,000 Coppers","5,000 동전"
+ExchangeExchange.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
+ExchangeExchange.csv,name_en,"30,000 Coppers","30,000 동전"
+ExchangeExchange.csv,name_en,"60,000 Coppers","60,000 동전"
+ExchangeExchange.csv,name_en,"300,000 Coppers","300,000 동전"
+ExchangeExchange.csv,name_en,"500,000 Coppers","500,000 동전"
+ExchangeExchange.csv,name_en,"1,000,000 Coppers","1,000,000 동전"
+GameLiveSelectFilters.csv,name1_en,Friends Room,친선전
+GameLiveSelectFilters.csv,name2_en,4-Player East,4인 동풍전
+GameLiveSelectFilters.csv,name2_en,4-Player South,4인 반장전
+GameLiveSelectFilters.csv,name1_en,Bronze Room,동탁
+GameLiveSelectFilters.csv,name2_en,Best of One Game,최고의 한게임
+GameLiveSelectFilters.csv,name1_en,Silver Room,은탁
+GameLiveSelectFilters.csv,name1_en,Gold Room,금탁
+GameLiveSelectFilters.csv,name1_en,Jade Room,옥탁
+GameLiveSelectFilters.csv,name1_en,Melee Room,Melee Room
+GameLiveSelectFilters.csv,name1_en,Throne Room,왕좌탁
+GameLiveSelectFilters.csv,name2_en,3-Player East,3인 동풍전
+GameLiveSelectFilters.csv,name2_en,3-Player South,3인 반장전
+LevelDefinitionLevelDefinition.csv,name_en,Novice,초심
+LevelDefinitionLevelDefinition.csv,full_name_en,Novice I,초심 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Novice II,초심 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Novice III,초심 III
+LevelDefinitionLevelDefinition.csv,name_en,Intermediate,작사
+LevelDefinitionLevelDefinition.csv,full_name_en,Adept I,작사 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Adept II,작사 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Adept III,작사 III
+LevelDefinitionLevelDefinition.csv,name_en,Expert,작걸
+LevelDefinitionLevelDefinition.csv,full_name_en,Expert I,작걸 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Expert II,작걸 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Expert III,작걸 III
+LevelDefinitionLevelDefinition.csv,name_en,Master,작호
+LevelDefinitionLevelDefinition.csv,full_name_en,Master I,작호 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Master II,작호 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Master III,작호 III
+LevelDefinitionLevelDefinition.csv,name_en,Saint,작성
+LevelDefinitionLevelDefinition.csv,full_name_en,Saint I,작성 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Saint II,작성 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Saint III,작성 III
+LevelDefinitionLevelDefinition.csv,name_en,Celestial,혼천
+LevelDefinitionLevelDefinition.csv,full_name_en,Celestial,혼천
 FanFan.csv,name_en,Fully Concealed Hand,멘젠쯔모
 FanFan.csv,name_en,Riichi,리치
 FanFan.csv,name_en,Robbing a Kan,창깡
@@ -199,202 +459,8 @@ FanFan.csv,name_en,Bamboo Forest,대죽림
 FanFan.csv,name_en,Numerous Neighbours,대수린
 FanFan.csv,name_en,Ishinouenimosannen,돌 위에서 삼년
 FanFan.csv,name_en,Big Seven Stars,대칠성
-StrStr.csv,en,Deal-in is not the end; All Last is only the beginning!,"쏘였다고 경기에서 패배한 것은 아니며, 최종국은 또다른 시작일 뿐입니다!"
-StrStr.csv,en,"No matter how big your hand is, a Tanyao will end it all.","내 손패가 아무리 강해도, 탕야오 한번에 끝날 수 있습니다."
-StrStr.csv,en,"You must have Yaku to declare a win. Before you make a call (Chii/Pon/Kan), make sure you check if you have Yaku.",화료하기 위해서는 역이 필요합니다. 울기(치/펑/깡) 전에 역이 있는지 꼭 확인하세요.
-StrStr.csv,en,Go to settings menu to view all types of Yaku,설정 메뉴에서 모든 역을 확인할 수 있습니다.
-StrStr.csv,en,"In settings, you can choose to play a tile with single or double click",설정에서 한번 터치 또는 두번 터치로 타패하도록 변경할 수 있습니다.
-StrStr.csv,en,Players who use IE or Opera browsers may encounter lag issues. We recommend Chrome，FireFox or Edge browsers.,"인터넷 익스플로러 또는 오페라 브라우저에서는 게임이 원할하게 구동되지 않을 수 있습니다. 크롬, 파이어폭스, 엣지 브라우저를 사용하는 것을 추천합니다."
-StrStr.csv,en,Mangan at Draw,유국만관
-StrStr.csv,en,Four-Wind Discarded,사풍연타
-StrStr.csv,en,Four-kan Abortion,사깡유국
-StrStr.csv,en,Four-player Riichi,사가리치
-StrStr.csv,en,Nine Different Terminals and Honors,구종구패
-StrStr.csv,en,Three Rons Draw,트리플론
-StrStr.csv,en,Ippatsu,일발
-StrStr.csv,en,Exhaustive Draw,유국
-StrStr.csv,en,Nine Terminal Initial Draw,구종구패
-StrStr.csv,en,Four Winds Draw,사풍연타
-StrStr.csv,en,Four Quads Draw,사깡유국
-StrStr.csv,en,Four Riichi Draw,사가리치
-StrStr.csv,en,Tsumo,쯔모
-StrStr.csv,en,Ron,론
-StrStr.csv,en,Riichi,리치
-StrStr.csv,en,Furiten,후리텐
-StrStr.csv,en,Deal-in,방총
-StrStr.csv,en,Cancel,취소
-StrStr.csv,en,4-Player,4인
-StrStr.csv,en,3-Player,3인
-StrStr.csv,en,1 Han,1판
-StrStr.csv,en,2 Han,2판
-StrStr.csv,en,3 Han,3판
-StrStr.csv,en,6 Han,6판
-StrStr.csv,en,Mangan,만관
-StrStr.csv,en,Yakuman,역만
-StrStr.csv,en,Double Yakuman,더블 역만
-StrStr.csv,en,Draw,유국
-StrStr.csv,en,Menzenchin Only,멘젠 한정
-StrStr.csv,en,Yaku Overview,역 요약
-StrStr.csv,en,Close,닫기
-StrStr.csv,en,나가기,Exit
-StrStr.csv,en,Auto Arrange,자동정렬
-StrStr.csv,en,Auto Call Win,자동화료
-StrStr.csv,en,No Chii/Pon/Kan,울기금지
-StrStr.csv,en,Auto Draw & Discard,자동쯔모기리
-StrStr.csv,en,4 Han,4판
-StrStr.csv,en,Local Yaku,로컬역
-StrStr.csv,en,Logging In...,로그인 중...
-StrStr.csv,en,View Yaku,역 보기
-StrStr.csv,en,Log Out,로그아웃
-StrStr.csv,en,Rank,랭킹
-StrStr.csv,en,Info,정보
-StrStr.csv,en,Turn,순:
-StrStr.csv,en,Wall,패산
-StrStr.csv,en,Repeat Counter,연장
-StrStr.csv,en,Ranked Match,단위전
-StrStr.csv,en,Recent High Score,최근 고득점
-StrStr.csv,en,Confirm,확인
-StrStr.csv,en,Trends,트렌드
-StrStr.csv,en,Detailed Info,상세 정보
-StrStr.csv,en,East Round,동풍전
-StrStr.csv,en,1st,1위
-StrStr.csv,en,2nd,2위
-StrStr.csv,en,3rd,3위
-StrStr.csv,en,4th,4위
-StrStr.csv,en,Negative,들통
-StrStr.csv,en,Total Played,총 플레이 수
-StrStr.csv,en,Avg Score,평균 점수
-StrStr.csv,en,Avg Rank,평균 순위
-StrStr.csv,en,Max Repeats,최대 연장
-StrStr.csv,en,Win Rate,승률
-StrStr.csv,en,Tsumo Rate,쯔모 비율
-StrStr.csv,en,Deal-in Rate,방총율
-StrStr.csv,en,Call Rate,울기 비율
-StrStr.csv,en,Riichi Rate,리치 비율
-StrStr.csv,en,South Round,반장전
-StrStr.csv,en,Yaku Achieved,달성한 역
-StrStr.csv,en,Quest,퀘스트
-StrStr.csv,en,Settings,설정
-StrStr.csv,en,BGM,배경음
-StrStr.csv,en,Mute,음소거
-StrStr.csv,en,SE,효과음
-StrStr.csv,en,Voice,음성
-StrStr.csv,en,Audio,오디오
-StrStr.csv,en,Preference,환경설정
-StrStr.csv,en,Single tap,한번 터치
-StrStr.csv,en,Double tap,두번 터치
-StrStr.csv,en,Message,메시지
-StrStr.csv,en,Anybody,누구나
-StrStr.csv,en,Friends only,친구만
-StrStr.csv,en,Forbid all,모두 금지
-StrStr.csv,en,Others,기타
-StrStr.csv,en,High FPS mode,고사양 모드
-StrStr.csv,en,Power saving mode,저사양 모드
-StrStr.csv,en,Restart Now,지금 재시작
-StrStr.csv,en,Authentication,인증
-StrStr.csv,en,Gift Code,기프트 코드
-StrStr.csv,en,Tutorials,튜토리얼
-StrStr.csv,en,View Yaku,역 보기
-StrStr.csv,en,Log Out,로그아웃
-StrStr.csv,en,Tap to close,탭하여 닫기
-StrStr.csv,en,Added to titles,타이틀에 추가됨
-StrStr.csv,en,Enter a Gift Code to claim rewards,보상을 받기 위해 기프트 코드 입력
-StrStr.csv,en,Mute this for 5m,5분 동안 음소거
-StrStr.csv,en,Join,참가
-StrStr.csv,en,Invites you to join,게임 초대
-StrStr.csv,en,Auto-cancel after 3 minutes,3분 뒤 자동 취소
-StrStr.csv,en,Add,추가
-StrStr.csv,en,Enter number,번호 입력
-StrStr.csv,en,No Red Five,적도라 없음
-StrStr.csv,en,3 Red Five,적도라 3개
-StrStr.csv,en,4 Red Five,적도라 4개
-StrStr.csv,en,2 Red Five,적도라 2개
-StrStr.csv,en,Just now,지금
-StrStr.csv,en,minutes,분
-StrStr.csv,en,hours,시간
-StrStr.csv,en,days,일
-StrStr.csv,en,weeks,주
-StrStr.csv,en,months,개월
-StrStr.csv,en,Second,초
-StrStr.csv,en,Minute,분
-StrStr.csv,en,Hour,시
-StrStr.csv,en,Day,일
-StrStr.csv,en,AI(Easy),AI(쉬움)
-StrStr.csv,en,AI(Normal),AI(보통)
-StrStr.csv,en,Friendly Match,친선전
-StrStr.csv,en,4-Player (1 Game),4인 (단판)
-StrStr.csv,en,4-Player East,4인 동풍전
-StrStr.csv,en,4-Player South,4인 반장전
-StrStr.csv,en,4-Player (vs AI),4인 (vs AI)
-StrStr.csv,en,3-Player (1 Game),3인 (단판)
-StrStr.csv,en,3-Player East,3인 동풍전
-StrStr.csv,en,3-Player South,3인 반장전
-StrStr.csv,en,3-Player (vs AI),3인 (vs AI)
-StrStr.csv,en,Current version,현재 버전
-StrStr.csv,en,Join Room #,참가: Room #
-StrStr.csv,en,Mode,모드
-StrStr.csv,en,Thinking Time,턴 시간 제한
-StrStr.csv,en,Number of Red Five,적도라 수
-StrStr.csv,en,Open Tanyao,쿠이탕
-StrStr.csv,en,No,아니오
-StrStr.csv,en,Yes,예
-StrStr.csv,en,Starting Points,시작 점수
-StrStr.csv,en,Minimum Points to Win,최소 승리 점수
-StrStr.csv,en,Negative Points,들통 점수
-StrStr.csv,en,Upper Limit,상한
-StrStr.csv,en,Riichi Points,리치 점수
-StrStr.csv,en,Repeat Counter Points,연장 점수
-StrStr.csv,en,No-Tenpai Penalty,노텐 패널티
-StrStr.csv,en,Game Tips,게임 팁
-StrStr.csv,en,Enable,활성화
-StrStr.csv,en,Disable,비활성화
-StrStr.csv,en,Finding opponents,상대방을 찾는 중
-StrStr.csv,en,Starting soon,잠시 후 시작: 
-StrStr.csv,en,Ranked,단위전
-GameLiveSelectFilters.csv,name1_en,Friends Room,친선전
-GameLiveSelectFilters.csv,name2_en,4-Player East,4인 동풍전
-GameLiveSelectFilters.csv,name2_en,4-Player South,4인 반장전
-GameLiveSelectFilters.csv,name1_en,Bronze Room,동탁
-GameLiveSelectFilters.csv,name2_en,Best of One Game,최고의 한게임
-GameLiveSelectFilters.csv,name1_en,Silver Room,은탁
-GameLiveSelectFilters.csv,name1_en,Gold Room,금탁
-GameLiveSelectFilters.csv,name1_en,Jade Room,옥탁
-GameLiveSelectFilters.csv,name1_en,Melee Room,Melee Room
-GameLiveSelectFilters.csv,name1_en,Throne Room,왕좌탁
-GameLiveSelectFilters.csv,name2_en,3-Player East,3인 동풍전
-GameLiveSelectFilters.csv,name2_en,3-Player South,3인 반장전
-DesktopMatchmode.csv,room_name_en,Bronze Room,동탁
-DesktopMatchmode.csv,room_name_en,Silver Room,은탁
-DesktopMatchmode.csv,room_name_en,Gold Room,금탁
-DesktopMatchmode.csv,room_name_en,Jade Room,옥탁
-DesktopMatchmode.csv,room_name_en,Melee Room,Melee Room
-DesktopMatchmode.csv,room_name_en,Throne Room,왕좌탁
-DesktopMatchmode.csv,room_name_en,Casual Match,캐주얼
-DesktopMatchmode.csv,room_name_en,DoraDorara,도라도라라
-DesktopMatchmode.csv,room_name_en,Open Hand Match,Open Hand Match
-DesktopMatchmode.csv,room_name_en,Chaotic Wall Break,Chaotic Wall Break
-AudioBgm.csv,name_en,Sakura,벛꽃
-AudioBgm.csv,unlock_desc_en,,
-AudioBgm.csv,name_en,Midsummer,한여름
-AudioBgm.csv,unlock_desc_en,Unlock by event,이벤트로 해제
-AudioBgm.csv,name_en,Bamboo,대나무
-CharacterEmoji.csv,unlock_desc_en,Bond,인연
-CharacterEmoji.csv,after_unlock_desc_en,,
-CharacterEmoji.csv,unlock_desc_en,,
-CharacterEmoji.csv,unlock_desc_en,Event,이벤트
-CharacterEmoji.csv,after_unlock_desc_en,9/27  (PDT),9/27  (PDT)
-CharacterEmoji.csv,after_unlock_desc_en,10/30 (PDT),10/30 (PDT)
-CharacterEmoji.csv,after_unlock_desc_en,11/09 (PDT),11/09 (PDT)
-CharacterEmoji.csv,after_unlock_desc_en,12/11(PDT),12/11(PDT)
-CharacterEmoji.csv,after_unlock_desc_en,12/26(PDT),12/26(PDT)
-CharacterEmoji.csv,unlock_desc_en,Sticker Shop,스티커 상점
-CharacterEmoji.csv,after_unlock_desc_en,2/28(UTC-7),2/28(UTC-7)
-CharacterEmoji.csv,unlock_desc_en,Unlock Outfit,의상으로 해제
-CharacterEmoji.csv,after_unlock_desc_en,Christmas,크리스마스
-CharacterEmoji.csv,after_unlock_desc_en,Halloween,할로윈
-CharacterEmoji.csv,after_unlock_desc_en,Beach Party,비치 파티
-CharacterEmoji.csv,after_unlock_desc_en,New Year,신년
-CharacterEmoji.csv,after_unlock_desc_en,Spring Festival,봄 축제
+ChestChest.csv,name_en,Summon,기원
+ChestChest.csv,desc_en,"For each summon: you can get 1 Faith, with a chance to draw an all-new character and decorations. \n\n Character drop rates: 5% \n Decoration drop rates: 15% \n Gift drop rates: 80% \n\n If summoned a duplicate character, will be converted into Wishing Stones. \n Duplicate decorations will be converted into Star Stones.","기원할 때 마다 1개의 신앙을 획득하며, 새로운 캐릭터와 장식을 얻을 기회가 주어집니다. \n\n 캐릭터 획득 확률: 5% \n 장식 획득 확률: 15% \n 선물 획득 확률: 80% \n\n 중복된 캐릭터는 기도의 소옥으로 전환됩니다. \n 중복된 장식은 별의 소옥으로 전환됩니다."
 ItemDefinitionCharacter.csv,name_en,Ichihime,이치히메
 ItemDefinitionCharacter.csv,desc_stature_en,154 cm,154 cm
 ItemDefinitionCharacter.csv,desc_birth_en,11th January,1월 11일
@@ -556,3 +622,185 @@ ItemDefinitionCharacter.csv,desc_birth_en,13th April,4월 13일
 ItemDefinitionCharacter.csv,desc_cv_en,Tetsuya Kakihara,카키하라 테츠야
 ItemDefinitionCharacter.csv,desc_hobby_en,"Fruit, hunting, game consoles","과일, 사냥, 게임기"
 ItemDefinitionCharacter.csv,desc_en,"Ein is the descendant of an ancient race. Their most significant trait is their appearance. Male or female, old or young, all of them have some characteristics that can be linked to animals. He took his father's words to look for a hunting ground when he was 16. Accidentally, he stepped onto the land of far east where his instinct was awakened by a certain object. It is at this moment, he realized he have already found his ""hunting ground"".","Ein is the descendant of an ancient race. Their most significant trait is their appearance. Male or female, old or young, all of them have some characteristics that can be linked to animals. He took his father's words to look for a hunting ground when he was 16. Accidentally, he stepped onto the land of far east where his instinct was awakened by a certain object. It is at this moment, he realized he have already found his ""hunting ground""."
+AudioBgm.csv,name_en,Sakura,벛꽃
+AudioBgm.csv,unlock_desc_en,,
+AudioBgm.csv,name_en,Midsummer,한여름
+AudioBgm.csv,unlock_desc_en,Unlock by event,이벤트로 해제
+AudioBgm.csv,name_en,Bamboo,대나무
+DesktopMatchmode.csv,room_name_en,Bronze Room,동탁
+DesktopMatchmode.csv,room_name_en,Silver Room,은탁
+DesktopMatchmode.csv,room_name_en,Gold Room,금탁
+DesktopMatchmode.csv,room_name_en,Jade Room,옥탁
+DesktopMatchmode.csv,room_name_en,Melee Room,근접탁
+DesktopMatchmode.csv,room_name_en,Throne Room,왕좌탁
+DesktopMatchmode.csv,room_name_en,Casual Match,캐주얼
+DesktopMatchmode.csv,room_name_en,DoraDorara,도라도라라
+DesktopMatchmode.csv,room_name_en,Open Hand Match,손패 공개
+DesktopMatchmode.csv,room_name_en,Chaotic Wall Break,혼돈의 패산파괴
+CharacterEmoji.csv,unlock_desc_en,Bond,인연
+CharacterEmoji.csv,unlock_desc_en,Event,이벤트
+CharacterEmoji.csv,after_unlock_desc_en,9/27  (PDT),9/27  (PDT)
+CharacterEmoji.csv,after_unlock_desc_en,10/30 (PDT),10/30 (PDT)
+CharacterEmoji.csv,after_unlock_desc_en,11/09 (PDT),11/09 (PDT)
+CharacterEmoji.csv,after_unlock_desc_en,12/11(PDT),12/11(PDT)
+CharacterEmoji.csv,after_unlock_desc_en,12/26(PDT),12/26(PDT)
+CharacterEmoji.csv,unlock_desc_en,Sticker Shop,스티커 상점
+CharacterEmoji.csv,after_unlock_desc_en,2/28(UTC-7),2/28(UTC-7)
+CharacterEmoji.csv,unlock_desc_en,Unlock Outfit,의상으로 해제
+CharacterEmoji.csv,after_unlock_desc_en,Christmas,크리스마스
+CharacterEmoji.csv,after_unlock_desc_en,Halloween,할로윈
+CharacterEmoji.csv,after_unlock_desc_en,Beach Party,비치 파티
+CharacterEmoji.csv,after_unlock_desc_en,New Year,신년
+CharacterEmoji.csv,after_unlock_desc_en,Spring Festival,봄 축제
+StrStr.csv,en,Deal-in is not the end; All Last is only the beginning!,"쏘였다고 경기에서 패배한 것은 아니며, 최종국은 또다른 시작일 뿐입니다!"
+StrStr.csv,en,"No matter how big your hand is, a Tanyao will end it all.","내 손패가 아무리 강해도, 탕야오 한번에 끝날 수 있습니다."
+StrStr.csv,en,"You must have Yaku to declare a win. Before you make a call (Chii/Pon/Kan), make sure you check if you have Yaku.",화료하기 위해서는 역이 필요합니다. 울기(치/펑/깡) 전에 역이 있는지 꼭 확인하세요.
+StrStr.csv,en,Go to settings menu to view all types of Yaku,설정 메뉴에서 모든 역을 확인할 수 있습니다.
+StrStr.csv,en,"In settings, you can choose to play a tile with single or double click",설정에서 한번 터치 또는 두번 터치로 타패하도록 변경할 수 있습니다.
+StrStr.csv,en,Players who use IE or Opera browsers may encounter lag issues. We recommend Chrome，FireFox or Edge browsers.,"인터넷 익스플로러 또는 오페라 브라우저에서는 게임이 원할하게 구동되지 않을 수 있습니다. 크롬, 파이어폭스, 엣지 브라우저를 사용하는 것을 추천합니다."
+StrStr.csv,en,Mangan at Draw,유국만관
+StrStr.csv,en,Four-Wind Discarded,사풍연타
+StrStr.csv,en,Four-kan Abortion,사깡유국
+StrStr.csv,en,Four-player Riichi,사가리치
+StrStr.csv,en,Nine Different Terminals and Honors,구종구패
+StrStr.csv,en,Three Rons Draw,트리플론
+StrStr.csv,en,Ippatsu,일발
+StrStr.csv,en,Exhaustive Draw,유국
+StrStr.csv,en,Nine Terminal Initial Draw,구종구패
+StrStr.csv,en,Four Winds Draw,사풍연타
+StrStr.csv,en,Four Quads Draw,사깡유국
+StrStr.csv,en,Four Riichi Draw,사가리치
+StrStr.csv,en,Tsumo,쯔모
+StrStr.csv,en,Ron,론
+StrStr.csv,en,Riichi,리치
+StrStr.csv,en,Furiten,후리텐
+StrStr.csv,en,Deal-in,방총
+StrStr.csv,en,Cancel,취소
+StrStr.csv,en,4-Player,4인
+StrStr.csv,en,3-Player,3인
+StrStr.csv,en,1 Han,1판
+StrStr.csv,en,2 Han,2판
+StrStr.csv,en,3 Han,3판
+StrStr.csv,en,6 Han,6판
+StrStr.csv,en,Mangan,만관
+StrStr.csv,en,Yakuman,역만
+StrStr.csv,en,Double Yakuman,더블 역만
+StrStr.csv,en,Draw,유국
+StrStr.csv,en,Menzenchin Only,멘젠 한정
+StrStr.csv,en,Yaku Overview,역 요약
+StrStr.csv,en,Close,닫기
+StrStr.csv,en,나가기,Exit
+StrStr.csv,en,Auto Arrange,자동정렬
+StrStr.csv,en,Auto Call Win,자동화료
+StrStr.csv,en,No Chii/Pon/Kan,울기금지
+StrStr.csv,en,Auto Draw & Discard,자동쯔모기리
+StrStr.csv,en,4 Han,4판
+StrStr.csv,en,Local Yaku,로컬역
+StrStr.csv,en,Logging In...,로그인 중...
+StrStr.csv,en,View Yaku,역 보기
+StrStr.csv,en,Log Out,로그아웃
+StrStr.csv,en,Rank,랭킹
+StrStr.csv,en,Info,정보
+StrStr.csv,en,Turn,순:
+StrStr.csv,en,Wall,패산
+StrStr.csv,en,Repeat Counter,연장
+StrStr.csv,en,Ranked Match,단위전
+StrStr.csv,en,Recent High Score,최근 고득점
+StrStr.csv,en,Confirm,확인
+StrStr.csv,en,Trends,트렌드
+StrStr.csv,en,Detailed Info,상세 정보
+StrStr.csv,en,East Round,동풍전
+StrStr.csv,en,1st,1위
+StrStr.csv,en,2nd,2위
+StrStr.csv,en,3rd,3위
+StrStr.csv,en,4th,4위
+StrStr.csv,en,Negative,들통
+StrStr.csv,en,Total Played,총 플레이 수
+StrStr.csv,en,Avg Score,평균 점수
+StrStr.csv,en,Avg Rank,평균 순위
+StrStr.csv,en,Max Repeats,최대 연장
+StrStr.csv,en,Win Rate,승률
+StrStr.csv,en,Tsumo Rate,쯔모 비율
+StrStr.csv,en,Deal-in Rate,방총율
+StrStr.csv,en,Call Rate,울기 비율
+StrStr.csv,en,Riichi Rate,리치 비율
+StrStr.csv,en,South Round,반장전
+StrStr.csv,en,Yaku Achieved,달성한 역
+StrStr.csv,en,Quest,퀘스트
+StrStr.csv,en,Settings,설정
+StrStr.csv,en,BGM,배경음
+StrStr.csv,en,Mute,음소거
+StrStr.csv,en,SE,효과음
+StrStr.csv,en,Voice,음성
+StrStr.csv,en,Audio,오디오
+StrStr.csv,en,Preference,환경설정
+StrStr.csv,en,Single tap,한번 터치
+StrStr.csv,en,Double tap,두번 터치
+StrStr.csv,en,Message,메시지
+StrStr.csv,en,Anybody,누구나
+StrStr.csv,en,Friends only,친구만
+StrStr.csv,en,Forbid all,모두 금지
+StrStr.csv,en,Others,기타
+StrStr.csv,en,High FPS mode,고사양 모드
+StrStr.csv,en,Power saving mode,저사양 모드
+StrStr.csv,en,Restart Now,지금 재시작
+StrStr.csv,en,Authentication,인증
+StrStr.csv,en,Gift Code,기프트 코드
+StrStr.csv,en,Tutorials,튜토리얼
+StrStr.csv,en,View Yaku,역 보기
+StrStr.csv,en,Log Out,로그아웃
+StrStr.csv,en,Tap to close,탭하여 닫기
+StrStr.csv,en,Added to titles,타이틀에 추가됨
+StrStr.csv,en,Enter a Gift Code to claim rewards,보상을 받기 위해 기프트 코드 입력
+StrStr.csv,en,Mute this for 5m,5분 동안 음소거
+StrStr.csv,en,Join,참가
+StrStr.csv,en,Invites you to join,게임 초대
+StrStr.csv,en,Auto-cancel after 3 minutes,3분 뒤 자동 취소
+StrStr.csv,en,Add,추가
+StrStr.csv,en,Enter number,번호 입력
+StrStr.csv,en,No Red Five,적도라 없음
+StrStr.csv,en,3 Red Five,적도라 3개
+StrStr.csv,en,4 Red Five,적도라 4개
+StrStr.csv,en,2 Red Five,적도라 2개
+StrStr.csv,en,Just now,지금
+StrStr.csv,en,minutes,분
+StrStr.csv,en,hours,시간
+StrStr.csv,en,days,일
+StrStr.csv,en,weeks,주
+StrStr.csv,en,months,개월
+StrStr.csv,en,Second,초
+StrStr.csv,en,Minute,분
+StrStr.csv,en,Hour,시
+StrStr.csv,en,Day,일
+StrStr.csv,en,AI(Easy),AI(쉬움)
+StrStr.csv,en,AI(Normal),AI(보통)
+StrStr.csv,en,Friendly Match,친선전
+StrStr.csv,en,4-Player (1 Game),4인 (단판)
+StrStr.csv,en,4-Player East,4인 동풍전
+StrStr.csv,en,4-Player South,4인 반장전
+StrStr.csv,en,4-Player (vs AI),4인 (vs AI)
+StrStr.csv,en,3-Player (1 Game),3인 (단판)
+StrStr.csv,en,3-Player East,3인 동풍전
+StrStr.csv,en,3-Player South,3인 반장전
+StrStr.csv,en,3-Player (vs AI),3인 (vs AI)
+StrStr.csv,en,Current version,현재 버전
+StrStr.csv,en,Join Room #,참가: Room #
+StrStr.csv,en,Mode,모드
+StrStr.csv,en,Thinking Time,턴 시간 제한
+StrStr.csv,en,Number of Red Five,적도라 수
+StrStr.csv,en,Open Tanyao,쿠이탕
+StrStr.csv,en,No,아니오
+StrStr.csv,en,Yes,예
+StrStr.csv,en,Starting Points,시작 점수
+StrStr.csv,en,Minimum Points to Win,최소 승리 점수
+StrStr.csv,en,Negative Points,들통 점수
+StrStr.csv,en,Upper Limit,상한
+StrStr.csv,en,Riichi Points,리치 점수
+StrStr.csv,en,Repeat Counter Points,연장 점수
+StrStr.csv,en,No-Tenpai Penalty,노텐 패널티
+StrStr.csv,en,Game Tips,게임 팁
+StrStr.csv,en,Enable,활성화
+StrStr.csv,en,Disable,비활성화
+StrStr.csv,en,Finding opponents,상대방을 찾는 중
+StrStr.csv,en,Starting soon,잠시 후 시작: 
+StrStr.csv,en,Ranked,단위전
