@@ -313,7 +313,7 @@ InfoError.csv,en,Not enough attempts,더 이상 시도할 수 없습니다.
 InfoError.csv,en,Invalid block,잘못된 칸(block)
 InfoError.csv,en,Unable to claim rewards from this block,이 칸에서 보상을 받을 수 없습니다
 InfoError.csv,en,You have already checked in,이미 체크인했습니다
-InfoError.csv,en,Mahjong Soul Shrine has received your response. Thank you for your contribution in making a better gaming environment!,혼천신사에서 당신의 응답(response)을 받았습니다. 더 나은 게임 환경을 만드는 데 기여해주셔서 감사합니다!
+InfoError.csv,en,Mahjong Soul Shrine has received your response. Thank you for your contribution in making a better gaming environment!,혼천 신사에서 당신의 응답(response)을 받았습니다. 더 나은 게임 환경을 만드는 데 기여해주셔서 감사합니다!
 VipVip.csv,name_en,No,없음
 VipVip.csv,desc_en,Daily Gift Attempts: 2 \n Max No. of Friends +0 \n Misc Shop Refresh Attempts: 5 \n Misc Shop Free Refresh: 0 \n Bond Bonus from Matches +0%\n Log Collection Limit: 20,일일 선물 상한: 2 \n 친구 수 상한 +0 \n 잡화 상점 일일 새로고침 횟수: 5 \n 잡화 상점 무료 새로고침 횟수: 0 \n 단위전 인연 보너스 +0%\n 로그 컬렉션 갯수: 20
 VipVip.csv,name_en,Soul Contractor - Beginner,혼의 계약자 - 초급
@@ -343,7 +343,7 @@ VipVip.csv,desc_en,Daily Gift Attempts: 30 \n Max No. of Friends +110 \n Misc Sh
 ItemDefinitionCurrency.csv,name_en,Jade,휘옥
 ItemDefinitionCurrency.csv,desc_en,Can be used to buy props.,소품(props)을 구입하는데 사용할 수 있습니다.
 ItemDefinitionCurrency.csv,name_en,Copper,동전
-ItemDefinitionCurrency.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
+ItemDefinitionCurrency.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천 신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
 ItemDefinitionCurrency.csv,name_en,Outfit Voucher,의상 교환권
 ItemDefinitionCurrency.csv,desc_en,A currency used to purchase outfits,의상을 구입하는데 사용되는 화폐입니다.
 DesktopChest.csv,name_en,Silver Chest,은 상자
@@ -355,7 +355,7 @@ ExchangeSearchexchange.csv,name_en,200 Summon Stones,200 기원의 소옥
 ExchangeSearchexchange.csv,desc_en,Collect a specific amount to summon.,기원하기 위해 특정량을 모으세요.
 ExchangeSearchexchange.csv,name_en,"1,800 Summon Stones","1,800 기원의 소옥"
 ExchangeExchange.csv,name_en,"5,000 Coppers","5,000 동전"
-ExchangeExchange.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
+ExchangeExchange.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천 신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
 ExchangeExchange.csv,name_en,"30,000 Coppers","30,000 동전"
 ExchangeExchange.csv,name_en,"60,000 Coppers","60,000 동전"
 ExchangeExchange.csv,name_en,"300,000 Coppers","300,000 동전"
@@ -637,6 +637,8 @@ DesktopMatchmode.csv,room_name_en,Casual Match,캐주얼
 DesktopMatchmode.csv,room_name_en,DoraDorara,도라도라라
 DesktopMatchmode.csv,room_name_en,Open Hand Match,손패 공개
 DesktopMatchmode.csv,room_name_en,Chaotic Wall Break,혼돈의 패산파괴
+ExchangeFushiquanexchange.csv,name_en,10Jade,10 휘옥
+ExchangeFushiquanexchange.csv,desc_en,Can be used to buy props.,소품(props)을 구입하는데 사용할 수 있습니다.
 CharacterEmoji.csv,unlock_desc_en,Bond,인연
 CharacterEmoji.csv,unlock_desc_en,Event,이벤트
 CharacterEmoji.csv,after_unlock_desc_en,9/27  (PDT),9/27  (PDT)
@@ -689,7 +691,7 @@ StrStr.csv,en,Draw,유국
 StrStr.csv,en,Menzenchin Only,멘젠 한정
 StrStr.csv,en,Yaku Overview,역 요약
 StrStr.csv,en,Close,닫기
-StrStr.csv,en,나가기,Exit
+StrStr.csv,en,Exit,나가기
 StrStr.csv,en,Auto Arrange,자동정렬
 StrStr.csv,en,Auto Call Win,자동화료
 StrStr.csv,en,No Chii/Pon/Kan,울기금지
@@ -804,3 +806,12 @@ StrStr.csv,en,Disable,비활성화
 StrStr.csv,en,Finding opponents,상대방을 찾는 중
 StrStr.csv,en,Starting soon,잠시 후 시작: 
 StrStr.csv,en,Ranked,단위전
+EventsSoscoin.csv,desc_en,Only players of Adept rank or above can claim Revival Tokens. Keep working!,작사 등급 이상의 플레이어만 부활 토큰을 받을 수 있습니다. 계속 힘내세요!
+EventsSoscoin.csv,desc_en,You are currently an Adept.You may claim this when you have less than 4500 coppers. Available once per day.,당신은 현재 작사 등급입니다. 4500개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+EventsSoscoin.csv,desc_en,You are current an Expert. You may claim this when you have less than 9000 coppers. Available once per day.,당신은 현재 작걸 등급입니다. 9000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+EventsSoscoin.csv,desc_en,You are current a Master. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 작호 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+EventsSoscoin.csv,desc_en,You are current a Saint. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 작성 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+EventsSoscoin.csv,desc_en,You are current a Celestial. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 혼천 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+LevelDefinitionCharacter.csv,unlock_desc_en,New daily voice unlocked!\nNew match voice unlocked!,새 일일 보이스 잠금 해제!\n새 게임 보이스 잠금 해제!
+LevelDefinitionCharacter.csv,unlock_desc_en,New daily voice unlocked!\nNew bonding voice unlocked!,새 일일 보이스 잠금 해제!\n새 인연 보이스 잠금 해제!
+LevelDefinitionCharacter.csv,unlock_desc_en,New Han-declaration voice unlocked!\nNew login voice unlocked!\nNew daily voice unlocked!\nNew bonding voice unlocked!,새 판 선언 보이스 잠금 해제!\n새 로그인 보이스 잠금 해제!\n새 일일 보이스 잠금 해제!\n새 인연 보이스 잠금 해제!

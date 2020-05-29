@@ -5,3 +5,4 @@ services:
         network_mode: "host"
         volumes:
             - .:/korean
+            - ../assets:/assets
