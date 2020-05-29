@@ -18,11 +18,11 @@ RUN chmod +x /utils/fontbm/bin/fontbm
 
 RUN pip install --no-cache-dir pipenv
 
-WORKDIR /korean
-RUN mkdir -p /korean
-RUN cd /korean
+WORKDIR /majsoul-plus-korean/data
+RUN mkdir -p /majsoul-plus-korean/data
+RUN cd /majsoul-plus-korean/data
 
-COPY Pipfile* /korean/
+COPY Pipfile* /majsoul-plus-korean/data/
 
 RUN pipenv lock --requirements > requirements.txt
 RUN pip install -r requirements.txt

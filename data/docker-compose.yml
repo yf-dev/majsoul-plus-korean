@@ -4,5 +4,4 @@ services:
         build: .
         network_mode: "host"
         volumes:
-            - .:/korean
-            - ../assets:/assets
+            - ..:/majsoul-plus-korean
