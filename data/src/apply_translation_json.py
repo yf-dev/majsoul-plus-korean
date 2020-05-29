@@ -48,7 +48,7 @@ def main(original_assets_path, translation_path, dist_path):
                 continue
 
             if node['props']['text'] != target:
-                print(f"Target is not matched on {path}: '{node['props']['text']}' != 'target'")
+                print(f"Target is not matched on {path}: '{node['props']['text']}' != '{target}'")
                 continue
             
             update_value(ui_en, path.split('|'), translated)

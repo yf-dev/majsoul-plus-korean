@@ -5,8 +5,9 @@
     <pages>
         <page id="0" file="en_shuhun_0.png"/>
     </pages>
-    <chars count="1013">
+    <chars count="1014">
         <char id="10" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="9" page="0" chnl="15"/>
+        <char id="13" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="9" page="0" chnl="15"/>
         <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="9" page="0" chnl="15"/>
         <char id="33" x="556" y="397" width="6" height="29" xoffset="2" yoffset="3" xadvance="9" page="0" chnl="15"/>
         <char id="34" x="46" y="1011" width="10" height="9" xoffset="1" yoffset="2" xadvance="12" page="0" chnl="15"/>

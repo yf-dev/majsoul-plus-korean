@@ -321,7 +321,7 @@ lobby/bag|0|1|7,You can donate gifts to get Star Dust,선물 기부를 통해 �
 lobby/bag|0|3|0|0|0|0|3|2|0,Bond,인연
 lobby/bag|0|3|2|0,Display All,모두 표시
 lobby/bag|0|3|3,Empty,비어있음
-lobby/bag|1|0,Inventory,인벤토리
+lobby/bag|1|0,Inventory,창고
 lobby/chang_nickname|0|2,Change Name,이름 변경
 lobby/chang_nickname|0|3|1,Name (1-14 chars),이름 (1-14자)
 lobby/chang_nickname|0|3|4,Unavailable,사용 불가
@@ -357,24 +357,26 @@ lobby/create_room|0|0|1|5|2|0,Enable,활성화
 lobby/create_room|0|0|1|7|2,"Minimum points 100, maximum points 200000","최소 점수 100, 최대 점수 200000"
 lobby/create_room|0|0|1|8|2,"Minimum points 100, maximum points 200000.","최소 점수 100, 최대 점수 200000."
 lobby/create_room|0|0|1|8|3,"At ALL LAST, if the 1st-ranked player has less points than this value, the game will extend into South/West Round",최종국에서 1위 플레이어가 이 값보다 점수가 적으면 경기는 남/서장으로 연장됩니다
-lobby/create_room|0|0|1|9|1|0,Yes,예
-lobby/create_room|0|0|1|9|2|0,No,아니오
+lobby/create_room|0|0|1|9|1|0,Enable,활성화
+lobby/create_room|0|0|1|9|2|0,Disable,비활성화
 lobby/create_room|0|0|1|10|1|0,Disable,비활성화
 lobby/create_room|0|0|1|10|2|0,Enable,활성화
 lobby/create_room|0|0|1|11|1|0,No Red Five,적도라 없음
 lobby/create_room|0|0|1|11|2|0,3 Red Five,적도라 3개
 lobby/create_room|0|0|1|11|3|0,4 Red Five,적도라 4개
-lobby/create_room|0|0|1|12|1|0,Yes,예
-lobby/create_room|0|0|1|12|2|0,No,아니오
+lobby/create_room|0|0|1|12|1|0,Enable,활성화
+lobby/create_room|0|0|1|12|2|0,Disable,비활성화
 lobby/create_room|0|0|1|13|1|0,1 Han,1판
 lobby/create_room|0|0|1|13|2|0,2 Han,2판
 lobby/create_room|0|0|1|13|3|0,4 Han,4판
-lobby/create_room|0|0|1|14|1|0,Yes,예
-lobby/create_room|0|0|1|14|2|0,No,아니오
+lobby/create_room|0|0|1|14|1|0,Enable,활성화
+lobby/create_room|0|0|1|14|2|0,Disable,비활성화
 lobby/create_room|0|0|1|15|1|0,Off,끄기
 lobby/create_room|0|0|1|15|2|0,On,켜기
 lobby/create_room|0|0|1|16|1|0,Easy,쉬움
 lobby/create_room|0|0|1|16|2|0,Normal,일반
+lobby/create_room|0|0|1|17|1|0,Disable,활성화
+lobby/create_room|0|0|1|17|2|0,Enable,비활성화
 lobby/create_room|0|1|2,Create Room,방 만들기
 lobby/diamond_less|0|2,Insufficient Jade,휘옥 부족
 lobby/diamond_less|0|4|0,Buy,구매
@@ -449,8 +451,8 @@ lobby/match_room|1|1|1|2,Start time:,시작 일시:
 lobby/match_room|1|1|1|3,End time:,종료 일시:
 lobby/match_room|1|1|1|4,Rules,규칙
 lobby/match_room|1|1|1|5,My Ranking,내 순위
-lobby/match_room|1|1|1|8,Last 5 Matches:,최근 5경기:
-lobby/match_room|1|1|1|9,Matches played:,플레이한 경기:
+lobby/match_room|1|1|1|8,Last 5 Matches Ranks:,최근 5경기:
+lobby/match_room|1|1|1|9,Matches Played:,플레이한 경기:
 lobby/match_room|1|1|1|10|0,Prepare for match,경기 준비
 lobby/match_room|1|1|1|11,Online:,온라인:
 lobby/match_room|1|1|1|13|0|0,Details,상세
@@ -672,7 +674,7 @@ lobby/recharge|1|0|1|0,Wishing,기도의 소옥
 lobby/recharge|1|0|2|0,Star,별의 소옥
 lobby/recharge|1|0|3|0,Summon Shop,기원 상점
 lobby/recharge|1|0|4|0,Summon,기원
-lobby/recharge|1|2|0|1,Title,제목
+lobby/recharge|1|2|0|1,Title,타이틀
 lobby/recharge|1|2|6|0,Current,현재
 lobby/recharge|1|2|8|0,Claim,받기
 lobby/recharge|1|2|9|0|1,Rewards,보상
