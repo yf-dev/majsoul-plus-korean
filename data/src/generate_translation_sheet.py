@@ -9,7 +9,7 @@ def main(translation_path, temp_path):
 
     csv_dir_path = Path(temp_path) / 'csv'
     for csv_path in csv_dir_path.glob('*.csv'):
-        with open(csv_path, 'r', encoding='utf-8') as csvfile:
+        with open(csv_path, 'r', encoding='utf-8-sig') as csvfile:
             csv_reader = csv.reader(csvfile)
             is_header = True
             header = []
@@ -38,7 +38,7 @@ def main(translation_path, temp_path):
     templates_path = Path(translation_path) / 'templates'
     templates_path.mkdir(parents=True, exist_ok=True)
 
-    with open(templates_path / 'translate_sheet.csv', 'w', encoding='utf-8', newline='') as csvfile:
+    with open(templates_path / 'translate_sheet.csv', 'w', encoding='utf-8-sig', newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(['path', 'header', 'target', 'translated'])
         for row in translate_sheet_rows:

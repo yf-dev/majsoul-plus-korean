@@ -31,7 +31,7 @@ def main(original_assets_path, temp_path):
         class_name = "".join(name.capitalize() for name in class_words)
         klass = globals()[class_name]
 
-        with open(csv_path / f'{class_name}.csv', 'w', encoding='utf-8', newline='') as csvfile:
+        with open(csv_path / f'{class_name}.csv', 'w', encoding='utf-8-sig', newline='') as csvfile:
             csv_writer = csv.writer(csvfile)
             csv_writer.writerow([x.name for x in klass().DESCRIPTOR.fields])
             

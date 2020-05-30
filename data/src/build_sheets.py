@@ -9,7 +9,7 @@ lang = os.getenv('MAJSOUL_LANG', 'en')
 def main(original_assets_path, translation_path, dist_path, temp_path):
     target_csvs = []
 
-    with open(Path(translation_path) / 'translate_sheet.csv', 'r', encoding='utf-8') as csvfile:
+    with open(Path(translation_path) / 'translate_sheet.csv', 'r', encoding='utf-8-sig') as csvfile:
         csv_reader = csv.reader(csvfile)
         is_header = True
         for row in csv_reader:
@@ -53,7 +53,7 @@ def main(original_assets_path, translation_path, dist_path, temp_path):
 
         csv_path = str(csv_path) # for matching csv format
 
-        with open(csv_path, 'r', encoding='utf-8') as csvfile:
+        with open(csv_path, 'r', encoding='utf-8-sig') as csvfile:
             csv_reader = csv.reader(csvfile)
             del data.data[:]
             header = []

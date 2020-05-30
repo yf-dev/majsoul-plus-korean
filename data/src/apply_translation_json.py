@@ -29,7 +29,7 @@ def main(original_assets_path, translation_path, dist_path):
     with open(Path(original_assets_path) / 'uiconfig' / f'ui_{lang}.json', 'r', encoding='utf-8') as jsonfile:
         ui_en = json.load(jsonfile)
 
-    with open(Path(translation_path) / 'translate_json.csv', 'r', encoding='utf-8') as csvfile:
+    with open(Path(translation_path) / 'translate_json.csv', 'r', encoding='utf-8-sig') as csvfile:
         csv_reader = csv.reader(csvfile)
         is_header = True
         for row in csv_reader:
