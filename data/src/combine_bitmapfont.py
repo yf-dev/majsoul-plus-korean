@@ -5,18 +5,10 @@ import os
 from pathlib import Path
 lang = os.getenv('MAJSOUL_LANG', 'en')
 
-def main(dist_path, temp_path):
-    if lang == 'jp':
-        fonts = [
-            'jp_haolong',
-            'jp_jiye'
-        ]
-    else: # en
-        fonts = [
-            'en_hanyi',
-            'en_haolong',
-            'en_shuhun'
-        ]
+def main(dist_path, fonts_path, temp_path):
+    with open(Path(fonts_path) / 'fontmap.json', 'r', encoding='utf-8') as fontmap:
+        fonts = json.load(fontmap)[lang].keys()
+
     font_images = []
 
     for font in fonts:
@@ -71,5 +63,6 @@ def main(dist_path, temp_path):
 if __name__ == '__main__':
     main(
         str(Path('./dist/korean')),
+        str(Path('./fonts')),
         str(Path('./temp')),
     )

@@ -1,0 +1,26 @@
+{
+    "en": {
+        "en_hanyi": [
+            "SSRockRegular.ttf",
+            40
+        ],
+        "en_haolong": [
+            "BMEULJIROTTF.ttf",
+            35
+        ],
+        "en_shuhun": [
+            "SDKukdetopokki-aLt.otf",
+            35
+        ]
+    },
+    "jp": {
+        "jp_haolong": [
+            "NotoSansCJKkr-Medium.otf",
+            40
+        ],
+        "jp_jiye": [
+            "NotoSansCJKkr-Medium.otf",
+            35
+        ]
+    }
+}

@@ -3,20 +3,9 @@ import os
 from pathlib import Path
 from common import run_cmd
 from shutil import copyfile
+import json
 
-lang = os.getenv('MAJSOUL_LANG', 'en') 
-
-fonts = {
-    'en': {
-        'en_hanyi': ('SSRockRegular.ttf', 40),
-        'en_haolong': ('BMEULJIROTTF.ttf', 35),
-        'en_shuhun': ('SDKukdetopokki-aLt.otf', 35)
-    },
-    'jp': {
-        'jp_haolong': ('NotoSansCJKkr-Medium.otf', 40),
-        'jp_jiye': ('NotoSansCJKkr-Medium.otf', 35)
-    }
-}
+lang = os.getenv('MAJSOUL_LANG', 'en')
 
 def call_fontbm(font_file, font_name, font_size, fontbm_path, fonts_path, temp_path):
     texture_size = 2 ** 10
@@ -45,6 +34,9 @@ def main(dist_path, fonts_path, temp_path, fontbm_path):
     fontbm_path = Path(fontbm_path)
     (temp_path / 'fonts').mkdir(parents=True, exist_ok=True)
 
+    with open(fonts_path / 'fontmap.json', 'r', encoding='utf-8') as fontmap:
+        fonts = json.load(fontmap)
+
     for font_name in fonts[lang]:
         font_data = fonts[lang][font_name]
         call_fontbm(
@@ -59,6 +51,7 @@ def main(dist_path, fonts_path, temp_path, fontbm_path):
     from combine_bitmapfont import main as combine_bitmapfont
     combine_bitmapfont(
         str(dist_path),
+        str(fonts_path),
         str(temp_path)
     )
 
