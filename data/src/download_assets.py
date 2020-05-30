@@ -27,7 +27,7 @@ async def download_file(session, url):
             if response.status == 200:
                 Path(filepath.parent).mkdir(parents=True, exist_ok=True)
                 async with aiofiles.open(filepath, "wb") as out_file:
-                    if url['path'].startswith('en/extendRes/'):
+                    if url['path'].startswith(f'{lang}/extendRes/'):
                         ba = await response.content.read()
                         await out_file.write(bytes(b ^ 0x49 for b in ba))
                     else:
