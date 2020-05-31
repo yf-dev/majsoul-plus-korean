@@ -58,6 +58,7 @@
 ![스크린샷 3](/data/screenshots/3.png)
 ![스크린샷 4](/data/screenshots/4.png)
 ![스크린샷 5](/data/screenshots/5.png)
+![스크린샷 5](/data/screenshots/6.png)
 
 #### 4.2. 이모지
 
