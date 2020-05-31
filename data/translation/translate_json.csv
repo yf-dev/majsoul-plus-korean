@@ -375,8 +375,8 @@ lobby/create_room|0|0|1|15|1|0,Off,끄기
 lobby/create_room|0|0|1|15|2|0,On,켜기
 lobby/create_room|0|0|1|16|1|0,Easy,쉬움
 lobby/create_room|0|0|1|16|2|0,Normal,일반
-lobby/create_room|0|0|1|17|1|0,Disable,활성화
-lobby/create_room|0|0|1|17|2|0,Enable,비활성화
+lobby/create_room|0|0|1|17|1|0,Disable,비활성화
+lobby/create_room|0|0|1|17|2|0,Enable,활성화
 lobby/create_room|0|1|2,Create Room,방 만들기
 lobby/diamond_less|0|2,Insufficient Jade,휘옥 부족
 lobby/diamond_less|0|4|0,Buy,구매
