@@ -213,7 +213,7 @@ InfoError.csv,en,A strange error happened. Please try a different way.,이상한
 InfoError.csv,en,You don’t have enough Coins to enter this room. You can claim Revival Tokens in “Event” once per day.,이 방에 입장하기 위한 동전이 충분하지 않습니다. “이벤트”에서 부활 토큰을 하루에 한 번 받을 수 있습니다.
 InfoError.csv,en,Unable to enter this room with your current rank. Please try another room.,현재 등급으로는 방에 입장할 수 없습니다. 다른 방으로 시도하십시오.
 InfoError.csv,en,This room is under renovation. Please visit somewhere else.,이 방은 보수 공사(renovation) 중입니다. 다른 곳을 방문하십시오.
-InfoError.csv,en,"Invalid login information, please try to relog your game","잘못된 로그인 정보입니다. 다시 로그인해주세요."
+InfoError.csv,en,"Invalid login information, please try to relog your game",잘못된 로그인 정보입니다. 다시 로그인해주세요.
 InfoError.csv,en,You are not friends yet.,아직 친구가 아닙니다.
 InfoError.csv,en,You are already friends.,이미 친구입니다.
 InfoError.csv,en,A strange problem happened while searching. Please try a different way.,검색하는 동안 이상한(strange) 문제가 발생했습니다. 다른 방식으로 다시 시도해주세요.
@@ -300,7 +300,7 @@ InfoError.csv,en,Tournament parameter configuration error.,대회 매개변수 �
 InfoError.csv,en,You cannot participate in this tournament because you have not reached the required rank. Please consult the tournament organizer for more details.,요구 등급에 도달하지 못해 이 대회에 참여할 수 없습니다. 자세한 내용은 대회 관리자에게 문의하세요.
 InfoError.csv,en,You have played too many matches and cannot continue to take part in this tournament. Please consult the tournament organizer for more details.,너무 많은 게임을 진행하여 이 대회에 더 이상 참여할 수 없습니다. 세한 내용은 대회 관리자에게 문의하세요.
 InfoError.csv,en,This player is in matchmaking.,이 플레이어는 게임을 찾는 중입니다.
-InfoError.csv,en,"Due to the server entry limit, you cannot participate in this tournament.","서버 입장 제한으로 인해 이 대회에 참여할 수 없습니다."
+InfoError.csv,en,"Due to the server entry limit, you cannot participate in this tournament.",서버 입장 제한으로 인해 이 대회에 참여할 수 없습니다.
 InfoError.csv,en,Event does not exist. Please try to refresh the page.,이벤트가 존재하지 않습니다. 페이지를 새로고침해주세요.
 InfoError.csv,en,This event has already ended.,이 이벤트는 이미 종료되었습니다.
 InfoError.csv,en,You have claimed all available rewards.,획득 가능한 모든 보상을 받았습니다.
@@ -467,7 +467,7 @@ ItemDefinitionCharacter.csv,desc_birth_en,11th January,1월 11일
 ItemDefinitionCharacter.csv,desc_age_en,Unknown,불명
 ItemDefinitionCharacter.csv,desc_cv_en,Maaya Uchida,우치다 마아야
 ItemDefinitionCharacter.csv,desc_hobby_en,"Food, sleep","먹는 것, 자는 것"
-ItemDefinitionCharacter.csv,desc_en,"One of the first characters to appear in the Mahjong Soul Temple. She is the current priestess of the temple who claims to be human, despite her cat ears. To Ichiihime, nothing is more important than eating and napping.","혼천 신사에 나타난 최초의 작사 중 한 명으로 혼천 신사의 현역 무녀. 고양이귀를 달고 있으며 자신이 인간이라 강력히 주장한다. 그녀에겐 밥과 잠이 무엇보다 중요하다."
+ItemDefinitionCharacter.csv,desc_en,"One of the first characters to appear in the Mahjong Soul Temple. She is the current priestess of the temple who claims to be human, despite her cat ears. To Ichiihime, nothing is more important than eating and napping.",혼천 신사에 나타난 최초의 작사 중 한 명으로 혼천 신사의 현역 무녀. 고양이귀를 달고 있으며 자신이 인간이라 강력히 주장한다. 그녀에겐 밥과 잠이 무엇보다 중요하다.
 ItemDefinitionCharacter.csv,name_en,Miki Nikaidou,니카이도 미키
 ItemDefinitionCharacter.csv,desc_stature_en,168 cm,168 cm
 ItemDefinitionCharacter.csv,desc_birth_en,14th February,2월 14일
@@ -777,6 +777,8 @@ StrStr.csv,en,Day,일
 StrStr.csv,en,AI(Easy),AI(쉬움)
 StrStr.csv,en,AI(Normal),AI(보통)
 StrStr.csv,en,Friendly Match,친선전
+StrStr.csv,en,Successfully used,성공적으로 사용함
+StrStr.csv,en,Tournament Match,대회전
 StrStr.csv,en,4-Player (1 Game),4인 (단판)
 StrStr.csv,en,4-Player East,4인 동풍전
 StrStr.csv,en,4-Player South,4인 반장전
