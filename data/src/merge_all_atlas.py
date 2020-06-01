@@ -11,13 +11,13 @@ def main(original_assets_path, translation_path, temp_path):
     if temp_assets_path.is_dir():
         rmtree(str(temp_assets_path))
     temp_assets_path.mkdir(parents=True, exist_ok=True)
-    for atlas_unpack_path in original_assets_path.glob('**/*.atlas_unpack'):
+    for atlas_unpack_path in sorted(original_assets_path.glob('**/*.atlas_unpack')):
         translation_atlas_path = translation_assets_path / atlas_unpack_path.relative_to(original_assets_path)
         new_atlas_path = temp_assets_path / atlas_unpack_path.relative_to(original_assets_path)
         if not translation_atlas_path.is_dir():
             continue
         copy_tree(str(atlas_unpack_path), str(new_atlas_path))
-        for translation_sprite_path in translation_atlas_path.glob('*'):
+        for translation_sprite_path in sorted(translation_atlas_path.glob('*')):
             file_name = translation_sprite_path.name
             if file_name.endswith('.psd'):
                 continue

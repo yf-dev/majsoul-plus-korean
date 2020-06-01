@@ -8,7 +8,7 @@ lang = os.getenv('MAJSOUL_LANG', 'en')
 def main(translation_path, dist_path, temp_path):
     chars = set(chr(x) for x in range(32, 127))
 
-    for csv_path in (Path(temp_path) / 'csv').glob('*.csv'):
+    for csv_path in sorted((Path(temp_path) / 'csv').glob('*.csv')):
         with open(csv_path, 'r', encoding='utf-8-sig') as csvfile:
             csv_reader = csv.reader(csvfile)
             is_header = True

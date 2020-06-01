@@ -53,8 +53,8 @@ def main(size_factor, atlas_unpack_path, target_path):
     with (atlas_unpack_path / 'prefix.txt').open('r', encoding="utf-8") as prefixfile:
         atlas['meta']['prefix'] = prefixfile.readline().strip()
 
-    image_paths = list(atlas_unpack_path.glob('*.png'))
-    image_paths += list(atlas_unpack_path.glob('*.jpg'))
+    image_paths = list(sorted(atlas_unpack_path.glob('*.png')))
+    image_paths += list(sorted(atlas_unpack_path.glob('*.jpg')))
     images = []
     max_width = 0
     max_height = 0

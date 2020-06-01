@@ -8,7 +8,7 @@ def main(translation_path, temp_path):
     translate_sheet_rows = []
 
     csv_dir_path = Path(temp_path) / 'csv'
-    for csv_path in csv_dir_path.glob('*.csv'):
+    for csv_path in sorted(csv_dir_path.glob('*.csv')):
         with open(csv_path, 'r', encoding='utf-8-sig') as csvfile:
             csv_reader = csv.reader(csvfile)
             is_header = True

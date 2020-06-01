@@ -20,7 +20,7 @@ def main(dist_path):
     }
 
     assets_path = Path(dist_path) / 'assets'
-    for file_path in assets_path.glob('**/*'):
+    for file_path in sorted(assets_path.glob('**/*')):
         if file_path.is_dir():
             continue
         resourcepack_data['replace'].append(file_path.relative_to(assets_path).as_posix())

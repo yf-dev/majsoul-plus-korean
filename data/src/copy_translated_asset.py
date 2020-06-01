@@ -5,7 +5,7 @@ from shutil import copyfile
 lang = os.getenv('MAJSOUL_LANG', 'en')
 
 def main(translation_path, dist_path):
-    for file_path in (Path(translation_path) / 'assets').glob('**/*'):
+    for file_path in sorted((Path(translation_path) / 'assets').glob('**/*')):
         if file_path.is_dir():
             continue
         if '.atlas_unpack' in str(file_path):
