@@ -1,11 +1,14 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-02 22:46:56\n"
+"PO-Revision-Date: 2020-06-02 15:32+0000\n"
+"Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #: translate_json.csv:2
 msgctxt "json|both_ui/bind_yostar_mail|0|5|0"
@@ -8924,7 +8927,7 @@ msgstr "현재 버전"
 #: translate_sheet.csv:782
 msgctxt "sheet|StrStr.csv|en"
 msgid "Join Room #"
-msgstr "참가: Room #"
+msgstr "참여할 방 번호"
 
 #: translate_sheet.csv:783
 msgctxt "sheet|StrStr.csv|en"
@@ -9088,3 +9091,1619 @@ msgid ""
 "New Han-declaration voice unlocked!\\nNew login voice unlocked!\\nNew daily "
 "voice unlocked!\\nNew bonding voice unlocked!"
 msgstr "새 판 선언 보이스 잠금 해제!\\n새 로그인 보이스 잠금 해제!\\n새 일일 보이스 잠금 해제!\\n새 인연 보이스 잠금 해제!"
+
+#: translate_sheet.csv:3
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "圣夜的礼物箱"
+msgstr "圣夜的礼物箱"
+
+#: translate_sheet.csv:2
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "圣夜的宝物"
+msgstr "圣夜的宝物"
+
+#: translate_sheet.csv:2348
+msgctxt "sheet|StrStr.csv|en"
+msgid "排名点数："
+msgstr "排名点数："
+
+#: translate_json.csv:1175
+msgctxt "json|lobby/treasure|4|2|2|5|6"
+msgid "ピックアップ装飾品提供確率：全装飾品の49%"
+msgstr "ピックアップ装飾品提供確率：全装飾品の49%"
+
+#: translate_json.csv:1174
+msgctxt "json|lobby/treasure|4|2|2|5|5"
+msgid "装飾品提供確率：15%"
+msgstr "装飾品提供確率：15%"
+
+#: translate_json.csv:1173
+msgctxt "json|lobby/treasure|4|2|2|5|4"
+msgid "再度入手した雀士は願い石に変換されます。"
+msgstr "再度入手した雀士は願い石に変換されます。"
+
+#: translate_json.csv:1172
+msgctxt "json|lobby/treasure|4|2|2|5|3"
+msgid "ピックアップ雀士提供確率：全雀士の59％"
+msgstr "ピックアップ雀士提供確率：全雀士の59％"
+
+#: translate_json.csv:1178
+msgctxt "json|lobby/treasure|4|2|2|5|9"
+msgid "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
+msgstr "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
+
+#: translate_json.csv:1177
+msgctxt "json|lobby/treasure|4|2|2|5|8"
+msgid "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
+msgstr "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
+
+#: translate_json.csv:1176
+msgctxt "json|lobby/treasure|4|2|2|5|7"
+msgid "再度入手した装飾品は星の石に変換されます。"
+msgstr "再度入手した装飾品は星の石に変換されます。"
+
+#: translate_json.csv:1165
+msgctxt "json|lobby/treasure|4|2|2|4|3"
+msgid "装飾品提供確率:15％"
+msgstr "装飾品提供確率:15％"
+
+#: translate_json.csv:1164
+msgctxt "json|lobby/treasure|4|2|2|4|2|0"
+msgid "再度入手した雀士キャラクターは願いの石に変換されます。"
+msgstr "再度入手した雀士キャラクターは願いの石に変換されます。"
+
+#: translate_json.csv:1171
+msgctxt "json|lobby/treasure|4|2|2|5|2"
+msgid "雀士キャラクター提供確率:5％"
+msgstr "雀士キャラクター提供確率:5％"
+
+#: translate_json.csv:1170
+msgctxt "json|lobby/treasure|4|2|2|5|1"
+msgid "（信仰）が入手できます。"
+msgstr "（信仰）が入手できます。"
+
+#: translate_json.csv:1169
+msgctxt "json|lobby/treasure|4|2|2|5|0"
+msgid "1回祈願するたびに1点"
+msgstr "1回祈願するたびに1点"
+
+#: translate_json.csv:1139
+msgctxt "json|lobby/treasure|4|2|2|1|5"
+msgid "(UP装扮占49%、其他装扮占51%)"
+msgstr "(UP装扮占49%、其他装扮占51%)"
+
+#: translate_json.csv:1136
+msgctxt "json|lobby/treasure|4|2|2|1|3"
+msgid "(UP雀士占59%、其他雀士占41%)"
+msgstr "(UP雀士占59%、其他雀士占41%)"
+
+#: translate_json.csv:1141
+msgctxt "json|lobby/treasure|4|2|2|1|7"
+msgid "使用寻觅辉石10连寻觅，至少会获得一个紫色礼物"
+msgstr "使用寻觅辉石10连寻觅，至少会获得一个紫色礼物"
+
+#: translate_json.csv:1140
+msgctxt "json|lobby/treasure|4|2|2|1|6"
+msgid "礼物概率：80%"
+msgstr "礼物概率：80%"
+
+#: translate_json.csv:1138
+msgctxt "json|lobby/treasure|4|2|2|1|4|0"
+msgid "重复获取的装扮将转换为星之石"
+msgstr "重复获取的装扮将转换为星之石"
+
+#: translate_json.csv:1137
+msgctxt "json|lobby/treasure|4|2|2|1|4"
+msgid "装扮概率：15%"
+msgstr "装扮概率：15%"
+
+#: translate_json.csv:1135
+msgctxt "json|lobby/treasure|4|2|2|1|2|0"
+msgid "重复获取的雀士将转换为许愿石"
+msgstr "重复获取的雀士将转换为许愿石"
+
+#: translate_json.csv:1134
+msgctxt "json|lobby/treasure|4|2|2|1|2"
+msgid "雀士概率：5%"
+msgstr "雀士概率：5%"
+
+#: translate_json.csv:1133
+msgctxt "json|lobby/treasure|4|2|2|1|1"
+msgid "(信仰)，同时有可能获得全新的雀士及各种装扮"
+msgstr "(信仰)，同时有可能获得全新的雀士及各种装扮"
+
+#: translate_json.csv:1132
+msgctxt "json|lobby/treasure|4|2|2|1|0"
+msgid "每次寻觅都可以获得1点"
+msgstr "每次寻觅都可以获得1点"
+
+#: translate_json.csv:1105
+msgctxt "json|lobby/sushe_select_en|0|4|2|8"
+msgid "到期时间到期时间到期时间"
+msgstr "到期时间到期时间到期时间"
+
+#: translate_json.csv:886
+msgctxt "json|lobby/payment/wxcode|0|10|0|0"
+msgid "关闭"
+msgstr "关闭"
+
+#: translate_json.csv:884
+msgctxt "json|lobby/payment/wxcode|0|8"
+msgid "“扫一扫”扫描二维码完成支付"
+msgstr "“扫一扫”扫描二维码完成支付"
+
+#: translate_json.csv:883
+msgctxt "json|lobby/payment/wxcode|0|7"
+msgid "请打开"
+msgstr "请打开"
+
+#: translate_sheet.csv:2301
+msgctxt "sheet|StrStr.csv|en"
+msgid "American Express\\n4-digit Card Verification Number"
+msgstr ""
+"American Express\\n"
+"4자리 카드 확인 번호"
+
+#: translate_sheet.csv:2300
+msgctxt "sheet|StrStr.csv|en"
+msgid "Discover,MasterCard,Visa\\n3-digit Card Verification Number"
+msgstr ""
+"Discover,MasterCard,Visa\\n"
+"3자리 카드 확인 번호"
+
+#: translate_sheet.csv:2299
+msgctxt "sheet|StrStr.csv|en"
+msgid "Confirm And Pay"
+msgstr "확인 및 지불"
+
+#: translate_sheet.csv:2297
+msgctxt "sheet|StrStr.csv|en"
+msgid "Please enter a 3 or 4 digits CVV2/CSC Code"
+msgstr "3~4자리 CVV2/CSC 코드를 입력해주세요"
+
+#: translate_sheet.csv:2296
+msgctxt "sheet|StrStr.csv|en"
+msgid "Security Code"
+msgstr "보안 코드"
+
+#: translate_sheet.csv:2293
+msgctxt "sheet|StrStr.csv|en"
+msgid "Please select a year"
+msgstr "년을 선택해주세요"
+
+#: translate_sheet.csv:2292
+msgctxt "sheet|StrStr.csv|en"
+msgid "Please select a month"
+msgstr "월을 선택해주세요"
+
+#: translate_sheet.csv:2291
+msgctxt "sheet|StrStr.csv|en"
+msgid "Year"
+msgstr "년"
+
+#: translate_sheet.csv:2290
+msgctxt "sheet|StrStr.csv|en"
+msgid "Month"
+msgstr "월"
+
+#: translate_sheet.csv:2289
+msgctxt "sheet|StrStr.csv|en"
+msgid "Expiry Date"
+msgstr "유효 기간"
+
+#: translate_sheet.csv:2287
+msgctxt "sheet|StrStr.csv|en"
+msgid "Card number ranges from 14 digits to 16 digits"
+msgstr "카드 번호는 14~16자리 숫자입니다"
+
+#: translate_sheet.csv:2286
+msgctxt "sheet|StrStr.csv|en"
+msgid "Card Number"
+msgstr "카드 번호"
+
+#: translate_sheet.csv:2285
+msgctxt "sheet|StrStr.csv|en"
+msgid "Credit Card"
+msgstr "신용카드"
+
+#: translate_sheet.csv:2284
+msgctxt "sheet|StrStr.csv|en"
+msgid "VIP Point:"
+msgstr "VIP 포인트:"
+
+#: translate_sheet.csv:2149
+msgctxt "sheet|StrStr.csv|en"
+msgid "Price:"
+msgstr "가격:"
+
+#: translate_sheet.csv:2375
+msgctxt "sheet|StrStr.csv|en"
+msgid "Description"
+msgstr "설명"
+
+#: translate_sheet.csv:2148
+msgctxt "sheet|StrStr.csv|en"
+msgid "Item:"
+msgstr "아이템:"
+
+#: translate_sheet.csv:2147
+msgctxt "sheet|StrStr.csv|en"
+msgid "Choose a payment method"
+msgstr "결제 방법을 선택해주세요"
+
+#: translate_json.csv:859
+msgctxt "json|lobby/payment/choose_method_chs|0|9|2|0|1"
+msgid "支付宝扫码"
+msgstr "支付宝扫码"
+
+#: translate_json.csv:885
+msgctxt "json|lobby/payment/wxcode|0|9"
+msgid "支付宝"
+msgstr "支付宝"
+
+#: translate_json.csv:857
+msgctxt "json|lobby/payment/choose_method_chs|0|9|0|0|1"
+msgid "微信"
+msgstr "微信"
+
+#: translate_json.csv:856
+msgctxt "json|lobby/payment/choose_method_chs|0|8"
+msgid "支付疑问请加 QQ：951307369"
+msgstr "支付疑问请加 QQ：951307369"
+
+#: translate_json.csv:882
+msgctxt "json|lobby/payment/wxcode|0|6|0"
+msgid "680.00元"
+msgstr "680.00元"
+
+#: translate_json.csv:881
+msgctxt "json|lobby/payment/wxcode|0|6"
+msgid "应付金额："
+msgstr "应付金额："
+
+#: translate_json.csv:839
+msgctxt "json|lobby/payment/buy_yueka_chs|0|7"
+msgid "132123213123\\n1231231231\\n123123123\\n12312313123"
+msgstr ""
+"132123213123\\n"
+"1231231231\\n"
+"123123123\\n"
+"12312313123"
+
+#: translate_json.csv:838
+msgctxt "json|lobby/payment/buy_yueka_chs|0|6"
+msgid "商品说明："
+msgstr "商品说明："
+
+#: translate_json.csv:880
+msgctxt "json|lobby/payment/wxcode|0|5|0"
+msgid "6800辉玉"
+msgstr "6800辉玉"
+
+#: translate_json.csv:879
+msgctxt "json|lobby/payment/wxcode|0|5"
+msgid "商品名称："
+msgstr "商品名称："
+
+#: translate_json.csv:851
+msgctxt "json|lobby/payment/choose_method_chs|0|3"
+msgid "选择支付方式"
+msgstr "选择支付方式"
+
+#: translate_sheet.csv:2444
+msgctxt "sheet|StrStr.csv|en"
+msgid "1/23 14:00 - 1/28 13:59 (UTC-7)"
+msgstr "1/23 14:00 - 1/28 13:59 (UTC-7)"
+
+#: translate_json.csv:768
+msgctxt "json|lobby/match_ticket|0|7"
+msgid "试炼券可以通过活动获取"
+msgstr "试炼券可以通过活动获取"
+
+#: translate_json.csv:766
+msgctxt "json|lobby/match_ticket|0|6"
+msgid "拥有铜币"
+msgstr "拥有铜币"
+
+#: translate_json.csv:767
+msgctxt "json|lobby/match_ticket|0|6|0"
+msgid "9999"
+msgstr "9999"
+
+#: translate_json.csv:764
+msgctxt "json|lobby/match_ticket|0|5"
+msgid "拥有试炼券"
+msgstr "拥有试炼券"
+
+#: translate_json.csv:763
+msgctxt "json|lobby/match_ticket|0|4|0|0"
+msgid "99999"
+msgstr "99999"
+
+#: translate_json.csv:762
+msgctxt "json|lobby/match_ticket|0|4|0"
+msgid "消耗"
+msgstr "消耗"
+
+#: translate_json.csv:759
+msgctxt "json|lobby/match_ticket|0|2"
+msgid "入场方式选择"
+msgstr "入场方式选择"
+
+#: translate_json.csv:757
+msgctxt "json|lobby/match_shilian|1|1|0|1"
+msgid "在试炼中点数降到0点以下将会失败"
+msgstr "在试炼中点数降到0点以下将会失败"
+
+#: translate_json.csv:756
+msgctxt "json|lobby/match_shilian|1|1|0|0"
+msgid "通过的试炼越多奖励越好"
+msgstr "通过的试炼越多奖励越好"
+
+#: translate_json.csv:758
+msgctxt "json|lobby/match_shilian|2|0|1"
+msgid "×999999"
+msgstr "×999999"
+
+#: translate_json.csv:754
+msgctxt "json|lobby/match_shilian|1|0|4|0|1|2"
+msgid "返点 99999"
+msgstr "返点 99999"
+
+#: translate_json.csv:753
+msgctxt "json|lobby/match_shilian|1|0|4|0|1|1"
+msgid "起点 99999"
+msgstr "起点 99999"
+
+#: translate_json.csv:740
+msgctxt "json|lobby/match_shilian|0|3|2"
+msgid "9999999"
+msgstr "9999999"
+
+#: translate_json.csv:738
+msgctxt "json|lobby/match_shilian|0|1"
+msgid "试炼之道"
+msgstr "试炼之道"
+
+#: translate_json.csv:704
+msgctxt "json|lobby/match_room|1|1|0|4"
+msgid "该功能正在维护。。。"
+msgstr "该功能正在维护。。。"
+
+#: translate_json.csv:609
+msgctxt "json|lobby/create_room|0|0|1|4|3|0"
+msgid "12张"
+msgstr "12张"
+
+#: translate_json.csv:608
+msgctxt "json|lobby/create_room|0|0|1|4|2|0"
+msgid "5张"
+msgstr "5张"
+
+#: translate_json.csv:606
+msgctxt "json|lobby/create_room|0|0|1|3|5|0"
+msgid "三暗杠"
+msgstr "三暗杠"
+
+#: translate_sheet.csv:187
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "四暗刻"
+msgstr "四暗刻"
+
+#: translate_json.csv:604
+msgctxt "json|lobby/create_room|0|0|1|3|3|0"
+msgid "顺子"
+msgstr "顺子"
+
+#: translate_sheet.csv:189
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "国士无双"
+msgstr "国士无双"
+
+#: translate_json.csv:607
+msgctxt "json|lobby/create_room|0|0|1|4|1|0"
+msgid "正常"
+msgstr "正常"
+
+#: translate_sheet.csv:2506
+msgctxt "sheet|StrStr.csv|en"
+msgid "300+0s"
+msgstr "300+0s"
+
+#: translate_json.csv:555
+msgctxt "json|lobby/agexiane|0|0|8"
+msgid "今月の合計購入額:"
+msgstr "今月の合計購入額:"
+
+#: translate_json.csv:552
+msgctxt "json|lobby/agexiane|0|0|5"
+msgid "毎月の購入上限額:"
+msgstr "毎月の購入上限額:"
+
+#: translate_json.csv:554
+msgctxt "json|lobby/agexiane|0|0|7"
+msgid "円"
+msgstr "円"
+
+#: translate_json.csv:546
+msgctxt "json|lobby/agesuccess|0|0|3"
+msgid "認証完了しました。"
+msgstr "認証完了しました。"
+
+#: translate_json.csv:540
+msgctxt "json|lobby/agepending_chs|0|0|3|0"
+msgid "确认"
+msgstr "确认"
+
+#: translate_json.csv:534
+msgctxt "json|lobby/agepending_chs|0|0|0|4"
+msgid ""
+"未成年人用户每日22时到次日8时无法进行游戏，工作日游戏时间不能超过1.5小时，法定节假日每日不能超过3小时。 "
+"\\n8岁以下用户不能使用充值服务。\\n8至16岁用户单次充值金额不能超过50元人民币，每月充值金额累计不能超过200元人民币。\\n16至18岁用户单次充值金额不能超过100元人民币，每月充值金额累计不能超过400元人民币。"
+msgstr ""
+"未成年人用户每日22时到次日8时无法进行游戏，工作日游戏时间不能超过1.5小时，法定节假日每日不能超过3小时。 \\n"
+"8岁以下用户不能使用充值服务。\\n"
+"8至16岁用户单次充值金额不能超过50元人民币，每月充值金额累计不能超过200元人民币。\\n"
+"16至18岁用户单次充值金额不能超过100元人民币，每月充值金额累计不能超过400元人民币。"
+
+#: translate_json.csv:533
+msgctxt "json|lobby/agepending_chs|0|0|0|3"
+msgid "根据《关于防止未成年人沉迷网络游戏的通知》需要登记您的出生年月。\\n请如实填写您的出生年月，提交后无法更改。"
+msgstr ""
+"根据《关于防止未成年人沉迷网络游戏的通知》需要登记您的出生年月。\\n"
+"请如实填写您的出生年月，提交后无法更改。"
+
+#: translate_json.csv:532
+msgctxt "json|lobby/agepending_chs|0|0|0|2"
+msgid "年龄认证"
+msgstr "年龄认证"
+
+#: translate_json.csv:544
+msgctxt "json|lobby/agepending_chs|0|1|2|2|0|0|1"
+msgid "2001"
+msgstr "2001"
+
+#: translate_json.csv:542
+msgctxt "json|lobby/agepending_chs|0|0|5"
+msgid "请选择年份"
+msgstr "请选择年份"
+
+#: translate_json.csv:541
+msgctxt "json|lobby/agepending_chs|0|0|4"
+msgid "请选择月份"
+msgstr "请选择月份"
+
+#: translate_json.csv:524
+msgctxt "json|lobby/agepending|0|0|0|15"
+msgid "無制限"
+msgstr "無制限"
+
+#: translate_json.csv:539
+msgctxt "json|lobby/agepending_chs|0|0|2|0"
+msgid "月"
+msgstr "月"
+
+#: translate_json.csv:538
+msgctxt "json|lobby/agepending_chs|0|0|1|0"
+msgid "年"
+msgstr "年"
+
+#: translate_json.csv:535
+msgctxt "json|lobby/agepending_chs|0|0|0|5"
+msgid "生年月"
+msgstr "生年月"
+
+#: translate_json.csv:520
+msgctxt "json|lobby/agepending|0|0|0|11"
+msgid "5000円"
+msgstr "5000円"
+
+#: translate_json.csv:519
+msgctxt "json|lobby/agepending|0|0|0|10"
+msgid "20000円"
+msgstr "20000円"
+
+#: translate_json.csv:518
+msgctxt "json|lobby/agepending|0|0|0|9"
+msgid "20才以上:"
+msgstr "20才以上:"
+
+#: translate_json.csv:517
+msgctxt "json|lobby/agepending|0|0|0|8"
+msgid "16才以上20才未満:"
+msgstr "16才以上20才未満:"
+
+#: translate_json.csv:516
+msgctxt "json|lobby/agepending|0|0|0|7"
+msgid "16才未満:"
+msgstr "16才未満:"
+
+#: translate_json.csv:515
+msgctxt "json|lobby/agepending|0|0|0|6"
+msgid "毎月の購入上限額"
+msgstr "毎月の購入上限額"
+
+#: translate_json.csv:514
+msgctxt "json|lobby/agepending|0|0|0|5"
+msgid "(*あとから生年月の変更はできません。)"
+msgstr "(*あとから生年月の変更はできません。)"
+
+#: translate_json.csv:513
+msgctxt "json|lobby/agepending|0|0|0|4"
+msgid "必ず正しい生年月を入力してください。"
+msgstr "必ず正しい生年月を入力してください。"
+
+#: translate_json.csv:512
+msgctxt "json|lobby/agepending|0|0|0|3"
+msgid "あなたの年齢によって一ヶ月に購入できる金額がきまっています。"
+msgstr "あなたの年齢によって一ヶ月に購入できる金額がきまっています。"
+
+#: translate_json.csv:556
+msgctxt "json|lobby/agexiane|0|0|9|0"
+msgid "確認"
+msgstr "確認"
+
+#: translate_json.csv:553
+msgctxt "json|lobby/agexiane|0|0|6"
+msgid "20000"
+msgstr "20000"
+
+#: translate_json.csv:508
+msgctxt "json|lobby/ageconfirm|0|0|5"
+msgid "円になります"
+msgstr "円になります"
+
+#: translate_json.csv:507
+msgctxt "json|lobby/ageconfirm|0|0|4"
+msgid "毎月の購入上限は"
+msgstr "毎月の購入上限は"
+
+#: translate_json.csv:549
+msgctxt "json|lobby/agexiane|0|0|2"
+msgid "年齢認証"
+msgstr "年齢認証"
+
+#: translate_sheet.csv:2035
+msgctxt "sheet|StrStr.csv|en"
+msgid "0"
+msgstr "0"
+
+#: translate_sheet.csv:2033
+msgctxt "sheet|StrStr.csv|en"
+msgid "9"
+msgstr "9"
+
+#: translate_sheet.csv:2032
+msgctxt "sheet|StrStr.csv|en"
+msgid "8"
+msgstr "8"
+
+#: translate_sheet.csv:2031
+msgctxt "sheet|StrStr.csv|en"
+msgid "7"
+msgstr "7"
+
+#: translate_sheet.csv:2030
+msgctxt "sheet|StrStr.csv|en"
+msgid "6"
+msgstr "6"
+
+#: translate_sheet.csv:2029
+msgctxt "sheet|StrStr.csv|en"
+msgid "5"
+msgstr "5"
+
+#: translate_json.csv:492
+msgctxt "json|lobby/activitys/sign|10"
+msgid "每日祈福"
+msgstr "每日祈福"
+
+#: translate_json.csv:491
+msgctxt "json|lobby/activitys/sign|9|3"
+msgid "第七天"
+msgstr "第七天"
+
+#: translate_json.csv:488
+msgctxt "json|lobby/activitys/sign|8|3"
+msgid "第六天"
+msgstr "第六天"
+
+#: translate_json.csv:485
+msgctxt "json|lobby/activitys/sign|7|3"
+msgid "第五天"
+msgstr "第五天"
+
+#: translate_json.csv:482
+msgctxt "json|lobby/activitys/sign|6|3"
+msgid "第四天"
+msgstr "第四天"
+
+#: translate_json.csv:479
+msgctxt "json|lobby/activitys/sign|5|3"
+msgid "第三天"
+msgstr "第三天"
+
+#: translate_json.csv:476
+msgctxt "json|lobby/activitys/sign|4|3"
+msgid "第二天"
+msgstr "第二天"
+
+#: translate_json.csv:473
+msgctxt "json|lobby/activitys/sign|3|3"
+msgid "第一天"
+msgstr "第一天"
+
+#: translate_json.csv:490
+msgctxt "json|lobby/activitys/sign|9|2|1"
+msgid "超级巧克力"
+msgstr "超级巧克力"
+
+#: translate_json.csv:489
+msgctxt "json|lobby/activitys/sign|9|2|0"
+msgid "999999"
+msgstr "999999"
+
+#: translate_json.csv:453
+msgctxt "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|7"
+msgid "/30"
+msgstr "/30"
+
+#: translate_json.csv:452
+msgctxt "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|6"
+msgid "15"
+msgstr "15"
+
+#: translate_json.csv:451
+msgctxt "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|5"
+msgid "今日获得"
+msgstr "今日获得"
+
+#: translate_json.csv:449
+msgctxt "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|3"
+msgid "风铃"
+msgstr "风铃"
+
+#: translate_json.csv:422
+msgctxt "json|lobby/activitys/activity_task_newyear|0|0|1|1|9|2"
+msgid "天和、地和、四暗刻、四暗刻单骑、\\n国士无双、国士无双十三面、\\n九莲宝灯、纯正九莲宝灯"
+msgstr ""
+"天和、地和、四暗刻、四暗刻单骑、\\n"
+"国士无双、国士无双十三面、\\n"
+"九莲宝灯、纯正九莲宝灯"
+
+#: translate_json.csv:421
+msgctxt "json|lobby/activitys/activity_task_newyear|0|0|1|1|9|0"
+msgid "红灯笼×8"
+msgstr "红灯笼×8"
+
+#: translate_json.csv:420
+msgctxt "json|lobby/activitys/activity_task_newyear|0|0|1|1|8|2"
+msgid "两立直、二杯口"
+msgstr "两立直、二杯口"
+
+#: translate_json.csv:419
+msgctxt "json|lobby/activitys/activity_task_newyear|0|0|1|1|8|0"
+msgid "红灯笼×4"
+msgstr "红灯笼×4"
+
+#: translate_sheet.csv:182
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "七对子"
+msgstr "七对子"
+
+#: translate_json.csv:417
+msgctxt "json|lobby/activitys/activity_task_newyear|0|0|1|1|7|0"
+msgid "红灯笼×2"
+msgstr "红灯笼×2"
+
+#: translate_json.csv:461
+msgctxt "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|12|2"
+msgid "立直、门前清自摸和、平和、一杯口"
+msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: translate_json.csv:460
+msgctxt "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|12|0"
+msgid "红灯笼×1"
+msgstr "红灯笼×1"
+
+#: translate_json.csv:414
+msgctxt "json|lobby/activitys/activity_task_newyear|0|0|1|1|4|0"
+msgid "红灯笼"
+msgstr "红灯笼"
+
+#: translate_json.csv:413
+msgctxt "json|lobby/activitys/activity_task_newyear|0|0|1|1|4"
+msgid "收集"
+msgstr "收集"
+
+#: translate_json.csv:450
+msgctxt "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|4"
+msgid "对局中每次达成特定番型都可获得红灯笼"
+msgstr "对局中每次达成特定番型都可获得红灯笼"
+
+#: translate_json.csv:391
+msgctxt "json|entrance/reset_password_phone2|0|6"
+msgid "12345678901"
+msgstr "12345678901"
+
+#: translate_json.csv:390
+msgctxt "json|entrance/reset_password_phone2|0|5"
+msgid "手机号："
+msgstr "手机号："
+
+#: translate_json.csv:389
+msgctxt "json|entrance/reset_password_phone2|0|4"
+msgid "为了您的账号安全，重置密码需要验证您的手机号"
+msgstr "为了您的账号安全，重置密码需要验证您的手机号"
+
+#: translate_json.csv:386
+msgctxt "json|entrance/reset_password|0|0|2|4"
+msgid "285720023@qq.com"
+msgstr "285720023@qq.com"
+
+#: translate_json.csv:385
+msgctxt "json|entrance/reset_password|0|0|2|3"
+msgid "若未收到请检查一下垃圾邮件。"
+msgstr "若未收到请检查一下垃圾邮件。"
+
+#: translate_json.csv:384
+msgctxt "json|entrance/reset_password|0|0|2|2"
+msgid "一封包含密码重置链接的邮件已经发送到"
+msgstr "一封包含密码重置链接的邮件已经发送到"
+
+#: translate_json.csv:383
+msgctxt "json|entrance/reset_password|0|0|2|1"
+msgid "已发送"
+msgstr "已发送"
+
+#: translate_json.csv:548
+msgctxt "json|lobby/agesuccess_chs|0|3|0"
+msgid "确定"
+msgstr "确定"
+
+#: translate_json.csv:381
+msgctxt "json|entrance/reset_password|0|0|1|6"
+msgid "手机号码"
+msgstr "手机号码"
+
+#: translate_json.csv:380
+msgctxt "json|entrance/reset_password|0|0|1|5"
+msgid "或"
+msgstr "或"
+
+#: translate_json.csv:379
+msgctxt "json|entrance/reset_password|0|0|1|4"
+msgid "邮箱地址"
+msgstr "邮箱地址"
+
+#: translate_json.csv:378
+msgctxt "json|entrance/reset_password|0|0|1|3"
+msgid "请输入绑定的"
+msgstr "请输入绑定的"
+
+#: translate_json.csv:388
+msgctxt "json|entrance/reset_password_phone2|0|3"
+msgid "重置密码"
+msgstr "重置密码"
+
+#: translate_json.csv:376
+msgctxt "json|entrance/reset_password|0|0|1|0|0"
+msgid "发送"
+msgstr "发送"
+
+#: translate_json.csv:375
+msgctxt "json|entrance/remind|7"
+msgid "2/10"
+msgstr "2/10"
+
+#: translate_json.csv:374
+msgctxt "json|entrance/remind|6"
+msgid "役满"
+msgstr "役满"
+
+#: translate_json.csv:373
+msgctxt "json|entrance/remind|5"
+msgid "倍满"
+msgstr "倍满"
+
+#: translate_json.csv:372
+msgctxt "json|entrance/remind|4"
+msgid "跳满"
+msgstr "跳满"
+
+#: translate_json.csv:371
+msgctxt "json|entrance/remind|3"
+msgid "满贯"
+msgstr "满贯"
+
+#: translate_json.csv:370
+msgctxt "json|entrance/remind|2"
+msgid "——--"
+msgstr "——--"
+
+#: translate_json.csv:369
+msgctxt "json|entrance/remind|1"
+msgid "区区 立直棒 就送给你了"
+msgstr "区区 立直棒 就送给你了"
+
+#: translate_json.csv:368
+msgctxt "json|entrance/remind|0|3"
+msgid "合理安排时间，享受健康生活"
+msgstr "合理安排时间，享受健康生活"
+
+#: translate_json.csv:367
+msgctxt "json|entrance/remind|0|2"
+msgid "适度游戏益脑，沉迷游戏伤身"
+msgstr "适度游戏益脑，沉迷游戏伤身"
+
+#: translate_json.csv:366
+msgctxt "json|entrance/remind|0|1"
+msgid "注意自我保护，谨防上当受骗"
+msgstr "注意自我保护，谨防上当受骗"
+
+#: translate_json.csv:365
+msgctxt "json|entrance/remind|0|0"
+msgid "抵制不良游戏，拒绝盗版游戏"
+msgstr "抵制不良游戏，拒绝盗版游戏"
+
+#: translate_json.csv:364
+msgctxt "json|entrance/remind|0"
+msgid "健康游戏公告"
+msgstr "健康游戏公告"
+
+#: translate_json.csv:362
+msgctxt "json|entrance/mail_regist|1|1|1"
+msgid "正在连接服务器"
+msgstr "正在连接服务器"
+
+#: translate_json.csv:360
+msgctxt "json|entrance/mail_regist|0|0|9|3"
+msgid "《雀魂麻将许可及服务协议》"
+msgstr "《雀魂麻将许可及服务协议》"
+
+#: translate_json.csv:359
+msgctxt "json|entrance/mail_regist|0|0|2|0"
+msgid "社交账号注册"
+msgstr "社交账号注册"
+
+#: translate_json.csv:358
+msgctxt "json|entrance/mail_regist|0|0|1"
+msgid "注册账号"
+msgstr "注册账号"
+
+#: translate_json.csv:355
+msgctxt "json|entrance/entrance|3|2"
+msgid "本网络游戏适合17+岁的用户使用；为了您的健康，请合理控制游戏时间。"
+msgstr "本网络游戏适合17+岁的用户使用；为了您的健康，请合理控制游戏时间。"
+
+#: translate_json.csv:354
+msgctxt "json|entrance/entrance|3|1"
+msgid "增值电信业务经营许可证：沪B2-20190417 文网游备字[2018]M-CSG 0937号 ISBN 978-7-498-04090-9"
+msgstr "增值电信业务经营许可证：沪B2-20190417 文网游备字[2018]M-CSG 0937号 ISBN 978-7-498-04090-9"
+
+#: translate_json.csv:347
+msgctxt "json|entrance/entrance|2|0|5|3|3"
+msgid "に同意する"
+msgstr "に同意する"
+
+#: translate_json.csv:346
+msgctxt "json|entrance/entrance|2|0|5|3|2"
+msgid "《プライバシーポリシー》"
+msgstr "《プライバシーポリシー》"
+
+#: translate_sheet.csv:1798
+msgctxt "sheet|StrStr.csv|en"
+msgid "、"
+msgstr "、"
+
+#: translate_json.csv:344
+msgctxt "json|entrance/entrance|2|0|5|3|0"
+msgid "《雀魂利用規約》"
+msgstr "《雀魂利用規約》"
+
+#: translate_json.csv:334
+msgctxt "json|entrance/entrance|1|2|0|8|1|0"
+msgid "手机号登入"
+msgstr "手机号登入"
+
+#: translate_json.csv:333
+msgctxt "json|entrance/entrance|1|2|0|8|0|0"
+msgid "邮箱/账号登入"
+msgstr "邮箱/账号登入"
+
+#: translate_json.csv:332
+msgctxt "json|entrance/entrance|1|2|0|7|2"
+msgid "切换"
+msgstr "切换"
+
+#: translate_json.csv:331
+msgctxt "json|entrance/entrance|1|2|0|7|0"
+msgid "线路1"
+msgstr "线路1"
+
+#: translate_json.csv:330
+msgctxt "json|entrance/entrance|1|2|0|5|0"
+msgid "忘记密码"
+msgstr "忘记密码"
+
+#: translate_json.csv:329
+msgctxt "json|entrance/entrance|1|2|0|4|0"
+msgid "立即注册"
+msgstr "立即注册"
+
+#: translate_json.csv:328
+msgctxt "json|entrance/entrance|1|2|0|3|2"
+msgid "密码"
+msgstr "密码"
+
+#: translate_json.csv:327
+msgctxt "json|entrance/entrance|1|2|0|2|2"
+msgid "账号/邮箱"
+msgstr "账号/邮箱"
+
+#: translate_json.csv:323
+msgctxt "json|entrance/choose_language|2"
+msgid "当前语言：简体中文"
+msgstr "当前语言：简体中文"
+
+#: translate_json.csv:322
+msgctxt "json|entrance/choose_language|0|0"
+msgid "更改语言:"
+msgstr "更改语言:"
+
+#: translate_json.csv:321
+msgctxt "json|entrance/chooseserver|0|5"
+msgid "47.245.59.187:7891"
+msgstr "47.245.59.187:7891"
+
+#: translate_json.csv:320
+msgctxt "json|entrance/chooseserver|0|4"
+msgid "输入服务器地址："
+msgstr "输入服务器地址："
+
+#: translate_json.csv:319
+msgctxt "json|entrance/chooseserver|0|2"
+msgid "选择服务器"
+msgstr "选择服务器"
+
+#: translate_json.csv:317
+msgctxt "json|common/user_xieyi_enjp|0|1"
+msgid "用户协议"
+msgstr "用户协议"
+
+#: translate_json.csv:289
+msgctxt "json|common/bind_phone1|0|8"
+msgid "根据网络游戏实名制的相关规定要求，请绑定手机完成认证。"
+msgstr "根据网络游戏实名制的相关规定要求，请绑定手机完成认证。"
+
+#: translate_json.csv:281
+msgctxt "json|common/android_change|0|6"
+msgid "是否立即前往官网下载？"
+msgstr "是否立即前往官网下载？"
+
+#: translate_json.csv:280
+msgctxt "json|common/android_change|0|5"
+msgid ""
+"雀魂全新安卓App已在官网开放下载\\n        *更流畅的体验\\n        *更低的耗电\\n        *更少的流量\\n"
+"        *更好的全面屏适配"
+msgstr ""
+"雀魂全新安卓App已在官网开放下载\\n"
+"        *更流畅的体验\\n"
+"        *更低的耗电\\n"
+"        *更少的流量\\n"
+"        *更好的全面屏适配"
+
+#: translate_json.csv:279
+msgctxt "json|common/android_change|0|4"
+msgid "好消息！好消息！"
+msgstr "好消息！好消息！"
+
+#: translate_json.csv:278
+msgctxt "json|common/android_change|0|3|0"
+msgid "再等等"
+msgstr "再等等"
+
+#: translate_json.csv:277
+msgctxt "json|common/android_change|0|2|0"
+msgid "好的，走起"
+msgstr "好的，走起"
+
+#: translate_sheet.csv:1938
+msgctxt "sheet|StrStr.csv|en"
+msgid "2"
+msgstr "2"
+
+#: translate_sheet.csv:1937
+msgctxt "sheet|StrStr.csv|en"
+msgid "3"
+msgstr "3"
+
+#: translate_sheet.csv:1936
+msgctxt "sheet|StrStr.csv|en"
+msgid "4"
+msgstr "4"
+
+#: translate_json.csv:102
+msgctxt "json|both_ui/need_bind_mail|0|4"
+msgid "您先需要绑定并验证邮箱，才能进行付费"
+msgstr "您先需要绑定并验证邮箱，才能进行付费"
+
+#: translate_json.csv:101
+msgctxt "json|both_ui/need_bind_mail|0|2|0"
+msgid "立即绑定"
+msgstr "立即绑定"
+
+#: translate_sheet.csv:2426
+msgctxt "sheet|StrStr.csv|en"
+msgid "GO"
+msgstr "GO"
+
+#: translate_json.csv:72
+msgctxt "json|both_ui/config|0|7|3|2|3|2|1"
+msgid "(12******3456)"
+msgstr "(12******3456)"
+
+#: translate_json.csv:68
+msgctxt "json|both_ui/config|0|7|3|2|3|0"
+msgid "手机认证："
+msgstr "手机认证："
+
+#: translate_sheet.csv:162
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with Full Flush"
+msgstr "1 게임을 청일색으로 화료"
+
+#: translate_sheet.csv:161
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Yaku: Half Flush/Full Flush"
+msgstr "역: 혼일색/청일색"
+
+#: translate_sheet.csv:160
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win a game with Half Flush or Full Flush"
+msgstr "혼일색 또는 청일색으로 화료"
+
+#: translate_sheet.csv:159
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 5 games with Pinfu"
+msgstr "5 게임을 핑후로 화료"
+
+#: translate_sheet.csv:158
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 3 games with Pinfu"
+msgstr "3 게임을 핑후로 화료"
+
+#: translate_sheet.csv:157
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with Pinfu"
+msgstr "1 게임을 핑후로 화료"
+
+#: translate_sheet.csv:156
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 6 games with All Simples"
+msgstr "6 게임을 탕야오로 화료"
+
+#: translate_sheet.csv:155
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 4 games with All Simples"
+msgstr "4 게임을 탕야오로 화료"
+
+#: translate_sheet.csv:154
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 2 games with All Simples"
+msgstr "2 게임을 탕야오로 화료"
+
+#: translate_sheet.csv:153
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 5 games with Riichi"
+msgstr "5 게임을 리치하여 화료"
+
+#: translate_sheet.csv:152
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Yaku: Riichi"
+msgstr "역: 리치"
+
+#: translate_sheet.csv:151
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Avoid dealing into others' in 6 games"
+msgstr "6번 방총 회피하기"
+
+#: translate_sheet.csv:150
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win a game with Ron"
+msgstr "론으로 화료"
+
+#: translate_sheet.csv:1251
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi Bet - Crimson Thorns"
+msgstr "리치 봉 - 크림슨 가시"
+
+#: translate_sheet.csv:1240
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Blood·Lance of Longinus"
+msgstr "리치 - 선혈·롱기누스의 창"
+
+#: translate_sheet.csv:1238
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Starfall"
+msgstr "리치 - 별똥별"
+
+#: translate_sheet.csv:1228
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Eye of Eris"
+msgstr "승리 - 에리스의 눈"
+
+#: translate_sheet.csv:1226
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Silent Star"
+msgstr "승리 - 고요한 별"
+
+#: translate_sheet.csv:1013
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Wishing Stone"
+msgstr "기도의 소옥"
+
+#: translate_sheet.csv:1257
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Tablecloth - Swimming Koi"
+msgstr "테이블보 - 비단 잉어"
+
+#: translate_sheet.csv:1255
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Tile Back - Red Packet"
+msgstr "마작패 - 복주머니"
+
+#: translate_sheet.csv:1249
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi Bet - Gold Arowana"
+msgstr "리치 봉 - 황금 아로와나"
+
+#: translate_sheet.csv:1236
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Rat Power"
+msgstr "리치 - 경자(庚子)의 힘"
+
+#: translate_sheet.csv:1224
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Family Reunion"
+msgstr "승리 - 새해 불꽃놀이"
+
+#: translate_sheet.csv:1247
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi Bet - Magical Wand"
+msgstr "리치 봉 - 마법봉"
+
+#: translate_sheet.csv:1234
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Magical Girl"
+msgstr "리치 - 마법소녀"
+
+#: translate_sheet.csv:1232
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Emergency"
+msgstr "리치 - 비상"
+
+#: translate_sheet.csv:1222
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Magical Girl"
+msgstr "승리 - 마법소녀"
+
+#: translate_sheet.csv:1220
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Opera Phantom"
+msgstr "승리 - 오페라의 유령"
+
+#: translate_sheet.csv:1216
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "“On the Edge”"
+msgstr "“일촉즉발”"
+
+#: translate_sheet.csv:1253
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Tile Back - Bumpkin"
+msgstr "마작패 - 유령"
+
+#: translate_sheet.csv:107
+msgctxt "sheet|ChestChestShop.csv|name_en"
+msgid "Riichi Bet - Impish Bat"
+msgstr "리치 봉 - 소악마"
+
+#: translate_sheet.csv:1230
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Bat Swarm"
+msgstr "리치 - 박쥐떼"
+
+#: translate_sheet.csv:1218
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Screaming Ghost"
+msgstr "승리 - 비명을 지르는 유령"
+
+#: translate_sheet.csv:1208
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Tablecloth - Melon"
+msgstr "테이블보 - 수박"
+
+#: translate_sheet.csv:1210
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Tablecloth - Mahjong Ceremony"
+msgstr "테이블보 - 여름 축제"
+
+#: translate_sheet.csv:1214
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "“Charge”"
+msgstr "“출전”"
+
+#: translate_sheet.csv:1204
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi Bet - Ice Cream"
+msgstr "리치 봉 - 아이스크림"
+
+#: translate_sheet.csv:1202
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi Bet - Sever"
+msgstr "리치 봉 - 악의"
+
+#: translate_sheet.csv:97
+msgctxt "sheet|ChestChestShop.csv|name_en"
+msgid "Winning - Inverted Dragon Scale"
+msgstr "승리 - 역린"
+
+#: translate_sheet.csv:1198
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - K.O"
+msgstr "승리 - K.O"
+
+#: translate_sheet.csv:1196
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Dragon"
+msgstr "리치 - 드래곤"
+
+#: translate_sheet.csv:1194
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - \"Beep\"!"
+msgstr "리치 - \"삑\"!"
+
+#: translate_sheet.csv:89
+msgctxt "sheet|ChestChestShop.csv|name_en"
+msgid "Kavvi"
+msgstr "카비"
+
+#: translate_sheet.csv:1192
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Dancing Rose"
+msgstr "승리 - 춤추는 꽃"
+
+#: translate_sheet.csv:1190
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Laser Blast"
+msgstr "승리 - 레이저 블라스트"
+
+#: translate_sheet.csv:1188
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Firestorm"
+msgstr "승리 - 화염폭풍"
+
+#: translate_sheet.csv:1186
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Feather"
+msgstr "리치 - 깃털"
+
+#: translate_sheet.csv:1184
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Phantom"
+msgstr "리치 - 팬텀"
+
+#: translate_sheet.csv:82
+msgctxt "sheet|ChestChestShop.csv|name_en"
+msgid "Tablecloth - Lunar New Year"
+msgstr "테이블보 - 설날"
+
+#: translate_sheet.csv:1172
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "“Intensive Battle”"
+msgstr "“격투”"
+
+#: translate_sheet.csv:1170
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "“Serious Game”"
+msgstr "“진검승부”"
+
+#: translate_sheet.csv:79
+msgctxt "sheet|ChestChestShop.csv|name_en"
+msgid "24K Gold Riichi Bet"
+msgstr "24K 순금 리치 봉"
+
+#: translate_sheet.csv:1156
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Crimson"
+msgstr "리치 - 크림슨"
+
+#: translate_sheet.csv:1130
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Bone"
+msgstr "리치 - 뼈"
+
+#: translate_sheet.csv:1128
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Green Onion"
+msgstr "리치 - 파"
+
+#: translate_sheet.csv:1126
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Fish"
+msgstr "리치 - 물고기"
+
+#: translate_sheet.csv:1176
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Dumpling"
+msgstr "리치 - 만두"
+
+#: translate_sheet.csv:1174
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Firecracker"
+msgstr "리치 - 폭죽"
+
+#: translate_sheet.csv:1146
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Ginger Cat Paw"
+msgstr "치즈색 고양이 발"
+
+#: translate_sheet.csv:1142
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Sakura"
+msgstr "승리 - 벚꽃"
+
+#: translate_sheet.csv:1140
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Cyclone"
+msgstr "승리 - 사이클론"
+
+#: translate_sheet.csv:1138
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Flame"
+msgstr "승리 - 불꽃"
+
+#: translate_sheet.csv:1178
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Fireworks"
+msgstr "승리 - 불꽃놀이"
+
+#: translate_sheet.csv:1166
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Winning - Dark Flame"
+msgstr "승리 - 어둠의 불꽃"
+
+#: translate_sheet.csv:1164
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Fire"
+msgstr "리치 - 파이어"
+
+#: translate_sheet.csv:1162
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Ice"
+msgstr "리치 - 아이스"
+
+#: translate_sheet.csv:1144
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Riichi - Blue Flame"
+msgstr "리치 - 푸른 불꽃"
+
+#: translate_sheet.csv:33
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Maid's Commission"
+msgstr "메이드의 커미션"
+
+#: translate_sheet.csv:32
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Working Adventure Rewards"
+msgstr "아르바이트 대모험 보상"
+
+#: translate_sheet.csv:2484
+msgctxt "sheet|StrStr.csv|en"
+msgid "Working Adventure Quest"
+msgstr "아르바이트 대모험 퀘스트"
+
+#: translate_sheet.csv:2483
+msgctxt "sheet|StrStr.csv|en"
+msgid "Ichihime's Working Adventure"
+msgstr "이치히메의 아르바이트 대모험"
+
+#: translate_sheet.csv:29
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Detection: OP Progress"
+msgstr "확인 : 작전 진행"
+
+#: translate_sheet.csv:28
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Launch: School Operation"
+msgstr "시작: 봄방학 작전"
+
+#: translate_sheet.csv:27
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Gorgeous Spring"
+msgstr "화려한 봄날"
+
+#: translate_sheet.csv:26
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Spring Festival Limited-time Sticker Shop"
+msgstr "봄 축제 기간 한정 스티커 샵"
+
+#: translate_sheet.csv:25
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Celebration Shop"
+msgstr "기념품점"
+
+#: translate_sheet.csv:24
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "New Year Celebration"
+msgstr "혼천신사 새해 참배"
+
+#: translate_sheet.csv:22
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Chiori's Trouble"
+msgstr "치오리의 고민"
+
+#: translate_sheet.csv:21
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Halloween Event Exchange"
+msgstr "할로윈 이벤트 교환"
+
+#: translate_sheet.csv:20
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Halloween Event"
+msgstr "할로윈 이벤트"
+
+#: translate_sheet.csv:18
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Hana Ninomiya's Challenge"
+msgstr "니노미야 하나의 도전"
+
+#: translate_sheet.csv:17
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Moon Palace"
+msgstr "달 궁전"
+
+#: translate_sheet.csv:16
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Missions from Moon Palace"
+msgstr "달 궁전의 역할"
+
+#: translate_sheet.csv:12
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Visiting the Shrine in Midsummer"
+msgstr "여름 신사 참배"
+
+#: translate_sheet.csv:13
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Midsummer Gifts"
+msgstr "한여름 선물"
+
+#: translate_sheet.csv:8
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Nikaidou's Reward"
+msgstr "니카이도 보상"
+
+#: translate_sheet.csv:7
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "Nikaidou's Class"
+msgstr "니카이도 교실"
+
+#: translate_sheet.csv:11
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "古役活动"
+msgstr "古役活动"
+
+#: translate_sheet.csv:10
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "排名活动"
+msgstr "排名活动"
+
+#: translate_sheet.csv:9
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "对局点数活动"
+msgstr "对局点数活动"
+
+#: translate_sheet.csv:6
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "春节的礼品箱"
+msgstr "春节的礼品箱"
+
+#: translate_sheet.csv:5
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "春节夺宝战"
+msgstr "春节夺宝战"
+
+#: translate_sheet.csv:4
+msgctxt "sheet|ActivityActivity.csv|name_en"
+msgid "新角色 新装版up"
+msgstr "新角色 新装版up"
+
+#: translate_json.csv:67
+msgctxt "json|both_ui/config|0|7|3|2|2|2|1"
+msgid "(28******@qq.com)"
+msgstr "(28******@qq.com)"
+
+#: translate_json.csv:71
+msgctxt "json|both_ui/config|0|7|3|2|3|2|0"
+msgid "已绑定"
+msgstr "已绑定"
+
+#: translate_json.csv:70
+msgctxt "json|both_ui/config|0|7|3|2|3|1|1"
+msgid "（点击绑定）"
+msgstr "（点击绑定）"
+
+#: translate_json.csv:69
+msgctxt "json|both_ui/config|0|7|3|2|3|1|0|0"
+msgid "未验证"
+msgstr "未验证"
+
+#: translate_json.csv:63
+msgctxt "json|both_ui/config|0|7|3|2|2|0"
+msgid "邮箱认证："
+msgstr "邮箱认证："
+
+#: translate_json.csv:62
+msgctxt "json|both_ui/config|0|7|3|2|0"
+msgid "账号设置"
+msgstr "账号设置"
+
+#: translate_json.csv:56
+msgctxt "json|both_ui/config|0|7|3|0|4|3|1"
+msgid "プライバシーポリシー"
+msgstr "プライバシーポリシー"
+
+#: translate_json.csv:55
+msgctxt "json|both_ui/config|0|7|3|0|4|2|1"
+msgid "資金決済法"
+msgstr "資金決済法"
+
+#: translate_json.csv:54
+msgctxt "json|both_ui/config|0|7|3|0|4|1|1"
+msgid "特定商取引法"
+msgstr "特定商取引法"
+
+#: translate_json.csv:53
+msgctxt "json|both_ui/config|0|7|3|0|4|0|1"
+msgid "利用規約"
+msgstr "利用規約"
+
+#: translate_sheet.csv:1939
+msgctxt "sheet|StrStr.csv|en"
+msgid "1"
+msgstr "1"
+
+#: translate_json.csv:287
+msgctxt "json|common/bind_phone1|0|7"
+msgid "手机号码："
+msgstr "手机号码："
+
+#: translate_json.csv:284
+msgctxt "json|common/bind_phone1|0|2"
+msgid "绑定手机"
+msgstr "绑定手机"
+
+#: translate_json.csv:288
+msgctxt "json|common/bind_phone1|0|7|0"
+msgid "28******@qq.com"
+msgstr "28******@qq.com"
+
+#: translate_json.csv:10
+msgctxt "json|both_ui/bind_mail1|0|8"
+msgid "邮箱地址:"
+msgstr "邮箱地址:"
+
+#: translate_json.csv:286
+msgctxt "json|common/bind_phone1|0|6|0"
+msgid "绑定"
+msgstr "绑定"
+
+#: translate_json.csv:392
+msgctxt "json|entrance/reset_password_phone2|0|10|0"
+msgid "发送验证码"
+msgstr "发送验证码"
+
+#: translate_json.csv:7
+msgctxt "json|both_ui/bind_mail1|0|2"
+msgid "绑定邮箱"
+msgstr "绑定邮箱"
