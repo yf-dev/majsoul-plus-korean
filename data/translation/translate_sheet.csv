@@ -1,4 +1,4 @@
-﻿path,header,target,translated
+﻿location,context,source,target,translator_comments,developer_comments
 FandescFandesc.csv,name_en,Riichi,리치
 FandescFandesc.csv,desc_en,Win a hand after you declared Riichi; You may declare Riichi when you achieve Tenpai (ready hand) at Menzenchin (closed hand),리치 선언 후 화료 - 리치 선언은 멘젠 상태에서 텐파이 했을 때 할 수 있음
 FandescFandesc.csv,desc2_en,Menzenchin Only,멘젠 한정

@@ -27,7 +27,7 @@ def main(original_assets_path, translation_path):
 
     with open(templates_path / 'translate_json.csv', 'w', encoding='utf-8-sig', newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
-        csv_writer.writerow(['path', 'target', 'translated'])
+        csv_writer.writerow(['location', 'source', 'target', 'translator_comments', 'developer_comments'])
         for row in translate_json_rows:
             csv_writer.writerow(row)
 

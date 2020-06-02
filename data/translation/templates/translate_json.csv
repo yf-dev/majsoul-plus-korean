@@ -1,0 +1,1327 @@
+﻿location,source,target,translator_comments,developer_comments
+both_ui/bind_mail0|0|2,绑定邮箱,绑定邮箱
+both_ui/bind_mail0|0|7|0,发送验证码,发送验证码
+both_ui/bind_mail0|0|8|0,绑定,绑定
+both_ui/bind_mail0|0|10,邮箱地址:,邮箱地址:
+both_ui/bind_mail0|0|10|0,28******@qq.com,28******@qq.com
+both_ui/bind_mail1|0|2,绑定邮箱,绑定邮箱
+both_ui/bind_mail1|0|5|0,发送验证码,发送验证码
+both_ui/bind_mail1|0|6|0,绑定,绑定
+both_ui/bind_mail1|0|8,邮箱地址:,邮箱地址:
+both_ui/bind_mail1|0|8|0,28******@qq.com,28******@qq.com
+both_ui/bind_phone0|0|2,绑定手机,绑定手机
+both_ui/bind_phone0|0|7|0,发送验证码,发送验证码
+both_ui/bind_phone0|0|8|0,绑定,绑定
+both_ui/bind_phone0|0|10,手机号码：,手机号码：
+both_ui/bind_phone0|0|10|0,1,1
+both_ui/bind_yostar_mail|0|5|0,Send code,Send code
+both_ui/bind_yostar_mail|0|6|0,Bind,Bind
+both_ui/config|0|2,Settings,Settings
+both_ui/config|0|4|1,Log Out,Log Out
+both_ui/config|0|5|1,Restart Now,Restart Now
+both_ui/config|0|7|0|0|1,BGM,BGM
+both_ui/config|0|7|0|0|2|0,BGM,BGM
+both_ui/config|0|7|0|0|3|0|0,Lobby BGM,Lobby BGM
+both_ui/config|0|7|0|0|3|0|6|0|0|3,Playlist loop,Playlist loop
+both_ui/config|0|7|0|0|3|0|6|1|0|3,Random,Random
+both_ui/config|0|7|0|0|3|1|0,In-match BGM,In-match BGM
+both_ui/config|0|7|0|0|3|1|6|0|0|3,Playlist loop,Playlist loop
+both_ui/config|0|7|0|0|3|1|6|1|0|3,Random,Random
+both_ui/config|0|7|0|0|4|0,SE,SE
+both_ui/config|0|7|0|0|5|0,Riichi BGM,Riichi BGM
+both_ui/config|0|7|0|0|6|0,Voice,Voice
+both_ui/config|0|7|0|0|8|0,SP Voice,SP Voice
+both_ui/config|0|7|0|1|0|0|3,High FPS mode,High FPS mode
+both_ui/config|0|7|0|1|1|0|3,Power saving mode,Power saving mode
+both_ui/config|0|7|0|1|3,Mode,Mode
+both_ui/config|0|7|0|1|4,(Changes will take effect after restarting the game),(Changes will take effect after restarting the game)
+both_ui/config|0|7|1|0|0,Control,Control
+both_ui/config|0|7|1|0|1,Playing Tiles,Playing Tiles
+both_ui/config|0|7|1|0|2|0|3,Single tap,Single tap
+both_ui/config|0|7|1|0|3|0|3,Double tap,Double tap
+both_ui/config|0|7|1|0|4|0|3,Double to pass & discard,Double to pass & discard
+both_ui/config|0|7|1|1|0,Message,Message
+both_ui/config|0|7|1|1|2|0|3,Anybody,Anybody
+both_ui/config|0|7|1|1|3|0|3,Friends only,Friends only
+both_ui/config|0|7|1|1|4|0|3,Forbid all,Forbid all
+both_ui/config|0|7|1|2|0,TileSet,TileSet
+both_ui/config|0|7|1|2|1,(Can only be set at homepage),(Can only be set at homepage)
+both_ui/config|0|7|2|0|0,Voice,Voice
+both_ui/config|0|7|3|0|0,Other,Other
+both_ui/config|0|7|3|0|2|1,Gift Code,Gift Code
+both_ui/config|0|7|3|0|3|1,View Yaku,View Yaku
+both_ui/config|0|7|3|0|4|0|1,利用規約,利用規約
+both_ui/config|0|7|3|0|4|1|1,特定商取引法,特定商取引法
+both_ui/config|0|7|3|0|4|2|1,資金決済法,資金決済法
+both_ui/config|0|7|3|0|4|3|1,プライバシーポリシー,プライバシーポリシー
+both_ui/config|0|7|3|0|5|0|1,Contact Us,Contact Us
+both_ui/config|0|7|3|0|5|1|1,TERMS OF SERVICE,TERMS OF SERVICE
+both_ui/config|0|7|3|0|5|2|1,PRIVACY POLICY,PRIVACY POLICY
+both_ui/config|0|7|3|1|1|1|0,Not Verified,Not Verified
+both_ui/config|0|7|3|1|1|2,(Tap to get verified),(Tap to get verified)
+both_ui/config|0|7|3|2|0,账号设置,账号设置
+both_ui/config|0|7|3|2|2|0,邮箱认证：,邮箱认证：
+both_ui/config|0|7|3|2|2|1|0|0,未验证,未验证
+both_ui/config|0|7|3|2|2|1|1,（点击绑定）,（点击绑定）
+both_ui/config|0|7|3|2|2|2|0,已绑定,已绑定
+both_ui/config|0|7|3|2|2|2|1,(28******@qq.com),(28******@qq.com)
+both_ui/config|0|7|3|2|3|0,手机认证：,手机认证：
+both_ui/config|0|7|3|2|3|1|0|0,未验证,未验证
+both_ui/config|0|7|3|2|3|1|1,（点击绑定）,（点击绑定）
+both_ui/config|0|7|3|2|3|2|0,已绑定,已绑定
+both_ui/config|0|7|3|2|3|2|1,(12******3456),(12******3456)
+both_ui/config|0|7|3|3|0,Account settings,Account settings
+both_ui/config|0|7|3|3|2|0,Account Binding：,Account Binding：
+both_ui/config|0|7|3|3|2|1|0|0,Not Bound,Not Bound
+both_ui/config|0|7|3|3|2|1|0|1,(Tap to bind),(Tap to bind)
+both_ui/config|0|7|3|3|2|2|1,(Tap to unbind),(Tap to unbind)
+both_ui/config|0|8|0|0,Others,Others
+both_ui/config|0|8|1|0,Voice,Voice
+both_ui/config|0|8|2|0,Preference,Preference
+both_ui/config|0|8|3|0,General,General
+both_ui/getreward|0|3,Tap to close,Tap to close
+both_ui/gettitle|0|2,Added to titles,Added to titles
+both_ui/gitfcode|0|2,Gift Code,Gift Code
+both_ui/gitfcode|0|3,Enter a Gift Code to claim rewards,Enter a Gift Code to claim rewards
+both_ui/gitfcode|0|5|0,Confirm,Confirm
+both_ui/infolite|0|2|0,Confirm,Confirm
+both_ui/infolite_title|0|2|0,Confirm,Confirm
+both_ui/invite|0|1|0|0,Mute this for 5m,Mute this for 5m
+both_ui/invite|0|2|0|0,Cancel,Cancel
+both_ui/invite|0|3|0|0,Join,Join
+both_ui/invite|0|4,Invites you to join,Invites you to join
+both_ui/invite|0|8,Auto-cancel after 3 minutes,Auto-cancel after 3 minutes
+both_ui/itemdetail|0|6|0,Open,Open
+both_ui/itemdetail|0|7|0,How to get,How to get
+both_ui/itemdetail|0|7|2|1|0|0,GO,GO
+both_ui/itemdetail|0|7|3|1|0|0,GO,GO
+both_ui/itemdetail|0|7|4|1|0|0,GO,GO
+both_ui/itemdetail|0|7|5|1|0|0,GO,GO
+both_ui/itemdetail|0|7|6|1|0|0,GO,GO
+both_ui/need_bind_mail|0|2|0,立即绑定,立即绑定
+both_ui/need_bind_mail|0|4,您先需要绑定并验证邮箱，才能进行付费,您先需要绑定并验证邮箱，才能进行付费
+both_ui/otherplayerinfo|0|2|1|1,Add,Add
+both_ui/otherplayerinfo|0|2|4|5|2,/,/
+both_ui/otherplayerinfo|0|2|5|1|0,Friendly Match,Friendly Match
+both_ui/otherplayerinfo|0|2|5|2|0,Ranked Match,Ranked Match
+both_ui/otherplayerinfo|0|2|6|1|0|0|0,Recent High Score,Recent High Score
+both_ui/otherplayerinfo|0|2|6|1|0|3,No record available. Good luck!,No record available. Good luck!
+both_ui/otherplayerinfo|0|2|6|1|1|0,ATK,ATK
+both_ui/otherplayerinfo|0|2|6|1|1|2,DEF,DEF
+both_ui/otherplayerinfo|0|2|6|1|1|4,SPD,SPD
+both_ui/otherplayerinfo|0|2|6|1|1|6,LUK,LUK
+both_ui/otherplayerinfo|0|2|6|1|1|8|0,ATK,ATK
+both_ui/otherplayerinfo|0|2|6|1|1|8|1,DEF,DEF
+both_ui/otherplayerinfo|0|2|6|1|1|8|2,SPD,SPD
+both_ui/otherplayerinfo|0|2|6|1|1|8|3,LUK,LUK
+both_ui/otherplayerinfo|0|2|6|1|1|9|0,Play Style,Play Style
+both_ui/otherplayerinfo|0|2|6|1|2|6,4,4
+both_ui/otherplayerinfo|0|2|6|1|2|6|0,Rank,Rank
+both_ui/otherplayerinfo|0|2|6|1|2|7,3,3
+both_ui/otherplayerinfo|0|2|6|1|2|7|0,Rank,Rank
+both_ui/otherplayerinfo|0|2|6|1|2|8,2,2
+both_ui/otherplayerinfo|0|2|6|1|2|8|0,Rank,Rank
+both_ui/otherplayerinfo|0|2|6|1|2|9,1,1
+both_ui/otherplayerinfo|0|2|6|1|2|9|0,Rank,Rank
+both_ui/otherplayerinfo|0|2|6|1|2|10|0,Trends,Trends
+both_ui/otherplayerinfo|0|2|6|1|3|0|0,Detailed Info,Detailed Info
+both_ui/otherplayerinfo|0|2|6|1|4|0|2,East Round,East Round
+both_ui/otherplayerinfo|0|2|6|1|4|1|0,1st,1st
+both_ui/otherplayerinfo|0|2|6|1|4|1|2,2nd,2nd
+both_ui/otherplayerinfo|0|2|6|1|4|1|4,3rd,3rd
+both_ui/otherplayerinfo|0|2|6|1|4|1|6|0,4th,4th
+both_ui/otherplayerinfo|0|2|6|1|4|1|7|0,Negative,Negative
+both_ui/otherplayerinfo|0|2|6|1|4|1|8,Total Played,Total Played
+both_ui/otherplayerinfo|0|2|6|1|4|1|10,Avg Score,Avg Score
+both_ui/otherplayerinfo|0|2|6|1|4|1|12,Avg Rank,Avg Rank
+both_ui/otherplayerinfo|0|2|6|1|4|1|14,Max Repeats,Max Repeats
+both_ui/otherplayerinfo|0|2|6|1|4|1|16,Avg Turns,Avg Turns
+both_ui/otherplayerinfo|0|2|6|1|4|1|18,Win Rate,Win Rate
+both_ui/otherplayerinfo|0|2|6|1|4|1|20,Tsumo Rate,Tsumo Rate
+both_ui/otherplayerinfo|0|2|6|1|4|1|22,Deal-in Rate,Deal-in Rate
+both_ui/otherplayerinfo|0|2|6|1|4|1|24,Call Rate,Call Rate
+both_ui/otherplayerinfo|0|2|6|1|4|1|26,Riichi Rate,Riichi Rate
+both_ui/otherplayerinfo|0|2|6|1|5|0|2,South Round,South Round
+both_ui/otherplayerinfo|0|2|6|1|5|1|0,1st,1st
+both_ui/otherplayerinfo|0|2|6|1|5|1|2,2nd,2nd
+both_ui/otherplayerinfo|0|2|6|1|5|1|4,3rd,3rd
+both_ui/otherplayerinfo|0|2|6|1|5|1|6|0,4th,4th
+both_ui/otherplayerinfo|0|2|6|1|5|1|7|0,Negative,Negative
+both_ui/otherplayerinfo|0|2|6|1|5|1|8,Total Played,Total Played
+both_ui/otherplayerinfo|0|2|6|1|5|1|10,Avg Score,Avg Score
+both_ui/otherplayerinfo|0|2|6|1|5|1|12,Avg Rank,Avg Rank
+both_ui/otherplayerinfo|0|2|6|1|5|1|14,Max Repeats,Max Repeats
+both_ui/otherplayerinfo|0|2|6|1|5|1|16,Avg Turns,Avg Turns
+both_ui/otherplayerinfo|0|2|6|1|5|1|18,Win Rate,Win Rate
+both_ui/otherplayerinfo|0|2|6|1|5|1|20,Tsumo Rate,Tsumo Rate
+both_ui/otherplayerinfo|0|2|6|1|5|1|22,Deal-in Rate,Deal-in Rate
+both_ui/otherplayerinfo|0|2|6|1|5|1|24,Call Rate,Call Rate
+both_ui/otherplayerinfo|0|2|6|1|5|1|26,Riichi Rate,Riichi Rate
+both_ui/otherplayerinfo|0|2|6|1|6|0|2,Yaku Achieved,Yaku Achieved
+both_ui/otherplayerinfo|0|2|6|1|7|0|2,Local Yaku Achieved,Local Yaku Achieved
+both_ui/otherplayerinfo|0|3|1,Empty,Empty
+both_ui/otherplayerinfo|0|3|3|0|0,Send,Send
+both_ui/otherplayerinfo|0|3|4,This player only allows friends to leave messages,This player only allows friends to leave messages
+both_ui/otherplayerinfo|0|3|6|1|4|0|0,Recently used,Recently used
+both_ui/otherplayerinfo|0|3|6|1|4|0|2,All,All
+both_ui/otherplayerinfo|0|3|8|2,No signature yet,No signature yet
+both_ui/otherplayerinfo|0|3|8|3,Signature,Signature
+both_ui/otherplayerinfo|0|5|0,4-Player,4-Player
+both_ui/otherplayerinfo|0|6|0,3-Player,3-Player
+both_ui/otherplayerinfo|0|7|0,Message,Message
+both_ui/otherplayerinfo_en|0|2|1|1,Add,Add
+both_ui/otherplayerinfo_en|0|2|4|5|2,/,/
+both_ui/otherplayerinfo_en|0|2|5|1|0,Friendly Match,Friendly Match
+both_ui/otherplayerinfo_en|0|2|5|2|0,Ranked Match,Ranked Match
+both_ui/otherplayerinfo_en|0|2|6|1|0|0|0,Recent High Score,Recent High Score
+both_ui/otherplayerinfo_en|0|2|6|1|0|3,No record available. Good luck!,No record available. Good luck!
+both_ui/otherplayerinfo_en|0|2|6|1|1|0,ATK,ATK
+both_ui/otherplayerinfo_en|0|2|6|1|1|2,DEF,DEF
+both_ui/otherplayerinfo_en|0|2|6|1|1|4,SPD,SPD
+both_ui/otherplayerinfo_en|0|2|6|1|1|6,LUK,LUK
+both_ui/otherplayerinfo_en|0|2|6|1|1|8|0,ATK,ATK
+both_ui/otherplayerinfo_en|0|2|6|1|1|8|1,DEF,DEF
+both_ui/otherplayerinfo_en|0|2|6|1|1|8|2,SPD,SPD
+both_ui/otherplayerinfo_en|0|2|6|1|1|8|3,LUK,LUK
+both_ui/otherplayerinfo_en|0|2|6|1|1|9|0,Play Style,Play Style
+both_ui/otherplayerinfo_en|0|2|6|1|2|6,4,4
+both_ui/otherplayerinfo_en|0|2|6|1|2|6|0,Rank,Rank
+both_ui/otherplayerinfo_en|0|2|6|1|2|7,3,3
+both_ui/otherplayerinfo_en|0|2|6|1|2|7|0,Rank,Rank
+both_ui/otherplayerinfo_en|0|2|6|1|2|8,2,2
+both_ui/otherplayerinfo_en|0|2|6|1|2|8|0,Rank,Rank
+both_ui/otherplayerinfo_en|0|2|6|1|2|9,1,1
+both_ui/otherplayerinfo_en|0|2|6|1|2|9|0,Rank,Rank
+both_ui/otherplayerinfo_en|0|2|6|1|2|10|0,Trends,Trends
+both_ui/otherplayerinfo_en|0|2|6|1|3|0|0,Detailed Info,Detailed Info
+both_ui/otherplayerinfo_en|0|2|6|1|4|0|2,East Round,East Round
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|0,1st,1st
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|2,2nd,2nd
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|4,3rd,3rd
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|6|0,4th,4th
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|7|0,Negative,Negative
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|8,Total Played,Total Played
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|10,Avg Score,Avg Score
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|12,Avg Rank,Avg Rank
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|14,Max Repeats,Max Repeats
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|16,Avg Turns,Avg Turns
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|18,Win Rate,Win Rate
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|20,Tsumo Rate,Tsumo Rate
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|22,Deal-in Rate,Deal-in Rate
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|24,Call Rate,Call Rate
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|26,Riichi Rate,Riichi Rate
+both_ui/otherplayerinfo_en|0|2|6|1|5|0|2,South Round,South Round
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|0,1st,1st
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|2,2nd,2nd
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|4,3rd,3rd
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|6|0,4th,4th
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|7|0,Negative,Negative
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|8,Total Played,Total Played
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|10,Avg Score,Avg Score
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|12,Avg Rank,Avg Rank
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|14,Max Repeats,Max Repeats
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|16,Avg Turns,Avg Turns
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|18,Win Rate,Win Rate
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|20,Tsumo Rate,Tsumo Rate
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|22,Deal-in Rate,Deal-in Rate
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|24,Call Rate,Call Rate
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|26,Riichi Rate,Riichi Rate
+both_ui/otherplayerinfo_en|0|2|6|1|6|0|2,Yaku Achieved,Yaku Achieved
+both_ui/otherplayerinfo_en|0|2|6|1|7|0|2,Local Yaku Achieved,Local Yaku Achieved
+both_ui/otherplayerinfo_en|0|3|1,Empty,Empty
+both_ui/otherplayerinfo_en|0|3|3|0|0,Send,Send
+both_ui/otherplayerinfo_en|0|3|4,This player only allows friends to leave messages,This player only allows friends to leave messages
+both_ui/otherplayerinfo_en|0|3|6|1|4|0|0,Recently used,Recently used
+both_ui/otherplayerinfo_en|0|3|6|1|4|0|2,All,All
+both_ui/otherplayerinfo_en|0|3|8|2,No signature yet,No signature yet
+both_ui/otherplayerinfo_en|0|3|8|3,Signature,Signature
+both_ui/otherplayerinfo_en|0|5|0,4-Player,4-Player
+both_ui/otherplayerinfo_en|0|6|0,3-Player,3-Player
+both_ui/otherplayerinfo_en|0|7|0,Message,Message
+both_ui/popwindow|0|4|0,Confirm,Confirm
+both_ui/popwindow|1|2|0,Confirm,Confirm
+both_ui/report_nickname|0|2,"If you have found any inappropriate information in the game, please contact our customer support.","If you have found any inappropriate information in the game, please contact our customer support."
+both_ui/report_nickname|0|3|0,Report,Report
+both_ui/report_nickname|0|4|0,Cancel,Cancel
+both_ui/report_nickname|0|5,Report the nickname,Report the nickname
+both_ui/report_success|0|2,We've received your report. Thank you for your contribution in making a better gaming environment!,We've received your report. Thank you for your contribution in making a better gaming environment!
+both_ui/report_success|0|3|0,OK,OK
+both_ui/report_success|0|4,Reported successfully,Reported successfully
+both_ui/rules|1|1|0|0|2,1 Han,1 Han
+both_ui/rules|1|1|0|1|2,2 Han,2 Han
+both_ui/rules|1|1|0|2|2,3 Han,3 Han
+both_ui/rules|1|1|0|3|2,6 Han,6 Han
+both_ui/rules|1|1|0|4|2,Mangan,Mangan
+both_ui/rules|1|1|0|5|2,Yakuman,Yakuman
+both_ui/rules|1|1|0|6|2,Double Yakuman,Double Yakuman
+both_ui/rules|1|1|0|7|2,Draw,Draw
+both_ui/rules|1|1|1|0|0|2,Menzenchin Only,Menzenchin Only
+both_ui/rules|1|4|0,Yaku Overview,Yaku Overview
+both_ui/rules|1|5|0,Tutorial,Tutorial
+both_ui/rules_en|1|1|0|0|2,1 Han,1 Han
+both_ui/rules_en|1|1|0|1|2,2 Han,2 Han
+both_ui/rules_en|1|1|0|2|2,3 Han,3 Han
+both_ui/rules_en|1|1|0|3|2,6 Han,6 Han
+both_ui/rules_en|1|1|0|4|2,Mangan,Mangan
+both_ui/rules_en|1|1|0|5|2,Yakuman,Yakuman
+both_ui/rules_en|1|1|0|6|2,Double Yakuman,Double Yakuman
+both_ui/rules_en|1|1|0|7|2,Draw,Draw
+both_ui/rules_en|1|1|1|0|0|2,Menzenchin Only,Menzenchin Only
+both_ui/rules_en|1|4|0,Yaku Overview,Yaku Overview
+both_ui/rules_en|1|5|0,Tutorial,Tutorial
+both_ui/secondconfirm|0|3|0,Confirm,Confirm
+both_ui/secondconfirm|0|4|0,Cancel,Cancel
+both_ui/unbind_yostar_mail|0|2,Account Unbinding,Account Unbinding
+both_ui/unbind_yostar_mail|0|5|0,Send code,Send code
+both_ui/unbind_yostar_mail|0|6|0,Unbind,Unbind
+common/android_change|0|2|0,好的，走起,好的，走起
+common/android_change|0|3|0,再等等,再等等
+common/android_change|0|4,好消息！好消息！,好消息！好消息！
+common/android_change|0|5,雀魂全新安卓App已在官网开放下载\n        *更流畅的体验\n        *更低的耗电\n        *更少的流量\n        *更好的全面屏适配,雀魂全新安卓App已在官网开放下载\n        *更流畅的体验\n        *更低的耗电\n        *更少的流量\n        *更好的全面屏适配
+common/android_change|0|6,是否立即前往官网下载？,是否立即前往官网下载？
+common/anotherlogin|0|2|0,Confirm,Confirm
+common/anotherlogin|0|3,Your account has been signed in on another location,Your account has been signed in on another location
+common/bind_phone1|0|2,绑定手机,绑定手机
+common/bind_phone1|0|5|0,发送验证码,发送验证码
+common/bind_phone1|0|6|0,绑定,绑定
+common/bind_phone1|0|7,手机号码：,手机号码：
+common/bind_phone1|0|7|0,28******@qq.com,28******@qq.com
+common/bind_phone1|0|8,根据网络游戏实名制的相关规定要求，请绑定手机完成认证。,根据网络游戏实名制的相关规定要求，请绑定手机完成认证。
+common/closeapp|0|2,Do you wish to close the game?,Do you wish to close the game?
+common/closeapp|0|3|0,Confirm,Confirm
+common/closeapp|0|4|0,Cancel,Cancel
+common/disconnect|1|2,Connection lost. Trying to reconnect,Connection lost. Trying to reconnect
+common/errorinfo|1|3,"Oops, something is wrong with the program. Please refresh and enter the game again","Oops, something is wrong with the program. Please refresh and enter the game again"
+common/errorinfo|1|4|1,Restart Now,Restart Now
+common/guajichenfa|0|2|0,Confirm,Confirm
+common/hangup_logout|0|2|0,Confirm,Confirm
+common/hangup_logout|0|3,You have been AFK for a long time. The system has logged you out.,You have been AFK for a long time. The system has logged you out.
+common/loading|5|1,/,/
+common/preventaddiction|0|0,"You have now entered fatigue time and can only earn 50% of rewards from game. For your wellbeing, we suggest you log out from game and do some exercise.","You have now entered fatigue time and can only earn 50% of rewards from game. For your wellbeing, we suggest you log out from game and do some exercise."
+common/preventaddiction|0|1,You have entered unhealthy game time. We suggest you log out immediately and take a break. You cannot earn any rewards from game. Unhealthy game status will be lifted after you are offline for 5 hours.,You have entered unhealthy game time. We suggest you log out immediately and take a break. You cannot earn any rewards from game. Unhealthy game status will be lifted after you are offline for 5 hours.
+common/preventaddiction|1|0,Cumulative online time,Cumulative online time
+common/reconnect|2,You have a match in progress,You have a match in progress
+common/reconnect|3|0,Reconnect,Reconnect
+common/shimingrenzheng|0|0|2,Real Name Authentication,Real Name Authentication
+common/shimingrenzheng|0|1|1,Authentication,Authentication
+common/shimingrenzheng|0|2,"Dear user, according to the “Interim Measures for the Administration of Online Games”, you must go through real name authentication before playing this game.","Dear user, according to the “Interim Measures for the Administration of Online Games”, you must go through real name authentication before playing this game."
+common/shimingrenzheng|0|3,1.The ID info can only be submitted once and cannot be changed. Please enter with care.,1.The ID info can only be submitted once and cannot be changed. Please enter with care.
+common/shimingrenzheng|0|4,2.This info will only be used for real name authentication and will not be provided to any other third party.,2.This info will only be used for real name authentication and will not be provided to any other third party.
+common/shimingrenzheng|0|5,"3.IDs from mainland China, Hong Kong, Macao and Taiwan are supported.","3.IDs from mainland China, Hong Kong, Macao and Taiwan are supported."
+common/shimingrenzheng|0|6,Real name:,Real name:
+common/shimingrenzheng|0|7,ID number:,ID number:
+common/user_xieyi|0|0|2,User Agreement,User Agreement
+common/user_xieyi|0|1|1,Accept,Accept
+common/user_xieyi|0|3|1,Previous page,Previous page
+common/user_xieyi|0|4|1,Next page,Next page
+common/user_xieyi_enjp|0|1,用户协议,用户协议
+entrance/account_prohibition|0|0|2|0,Confirm,Confirm
+entrance/chooseserver|0|2,选择服务器,选择服务器
+entrance/chooseserver|0|4,输入服务器地址：,输入服务器地址：
+entrance/chooseserver|0|5,47.245.59.187:7891,47.245.59.187:7891
+entrance/choose_language|0|0,更改语言:,更改语言:
+entrance/choose_language|2,当前语言：简体中文,当前语言：简体中文
+entrance/choose_route|0|0|2,Please choose your server,Please choose your server
+entrance/choose_route|0|0|3|0,Domestic route,Domestic route
+entrance/choose_route|0|0|4|1,Overseas route,Overseas route
+entrance/entrance|1|2|0|2|2,账号/邮箱,账号/邮箱
+entrance/entrance|1|2|0|3|2,密码,密码
+entrance/entrance|1|2|0|4|0,立即注册,立即注册
+entrance/entrance|1|2|0|5|0,忘记密码,忘记密码
+entrance/entrance|1|2|0|7|0,线路1,线路1
+entrance/entrance|1|2|0|7|2,切换,切换
+entrance/entrance|1|2|0|8|0|0,邮箱/账号登入,邮箱/账号登入
+entrance/entrance|1|2|0|8|1|0,手机号登入,手机号登入
+entrance/entrance|1|2|1|1|3,Remember me,Remember me
+entrance/entrance|1|2|2|0,Login with:,Login with:
+entrance/entrance|1|3,We recommend Chrome browser,We recommend Chrome browser
+entrance/entrance|1|4|1,Logging in,Logging in
+entrance/entrance|1|4|3|1,Log Out,Log Out
+entrance/entrance|1|5|1,Add to Home,Add to Home
+entrance/entrance|2|0|0|2,Yostar Login,Yostar Login
+entrance/entrance|2|0|2|2,Unavailable,Unavailable
+entrance/entrance|2|0|4|2,Send Code,Send Code
+entrance/entrance|2|0|5|3|0,《雀魂利用規約》,《雀魂利用規約》
+entrance/entrance|2|0|5|3|1,、,、
+entrance/entrance|2|0|5|3|2,《プライバシーポリシー》,《プライバシーポリシー》
+entrance/entrance|2|0|5|3|3,に同意する,に同意する
+entrance/entrance|2|0|5|4|0,Agree to the,Agree to the
+entrance/entrance|2|0|5|4|1,TERMS OF SERVICE,TERMS OF SERVICE
+entrance/entrance|2|0|5|4|2,and,and
+entrance/entrance|2|0|5|4|3,PRIVACY POLICY,PRIVACY POLICY
+entrance/entrance|2|0|7,※Enter email address,※Enter email address
+entrance/entrance|2|0|8,※Enter the verification code sent to your email,※Enter the verification code sent to your email
+entrance/entrance|3|1,增值电信业务经营许可证：沪B2-20190417 文网游备字[2018]M-CSG 0937号 ISBN 978-7-498-04090-9,增值电信业务经营许可证：沪B2-20190417 文网游备字[2018]M-CSG 0937号 ISBN 978-7-498-04090-9
+entrance/entrance|3|2,本网络游戏适合17+岁的用户使用；为了您的健康，请合理控制游戏时间。,本网络游戏适合17+岁的用户使用；为了您的健康，请合理控制游戏时间。
+entrance/error_info|0|0|2|0,Confirm,Confirm
+entrance/ios_webview_update|0|1,New update available in iOS. Please download from the official website.,New update available in iOS. Please download from the official website.
+entrance/mail_regist|0|0|1,注册账号,注册账号
+entrance/mail_regist|0|0|2|0,社交账号注册,社交账号注册
+entrance/mail_regist|0|0|9|3,《雀魂麻将许可及服务协议》,《雀魂麻将许可及服务协议》
+entrance/mail_regist|0|0|10|0,发送验证码,发送验证码
+entrance/mail_regist|1|1|1,正在连接服务器,正在连接服务器
+entrance/maintenance|0|0|2|0,OK,OK
+entrance/remind|0,健康游戏公告,健康游戏公告
+entrance/remind|0|0,抵制不良游戏，拒绝盗版游戏,抵制不良游戏，拒绝盗版游戏
+entrance/remind|0|1,注意自我保护，谨防上当受骗,注意自我保护，谨防上当受骗
+entrance/remind|0|2,适度游戏益脑，沉迷游戏伤身,适度游戏益脑，沉迷游戏伤身
+entrance/remind|0|3,合理安排时间，享受健康生活,合理安排时间，享受健康生活
+entrance/remind|1,区区 立直棒 就送给你了,区区 立直棒 就送给你了
+entrance/remind|2,——--,——--
+entrance/remind|3,满贯,满贯
+entrance/remind|4,跳满,跳满
+entrance/remind|5,倍满,倍满
+entrance/remind|6,役满,役满
+entrance/remind|7,2/10,2/10
+entrance/reset_password|0|0|1|0|0,发送,发送
+entrance/reset_password|0|0|1|2,重置密码,重置密码
+entrance/reset_password|0|0|1|3,请输入绑定的,请输入绑定的
+entrance/reset_password|0|0|1|4,邮箱地址,邮箱地址
+entrance/reset_password|0|0|1|5,或,或
+entrance/reset_password|0|0|1|6,手机号码,手机号码
+entrance/reset_password|0|0|2|0|0,确定,确定
+entrance/reset_password|0|0|2|1,已发送,已发送
+entrance/reset_password|0|0|2|2,一封包含密码重置链接的邮件已经发送到,一封包含密码重置链接的邮件已经发送到
+entrance/reset_password|0|0|2|3,若未收到请检查一下垃圾邮件。,若未收到请检查一下垃圾邮件。
+entrance/reset_password|0|0|2|4,285720023@qq.com,285720023@qq.com
+entrance/reset_password_phone2|0|2|0,确定,确定
+entrance/reset_password_phone2|0|3,重置密码,重置密码
+entrance/reset_password_phone2|0|4,为了您的账号安全，重置密码需要验证您的手机号,为了您的账号安全，重置密码需要验证您的手机号
+entrance/reset_password_phone2|0|5,手机号：,手机号：
+entrance/reset_password_phone2|0|6,12345678901,12345678901
+entrance/reset_password_phone2|0|10|0,发送验证码,发送验证码
+lobby/activity|0|3|1|1|0|0,Claim,Claim
+lobby/activity|0|3|1|2|0|0,Delete,Delete
+lobby/activity|0|3|2,No Mail,No Mail
+lobby/activity|0|4|2,No Event,No Event
+lobby/activitys/activitybase|0|0|1|1|3,coppers,coppers
+lobby/activitys/activitybase|0|0|1|1|4,Revival Tokens,Revival Tokens
+lobby/activitys/activitybase|0|0|1|1|9,Claimed,Claimed
+lobby/activitys/activity_duanwu_rank|0|0|4,Claimed,Claimed
+lobby/activitys/activity_exchange|0|0|1|1|5|0|0,Redeem,Redeem
+lobby/activitys/activity_exchange|0|0|1|1|8,Claimed,Claimed
+lobby/activitys/activity_exchange_zhongxia|0|0|1|1|5|0|0,Redeem,Redeem
+lobby/activitys/activity_exchange_zhongxia|0|0|1|1|8,Claimed,Claimed
+lobby/activitys/activity_guoqing|0|0|12|0|1|1,/,/
+lobby/activitys/activity_jiuji|0|0,Revival Tokens,Revival Tokens
+lobby/activitys/activity_jiuji|0|1|1|3,coppers,coppers
+lobby/activitys/activity_jiuji|0|1|1|4,Revival Tokens,Revival Tokens
+lobby/activitys/activity_jiuji|0|1|1|10,Claimed,Claimed
+lobby/activitys/activity_task|0|0|1|1|3,coppers,coppers
+lobby/activitys/activity_task|0|0|1|1|8,Claimed,Claimed
+lobby/activitys/activity_task_newyear|0|0|1|1|3,对局中每次达成特定番型都可获得红灯笼,对局中每次达成特定番型都可获得红灯笼
+lobby/activitys/activity_task_newyear|0|0|1|1|4,收集,收集
+lobby/activitys/activity_task_newyear|0|0|1|1|4|0,红灯笼,红灯笼
+lobby/activitys/activity_task_newyear|0|0|1|1|6|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_newyear|0|0|1|1|6|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_newyear|0|0|1|1|7|0,红灯笼×2,红灯笼×2
+lobby/activitys/activity_task_newyear|0|0|1|1|7|2,七对子,七对子
+lobby/activitys/activity_task_newyear|0|0|1|1|8|0,红灯笼×4,红灯笼×4
+lobby/activitys/activity_task_newyear|0|0|1|1|8|2,两立直、二杯口,两立直、二杯口
+lobby/activitys/activity_task_newyear|0|0|1|1|9|0,红灯笼×8,红灯笼×8
+lobby/activitys/activity_task_newyear|0|0|1|1|9|2,天和、地和、四暗刻、四暗刻单骑、\n国士无双、国士无双十三面、\n九莲宝灯、纯正九莲宝灯,天和、地和、四暗刻、四暗刻单骑、\n国士无双、国士无双十三面、\n九莲宝灯、纯正九莲宝灯
+lobby/activitys/activity_task_zhongxia|0|0|1|1|3,风铃,风铃
+lobby/activitys/activity_task_zhongxia|0|0|1|1|4,对局中每次达成特定番型都可获得红灯笼,对局中每次达成特定番型都可获得红灯笼
+lobby/activitys/activity_task_zhongxia|0|0|1|1|5,今日获得,今日获得
+lobby/activitys/activity_task_zhongxia|0|0|1|1|6,15,15
+lobby/activitys/activity_task_zhongxia|0|0|1|1|7,/30,/30
+lobby/activitys/activity_task_zhongxia|0|0|1|1|9|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|1|1|9|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|1|1|10|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|1|1|10|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|1|1|11|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|1|1|11|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|1|1|12|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|1|1|12|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|2|1|3,风铃,风铃
+lobby/activitys/activity_task_zhongxia|0|0|2|1|4,对局中每次达成特定番型都可获得红灯笼,对局中每次达成特定番型都可获得红灯笼
+lobby/activitys/activity_task_zhongxia|0|0|2|1|5,今日获得,今日获得
+lobby/activitys/activity_task_zhongxia|0|0|2|1|6,15,15
+lobby/activitys/activity_task_zhongxia|0|0|2|1|7,/30,/30
+lobby/activitys/activity_task_zhongxia|0|0|2|1|9|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|2|1|9|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|2|1|10|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|2|1|10|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|2|1|11|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|2|1|11|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|2|1|12|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|2|1|12|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|3|1|3,风铃,风铃
+lobby/activitys/activity_task_zhongxia|0|0|3|1|4,对局中每次达成特定番型都可获得红灯笼,对局中每次达成特定番型都可获得红灯笼
+lobby/activitys/activity_task_zhongxia|0|0|3|1|5,今日获得,今日获得
+lobby/activitys/activity_task_zhongxia|0|0|3|1|6,15,15
+lobby/activitys/activity_task_zhongxia|0|0|3|1|7,/30,/30
+lobby/activitys/activity_task_zhongxia|0|0|3|1|9|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|3|1|9|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|3|1|10|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|3|1|10|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|3|1|11|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|3|1|11|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|3|1|12|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|3|1|12|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_tongbi_exchange|0|0|1|1|5|0|0,Redeem,Redeem
+lobby/activitys/activity_tongbi_exchange|0|0|1|1|8,Claimed,Claimed
+lobby/activitys/activity_wuyi_exchange|0|0|1|1|5|0|0,Redeem,Redeem
+lobby/activitys/activity_wuyi_exchange|0|0|1|1|8,Claimed,Claimed
+lobby/activitys/activity_wuyi_task|0|0|1|1|8,Claimed,Claimed
+lobby/activitys/activity_yijidagong|0|4,Copper on the map,Copper on the map
+lobby/activitys/activity_yijidagong|0|13|0|1,+,+
+lobby/activitys/guoqing_popout|0|4|1,Claim,Claim
+lobby/activitys/guoqing_popout|0|5|1,Confirm,Confirm
+lobby/activitys/sign|3|2|0,999999,999999
+lobby/activitys/sign|3|2|1,超级巧克力,超级巧克力
+lobby/activitys/sign|3|3,第一天,第一天
+lobby/activitys/sign|4|2|0,999999,999999
+lobby/activitys/sign|4|2|1,超级巧克力,超级巧克力
+lobby/activitys/sign|4|3,第二天,第二天
+lobby/activitys/sign|5|2|0,999999,999999
+lobby/activitys/sign|5|2|1,超级巧克力,超级巧克力
+lobby/activitys/sign|5|3,第三天,第三天
+lobby/activitys/sign|6|2|0,999999,999999
+lobby/activitys/sign|6|2|1,超级巧克力,超级巧克力
+lobby/activitys/sign|6|3,第四天,第四天
+lobby/activitys/sign|7|2|0,999999,999999
+lobby/activitys/sign|7|2|1,超级巧克力,超级巧克力
+lobby/activitys/sign|7|3,第五天,第五天
+lobby/activitys/sign|8|2|0,999999,999999
+lobby/activitys/sign|8|2|1,超级巧克力,超级巧克力
+lobby/activitys/sign|8|3,第六天,第六天
+lobby/activitys/sign|9|2|0,999999,999999
+lobby/activitys/sign|9|2|1,超级巧克力,超级巧克力
+lobby/activitys/sign|9|3,第七天,第七天
+lobby/activitys/sign|10,每日祈福,每日祈福
+lobby/add_room|0|2,Join Room #,Join Room #
+lobby/add_room|0|3|0,Confirm,Confirm
+lobby/add_room|0|6|0|1,1,1
+lobby/add_room|0|6|1|1,2,2
+lobby/add_room|0|6|2|1,3,3
+lobby/add_room|0|6|3|1,4,4
+lobby/add_room|0|6|4|1,5,5
+lobby/add_room|0|6|5|1,6,6
+lobby/add_room|0|6|6|1,7,7
+lobby/add_room|0|6|7|1,8,8
+lobby/add_room|0|6|8|1,9,9
+lobby/add_room|0|6|9|1,Clear,Clear
+lobby/add_room|0|6|10|1,0,0
+lobby/ageconfirm|0|0|2,年齢認証,年齢認証
+lobby/ageconfirm|0|0|4,毎月の購入上限は,毎月の購入上限は
+lobby/ageconfirm|0|0|5,円になります,円になります
+lobby/ageconfirm|0|0|6,20000,20000
+lobby/ageconfirm|0|0|7|0,確認,確認
+lobby/agepending|0|0|0|2,年齢認証,年齢認証
+lobby/agepending|0|0|0|3,あなたの年齢によって一ヶ月に購入できる金額がきまっています。,あなたの年齢によって一ヶ月に購入できる金額がきまっています。
+lobby/agepending|0|0|0|4,必ず正しい生年月を入力してください。,必ず正しい生年月を入力してください。
+lobby/agepending|0|0|0|5,(*あとから生年月の変更はできません。),(*あとから生年月の変更はできません。)
+lobby/agepending|0|0|0|6,毎月の購入上限額,毎月の購入上限額
+lobby/agepending|0|0|0|7,16才未満:,16才未満:
+lobby/agepending|0|0|0|8,16才以上20才未満:,16才以上20才未満:
+lobby/agepending|0|0|0|9,20才以上:,20才以上:
+lobby/agepending|0|0|0|10,20000円,20000円
+lobby/agepending|0|0|0|11,5000円,5000円
+lobby/agepending|0|0|0|12,生年月,生年月
+lobby/agepending|0|0|0|13,年,年
+lobby/agepending|0|0|0|14,月,月
+lobby/agepending|0|0|0|15,無制限,無制限
+lobby/agepending|0|0|1|0,年,年
+lobby/agepending|0|0|2|0,月,月
+lobby/agepending|0|0|3|0,確認,確認
+lobby/agepending|0|0|5,请选择月份,请选择月份
+lobby/agepending|0|0|6,请选择年份,请选择年份
+lobby/agepending|0|1|1|2|0|0|1,2001,2001
+lobby/agepending|0|1|2|2|0|0|1,2001,2001
+lobby/agepending_chs|0|0|0|2,年龄认证,年龄认证
+lobby/agepending_chs|0|0|0|3,根据《关于防止未成年人沉迷网络游戏的通知》需要登记您的出生年月。\n请如实填写您的出生年月，提交后无法更改。,根据《关于防止未成年人沉迷网络游戏的通知》需要登记您的出生年月。\n请如实填写您的出生年月，提交后无法更改。
+lobby/agepending_chs|0|0|0|4,未成年人用户每日22时到次日8时无法进行游戏，工作日游戏时间不能超过1.5小时，法定节假日每日不能超过3小时。 \n8岁以下用户不能使用充值服务。\n8至16岁用户单次充值金额不能超过50元人民币，每月充值金额累计不能超过200元人民币。\n16至18岁用户单次充值金额不能超过100元人民币，每月充值金额累计不能超过400元人民币。,未成年人用户每日22时到次日8时无法进行游戏，工作日游戏时间不能超过1.5小时，法定节假日每日不能超过3小时。 \n8岁以下用户不能使用充值服务。\n8至16岁用户单次充值金额不能超过50元人民币，每月充值金额累计不能超过200元人民币。\n16至18岁用户单次充值金额不能超过100元人民币，每月充值金额累计不能超过400元人民币。
+lobby/agepending_chs|0|0|0|5,生年月,生年月
+lobby/agepending_chs|0|0|0|6,年,年
+lobby/agepending_chs|0|0|0|7,月,月
+lobby/agepending_chs|0|0|1|0,年,年
+lobby/agepending_chs|0|0|2|0,月,月
+lobby/agepending_chs|0|0|3|0,确认,确认
+lobby/agepending_chs|0|0|4,请选择月份,请选择月份
+lobby/agepending_chs|0|0|5,请选择年份,请选择年份
+lobby/agepending_chs|0|1|1|2|0|0|1,2001,2001
+lobby/agepending_chs|0|1|2|2|0|0|1,2001,2001
+lobby/agesuccess|0|0|2,年齢認証,年齢認証
+lobby/agesuccess|0|0|3,認証完了しました。,認証完了しました。
+lobby/agesuccess|0|0|4|0,確認,確認
+lobby/agesuccess_chs|0|3|0,确定,确定
+lobby/agexiane|0|0|2,年齢認証,年齢認証
+lobby/agexiane|0|0|3,20000,20000
+lobby/agexiane|0|0|4,円,円
+lobby/agexiane|0|0|5,毎月の購入上限額:,毎月の購入上限額:
+lobby/agexiane|0|0|6,20000,20000
+lobby/agexiane|0|0|7,円,円
+lobby/agexiane|0|0|8,今月の合計購入額:,今月の合計購入額:
+lobby/agexiane|0|0|9|0,確認,確認
+lobby/bag|0|0|0|1,Outfit,Outfit
+lobby/bag|0|0|1|1,Decoration,Decoration
+lobby/bag|0|0|2|1,Gift,Gift
+lobby/bag|0|0|3|1,Item,Item
+lobby/bag|0|1|3|0,Donate,Donate
+lobby/bag|0|1|6|0|0,Deselect All,Deselect All
+lobby/bag|0|1|6|1|0,Back,Back
+lobby/bag|0|1|6|2|0,Donate,Donate
+lobby/bag|0|1|6|3,Select the gift you would like to donate,Select the gift you would like to donate
+lobby/bag|0|1|7,You can donate gifts to get Star Dust,You can donate gifts to get Star Dust
+lobby/bag|0|3|0|0|0|0|3|2|0,Bond,Bond
+lobby/bag|0|3|2|0,Display All,Display All
+lobby/bag|0|3|3,Empty,Empty
+lobby/bag|1|0,Inventory,Inventory
+lobby/chang_nickname|0|2,Change Name,Change Name
+lobby/chang_nickname|0|3|1,Name (1-14 chars),Name (1-14 chars)
+lobby/chang_nickname|0|3|4,Unavailable,Unavailable
+lobby/chang_nickname|0|3|6|0,Require,Require
+lobby/chang_nickname|0|3|7,Cannot contain empty spaces and special characters,Cannot contain empty spaces and special characters
+lobby/chang_nickname|0|4|0,You can change your name once every 30 days.,You can change your name once every 30 days.
+lobby/chang_nickname|0|4|1,Your name can be changed after:,Your name can be changed after:
+lobby/chang_nickname|0|4|3,day(s),day(s)
+lobby/checkhuiyu|0|2,Jade info,Jade info
+lobby/checkhuiyu|0|3,Premium Jade:,Premium Jade:
+lobby/checkhuiyu|0|5,Free Jade:,Free Jade:
+lobby/checkhuiyu|0|7,Total:,Total:
+lobby/checkhuiyu|0|10|0,Confirm,Confirm
+lobby/checkhuiyu|0|11|0,Buy,Buy
+lobby/checkpifuquan|0|2,Current Outfit Voucher status,Current Outfit Voucher status
+lobby/checkpifuquan|0|3,Premium:,Premium:
+lobby/checkpifuquan|0|5,Free:,Free:
+lobby/checkpifuquan|0|7,Total:,Total:
+lobby/checkpifuquan|0|10|0,Confirm,Confirm
+lobby/checkpifuquan|0|11|0,Buy,Buy
+lobby/create_room|0|0|1|0|1|0,4-Player,4-Player
+lobby/create_room|0|0|1|0|2|0,3-Player,3-Player
+lobby/create_room|0|0|1|1|1|0,1 Game,1 Game
+lobby/create_room|0|0|1|1|2|0,East Only,East Only
+lobby/create_room|0|0|1|1|3|0,Two-Wind Match,Two-Wind Match
+lobby/create_room|0|0|1|1|4|0,Vs AI,Vs AI
+lobby/create_room|0|0|1|2|1|0,3+5s,3+5s
+lobby/create_room|0|0|1|2|2|0,5+10s,5+10s
+lobby/create_room|0|0|1|2|3|0,5+20s,5+20s
+lobby/create_room|0|0|1|2|4|0,60+0s,60+0s
+lobby/create_room|0|0|1|2|5|0,300+0s,300+0s
+lobby/create_room|0|0|1|3|1|0,正常,正常
+lobby/create_room|0|0|1|3|2|0,国士无双,国士无双
+lobby/create_room|0|0|1|3|3|0,顺子,顺子
+lobby/create_room|0|0|1|3|4|0,四暗刻,四暗刻
+lobby/create_room|0|0|1|3|5|0,三暗杠,三暗杠
+lobby/create_room|0|0|1|4|1|0,正常,正常
+lobby/create_room|0|0|1|4|2|0,5张,5张
+lobby/create_room|0|0|1|4|3|0,12张,12张
+lobby/create_room|0|0|1|5|1|0,Disable,Disable
+lobby/create_room|0|0|1|5|2|0,Enable,Enable
+lobby/create_room|0|0|1|7|2,"Minimum points 100, maximum points 200000","Minimum points 100, maximum points 200000"
+lobby/create_room|0|0|1|8|2,"Minimum points 100, maximum points 200000.","Minimum points 100, maximum points 200000."
+lobby/create_room|0|0|1|8|3,"At ALL LAST, if the 1st-ranked player has less points than this value, the game will extend into South/West Round","At ALL LAST, if the 1st-ranked player has less points than this value, the game will extend into South/West Round"
+lobby/create_room|0|0|1|9|1|0,Enable,Enable
+lobby/create_room|0|0|1|9|2|0,Disable,Disable
+lobby/create_room|0|0|1|10|1|0,Disable,Disable
+lobby/create_room|0|0|1|10|2|0,Enable,Enable
+lobby/create_room|0|0|1|11|1|0,No Red Five,No Red Five
+lobby/create_room|0|0|1|11|2|0,3 Red Five,3 Red Five
+lobby/create_room|0|0|1|11|3|0,4 Red Five,4 Red Five
+lobby/create_room|0|0|1|12|1|0,Enable,Enable
+lobby/create_room|0|0|1|12|2|0,Disable,Disable
+lobby/create_room|0|0|1|13|1|0,1 Han,1 Han
+lobby/create_room|0|0|1|13|2|0,2 Han,2 Han
+lobby/create_room|0|0|1|13|3|0,4 Han,4 Han
+lobby/create_room|0|0|1|14|1|0,Enable,Enable
+lobby/create_room|0|0|1|14|2|0,Disable,Disable
+lobby/create_room|0|0|1|15|1|0,Off,Off
+lobby/create_room|0|0|1|15|2|0,On,On
+lobby/create_room|0|0|1|16|1|0,Easy,Easy
+lobby/create_room|0|0|1|16|2|0,Normal,Normal
+lobby/create_room|0|0|1|17|1|0,Disable,Disable
+lobby/create_room|0|0|1|17|2|0,Enable,Enable
+lobby/create_room|0|1|2,Create Room,Create Room
+lobby/diamond_less|0|2,Insufficient Jade,Insufficient Jade
+lobby/diamond_less|0|4|0,Buy,Buy
+lobby/diamond_less|0|5|0,Cancel,Cancel
+lobby/diamond_less|0|6,Insufficient Jade ，Do you wish to Purchase ？,Insufficient Jade ，Do you wish to Purchase ？
+lobby/force_update|0|2,"New updates detected, please try to restart your game","New updates detected, please try to restart your game"
+lobby/force_update|0|3|0,Confirm,Confirm
+lobby/friend|0|1|0,Friends,Friends
+lobby/friend|1|1|0|0,Friend List,Friend List
+lobby/friend|1|1|1|0,Application,Application
+lobby/friend|1|1|2|0,Search,Search
+lobby/friend|1|2|1|0,Search,Search
+lobby/friend|1|2|2|0|0|0|1|0,Add,Add
+lobby/friend|1|2|2|0|0|0|5,Applied,Applied
+lobby/friend|1|2|2|0|0|1|1|0,Add,Add
+lobby/friend|1|2|2|0|0|1|5,Applied,Applied
+lobby/friend|1|3|0|0|0|1|0,View,View
+lobby/friend|1|3|0|0|0|2|0,Delete,Delete
+lobby/friend|1|3|0|0|0|8|0,Watch,Watch
+lobby/friend|1|3|1,Your Friend List is Empty,Your Friend List is Empty
+lobby/friend|1|3|3,Friends:,Friends:
+lobby/friend|1|4|0|0|0|1|0,View,View
+lobby/friend|1|4|0|0|0|2|0,Accept,Accept
+lobby/friend|1|4|0|0|0|3|0,Reject,Reject
+lobby/friend|1|4|1,No friend application,No friend application
+lobby/friend|1|5|0,My ID:,My ID:
+lobby/info|0|2,Info,Info
+lobby/lobby|3|1|0|0|0|0|3,Novice & Adept,Novice & Adept
+lobby/lobby|3|1|0|0|1|0|3,Adept & Expert,Adept & Expert
+lobby/lobby|3|1|0|0|2|0|3,Expert & Master,Expert & Master
+lobby/lobby|3|1|0|0|3|0|3,Master & Saint,Master & Saint
+lobby/lobby|3|1|0|0|4|0|3,Saint & Above,Saint & Above
+lobby/lobby|3|2|0|0|3,Free,Free
+lobby/lobby|3|2|0|1|3,Free,Free
+lobby/lobby|3|4|0|0|0|2,Online:,Online:
+lobby/lobby|3|4|0|0|0|4|0,Reserved,Reserved
+lobby/lobby|3|4|0|0|1|2,Online:,Online:
+lobby/lobby|3|4|0|0|1|4|0,Reserved,Reserved
+lobby/lobby|3|4|0|0|2|2,Online:,Online:
+lobby/lobby|3|4|0|0|2|4|0,Reserved,Reserved
+lobby/lobby|3|4|0|0|3|2,Online:,Online:
+lobby/lobby|3|4|0|0|3|4|0,Reserved,Reserved
+lobby/lobby|5|3|0,Rank,Rank
+lobby/lobby|5|4|0,Info,Info
+lobby/lobbychat|0|1|0|2|0|0,Send,Send
+lobby/match_lobby|0|0,Lobby,Lobby
+lobby/match_lobby|1|0|1|0,Search,Search
+lobby/match_lobby|1|0|2|0,Enter Tournament ID,Enter Tournament ID
+lobby/match_lobby|1|1|0,Followed only,Followed only
+lobby/match_lobby|1|3|0|2,Followed,Followed
+lobby/match_lobby|1|3|0|5,Not started,Not started
+lobby/match_lobby|1|3|0|5|0,Start time:,Start time:
+lobby/match_lobby|1|3|0|7,In progress,In progress
+lobby/match_lobby|1|3|0|7|0,End time:,End time:
+lobby/match_lobby|1|3|0|8,Ended,Ended
+lobby/match_lobby|1|3|0|8|0,End time:,End time:
+lobby/match_lobby|1|3|0|9|0|0,View,View
+lobby/match_lobby|1|4,No tournaments,No tournaments
+lobby/match_lobby|1|7|0,My ID:,My ID:
+lobby/match_lobby|2|0|5|0,Close,Close
+lobby/match_lobby|2|0|6|0,Enter,Enter
+lobby/match_room|0|0,Tournament,Tournament
+lobby/match_room|1|0|0|0,Home,Home
+lobby/match_room|1|0|1|0,Log,Log
+lobby/match_room|1|0|2|0,Watch,Watch
+lobby/match_room|1|1|0|0|0|2,GM message,GM message
+lobby/match_room|1|1|0|0|2|0|0,Send,Send
+lobby/match_room|1|1|0|1|0,Chat,Chat
+lobby/match_room|1|1|0|2|0,Notice,Notice
+lobby/match_room|1|1|0|4,该功能正在维护。。。,该功能正在维护。。。
+lobby/match_room|1|1|1|1,Time,Time
+lobby/match_room|1|1|1|2,Start time:,Start time:
+lobby/match_room|1|1|1|3,End time:,End time:
+lobby/match_room|1|1|1|4,Rules,Rules
+lobby/match_room|1|1|1|5,My Ranking,My Ranking
+lobby/match_room|1|1|1|8,Last 5 Matches Ranks:,Last 5 Matches Ranks:
+lobby/match_room|1|1|1|9,Matches Played:,Matches Played:
+lobby/match_room|1|1|1|10|0,Prepare for match,Prepare for match
+lobby/match_room|1|1|1|11,Online:,Online:
+lobby/match_room|1|1|1|13|0|0,Details,Details
+lobby/match_room|1|1|3|0,Set as Focus,Set as Focus
+lobby/match_room|1|3|1|0|1|1,1,1
+lobby/match_room|1|3|1|0|1|4,Rank,Rank
+lobby/match_room|1|3|1|0|2|1,2,2
+lobby/match_room|1|3|1|0|2|4,Rank,Rank
+lobby/match_room|1|3|1|0|3|1,3,3
+lobby/match_room|1|3|1|0|3|4,Rank,Rank
+lobby/match_room|1|3|1|0|4|1,4,4
+lobby/match_room|1|3|1|0|4|4,Rank,Rank
+lobby/match_room|1|3|1|0|6,Match Time,Match Time
+lobby/match_room|1|3|1|0|7|0,View,View
+lobby/match_room|1|3|1|0|8|0,Share,Share
+lobby/match_room|1|3|2|0,Other Logs,Other Logs
+lobby/match_room|2|0|3,Rule Details,Rule Details
+lobby/match_room|2|0|4|0,Close,Close
+lobby/match_room|2|1|3,Rule Details,Rule Details
+lobby/match_room|2|1|4|0,Close,Close
+lobby/match_room|3|0|2,Enter Log Number,Enter Log Number
+lobby/match_room|3|0|3|0,Confirm,Confirm
+lobby/match_room|3|0|6|1,Anonymously Share,Anonymously Share
+lobby/match_room|4|0|2,Criteria not met,Criteria not met
+lobby/match_room|4|0|3,You are not eligible to participate in this tournament. Unable to start match,You are not eligible to participate in this tournament. Unable to start match
+lobby/match_room|4|0|4|0,Close,Close
+lobby/match_shilian|0|1,试炼之道,试炼之道
+lobby/match_shilian|0|2|2,9999999,9999999
+lobby/match_shilian|0|3|2,9999999,9999999
+lobby/match_shilian|1|0|0|0|1|1,起点 99999,起点 99999
+lobby/match_shilian|1|0|0|0|1|2,返点 99999,返点 99999
+lobby/match_shilian|1|0|0|0|1|3|0|1,×999999,×999999
+lobby/match_shilian|1|0|1|0|1|1,起点 99999,起点 99999
+lobby/match_shilian|1|0|1|0|1|2,返点 99999,返点 99999
+lobby/match_shilian|1|0|1|0|1|4|0|1,×999999,×999999
+lobby/match_shilian|1|0|2|0|1|1,起点 99999,起点 99999
+lobby/match_shilian|1|0|2|0|1|2,返点 99999,返点 99999
+lobby/match_shilian|1|0|2|0|1|4|0|1,×999999,×999999
+lobby/match_shilian|1|0|3|0|1|1,起点 99999,起点 99999
+lobby/match_shilian|1|0|3|0|1|2,返点 99999,返点 99999
+lobby/match_shilian|1|0|3|0|1|4|0|1,×999999,×999999
+lobby/match_shilian|1|0|4|0|1|1,起点 99999,起点 99999
+lobby/match_shilian|1|0|4|0|1|2,返点 99999,返点 99999
+lobby/match_shilian|1|0|4|0|1|4|0|1,×999999,×999999
+lobby/match_shilian|1|1|0|0,通过的试炼越多奖励越好,通过的试炼越多奖励越好
+lobby/match_shilian|1|1|0|1,在试炼中点数降到0点以下将会失败,在试炼中点数降到0点以下将会失败
+lobby/match_shilian|2|0|1,×999999,×999999
+lobby/match_ticket|0|2,入场方式选择,入场方式选择
+lobby/match_ticket|0|3|0,消耗,消耗
+lobby/match_ticket|0|3|0|0,99999,99999
+lobby/match_ticket|0|4|0,消耗,消耗
+lobby/match_ticket|0|4|0|0,99999,99999
+lobby/match_ticket|0|5,拥有试炼券,拥有试炼券
+lobby/match_ticket|0|5|0,9999,9999
+lobby/match_ticket|0|6,拥有铜币,拥有铜币
+lobby/match_ticket|0|6|0,9999,9999
+lobby/match_ticket|0|7,试炼券可以通过活动获取,试炼券可以通过活动获取
+lobby/nickname|0|2,Name Your Character,Name Your Character
+lobby/nickname|0|4,Name (1-14 chars),Name (1-14 chars)
+lobby/nickname|0|6,Available,Available
+lobby/nickname|0|7,Unavailable,Unavailable
+lobby/nickname|0|8|1,Confirm,Confirm
+lobby/nickname|0|9,Cannot contain empty spaces and special characters,Cannot contain empty spaces and special characters
+lobby/nickname|0|10|1,Exit,Exit
+lobby/nickname|1|2,Tutorials,Tutorials
+lobby/nickname|1|3,Welcome to Mahjong Soul!,Welcome to Mahjong Soul!
+lobby/nickname|1|4,Name,Name
+lobby/nickname|1|5,Do you want to start a tutorial of Riichi Mahjong?,Do you want to start a tutorial of Riichi Mahjong?
+lobby/nickname|1|7|0|0,No,No
+lobby/nickname|1|8|0|0,Yes,Yes
+lobby/number_input|0|2,Join Room #,Join Room #
+lobby/number_input|0|3|0,Confirm,Confirm
+lobby/number_input|0|6|0|1,1,1
+lobby/number_input|0|6|1|1,2,2
+lobby/number_input|0|6|2|1,3,3
+lobby/number_input|0|6|3|1,4,4
+lobby/number_input|0|6|4|1,5,5
+lobby/number_input|0|6|5|1,6,6
+lobby/number_input|0|6|6|1,7,7
+lobby/number_input|0|6|7|1,8,8
+lobby/number_input|0|6|8|1,9,9
+lobby/number_input|0|6|9|1,Clear,Clear
+lobby/number_input|0|6|10|1,0,0
+lobby/ob|0|0,No game info,No game info
+lobby/ob|0|6|0,Show friends only,Show friends only
+lobby/ob|0|7|1,Refresh,Refresh
+lobby/ob|1|0,Watch,Watch
+lobby/openbox|1|3,Choose one gift,Choose one gift
+lobby/openbox|1|5|0,Confirm,Confirm
+lobby/page_sign_chs|1|1|1,Confirm,Confirm
+lobby/page_sign_chs|1|2|1,Sign-in,Sign-in
+lobby/page_sign_chs|1|3,1/23 14:00 - 1/28 13:59 (UTC-7),1/23 14:00 - 1/28 13:59 (UTC-7)
+lobby/page_sign_en|1|1|1,Confirm,Confirm
+lobby/page_sign_en|1|2|1,Sign-in,Sign-in
+lobby/page_sign_en|1|3,1/23 14:00 - 1/28 13:59 (UTC-7),1/23 14:00 - 1/28 13:59 (UTC-7)
+lobby/page_sign_jp|1|1|1,Confirm,Confirm
+lobby/page_sign_jp|1|2|1,Sign-in,Sign-in
+lobby/page_sign_jp|1|3,1/23 14:00 - 1/28 13:59 (UTC-7),1/23 14:00 - 1/28 13:59 (UTC-7)
+lobby/paipu|0|1|0,Log,Log
+lobby/paipu|1|4|0|1|1,1,1
+lobby/paipu|1|4|0|1|4,Rank,Rank
+lobby/paipu|1|4|0|2|1,2,2
+lobby/paipu|1|4|0|2|4,Rank,Rank
+lobby/paipu|1|4|0|3|1,3,3
+lobby/paipu|1|4|0|3|4,Rank,Rank
+lobby/paipu|1|4|0|4|1,4,4
+lobby/paipu|1|4|0|4|4,Rank,Rank
+lobby/paipu|1|4|0|7|0,View,View
+lobby/paipu|1|4|0|8|0,Share,Share
+lobby/paipu|1|5|0,Other Logs,Other Logs
+lobby/paipu|1|6,Collection Limit:,Collection Limit:
+lobby/paipu|1|7|0|1,Overview,Overview
+lobby/paipu|1|7|1|1,Match,Match
+lobby/paipu|1|7|2|1,Friends,Friends
+lobby/paipu|1|7|3|1,Tournament,Tournament
+lobby/paipu|1|7|4|1,Collection,Collection
+lobby/paipu|1|8,No record,No record
+lobby/paipu|2|2,Enter Log Number,Enter Log Number
+lobby/paipu|2|3|0,Confirm,Confirm
+lobby/paipu|2|6|1,Anonymously Share,Anonymously Share
+lobby/paipu|3|1|2,Log Collection,Log Collection
+lobby/paipu|3|1|3|0,Collect,Collect
+lobby/paipu|3|1|5,Remarks are too long,Remarks are too long
+lobby/payment/buy_yueka_chs|0|3,选择支付方式,选择支付方式
+lobby/payment/buy_yueka_chs|0|4,商品名称：,商品名称：
+lobby/payment/buy_yueka_chs|0|5,6800辉玉,6800辉玉
+lobby/payment/buy_yueka_chs|0|6,商品说明：,商品说明：
+lobby/payment/buy_yueka_chs|0|7,132123213123\n1231231231\n123123123\n12312313123,132123213123\n1231231231\n123123123\n12312313123
+lobby/payment/buy_yueka_chs|0|8,应付金额：,应付金额：
+lobby/payment/buy_yueka_chs|0|9,680.00元,680.00元
+lobby/payment/buy_yueka_chs|0|10,支付疑问请加 QQ：951307369,支付疑问请加 QQ：951307369
+lobby/payment/buy_yueka_chs|0|11|0|0|1,微信,微信
+lobby/payment/buy_yueka_chs|0|11|1|0|1,支付宝,支付宝
+lobby/payment/buy_yueka_chs|0|11|2|0|1,支付宝扫码,支付宝扫码
+lobby/payment/buy_yueka_en|0|3,Choose a payment method,Choose a payment method
+lobby/payment/buy_yueka_en|0|4,Item:,Item:
+lobby/payment/buy_yueka_en|0|6,Description,Description
+lobby/payment/buy_yueka_en|0|8,Price:,Price:
+lobby/payment/buy_yueka_en|0|10,VIP Point:,VIP Point:
+lobby/payment/choose_method_chs|0|3,选择支付方式,选择支付方式
+lobby/payment/choose_method_chs|0|4,商品名称：,商品名称：
+lobby/payment/choose_method_chs|0|5,6800辉玉,6800辉玉
+lobby/payment/choose_method_chs|0|6,应付金额：,应付金额：
+lobby/payment/choose_method_chs|0|7,680.00元,680.00元
+lobby/payment/choose_method_chs|0|8,支付疑问请加 QQ：951307369,支付疑问请加 QQ：951307369
+lobby/payment/choose_method_chs|0|9|0|0|1,微信,微信
+lobby/payment/choose_method_chs|0|9|1|0|1,支付宝,支付宝
+lobby/payment/choose_method_chs|0|9|2|0|1,支付宝扫码,支付宝扫码
+lobby/payment/choose_method_en|0|3,Choose a payment method,Choose a payment method
+lobby/payment/choose_method_en|0|4,Item:,Item:
+lobby/payment/choose_method_en|0|6,Price:,Price:
+lobby/payment/choose_method_en|0|8,VIP Point:,VIP Point:
+lobby/payment/creditcard|0|2,Credit Card,Credit Card
+lobby/payment/creditcard|0|3|1,Card Number,Card Number
+lobby/payment/creditcard|0|3|3,Card number ranges from 14 digits to 16 digits,Card number ranges from 14 digits to 16 digits
+lobby/payment/creditcard|0|4|0,Expiry Date,Expiry Date
+lobby/payment/creditcard|0|4|1|0,Month,Month
+lobby/payment/creditcard|0|4|2|0,Year,Year
+lobby/payment/creditcard|0|4|3,Please select a month,Please select a month
+lobby/payment/creditcard|0|4|4,Please select a year,Please select a year
+lobby/payment/creditcard|0|5|0,Security Code,Security Code
+lobby/payment/creditcard|0|5|3,Please enter a 3 or 4 digits CVV2/CSC Code,Please enter a 3 or 4 digits CVV2/CSC Code
+lobby/payment/creditcard|0|6|1,Confirm And Pay,Confirm And Pay
+lobby/payment/creditcard|2|0|3|1,Confirm,Confirm
+lobby/payment/creditcard|2|0|4,Security Code,Security Code
+lobby/payment/creditcard|2|0|5,"Discover,MasterCard,Visa\n3-digit Card Verification Number","Discover,MasterCard,Visa\n3-digit Card Verification Number"
+lobby/payment/creditcard|2|0|6,American Express\n4-digit Card Verification Number,American Express\n4-digit Card Verification Number
+lobby/payment/wxcode|0|5,商品名称：,商品名称：
+lobby/payment/wxcode|0|5|0,6800辉玉,6800辉玉
+lobby/payment/wxcode|0|6,应付金额：,应付金额：
+lobby/payment/wxcode|0|6|0,680.00元,680.00元
+lobby/payment/wxcode|0|7,请打开,请打开
+lobby/payment/wxcode|0|8,“扫一扫”扫描二维码完成支付,“扫一扫”扫描二维码完成支付
+lobby/payment/wxcode|0|9,支付宝,支付宝
+lobby/payment/wxcode|0|10|0|0,关闭,关闭
+lobby/pifuquan_less|0|2,Insufficient Outfit Voucher,Insufficient Outfit Voucher
+lobby/pifuquan_less|0|4|0,Buy,Buy
+lobby/pifuquan_less|0|5|0,Cancel,Cancel
+lobby/pifuquan_less|0|6,Insufficient Outfit Voucher，Do you wish to Purchase ？,Insufficient Outfit Voucher，Do you wish to Purchase ？
+lobby/pipei|0|2,Ranked Match,Ranked Match
+lobby/pipei|0|3,Finding opponents,Finding opponents
+lobby/pipei|0|4|0,Cancel,Cancel
+lobby/pipeichenggong|1|2,Match is ready,Match is ready
+lobby/pipeiyuyue|0|1,Matchmaking,Matchmaking
+lobby/playerinfo|1|1|0,4-Player,4-Player
+lobby/playerinfo|1|2|0,3-Player,3-Player
+lobby/playerinfo|1|3|0,Message,Message
+lobby/playerinfo|1|4|1,Empty,Empty
+lobby/playerinfo|1|4|2|0|8|1|0,Info,Info
+lobby/playerinfo|1|4|5|3,No signature yet,No signature yet
+lobby/playerinfo|1|4|5|4,Signature,Signature
+lobby/playerinfo|1|5|0|5|2,/,/
+lobby/playerinfo|1|5|2|1,Title Book,Title Book
+lobby/playerinfo|1|5|3|1,Change Name,Change Name
+lobby/playerinfo|1|5|6|1|0,Friendly Match,Friendly Match
+lobby/playerinfo|1|5|6|2|0,Ranked Match,Ranked Match
+lobby/playerinfo|1|5|7|1|0|0|0,Recent High Score,Recent High Score
+lobby/playerinfo|1|5|7|1|0|3,No record available. Good luck!,No record available. Good luck!
+lobby/playerinfo|1|5|7|1|1|0,ATK,ATK
+lobby/playerinfo|1|5|7|1|1|2,DEF,DEF
+lobby/playerinfo|1|5|7|1|1|4,SPD,SPD
+lobby/playerinfo|1|5|7|1|1|6,LUK,LUK
+lobby/playerinfo|1|5|7|1|1|8|0,ATK,ATK
+lobby/playerinfo|1|5|7|1|1|8|1,DEF,DEF
+lobby/playerinfo|1|5|7|1|1|8|2,SPD,SPD
+lobby/playerinfo|1|5|7|1|1|8|3,LUK,LUK
+lobby/playerinfo|1|5|7|1|1|9|0,Play Style,Play Style
+lobby/playerinfo|1|5|7|1|2|6,4,4
+lobby/playerinfo|1|5|7|1|2|6|0,Rank,Rank
+lobby/playerinfo|1|5|7|1|2|7,3,3
+lobby/playerinfo|1|5|7|1|2|7|0,Rank,Rank
+lobby/playerinfo|1|5|7|1|2|8,2,2
+lobby/playerinfo|1|5|7|1|2|8|0,Rank,Rank
+lobby/playerinfo|1|5|7|1|2|9,1,1
+lobby/playerinfo|1|5|7|1|2|9|0,Rank,Rank
+lobby/playerinfo|1|5|7|1|2|10|0,Trends,Trends
+lobby/playerinfo|1|5|7|1|3|0|0,Detailed Info,Detailed Info
+lobby/playerinfo|1|5|7|1|4|0|2,East Round,East Round
+lobby/playerinfo|1|5|7|1|4|1|0,1st,1st
+lobby/playerinfo|1|5|7|1|4|1|2,2nd,2nd
+lobby/playerinfo|1|5|7|1|4|1|4,3rd,3rd
+lobby/playerinfo|1|5|7|1|4|1|6|0,4th,4th
+lobby/playerinfo|1|5|7|1|4|1|7|0,Negative,Negative
+lobby/playerinfo|1|5|7|1|4|1|8,Total Played,Total Played
+lobby/playerinfo|1|5|7|1|4|1|10,Avg Score,Avg Score
+lobby/playerinfo|1|5|7|1|4|1|12,Avg Rank,Avg Rank
+lobby/playerinfo|1|5|7|1|4|1|14,Max Repeats,Max Repeats
+lobby/playerinfo|1|5|7|1|4|1|16,Avg Turns,Avg Turns
+lobby/playerinfo|1|5|7|1|4|1|18,Win Rate,Win Rate
+lobby/playerinfo|1|5|7|1|4|1|20,Tsumo Rate,Tsumo Rate
+lobby/playerinfo|1|5|7|1|4|1|22,Deal-in Rate,Deal-in Rate
+lobby/playerinfo|1|5|7|1|4|1|24,Call Rate,Call Rate
+lobby/playerinfo|1|5|7|1|4|1|26,Riichi Rate,Riichi Rate
+lobby/playerinfo|1|5|7|1|5|0|2,South Round,South Round
+lobby/playerinfo|1|5|7|1|5|1|0,1st,1st
+lobby/playerinfo|1|5|7|1|5|1|2,2nd,2nd
+lobby/playerinfo|1|5|7|1|5|1|4,3rd,3rd
+lobby/playerinfo|1|5|7|1|5|1|6|0,4th,4th
+lobby/playerinfo|1|5|7|1|5|1|7|0,Negative,Negative
+lobby/playerinfo|1|5|7|1|5|1|8,Total Played,Total Played
+lobby/playerinfo|1|5|7|1|5|1|10,Avg Score,Avg Score
+lobby/playerinfo|1|5|7|1|5|1|12,Avg Rank,Avg Rank
+lobby/playerinfo|1|5|7|1|5|1|14,Max Repeats,Max Repeats
+lobby/playerinfo|1|5|7|1|5|1|16,Avg Turns,Avg Turns
+lobby/playerinfo|1|5|7|1|5|1|18,Win Rate,Win Rate
+lobby/playerinfo|1|5|7|1|5|1|20,Tsumo Rate,Tsumo Rate
+lobby/playerinfo|1|5|7|1|5|1|22,Deal-in Rate,Deal-in Rate
+lobby/playerinfo|1|5|7|1|5|1|24,Call Rate,Call Rate
+lobby/playerinfo|1|5|7|1|5|1|26,Riichi Rate,Riichi Rate
+lobby/playerinfo|1|5|7|1|6|0|2,Yaku Achieved,Yaku Achieved
+lobby/playerinfo|1|5|7|1|7|0|2,Local Yaku Achieved,Local Yaku Achieved
+lobby/playerinfo_en|1|1|0,4-Player,4-Player
+lobby/playerinfo_en|1|2|0,3-Player,3-Player
+lobby/playerinfo_en|1|3|0,Message,Message
+lobby/playerinfo_en|1|4|1,Empty,Empty
+lobby/playerinfo_en|1|4|2|0|8|1|0,Info,Info
+lobby/playerinfo_en|1|4|5|3,No signature yet,No signature yet
+lobby/playerinfo_en|1|4|5|4,Signature,Signature
+lobby/playerinfo_en|1|5|0|5|2,/,/
+lobby/playerinfo_en|1|5|2|1,Title Book,Title Book
+lobby/playerinfo_en|1|5|3|1,Change Name,Change Name
+lobby/playerinfo_en|1|5|6|1|0,Friendly Match,Friendly Match
+lobby/playerinfo_en|1|5|6|2|0,Ranked Match,Ranked Match
+lobby/playerinfo_en|1|5|7|1|0|0|0,Recent High Score,Recent High Score
+lobby/playerinfo_en|1|5|7|1|0|3,No record available. Good luck!,No record available. Good luck!
+lobby/playerinfo_en|1|5|7|1|1|0,ATK,ATK
+lobby/playerinfo_en|1|5|7|1|1|2,DEF,DEF
+lobby/playerinfo_en|1|5|7|1|1|4,SPD,SPD
+lobby/playerinfo_en|1|5|7|1|1|6,LUK,LUK
+lobby/playerinfo_en|1|5|7|1|1|8|0,ATK,ATK
+lobby/playerinfo_en|1|5|7|1|1|8|1,DEF,DEF
+lobby/playerinfo_en|1|5|7|1|1|8|2,SPD,SPD
+lobby/playerinfo_en|1|5|7|1|1|8|3,LUK,LUK
+lobby/playerinfo_en|1|5|7|1|1|9|0,Play Style,Play Style
+lobby/playerinfo_en|1|5|7|1|2|6,4,4
+lobby/playerinfo_en|1|5|7|1|2|6|0,Rank,Rank
+lobby/playerinfo_en|1|5|7|1|2|7,3,3
+lobby/playerinfo_en|1|5|7|1|2|7|0,Rank,Rank
+lobby/playerinfo_en|1|5|7|1|2|8,2,2
+lobby/playerinfo_en|1|5|7|1|2|8|0,Rank,Rank
+lobby/playerinfo_en|1|5|7|1|2|9,1,1
+lobby/playerinfo_en|1|5|7|1|2|9|0,Rank,Rank
+lobby/playerinfo_en|1|5|7|1|2|10|0,Trends,Trends
+lobby/playerinfo_en|1|5|7|1|3|0|0,Detailed Info,Detailed Info
+lobby/playerinfo_en|1|5|7|1|4|0|2,East Round,East Round
+lobby/playerinfo_en|1|5|7|1|4|1|0,1st,1st
+lobby/playerinfo_en|1|5|7|1|4|1|2,2nd,2nd
+lobby/playerinfo_en|1|5|7|1|4|1|4,3rd,3rd
+lobby/playerinfo_en|1|5|7|1|4|1|6|0,4th,4th
+lobby/playerinfo_en|1|5|7|1|4|1|7|0,Negative,Negative
+lobby/playerinfo_en|1|5|7|1|4|1|8,Total Played,Total Played
+lobby/playerinfo_en|1|5|7|1|4|1|10,Avg Score,Avg Score
+lobby/playerinfo_en|1|5|7|1|4|1|12,Avg Rank,Avg Rank
+lobby/playerinfo_en|1|5|7|1|4|1|14,Max Repeats,Max Repeats
+lobby/playerinfo_en|1|5|7|1|4|1|16,Avg Turns,Avg Turns
+lobby/playerinfo_en|1|5|7|1|4|1|18,Win Rate,Win Rate
+lobby/playerinfo_en|1|5|7|1|4|1|20,Tsumo Rate,Tsumo Rate
+lobby/playerinfo_en|1|5|7|1|4|1|22,Deal-in Rate,Deal-in Rate
+lobby/playerinfo_en|1|5|7|1|4|1|24,Call Rate,Call Rate
+lobby/playerinfo_en|1|5|7|1|4|1|26,Riichi Rate,Riichi Rate
+lobby/playerinfo_en|1|5|7|1|5|0|2,South Round,South Round
+lobby/playerinfo_en|1|5|7|1|5|1|0,1st,1st
+lobby/playerinfo_en|1|5|7|1|5|1|2,2nd,2nd
+lobby/playerinfo_en|1|5|7|1|5|1|4,3rd,3rd
+lobby/playerinfo_en|1|5|7|1|5|1|6|0,4th,4th
+lobby/playerinfo_en|1|5|7|1|5|1|7|0,Negative,Negative
+lobby/playerinfo_en|1|5|7|1|5|1|8,Total Played,Total Played
+lobby/playerinfo_en|1|5|7|1|5|1|10,Avg Score,Avg Score
+lobby/playerinfo_en|1|5|7|1|5|1|12,Avg Rank,Avg Rank
+lobby/playerinfo_en|1|5|7|1|5|1|14,Max Repeats,Max Repeats
+lobby/playerinfo_en|1|5|7|1|5|1|16,Avg Turns,Avg Turns
+lobby/playerinfo_en|1|5|7|1|5|1|18,Win Rate,Win Rate
+lobby/playerinfo_en|1|5|7|1|5|1|20,Tsumo Rate,Tsumo Rate
+lobby/playerinfo_en|1|5|7|1|5|1|22,Deal-in Rate,Deal-in Rate
+lobby/playerinfo_en|1|5|7|1|5|1|24,Call Rate,Call Rate
+lobby/playerinfo_en|1|5|7|1|5|1|26,Riichi Rate,Riichi Rate
+lobby/playerinfo_en|1|5|7|1|6|0|2,Yaku Achieved,Yaku Achieved
+lobby/playerinfo_en|1|5|7|1|7|0|2,Local Yaku Achieved,Local Yaku Achieved
+lobby/pop_buy_multi|0|6|0,Buy,Buy
+lobby/pop_buy_multi|0|7|0,Price,Price
+lobby/pop_buy_multi|0|8|0,Remaining,Remaining
+lobby/pop_buy_multi|0|9,Refreshes once every month,Refreshes once every month
+lobby/pop_buy_multi|0|10|0,Total Price,Total Price
+lobby/pop_buy_single|0|6|0,Buy,Buy
+lobby/pop_buy_single|0|7|0,Total Price,Total Price
+lobby/rank|0|2|0|0|4,pt,pt
+lobby/rank|0|4|1|7,pt,pt
+lobby/rank|0|5|0|0,4-Player,4-Player
+lobby/rank|0|5|1|0,3-Player,3-Player
+lobby/recharge|0|0,Shop,Shop
+lobby/recharge|1|0|0|0,Misc,Misc
+lobby/recharge|1|0|1|0,Wishing,Wishing
+lobby/recharge|1|0|2|0,Star,Star
+lobby/recharge|1|0|3|0,Summon Shop,Summon Shop
+lobby/recharge|1|0|4|0,Summon,Summon
+lobby/recharge|1|2|0|1,Title,Title
+lobby/recharge|1|2|6|0,Current,Current
+lobby/recharge|1|2|8|0,Claim,Claim
+lobby/recharge|1|2|9|0|1,Rewards,Rewards
+lobby/recharge|2|0|6|0,Buy,Buy
+lobby/recharge|2|0|7|0,Total Price,Total Price
+lobby/shop|0|0|0|0,Outfit,Outfit
+lobby/shop|0|0|1|0,Fortune,Fortune
+lobby/shop|0|0|2|0,Star,Star
+lobby/shop|0|0|3|0,Wishing,Wishing
+lobby/shop|0|0|4|0,Misc,Misc
+lobby/shop|0|1|1|0|0,Refresh,Refresh
+lobby/shop|0|1|1|0|1|0,Refresh,Refresh
+lobby/shop|0|1|1|2,Can`t refresh anymore today,Can`t refresh anymore today
+lobby/shop|0|1|2|0,Duplicate characters will be converted into Wishing Stones,Duplicate characters will be converted into Wishing Stones
+lobby/shop|0|1|3|2,Duplicate decorations will be converted into Star Stones,Duplicate decorations will be converted into Star Stones
+lobby/shop|0|1|4|1,Star Dust can be acquired by donating Gifts,Star Dust can be acquired by donating Gifts
+lobby/shop|0|2|0|0|6|2|0,Purchase,Purchase
+lobby/shop|0|2|3,Sold Out,Sold Out
+lobby/shop|1|0,Shop,Shop
+lobby/shop_lobby_yulan|1|2|2|0,Buy,Buy
+lobby/shop_pack_detail|0|5|0,Original Price:,Original Price:
+lobby/shop_pack_detail|0|6|0,Discount Rate:,Discount Rate:
+lobby/shop_pack_detail|0|7|0,Final Price:,Final Price:
+lobby/shop_pack_detail|0|8|0,Buy,Buy
+lobby/shop_pack_detail|0|9,Items contained in this pack,Items contained in this pack
+lobby/shop_skin_yulan|2|0|2|0,Buy,Buy
+lobby/sign|1|2,Daily Prayer,Daily Prayer
+lobby/sign|1|3|4|0,Day,Day
+lobby/sign|1|3|4|1,Day,Day
+lobby/sign|1|4|4|0,Day,Day
+lobby/sign|1|4|4|1,Day,Day
+lobby/sign|1|5|0,Claim,Claim
+lobby/sign|1|5|2,Claimed,Claimed
+lobby/sushe_select|0|1|0|0,Character,Character
+lobby/sushe_select|0|1|1|0,Decoration,Decoration
+lobby/sushe_select|0|2|1|0|1,1,1
+lobby/sushe_select|0|2|1|1|1,2,2
+lobby/sushe_select|0|2|1|2|1,3,3
+lobby/sushe_select|0|2|1|3|1,4,4
+lobby/sushe_select|0|2|1|4|1,5,5
+lobby/sushe_select|0|4|0|2|0,In Use,In Use
+lobby/sushe_select|0|4|0|3|0|0,Use,Use
+lobby/sushe_select|0|4|0|4|0|0,Save,Save
+lobby/sushe_select|0|4|1|6|0,Empty,Empty
+lobby/sushe_select|0|4|4|5|0,Empty,Empty
+lobby/sushe_select|1|0,Dorm,Dorm
+lobby/sushe_select_en|0|1|0|0,Character,Character
+lobby/sushe_select_en|0|1|1|0,Decoration,Decoration
+lobby/sushe_select_en|0|2|1|0|1,1,1
+lobby/sushe_select_en|0|2|1|1|1,2,2
+lobby/sushe_select_en|0|2|1|2|1,3,3
+lobby/sushe_select_en|0|2|1|3|1,4,4
+lobby/sushe_select_en|0|2|1|4|1,5,5
+lobby/sushe_select_en|0|4|0|2|0,In Use,In Use
+lobby/sushe_select_en|0|4|0|3|0|0,Use,Use
+lobby/sushe_select_en|0|4|0|4|0|0,Save,Save
+lobby/sushe_select_en|0|4|1|6|0,Empty,Empty
+lobby/sushe_select_en|0|4|2|8,到期时间到期时间到期时间,到期时间到期时间到期时间
+lobby/sushe_select_en|0|4|4|5|0,Empty,Empty
+lobby/sushe_select_en|1|0,Dorm,Dorm
+lobby/tangfang1|6|3|0,Confirm,Confirm
+lobby/titlebook|1|2,Title Book,Title Book
+lobby/titlebook|1|3,Available,Available
+lobby/titlebook|1|6,Your Title Book is empty.,Your Title Book is empty.
+lobby/treasure|0|0|0,Summon 10 Times,Summon 10 Times
+lobby/treasure|0|0|1,Get,Get
+lobby/treasure|0|0|3,"Chance to get characters, decorations or gifts","Chance to get characters, decorations or gifts"
+lobby/treasure|0|0|5|0,Summon 10 Times,Summon 10 Times
+lobby/treasure|0|1|0,Summon Once,Summon Once
+lobby/treasure|0|1|1,Get,Get
+lobby/treasure|0|1|3,"Chance to get characters, decorations or gifts","Chance to get characters, decorations or gifts"
+lobby/treasure|0|1|5|0,Summon Once,Summon Once
+lobby/treasure|0|5|0,Overview,Overview
+lobby/treasure|0|6|2|0,Redeem,Redeem
+lobby/treasure|1|0,Summon,Summon
+lobby/treasure|3|4,Select the character/item you would like to redeem,Select the character/item you would like to redeem
+lobby/treasure|4|2|2|0|0,每次寻觅都可以获得1点,每次寻觅都可以获得1点
+lobby/treasure|4|2|2|0|1,(信仰)，同时有可能获得全新的雀士及各种装扮,(信仰)，同时有可能获得全新的雀士及各种装扮
+lobby/treasure|4|2|2|0|2,雀士概率：5%,雀士概率：5%
+lobby/treasure|4|2|2|0|2|0,重复获取的雀士将转换为许愿石,重复获取的雀士将转换为许愿石
+lobby/treasure|4|2|2|0|3,装扮概率：15%,装扮概率：15%
+lobby/treasure|4|2|2|0|3|0,重复获取的装扮将转换为星之石,重复获取的装扮将转换为星之石
+lobby/treasure|4|2|2|0|4,礼物概率：80%,礼物概率：80%
+lobby/treasure|4|2|2|0|5,使用寻觅辉石10连寻觅，至少会获得一个紫色礼物,使用寻觅辉石10连寻觅，至少会获得一个紫色礼物
+lobby/treasure|4|2|2|1|0,每次寻觅都可以获得1点,每次寻觅都可以获得1点
+lobby/treasure|4|2|2|1|1,(信仰)，同时有可能获得全新的雀士及各种装扮,(信仰)，同时有可能获得全新的雀士及各种装扮
+lobby/treasure|4|2|2|1|2,雀士概率：5%,雀士概率：5%
+lobby/treasure|4|2|2|1|2|0,重复获取的雀士将转换为许愿石,重复获取的雀士将转换为许愿石
+lobby/treasure|4|2|2|1|3,(UP雀士占59%、其他雀士占41%),(UP雀士占59%、其他雀士占41%)
+lobby/treasure|4|2|2|1|4,装扮概率：15%,装扮概率：15%
+lobby/treasure|4|2|2|1|4|0,重复获取的装扮将转换为星之石,重复获取的装扮将转换为星之石
+lobby/treasure|4|2|2|1|5,(UP装扮占49%、其他装扮占51%),(UP装扮占49%、其他装扮占51%)
+lobby/treasure|4|2|2|1|6,礼物概率：80%,礼物概率：80%
+lobby/treasure|4|2|2|1|7,使用寻觅辉石10连寻觅，至少会获得一个紫色礼物,使用寻觅辉石10连寻觅，至少会获得一个紫色礼物
+lobby/treasure|4|2|2|2|0,"Each time you summon, you can get 1","Each time you summon, you can get 1"
+lobby/treasure|4|2|2|2|1,"(Faith), as well as all-new characters and decorations","(Faith), as well as all-new characters and decorations"
+lobby/treasure|4|2|2|2|2,Chance to get characters: 5%,Chance to get characters: 5%
+lobby/treasure|4|2|2|2|2|0,Duplicate characters will be converted to Wishing Stones,Duplicate characters will be converted to Wishing Stones
+lobby/treasure|4|2|2|2|3,Chance to get decorations: 15%,Chance to get decorations: 15%
+lobby/treasure|4|2|2|2|3|0,Duplicate decorations will be converted into Star Stones,Duplicate decorations will be converted into Star Stones
+lobby/treasure|4|2|2|2|4,Chance to get green gift/blue gift/purple gift:  24%/51%/5%,Chance to get green gift/blue gift/purple gift:  24%/51%/5%
+lobby/treasure|4|2|2|2|5,You will get at least 1 purple gift when you perform a 10-summon using Jade.,You will get at least 1 purple gift when you perform a 10-summon using Jade.
+lobby/treasure|4|2|2|3|0,"Each time you summon, you can get 1","Each time you summon, you can get 1"
+lobby/treasure|4|2|2|3|1,"(Faith), as well as all-new characters and decorations","(Faith), as well as all-new characters and decorations"
+lobby/treasure|4|2|2|3|2,Chance to get characters: 5%,Chance to get characters: 5%
+lobby/treasure|4|2|2|3|2|0,Duplicate characters will be converted to Wishing Stones,Duplicate characters will be converted to Wishing Stones
+lobby/treasure|4|2|2|3|3,Chance to summon new characters: 2.95%,Chance to summon new characters: 2.95%
+lobby/treasure|4|2|2|3|4,Chance to get decorations: 15%,Chance to get decorations: 15%
+lobby/treasure|4|2|2|3|4|0,Duplicate decorations will be converted into Star Stones,Duplicate decorations will be converted into Star Stones
+lobby/treasure|4|2|2|3|5,Chance to get new effects: 7.35%,Chance to get new effects: 7.35%
+lobby/treasure|4|2|2|3|6,Chance to get green gift/blue gift/purple gift:  24%/51%/5%,Chance to get green gift/blue gift/purple gift:  24%/51%/5%
+lobby/treasure|4|2|2|3|7,New characters and effects are limited-time Rate Up,New characters and effects are limited-time Rate Up
+lobby/treasure|4|2|2|3|8,You will get at least 1 purple gift when you perform a 10-summon using Jade.,You will get at least 1 purple gift when you perform a 10-summon using Jade.
+lobby/treasure|4|2|2|4|0,1回祈願するたびに1点,1回祈願するたびに1点
+lobby/treasure|4|2|2|4|1,（信仰）が入手できます。,（信仰）が入手できます。
+lobby/treasure|4|2|2|4|2,雀士キャラクター提供確率:5％,雀士キャラクター提供確率:5％
+lobby/treasure|4|2|2|4|2|0,再度入手した雀士キャラクターは願いの石に変換されます。,再度入手した雀士キャラクターは願いの石に変換されます。
+lobby/treasure|4|2|2|4|3,装飾品提供確率:15％,装飾品提供確率:15％
+lobby/treasure|4|2|2|4|3|0,再度入手した装飾品は星の石に変換されます。,再度入手した装飾品は星の石に変換されます。
+lobby/treasure|4|2|2|4|4,緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％,緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％
+lobby/treasure|4|2|2|4|5,輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。,輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。
+lobby/treasure|4|2|2|5|0,1回祈願するたびに1点,1回祈願するたびに1点
+lobby/treasure|4|2|2|5|1,（信仰）が入手できます。,（信仰）が入手できます。
+lobby/treasure|4|2|2|5|2,雀士キャラクター提供確率:5％,雀士キャラクター提供確率:5％
+lobby/treasure|4|2|2|5|3,ピックアップ雀士提供確率：全雀士の59％,ピックアップ雀士提供確率：全雀士の59％
+lobby/treasure|4|2|2|5|4,再度入手した雀士は願い石に変換されます。,再度入手した雀士は願い石に変換されます。
+lobby/treasure|4|2|2|5|5,装飾品提供確率：15%,装飾品提供確率：15%
+lobby/treasure|4|2|2|5|6,ピックアップ装飾品提供確率：全装飾品の49%,ピックアップ装飾品提供確率：全装飾品の49%
+lobby/treasure|4|2|2|5|7,再度入手した装飾品は星の石に変換されます。,再度入手した装飾品は星の石に変換されます。
+lobby/treasure|4|2|2|5|8,緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％,緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％
+lobby/treasure|4|2|2|5|9,輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。,輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。
+lobby/treasure|4|3|1|2|0|0|0,Character Info,Character Info
+lobby/treasure|4|3|1|2|0|1|0,Height:,Height:
+lobby/treasure|4|3|1|2|0|1|2,Birthday:,Birthday:
+lobby/treasure|4|3|1|2|0|1|4,Age:,Age:
+lobby/treasure|4|3|1|2|0|1|6,Blood Type:,Blood Type:
+lobby/treasure|4|3|1|2|0|1|8,CV:,CV:
+lobby/treasure|4|3|1|2|0|1|10,Hobby:,Hobby:
+lobby/treasure|4|3|1|2|0|1|12,Biography:,Biography:
+lobby/treasure|4|3|1|2|0|2|0|0,Voice,Voice
+lobby/treasure|4|3|1|2|0|2|1|0,Sample 1,Sample 1
+lobby/treasure|4|3|1|2|0|2|2|0,Sample 2,Sample 2
+lobby/treasure|4|3|1|2|0|2|3|0,Sample 3,Sample 3
+lobby/treasure|5|0|2,Insufficient Summon Stones,Insufficient Summon Stones
+lobby/treasure|5|0|11|0,Confirm,Confirm
+lobby/treasure|5|0|12|0,Cancel,Cancel
+lobby/treasure|5|0|13,Do you wish to spend,Do you wish to spend
+lobby/treasure|5|0|14,Jade,Jade
+lobby/treasure|5|0|15,Purchase,Purchase
+lobby/treasure|5|0|16,Summon Stones?,Summon Stones?
+lobby/treasure|6|0|2,Insufficient Jade,Insufficient Jade
+lobby/treasure|6|0|4|0,Buy,Buy
+lobby/treasure|6|0|5|0,Cancel,Cancel
+lobby/treasure|6|0|6,Insufficient Jade ，Do you wish to Purchase ？,Insufficient Jade ，Do you wish to Purchase ？
+lobby/visit|0|2,Visit,Visit
+lobby/visit|2|3|0,Info,Info
+lobby/visit|2|4|0,Voice,Voice
+lobby/visit|2|5|0|0|0|0,Character Info,Character Info
+lobby/visit|2|5|0|0|1|0,Height:,Height:
+lobby/visit|2|5|0|0|1|2,Birthday:,Birthday:
+lobby/visit|2|5|0|0|1|4,Age:,Age:
+lobby/visit|2|5|0|0|1|6,Blood Type:,Blood Type:
+lobby/visit|2|5|0|0|1|8,CV:,CV:
+lobby/visit|2|5|0|0|1|10,Hobby:,Hobby:
+lobby/visit|2|5|0|0|1|12,Biography:,Biography:
+lobby/visit|2|5|0|0|3|0|0,Emoji,Emoji
+lobby/visit|2|5|0|0|3|1|0|1|0,Bond,Bond
+lobby/visit|2|5|1|1|0,Requires a 5-heart Bond,Requires a 5-heart Bond
+lobby/visit|2|5|1|1|1|0|0,Gift,Gift
+lobby/visit|2|5|1|2|0|0,Gift,Gift
+lobby/visit|2|5|1|2|1,Daily gift attempt:,Daily gift attempt:
+lobby/visit|2|5|3|0|1,Bond,Bond
+lobby/visit|2|5|3|1|1,Gift,Gift
+lobby/visit|2|6|0|0,Voice,Voice
+lobby/visit|2|7|0,Info,Info
+lobby/visit|2|8|0,Voice,Voice
+lobby/visit|3|0|0,Change Outfit,Change Outfit
+lobby/visit|3|0|2|0|0|2|3,Event,Event
+lobby/waitingroom|0|5|2,Room,Room
+lobby/waitingroom|0|5|5,Room,Room
+lobby/waitingroom|0|6|1|1,Invite,Invite
+lobby/waitingroom|0|6|2|1,Add AI,Add AI
+lobby/waitingroom|0|6|3|1,Rules,Rules
+lobby/waitingroom|0|6|4|1,Copy Link,Copy Link
+lobby/waitingroom|0|6|5|1,Change Decoration,Change Decoration
+lobby/waitingroom|1|2,Copy the room link and send it to your friends,Copy the room link and send it to your friends
+lobby/waitingroom|1|5|0,Copy,Copy
+lobby/waitingroom|2|1|2|0|2|1|0,Invite,Invite
+lobby/waitingroom|2|1|2|0|3,Invited,Invited
+lobby/waitingroom|2|1|2|0|5,In a match,In a match
+lobby/waitingroom|2|1|4,There are no friends to invite,There are no friends to invite
+lobby/waitingroom|3|1|1|0|0,Character,Character
+lobby/waitingroom|3|1|1|1|0,Decoration,Decoration
+lobby/waitingroom|3|1|2|1|0|1,1,1
+lobby/waitingroom|3|1|2|1|1|1,2,2
+lobby/waitingroom|3|1|2|1|2|1,3,3
+lobby/waitingroom|3|1|2|1|3|1,4,4
+lobby/waitingroom|3|1|2|1|4|1,5,5
+lobby/waitingroom|3|1|4|0|2|0,In Use,In Use
+lobby/waitingroom|3|1|4|0|3|0|0,Use,Use
+lobby/waitingroom|3|1|4|0|4|0|0,Save,Save
+lobby/waitingroom|3|1|4|1|6|0,Empty,Empty
+lobby/waitingroom|3|1|4|4|5|0,Empty,Empty
+lobby/waitingroom|3|1|5|1|1,Change Outfit,Change Outfit
+lobby/waitob|0|2,Starting in:,Starting in:
+lobby/waitob|0|3|0,Confirm,Confirm
+lobby/waitob|0|5,Second,Second
+mj/desktopInfo|12|2|1,Auto Arrange,Auto Arrange
+mj/desktopInfo|12|2|4,A,A
+mj/desktopInfo|12|3|1,Auto Call Win,Auto Call Win
+mj/desktopInfo|12|3|4,R,R
+mj/desktopInfo|12|4|1,No Chii/Pon/Kan,No Chii/Pon/Kan
+mj/desktopInfo|12|4|4,C,C
+mj/desktopInfo|12|5|3,Auto Draw & Discard,Auto Draw & Discard
+mj/desktopInfo|12|5|4,D,D
+mj/desktopInfo|13|5,Emoji,Emoji
+mj/gameend|0|6,Match End,Match End
+mj/gameend|0|7|2,Added to titles,Added to titles
+mj/gameend|0|8|2,Confirm,Confirm
+mj/gameend|0|9|2,Exit,Exit
+mj/gameend|0|10|2,Back to log,Back to log
+mj/gamestop|1|2,Match paused. Please wait in patience,Match paused. Please wait in patience
+mj/hangup_warn|1|2,The system has detected you are AFK. Auto Draw & Discard enabled.,The system has detected you are AFK. Auto Draw & Discard enabled.
+mj/hangup_warn|1|3|0,I'm back,I'm back
+mj/info_md5|0|2|0,"Majsoul promises all games are randomly generated. At the beginning of each match, the tile wall is already pre-determined, so the tiles issued in each game will not be changed, or influenced by any external factor. To support this statement, we have introduced a MD5 verification system. \n The MD5 algorithm is a widely used cryptographic hash function. It converts the input bytes (tile wall sequence) into a series of hash value using an algorithm. MD5 is uni-directional, unique and chaotic. \n Uni-directional: The MD5 code generated cannot be reversed. Therefore, the MD5 code we provide cannot be decrypted. No one can see your tile wall in advance. (PS: Most MD5 hacking tools are brute-force attack tools. It will take millions of years before anyone hacks a tile wall.) \n Unique: Each input will only generate one unique MD5 code. \n Chaotic: Two tile wall sequences will have completely different MD5 codes even if there is only one different tile between them. \n The uniqueness and chaoticness ensure that tile walls cannot be modified. Otherwise, the MD5 code will significant change. \n MD5 verification steps:\n 1.In every match, players can click the Dora Indicator on the top left corner to view and record the tile wall MD5 code. Each flush of tile wall generates one set of MD5 code. \n 2.After a match, players can go to Log and verify if the MD5 code in each game (recorded in the Log) against the value recorded when the game was played. The MD5 code obtained during the game should be consistent with the MD5 code in the Log. \n 3.Each tile has a unique code. “Man” tiles are represented by “m”, “Pin” tiles are represented by “p”, “Sou” tiles are represented by “s” and word tiles are represented by “z”. For example, 1 Man is 1m, 9 Pin is 9p, 5 Sou is 5s. East, South, West, North, White, Green and Red are 1z, 2z, 3z, 4z, 5z, 6z and 7z accordingly. Special “Red” 5 Man is 0m, Red 5 Pin is 0p, Red 5 Sou is 0s. As such, each tile wall can be represented by a unique series of codes. For a tile wall of “8 Pin - 7 Sou - East - Red 5 Man”, the code will be 8p7s1z0m. Players can view tile walls in Log. A tile wall refers to the sequence of remaining tiles after all hands are drawn. Each tile wall displayed can be represented by a unique sequence using the method above. The tile wall code displayed at the bottom is generated using this method. \n 4.A common online MD5 encryption website can be accessed at http://tool.chinaz.com/tools/md5.aspx On the left box, enter the tile wall code obtained from step 3, then select “32 digit encryption (L)” in the center, you will find the corresponding MD5 code on the right. You can compare the MD5 code generated with the MD5 code provided in game. If they are the same, your tile wall was pre-determined from the moment it was generated. This is a proof that we have not modified it in any way. If the tile wall was tampered, the tiles issued would not match with the Log. The MD5 codes generated would not match either. \n Thank you for supporting Majsoul. We hope you enjoy the game and improve your skills every day.","Majsoul promises all games are randomly generated. At the beginning of each match, the tile wall is already pre-determined, so the tiles issued in each game will not be changed, or influenced by any external factor. To support this statement, we have introduced a MD5 verification system. \n The MD5 algorithm is a widely used cryptographic hash function. It converts the input bytes (tile wall sequence) into a series of hash value using an algorithm. MD5 is uni-directional, unique and chaotic. \n Uni-directional: The MD5 code generated cannot be reversed. Therefore, the MD5 code we provide cannot be decrypted. No one can see your tile wall in advance. (PS: Most MD5 hacking tools are brute-force attack tools. It will take millions of years before anyone hacks a tile wall.) \n Unique: Each input will only generate one unique MD5 code. \n Chaotic: Two tile wall sequences will have completely different MD5 codes even if there is only one different tile between them. \n The uniqueness and chaoticness ensure that tile walls cannot be modified. Otherwise, the MD5 code will significant change. \n MD5 verification steps:\n 1.In every match, players can click the Dora Indicator on the top left corner to view and record the tile wall MD5 code. Each flush of tile wall generates one set of MD5 code. \n 2.After a match, players can go to Log and verify if the MD5 code in each game (recorded in the Log) against the value recorded when the game was played. The MD5 code obtained during the game should be consistent with the MD5 code in the Log. \n 3.Each tile has a unique code. “Man” tiles are represented by “m”, “Pin” tiles are represented by “p”, “Sou” tiles are represented by “s” and word tiles are represented by “z”. For example, 1 Man is 1m, 9 Pin is 9p, 5 Sou is 5s. East, South, West, North, White, Green and Red are 1z, 2z, 3z, 4z, 5z, 6z and 7z accordingly. Special “Red” 5 Man is 0m, Red 5 Pin is 0p, Red 5 Sou is 0s. As such, each tile wall can be represented by a unique series of codes. For a tile wall of “8 Pin - 7 Sou - East - Red 5 Man”, the code will be 8p7s1z0m. Players can view tile walls in Log. A tile wall refers to the sequence of remaining tiles after all hands are drawn. Each tile wall displayed can be represented by a unique sequence using the method above. The tile wall code displayed at the bottom is generated using this method. \n 4.A common online MD5 encryption website can be accessed at http://tool.chinaz.com/tools/md5.aspx On the left box, enter the tile wall code obtained from step 3, then select “32 digit encryption (L)” in the center, you will find the corresponding MD5 code on the right. You can compare the MD5 code generated with the MD5 code provided in game. If they are the same, your tile wall was pre-determined from the moment it was generated. This is a proof that we have not modified it in any way. If the tile wall was tampered, the tiles issued would not match with the Log. The MD5 codes generated would not match either. \n Thank you for supporting Majsoul. We hope you enjoy the game and improve your skills every day."
+mj/live_broadcast|0|1,Watch,Watch
+mj/live_broadcast|0|2|0|0,Show Hands,Show Hands
+mj/live_broadcast|0|3|0|0,Deal-in Tile,Deal-in Tile
+mj/live_broadcast|0|4|0|0,View log,View log
+mj/live_broadcast|1,Real-time spectating,Real-time spectating
+mj/ob_replay|0|9|2,Turn,Turn
+mj/ob_replay|1|1|0|2|4,Repeat Counter,Repeat Counter
+mj/ob_replay|1|1|0|4|1,Tsumo,Tsumo
+mj/ob_replay|1|1|0|5|1,Deal-in,Deal-in
+mj/ob_replay|2|1|0|2,Turn,Turn
+mj/replay|1|9|2,Turn,Turn
+mj/replay|1|13|1,Wall,Wall
+mj/replay|2|1|0|2|4,Repeat Counter,Repeat Counter
+mj/replay|2|1|0|3,Exhaustive Draw,Exhaustive Draw
+mj/replay|2|1|0|5|1,Deal-in,Deal-in
+mj/replay|3|1|0|2,Turn,Turn
+mj/replay|4|1,Log,Log
+mj/replay|4|2|0|0,Show Hands,Show Hands
+mj/replay|4|3|0|0,Deal-in Tile,Deal-in Tile
+mj/replay|4|4|0|0,Effect Display,Effect Display
+mj/replay|4|5|0|0,Show Nickname,Show Nickname
+mj/replay|5|0|0|1|1,Wall Code:,Wall Code:
+mj/rewardprogress|1|0,Bond,Bond
+mj/rewardprogress|2|1,Bond Gift,Bond Gift
+mj/scorechange|6|3,Confirm,Confirm
+mj/tingpai|0|2|0|1|0,Furiten,Furiten
+mj/tingpai|0|2|1|1|0,Furiten,Furiten
+mj/tingpai|0|2|2|1|0,Furiten,Furiten
+mj/tingpai|0|2|3|1|0,Furiten,Furiten
+mj/tingpai|0|2|4|1|0,Furiten,Furiten
+mj/tingpai|0|2|5|1|0,Furiten,Furiten
+mj/tingpai|0|2|6|1|0,Furiten,Furiten
+mj/tingpai|0|2|7|1|0,Furiten,Furiten
+mj/tingpai|0|2|8|1|0,Furiten,Furiten
+mj/tingpai|0|2|9|1|0,Furiten,Furiten
+mj/tingpai|0|2|10|1|0,Furiten,Furiten
+mj/tingpai|0|2|11|1|0,Furiten,Furiten
+mj/tingpai|0|2|12|1|0,Furiten,Furiten
+mj/tingpai|0|2|13|1|0,Furiten,Furiten
+mj/tingpai|0|2|14|1|0,Furiten,Furiten
+mj/vote|0|2,Match End,Match End
+mj/vote|0|3,Are you sure to vote to end the match?,Are you sure to vote to end the match?
+mj/vote|0|4,(The match will end once all players agree.),(The match will end once all players agree.)
+mj/vote|0|5|0,Confirm,Confirm
+mj/vote|0|6|0,Cancel,Cancel
+mj/vote_cd|0|2,Match End,Match End
+mj/vote_cd|0|3,"Last vote was not agreed by all the players, please start the next vote after 5 minutes.","Last vote was not agreed by all the players, please start the next vote after 5 minutes."
+mj/vote_cd|0|5|0,Confirm,Confirm
+mj/vote_progress|0|2,Match End,Match End
+mj/vote_progress|0|3|0,Agree,Agree
+mj/vote_progress|0|4|0,Disagree,Disagree
+mj/win|1|6|0|1,Mangan at Draw,Mangan at Draw
+mj/win|1|15|3,Confirm,Confirm
+mj/win|1|19|0,Event Points：,Event Points：
+mj/win|1|19|3,排名点数：,排名点数：

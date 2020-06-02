@@ -1,4 +1,4 @@
-﻿path,target,translated
+﻿location,source,target,translator_comments,developer_comments
 both_ui/bind_yostar_mail|0|5|0,Send code,코드 전송
 both_ui/bind_yostar_mail|0|6|0,Bind,연결
 both_ui/config|0|2,Settings,설정
