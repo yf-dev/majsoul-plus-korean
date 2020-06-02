@@ -29,7 +29,7 @@ def main(translation_path, temp_path):
                     translate_sheet_rows.append('|'.join([
                         csv_path.name,
                         header[col_index],
-                        row[col_index]
+                        row[col_index].replace('\\', '\\\\').replace('\n', '\\n')
                     ]))
 
     # unique element
@@ -43,7 +43,7 @@ def main(translation_path, temp_path):
         csv_writer.writerow(['location', 'context', 'source', 'target', 'notes', 'developer comments'])
         for row in translate_sheet_rows:
             r = row.split('|')
-            csv_writer.writerow(r + [r[2]])
+            csv_writer.writerow(r + [r[2], None, None])
 
 if __name__ == '__main__':
     main(

@@ -1,5 +1,6 @@
 #! /usr/bin/python
 import csv
+import re
 from pathlib import Path
 import os
 lang = os.getenv('MAJSOUL_LANG', 'en')
@@ -16,8 +17,8 @@ def main(translation_path, temp_path):
             try:
                 sheet_path = row[0]
                 header = row[1]
-                target = row[2]
-                translated = row[3]
+                target = re.sub(r'([^\\])\\n', r'\1\n', row[2]).replace('\\\\', '\\')
+                translated = re.sub(r'([^\\])\\n', r'\1\n', row[3]).replace('\\\\', '\\')
                 sheet_data = []
                 fieldnames = []
                 with open(temp_path / 'csv' / sheet_path, 'r', encoding='utf-8-sig') as sheetfile:

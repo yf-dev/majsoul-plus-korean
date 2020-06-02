@@ -1,6 +1,7 @@
 #! /usr/bin/python
 import csv
 from pathlib import Path
+import re
 import json
 import os
 lang = os.getenv('MAJSOUL_LANG', 'en') 
@@ -37,8 +38,8 @@ def main(original_assets_path, translation_path, dist_path):
                 is_header = False
                 continue
             path = row[0]
-            target = row[1]
-            translated = row[2]
+            target = re.sub(r'([^\\])\\n', r'\1\n', row[1]).replace('\\\\', '\\')
+            translated = re.sub(r'([^\\])\\n', r'\1\n', row[2]).replace('\\\\', '\\')
 
             node = None
             try:

@@ -1,904 +1,904 @@
-﻿location,source,target,translator_comments,developer_comments
-both_ui/bind_yostar_mail|0|5|0,Send code,코드 전송
-both_ui/bind_yostar_mail|0|6|0,Bind,연결
-both_ui/config|0|2,Settings,설정
-both_ui/config|0|4|1,Log Out,로그아웃
-both_ui/config|0|5|1,Restart Now,지금 재시작
-both_ui/config|0|7|0|0|1,BGM,BGM
-both_ui/config|0|7|0|0|2|0,BGM,BGM
-both_ui/config|0|7|0|0|3|0|0,Lobby BGM,로비 BGM
-both_ui/config|0|7|0|0|3|0|6|0|0|3,Playlist loop,재생목록 반복
-both_ui/config|0|7|0|0|3|0|6|1|0|3,Random,랜덤
-both_ui/config|0|7|0|0|3|1|0,In-match BGM,게임중 BGM
-both_ui/config|0|7|0|0|3|1|6|0|0|3,Playlist loop,재생목록 반복
-both_ui/config|0|7|0|0|3|1|6|1|0|3,Random,랜덤
-both_ui/config|0|7|0|0|4|0,SE,SE
-both_ui/config|0|7|0|0|5|0,Riichi BGM,리치 BGM
-both_ui/config|0|7|0|0|6|0,Voice,음성
-both_ui/config|0|7|0|0|8|0,SP Voice,SP 음성
-both_ui/config|0|7|0|1|0|0|3,High FPS mode,고사양 모드
-both_ui/config|0|7|0|1|1|0|3,Power saving mode,저사양 모드
-both_ui/config|0|7|0|1|3,Mode,모드
-both_ui/config|0|7|0|1|4,(Changes will take effect after restarting the game),(변경사항은 게임을 재시작한 뒤 에 적용됩니다)
-both_ui/config|0|7|1|0|0,Control,조작
-both_ui/config|0|7|1|0|1,Playing Tiles,타패
-both_ui/config|0|7|1|0|2|0|3,Single tap,한번 탭
-both_ui/config|0|7|1|0|3|0|3,Double tap,두번 탭
-both_ui/config|0|7|1|0|4|0|3,Double to pass & discard,두번 탭하여 넘기기 및 버리기
-both_ui/config|0|7|1|1|0,Message,메시지
-both_ui/config|0|7|1|1|2|0|3,Anybody,누구나
-both_ui/config|0|7|1|1|3|0|3,Friends only,친구만
-both_ui/config|0|7|1|1|4|0|3,Forbid all,모두 금지
-both_ui/config|0|7|1|2|0,TileSet,타일셋
-both_ui/config|0|7|1|2|1,(Can only be set at homepage),(홈페이지에서만 설정 가능)
-both_ui/config|0|7|2|0|0,Voice,음성
-both_ui/config|0|7|3|0|0,Other,기타
-both_ui/config|0|7|3|0|2|1,Gift Code,선물 코드
-both_ui/config|0|7|3|0|3|1,View Yaku,역 보기
-both_ui/config|0|7|3|0|5|0|1,Contact Us,문의하기
-both_ui/config|0|7|3|0|5|1|1,TERMS OF SERVICE,이용 약관
-both_ui/config|0|7|3|0|5|2|1,PRIVACY POLICY,개인정보취급방침
-both_ui/config|0|7|3|1|1|1|0,Not Verified,인증되지 않음
-both_ui/config|0|7|3|1|1|2,(Tap to get verified),(탭하여 인증)
-both_ui/config|0|7|3|3|0,Account settings,계정 설정
-both_ui/config|0|7|3|3|2|0,Account Binding：,계정 연결：
-both_ui/config|0|7|3|3|2|1|0|0,Not Bound,연결되지 않음
-both_ui/config|0|7|3|3|2|1|0|1,(Tap to bind),(탭하여 연결)
-both_ui/config|0|7|3|3|2|2|1,(Tap to unbind),(탭하여 연결 해제)
-both_ui/config|0|8|0|0,Others,기타
-both_ui/config|0|8|1|0,Voice,음성
-both_ui/config|0|8|2|0,Preference,환경설정
-both_ui/config|0|8|3|0,General,일반
-both_ui/getreward|0|3,Tap to close,탭하여 닫기
-both_ui/gettitle|0|2,Added to titles,타이틀에 추가됨
-both_ui/gitfcode|0|2,Gift Code,선물 코드
-both_ui/gitfcode|0|3,Enter a Gift Code to claim rewards,보상 신청을 위해 선물 코드 입력
-both_ui/gitfcode|0|5|0,Confirm,확인
-both_ui/infolite|0|2|0,Confirm,확인
-both_ui/infolite_title|0|2|0,Confirm,확인
-both_ui/invite|0|1|0|0,Mute this for 5m,5분 동안 음소거
-both_ui/invite|0|2|0|0,Cancel,취소
-both_ui/invite|0|3|0|0,Join,참가
-both_ui/invite|0|4,Invites you to join,참가 요청
-both_ui/invite|0|8,Auto-cancel after 3 minutes,3분 뒤 자동 취소
-both_ui/itemdetail|0|6|0,Open,열기
-both_ui/itemdetail|0|7|0,How to get,획득 방법
-both_ui/otherplayerinfo|0|2|1|1,Add,친구 추가
-both_ui/otherplayerinfo|0|2|5|1|0,Friendly Match,친선전
-both_ui/otherplayerinfo|0|2|5|2|0,Ranked Match,단위전
-both_ui/otherplayerinfo|0|2|6|1|0|0|0,Recent High Score,최근 고득점
-both_ui/otherplayerinfo|0|2|6|1|0|3,No record available. Good luck!,기록이 없습니다. 행운을 빌어요!
-both_ui/otherplayerinfo|0|2|6|1|1|0,ATK,공격
-both_ui/otherplayerinfo|0|2|6|1|1|2,DEF,수비
-both_ui/otherplayerinfo|0|2|6|1|1|4,SPD,속도
-both_ui/otherplayerinfo|0|2|6|1|1|6,LUK,행운
-both_ui/otherplayerinfo|0|2|6|1|1|8|0,ATK,공격
-both_ui/otherplayerinfo|0|2|6|1|1|8|1,DEF,수비
-both_ui/otherplayerinfo|0|2|6|1|1|8|2,SPD,속도
-both_ui/otherplayerinfo|0|2|6|1|1|8|3,LUK,행운
-both_ui/otherplayerinfo|0|2|6|1|1|9|0,Play Style,플레이 경향
-both_ui/otherplayerinfo|0|2|6|1|2|6|0,Rank,순위
-both_ui/otherplayerinfo|0|2|6|1|2|7|0,Rank,순위
-both_ui/otherplayerinfo|0|2|6|1|2|8|0,Rank,순위
-both_ui/otherplayerinfo|0|2|6|1|2|9|0,Rank,순위
-both_ui/otherplayerinfo|0|2|6|1|2|10|0,Trends,트렌드
-both_ui/otherplayerinfo|0|2|6|1|3|0|0,Detailed Info,상세 정보
-both_ui/otherplayerinfo|0|2|6|1|4|0|2,East Round,동풍전
-both_ui/otherplayerinfo|0|2|6|1|4|1|0,1st,1위
-both_ui/otherplayerinfo|0|2|6|1|4|1|2,2nd,2위
-both_ui/otherplayerinfo|0|2|6|1|4|1|4,3rd,3위
-both_ui/otherplayerinfo|0|2|6|1|4|1|6|0,4th,4위
-both_ui/otherplayerinfo|0|2|6|1|4|1|7|0,Negative,들통
-both_ui/otherplayerinfo|0|2|6|1|4|1|8,Total Played,총 플레이 횟수
-both_ui/otherplayerinfo|0|2|6|1|4|1|10,Avg Score,평균 점수
-both_ui/otherplayerinfo|0|2|6|1|4|1|12,Avg Rank,평균 순위
-both_ui/otherplayerinfo|0|2|6|1|4|1|14,Max Repeats,최대 연장
-both_ui/otherplayerinfo|0|2|6|1|4|1|16,Avg Turns,평균 화료순
-both_ui/otherplayerinfo|0|2|6|1|4|1|18,Win Rate,화료율
-both_ui/otherplayerinfo|0|2|6|1|4|1|20,Tsumo Rate,쯔모율
-both_ui/otherplayerinfo|0|2|6|1|4|1|22,Deal-in Rate,방총률
-both_ui/otherplayerinfo|0|2|6|1|4|1|24,Call Rate,후로율
-both_ui/otherplayerinfo|0|2|6|1|4|1|26,Riichi Rate,리치율
-both_ui/otherplayerinfo|0|2|6|1|5|0|2,South Round,반장전
-both_ui/otherplayerinfo|0|2|6|1|5|1|0,1st,1위
-both_ui/otherplayerinfo|0|2|6|1|5|1|2,2nd,2위
-both_ui/otherplayerinfo|0|2|6|1|5|1|4,3rd,3위
-both_ui/otherplayerinfo|0|2|6|1|5|1|6|0,4th,4위
-both_ui/otherplayerinfo|0|2|6|1|5|1|7|0,Negative,들통
-both_ui/otherplayerinfo|0|2|6|1|5|1|8,Total Played,총 플레이 횟수
-both_ui/otherplayerinfo|0|2|6|1|5|1|10,Avg Score,평균 점수
-both_ui/otherplayerinfo|0|2|6|1|5|1|12,Avg Rank,평균 순위
-both_ui/otherplayerinfo|0|2|6|1|5|1|14,Max Repeats,최대 연장
-both_ui/otherplayerinfo|0|2|6|1|5|1|16,Avg Turns,평균 화료순
-both_ui/otherplayerinfo|0|2|6|1|5|1|18,Win Rate,화료율
-both_ui/otherplayerinfo|0|2|6|1|5|1|20,Tsumo Rate,쯔모율
-both_ui/otherplayerinfo|0|2|6|1|5|1|22,Deal-in Rate,방총률
-both_ui/otherplayerinfo|0|2|6|1|5|1|24,Call Rate,후로율
-both_ui/otherplayerinfo|0|2|6|1|5|1|26,Riichi Rate,리치율
-both_ui/otherplayerinfo|0|2|6|1|6|0|2,Yaku Achieved,달성한 역
-both_ui/otherplayerinfo|0|2|6|1|7|0|2,Local Yaku Achieved,달성한 로컬역
-both_ui/otherplayerinfo|0|3|1,Empty,비어있음
-both_ui/otherplayerinfo|0|3|3|0|0,Send,전송
-both_ui/otherplayerinfo|0|3|4,This player only allows friends to leave messages,이 플레이어에게는 친구만 메시지를 전송할 수 있습니다
-both_ui/otherplayerinfo|0|3|6|1|4|0|0,Recently used,최근 사용
-both_ui/otherplayerinfo|0|3|6|1|4|0|2,All,전체
-both_ui/otherplayerinfo|0|3|8|2,No signature yet,서명 없음
-both_ui/otherplayerinfo|0|3|8|3,Signature,서명
-both_ui/otherplayerinfo|0|5|0,4-Player,4인
-both_ui/otherplayerinfo|0|6|0,3-Player,3인
-both_ui/otherplayerinfo|0|7|0,Message,메시지
-both_ui/otherplayerinfo_en|0|2|1|1,Add,친구 추가
-both_ui/otherplayerinfo_en|0|2|5|1|0,Friendly Match,친선전
-both_ui/otherplayerinfo_en|0|2|5|2|0,Ranked Match,단위전
-both_ui/otherplayerinfo_en|0|2|6|1|0|0|0,Recent High Score,최근 고득점
-both_ui/otherplayerinfo_en|0|2|6|1|0|3,No record available. Good luck!,기록이 없습니다. 행운을 빌어요!
-both_ui/otherplayerinfo_en|0|2|6|1|1|0,ATK,공격
-both_ui/otherplayerinfo_en|0|2|6|1|1|2,DEF,수비
-both_ui/otherplayerinfo_en|0|2|6|1|1|4,SPD,속도
-both_ui/otherplayerinfo_en|0|2|6|1|1|6,LUK,행운
-both_ui/otherplayerinfo_en|0|2|6|1|1|8|0,ATK,공격
-both_ui/otherplayerinfo_en|0|2|6|1|1|8|1,DEF,수비
-both_ui/otherplayerinfo_en|0|2|6|1|1|8|2,SPD,속도
-both_ui/otherplayerinfo_en|0|2|6|1|1|8|3,LUK,행운
-both_ui/otherplayerinfo_en|0|2|6|1|1|9|0,Play Style,플레이 경향
-both_ui/otherplayerinfo_en|0|2|6|1|2|6|0,Rank,순위
-both_ui/otherplayerinfo_en|0|2|6|1|2|7|0,Rank,순위
-both_ui/otherplayerinfo_en|0|2|6|1|2|8|0,Rank,순위
-both_ui/otherplayerinfo_en|0|2|6|1|2|9|0,Rank,순위
-both_ui/otherplayerinfo_en|0|2|6|1|2|10|0,Trends,트렌드
-both_ui/otherplayerinfo_en|0|2|6|1|3|0|0,Detailed Info,상세 정보
-both_ui/otherplayerinfo_en|0|2|6|1|4|0|2,East Round,동풍전
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|0,1st,1위
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|2,2nd,2위
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|4,3rd,3위
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|6|0,4th,4위
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|7|0,Negative,들통
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|8,Total Played,총 플레이 횟수
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|10,Avg Score,평균 점수
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|12,Avg Rank,평균 순위
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|14,Max Repeats,최대 연장
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|16,Avg Turns,평균 화료순
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|18,Win Rate,화료율
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|20,Tsumo Rate,쯔모율
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|22,Deal-in Rate,방총률
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|24,Call Rate,후로율
-both_ui/otherplayerinfo_en|0|2|6|1|4|1|26,Riichi Rate,리치율
-both_ui/otherplayerinfo_en|0|2|6|1|5|0|2,South Round,반장전
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|0,1st,1위
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|2,2nd,2위
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|4,3rd,3위
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|6|0,4th,4위
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|7|0,Negative,들통
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|8,Total Played,총 플레이 횟수
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|10,Avg Score,평균 점수
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|12,Avg Rank,평균 순위
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|14,Max Repeats,최대 연장
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|16,Avg Turns,평균 화료순
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|18,Win Rate,화료율
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|20,Tsumo Rate,쯔모율
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|22,Deal-in Rate,방총률
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|24,Call Rate,후로율
-both_ui/otherplayerinfo_en|0|2|6|1|5|1|26,Riichi Rate,리치율
-both_ui/otherplayerinfo_en|0|2|6|1|6|0|2,Yaku Achieved,달성한 역
-both_ui/otherplayerinfo_en|0|2|6|1|7|0|2,Local Yaku Achieved,달성한 로컬역
-both_ui/otherplayerinfo_en|0|3|1,Empty,비어있음
-both_ui/otherplayerinfo_en|0|3|3|0|0,Send,전송
-both_ui/otherplayerinfo_en|0|3|4,This player only allows friends to leave messages,이 플레이어에게는 친구만 메시지를 전송할 수 있습니다
-both_ui/otherplayerinfo_en|0|3|6|1|4|0|0,Recently used,최근 사용
-both_ui/otherplayerinfo_en|0|3|6|1|4|0|2,All,전체
-both_ui/otherplayerinfo_en|0|3|8|2,No signature yet,서명 없음
-both_ui/otherplayerinfo_en|0|3|8|3,Signature,서명
-both_ui/otherplayerinfo_en|0|5|0,4-Player,4인
-both_ui/otherplayerinfo_en|0|6|0,3-Player,3인
-both_ui/otherplayerinfo_en|0|7|0,Message,메시지
-both_ui/popwindow|0|4|0,Confirm,확인
-both_ui/popwindow|1|2|0,Confirm,확인
-both_ui/report_nickname|0|2,"If you have found any inappropriate information in the game, please contact our customer support.","게임 중 부적절한 행위를 발견했을 경우, 고객 지원부에 문의해주세요."
-both_ui/report_nickname|0|3|0,Report,신고
-both_ui/report_nickname|0|4|0,Cancel,취소
-both_ui/report_nickname|0|5,Report the nickname,닉네임 신고
-both_ui/report_success|0|2,We've received your report. Thank you for your contribution in making a better gaming environment!,신고가 접수되었습니다. 더 나은 게임 환경을 만드는데 기여해주셔서 감사합니다!
-both_ui/report_success|0|3|0,OK,OK
-both_ui/report_success|0|4,Reported successfully,성공적으로 신고됨
-both_ui/rules|1|1|0|0|2,1 Han,1판
-both_ui/rules|1|1|0|1|2,2 Han,2판
-both_ui/rules|1|1|0|2|2,3 Han,3판
-both_ui/rules|1|1|0|3|2,6 Han,6판
-both_ui/rules|1|1|0|4|2,Mangan,만관
-both_ui/rules|1|1|0|5|2,Yakuman,역만
-both_ui/rules|1|1|0|6|2,Double Yakuman,더블 역만
-both_ui/rules|1|1|0|7|2,Draw,유국
-both_ui/rules|1|1|1|0|0|2,Menzenchin Only,멘젠 한정
-both_ui/rules|1|4|0,Yaku Overview,역 요약
-both_ui/rules|1|5|0,Tutorial,튜토리얼
-both_ui/rules_en|1|1|0|0|2,1 Han,1판
-both_ui/rules_en|1|1|0|1|2,2 Han,2판
-both_ui/rules_en|1|1|0|2|2,3 Han,3판
-both_ui/rules_en|1|1|0|3|2,6 Han,6판
-both_ui/rules_en|1|1|0|4|2,Mangan,만관
-both_ui/rules_en|1|1|0|5|2,Yakuman,역만
-both_ui/rules_en|1|1|0|6|2,Double Yakuman,더블 역만
-both_ui/rules_en|1|1|0|7|2,Draw,유국
-both_ui/rules_en|1|1|1|0|0|2,Menzenchin Only,멘젠 한정
-both_ui/rules_en|1|4|0,Yaku Overview,역 요약
-both_ui/rules_en|1|5|0,Tutorial,튜토리얼
-both_ui/secondconfirm|0|3|0,Confirm,확인
-both_ui/secondconfirm|0|4|0,Cancel,취소
-both_ui/unbind_yostar_mail|0|2,Account Unbinding,계정 연결 해제
-both_ui/unbind_yostar_mail|0|5|0,Send code,코드 전송
-both_ui/unbind_yostar_mail|0|6|0,Unbind,연결 해제
-common/anotherlogin|0|2|0,Confirm,확인
-common/anotherlogin|0|3,Your account has been signed in on another location,계정이 다른 장소에서 로그인되었습니다
-common/closeapp|0|2,Do you wish to close the game?,게임을 종료하시겠습니까?
-common/closeapp|0|3|0,Confirm,확인
-common/closeapp|0|4|0,Cancel,취소
-common/disconnect|1|2,Connection lost. Trying to reconnect,연결이 끊어졌습니다. 재접속을 시도하고 있습니다
-common/errorinfo|1|3,"Oops, something is wrong with the program. Please refresh and enter the game again","이런, 뭔가 잘못됬습니다. 새로고침 후 다시 게임에 접속해주세요"
-common/errorinfo|1|4|1,Restart Now,지금 재시작
-common/guajichenfa|0|2|0,Confirm,확인
-common/hangup_logout|0|2|0,Confirm,확인
-common/hangup_logout|0|3,You have been AFK for a long time. The system has logged you out.,장시간 AFK 상태입니다. 시스템에서 로그아웃됩니다.
-common/preventaddiction|0|0,"You have now entered fatigue time and can only earn 50% of rewards from game. For your wellbeing, we suggest you log out from game and do some exercise.","""피로 시간""에 도달하여 이제 게임에서 50%의 보상만 받을 수 있습니다. 당신의 건강을 위해 게임에서 로그아웃하고 약간의 운동을 하는 것을 추천합니다."
-common/preventaddiction|0|1,You have entered unhealthy game time. We suggest you log out immediately and take a break. You cannot earn any rewards from game. Unhealthy game status will be lifted after you are offline for 5 hours.,"""건강에 해로운 시간""에 도달하였습니다. 즉시 로그아웃하고 휴식을 취하는 것이 좋습니다. 지금부터 게임에서 어떠한 보상도 얻을 수 없으며, 5시간동안 오프라인 상태로 유지하면 이 상태가 해제됩니다."
-common/preventaddiction|1|0,Cumulative online time,누적 온라인 시간
-common/reconnect|2,You have a match in progress,진행중인 경기가 있습니다
-common/reconnect|3|0,Reconnect,재접속
-common/shimingrenzheng|0|0|2,Real Name Authentication,실명 인증
-common/shimingrenzheng|0|1|1,Authentication,인증
-common/shimingrenzheng|0|2,"Dear user, according to the “Interim Measures for the Administration of Online Games”, you must go through real name authentication before playing this game.","""온라인 게임 관리를 위한 임시 조치""에 따라 게임을 플레이하시기 전 실명 인증이 필요합니다."
-common/shimingrenzheng|0|3,1.The ID info can only be submitted once and cannot be changed. Please enter with care.,1. ID 정보는 한 번만 제출할 수 있으며 변경할 수 없습니다. 주의해서 입력하십시오.
-common/shimingrenzheng|0|4,2.This info will only be used for real name authentication and will not be provided to any other third party.,2. 이 정보는 실명 인증에만 사용되며 제 3자에게는 제공되지 않습니다.
-common/shimingrenzheng|0|5,"3.IDs from mainland China, Hong Kong, Macao and Taiwan are supported.","3. 중국, 홍콩, 마카오, 대만의 ID가 지원됩니다."
-common/shimingrenzheng|0|6,Real name:,실명:
-common/shimingrenzheng|0|7,ID number:,ID 번호:
-common/user_xieyi|0|0|2,User Agreement,이용 약관
-common/user_xieyi|0|1|1,Accept,동의
-common/user_xieyi|0|3|1,Previous page,이전 페이지
-common/user_xieyi|0|4|1,Next page,다음 페이지
-entrance/account_prohibition|0|0|2|0,Confirm,확인
-entrance/choose_route|0|0|2,Please choose your server,서버를 선택하세요
-entrance/choose_route|0|0|3|0,Domestic route,국내 서버
-entrance/choose_route|0|0|4|1,Overseas route,해외 서버
-entrance/entrance|1|2|1|1|3,Remember me,계정 기억
-entrance/entrance|1|2|2|0,Login with:,로그인 :
-entrance/entrance|1|3,We recommend Chrome browser,크롬 브라우저를 추천합니다
-entrance/entrance|1|4|1,Logging in,로그인 중
-entrance/entrance|1|4|3|1,Log Out,로그아웃
-entrance/entrance|1|5|1,Add to Home,홈 화면에 추가
-entrance/entrance|2|0|0|2,Yostar Login,Yostar 로그인
-entrance/entrance|2|0|2|2,Unavailable,사용 불가
-entrance/entrance|2|0|4|2,Send Code,코드 전송
-entrance/entrance|2|0|5|4|0,Agree to the,동의: 
-entrance/entrance|2|0|5|4|1,TERMS OF SERVICE,서비스 약관
-entrance/entrance|2|0|5|4|2,and,및
-entrance/entrance|2|0|5|4|3,PRIVACY POLICY,개인정보 취급방침
-entrance/entrance|2|0|7,※Enter email address,※이메일 주소 입력
-entrance/entrance|2|0|8,※Enter the verification code sent to your email,※이메일로 전송된 인증 코드 입력
-entrance/error_info|0|0|2|0,Confirm,확인
-entrance/ios_webview_update|0|1,New update available in iOS. Please download from the official website.,iOS에서 사용할 수 있는 새 업데이트가 있습니다. 공식 웹 사이트에서 다운로드하십시오.
-entrance/maintenance|0|0|2|0,OK,OK
-lobby/activity|0|3|1|1|0|0,Claim,받기
-lobby/activity|0|3|1|2|0|0,Delete,삭제
-lobby/activity|0|3|2,No Mail,편지 없음
-lobby/activity|0|4|2,No Event,이벤트 없음
-lobby/activitys/activitybase|0|0|1|1|3,coppers,동전: 
-lobby/activitys/activitybase|0|0|1|1|4,Revival Tokens,부활 토큰
-lobby/activitys/activitybase|0|0|1|1|9,Claimed,받음
-lobby/activitys/activity_duanwu_rank|0|0|4,Claimed,받음
-lobby/activitys/activity_exchange|0|0|1|1|5|0|0,Redeem,교환
-lobby/activitys/activity_exchange|0|0|1|1|8,Claimed,받음
-lobby/activitys/activity_exchange_zhongxia|0|0|1|1|5|0|0,Redeem,교환
-lobby/activitys/activity_exchange_zhongxia|0|0|1|1|8,Claimed,받음
-lobby/activitys/activity_guoqing|0|0|12|0|1|1,/,/
-lobby/activitys/activity_jiuji|0|0,Revival Tokens,부활 토큰
-lobby/activitys/activity_jiuji|0|1|1|3,coppers,동전: 
-lobby/activitys/activity_jiuji|0|1|1|4,Revival Tokens,부활 토큰
-lobby/activitys/activity_jiuji|0|1|1|10,Claimed,받음
-lobby/activitys/activity_task|0|0|1|1|3,coppers,동전: 
-lobby/activitys/activity_task|0|0|1|1|8,Claimed,받음
-lobby/activitys/activity_tongbi_exchange|0|0|1|1|5|0|0,Redeem,교환
-lobby/activitys/activity_tongbi_exchange|0|0|1|1|8,Claimed,받음
-lobby/activitys/activity_wuyi_exchange|0|0|1|1|5|0|0,Redeem,교환
-lobby/activitys/activity_wuyi_exchange|0|0|1|1|8,Claimed,받음
-lobby/activitys/activity_wuyi_task|0|0|1|1|8,Claimed,반듬
-lobby/activitys/activity_yijidagong|0|4,Copper on the map,맵 위의 동전
-lobby/activitys/activity_yijidagong|0|13|0|1,+,+
-lobby/activitys/guoqing_popout|0|4|1,Claim,받기
-lobby/activitys/guoqing_popout|0|5|1,Confirm,확인
-lobby/add_room|0|2,Join Room #,참가할 방 번호
-lobby/add_room|0|3|0,Confirm,확인
-lobby/add_room|0|6|9|1,Clear,삭제
-lobby/bag|0|0|0|1,Outfit,의상
-lobby/bag|0|0|1|1,Decoration,장식
-lobby/bag|0|0|2|1,Gift,선물
-lobby/bag|0|0|3|1,Item,아이템
-lobby/bag|0|1|3|0,Donate,기부
-lobby/bag|0|1|6|0|0,Deselect All,모두 선택 해제
-lobby/bag|0|1|6|1|0,Back,뒤로가기
-lobby/bag|0|1|6|2|0,Donate,기부
-lobby/bag|0|1|6|3,Select the gift you would like to donate,기부하고자 하는 선물을 선택하세요
-lobby/bag|0|1|7,You can donate gifts to get Star Dust,선물 기부를 통해 별가루를 획득할 수 있습니다
-lobby/bag|0|3|0|0|0|0|3|2|0,Bond,인연
-lobby/bag|0|3|2|0,Display All,모두 표시
-lobby/bag|0|3|3,Empty,비어있음
-lobby/bag|1|0,Inventory,창고
-lobby/chang_nickname|0|2,Change Name,이름 변경
-lobby/chang_nickname|0|3|1,Name (1-14 chars),이름 (1-14자)
-lobby/chang_nickname|0|3|4,Unavailable,사용 불가
-lobby/chang_nickname|0|3|6|0,Require,필요
-lobby/chang_nickname|0|3|7,Cannot contain empty spaces and special characters,공백 및 특수문자 사용 불가
-lobby/chang_nickname|0|4|0,You can change your name once every 30 days.,30일에 한번 이름을 변경할 수 있습니다.
-lobby/chang_nickname|0|4|1,Your name can be changed after:,변경될 이름은 다음과 같습니다:
-lobby/chang_nickname|0|4|3,day(s),일
-lobby/checkhuiyu|0|2,Jade info,휘옥 정보
-lobby/checkhuiyu|0|3,Premium Jade:,프리미엄 휘옥:
-lobby/checkhuiyu|0|5,Free Jade:,무료 휘옥:
-lobby/checkhuiyu|0|7,Total:,합계:
-lobby/checkhuiyu|0|10|0,Confirm,확인
-lobby/checkhuiyu|0|11|0,Buy,구매
-lobby/checkpifuquan|0|2,Current Outfit Voucher status,현재 의상 교환권 정보
-lobby/checkpifuquan|0|3,Premium:,프리미엄:
-lobby/checkpifuquan|0|5,Free:,무료:
-lobby/checkpifuquan|0|7,Total:,합계:
-lobby/checkpifuquan|0|10|0,Confirm,확인
-lobby/checkpifuquan|0|11|0,Buy,구매
-lobby/create_room|0|0|1|0|1|0,4-Player,4인
-lobby/create_room|0|0|1|0|2|0,3-Player,3인
-lobby/create_room|0|0|1|1|1|0,1 Game,단판
-lobby/create_room|0|0|1|1|2|0,East Only,동풍전
-lobby/create_room|0|0|1|1|3|0,Two-Wind Match,반장전
-lobby/create_room|0|0|1|1|4|0,Vs AI,Vs AI
-lobby/create_room|0|0|1|2|1|0,3+5s,3+5s
-lobby/create_room|0|0|1|2|2|0,5+10s,5+10s
-lobby/create_room|0|0|1|2|3|0,5+20s,5+20s
-lobby/create_room|0|0|1|2|4|0,60+0s,60+0s
-lobby/create_room|0|0|1|5|1|0,Disable,비활성화
-lobby/create_room|0|0|1|5|2|0,Enable,활성화
-lobby/create_room|0|0|1|7|2,"Minimum points 100, maximum points 200000","최소 점수 100, 최대 점수 200000"
-lobby/create_room|0|0|1|8|2,"Minimum points 100, maximum points 200000.","최소 점수 100, 최대 점수 200000."
-lobby/create_room|0|0|1|8|3,"At ALL LAST, if the 1st-ranked player has less points than this value, the game will extend into South/West Round",최종국에서 1위 플레이어가 이 값보다 점수가 적으면 경기는 남/서장으로 연장됩니다
-lobby/create_room|0|0|1|9|1|0,Enable,활성화
-lobby/create_room|0|0|1|9|2|0,Disable,비활성화
-lobby/create_room|0|0|1|10|1|0,Disable,비활성화
-lobby/create_room|0|0|1|10|2|0,Enable,활성화
-lobby/create_room|0|0|1|11|1|0,No Red Five,적도라 없음
-lobby/create_room|0|0|1|11|2|0,3 Red Five,적도라 3개
-lobby/create_room|0|0|1|11|3|0,4 Red Five,적도라 4개
-lobby/create_room|0|0|1|12|1|0,Enable,활성화
-lobby/create_room|0|0|1|12|2|0,Disable,비활성화
-lobby/create_room|0|0|1|13|1|0,1 Han,1판
-lobby/create_room|0|0|1|13|2|0,2 Han,2판
-lobby/create_room|0|0|1|13|3|0,4 Han,4판
-lobby/create_room|0|0|1|14|1|0,Enable,활성화
-lobby/create_room|0|0|1|14|2|0,Disable,비활성화
-lobby/create_room|0|0|1|15|1|0,Off,끄기
-lobby/create_room|0|0|1|15|2|0,On,켜기
-lobby/create_room|0|0|1|16|1|0,Easy,쉬움
-lobby/create_room|0|0|1|16|2|0,Normal,일반
-lobby/create_room|0|0|1|17|1|0,Disable,비활성화
-lobby/create_room|0|0|1|17|2|0,Enable,활성화
-lobby/create_room|0|1|2,Create Room,방 만들기
-lobby/diamond_less|0|2,Insufficient Jade,휘옥 부족
-lobby/diamond_less|0|4|0,Buy,구매
-lobby/diamond_less|0|5|0,Cancel,취소
-lobby/diamond_less|0|6,Insufficient Jade ，Do you wish to Purchase ？,휘옥이 부족합니다. 구매하시겠습니까?
-lobby/force_update|0|2,"New updates detected, please try to restart your game",새로운 업데이트가 있습니다. 게임을 다시 시작해주세요.
-lobby/force_update|0|3|0,Confirm,확인
-lobby/friend|0|1|0,Friends,친구
-lobby/friend|1|1|0|0,Friend List,친구 목록
-lobby/friend|1|1|1|0,Application,애플리케이션
-lobby/friend|1|1|2|0,Search,검색
-lobby/friend|1|2|1|0,Search,검색
-lobby/friend|1|2|2|0|0|0|1|0,Add,추가
-lobby/friend|1|2|2|0|0|0|5,Applied,신청됨
-lobby/friend|1|2|2|0|0|1|1|0,Add,추가
-lobby/friend|1|2|2|0|0|1|5,Applied,신청됨
-lobby/friend|1|3|0|0|0|1|0,View,보기
-lobby/friend|1|3|0|0|0|2|0,Delete,삭제
-lobby/friend|1|3|0|0|0|8|0,Watch,관전
-lobby/friend|1|3|1,Your Friend List is Empty,친구 목록 비어있음
-lobby/friend|1|3|3,Friends:,친구:
-lobby/friend|1|4|0|0|0|1|0,View,보기
-lobby/friend|1|4|0|0|0|2|0,Accept,수락
-lobby/friend|1|4|0|0|0|3|0,Reject,거절
-lobby/friend|1|4|1,No friend application,친구 애플리케이션 없음
-lobby/friend|1|5|0,My ID:,내 ID:
-lobby/info|0|2,Info,정보
-lobby/lobby|3|1|0|0|0|0|3,Novice & Adept,초심자 & 작사
-lobby/lobby|3|1|0|0|1|0|3,Adept & Expert,작사 & 작걸
-lobby/lobby|3|1|0|0|2|0|3,Expert & Master,작걸 & 작호
-lobby/lobby|3|1|0|0|3|0|3,Master & Saint,작호 & 작성
-lobby/lobby|3|1|0|0|4|0|3,Saint & Above,작성 & 혼천
-lobby/lobby|3|2|0|0|3,Free,자유
-lobby/lobby|3|2|0|1|3,Free,자유
-lobby/lobby|3|4|0|0|0|2,Online:,온라인:
-lobby/lobby|3|4|0|0|0|4|0,Reserved,예약됨
-lobby/lobby|3|4|0|0|1|2,Online:,온라인:
-lobby/lobby|3|4|0|0|1|4|0,Reserved,예약됨
-lobby/lobby|3|4|0|0|2|2,Online:,온라인:
-lobby/lobby|3|4|0|0|2|4|0,Reserved,예약됨
-lobby/lobby|3|4|0|0|3|2,Online:,온라인:
-lobby/lobby|3|4|0|0|3|4|0,Reserved,예약됨
-lobby/lobby|5|3|0,Rank,순위
-lobby/lobby|5|4|0,Info,정보
-lobby/lobbychat|0|1|0|2|0|0,Send,보내기
-lobby/match_lobby|0|0,Lobby,로비
-lobby/match_lobby|1|0|1|0,Search,검색
-lobby/match_lobby|1|0|2|0,Enter Tournament ID,대회 ID 입력
-lobby/match_lobby|1|1|0,Followed only,팔로우 한정
-lobby/match_lobby|1|3|0|2,Followed,팔로우함
-lobby/match_lobby|1|3|0|5,Not started,시작되지 않음
-lobby/match_lobby|1|3|0|5|0,Start time:,시작 일시:
-lobby/match_lobby|1|3|0|7,In progress,진행중
-lobby/match_lobby|1|3|0|7|0,End time:,종료 일시:
-lobby/match_lobby|1|3|0|8,Ended,종료됨
-lobby/match_lobby|1|3|0|8|0,End time:,종료 일시:
-lobby/match_lobby|1|3|0|9|0|0,View,보기
-lobby/match_lobby|1|4,No tournaments,대회 없음
-lobby/match_lobby|1|7|0,My ID:,내 ID:
-lobby/match_lobby|2|0|5|0,Close,닫기
-lobby/match_lobby|2|0|6|0,Enter,입장
-lobby/match_room|0|0,Tournament,대회
-lobby/match_room|1|0|0|0,Home,홈
-lobby/match_room|1|0|1|0,Log,로그
-lobby/match_room|1|0|2|0,Watch,관전
-lobby/match_room|1|1|0|0|0|2,GM message,GM 메시지
-lobby/match_room|1|1|0|0|2|0|0,Send,전송
-lobby/match_room|1|1|0|1|0,Chat,채팅
-lobby/match_room|1|1|0|2|0,Notice,공지
-lobby/match_room|1|1|1|1,Time,일시
-lobby/match_room|1|1|1|2,Start time:,시작 일시:
-lobby/match_room|1|1|1|3,End time:,종료 일시:
-lobby/match_room|1|1|1|4,Rules,규칙
-lobby/match_room|1|1|1|5,My Ranking,내 순위
-lobby/match_room|1|1|1|8,Last 5 Matches Ranks:,최근 5경기:
-lobby/match_room|1|1|1|9,Matches Played:,플레이한 경기:
-lobby/match_room|1|1|1|10|0,Prepare for match,경기 준비
-lobby/match_room|1|1|1|11,Online:,온라인:
-lobby/match_room|1|1|1|13|0|0,Details,상세
-lobby/match_room|1|1|3|0,Set as Focus,포커스 지정
-lobby/match_room|1|3|1|0|1|4,Rank,순위
-lobby/match_room|1|3|1|0|2|4,Rank,순위
-lobby/match_room|1|3|1|0|3|4,Rank,순위
-lobby/match_room|1|3|1|0|4|4,Rank,순위
-lobby/match_room|1|3|1|0|6,Match Time,경기 일시
-lobby/match_room|1|3|1|0|7|0,View,보기
-lobby/match_room|1|3|1|0|8|0,Share,공유
-lobby/match_room|1|3|2|0,Other Logs,기타 로그
-lobby/match_room|2|0|3,Rule Details,상세 규칙
-lobby/match_room|2|0|4|0,Close,닫기
-lobby/match_room|2|1|3,Rule Details,상세 규칙
-lobby/match_room|2|1|4|0,Close,닫기
-lobby/match_room|3|0|2,Enter Log Number,로그 번호 입력
-lobby/match_room|3|0|3|0,Confirm,확인
-lobby/match_room|3|0|6|1,Anonymously Share,익명 공유
-lobby/match_room|4|0|2,Criteria not met,기준 미달
-lobby/match_room|4|0|3,You are not eligible to participate in this tournament. Unable to start match,이 대회에 참가할 자격이 없습니다. 경기를 시작할 수 없습니다.
-lobby/match_room|4|0|4|0,Close,닫기
-lobby/nickname|0|2,Name Your Character,캐릭터 이름
-lobby/nickname|0|4,Name (1-14 chars),이름 (1-14자)
-lobby/nickname|0|6,Available,사용가능
-lobby/nickname|0|7,Unavailable,사용불가
-lobby/nickname|0|8|1,Confirm,확인
-lobby/nickname|0|9,Cannot contain empty spaces and special characters,공백 및 특수문자 사용 불가
-lobby/nickname|0|10|1,Exit,나가기
-lobby/nickname|1|2,Tutorials,튜토리얼
-lobby/nickname|1|3,Welcome to Mahjong Soul!,작혼에 오신 것을 환영합니다!
-lobby/nickname|1|4,Name,이름
-lobby/nickname|1|5,Do you want to start a tutorial of Riichi Mahjong?,리치 마작 튜토리얼을 시작할까요?
-lobby/nickname|1|7|0|0,No,아니오
-lobby/nickname|1|8|0|0,Yes,예
-lobby/number_input|0|2,Join Room #,참가할 방 번호
-lobby/number_input|0|3|0,Confirm,확인
-lobby/number_input|0|6|9|1,Clear,삭제
-lobby/ob|0|0,No game info,게임 정보 없음
-lobby/ob|0|6|0,Show friends only,친구만 보기
-lobby/ob|0|7|1,Refresh,새로고침
-lobby/ob|1|0,Watch,관전
-lobby/openbox|1|3,Choose one gift,선물 하나를 선택하세요
-lobby/openbox|1|5|0,Confirm,확인
-lobby/page_sign_chs|1|1|1,Confirm,확인
-lobby/page_sign_chs|1|2|1,Sign-in,로그인
-lobby/page_sign_en|1|1|1,Confirm,확인
-lobby/page_sign_en|1|2|1,Sign-in,로그인
-lobby/page_sign_jp|1|1|1,Confirm,확인
-lobby/page_sign_jp|1|2|1,Sign-in,로그인
-lobby/paipu|0|1|0,Log,로그
-lobby/paipu|1|4|0|1|4,Rank,순위
-lobby/paipu|1|4|0|2|4,Rank,순위
-lobby/paipu|1|4|0|3|4,Rank,순위
-lobby/paipu|1|4|0|4|4,Rank,순위
-lobby/paipu|1|4|0|7|0,View,보기
-lobby/paipu|1|4|0|8|0,Share,공유
-lobby/paipu|1|5|0,Other Logs,다른 로그
-lobby/paipu|1|6,Collection Limit:,컬렉션 제한:
-lobby/paipu|1|7|0|1,Overview,요약
-lobby/paipu|1|7|1|1,Match,경기
-lobby/paipu|1|7|2|1,Friends,친구
-lobby/paipu|1|7|3|1,Tournament,대회
-lobby/paipu|1|7|4|1,Collection,컬렉션
-lobby/paipu|1|8,No record,기록 없음
-lobby/paipu|2|2,Enter Log Number,로그 번호 입력
-lobby/paipu|2|3|0,Confirm,확인
-lobby/paipu|2|6|1,Anonymously Share,익명 공유
-lobby/paipu|3|1|2,Log Collection,로그 컬렉션
-lobby/paipu|3|1|3|0,Collect,컬렉션에 추가
-lobby/paipu|3|1|5,Remarks are too long,메모가 너무 깁니다
-lobby/pifuquan_less|0|2,Insufficient Outfit Voucher,의상 교환권 부족
-lobby/pifuquan_less|0|4|0,Buy,구매
-lobby/pifuquan_less|0|5|0,Cancel,취소
-lobby/pifuquan_less|0|6,Insufficient Outfit Voucher，Do you wish to Purchase ？,의상 교환권이 부족합니다. 구매하시겠습니까?
-lobby/pipei|0|2,Ranked Match,단위전
-lobby/pipei|0|3,Finding opponents,다른 플레이어를 찾는 중
-lobby/pipei|0|4|0,Cancel,취소
-lobby/pipeichenggong|1|2,Match is ready,경기 준비됨
-lobby/pipeiyuyue|0|1,Matchmaking,경기 찾는 중
-lobby/playerinfo|1|1|0,4-Player,4인
-lobby/playerinfo|1|2|0,3-Player,3인
-lobby/playerinfo|1|3|0,Message,메시지
-lobby/playerinfo|1|4|1,Empty,비어있음
-lobby/playerinfo|1|4|2|0|8|1|0,Info,정보
-lobby/playerinfo|1|4|5|3,No signature yet,서명 없음
-lobby/playerinfo|1|4|5|4,Signature,서명
-lobby/playerinfo|1|5|2|1,Title Book,타이틀북
-lobby/playerinfo|1|5|3|1,Change Name,이름 변경
-lobby/playerinfo|1|5|6|1|0,Friendly Match,친선전
-lobby/playerinfo|1|5|6|2|0,Ranked Match,단위전
-lobby/playerinfo|1|5|7|1|0|0|0,Recent High Score,최근 고득점
-lobby/playerinfo|1|5|7|1|0|3,No record available. Good luck!,기록이 없습니다. 행운을 빌어요!
-lobby/playerinfo|1|5|7|1|1|0,ATK,공격
-lobby/playerinfo|1|5|7|1|1|2,DEF,수비
-lobby/playerinfo|1|5|7|1|1|4,SPD,속도
-lobby/playerinfo|1|5|7|1|1|6,LUK,행운
-lobby/playerinfo|1|5|7|1|1|8|0,ATK,공격
-lobby/playerinfo|1|5|7|1|1|8|1,DEF,수비
-lobby/playerinfo|1|5|7|1|1|8|2,SPD,속도
-lobby/playerinfo|1|5|7|1|1|8|3,LUK,행운
-lobby/playerinfo|1|5|7|1|1|9|0,Play Style,플레이 경향
-lobby/playerinfo|1|5|7|1|2|6|0,Rank,순위
-lobby/playerinfo|1|5|7|1|2|7|0,Rank,순위
-lobby/playerinfo|1|5|7|1|2|8|0,Rank,순위
-lobby/playerinfo|1|5|7|1|2|9|0,Rank,순위
-lobby/playerinfo|1|5|7|1|2|10|0,Trends,트렌드
-lobby/playerinfo|1|5|7|1|3|0|0,Detailed Info,상세 정보
-lobby/playerinfo|1|5|7|1|4|0|2,East Round,동풍전
-lobby/playerinfo|1|5|7|1|4|1|0,1st,1위
-lobby/playerinfo|1|5|7|1|4|1|2,2nd,2위
-lobby/playerinfo|1|5|7|1|4|1|4,3rd,3위
-lobby/playerinfo|1|5|7|1|4|1|6|0,4th,4위
-lobby/playerinfo|1|5|7|1|4|1|7|0,Negative,들통
-lobby/playerinfo|1|5|7|1|4|1|8,Total Played,총 플레이 횟수
-lobby/playerinfo|1|5|7|1|4|1|10,Avg Score,평균 점수
-lobby/playerinfo|1|5|7|1|4|1|12,Avg Rank,평균 순위
-lobby/playerinfo|1|5|7|1|4|1|14,Max Repeats,최대 연장
-lobby/playerinfo|1|5|7|1|4|1|16,Avg Turns,평균 화료순
-lobby/playerinfo|1|5|7|1|4|1|18,Win Rate,화료율
-lobby/playerinfo|1|5|7|1|4|1|20,Tsumo Rate,쯔모율
-lobby/playerinfo|1|5|7|1|4|1|22,Deal-in Rate,방총률
-lobby/playerinfo|1|5|7|1|4|1|24,Call Rate,후로율
-lobby/playerinfo|1|5|7|1|4|1|26,Riichi Rate,리치율
-lobby/playerinfo|1|5|7|1|5|0|2,South Round,반장전
-lobby/playerinfo|1|5|7|1|5|1|0,1st,1위
-lobby/playerinfo|1|5|7|1|5|1|2,2nd,2위
-lobby/playerinfo|1|5|7|1|5|1|4,3rd,3위
-lobby/playerinfo|1|5|7|1|5|1|6|0,4th,4위
-lobby/playerinfo|1|5|7|1|5|1|7|0,Negative,들통
-lobby/playerinfo|1|5|7|1|5|1|8,Total Played,총 플레이 횟수
-lobby/playerinfo|1|5|7|1|5|1|10,Avg Score,평균 점수
-lobby/playerinfo|1|5|7|1|5|1|12,Avg Rank,평균 순위
-lobby/playerinfo|1|5|7|1|5|1|14,Max Repeats,최대 연장
-lobby/playerinfo|1|5|7|1|5|1|16,Avg Turns,평균 화료순
-lobby/playerinfo|1|5|7|1|5|1|18,Win Rate,화료율
-lobby/playerinfo|1|5|7|1|5|1|20,Tsumo Rate,쯔모율
-lobby/playerinfo|1|5|7|1|5|1|22,Deal-in Rate,방총률
-lobby/playerinfo|1|5|7|1|5|1|24,Call Rate,후로율
-lobby/playerinfo|1|5|7|1|5|1|26,Riichi Rate,리치율
-lobby/playerinfo|1|5|7|1|6|0|2,Yaku Achieved,달성한 역
-lobby/playerinfo|1|5|7|1|7|0|2,Local Yaku Achieved,달성한 로컬역
-lobby/playerinfo_en|1|1|0,4-Player,4인
-lobby/playerinfo_en|1|2|0,3-Player,3인
-lobby/playerinfo_en|1|3|0,Message,메시지
-lobby/playerinfo_en|1|4|1,Empty,비어있음
-lobby/playerinfo_en|1|4|2|0|8|1|0,Info,정보
-lobby/playerinfo_en|1|4|5|3,No signature yet,서명 없음
-lobby/playerinfo_en|1|4|5|4,Signature,서명
-lobby/playerinfo_en|1|5|2|1,Title Book,타이틀북
-lobby/playerinfo_en|1|5|3|1,Change Name,이름 변경
-lobby/playerinfo_en|1|5|6|1|0,Friendly Match,친선전
-lobby/playerinfo_en|1|5|6|2|0,Ranked Match,단위전
-lobby/playerinfo_en|1|5|7|1|0|0|0,Recent High Score,최근 고득점
-lobby/playerinfo_en|1|5|7|1|0|3,No record available. Good luck!,기록이 없습니다. 행운을 빌어요!
-lobby/playerinfo_en|1|5|7|1|1|0,ATK,공격
-lobby/playerinfo_en|1|5|7|1|1|2,DEF,수비
-lobby/playerinfo_en|1|5|7|1|1|4,SPD,속도
-lobby/playerinfo_en|1|5|7|1|1|6,LUK,행운
-lobby/playerinfo_en|1|5|7|1|1|8|0,ATK,공격
-lobby/playerinfo_en|1|5|7|1|1|8|1,DEF,수비
-lobby/playerinfo_en|1|5|7|1|1|8|2,SPD,속도
-lobby/playerinfo_en|1|5|7|1|1|8|3,LUK,행운
-lobby/playerinfo_en|1|5|7|1|1|9|0,Play Style,플레이 경향
-lobby/playerinfo_en|1|5|7|1|2|6|0,Rank,순위
-lobby/playerinfo_en|1|5|7|1|2|7|0,Rank,순위
-lobby/playerinfo_en|1|5|7|1|2|8|0,Rank,순위
-lobby/playerinfo_en|1|5|7|1|2|9|0,Rank,순위
-lobby/playerinfo_en|1|5|7|1|2|10|0,Trends,트렌드
-lobby/playerinfo_en|1|5|7|1|3|0|0,Detailed Info,상세 정보
-lobby/playerinfo_en|1|5|7|1|4|0|2,East Round,동풍전
-lobby/playerinfo_en|1|5|7|1|4|1|0,1st,1위
-lobby/playerinfo_en|1|5|7|1|4|1|2,2nd,2위
-lobby/playerinfo_en|1|5|7|1|4|1|4,3rd,3위
-lobby/playerinfo_en|1|5|7|1|4|1|6|0,4th,4위
-lobby/playerinfo_en|1|5|7|1|4|1|7|0,Negative,들통
-lobby/playerinfo_en|1|5|7|1|4|1|8,Total Played,총 플레이 횟수
-lobby/playerinfo_en|1|5|7|1|4|1|10,Avg Score,평균 점수
-lobby/playerinfo_en|1|5|7|1|4|1|12,Avg Rank,평균 순위
-lobby/playerinfo_en|1|5|7|1|4|1|14,Max Repeats,최대 연장
-lobby/playerinfo_en|1|5|7|1|4|1|16,Avg Turns,평균 화료순
-lobby/playerinfo_en|1|5|7|1|4|1|18,Win Rate,화료율
-lobby/playerinfo_en|1|5|7|1|4|1|20,Tsumo Rate,쯔모율
-lobby/playerinfo_en|1|5|7|1|4|1|22,Deal-in Rate,방총률
-lobby/playerinfo_en|1|5|7|1|4|1|24,Call Rate,후로율
-lobby/playerinfo_en|1|5|7|1|4|1|26,Riichi Rate,리치율
-lobby/playerinfo_en|1|5|7|1|5|0|2,South Round,반장전
-lobby/playerinfo_en|1|5|7|1|5|1|0,1st,1위
-lobby/playerinfo_en|1|5|7|1|5|1|2,2nd,2위
-lobby/playerinfo_en|1|5|7|1|5|1|4,3rd,3위
-lobby/playerinfo_en|1|5|7|1|5|1|6|0,4th,4위
-lobby/playerinfo_en|1|5|7|1|5|1|7|0,Negative,들통
-lobby/playerinfo_en|1|5|7|1|5|1|8,Total Played,총 플레이 횟수
-lobby/playerinfo_en|1|5|7|1|5|1|10,Avg Score,평균 점수
-lobby/playerinfo_en|1|5|7|1|5|1|12,Avg Rank,평균 순위
-lobby/playerinfo_en|1|5|7|1|5|1|14,Max Repeats,최대 연장
-lobby/playerinfo_en|1|5|7|1|5|1|16,Avg Turns,평균 화료순
-lobby/playerinfo_en|1|5|7|1|5|1|18,Win Rate,화료율
-lobby/playerinfo_en|1|5|7|1|5|1|20,Tsumo Rate,쯔모율
-lobby/playerinfo_en|1|5|7|1|5|1|22,Deal-in Rate,방총률
-lobby/playerinfo_en|1|5|7|1|5|1|24,Call Rate,후로율
-lobby/playerinfo_en|1|5|7|1|5|1|26,Riichi Rate,리치율
-lobby/playerinfo_en|1|5|7|1|6|0|2,Yaku Achieved,달성한 역
-lobby/playerinfo_en|1|5|7|1|7|0|2,Local Yaku Achieved,달성한 로컬역
-lobby/pop_buy_multi|0|6|0,Buy,구매
-lobby/pop_buy_multi|0|7|0,Price,가격
-lobby/pop_buy_multi|0|8|0,Remaining,잔여
-lobby/pop_buy_multi|0|9,Refreshes once every month,매달 한번 갱신됩니다
-lobby/pop_buy_multi|0|10|0,Total Price,총 가격
-lobby/pop_buy_single|0|6|0,Buy,구매
-lobby/pop_buy_single|0|7|0,Total Price,총 가격
-lobby/rank|0|2|0|0|4,pt,pt
-lobby/rank|0|4|1|7,pt,pt
-lobby/rank|0|5|0|0,4-Player,4인
-lobby/rank|0|5|1|0,3-Player,3인
-lobby/recharge|0|0,Shop,상점
-lobby/recharge|1|0|0|0,Misc,잡화
-lobby/recharge|1|0|1|0,Wishing,기도의 소옥
-lobby/recharge|1|0|2|0,Star,별의 소옥
-lobby/recharge|1|0|3|0,Summon Shop,기원 상점
-lobby/recharge|1|0|4|0,Summon,기원
-lobby/recharge|1|2|0|1,Title,타이틀
-lobby/recharge|1|2|6|0,Current,현재
-lobby/recharge|1|2|8|0,Claim,받기
-lobby/recharge|1|2|9|0|1,Rewards,보상
-lobby/recharge|2|0|6|0,Buy,구매
-lobby/recharge|2|0|7|0,Total Price,총 가격
-lobby/shop|0|0|0|0,Outfit,의상
-lobby/shop|0|0|1|0,Fortune,소원의 소옥
-lobby/shop|0|0|2|0,Star,별의 소옥
-lobby/shop|0|0|3|0,Wishing,기도의 소옥
-lobby/shop|0|0|4|0,Misc,잡화
-lobby/shop|0|1|1|0|0,Refresh,새로고침
-lobby/shop|0|1|1|0|1|0,Refresh,새로고침
-lobby/shop|0|1|1|2,Can`t refresh anymore today,오늘은 더 이상 새로고침 할 수 없습니다
-lobby/shop|0|1|2|0,Duplicate characters will be converted into Wishing Stones,중복된 캐릭터는 기도의 소옥으로 전환됩니다
-lobby/shop|0|1|3|2,Duplicate decorations will be converted into Star Stones,중복된 장식은 별의 소옥으로 전환됩니다
-lobby/shop|0|1|4|1,Star Dust can be acquired by donating Gifts,별가루는 선물을 기부하여 얻을 수 있습니다
-lobby/shop|0|2|0|0|6|2|0,Purchase,구매
-lobby/shop|0|2|3,Sold Out,매진
-lobby/shop|1|0,Shop,상점
-lobby/shop_lobby_yulan|1|2|2|0,Buy,구매
-lobby/shop_pack_detail|0|5|0,Original Price:,기존 가격:
-lobby/shop_pack_detail|0|6|0,Discount Rate:,할인율:
-lobby/shop_pack_detail|0|7|0,Final Price:,최종 가격:
-lobby/shop_pack_detail|0|8|0,Buy,구매
-lobby/shop_pack_detail|0|9,Items contained in this pack,이 팩에 포함된 아이템
-lobby/shop_skin_yulan|2|0|2|0,Buy,구매
-lobby/sign|1|2,Daily Prayer,일간 기도
-lobby/sign|1|3|4|0,Day,일
-lobby/sign|1|3|4|1,Day,일
-lobby/sign|1|4|4|0,Day,일
-lobby/sign|1|4|4|1,Day,일
-lobby/sign|1|5|0,Claim,받기
-lobby/sign|1|5|2,Claimed,받음
-lobby/sushe_select|0|1|0|0,Character,캐릭터
-lobby/sushe_select|0|1|1|0,Decoration,장식
-lobby/sushe_select|0|4|0|2|0,In Use,사용중
-lobby/sushe_select|0|4|0|3|0|0,Use,사용하기
-lobby/sushe_select|0|4|0|4|0|0,Save,저장
-lobby/sushe_select|0|4|1|6|0,Empty,비어있음
-lobby/sushe_select|0|4|4|5|0,Empty,비어있음
-lobby/sushe_select|1|0,Dorm,숙소
-lobby/sushe_select_en|0|1|0|0,Character,캐릭터
-lobby/sushe_select_en|0|1|1|0,Decoration,장식
-lobby/sushe_select_en|0|4|0|2|0,In Use,사용중
-lobby/sushe_select_en|0|4|0|3|0|0,Use,사용하기
-lobby/sushe_select_en|0|4|0|4|0|0,Save,저장
-lobby/sushe_select_en|0|4|1|6|0,Empty,비어있음
-lobby/sushe_select_en|0|4|4|5|0,Empty,비어있음
-lobby/sushe_select_en|1|0,Dorm,숙소
-lobby/tangfang1|6|3|0,Confirm,확인
-lobby/titlebook|1|2,Title Book,타이틀북
-lobby/titlebook|1|3,Available,사용가능
-lobby/titlebook|1|6,Your Title Book is empty.,타이틀북이 비어있습니다.
-lobby/treasure|0|0|0,Summon 10 Times,10회 기원
-lobby/treasure|0|0|1,Get,받기
-lobby/treasure|0|0|3,"Chance to get characters, decorations or gifts","캐릭터, 장식, 선물을 받을 수 있음"
-lobby/treasure|0|0|5|0,Summon 10 Times,10회 기원
-lobby/treasure|0|1|0,Summon Once,1회 기원
-lobby/treasure|0|1|1,Get,받기
-lobby/treasure|0|1|3,"Chance to get characters, decorations or gifts","캐릭터, 장식, 선물을 받을 수 있음"
-lobby/treasure|0|1|5|0,Summon Once,1회 기원
-lobby/treasure|0|5|0,Overview,요약
-lobby/treasure|0|6|2|0,Redeem,교환
-lobby/treasure|1|0,Summon,기원 
-lobby/treasure|3|4,Select the character/item you would like to redeem,교환할 캐릭터/아이템을 선택하세요
-lobby/treasure|4|2|2|2|0,"Each time you summon, you can get 1",당신은 1번 기원할 때 마다 1개의 신앙(
-lobby/treasure|4|2|2|2|1,"(Faith), as well as all-new characters and decorations",)과 새로운 캐릭터와 장식을 얻을 수 있습니다.
-lobby/treasure|4|2|2|2|2,Chance to get characters: 5%,캐릭터 획득 확률: 5%
-lobby/treasure|4|2|2|2|2|0,Duplicate characters will be converted to Wishing Stones,중복된 캐릭터는 기도의 소옥으로 전환됩니다
-lobby/treasure|4|2|2|2|3,Chance to get decorations: 15%,장식 획득 확률: 15%
-lobby/treasure|4|2|2|2|3|0,Duplicate decorations will be converted into Star Stones,중복된 장식은 별의 소옥으로 전환됩니다
-lobby/treasure|4|2|2|2|4,Chance to get green gift/blue gift/purple gift:  24%/51%/5%,초록색/파란색/보라색 선물 획득 확률:  24%/51%/5%
-lobby/treasure|4|2|2|2|5,You will get at least 1 purple gift when you perform a 10-summon using Jade.,휘옥을 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다.
-lobby/treasure|4|2|2|3|0,"Each time you summon, you can get 1",당신은 1번 기원할 때 마다 1개의 신앙(
-lobby/treasure|4|2|2|3|1,"(Faith), as well as all-new characters and decorations",)과 새로운 캐릭터와 장식을 얻을 수 있습니다.
-lobby/treasure|4|2|2|3|2,Chance to get characters: 5%,캐릭터 획득 확률: 5%
-lobby/treasure|4|2|2|3|2|0,Duplicate characters will be converted to Wishing Stones,중복된 캐릭터는 기도의 소옥으로 전환됩니다
-lobby/treasure|4|2|2|3|3,Chance to summon new characters: 2.95%,새 캐릭터 획득 확률: 2.95%
-lobby/treasure|4|2|2|3|4,Chance to get decorations: 15%,장식 획득 확률: 15%
-lobby/treasure|4|2|2|3|4|0,Duplicate decorations will be converted into Star Stones,중복된 장식은 별의 소옥으로 전환됩니다
-lobby/treasure|4|2|2|3|5,Chance to get new effects: 7.35%,새 효과를 획득할 확률: 7.35%
-lobby/treasure|4|2|2|3|6,Chance to get green gift/blue gift/purple gift:  24%/51%/5%,초록색/파란색/보라색 선물 획득 확률:  24%/51%/5%
-lobby/treasure|4|2|2|3|7,New characters and effects are limited-time Rate Up,제한 기간까지 새 캐릭터와 효과 획득 확률 상승
-lobby/treasure|4|2|2|3|8,You will get at least 1 purple gift when you perform a 10-summon using Jade.,휘옥을 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다.
-lobby/treasure|4|3|1|2|0|0|0,Character Info,캐릭터 정보
-lobby/treasure|4|3|1|2|0|1|0,Height:,신장:
-lobby/treasure|4|3|1|2|0|1|2,Birthday:,생일:
-lobby/treasure|4|3|1|2|0|1|4,Age:,나이:
-lobby/treasure|4|3|1|2|0|1|6,Blood Type:,혈액형:
-lobby/treasure|4|3|1|2|0|1|8,CV:,CV:
-lobby/treasure|4|3|1|2|0|1|10,Hobby:,취미:
-lobby/treasure|4|3|1|2|0|1|12,Biography:,약력:
-lobby/treasure|4|3|1|2|0|2|0|0,Voice,음성
-lobby/treasure|4|3|1|2|0|2|1|0,Sample 1,샘플 1
-lobby/treasure|4|3|1|2|0|2|2|0,Sample 2,샘플 2
-lobby/treasure|4|3|1|2|0|2|3|0,Sample 3,샘플 3
-lobby/treasure|5|0|2,Insufficient Summon Stones,기원의 소옥 부족
-lobby/treasure|5|0|11|0,Confirm,확인
-lobby/treasure|5|0|12|0,Cancel,취소
-lobby/treasure|5|0|13,Do you wish to spend,사용하시겠습니까
-lobby/treasure|5|0|14,Jade,휘옥
-lobby/treasure|5|0|15,Purchase,구매
-lobby/treasure|5|0|16,Summon Stones?,기원의 소옥?
-lobby/treasure|6|0|2,Insufficient Jade,휘옥 부족
-lobby/treasure|6|0|4|0,Buy,구매
-lobby/treasure|6|0|5|0,Cancel,취소
-lobby/treasure|6|0|6,Insufficient Jade ，Do you wish to Purchase ？,휘옥이 부족합니다. 구매하시겠습니까?
-lobby/visit|0|2,Visit,방문
-lobby/visit|2|3|0,Info,정보
-lobby/visit|2|4|0,Voice,음성
-lobby/visit|2|5|0|0|0|0,Character Info,캐릭터 정보
-lobby/visit|2|5|0|0|1|0,Height:,신장:
-lobby/visit|2|5|0|0|1|2,Birthday:,생일:
-lobby/visit|2|5|0|0|1|4,Age:,나이:
-lobby/visit|2|5|0|0|1|6,Blood Type:,혈액형:
-lobby/visit|2|5|0|0|1|8,CV:,CV:
-lobby/visit|2|5|0|0|1|10,Hobby:,취미:
-lobby/visit|2|5|0|0|1|12,Biography:,약력:
-lobby/visit|2|5|0|0|3|0|0,Emoji,이모티콘
-lobby/visit|2|5|0|0|3|1|0|1|0,Bond,인연
-lobby/visit|2|5|1|1|0,Requires a 5-heart Bond,5하트 인연 필요
-lobby/visit|2|5|1|1|1|0|0,Gift,선물
-lobby/visit|2|5|1|2|0|0,Gift,선물
-lobby/visit|2|5|1|2|1,Daily gift attempt:,일간 선물 잔여수:
-lobby/visit|2|5|3|0|1,Bond,인연
-lobby/visit|2|5|3|1|1,Gift,선물
-lobby/visit|2|6|0|0,Voice,음성
-lobby/visit|2|7|0,Info,정보
-lobby/visit|2|8|0,Voice,음성
-lobby/visit|3|0|0,Change Outfit,의상 변경
-lobby/visit|3|0|2|0|0|2|3,Event,이벤트
-lobby/waitingroom|0|5|2,Room,방
-lobby/waitingroom|0|5|5,Room,방
-lobby/waitingroom|0|6|1|1,Invite,초대
-lobby/waitingroom|0|6|2|1,Add AI,AI 추가
-lobby/waitingroom|0|6|3|1,Rules,규칙
-lobby/waitingroom|0|6|4|1,Copy Link,링크 복사
-lobby/waitingroom|0|6|5|1,Change Decoration,장식 변경
-lobby/waitingroom|1|2,Copy the room link and send it to your friends,방 링크를 복사해서 친구에게 보내세요
-lobby/waitingroom|1|5|0,Copy,복사
-lobby/waitingroom|2|1|2|0|2|1|0,Invite,초대
-lobby/waitingroom|2|1|2|0|3,Invited,초대함
-lobby/waitingroom|2|1|2|0|5,In a match,경기중
-lobby/waitingroom|2|1|4,There are no friends to invite,초대할 친구가 없습니다
-lobby/waitingroom|3|1|1|0|0,Character,캐릭터
-lobby/waitingroom|3|1|1|1|0,Decoration,장식
-lobby/waitingroom|3|1|4|0|2|0,In Use,사용중
-lobby/waitingroom|3|1|4|0|3|0|0,Use,사용하기
-lobby/waitingroom|3|1|4|0|4|0|0,Save,저장
-lobby/waitingroom|3|1|4|1|6|0,Empty,비어있음
-lobby/waitingroom|3|1|4|4|5|0,Empty,비어있음
-lobby/waitingroom|3|1|5|1|1,Change Outfit,의상 변경
-lobby/waitob|0|2,Starting in:,시작까지 남은 시간:
-lobby/waitob|0|3|0,Confirm,확인
-lobby/waitob|0|5,Second,초
-mj/desktopInfo|12|2|1,Auto Arrange,자동 정렬
-mj/desktopInfo|12|2|4,A,정
-mj/desktopInfo|12|3|1,Auto Call Win,자동 화료
-mj/desktopInfo|12|3|4,R,화
-mj/desktopInfo|12|4|1,No Chii/Pon/Kan,치/펑/깡 금지
-mj/desktopInfo|12|4|4,C,울
-mj/desktopInfo|12|5|3,Auto Draw & Discard,자동 쯔모기리
-mj/desktopInfo|12|5|4,D,쯔
-mj/desktopInfo|13|5,Emoji,이모티콘
-mj/gameend|0|6,Match End,경기 종료
-mj/gameend|0|7|2,Added to titles,타이틀에 추가
-mj/gameend|0|8|2,Confirm,확인
-mj/gameend|0|9|2,Exit,나가기
-mj/gameend|0|10|2,Back to log,로그로 돌아가기
-mj/gamestop|1|2,Match paused. Please wait in patience,경기가 일시정지됨. 잠시만 기다려주세요
-mj/hangup_warn|1|2,The system has detected you are AFK. Auto Draw & Discard enabled.,시스템이 AFK를 감지했습니다. 자동 쯔모기리가 활성화됩니다.
-mj/hangup_warn|1|3|0,I'm back,복귀
-mj/info_md5|0|2|0,"Majsoul promises all games are randomly generated. At the beginning of each match, the tile wall is already pre-determined, so the tiles issued in each game will not be changed, or influenced by any external factor. To support this statement, we have introduced a MD5 verification system. \n The MD5 algorithm is a widely used cryptographic hash function. It converts the input bytes (tile wall sequence) into a series of hash value using an algorithm. MD5 is uni-directional, unique and chaotic. \n Uni-directional: The MD5 code generated cannot be reversed. Therefore, the MD5 code we provide cannot be decrypted. No one can see your tile wall in advance. (PS: Most MD5 hacking tools are brute-force attack tools. It will take millions of years before anyone hacks a tile wall.) \n Unique: Each input will only generate one unique MD5 code. \n Chaotic: Two tile wall sequences will have completely different MD5 codes even if there is only one different tile between them. \n The uniqueness and chaoticness ensure that tile walls cannot be modified. Otherwise, the MD5 code will significant change. \n MD5 verification steps:\n 1.In every match, players can click the Dora Indicator on the top left corner to view and record the tile wall MD5 code. Each flush of tile wall generates one set of MD5 code. \n 2.After a match, players can go to Log and verify if the MD5 code in each game (recorded in the Log) against the value recorded when the game was played. The MD5 code obtained during the game should be consistent with the MD5 code in the Log. \n 3.Each tile has a unique code. “Man” tiles are represented by “m”, “Pin” tiles are represented by “p”, “Sou” tiles are represented by “s” and word tiles are represented by “z”. For example, 1 Man is 1m, 9 Pin is 9p, 5 Sou is 5s. East, South, West, North, White, Green and Red are 1z, 2z, 3z, 4z, 5z, 6z and 7z accordingly. Special “Red” 5 Man is 0m, Red 5 Pin is 0p, Red 5 Sou is 0s. As such, each tile wall can be represented by a unique series of codes. For a tile wall of “8 Pin - 7 Sou - East - Red 5 Man”, the code will be 8p7s1z0m. Players can view tile walls in Log. A tile wall refers to the sequence of remaining tiles after all hands are drawn. Each tile wall displayed can be represented by a unique sequence using the method above. The tile wall code displayed at the bottom is generated using this method. \n 4.A common online MD5 encryption website can be accessed at http://tool.chinaz.com/tools/md5.aspx On the left box, enter the tile wall code obtained from step 3, then select “32 digit encryption (L)” in the center, you will find the corresponding MD5 code on the right. You can compare the MD5 code generated with the MD5 code provided in game. If they are the same, your tile wall was pre-determined from the moment it was generated. This is a proof that we have not modified it in any way. If the tile wall was tampered, the tiles issued would not match with the Log. The MD5 codes generated would not match either. \n Thank you for supporting Majsoul. We hope you enjoy the game and improve your skills every day.","작혼은 모든 게임이 무작위로 생성됨을 보장합니다. 각 경기가 시작될 때 패산이 미리 결정되어 있으므로 각 경기에서 쯔모하는 패는 변경되지 않으며, 어떠한 외부 요인에 의해서도 영향을 받지 않습니다. 이 진술을 뒷받침하기 위해 MD5 검증 시스템을 도입했습니다. \n MD5 알고리즘은 널리 사용되는 암호화 해시 기능입니다. 알고리즘을 사용하여 입력 바이트(패산 순서)를 일련의 해시 값으로 변환합니다. MD5는 혼돈스럽고 고유하며 단방향으로 동작합니다. \n 단방향: 생성된 MD5 코드는 복원할 수 없습니다. 따라서 작혼에서 제공하는 MD5 코드는 해독할 수 없으며 누구도 패산을 미리 볼 수 없습니다.(참고: 대부분의 MD5 해킹 도구는 무차별 대입 공격 도구입니다. 누군가가 패산을 해킹하려면 수백만 년이 걸릴 것입니다.) \n 고유: 각 입력(패산)은 하나의 고유한  MD5 코드만 생성합니다. \n 혼돈: 두 패산 순서는 서로 다른 패가 하나만 있어도 완전히 다른 MD5 코드를 갖습니다. \n 고유성과 혼돈성에 의해 패산이 수정되지 않았다는 것을 보장하며, 만약 수정됬을 경우 MD5 코드가 크게 변경될 것입니다. \n MD5 검증 단계: \n 1. 매 경기마다 플레이어는 좌측 상단의 도라 표시기를 클릭하여 패산 MD5 코드를 보고 기록할 수 있습니다. 패산이 생성될 때 마다 하나의 MD5 코드 세트가 생성됩니다. \n 2. 경기 후 플레이어는 로그로 이동하여 각 게임의 MD5 코드(로그에 기록됨)가 게임 플레이시 기록된 값과 일치하는지 비교할 수 있습니다. 게임 중에 얻은 MD5 코드는 로그의 MD5 코드와 일치해야 합니다. \n 3. 각 패마다 고유한 코드가 있습니다. 만수패는 ""m""으로, 통수패는 ""p""로, 삭수패는 ""s""로, 자패는 ""z""로 나타냅니다. 예를 들어 1만은 1m, 9통은 9p, 5삭은 5s입니다. 동,남,서,북,백,발,중은 1z, 2z, 3z, 4z, 5z, 6z, 7z 입니다. 특수한 적5만은 0m, 적5통은 0p. 적5삭은 0s입니다. 이와 같이 각각의 패산은 고유한 일련의 코드로 표시될 수 있습니다. ""8통-7삭-동-적5만"" 패산의 코드는 8p7s1z0m 입니다. 플레이어는 로그에서 패산을 볼 수 있습니다. 패산은 모든 모든 배패를 완료한 후 남은 패 순서를 말합니다. 표시되는 각 패는 위의 방법을 사용하여 고유한 시퀀스로 나타낼 수 있습니다. 하단에 표시되는 패산 코드는 이 방법으로 생성됩니다. \n 4. 일반적인 온라인 MD5 암호화 웹 사이트는 http://tool.chinaz.com/tools/md5.aspx 로 접속할 수 있습니다. 왼쪽 입력 상자에 3단계에서 얻은 패산 코드를 입력한 다음 가운데에서 ""32자리 암호화(L)""을 선택하면 오른쪽에 해당하는 MD5 코드가 표시됩니다. 생성된 MD5 코드를 게임에서 제공하는 MD5 코드와 비교할 수 있습니다. 만약 두 코드가 일치한다면 패산이 생성된 순간에 미리 결정되었다는 것입니다. 이것은 작혼이 어떤식으로든 패산을 수정하지 않았다는 증거입니다. 패산이 변조된 경우 쯔모한 패가 로그와 일치하지 않습니다. 생성된 MD5 코드도 일치하지 않습니다. \n 작혼을 지지해주셔서 감사합니다. 우리는 당신이 매일 게임을 즐기고 실력이 향상되기를 바랍니다."
-mj/live_broadcast|0|1,Watch,관전
-mj/live_broadcast|0|2|0|0,Show Hands,손패 보기
-mj/live_broadcast|0|3|0|0,Deal-in Tile,대기패
-mj/live_broadcast|0|4|0|0,View log,로그 보기
-mj/live_broadcast|1,Real-time spectating,실시간 관전
-mj/ob_replay|0|9|2,Turn,순
-mj/ob_replay|1|1|0|2|4,Repeat Counter,연장
-mj/ob_replay|1|1|0|4|1,Tsumo,쯔모
-mj/ob_replay|1|1|0|5|1,Deal-in,방총
-mj/ob_replay|2|1|0|2,Turn,순
-mj/replay|1|9|2,Turn,순
-mj/replay|1|13|1,Wall,패산
-mj/replay|2|1|0|2|4,Repeat Counter,연장
-mj/replay|2|1|0|3,Exhaustive Draw,유국
-mj/replay|2|1|0|5|1,Deal-in,방총
-mj/replay|3|1|0|2,Turn,순
-mj/replay|4|1,Log,로그
-mj/replay|4|2|0|0,Show Hands,손패 보기
-mj/replay|4|3|0|0,Deal-in Tile,대기패
-mj/replay|4|4|0|0,Effect Display,효과 표시
-mj/replay|4|5|0|0,Show Nickname,닉네임 표시
-mj/replay|5|0|0|1|1,Wall Code:,패산 코드:
-mj/rewardprogress|1|0,Bond,인연
-mj/rewardprogress|2|1,Bond Gift,인연 선물
-mj/scorechange|6|3,Confirm,확인
-mj/tingpai|0|2|0|1|0,Furiten,후리텐
-mj/tingpai|0|2|1|1|0,Furiten,후리텐
-mj/tingpai|0|2|2|1|0,Furiten,후리텐
-mj/tingpai|0|2|3|1|0,Furiten,후리텐
-mj/tingpai|0|2|4|1|0,Furiten,후리텐
-mj/tingpai|0|2|5|1|0,Furiten,후리텐
-mj/tingpai|0|2|6|1|0,Furiten,후리텐
-mj/tingpai|0|2|7|1|0,Furiten,후리텐
-mj/tingpai|0|2|8|1|0,Furiten,후리텐
-mj/tingpai|0|2|9|1|0,Furiten,후리텐
-mj/tingpai|0|2|10|1|0,Furiten,후리텐
-mj/tingpai|0|2|11|1|0,Furiten,후리텐
-mj/tingpai|0|2|12|1|0,Furiten,후리텐
-mj/tingpai|0|2|13|1|0,Furiten,후리텐
-mj/tingpai|0|2|14|1|0,Furiten,후리텐
-mj/vote|0|2,Match End,경기 종료
-mj/vote|0|3,Are you sure to vote to end the match?,경기 종료 투표를 하시겠습니까?
-mj/vote|0|4,(The match will end once all players agree.),(모든 플레이어가 동의하면 경기가 종료됩니다.)
-mj/vote|0|5|0,Confirm,확인
-mj/vote|0|6|0,Cancel,취소
-mj/vote_cd|0|2,Match End,경기 종료
-mj/vote_cd|0|3,"Last vote was not agreed by all the players, please start the next vote after 5 minutes.",최근 투표에서 모든 플레이어가 동의하지 않았습니다. 5분 뒤에 다시 투표해주세요.
-mj/vote_cd|0|5|0,Confirm,확인
-mj/vote_progress|0|2,Match End,경기 종료
-mj/vote_progress|0|3|0,Agree,동의
-mj/vote_progress|0|4|0,Disagree,동의하지 않음
-mj/win|1|6|0|1,Mangan at Draw,유국만관
-mj/win|1|15|3,Confirm,확인
-mj/win|1|19|0,Event Points：,이벤트 점수：
+﻿location,source,target,notes,developer comments
+both_ui/bind_yostar_mail|0|5|0,Send code,코드 전송,,
+both_ui/bind_yostar_mail|0|6|0,Bind,연결,,
+both_ui/config|0|2,Settings,설정,,
+both_ui/config|0|4|1,Log Out,로그아웃,,
+both_ui/config|0|5|1,Restart Now,지금 재시작,,
+both_ui/config|0|7|0|0|1,BGM,BGM,,
+both_ui/config|0|7|0|0|2|0,BGM,BGM,,
+both_ui/config|0|7|0|0|3|0|0,Lobby BGM,로비 BGM,,
+both_ui/config|0|7|0|0|3|0|6|0|0|3,Playlist loop,재생목록 반복,,
+both_ui/config|0|7|0|0|3|0|6|1|0|3,Random,랜덤,,
+both_ui/config|0|7|0|0|3|1|0,In-match BGM,게임중 BGM,,
+both_ui/config|0|7|0|0|3|1|6|0|0|3,Playlist loop,재생목록 반복,,
+both_ui/config|0|7|0|0|3|1|6|1|0|3,Random,랜덤,,
+both_ui/config|0|7|0|0|4|0,SE,SE,,
+both_ui/config|0|7|0|0|5|0,Riichi BGM,리치 BGM,,
+both_ui/config|0|7|0|0|6|0,Voice,음성,,
+both_ui/config|0|7|0|0|8|0,SP Voice,SP 음성,,
+both_ui/config|0|7|0|1|0|0|3,High FPS mode,고사양 모드,,
+both_ui/config|0|7|0|1|1|0|3,Power saving mode,저사양 모드,,
+both_ui/config|0|7|0|1|3,Mode,모드,,
+both_ui/config|0|7|0|1|4,(Changes will take effect after restarting the game),(변경사항은 게임을 재시작한 뒤 에 적용됩니다),,
+both_ui/config|0|7|1|0|0,Control,조작,,
+both_ui/config|0|7|1|0|1,Playing Tiles,타패,,
+both_ui/config|0|7|1|0|2|0|3,Single tap,한번 탭,,
+both_ui/config|0|7|1|0|3|0|3,Double tap,두번 탭,,
+both_ui/config|0|7|1|0|4|0|3,Double to pass & discard,두번 탭하여 넘기기 및 버리기,,
+both_ui/config|0|7|1|1|0,Message,메시지,,
+both_ui/config|0|7|1|1|2|0|3,Anybody,누구나,,
+both_ui/config|0|7|1|1|3|0|3,Friends only,친구만,,
+both_ui/config|0|7|1|1|4|0|3,Forbid all,모두 금지,,
+both_ui/config|0|7|1|2|0,TileSet,타일셋,,
+both_ui/config|0|7|1|2|1,(Can only be set at homepage),(홈페이지에서만 설정 가능),,
+both_ui/config|0|7|2|0|0,Voice,음성,,
+both_ui/config|0|7|3|0|0,Other,기타,,
+both_ui/config|0|7|3|0|2|1,Gift Code,선물 코드,,
+both_ui/config|0|7|3|0|3|1,View Yaku,역 보기,,
+both_ui/config|0|7|3|0|5|0|1,Contact Us,문의하기,,
+both_ui/config|0|7|3|0|5|1|1,TERMS OF SERVICE,이용 약관,,
+both_ui/config|0|7|3|0|5|2|1,PRIVACY POLICY,개인정보취급방침,,
+both_ui/config|0|7|3|1|1|1|0,Not Verified,인증되지 않음,,
+both_ui/config|0|7|3|1|1|2,(Tap to get verified),(탭하여 인증),,
+both_ui/config|0|7|3|3|0,Account settings,계정 설정,,
+both_ui/config|0|7|3|3|2|0,Account Binding：,계정 연결：,,
+both_ui/config|0|7|3|3|2|1|0|0,Not Bound,연결되지 않음,,
+both_ui/config|0|7|3|3|2|1|0|1,(Tap to bind),(탭하여 연결),,
+both_ui/config|0|7|3|3|2|2|1,(Tap to unbind),(탭하여 연결 해제),,
+both_ui/config|0|8|0|0,Others,기타,,
+both_ui/config|0|8|1|0,Voice,음성,,
+both_ui/config|0|8|2|0,Preference,환경설정,,
+both_ui/config|0|8|3|0,General,일반,,
+both_ui/getreward|0|3,Tap to close,탭하여 닫기,,
+both_ui/gettitle|0|2,Added to titles,타이틀에 추가됨,,
+both_ui/gitfcode|0|2,Gift Code,선물 코드,,
+both_ui/gitfcode|0|3,Enter a Gift Code to claim rewards,보상 신청을 위해 선물 코드 입력,,
+both_ui/gitfcode|0|5|0,Confirm,확인,,
+both_ui/infolite|0|2|0,Confirm,확인,,
+both_ui/infolite_title|0|2|0,Confirm,확인,,
+both_ui/invite|0|1|0|0,Mute this for 5m,5분 동안 음소거,,
+both_ui/invite|0|2|0|0,Cancel,취소,,
+both_ui/invite|0|3|0|0,Join,참가,,
+both_ui/invite|0|4,Invites you to join,참가 요청,,
+both_ui/invite|0|8,Auto-cancel after 3 minutes,3분 뒤 자동 취소,,
+both_ui/itemdetail|0|6|0,Open,열기,,
+both_ui/itemdetail|0|7|0,How to get,획득 방법,,
+both_ui/otherplayerinfo|0|2|1|1,Add,친구 추가,,
+both_ui/otherplayerinfo|0|2|5|1|0,Friendly Match,친선전,,
+both_ui/otherplayerinfo|0|2|5|2|0,Ranked Match,단위전,,
+both_ui/otherplayerinfo|0|2|6|1|0|0|0,Recent High Score,최근 고득점,,
+both_ui/otherplayerinfo|0|2|6|1|0|3,No record available. Good luck!,기록이 없습니다. 행운을 빌어요!,,
+both_ui/otherplayerinfo|0|2|6|1|1|0,ATK,공격,,
+both_ui/otherplayerinfo|0|2|6|1|1|2,DEF,수비,,
+both_ui/otherplayerinfo|0|2|6|1|1|4,SPD,속도,,
+both_ui/otherplayerinfo|0|2|6|1|1|6,LUK,행운,,
+both_ui/otherplayerinfo|0|2|6|1|1|8|0,ATK,공격,,
+both_ui/otherplayerinfo|0|2|6|1|1|8|1,DEF,수비,,
+both_ui/otherplayerinfo|0|2|6|1|1|8|2,SPD,속도,,
+both_ui/otherplayerinfo|0|2|6|1|1|8|3,LUK,행운,,
+both_ui/otherplayerinfo|0|2|6|1|1|9|0,Play Style,플레이 경향,,
+both_ui/otherplayerinfo|0|2|6|1|2|6|0,Rank,순위,,
+both_ui/otherplayerinfo|0|2|6|1|2|7|0,Rank,순위,,
+both_ui/otherplayerinfo|0|2|6|1|2|8|0,Rank,순위,,
+both_ui/otherplayerinfo|0|2|6|1|2|9|0,Rank,순위,,
+both_ui/otherplayerinfo|0|2|6|1|2|10|0,Trends,트렌드,,
+both_ui/otherplayerinfo|0|2|6|1|3|0|0,Detailed Info,상세 정보,,
+both_ui/otherplayerinfo|0|2|6|1|4|0|2,East Round,동풍전,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|0,1st,1위,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|2,2nd,2위,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|4,3rd,3위,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|6|0,4th,4위,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|7|0,Negative,들통,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|8,Total Played,총 플레이 횟수,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|10,Avg Score,평균 점수,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|12,Avg Rank,평균 순위,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|14,Max Repeats,최대 연장,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|16,Avg Turns,평균 화료순,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|18,Win Rate,화료율,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|20,Tsumo Rate,쯔모율,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|22,Deal-in Rate,방총률,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|24,Call Rate,후로율,,
+both_ui/otherplayerinfo|0|2|6|1|4|1|26,Riichi Rate,리치율,,
+both_ui/otherplayerinfo|0|2|6|1|5|0|2,South Round,반장전,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|0,1st,1위,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|2,2nd,2위,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|4,3rd,3위,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|6|0,4th,4위,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|7|0,Negative,들통,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|8,Total Played,총 플레이 횟수,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|10,Avg Score,평균 점수,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|12,Avg Rank,평균 순위,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|14,Max Repeats,최대 연장,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|16,Avg Turns,평균 화료순,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|18,Win Rate,화료율,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|20,Tsumo Rate,쯔모율,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|22,Deal-in Rate,방총률,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|24,Call Rate,후로율,,
+both_ui/otherplayerinfo|0|2|6|1|5|1|26,Riichi Rate,리치율,,
+both_ui/otherplayerinfo|0|2|6|1|6|0|2,Yaku Achieved,달성한 역,,
+both_ui/otherplayerinfo|0|2|6|1|7|0|2,Local Yaku Achieved,달성한 로컬역,,
+both_ui/otherplayerinfo|0|3|1,Empty,비어있음,,
+both_ui/otherplayerinfo|0|3|3|0|0,Send,전송,,
+both_ui/otherplayerinfo|0|3|4,This player only allows friends to leave messages,이 플레이어에게는 친구만 메시지를 전송할 수 있습니다,,
+both_ui/otherplayerinfo|0|3|6|1|4|0|0,Recently used,최근 사용,,
+both_ui/otherplayerinfo|0|3|6|1|4|0|2,All,전체,,
+both_ui/otherplayerinfo|0|3|8|2,No signature yet,서명 없음,,
+both_ui/otherplayerinfo|0|3|8|3,Signature,서명,,
+both_ui/otherplayerinfo|0|5|0,4-Player,4인,,
+both_ui/otherplayerinfo|0|6|0,3-Player,3인,,
+both_ui/otherplayerinfo|0|7|0,Message,메시지,,
+both_ui/otherplayerinfo_en|0|2|1|1,Add,친구 추가,,
+both_ui/otherplayerinfo_en|0|2|5|1|0,Friendly Match,친선전,,
+both_ui/otherplayerinfo_en|0|2|5|2|0,Ranked Match,단위전,,
+both_ui/otherplayerinfo_en|0|2|6|1|0|0|0,Recent High Score,최근 고득점,,
+both_ui/otherplayerinfo_en|0|2|6|1|0|3,No record available. Good luck!,기록이 없습니다. 행운을 빌어요!,,
+both_ui/otherplayerinfo_en|0|2|6|1|1|0,ATK,공격,,
+both_ui/otherplayerinfo_en|0|2|6|1|1|2,DEF,수비,,
+both_ui/otherplayerinfo_en|0|2|6|1|1|4,SPD,속도,,
+both_ui/otherplayerinfo_en|0|2|6|1|1|6,LUK,행운,,
+both_ui/otherplayerinfo_en|0|2|6|1|1|8|0,ATK,공격,,
+both_ui/otherplayerinfo_en|0|2|6|1|1|8|1,DEF,수비,,
+both_ui/otherplayerinfo_en|0|2|6|1|1|8|2,SPD,속도,,
+both_ui/otherplayerinfo_en|0|2|6|1|1|8|3,LUK,행운,,
+both_ui/otherplayerinfo_en|0|2|6|1|1|9|0,Play Style,플레이 경향,,
+both_ui/otherplayerinfo_en|0|2|6|1|2|6|0,Rank,순위,,
+both_ui/otherplayerinfo_en|0|2|6|1|2|7|0,Rank,순위,,
+both_ui/otherplayerinfo_en|0|2|6|1|2|8|0,Rank,순위,,
+both_ui/otherplayerinfo_en|0|2|6|1|2|9|0,Rank,순위,,
+both_ui/otherplayerinfo_en|0|2|6|1|2|10|0,Trends,트렌드,,
+both_ui/otherplayerinfo_en|0|2|6|1|3|0|0,Detailed Info,상세 정보,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|0|2,East Round,동풍전,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|0,1st,1위,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|2,2nd,2위,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|4,3rd,3위,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|6|0,4th,4위,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|7|0,Negative,들통,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|8,Total Played,총 플레이 횟수,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|10,Avg Score,평균 점수,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|12,Avg Rank,평균 순위,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|14,Max Repeats,최대 연장,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|16,Avg Turns,평균 화료순,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|18,Win Rate,화료율,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|20,Tsumo Rate,쯔모율,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|22,Deal-in Rate,방총률,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|24,Call Rate,후로율,,
+both_ui/otherplayerinfo_en|0|2|6|1|4|1|26,Riichi Rate,리치율,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|0|2,South Round,반장전,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|0,1st,1위,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|2,2nd,2위,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|4,3rd,3위,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|6|0,4th,4위,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|7|0,Negative,들통,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|8,Total Played,총 플레이 횟수,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|10,Avg Score,평균 점수,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|12,Avg Rank,평균 순위,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|14,Max Repeats,최대 연장,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|16,Avg Turns,평균 화료순,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|18,Win Rate,화료율,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|20,Tsumo Rate,쯔모율,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|22,Deal-in Rate,방총률,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|24,Call Rate,후로율,,
+both_ui/otherplayerinfo_en|0|2|6|1|5|1|26,Riichi Rate,리치율,,
+both_ui/otherplayerinfo_en|0|2|6|1|6|0|2,Yaku Achieved,달성한 역,,
+both_ui/otherplayerinfo_en|0|2|6|1|7|0|2,Local Yaku Achieved,달성한 로컬역,,
+both_ui/otherplayerinfo_en|0|3|1,Empty,비어있음,,
+both_ui/otherplayerinfo_en|0|3|3|0|0,Send,전송,,
+both_ui/otherplayerinfo_en|0|3|4,This player only allows friends to leave messages,이 플레이어에게는 친구만 메시지를 전송할 수 있습니다,,
+both_ui/otherplayerinfo_en|0|3|6|1|4|0|0,Recently used,최근 사용,,
+both_ui/otherplayerinfo_en|0|3|6|1|4|0|2,All,전체,,
+both_ui/otherplayerinfo_en|0|3|8|2,No signature yet,서명 없음,,
+both_ui/otherplayerinfo_en|0|3|8|3,Signature,서명,,
+both_ui/otherplayerinfo_en|0|5|0,4-Player,4인,,
+both_ui/otherplayerinfo_en|0|6|0,3-Player,3인,,
+both_ui/otherplayerinfo_en|0|7|0,Message,메시지,,
+both_ui/popwindow|0|4|0,Confirm,확인,,
+both_ui/popwindow|1|2|0,Confirm,확인,,
+both_ui/report_nickname|0|2,"If you have found any inappropriate information in the game, please contact our customer support.","게임 중 부적절한 행위를 발견했을 경우, 고객 지원부에 문의해주세요.",,
+both_ui/report_nickname|0|3|0,Report,신고,,
+both_ui/report_nickname|0|4|0,Cancel,취소,,
+both_ui/report_nickname|0|5,Report the nickname,닉네임 신고,,
+both_ui/report_success|0|2,We've received your report. Thank you for your contribution in making a better gaming environment!,신고가 접수되었습니다. 더 나은 게임 환경을 만드는데 기여해주셔서 감사합니다!,,
+both_ui/report_success|0|3|0,OK,OK,,
+both_ui/report_success|0|4,Reported successfully,성공적으로 신고됨,,
+both_ui/rules|1|1|0|0|2,1 Han,1판,,
+both_ui/rules|1|1|0|1|2,2 Han,2판,,
+both_ui/rules|1|1|0|2|2,3 Han,3판,,
+both_ui/rules|1|1|0|3|2,6 Han,6판,,
+both_ui/rules|1|1|0|4|2,Mangan,만관,,
+both_ui/rules|1|1|0|5|2,Yakuman,역만,,
+both_ui/rules|1|1|0|6|2,Double Yakuman,더블 역만,,
+both_ui/rules|1|1|0|7|2,Draw,유국,,
+both_ui/rules|1|1|1|0|0|2,Menzenchin Only,멘젠 한정,,
+both_ui/rules|1|4|0,Yaku Overview,역 요약,,
+both_ui/rules|1|5|0,Tutorial,튜토리얼,,
+both_ui/rules_en|1|1|0|0|2,1 Han,1판,,
+both_ui/rules_en|1|1|0|1|2,2 Han,2판,,
+both_ui/rules_en|1|1|0|2|2,3 Han,3판,,
+both_ui/rules_en|1|1|0|3|2,6 Han,6판,,
+both_ui/rules_en|1|1|0|4|2,Mangan,만관,,
+both_ui/rules_en|1|1|0|5|2,Yakuman,역만,,
+both_ui/rules_en|1|1|0|6|2,Double Yakuman,더블 역만,,
+both_ui/rules_en|1|1|0|7|2,Draw,유국,,
+both_ui/rules_en|1|1|1|0|0|2,Menzenchin Only,멘젠 한정,,
+both_ui/rules_en|1|4|0,Yaku Overview,역 요약,,
+both_ui/rules_en|1|5|0,Tutorial,튜토리얼,,
+both_ui/secondconfirm|0|3|0,Confirm,확인,,
+both_ui/secondconfirm|0|4|0,Cancel,취소,,
+both_ui/unbind_yostar_mail|0|2,Account Unbinding,계정 연결 해제,,
+both_ui/unbind_yostar_mail|0|5|0,Send code,코드 전송,,
+both_ui/unbind_yostar_mail|0|6|0,Unbind,연결 해제,,
+common/anotherlogin|0|2|0,Confirm,확인,,
+common/anotherlogin|0|3,Your account has been signed in on another location,계정이 다른 장소에서 로그인되었습니다,,
+common/closeapp|0|2,Do you wish to close the game?,게임을 종료하시겠습니까?,,
+common/closeapp|0|3|0,Confirm,확인,,
+common/closeapp|0|4|0,Cancel,취소,,
+common/disconnect|1|2,Connection lost. Trying to reconnect,연결이 끊어졌습니다. 재접속을 시도하고 있습니다,,
+common/errorinfo|1|3,"Oops, something is wrong with the program. Please refresh and enter the game again","이런, 뭔가 잘못됬습니다. 새로고침 후 다시 게임에 접속해주세요",,
+common/errorinfo|1|4|1,Restart Now,지금 재시작,,
+common/guajichenfa|0|2|0,Confirm,확인,,
+common/hangup_logout|0|2|0,Confirm,확인,,
+common/hangup_logout|0|3,You have been AFK for a long time. The system has logged you out.,장시간 AFK 상태입니다. 시스템에서 로그아웃됩니다.,,
+common/preventaddiction|0|0,"You have now entered fatigue time and can only earn 50% of rewards from game. For your wellbeing, we suggest you log out from game and do some exercise.","""피로 시간""에 도달하여 이제 게임에서 50%의 보상만 받을 수 있습니다. 당신의 건강을 위해 게임에서 로그아웃하고 약간의 운동을 하는 것을 추천합니다.",,
+common/preventaddiction|0|1,You have entered unhealthy game time. We suggest you log out immediately and take a break. You cannot earn any rewards from game. Unhealthy game status will be lifted after you are offline for 5 hours.,"""건강에 해로운 시간""에 도달하였습니다. 즉시 로그아웃하고 휴식을 취하는 것이 좋습니다. 지금부터 게임에서 어떠한 보상도 얻을 수 없으며, 5시간동안 오프라인 상태로 유지하면 이 상태가 해제됩니다.",,
+common/preventaddiction|1|0,Cumulative online time,누적 온라인 시간,,
+common/reconnect|2,You have a match in progress,진행중인 경기가 있습니다,,
+common/reconnect|3|0,Reconnect,재접속,,
+common/shimingrenzheng|0|0|2,Real Name Authentication,실명 인증,,
+common/shimingrenzheng|0|1|1,Authentication,인증,,
+common/shimingrenzheng|0|2,"Dear user, according to the “Interim Measures for the Administration of Online Games”, you must go through real name authentication before playing this game.","""온라인 게임 관리를 위한 임시 조치""에 따라 게임을 플레이하시기 전 실명 인증이 필요합니다.",,
+common/shimingrenzheng|0|3,1.The ID info can only be submitted once and cannot be changed. Please enter with care.,1. ID 정보는 한 번만 제출할 수 있으며 변경할 수 없습니다. 주의해서 입력하십시오.,,
+common/shimingrenzheng|0|4,2.This info will only be used for real name authentication and will not be provided to any other third party.,2. 이 정보는 실명 인증에만 사용되며 제 3자에게는 제공되지 않습니다.,,
+common/shimingrenzheng|0|5,"3.IDs from mainland China, Hong Kong, Macao and Taiwan are supported.","3. 중국, 홍콩, 마카오, 대만의 ID가 지원됩니다.",,
+common/shimingrenzheng|0|6,Real name:,실명:,,
+common/shimingrenzheng|0|7,ID number:,ID 번호:,,
+common/user_xieyi|0|0|2,User Agreement,이용 약관,,
+common/user_xieyi|0|1|1,Accept,동의,,
+common/user_xieyi|0|3|1,Previous page,이전 페이지,,
+common/user_xieyi|0|4|1,Next page,다음 페이지,,
+entrance/account_prohibition|0|0|2|0,Confirm,확인,,
+entrance/choose_route|0|0|2,Please choose your server,서버를 선택하세요,,
+entrance/choose_route|0|0|3|0,Domestic route,국내 서버,,
+entrance/choose_route|0|0|4|1,Overseas route,해외 서버,,
+entrance/entrance|1|2|1|1|3,Remember me,계정 기억,,
+entrance/entrance|1|2|2|0,Login with:,로그인 :,,
+entrance/entrance|1|3,We recommend Chrome browser,크롬 브라우저를 추천합니다,,
+entrance/entrance|1|4|1,Logging in,로그인 중,,
+entrance/entrance|1|4|3|1,Log Out,로그아웃,,
+entrance/entrance|1|5|1,Add to Home,홈 화면에 추가,,
+entrance/entrance|2|0|0|2,Yostar Login,Yostar 로그인,,
+entrance/entrance|2|0|2|2,Unavailable,사용 불가,,
+entrance/entrance|2|0|4|2,Send Code,코드 전송,,
+entrance/entrance|2|0|5|4|0,Agree to the,동의: ,,
+entrance/entrance|2|0|5|4|1,TERMS OF SERVICE,서비스 약관,,
+entrance/entrance|2|0|5|4|2,and,및,,
+entrance/entrance|2|0|5|4|3,PRIVACY POLICY,개인정보 취급방침,,
+entrance/entrance|2|0|7,※Enter email address,※이메일 주소 입력,,
+entrance/entrance|2|0|8,※Enter the verification code sent to your email,※이메일로 전송된 인증 코드 입력,,
+entrance/error_info|0|0|2|0,Confirm,확인,,
+entrance/ios_webview_update|0|1,New update available in iOS. Please download from the official website.,iOS에서 사용할 수 있는 새 업데이트가 있습니다. 공식 웹 사이트에서 다운로드하십시오.,,
+entrance/maintenance|0|0|2|0,OK,OK,,
+lobby/activity|0|3|1|1|0|0,Claim,받기,,
+lobby/activity|0|3|1|2|0|0,Delete,삭제,,
+lobby/activity|0|3|2,No Mail,편지 없음,,
+lobby/activity|0|4|2,No Event,이벤트 없음,,
+lobby/activitys/activitybase|0|0|1|1|3,coppers,동전: ,,
+lobby/activitys/activitybase|0|0|1|1|4,Revival Tokens,부활 토큰,,
+lobby/activitys/activitybase|0|0|1|1|9,Claimed,받음,,
+lobby/activitys/activity_duanwu_rank|0|0|4,Claimed,받음,,
+lobby/activitys/activity_exchange|0|0|1|1|5|0|0,Redeem,교환,,
+lobby/activitys/activity_exchange|0|0|1|1|8,Claimed,받음,,
+lobby/activitys/activity_exchange_zhongxia|0|0|1|1|5|0|0,Redeem,교환,,
+lobby/activitys/activity_exchange_zhongxia|0|0|1|1|8,Claimed,받음,,
+lobby/activitys/activity_guoqing|0|0|12|0|1|1,/,/,,
+lobby/activitys/activity_jiuji|0|0,Revival Tokens,부활 토큰,,
+lobby/activitys/activity_jiuji|0|1|1|3,coppers,동전: ,,
+lobby/activitys/activity_jiuji|0|1|1|4,Revival Tokens,부활 토큰,,
+lobby/activitys/activity_jiuji|0|1|1|10,Claimed,받음,,
+lobby/activitys/activity_task|0|0|1|1|3,coppers,동전: ,,
+lobby/activitys/activity_task|0|0|1|1|8,Claimed,받음,,
+lobby/activitys/activity_tongbi_exchange|0|0|1|1|5|0|0,Redeem,교환,,
+lobby/activitys/activity_tongbi_exchange|0|0|1|1|8,Claimed,받음,,
+lobby/activitys/activity_wuyi_exchange|0|0|1|1|5|0|0,Redeem,교환,,
+lobby/activitys/activity_wuyi_exchange|0|0|1|1|8,Claimed,받음,,
+lobby/activitys/activity_wuyi_task|0|0|1|1|8,Claimed,반듬,,
+lobby/activitys/activity_yijidagong|0|4,Copper on the map,맵 위의 동전,,
+lobby/activitys/activity_yijidagong|0|13|0|1,+,+,,
+lobby/activitys/guoqing_popout|0|4|1,Claim,받기,,
+lobby/activitys/guoqing_popout|0|5|1,Confirm,확인,,
+lobby/add_room|0|2,Join Room #,참가할 방 번호,,
+lobby/add_room|0|3|0,Confirm,확인,,
+lobby/add_room|0|6|9|1,Clear,삭제,,
+lobby/bag|0|0|0|1,Outfit,의상,,
+lobby/bag|0|0|1|1,Decoration,장식,,
+lobby/bag|0|0|2|1,Gift,선물,,
+lobby/bag|0|0|3|1,Item,아이템,,
+lobby/bag|0|1|3|0,Donate,기부,,
+lobby/bag|0|1|6|0|0,Deselect All,모두 선택 해제,,
+lobby/bag|0|1|6|1|0,Back,뒤로가기,,
+lobby/bag|0|1|6|2|0,Donate,기부,,
+lobby/bag|0|1|6|3,Select the gift you would like to donate,기부하고자 하는 선물을 선택하세요,,
+lobby/bag|0|1|7,You can donate gifts to get Star Dust,선물 기부를 통해 별가루를 획득할 수 있습니다,,
+lobby/bag|0|3|0|0|0|0|3|2|0,Bond,인연,,
+lobby/bag|0|3|2|0,Display All,모두 표시,,
+lobby/bag|0|3|3,Empty,비어있음,,
+lobby/bag|1|0,Inventory,창고,,
+lobby/chang_nickname|0|2,Change Name,이름 변경,,
+lobby/chang_nickname|0|3|1,Name (1-14 chars),이름 (1-14자),,
+lobby/chang_nickname|0|3|4,Unavailable,사용 불가,,
+lobby/chang_nickname|0|3|6|0,Require,필요,,
+lobby/chang_nickname|0|3|7,Cannot contain empty spaces and special characters,공백 및 특수문자 사용 불가,,
+lobby/chang_nickname|0|4|0,You can change your name once every 30 days.,30일에 한번 이름을 변경할 수 있습니다.,,
+lobby/chang_nickname|0|4|1,Your name can be changed after:,변경될 이름은 다음과 같습니다:,,
+lobby/chang_nickname|0|4|3,day(s),일,,
+lobby/checkhuiyu|0|2,Jade info,휘옥 정보,,
+lobby/checkhuiyu|0|3,Premium Jade:,프리미엄 휘옥:,,
+lobby/checkhuiyu|0|5,Free Jade:,무료 휘옥:,,
+lobby/checkhuiyu|0|7,Total:,합계:,,
+lobby/checkhuiyu|0|10|0,Confirm,확인,,
+lobby/checkhuiyu|0|11|0,Buy,구매,,
+lobby/checkpifuquan|0|2,Current Outfit Voucher status,현재 의상 교환권 정보,,
+lobby/checkpifuquan|0|3,Premium:,프리미엄:,,
+lobby/checkpifuquan|0|5,Free:,무료:,,
+lobby/checkpifuquan|0|7,Total:,합계:,,
+lobby/checkpifuquan|0|10|0,Confirm,확인,,
+lobby/checkpifuquan|0|11|0,Buy,구매,,
+lobby/create_room|0|0|1|0|1|0,4-Player,4인,,
+lobby/create_room|0|0|1|0|2|0,3-Player,3인,,
+lobby/create_room|0|0|1|1|1|0,1 Game,단판,,
+lobby/create_room|0|0|1|1|2|0,East Only,동풍전,,
+lobby/create_room|0|0|1|1|3|0,Two-Wind Match,반장전,,
+lobby/create_room|0|0|1|1|4|0,Vs AI,Vs AI,,
+lobby/create_room|0|0|1|2|1|0,3+5s,3+5s,,
+lobby/create_room|0|0|1|2|2|0,5+10s,5+10s,,
+lobby/create_room|0|0|1|2|3|0,5+20s,5+20s,,
+lobby/create_room|0|0|1|2|4|0,60+0s,60+0s,,
+lobby/create_room|0|0|1|5|1|0,Disable,비활성화,,
+lobby/create_room|0|0|1|5|2|0,Enable,활성화,,
+lobby/create_room|0|0|1|7|2,"Minimum points 100, maximum points 200000","최소 점수 100, 최대 점수 200000",,
+lobby/create_room|0|0|1|8|2,"Minimum points 100, maximum points 200000.","최소 점수 100, 최대 점수 200000.",,
+lobby/create_room|0|0|1|8|3,"At ALL LAST, if the 1st-ranked player has less points than this value, the game will extend into South/West Round",최종국에서 1위 플레이어가 이 값보다 점수가 적으면 경기는 남/서장으로 연장됩니다,,
+lobby/create_room|0|0|1|9|1|0,Enable,활성화,,
+lobby/create_room|0|0|1|9|2|0,Disable,비활성화,,
+lobby/create_room|0|0|1|10|1|0,Disable,비활성화,,
+lobby/create_room|0|0|1|10|2|0,Enable,활성화,,
+lobby/create_room|0|0|1|11|1|0,No Red Five,적도라 없음,,
+lobby/create_room|0|0|1|11|2|0,3 Red Five,적도라 3개,,
+lobby/create_room|0|0|1|11|3|0,4 Red Five,적도라 4개,,
+lobby/create_room|0|0|1|12|1|0,Enable,활성화,,
+lobby/create_room|0|0|1|12|2|0,Disable,비활성화,,
+lobby/create_room|0|0|1|13|1|0,1 Han,1판,,
+lobby/create_room|0|0|1|13|2|0,2 Han,2판,,
+lobby/create_room|0|0|1|13|3|0,4 Han,4판,,
+lobby/create_room|0|0|1|14|1|0,Enable,활성화,,
+lobby/create_room|0|0|1|14|2|0,Disable,비활성화,,
+lobby/create_room|0|0|1|15|1|0,Off,끄기,,
+lobby/create_room|0|0|1|15|2|0,On,켜기,,
+lobby/create_room|0|0|1|16|1|0,Easy,쉬움,,
+lobby/create_room|0|0|1|16|2|0,Normal,일반,,
+lobby/create_room|0|0|1|17|1|0,Disable,비활성화,,
+lobby/create_room|0|0|1|17|2|0,Enable,활성화,,
+lobby/create_room|0|1|2,Create Room,방 만들기,,
+lobby/diamond_less|0|2,Insufficient Jade,휘옥 부족,,
+lobby/diamond_less|0|4|0,Buy,구매,,
+lobby/diamond_less|0|5|0,Cancel,취소,,
+lobby/diamond_less|0|6,Insufficient Jade ，Do you wish to Purchase ？,휘옥이 부족합니다. 구매하시겠습니까?,,
+lobby/force_update|0|2,"New updates detected, please try to restart your game",새로운 업데이트가 있습니다. 게임을 다시 시작해주세요.,,
+lobby/force_update|0|3|0,Confirm,확인,,
+lobby/friend|0|1|0,Friends,친구,,
+lobby/friend|1|1|0|0,Friend List,친구 목록,,
+lobby/friend|1|1|1|0,Application,애플리케이션,,
+lobby/friend|1|1|2|0,Search,검색,,
+lobby/friend|1|2|1|0,Search,검색,,
+lobby/friend|1|2|2|0|0|0|1|0,Add,추가,,
+lobby/friend|1|2|2|0|0|0|5,Applied,신청됨,,
+lobby/friend|1|2|2|0|0|1|1|0,Add,추가,,
+lobby/friend|1|2|2|0|0|1|5,Applied,신청됨,,
+lobby/friend|1|3|0|0|0|1|0,View,보기,,
+lobby/friend|1|3|0|0|0|2|0,Delete,삭제,,
+lobby/friend|1|3|0|0|0|8|0,Watch,관전,,
+lobby/friend|1|3|1,Your Friend List is Empty,친구 목록 비어있음,,
+lobby/friend|1|3|3,Friends:,친구:,,
+lobby/friend|1|4|0|0|0|1|0,View,보기,,
+lobby/friend|1|4|0|0|0|2|0,Accept,수락,,
+lobby/friend|1|4|0|0|0|3|0,Reject,거절,,
+lobby/friend|1|4|1,No friend application,친구 애플리케이션 없음,,
+lobby/friend|1|5|0,My ID:,내 ID:,,
+lobby/info|0|2,Info,정보,,
+lobby/lobby|3|1|0|0|0|0|3,Novice & Adept,초심자 & 작사,,
+lobby/lobby|3|1|0|0|1|0|3,Adept & Expert,작사 & 작걸,,
+lobby/lobby|3|1|0|0|2|0|3,Expert & Master,작걸 & 작호,,
+lobby/lobby|3|1|0|0|3|0|3,Master & Saint,작호 & 작성,,
+lobby/lobby|3|1|0|0|4|0|3,Saint & Above,작성 & 혼천,,
+lobby/lobby|3|2|0|0|3,Free,자유,,
+lobby/lobby|3|2|0|1|3,Free,자유,,
+lobby/lobby|3|4|0|0|0|2,Online:,온라인:,,
+lobby/lobby|3|4|0|0|0|4|0,Reserved,예약됨,,
+lobby/lobby|3|4|0|0|1|2,Online:,온라인:,,
+lobby/lobby|3|4|0|0|1|4|0,Reserved,예약됨,,
+lobby/lobby|3|4|0|0|2|2,Online:,온라인:,,
+lobby/lobby|3|4|0|0|2|4|0,Reserved,예약됨,,
+lobby/lobby|3|4|0|0|3|2,Online:,온라인:,,
+lobby/lobby|3|4|0|0|3|4|0,Reserved,예약됨,,
+lobby/lobby|5|3|0,Rank,순위,,
+lobby/lobby|5|4|0,Info,정보,,
+lobby/lobbychat|0|1|0|2|0|0,Send,보내기,,
+lobby/match_lobby|0|0,Lobby,로비,,
+lobby/match_lobby|1|0|1|0,Search,검색,,
+lobby/match_lobby|1|0|2|0,Enter Tournament ID,대회 ID 입력,,
+lobby/match_lobby|1|1|0,Followed only,팔로우 한정,,
+lobby/match_lobby|1|3|0|2,Followed,팔로우함,,
+lobby/match_lobby|1|3|0|5,Not started,시작되지 않음,,
+lobby/match_lobby|1|3|0|5|0,Start time:,시작 일시:,,
+lobby/match_lobby|1|3|0|7,In progress,진행중,,
+lobby/match_lobby|1|3|0|7|0,End time:,종료 일시:,,
+lobby/match_lobby|1|3|0|8,Ended,종료됨,,
+lobby/match_lobby|1|3|0|8|0,End time:,종료 일시:,,
+lobby/match_lobby|1|3|0|9|0|0,View,보기,,
+lobby/match_lobby|1|4,No tournaments,대회 없음,,
+lobby/match_lobby|1|7|0,My ID:,내 ID:,,
+lobby/match_lobby|2|0|5|0,Close,닫기,,
+lobby/match_lobby|2|0|6|0,Enter,입장,,
+lobby/match_room|0|0,Tournament,대회,,
+lobby/match_room|1|0|0|0,Home,홈,,
+lobby/match_room|1|0|1|0,Log,로그,,
+lobby/match_room|1|0|2|0,Watch,관전,,
+lobby/match_room|1|1|0|0|0|2,GM message,GM 메시지,,
+lobby/match_room|1|1|0|0|2|0|0,Send,전송,,
+lobby/match_room|1|1|0|1|0,Chat,채팅,,
+lobby/match_room|1|1|0|2|0,Notice,공지,,
+lobby/match_room|1|1|1|1,Time,일시,,
+lobby/match_room|1|1|1|2,Start time:,시작 일시:,,
+lobby/match_room|1|1|1|3,End time:,종료 일시:,,
+lobby/match_room|1|1|1|4,Rules,규칙,,
+lobby/match_room|1|1|1|5,My Ranking,내 순위,,
+lobby/match_room|1|1|1|8,Last 5 Matches Ranks:,최근 5경기:,,
+lobby/match_room|1|1|1|9,Matches Played:,플레이한 경기:,,
+lobby/match_room|1|1|1|10|0,Prepare for match,경기 준비,,
+lobby/match_room|1|1|1|11,Online:,온라인:,,
+lobby/match_room|1|1|1|13|0|0,Details,상세,,
+lobby/match_room|1|1|3|0,Set as Focus,포커스 지정,,
+lobby/match_room|1|3|1|0|1|4,Rank,순위,,
+lobby/match_room|1|3|1|0|2|4,Rank,순위,,
+lobby/match_room|1|3|1|0|3|4,Rank,순위,,
+lobby/match_room|1|3|1|0|4|4,Rank,순위,,
+lobby/match_room|1|3|1|0|6,Match Time,경기 일시,,
+lobby/match_room|1|3|1|0|7|0,View,보기,,
+lobby/match_room|1|3|1|0|8|0,Share,공유,,
+lobby/match_room|1|3|2|0,Other Logs,기타 로그,,
+lobby/match_room|2|0|3,Rule Details,상세 규칙,,
+lobby/match_room|2|0|4|0,Close,닫기,,
+lobby/match_room|2|1|3,Rule Details,상세 규칙,,
+lobby/match_room|2|1|4|0,Close,닫기,,
+lobby/match_room|3|0|2,Enter Log Number,로그 번호 입력,,
+lobby/match_room|3|0|3|0,Confirm,확인,,
+lobby/match_room|3|0|6|1,Anonymously Share,익명 공유,,
+lobby/match_room|4|0|2,Criteria not met,기준 미달,,
+lobby/match_room|4|0|3,You are not eligible to participate in this tournament. Unable to start match,이 대회에 참가할 자격이 없습니다. 경기를 시작할 수 없습니다.,,
+lobby/match_room|4|0|4|0,Close,닫기,,
+lobby/nickname|0|2,Name Your Character,캐릭터 이름,,
+lobby/nickname|0|4,Name (1-14 chars),이름 (1-14자),,
+lobby/nickname|0|6,Available,사용가능,,
+lobby/nickname|0|7,Unavailable,사용불가,,
+lobby/nickname|0|8|1,Confirm,확인,,
+lobby/nickname|0|9,Cannot contain empty spaces and special characters,공백 및 특수문자 사용 불가,,
+lobby/nickname|0|10|1,Exit,나가기,,
+lobby/nickname|1|2,Tutorials,튜토리얼,,
+lobby/nickname|1|3,Welcome to Mahjong Soul!,작혼에 오신 것을 환영합니다!,,
+lobby/nickname|1|4,Name,이름,,
+lobby/nickname|1|5,Do you want to start a tutorial of Riichi Mahjong?,리치 마작 튜토리얼을 시작할까요?,,
+lobby/nickname|1|7|0|0,No,아니오,,
+lobby/nickname|1|8|0|0,Yes,예,,
+lobby/number_input|0|2,Join Room #,참가할 방 번호,,
+lobby/number_input|0|3|0,Confirm,확인,,
+lobby/number_input|0|6|9|1,Clear,삭제,,
+lobby/ob|0|0,No game info,게임 정보 없음,,
+lobby/ob|0|6|0,Show friends only,친구만 보기,,
+lobby/ob|0|7|1,Refresh,새로고침,,
+lobby/ob|1|0,Watch,관전,,
+lobby/openbox|1|3,Choose one gift,선물 하나를 선택하세요,,
+lobby/openbox|1|5|0,Confirm,확인,,
+lobby/page_sign_chs|1|1|1,Confirm,확인,,
+lobby/page_sign_chs|1|2|1,Sign-in,로그인,,
+lobby/page_sign_en|1|1|1,Confirm,확인,,
+lobby/page_sign_en|1|2|1,Sign-in,로그인,,
+lobby/page_sign_jp|1|1|1,Confirm,확인,,
+lobby/page_sign_jp|1|2|1,Sign-in,로그인,,
+lobby/paipu|0|1|0,Log,로그,,
+lobby/paipu|1|4|0|1|4,Rank,순위,,
+lobby/paipu|1|4|0|2|4,Rank,순위,,
+lobby/paipu|1|4|0|3|4,Rank,순위,,
+lobby/paipu|1|4|0|4|4,Rank,순위,,
+lobby/paipu|1|4|0|7|0,View,보기,,
+lobby/paipu|1|4|0|8|0,Share,공유,,
+lobby/paipu|1|5|0,Other Logs,다른 로그,,
+lobby/paipu|1|6,Collection Limit:,컬렉션 제한:,,
+lobby/paipu|1|7|0|1,Overview,요약,,
+lobby/paipu|1|7|1|1,Match,경기,,
+lobby/paipu|1|7|2|1,Friends,친구,,
+lobby/paipu|1|7|3|1,Tournament,대회,,
+lobby/paipu|1|7|4|1,Collection,컬렉션,,
+lobby/paipu|1|8,No record,기록 없음,,
+lobby/paipu|2|2,Enter Log Number,로그 번호 입력,,
+lobby/paipu|2|3|0,Confirm,확인,,
+lobby/paipu|2|6|1,Anonymously Share,익명 공유,,
+lobby/paipu|3|1|2,Log Collection,로그 컬렉션,,
+lobby/paipu|3|1|3|0,Collect,컬렉션에 추가,,
+lobby/paipu|3|1|5,Remarks are too long,메모가 너무 깁니다,,
+lobby/pifuquan_less|0|2,Insufficient Outfit Voucher,의상 교환권 부족,,
+lobby/pifuquan_less|0|4|0,Buy,구매,,
+lobby/pifuquan_less|0|5|0,Cancel,취소,,
+lobby/pifuquan_less|0|6,Insufficient Outfit Voucher，Do you wish to Purchase ？,의상 교환권이 부족합니다. 구매하시겠습니까?,,
+lobby/pipei|0|2,Ranked Match,단위전,,
+lobby/pipei|0|3,Finding opponents,다른 플레이어를 찾는 중,,
+lobby/pipei|0|4|0,Cancel,취소,,
+lobby/pipeichenggong|1|2,Match is ready,경기 준비됨,,
+lobby/pipeiyuyue|0|1,Matchmaking,경기 찾는 중,,
+lobby/playerinfo|1|1|0,4-Player,4인,,
+lobby/playerinfo|1|2|0,3-Player,3인,,
+lobby/playerinfo|1|3|0,Message,메시지,,
+lobby/playerinfo|1|4|1,Empty,비어있음,,
+lobby/playerinfo|1|4|2|0|8|1|0,Info,정보,,
+lobby/playerinfo|1|4|5|3,No signature yet,서명 없음,,
+lobby/playerinfo|1|4|5|4,Signature,서명,,
+lobby/playerinfo|1|5|2|1,Title Book,타이틀북,,
+lobby/playerinfo|1|5|3|1,Change Name,이름 변경,,
+lobby/playerinfo|1|5|6|1|0,Friendly Match,친선전,,
+lobby/playerinfo|1|5|6|2|0,Ranked Match,단위전,,
+lobby/playerinfo|1|5|7|1|0|0|0,Recent High Score,최근 고득점,,
+lobby/playerinfo|1|5|7|1|0|3,No record available. Good luck!,기록이 없습니다. 행운을 빌어요!,,
+lobby/playerinfo|1|5|7|1|1|0,ATK,공격,,
+lobby/playerinfo|1|5|7|1|1|2,DEF,수비,,
+lobby/playerinfo|1|5|7|1|1|4,SPD,속도,,
+lobby/playerinfo|1|5|7|1|1|6,LUK,행운,,
+lobby/playerinfo|1|5|7|1|1|8|0,ATK,공격,,
+lobby/playerinfo|1|5|7|1|1|8|1,DEF,수비,,
+lobby/playerinfo|1|5|7|1|1|8|2,SPD,속도,,
+lobby/playerinfo|1|5|7|1|1|8|3,LUK,행운,,
+lobby/playerinfo|1|5|7|1|1|9|0,Play Style,플레이 경향,,
+lobby/playerinfo|1|5|7|1|2|6|0,Rank,순위,,
+lobby/playerinfo|1|5|7|1|2|7|0,Rank,순위,,
+lobby/playerinfo|1|5|7|1|2|8|0,Rank,순위,,
+lobby/playerinfo|1|5|7|1|2|9|0,Rank,순위,,
+lobby/playerinfo|1|5|7|1|2|10|0,Trends,트렌드,,
+lobby/playerinfo|1|5|7|1|3|0|0,Detailed Info,상세 정보,,
+lobby/playerinfo|1|5|7|1|4|0|2,East Round,동풍전,,
+lobby/playerinfo|1|5|7|1|4|1|0,1st,1위,,
+lobby/playerinfo|1|5|7|1|4|1|2,2nd,2위,,
+lobby/playerinfo|1|5|7|1|4|1|4,3rd,3위,,
+lobby/playerinfo|1|5|7|1|4|1|6|0,4th,4위,,
+lobby/playerinfo|1|5|7|1|4|1|7|0,Negative,들통,,
+lobby/playerinfo|1|5|7|1|4|1|8,Total Played,총 플레이 횟수,,
+lobby/playerinfo|1|5|7|1|4|1|10,Avg Score,평균 점수,,
+lobby/playerinfo|1|5|7|1|4|1|12,Avg Rank,평균 순위,,
+lobby/playerinfo|1|5|7|1|4|1|14,Max Repeats,최대 연장,,
+lobby/playerinfo|1|5|7|1|4|1|16,Avg Turns,평균 화료순,,
+lobby/playerinfo|1|5|7|1|4|1|18,Win Rate,화료율,,
+lobby/playerinfo|1|5|7|1|4|1|20,Tsumo Rate,쯔모율,,
+lobby/playerinfo|1|5|7|1|4|1|22,Deal-in Rate,방총률,,
+lobby/playerinfo|1|5|7|1|4|1|24,Call Rate,후로율,,
+lobby/playerinfo|1|5|7|1|4|1|26,Riichi Rate,리치율,,
+lobby/playerinfo|1|5|7|1|5|0|2,South Round,반장전,,
+lobby/playerinfo|1|5|7|1|5|1|0,1st,1위,,
+lobby/playerinfo|1|5|7|1|5|1|2,2nd,2위,,
+lobby/playerinfo|1|5|7|1|5|1|4,3rd,3위,,
+lobby/playerinfo|1|5|7|1|5|1|6|0,4th,4위,,
+lobby/playerinfo|1|5|7|1|5|1|7|0,Negative,들통,,
+lobby/playerinfo|1|5|7|1|5|1|8,Total Played,총 플레이 횟수,,
+lobby/playerinfo|1|5|7|1|5|1|10,Avg Score,평균 점수,,
+lobby/playerinfo|1|5|7|1|5|1|12,Avg Rank,평균 순위,,
+lobby/playerinfo|1|5|7|1|5|1|14,Max Repeats,최대 연장,,
+lobby/playerinfo|1|5|7|1|5|1|16,Avg Turns,평균 화료순,,
+lobby/playerinfo|1|5|7|1|5|1|18,Win Rate,화료율,,
+lobby/playerinfo|1|5|7|1|5|1|20,Tsumo Rate,쯔모율,,
+lobby/playerinfo|1|5|7|1|5|1|22,Deal-in Rate,방총률,,
+lobby/playerinfo|1|5|7|1|5|1|24,Call Rate,후로율,,
+lobby/playerinfo|1|5|7|1|5|1|26,Riichi Rate,리치율,,
+lobby/playerinfo|1|5|7|1|6|0|2,Yaku Achieved,달성한 역,,
+lobby/playerinfo|1|5|7|1|7|0|2,Local Yaku Achieved,달성한 로컬역,,
+lobby/playerinfo_en|1|1|0,4-Player,4인,,
+lobby/playerinfo_en|1|2|0,3-Player,3인,,
+lobby/playerinfo_en|1|3|0,Message,메시지,,
+lobby/playerinfo_en|1|4|1,Empty,비어있음,,
+lobby/playerinfo_en|1|4|2|0|8|1|0,Info,정보,,
+lobby/playerinfo_en|1|4|5|3,No signature yet,서명 없음,,
+lobby/playerinfo_en|1|4|5|4,Signature,서명,,
+lobby/playerinfo_en|1|5|2|1,Title Book,타이틀북,,
+lobby/playerinfo_en|1|5|3|1,Change Name,이름 변경,,
+lobby/playerinfo_en|1|5|6|1|0,Friendly Match,친선전,,
+lobby/playerinfo_en|1|5|6|2|0,Ranked Match,단위전,,
+lobby/playerinfo_en|1|5|7|1|0|0|0,Recent High Score,최근 고득점,,
+lobby/playerinfo_en|1|5|7|1|0|3,No record available. Good luck!,기록이 없습니다. 행운을 빌어요!,,
+lobby/playerinfo_en|1|5|7|1|1|0,ATK,공격,,
+lobby/playerinfo_en|1|5|7|1|1|2,DEF,수비,,
+lobby/playerinfo_en|1|5|7|1|1|4,SPD,속도,,
+lobby/playerinfo_en|1|5|7|1|1|6,LUK,행운,,
+lobby/playerinfo_en|1|5|7|1|1|8|0,ATK,공격,,
+lobby/playerinfo_en|1|5|7|1|1|8|1,DEF,수비,,
+lobby/playerinfo_en|1|5|7|1|1|8|2,SPD,속도,,
+lobby/playerinfo_en|1|5|7|1|1|8|3,LUK,행운,,
+lobby/playerinfo_en|1|5|7|1|1|9|0,Play Style,플레이 경향,,
+lobby/playerinfo_en|1|5|7|1|2|6|0,Rank,순위,,
+lobby/playerinfo_en|1|5|7|1|2|7|0,Rank,순위,,
+lobby/playerinfo_en|1|5|7|1|2|8|0,Rank,순위,,
+lobby/playerinfo_en|1|5|7|1|2|9|0,Rank,순위,,
+lobby/playerinfo_en|1|5|7|1|2|10|0,Trends,트렌드,,
+lobby/playerinfo_en|1|5|7|1|3|0|0,Detailed Info,상세 정보,,
+lobby/playerinfo_en|1|5|7|1|4|0|2,East Round,동풍전,,
+lobby/playerinfo_en|1|5|7|1|4|1|0,1st,1위,,
+lobby/playerinfo_en|1|5|7|1|4|1|2,2nd,2위,,
+lobby/playerinfo_en|1|5|7|1|4|1|4,3rd,3위,,
+lobby/playerinfo_en|1|5|7|1|4|1|6|0,4th,4위,,
+lobby/playerinfo_en|1|5|7|1|4|1|7|0,Negative,들통,,
+lobby/playerinfo_en|1|5|7|1|4|1|8,Total Played,총 플레이 횟수,,
+lobby/playerinfo_en|1|5|7|1|4|1|10,Avg Score,평균 점수,,
+lobby/playerinfo_en|1|5|7|1|4|1|12,Avg Rank,평균 순위,,
+lobby/playerinfo_en|1|5|7|1|4|1|14,Max Repeats,최대 연장,,
+lobby/playerinfo_en|1|5|7|1|4|1|16,Avg Turns,평균 화료순,,
+lobby/playerinfo_en|1|5|7|1|4|1|18,Win Rate,화료율,,
+lobby/playerinfo_en|1|5|7|1|4|1|20,Tsumo Rate,쯔모율,,
+lobby/playerinfo_en|1|5|7|1|4|1|22,Deal-in Rate,방총률,,
+lobby/playerinfo_en|1|5|7|1|4|1|24,Call Rate,후로율,,
+lobby/playerinfo_en|1|5|7|1|4|1|26,Riichi Rate,리치율,,
+lobby/playerinfo_en|1|5|7|1|5|0|2,South Round,반장전,,
+lobby/playerinfo_en|1|5|7|1|5|1|0,1st,1위,,
+lobby/playerinfo_en|1|5|7|1|5|1|2,2nd,2위,,
+lobby/playerinfo_en|1|5|7|1|5|1|4,3rd,3위,,
+lobby/playerinfo_en|1|5|7|1|5|1|6|0,4th,4위,,
+lobby/playerinfo_en|1|5|7|1|5|1|7|0,Negative,들통,,
+lobby/playerinfo_en|1|5|7|1|5|1|8,Total Played,총 플레이 횟수,,
+lobby/playerinfo_en|1|5|7|1|5|1|10,Avg Score,평균 점수,,
+lobby/playerinfo_en|1|5|7|1|5|1|12,Avg Rank,평균 순위,,
+lobby/playerinfo_en|1|5|7|1|5|1|14,Max Repeats,최대 연장,,
+lobby/playerinfo_en|1|5|7|1|5|1|16,Avg Turns,평균 화료순,,
+lobby/playerinfo_en|1|5|7|1|5|1|18,Win Rate,화료율,,
+lobby/playerinfo_en|1|5|7|1|5|1|20,Tsumo Rate,쯔모율,,
+lobby/playerinfo_en|1|5|7|1|5|1|22,Deal-in Rate,방총률,,
+lobby/playerinfo_en|1|5|7|1|5|1|24,Call Rate,후로율,,
+lobby/playerinfo_en|1|5|7|1|5|1|26,Riichi Rate,리치율,,
+lobby/playerinfo_en|1|5|7|1|6|0|2,Yaku Achieved,달성한 역,,
+lobby/playerinfo_en|1|5|7|1|7|0|2,Local Yaku Achieved,달성한 로컬역,,
+lobby/pop_buy_multi|0|6|0,Buy,구매,,
+lobby/pop_buy_multi|0|7|0,Price,가격,,
+lobby/pop_buy_multi|0|8|0,Remaining,잔여,,
+lobby/pop_buy_multi|0|9,Refreshes once every month,매달 한번 갱신됩니다,,
+lobby/pop_buy_multi|0|10|0,Total Price,총 가격,,
+lobby/pop_buy_single|0|6|0,Buy,구매,,
+lobby/pop_buy_single|0|7|0,Total Price,총 가격,,
+lobby/rank|0|2|0|0|4,pt,pt,,
+lobby/rank|0|4|1|7,pt,pt,,
+lobby/rank|0|5|0|0,4-Player,4인,,
+lobby/rank|0|5|1|0,3-Player,3인,,
+lobby/recharge|0|0,Shop,상점,,
+lobby/recharge|1|0|0|0,Misc,잡화,,
+lobby/recharge|1|0|1|0,Wishing,기도의 소옥,,
+lobby/recharge|1|0|2|0,Star,별의 소옥,,
+lobby/recharge|1|0|3|0,Summon Shop,기원 상점,,
+lobby/recharge|1|0|4|0,Summon,기원,,
+lobby/recharge|1|2|0|1,Title,타이틀,,
+lobby/recharge|1|2|6|0,Current,현재,,
+lobby/recharge|1|2|8|0,Claim,받기,,
+lobby/recharge|1|2|9|0|1,Rewards,보상,,
+lobby/recharge|2|0|6|0,Buy,구매,,
+lobby/recharge|2|0|7|0,Total Price,총 가격,,
+lobby/shop|0|0|0|0,Outfit,의상,,
+lobby/shop|0|0|1|0,Fortune,소원의 소옥,,
+lobby/shop|0|0|2|0,Star,별의 소옥,,
+lobby/shop|0|0|3|0,Wishing,기도의 소옥,,
+lobby/shop|0|0|4|0,Misc,잡화,,
+lobby/shop|0|1|1|0|0,Refresh,새로고침,,
+lobby/shop|0|1|1|0|1|0,Refresh,새로고침,,
+lobby/shop|0|1|1|2,Can`t refresh anymore today,오늘은 더 이상 새로고침 할 수 없습니다,,
+lobby/shop|0|1|2|0,Duplicate characters will be converted into Wishing Stones,중복된 캐릭터는 기도의 소옥으로 전환됩니다,,
+lobby/shop|0|1|3|2,Duplicate decorations will be converted into Star Stones,중복된 장식은 별의 소옥으로 전환됩니다,,
+lobby/shop|0|1|4|1,Star Dust can be acquired by donating Gifts,별가루는 선물을 기부하여 얻을 수 있습니다,,
+lobby/shop|0|2|0|0|6|2|0,Purchase,구매,,
+lobby/shop|0|2|3,Sold Out,매진,,
+lobby/shop|1|0,Shop,상점,,
+lobby/shop_lobby_yulan|1|2|2|0,Buy,구매,,
+lobby/shop_pack_detail|0|5|0,Original Price:,기존 가격:,,
+lobby/shop_pack_detail|0|6|0,Discount Rate:,할인율:,,
+lobby/shop_pack_detail|0|7|0,Final Price:,최종 가격:,,
+lobby/shop_pack_detail|0|8|0,Buy,구매,,
+lobby/shop_pack_detail|0|9,Items contained in this pack,이 팩에 포함된 아이템,,
+lobby/shop_skin_yulan|2|0|2|0,Buy,구매,,
+lobby/sign|1|2,Daily Prayer,일간 기도,,
+lobby/sign|1|3|4|0,Day,일,,
+lobby/sign|1|3|4|1,Day,일,,
+lobby/sign|1|4|4|0,Day,일,,
+lobby/sign|1|4|4|1,Day,일,,
+lobby/sign|1|5|0,Claim,받기,,
+lobby/sign|1|5|2,Claimed,받음,,
+lobby/sushe_select|0|1|0|0,Character,캐릭터,,
+lobby/sushe_select|0|1|1|0,Decoration,장식,,
+lobby/sushe_select|0|4|0|2|0,In Use,사용중,,
+lobby/sushe_select|0|4|0|3|0|0,Use,사용하기,,
+lobby/sushe_select|0|4|0|4|0|0,Save,저장,,
+lobby/sushe_select|0|4|1|6|0,Empty,비어있음,,
+lobby/sushe_select|0|4|4|5|0,Empty,비어있음,,
+lobby/sushe_select|1|0,Dorm,숙소,,
+lobby/sushe_select_en|0|1|0|0,Character,캐릭터,,
+lobby/sushe_select_en|0|1|1|0,Decoration,장식,,
+lobby/sushe_select_en|0|4|0|2|0,In Use,사용중,,
+lobby/sushe_select_en|0|4|0|3|0|0,Use,사용하기,,
+lobby/sushe_select_en|0|4|0|4|0|0,Save,저장,,
+lobby/sushe_select_en|0|4|1|6|0,Empty,비어있음,,
+lobby/sushe_select_en|0|4|4|5|0,Empty,비어있음,,
+lobby/sushe_select_en|1|0,Dorm,숙소,,
+lobby/tangfang1|6|3|0,Confirm,확인,,
+lobby/titlebook|1|2,Title Book,타이틀북,,
+lobby/titlebook|1|3,Available,사용가능,,
+lobby/titlebook|1|6,Your Title Book is empty.,타이틀북이 비어있습니다.,,
+lobby/treasure|0|0|0,Summon 10 Times,10회 기원,,
+lobby/treasure|0|0|1,Get,받기,,
+lobby/treasure|0|0|3,"Chance to get characters, decorations or gifts","캐릭터, 장식, 선물을 받을 수 있음",,
+lobby/treasure|0|0|5|0,Summon 10 Times,10회 기원,,
+lobby/treasure|0|1|0,Summon Once,1회 기원,,
+lobby/treasure|0|1|1,Get,받기,,
+lobby/treasure|0|1|3,"Chance to get characters, decorations or gifts","캐릭터, 장식, 선물을 받을 수 있음",,
+lobby/treasure|0|1|5|0,Summon Once,1회 기원,,
+lobby/treasure|0|5|0,Overview,요약,,
+lobby/treasure|0|6|2|0,Redeem,교환,,
+lobby/treasure|1|0,Summon,기원 ,,
+lobby/treasure|3|4,Select the character/item you would like to redeem,교환할 캐릭터/아이템을 선택하세요,,
+lobby/treasure|4|2|2|2|0,"Each time you summon, you can get 1",당신은 1번 기원할 때 마다 1개의 신앙(,,
+lobby/treasure|4|2|2|2|1,"(Faith), as well as all-new characters and decorations",)과 새로운 캐릭터와 장식을 얻을 수 있습니다.,,
+lobby/treasure|4|2|2|2|2,Chance to get characters: 5%,캐릭터 획득 확률: 5%,,
+lobby/treasure|4|2|2|2|2|0,Duplicate characters will be converted to Wishing Stones,중복된 캐릭터는 기도의 소옥으로 전환됩니다,,
+lobby/treasure|4|2|2|2|3,Chance to get decorations: 15%,장식 획득 확률: 15%,,
+lobby/treasure|4|2|2|2|3|0,Duplicate decorations will be converted into Star Stones,중복된 장식은 별의 소옥으로 전환됩니다,,
+lobby/treasure|4|2|2|2|4,Chance to get green gift/blue gift/purple gift:  24%/51%/5%,초록색/파란색/보라색 선물 획득 확률:  24%/51%/5%,,
+lobby/treasure|4|2|2|2|5,You will get at least 1 purple gift when you perform a 10-summon using Jade.,휘옥을 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다.,,
+lobby/treasure|4|2|2|3|0,"Each time you summon, you can get 1",당신은 1번 기원할 때 마다 1개의 신앙(,,
+lobby/treasure|4|2|2|3|1,"(Faith), as well as all-new characters and decorations",)과 새로운 캐릭터와 장식을 얻을 수 있습니다.,,
+lobby/treasure|4|2|2|3|2,Chance to get characters: 5%,캐릭터 획득 확률: 5%,,
+lobby/treasure|4|2|2|3|2|0,Duplicate characters will be converted to Wishing Stones,중복된 캐릭터는 기도의 소옥으로 전환됩니다,,
+lobby/treasure|4|2|2|3|3,Chance to summon new characters: 2.95%,새 캐릭터 획득 확률: 2.95%,,
+lobby/treasure|4|2|2|3|4,Chance to get decorations: 15%,장식 획득 확률: 15%,,
+lobby/treasure|4|2|2|3|4|0,Duplicate decorations will be converted into Star Stones,중복된 장식은 별의 소옥으로 전환됩니다,,
+lobby/treasure|4|2|2|3|5,Chance to get new effects: 7.35%,새 효과를 획득할 확률: 7.35%,,
+lobby/treasure|4|2|2|3|6,Chance to get green gift/blue gift/purple gift:  24%/51%/5%,초록색/파란색/보라색 선물 획득 확률:  24%/51%/5%,,
+lobby/treasure|4|2|2|3|7,New characters and effects are limited-time Rate Up,제한 기간까지 새 캐릭터와 효과 획득 확률 상승,,
+lobby/treasure|4|2|2|3|8,You will get at least 1 purple gift when you perform a 10-summon using Jade.,휘옥을 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다.,,
+lobby/treasure|4|3|1|2|0|0|0,Character Info,캐릭터 정보,,
+lobby/treasure|4|3|1|2|0|1|0,Height:,신장:,,
+lobby/treasure|4|3|1|2|0|1|2,Birthday:,생일:,,
+lobby/treasure|4|3|1|2|0|1|4,Age:,나이:,,
+lobby/treasure|4|3|1|2|0|1|6,Blood Type:,혈액형:,,
+lobby/treasure|4|3|1|2|0|1|8,CV:,CV:,,
+lobby/treasure|4|3|1|2|0|1|10,Hobby:,취미:,,
+lobby/treasure|4|3|1|2|0|1|12,Biography:,약력:,,
+lobby/treasure|4|3|1|2|0|2|0|0,Voice,음성,,
+lobby/treasure|4|3|1|2|0|2|1|0,Sample 1,샘플 1,,
+lobby/treasure|4|3|1|2|0|2|2|0,Sample 2,샘플 2,,
+lobby/treasure|4|3|1|2|0|2|3|0,Sample 3,샘플 3,,
+lobby/treasure|5|0|2,Insufficient Summon Stones,기원의 소옥 부족,,
+lobby/treasure|5|0|11|0,Confirm,확인,,
+lobby/treasure|5|0|12|0,Cancel,취소,,
+lobby/treasure|5|0|13,Do you wish to spend,사용하시겠습니까,,
+lobby/treasure|5|0|14,Jade,휘옥,,
+lobby/treasure|5|0|15,Purchase,구매,,
+lobby/treasure|5|0|16,Summon Stones?,기원의 소옥?,,
+lobby/treasure|6|0|2,Insufficient Jade,휘옥 부족,,
+lobby/treasure|6|0|4|0,Buy,구매,,
+lobby/treasure|6|0|5|0,Cancel,취소,,
+lobby/treasure|6|0|6,Insufficient Jade ，Do you wish to Purchase ？,휘옥이 부족합니다. 구매하시겠습니까?,,
+lobby/visit|0|2,Visit,방문,,
+lobby/visit|2|3|0,Info,정보,,
+lobby/visit|2|4|0,Voice,음성,,
+lobby/visit|2|5|0|0|0|0,Character Info,캐릭터 정보,,
+lobby/visit|2|5|0|0|1|0,Height:,신장:,,
+lobby/visit|2|5|0|0|1|2,Birthday:,생일:,,
+lobby/visit|2|5|0|0|1|4,Age:,나이:,,
+lobby/visit|2|5|0|0|1|6,Blood Type:,혈액형:,,
+lobby/visit|2|5|0|0|1|8,CV:,CV:,,
+lobby/visit|2|5|0|0|1|10,Hobby:,취미:,,
+lobby/visit|2|5|0|0|1|12,Biography:,약력:,,
+lobby/visit|2|5|0|0|3|0|0,Emoji,이모티콘,,
+lobby/visit|2|5|0|0|3|1|0|1|0,Bond,인연,,
+lobby/visit|2|5|1|1|0,Requires a 5-heart Bond,5하트 인연 필요,,
+lobby/visit|2|5|1|1|1|0|0,Gift,선물,,
+lobby/visit|2|5|1|2|0|0,Gift,선물,,
+lobby/visit|2|5|1|2|1,Daily gift attempt:,일간 선물 잔여수:,,
+lobby/visit|2|5|3|0|1,Bond,인연,,
+lobby/visit|2|5|3|1|1,Gift,선물,,
+lobby/visit|2|6|0|0,Voice,음성,,
+lobby/visit|2|7|0,Info,정보,,
+lobby/visit|2|8|0,Voice,음성,,
+lobby/visit|3|0|0,Change Outfit,의상 변경,,
+lobby/visit|3|0|2|0|0|2|3,Event,이벤트,,
+lobby/waitingroom|0|5|2,Room,방,,
+lobby/waitingroom|0|5|5,Room,방,,
+lobby/waitingroom|0|6|1|1,Invite,초대,,
+lobby/waitingroom|0|6|2|1,Add AI,AI 추가,,
+lobby/waitingroom|0|6|3|1,Rules,규칙,,
+lobby/waitingroom|0|6|4|1,Copy Link,링크 복사,,
+lobby/waitingroom|0|6|5|1,Change Decoration,장식 변경,,
+lobby/waitingroom|1|2,Copy the room link and send it to your friends,방 링크를 복사해서 친구에게 보내세요,,
+lobby/waitingroom|1|5|0,Copy,복사,,
+lobby/waitingroom|2|1|2|0|2|1|0,Invite,초대,,
+lobby/waitingroom|2|1|2|0|3,Invited,초대함,,
+lobby/waitingroom|2|1|2|0|5,In a match,경기중,,
+lobby/waitingroom|2|1|4,There are no friends to invite,초대할 친구가 없습니다,,
+lobby/waitingroom|3|1|1|0|0,Character,캐릭터,,
+lobby/waitingroom|3|1|1|1|0,Decoration,장식,,
+lobby/waitingroom|3|1|4|0|2|0,In Use,사용중,,
+lobby/waitingroom|3|1|4|0|3|0|0,Use,사용하기,,
+lobby/waitingroom|3|1|4|0|4|0|0,Save,저장,,
+lobby/waitingroom|3|1|4|1|6|0,Empty,비어있음,,
+lobby/waitingroom|3|1|4|4|5|0,Empty,비어있음,,
+lobby/waitingroom|3|1|5|1|1,Change Outfit,의상 변경,,
+lobby/waitob|0|2,Starting in:,시작까지 남은 시간:,,
+lobby/waitob|0|3|0,Confirm,확인,,
+lobby/waitob|0|5,Second,초,,
+mj/desktopInfo|12|2|1,Auto Arrange,자동 정렬,,
+mj/desktopInfo|12|2|4,A,정,,
+mj/desktopInfo|12|3|1,Auto Call Win,자동 화료,,
+mj/desktopInfo|12|3|4,R,화,,
+mj/desktopInfo|12|4|1,No Chii/Pon/Kan,치/펑/깡 금지,,
+mj/desktopInfo|12|4|4,C,울,,
+mj/desktopInfo|12|5|3,Auto Draw & Discard,자동 쯔모기리,,
+mj/desktopInfo|12|5|4,D,쯔,,
+mj/desktopInfo|13|5,Emoji,이모티콘,,
+mj/gameend|0|6,Match End,경기 종료,,
+mj/gameend|0|7|2,Added to titles,타이틀에 추가,,
+mj/gameend|0|8|2,Confirm,확인,,
+mj/gameend|0|9|2,Exit,나가기,,
+mj/gameend|0|10|2,Back to log,로그로 돌아가기,,
+mj/gamestop|1|2,Match paused. Please wait in patience,경기가 일시정지됨. 잠시만 기다려주세요,,
+mj/hangup_warn|1|2,The system has detected you are AFK. Auto Draw & Discard enabled.,시스템이 AFK를 감지했습니다. 자동 쯔모기리가 활성화됩니다.,,
+mj/hangup_warn|1|3|0,I'm back,복귀,,
+mj/info_md5|0|2|0,"Majsoul promises all games are randomly generated. At the beginning of each match, the tile wall is already pre-determined, so the tiles issued in each game will not be changed, or influenced by any external factor. To support this statement, we have introduced a MD5 verification system. \\n The MD5 algorithm is a widely used cryptographic hash function. It converts the input bytes (tile wall sequence) into a series of hash value using an algorithm. MD5 is uni-directional, unique and chaotic. \\n Uni-directional: The MD5 code generated cannot be reversed. Therefore, the MD5 code we provide cannot be decrypted. No one can see your tile wall in advance. (PS: Most MD5 hacking tools are brute-force attack tools. It will take millions of years before anyone hacks a tile wall.) \\n Unique: Each input will only generate one unique MD5 code. \\n Chaotic: Two tile wall sequences will have completely different MD5 codes even if there is only one different tile between them. \\n The uniqueness and chaoticness ensure that tile walls cannot be modified. Otherwise, the MD5 code will significant change. \\n MD5 verification steps:\\n 1.In every match, players can click the Dora Indicator on the top left corner to view and record the tile wall MD5 code. Each flush of tile wall generates one set of MD5 code. \\n 2.After a match, players can go to Log and verify if the MD5 code in each game (recorded in the Log) against the value recorded when the game was played. The MD5 code obtained during the game should be consistent with the MD5 code in the Log. \\n 3.Each tile has a unique code. “Man” tiles are represented by “m”, “Pin” tiles are represented by “p”, “Sou” tiles are represented by “s” and word tiles are represented by “z”. For example, 1 Man is 1m, 9 Pin is 9p, 5 Sou is 5s. East, South, West, North, White, Green and Red are 1z, 2z, 3z, 4z, 5z, 6z and 7z accordingly. Special “Red” 5 Man is 0m, Red 5 Pin is 0p, Red 5 Sou is 0s. As such, each tile wall can be represented by a unique series of codes. For a tile wall of “8 Pin - 7 Sou - East - Red 5 Man”, the code will be 8p7s1z0m. Players can view tile walls in Log. A tile wall refers to the sequence of remaining tiles after all hands are drawn. Each tile wall displayed can be represented by a unique sequence using the method above. The tile wall code displayed at the bottom is generated using this method. \\n 4.A common online MD5 encryption website can be accessed at http://tool.chinaz.com/tools/md5.aspx On the left box, enter the tile wall code obtained from step 3, then select “32 digit encryption (L)” in the center, you will find the corresponding MD5 code on the right. You can compare the MD5 code generated with the MD5 code provided in game. If they are the same, your tile wall was pre-determined from the moment it was generated. This is a proof that we have not modified it in any way. If the tile wall was tampered, the tiles issued would not match with the Log. The MD5 codes generated would not match either. \\n Thank you for supporting Majsoul. We hope you enjoy the game and improve your skills every day.","작혼은 모든 게임이 무작위로 생성됨을 보장합니다. 각 경기가 시작될 때 패산이 미리 결정되어 있으므로 각 경기에서 쯔모하는 패는 변경되지 않으며, 어떠한 외부 요인에 의해서도 영향을 받지 않습니다. 이 진술을 뒷받침하기 위해 MD5 검증 시스템을 도입했습니다. \\n MD5 알고리즘은 널리 사용되는 암호화 해시 기능입니다. 알고리즘을 사용하여 입력 바이트(패산 순서)를 일련의 해시 값으로 변환합니다. MD5는 혼돈스럽고 고유하며 단방향으로 동작합니다. \\n 단방향: 생성된 MD5 코드는 복원할 수 없습니다. 따라서 작혼에서 제공하는 MD5 코드는 해독할 수 없으며 누구도 패산을 미리 볼 수 없습니다.(참고: 대부분의 MD5 해킹 도구는 무차별 대입 공격 도구입니다. 누군가가 패산을 해킹하려면 수백만 년이 걸릴 것입니다.) \\n 고유: 각 입력(패산)은 하나의 고유한  MD5 코드만 생성합니다. \\n 혼돈: 두 패산 순서는 서로 다른 패가 하나만 있어도 완전히 다른 MD5 코드를 갖습니다. \\n 고유성과 혼돈성에 의해 패산이 수정되지 않았다는 것을 보장하며, 만약 수정됬을 경우 MD5 코드가 크게 변경될 것입니다. \\n MD5 검증 단계: \\n 1. 매 경기마다 플레이어는 좌측 상단의 도라 표시기를 클릭하여 패산 MD5 코드를 보고 기록할 수 있습니다. 패산이 생성될 때 마다 하나의 MD5 코드 세트가 생성됩니다. \\n 2. 경기 후 플레이어는 로그로 이동하여 각 게임의 MD5 코드(로그에 기록됨)가 게임 플레이시 기록된 값과 일치하는지 비교할 수 있습니다. 게임 중에 얻은 MD5 코드는 로그의 MD5 코드와 일치해야 합니다. \\n 3. 각 패마다 고유한 코드가 있습니다. 만수패는 ""m""으로, 통수패는 ""p""로, 삭수패는 ""s""로, 자패는 ""z""로 나타냅니다. 예를 들어 1만은 1m, 9통은 9p, 5삭은 5s입니다. 동,남,서,북,백,발,중은 1z, 2z, 3z, 4z, 5z, 6z, 7z 입니다. 특수한 적5만은 0m, 적5통은 0p. 적5삭은 0s입니다. 이와 같이 각각의 패산은 고유한 일련의 코드로 표시될 수 있습니다. ""8통-7삭-동-적5만"" 패산의 코드는 8p7s1z0m 입니다. 플레이어는 로그에서 패산을 볼 수 있습니다. 패산은 모든 모든 배패를 완료한 후 남은 패 순서를 말합니다. 표시되는 각 패는 위의 방법을 사용하여 고유한 시퀀스로 나타낼 수 있습니다. 하단에 표시되는 패산 코드는 이 방법으로 생성됩니다. \\n 4. 일반적인 온라인 MD5 암호화 웹 사이트는 http://tool.chinaz.com/tools/md5.aspx 로 접속할 수 있습니다. 왼쪽 입력 상자에 3단계에서 얻은 패산 코드를 입력한 다음 가운데에서 ""32자리 암호화(L)""을 선택하면 오른쪽에 해당하는 MD5 코드가 표시됩니다. 생성된 MD5 코드를 게임에서 제공하는 MD5 코드와 비교할 수 있습니다. 만약 두 코드가 일치한다면 패산이 생성된 순간에 미리 결정되었다는 것입니다. 이것은 작혼이 어떤식으로든 패산을 수정하지 않았다는 증거입니다. 패산이 변조된 경우 쯔모한 패가 로그와 일치하지 않습니다. 생성된 MD5 코드도 일치하지 않습니다. \\n 작혼을 지지해주셔서 감사합니다. 우리는 당신이 매일 게임을 즐기고 실력이 향상되기를 바랍니다.",,
+mj/live_broadcast|0|1,Watch,관전,,
+mj/live_broadcast|0|2|0|0,Show Hands,손패 보기,,
+mj/live_broadcast|0|3|0|0,Deal-in Tile,대기패,,
+mj/live_broadcast|0|4|0|0,View log,로그 보기,,
+mj/live_broadcast|1,Real-time spectating,실시간 관전,,
+mj/ob_replay|0|9|2,Turn,순,,
+mj/ob_replay|1|1|0|2|4,Repeat Counter,연장,,
+mj/ob_replay|1|1|0|4|1,Tsumo,쯔모,,
+mj/ob_replay|1|1|0|5|1,Deal-in,방총,,
+mj/ob_replay|2|1|0|2,Turn,순,,
+mj/replay|1|9|2,Turn,순,,
+mj/replay|1|13|1,Wall,패산,,
+mj/replay|2|1|0|2|4,Repeat Counter,연장,,
+mj/replay|2|1|0|3,Exhaustive Draw,유국,,
+mj/replay|2|1|0|5|1,Deal-in,방총,,
+mj/replay|3|1|0|2,Turn,순,,
+mj/replay|4|1,Log,로그,,
+mj/replay|4|2|0|0,Show Hands,손패 보기,,
+mj/replay|4|3|0|0,Deal-in Tile,대기패,,
+mj/replay|4|4|0|0,Effect Display,효과 표시,,
+mj/replay|4|5|0|0,Show Nickname,닉네임 표시,,
+mj/replay|5|0|0|1|1,Wall Code:,패산 코드:,,
+mj/rewardprogress|1|0,Bond,인연,,
+mj/rewardprogress|2|1,Bond Gift,인연 선물,,
+mj/scorechange|6|3,Confirm,확인,,
+mj/tingpai|0|2|0|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|1|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|2|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|3|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|4|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|5|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|6|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|7|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|8|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|9|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|10|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|11|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|12|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|13|1|0,Furiten,후리텐,,
+mj/tingpai|0|2|14|1|0,Furiten,후리텐,,
+mj/vote|0|2,Match End,경기 종료,,
+mj/vote|0|3,Are you sure to vote to end the match?,경기 종료 투표를 하시겠습니까?,,
+mj/vote|0|4,(The match will end once all players agree.),(모든 플레이어가 동의하면 경기가 종료됩니다.),,
+mj/vote|0|5|0,Confirm,확인,,
+mj/vote|0|6|0,Cancel,취소,,
+mj/vote_cd|0|2,Match End,경기 종료,,
+mj/vote_cd|0|3,"Last vote was not agreed by all the players, please start the next vote after 5 minutes.",최근 투표에서 모든 플레이어가 동의하지 않았습니다. 5분 뒤에 다시 투표해주세요.,,
+mj/vote_cd|0|5|0,Confirm,확인,,
+mj/vote_progress|0|2,Match End,경기 종료,,
+mj/vote_progress|0|3|0,Agree,동의,,
+mj/vote_progress|0|4|0,Disagree,동의하지 않음,,
+mj/win|1|6|0|1,Mangan at Draw,유국만관,,
+mj/win|1|15|3,Confirm,확인,,
+mj/win|1|19|0,Event Points：,이벤트 점수：,,

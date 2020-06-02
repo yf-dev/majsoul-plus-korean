@@ -7,9 +7,9 @@ lang = os.getenv('MAJSOUL_LANG', 'en')
 
 def parse_node(translate_json_rows, node, path):
     if 'text' in node['props']:
-        text = node['props']['text']
+        text = node['props']['text'].replace('\\', '\\\\').replace('\n', '\\n')
         if text:
-            translate_json_rows.append([path, text, text])
+            translate_json_rows.append([path, text, text, None, None])
     if 'child' in node:
         for i, child in enumerate(node['child']):
             parse_node(translate_json_rows, child, f'{path}|{i}')
