@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-02 15:32+0000\n"
+"PO-Revision-Date: 2020-06-02 16:46+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1381,7 +1381,7 @@ msgstr "코드 전송"
 #: translate_json.csv:271
 msgctxt "json|entrance/entrance|2|0|5|4|0"
 msgid "Agree to the"
-msgstr "동의: "
+msgstr "동의:"
 
 #: translate_json.csv:272
 msgctxt "json|entrance/entrance|2|0|5|4|1"
@@ -1512,7 +1512,7 @@ msgstr "받음"
 #: translate_json.csv:297
 msgctxt "json|lobby/activitys/activity_task|0|0|1|1|3"
 msgid "coppers"
-msgstr "동전: "
+msgstr "동전:"
 
 #: translate_json.csv:298
 msgctxt "json|lobby/activitys/activity_task|0|0|1|1|8"
@@ -4326,28 +4326,33 @@ msgid ""
 "MD5 codes generated would not match either. \\n Thank you for supporting "
 "Majsoul. We hope you enjoy the game and improve your skills every day."
 msgstr ""
-"작혼은 모든 게임이 무작위로 생성됨을 보장합니다. 각 경기가 시작될 때 패산이 미리 결정되어 있으므로 각 경기에서 쯔모하는 패는 변경되지"
-" 않으며, 어떠한 외부 요인에 의해서도 영향을 받지 않습니다. 이 진술을 뒷받침하기 위해 MD5 검증 시스템을 도입했습니다. \\n "
-"MD5 알고리즘은 널리 사용되는 암호화 해시 기능입니다. 알고리즘을 사용하여 입력 바이트(패산 순서)를 일련의 해시 값으로 변환합니다. "
-"MD5는 혼돈스럽고 고유하며 단방향으로 동작합니다. \\n 단방향: 생성된 MD5 코드는 복원할 수 없습니다. 따라서 작혼에서 제공하는 "
-"MD5 코드는 해독할 수 없으며 누구도 패산을 미리 볼 수 없습니다.(참고: 대부분의 MD5 해킹 도구는 무차별 대입 공격 도구입니다. "
-"누군가가 패산을 해킹하려면 수백만 년이 걸릴 것입니다.) \\n 고유: 각 입력(패산)은 하나의 고유한  MD5 코드만 생성합니다. "
-"\\n 혼돈: 두 패산 순서는 서로 다른 패가 하나만 있어도 완전히 다른 MD5 코드를 갖습니다. \\n 고유성과 혼돈성에 의해 패산이 "
-"수정되지 않았다는 것을 보장하며, 만약 수정됬을 경우 MD5 코드가 크게 변경될 것입니다. \\n MD5 검증 단계: \\n 1. 매 "
-"경기마다 플레이어는 좌측 상단의 도라 표시기를 클릭하여 패산 MD5 코드를 보고 기록할 수 있습니다. 패산이 생성될 때 마다 하나의 "
-"MD5 코드 세트가 생성됩니다. \\n 2. 경기 후 플레이어는 로그로 이동하여 각 게임의 MD5 코드(로그에 기록됨)가 게임 플레이시 "
-"기록된 값과 일치하는지 비교할 수 있습니다. 게임 중에 얻은 MD5 코드는 로그의 MD5 코드와 일치해야 합니다. \\n 3. 각 패마다"
-" 고유한 코드가 있습니다. 만수패는 \"m\"으로, 통수패는 \"p\"로, 삭수패는 \"s\"로, 자패는 \"z\"로 나타냅니다. 예를 "
-"들어 1만은 1m, 9통은 9p, 5삭은 5s입니다. 동,남,서,북,백,발,중은 1z, 2z, 3z, 4z, 5z, 6z, 7z 입니다."
-" 특수한 적5만은 0m, 적5통은 0p. 적5삭은 0s입니다. 이와 같이 각각의 패산은 고유한 일련의 코드로 표시될 수 있습니다. "
-"\"8통-7삭-동-적5만\" 패산의 코드는 8p7s1z0m 입니다. 플레이어는 로그에서 패산을 볼 수 있습니다. 패산은 모든 모든 배패를"
-" 완료한 후 남은 패 순서를 말합니다. 표시되는 각 패는 위의 방법을 사용하여 고유한 시퀀스로 나타낼 수 있습니다. 하단에 표시되는 패산"
-" 코드는 이 방법으로 생성됩니다. \\n 4. 일반적인 온라인 MD5 암호화 웹 사이트는 "
-"http://tool.chinaz.com/tools/md5.aspx 로 접속할 수 있습니다. 왼쪽 입력 상자에 3단계에서 얻은 패산 "
-"코드를 입력한 다음 가운데에서 \"32자리 암호화(L)\"을 선택하면 오른쪽에 해당하는 MD5 코드가 표시됩니다. 생성된 MD5 코드를 "
-"게임에서 제공하는 MD5 코드와 비교할 수 있습니다. 만약 두 코드가 일치한다면 패산이 생성된 순간에 미리 결정되었다는 것입니다. 이것은"
-" 작혼이 어떤식으로든 패산을 수정하지 않았다는 증거입니다. 패산이 변조된 경우 쯔모한 패가 로그와 일치하지 않습니다. 생성된 MD5 "
-"코드도 일치하지 않습니다. \\n 작혼을 지지해주셔서 감사합니다. 우리는 당신이 매일 게임을 즐기고 실력이 향상되기를 바랍니다."
+"작혼은 모든 게임이 무작위로 생성됨을 보장합니다. 각 경기가 시작될 때 패산이 미리 결정되어 있으므로 각 경기에서 쯔모하는 패는 변경되지 "
+"않으며, 어떠한 외부 요인에 의해서도 영향을 받지 않습니다. 이 진술을 뒷받침하기 위해 MD5 검증 시스템을 도입했습니다. \\n"
+" MD5 알고리즘은 널리 사용되는 암호화 해시 기능입니다. 알고리즘을 사용하여 입력 바이트(패산 순서)를 일련의 해시 값으로 변환합니다. "
+"MD5는 혼돈스럽고 고유하며 단방향으로 동작합니다. \\n"
+" 단방향: 생성된 MD5 코드는 복원할 수 없습니다. 따라서 작혼에서 제공하는 MD5 코드는 해독할 수 없으며 누구도 패산을 미리 볼 수 "
+"없습니다.(참고: 대부분의 MD5 해킹 도구는 무차별 대입 공격 도구입니다. 누군가가 패산을 해킹하려면 수백만 년이 걸릴 것입니다.) \\"
+"n"
+" 고유: 각 입력(패산)은 하나의 고유한 MD5 코드만 생성합니다. \\n"
+" 혼돈: 두 패산 순서는 서로 다른 패가 하나만 있어도 완전히 다른 MD5 코드를 갖습니다. \\n"
+" 고유성과 혼돈성에 의해 패산이 수정되지 않았다는 것을 보장하며, 만약 수정됬을 경우 MD5 코드가 크게 변경될 것입니다. \\n"
+" MD5 검증 단계: \\n"
+" 1. 매 경기마다 플레이어는 좌측 상단의 도라 표시기를 클릭하여 패산 MD5 코드를 보고 기록할 수 있습니다. 패산이 생성될 때 마다 "
+"하나의 MD5 코드 세트가 생성됩니다. \\n"
+" 2. 경기 후 플레이어는 로그로 이동하여 각 게임의 MD5 코드(로그에 기록됨)가 게임 플레이시 기록된 값과 일치하는지 비교할 수 "
+"있습니다. 게임 중에 얻은 MD5 코드는 로그의 MD5 코드와 일치해야 합니다. \\n"
+" 3. 각 패마다 고유한 코드가 있습니다. 만수패는 \"m\"으로, 통수패는 \"p\"로, 삭수패는 \"s\"로, 자패는 \"z\"로 "
+"나타냅니다. 예를 들어 1만은 1m, 9통은 9p, 5삭은 5s입니다. 동, 남, 서 ,북, 백, 발, 중은 1z, 2z, 3z, 4z, "
+"5z, 6z, 7z 입니다. 특수한 적5만은 0m, 적5통은 0p. 적5삭은 0s입니다. 이와 같이 각각의 패산은 고유한 일련의 코드로 "
+"표시될 수 있습니다. \"8통-7삭-동-적5만\" 패산의 코드는 8p7s1z0m 입니다. 플레이어는 로그에서 패산을 볼 수 있습니다. "
+"패산은 모든 모든 배패를 완료한 후 남은 패 순서를 말합니다. 표시되는 각 패는 위의 방법을 사용하여 고유한 시퀀스로 나타낼 수 "
+"있습니다. 하단에 표시되는 패산 코드는 이 방법으로 생성됩니다. \\n"
+" 4. 일반적인 온라인 MD5 암호화 웹 사이트는 http://tool.chinaz.com/tools/md5.aspx 로 접속할 수 "
+"있습니다. 왼쪽 입력 상자에 3단계에서 얻은 패산 코드를 입력한 다음 가운데에서 \"32자리 암호화(L)\"을 선택하면 오른쪽에 해당하는 "
+"MD5 코드가 표시됩니다. 생성된 MD5 코드를 게임에서 제공하는 MD5 코드와 비교할 수 있습니다. 만약 두 코드가 일치한다면 패산이 "
+"생성된 순간에 미리 결정되었다는 것입니다. 이것은 작혼이 어떤식으로든 패산을 수정하지 않았다는 증거입니다. 패산이 변조된 경우 쯔모한 "
+"패가 로그와 일치하지 않습니다. 생성된 MD5 코드도 일치하지 않습니다. \\n"
+" 작혼을 지지해주셔서 감사합니다. 우리는 당신이 매일 게임을 즐기고 실력이 향상되기를 바랍니다."
 
 #: translate_json.csv:851
 msgctxt "json|mj/live_broadcast|0|1"
@@ -4862,7 +4867,7 @@ msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid ""
 "Win a hand with three Triplets with the same number out of the Number Tiles "
 "(Man, Pin, Sou)"
-msgstr "세가지 같은 숫자로 각 수패(만수, 통수, 삭수)로 커쯔 몸통을 만들어 화료 "
+msgstr "세가지 같은 숫자로 각 수패(만수, 통수, 삭수)로 커쯔 몸통을 만들어 화료"
 
 #: translate_sheet.csv:46
 msgctxt "sheet|FandescFandesc.csv|name_en"
@@ -5884,7 +5889,7 @@ msgstr "이미 첨부(attachment)를 받았습니다."
 #: translate_sheet.csv:235
 msgctxt "sheet|InfoError.csv|en"
 msgid "Please claim your uncollected reward first"
-msgstr "먼저 획득하지 않은 보상을 받아주세요."
+msgstr "먼저 획득하지 않은 보상을 받아주세요"
 
 #: translate_sheet.csv:236
 msgctxt "sheet|InfoError.csv|en"
@@ -6048,7 +6053,7 @@ msgstr "행운의 부적 최대 기간 초과"
 msgctxt "sheet|InfoError.csv|en"
 msgid ""
 "The number of purchases has reached the ceiling and cannot be re-purchased"
-msgstr "구매 횟수가 상한선에 도달하여 더 이상 구매할 수 없습니다."
+msgstr "구매 횟수가 상한선에 도달하여 더 이상 구매할 수 없습니다"
 
 #: translate_sheet.csv:268
 msgctxt "sheet|InfoError.csv|en"
@@ -6271,17 +6276,17 @@ msgstr "수집 상한"
 #: translate_sheet.csv:310
 msgctxt "sheet|InfoError.csv|en"
 msgid "Unable to claim the rewards right now"
-msgstr "지금 보상을 받을 수 없습니다."
+msgstr "지금 보상을 받을 수 없습니다"
 
 #: translate_sheet.csv:311
 msgctxt "sheet|InfoError.csv|en"
 msgid "The rewards has already been claimed"
-msgstr "보상을 이미 받았습니다."
+msgstr "보상을 이미 받았습니다"
 
 #: translate_sheet.csv:312
 msgctxt "sheet|InfoError.csv|en"
 msgid "Not enough attempts"
-msgstr "더 이상 시도할 수 없습니다."
+msgstr "더 이상 시도할 수 없습니다"
 
 #: translate_sheet.csv:313
 msgctxt "sheet|InfoError.csv|en"
@@ -6530,7 +6535,7 @@ msgstr "의상 교환권"
 #: translate_sheet.csv:348
 msgctxt "sheet|ItemDefinitionCurrency.csv|desc_en"
 msgid "A currency used to purchase outfits"
-msgstr "의상을 구입하는데 사용되는 화폐입니다."
+msgstr "의상을 구입하는데 사용되는 화폐입니다"
 
 #: translate_sheet.csv:349
 msgctxt "sheet|DesktopChest.csv|name_en"
@@ -7532,10 +7537,11 @@ msgid ""
 "Natsuki Shinomiya is a common college boy as well as a part-time bartender of LULLABY. Like many Otakus, Shinomiya spends all his spare time in playing video games and reading mangas, and behaves like a chunibyo in certain circumstances. Under the influence of the owner of LULLABY, Shinomiya learned and became fond of Mahjong.\n"
 "Shinomiya role-plays a rogue character named WhiteNight in an MMORPG. He cosplays his rogue from time to time, and calls himself the best coser of WhiteNight."
 msgstr ""
-"바 \"LULLABY\"에서 바텐더 아르바이트를 하고 있는 평범한 대학생. 약간 중2병스럽고, 게임과 만화를 좋아하는 오타쿠. 바 오너의"
-" 영향으로 마작을 시작했다. 마작 실력에는 꽤 자신이 있다. 자주 하는 MMORPG에서는 \"백야(白夜)\"라는 ID로 도적 캐릭터를 "
-"플레이하고 있다. 평소 자신 안에 억눌려있던 감정을 토해내기 때문인지, 게임 내의 언동은 실제라고 믿기 어려울 정도로 날뛰는 경향이 "
-"있다. 동인 이벤트 등에서는 \"백야\"의 코스프레를 하고 자주 참가해, 가장 재현도가 높은 백야 코스플레이어라고 칭송받고 있다."
+"바 \"LULLABY\"에서 바텐더 아르바이트를 하고 있는 평범한 대학생. 약간 중2병스럽고, 게임과 만화를 좋아하는 오타쿠. 바 오너의 "
+"영향으로 마작을 시작했다. 마작 실력에는 꽤 자신이 있다. 자주 하는 MMORPG에서는 \"백야(白夜)\"라는 ID로 도적 캐릭터를 "
+"플레이하고 있다. 평소 자신 안에 억눌려있던 감정을 토해내기 때문인지, 게임 내의 언동은 실제라고 믿기 어려울 정도로 날뛰는 경향이 있다."
+"\n"
+"동인 이벤트 등에서는 \"백야\"의 코스프레를 하고 자주 참가해, 가장 재현도가 높은 백야 코스플레이어라고 칭송받고 있다."
 
 #: translate_sheet.csv:532
 msgctxt "sheet|ItemDefinitionCharacter.csv|name_en"
@@ -7692,9 +7698,11 @@ msgid ""
 "Keikumusume’s personality changes when she takes off her witch hat. Once the hat is off, she goes from being a carefree naive girl to someone who is very dependable in nature. But such change is totally clueless to herself.\n"
 "It seems that she has an infinite supply of witch hats at her disposal, yet where she keeps her supply remains a mystery."
 msgstr ""
-"어느 학교에 있는 폐부 직전의 문학부 부장. 평소에는 기묘한 마녀모자를 쓰고 라노벨을 읽으며, 부원에게 문학부를 구원받길 기다리고 있다."
-" 모자를 씀으로써 인격을 바꿀 수 있다. 모자를 쓰지 않았을 때는 똑부러지는 성격이지만, 모자를 쓰면 덜렁이가 되며, 본인에게 자각은 "
-"없다. 모자에는 대량의 비품이 들어있을 것 같지만, 어디에 보존되는지는 미스터리."
+"어느 학교에 있는 폐부 직전의 문학부 부장. 평소에는 기묘한 마녀모자를 쓰고 라노벨을 읽으며, 부원에게 문학부를 구원받길 기다리고 있다. "
+"\n"
+"모자를 씀으로써 인격을 바꿀 수 있다. 모자를 쓰지 않았을 때는 똑부러지는 성격이지만, 모자를 쓰면 덜렁이가 되며, 본인에게 자각은 없다."
+"\n"
+"모자에는 대량의 비품이 들어있을 것 같지만, 어디에 보존되는지는 미스터리."
 
 #: translate_sheet.csv:557
 msgctxt "sheet|ItemDefinitionCharacter.csv|desc_item_en"
@@ -7702,8 +7710,6 @@ msgid ""
 "Keikumusume possesses a quirky appearance as she is often seen wearing a "
 "witch hat."
 msgstr ""
-"Keikumusume possesses a quirky appearance as she is often seen wearing a "
-"witch hat."
 
 #: translate_sheet.csv:558
 msgctxt "sheet|ItemDefinitionCharacter.csv|name_en"
@@ -7971,9 +7977,10 @@ msgid ""
 "Under the suggestion of his friends, he started adventuring as a career. His humorous speech and bold actions brought the adventure show back to life. \n"
 "Sometimes, you can see him in a Mahjong club sitting in door for the entire afternoon.\""
 msgstr ""
-"탐험방송의 젊은 진행자. 어릴때부터 자연이나 동물을 좋아했고, 모험심이 넘쳐나 젊은 시절에 전세계를 누비고 다녔다. 본래 탐험을 단순한 "
-"취미로만 생각했지만, 친한 친구의 어드바이스로 취미를 직업으로 삼기로했다. 자신의 유머와 대담한 행동으로 종영 직전이었던 탐험방송을 다시"
-" 태어나게 했다. 이런 대자연의 사나이라도 가끔은 마작회관에 출몰할 때도 있다. 인도어의 의외의 행동도 보인다."
+"\"탐험방송의 젊은 진행자. 어릴때부터 자연이나 동물을 좋아했고, 모험심이 넘쳐나 젊은 시절에 전세계를 누비고 다녔다.\n"
+"본래 탐험을 단순한 취미로만 생각했지만, 친한 친구의 어드바이스로 취미를 직업으로 삼기로했다. 자신의 유머와 대담한 행동으로 종영 "
+"직전이었던 탐험방송을 다시 태어나게 했다.\n"
+"이런 대자연의 사나이라도 가끔은 마작회관에 출몰할 때도 있다. 인도어의 의외의 행동도 보인다.\""
 
 #: translate_sheet.csv:598
 msgctxt "sheet|ItemDefinitionCharacter.csv|name_en"
@@ -8268,12 +8275,12 @@ msgstr "화료하기 위해서는 역이 필요합니다. 울기(치/펑/깡) �
 #: translate_sheet.csv:651
 msgctxt "sheet|StrStr.csv|en"
 msgid "Go to settings menu to view all types of Yaku"
-msgstr "설정 메뉴에서 모든 역을 확인할 수 있습니다."
+msgstr "설정 메뉴에서 모든 역을 확인할 수 있습니다"
 
 #: translate_sheet.csv:652
 msgctxt "sheet|StrStr.csv|en"
 msgid "In settings, you can choose to play a tile with single or double click"
-msgstr "설정에서 한번 터치 또는 두번 터치로 타패하도록 변경할 수 있습니다."
+msgstr "설정에서 한번 터치 또는 두번 터치로 타패하도록 변경할 수 있습니다"
 
 #: translate_sheet.csv:653
 msgctxt "sheet|StrStr.csv|en"
@@ -9017,7 +9024,7 @@ msgstr "상대방을 찾는 중"
 #: translate_sheet.csv:800
 msgctxt "sheet|StrStr.csv|en"
 msgid "Starting soon"
-msgstr "잠시 후 시작: "
+msgstr "잠시 후 시작:"
 
 #: translate_sheet.csv:801
 msgctxt "sheet|StrStr.csv|en"
@@ -10707,3 +10714,513 @@ msgstr "发送验证码"
 msgctxt "json|both_ui/bind_mail1|0|2"
 msgid "绑定邮箱"
 msgstr "绑定邮箱"
+
+#: translate_sheet.csv:281
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 28 games with Ron and Tsumo"
+msgstr "28 게임을 화료"
+
+#: translate_sheet.csv:280
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 2 games with Yaku: Dragon"
+msgstr "2 게임을 삼원패로 화료"
+
+#: translate_sheet.csv:279
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Get 1st or 2nd 1 time in Chaotic Wall Break"
+msgstr "혼돈의 패산파괴 게임에서 1등 또는 2등 1회 달성"
+
+#: translate_sheet.csv:278
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 8 games with 1 Han Yaku included"
+msgstr "8 게임을 1판 역을 포함하여 화료"
+
+#: translate_sheet.csv:277
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 2 games with 1 Han Yaku included"
+msgstr "2 게임을 1판 역을 포함하여 화료"
+
+#: translate_sheet.csv:276
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with All Simples or Pinfu"
+msgstr "1 게임을 탕야오 또는 핑후로 화료"
+
+#: translate_sheet.csv:275
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with 2 Han Yaku or above included"
+msgstr "1 게임을 2판 역 이상을 포함하여 화료"
+
+#: translate_sheet.csv:274
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with Ippatsu, Ura Dora or Fully Concealed Hand"
+msgstr "1 게임을 일발, 뒷도라, 멘젠쯔모를 포함하여 화료"
+
+#: translate_sheet.csv:273
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Finish 1 match in 2nd or 1st place"
+msgstr "1등 또는 2등 1회 달성"
+
+#: translate_sheet.csv:272
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with Seat Wind, Prevalent Wind or Dragons"
+msgstr "1 게임을 자풍패, 장풍패 또는 삼원패로 화료"
+
+#: translate_sheet.csv:271
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 2 games with Yaku: Seat/Prevalent Wind"
+msgstr "2 게임을 역: 자풍패/장풍패로 화료"
+
+#: translate_sheet.csv:270
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Donate 1 gift (Items - Gift)"
+msgstr "선물 1개 기부(창고- 선물)"
+
+#: translate_sheet.csv:269
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Ron 10 times"
+msgstr "10회 론 화료"
+
+#: translate_sheet.csv:268
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 33 games with Ron and Tsumo"
+msgstr "33 게임을 화료"
+
+#: translate_sheet.csv:267
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 2 games with at least a Ura Dora"
+msgstr "2 게임을 뒷도라를 하나 이상 포함하여 화료"
+
+#: translate_sheet.csv:266
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Get 1st or 2nd 1 time in Open Hand Match"
+msgstr "손패 공개 게임에서 1등 또는 2등 1회 달성"
+
+#: translate_sheet.csv:265
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 3 games with Yaku: Dragon"
+msgstr "3 게임을 삼원패로 화료"
+
+#: translate_sheet.csv:264
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 3 games with Fully Concealed Hand"
+msgstr "3 게임을 멘젠쯔모로 화료"
+
+#: translate_sheet.csv:263
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 6 games with Riichi"
+msgstr "6 게임을 리치로 화료"
+
+#: translate_sheet.csv:248
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 20 games with at least a Dora"
+msgstr "20 게임을 도라를 하나 이상 포함하여 화료"
+
+#: translate_sheet.csv:247
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win a game with Prevalent Wind"
+msgstr "장풍패로 화료"
+
+#: translate_sheet.csv:246
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win a game with Seven Pairs"
+msgstr "치또이츠로 화료"
+
+#: translate_sheet.csv:245
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Purchase 2 times from Misc Shop"
+msgstr "잡화점에서 아이템 2회 구매"
+
+#: translate_sheet.csv:244
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Ron 8 times"
+msgstr "8회 론 화료"
+
+#: translate_sheet.csv:243
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 2 games with a Yaku that values 2 Han or above"
+msgstr "2 게임을 2판 이상의 역을 포함하여 화료"
+
+#: translate_sheet.csv:242
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 2 games with Yakuhai: Red"
+msgstr "2게임을 역패: 중으로 화료"
+
+#: translate_sheet.csv:241
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Avoid dealing into others' in 88 games"
+msgstr "88번 방총 회피하기"
+
+#: translate_sheet.csv:240
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 5 games with at least a Ura Dora"
+msgstr "5 게임을 뒷도라를 하나 이상 포함하여 화료"
+
+#: translate_sheet.csv:239
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win a game with Ippatsu"
+msgstr "일발로 화료"
+
+#: translate_sheet.csv:238
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 2 games with Yakuhai: Green"
+msgstr "2 게임을 역패: 발로 화료"
+
+#: translate_sheet.csv:237
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 10 games with a Yaku that values 1 Han"
+msgstr "10 게임을 1판역을 포함하여 화료"
+
+#: translate_sheet.csv:236
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 5 games with at least a Red Five"
+msgstr "5 게임을 하나 이상의 적도라를 포함하여 화료"
+
+#: translate_sheet.csv:235
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 2 games with Yakuhai: White"
+msgstr "2 게임을 역패: 백으로 화료"
+
+#: translate_sheet.csv:234
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 2 games with Fully Concealed Hand"
+msgstr "2 게임을 멘젠쯔모로 화료"
+
+#: translate_sheet.csv:233
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 10 games with at least a Dora"
+msgstr "20 게임을 도라를 하나 이상 포함하여 화료"
+
+#: translate_sheet.csv:232
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 2 games with Pinfu"
+msgstr "2 게임을 핑후로 화료"
+
+#: translate_sheet.csv:231
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win a game with Seat Wind"
+msgstr "자풍패로 화료"
+
+#: translate_sheet.csv:230
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win a game with Dora"
+msgstr "도라를 포함하여 화료"
+
+#: translate_sheet.csv:229
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Yaku: All Simples"
+msgstr "역: 탕야오"
+
+#: translate_sheet.csv:228
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Fully Concealed Hand/Pinfu"
+msgstr "멘젠쯔모/핑후"
+
+#: translate_sheet.csv:227
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Ura Dora or Yaku: Ippatsu"
+msgstr "뒷도라 또는 역: 일발"
+
+#: translate_sheet.csv:226
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "大四喜"
+msgstr "大四喜"
+
+#: translate_sheet.csv:225
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "小四喜"
+msgstr "小四喜"
+
+#: translate_sheet.csv:224
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "字一色"
+msgstr "字一色"
+
+#: translate_sheet.csv:223
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "大三元"
+msgstr "大三元"
+
+#: translate_sheet.csv:222
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "混一色"
+msgstr "混一色"
+
+#: translate_sheet.csv:221
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "小三元"
+msgstr "小三元"
+
+#: translate_sheet.csv:220
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "混老头"
+msgstr "混老头"
+
+#: translate_sheet.csv:219
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "混全带幺九"
+msgstr "混全带幺九"
+
+#: translate_sheet.csv:218
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "场风"
+msgstr "场风"
+
+#: translate_sheet.csv:217
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "自风"
+msgstr "自风"
+
+#: translate_sheet.csv:216
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "中"
+msgstr "中"
+
+#: translate_sheet.csv:215
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "发"
+msgstr "发"
+
+#: translate_sheet.csv:214
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "白"
+msgstr "白"
+
+#: translate_sheet.csv:213
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "四杠子"
+msgstr "四杠子"
+
+#: translate_sheet.csv:212
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "绿一色"
+msgstr "绿一色"
+
+#: translate_sheet.csv:211
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "清老头"
+msgstr "清老头"
+
+#: translate_sheet.csv:210
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "清一色"
+msgstr "清一色"
+
+#: translate_sheet.csv:209
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "纯全带幺九"
+msgstr "纯全带幺九"
+
+#: translate_sheet.csv:208
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "河底捞鱼"
+msgstr "河底捞鱼"
+
+#: translate_sheet.csv:207
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "海底摸月"
+msgstr "海底摸月"
+
+#: translate_sheet.csv:206
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "岭上开花"
+msgstr "岭上开花"
+
+#: translate_sheet.csv:205
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "一气通贯"
+msgstr "一气通贯"
+
+#: translate_sheet.csv:204
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "三暗刻"
+msgstr "三暗刻"
+
+#: translate_sheet.csv:203
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "对对和"
+msgstr "对对和"
+
+#: translate_sheet.csv:202
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "三杠子"
+msgstr "三杠子"
+
+#: translate_sheet.csv:201
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "三色同刻"
+msgstr "三色同刻"
+
+#: translate_sheet.csv:200
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "三色同顺"
+msgstr "三色同顺"
+
+#: translate_sheet.csv:199
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "抢杠"
+msgstr "抢杠"
+
+#: translate_sheet.csv:198
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "一发"
+msgstr "一发"
+
+#: translate_sheet.csv:197
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "北宝牌"
+msgstr "北宝牌"
+
+#: translate_sheet.csv:196
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "里宝牌"
+msgstr "里宝牌"
+
+#: translate_sheet.csv:195
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "宝牌"
+msgstr "宝牌"
+
+#: translate_sheet.csv:194
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "红宝牌"
+msgstr "红宝牌"
+
+#: translate_sheet.csv:193
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "断幺九"
+msgstr "断幺九"
+
+#: translate_sheet.csv:192
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "纯正九莲"
+msgstr "纯正九莲"
+
+#: translate_sheet.csv:191
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "九莲宝灯"
+msgstr "九莲宝灯"
+
+#: translate_sheet.csv:190
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "国士十三面"
+msgstr "国士十三面"
+
+#: translate_sheet.csv:188
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "四暗刻单器"
+msgstr "四暗刻单器"
+
+#: translate_sheet.csv:186
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "地和"
+msgstr "地和"
+
+#: translate_sheet.csv:185
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "天和"
+msgstr "天和"
+
+#: translate_sheet.csv:184
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "二杯口"
+msgstr "二杯口"
+
+#: translate_sheet.csv:183
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "两立直"
+msgstr "两立直"
+
+#: translate_sheet.csv:181
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "一杯口"
+msgstr "一杯口"
+
+#: translate_sheet.csv:180
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "平和"
+msgstr "平和"
+
+#: translate_sheet.csv:179
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "门前清自摸和"
+msgstr "门前清自摸和"
+
+#: translate_sheet.csv:178
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "立直"
+msgstr "立直"
+
+#: translate_sheet.csv:177
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Yaku: Seat/Prevalent Wind"
+msgstr "역: 자풍패/장풍패"
+
+#: translate_sheet.csv:176
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Yaku: Dragon"
+msgstr "역: 삼원패"
+
+#: translate_sheet.csv:175
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with Fully Outside Hand + Mixed Triple Sequence"
+msgstr "1 게임을 준찬타 + 삼색동순으로 화료"
+
+#: translate_sheet.csv:174
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with Riichi + All Simples + Pinfu"
+msgstr "1 게임을 리치 + 탕야오 + 핑후로 화료"
+
+#: translate_sheet.csv:173
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win a game with All Triplets"
+msgstr "또이또이로 화료"
+
+#: translate_sheet.csv:172
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with Triple Triplets"
+msgstr "1 게임을 삼색동각으로 화료"
+
+#: translate_sheet.csv:171
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with Mixed Triple Sequence"
+msgstr "1 게임을 삼색동순으로 화료"
+
+#: translate_sheet.csv:170
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Draw 5 Ura Dora"
+msgstr "5 게임을 뒷도라를 포함하여 화료"
+
+#: translate_sheet.csv:169
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Draw 2 Ura Dora"
+msgstr "2 게임을 뒷도라를 포함하여 화료"
+
+#: translate_sheet.csv:168
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Draw 1 Ura Dora"
+msgstr "1 게임을 뒷도라를 포함하여 화료"
+
+#: translate_sheet.csv:167
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 2 games with Half Outside Hand or Fully Outside Hand"
+msgstr "2 게임을 찬타 또는 준찬타로 화료"
+
+#: translate_sheet.csv:166
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with Half Outside Hand or Fully Outside Hand"
+msgstr "1 게임을 찬타 또는 준찬타로 화료"
+
+#: translate_sheet.csv:165
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with Twice Pure Double Sequence"
+msgstr "1 게임을 량페코로 화료"
+
+#: translate_sheet.csv:164
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 2 games with Pure Double Sequence"
+msgstr "2 게임을 이페코로 화료"
+
+#: translate_sheet.csv:163
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with Pure Double Sequence"
+msgstr "1 게임을 이페코로 화료"
