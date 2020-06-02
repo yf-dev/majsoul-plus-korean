@@ -777,7 +777,7 @@ StrStr.csv,en,3-Player East,3인 동풍전
 StrStr.csv,en,3-Player South,3인 반장전
 StrStr.csv,en,3-Player (vs AI),3인 (vs AI)
 StrStr.csv,en,Current version,현재 버전
-StrStr.csv,en,Join Room #,참가: Room #
+StrStr.csv,en,Join Room #,참여할 방 번호
 StrStr.csv,en,Mode,모드
 StrStr.csv,en,Thinking Time,턴 시간 제한
 StrStr.csv,en,Number of Red Five,적도라 수
@@ -806,3 +806,135 @@ EventsSoscoin.csv,desc_en,You are current a Celestial. You may claim this when y
 LevelDefinitionCharacter.csv,unlock_desc_en,New daily voice unlocked!\\nNew match voice unlocked!,새 일일 보이스 잠금 해제!\\n새 게임 보이스 잠금 해제!
 LevelDefinitionCharacter.csv,unlock_desc_en,New daily voice unlocked!\\nNew bonding voice unlocked!,새 일일 보이스 잠금 해제!\\n새 인연 보이스 잠금 해제!
 LevelDefinitionCharacter.csv,unlock_desc_en,New Han-declaration voice unlocked!\\nNew login voice unlocked!\\nNew daily voice unlocked!\\nNew bonding voice unlocked!,새 판 선언 보이스 잠금 해제!\\n새 로그인 보이스 잠금 해제!\\n새 일일 보이스 잠금 해제!\\n새 인연 보이스 잠금 해제!
+ActivityActivity.csv,name_en,圣夜的礼物箱,圣夜的礼物箱
+ActivityActivity.csv,name_en,圣夜的宝物,圣夜的宝物
+StrStr.csv,en,排名点数：,排名点数：
+StrStr.csv,en,American Express\\n4-digit Card Verification Number,American Express\\n4자리 카드 확인 번호
+StrStr.csv,en,"Discover,MasterCard,Visa\\n3-digit Card Verification Number","Discover,MasterCard,Visa\\n3자리 카드 확인 번호"
+StrStr.csv,en,Confirm And Pay,확인 및 지불
+StrStr.csv,en,Please enter a 3 or 4 digits CVV2/CSC Code,3~4자리 CVV2/CSC 코드를 입력해주세요
+StrStr.csv,en,Security Code,보안 코드
+StrStr.csv,en,Please select a year,년을 선택해주세요
+StrStr.csv,en,Please select a month,월을 선택해주세요
+StrStr.csv,en,Year,년
+StrStr.csv,en,Month,월
+StrStr.csv,en,Expiry Date,유효 기간
+StrStr.csv,en,Card number ranges from 14 digits to 16 digits,카드 번호는 14~16자리 숫자입니다
+StrStr.csv,en,Card Number,카드 번호
+StrStr.csv,en,Credit Card,신용카드
+StrStr.csv,en,VIP Point:,VIP 포인트:
+StrStr.csv,en,Price:,가격:
+StrStr.csv,en,Description,설명
+StrStr.csv,en,Item:,아이템:
+StrStr.csv,en,Choose a payment method,결제 방법을 선택해주세요
+StrStr.csv,en,1/23 14:00 - 1/28 13:59 (UTC-7),1/23 14:00 - 1/28 13:59 (UTC-7)
+EventsBaseTask.csv,desc_en,四暗刻,四暗刻
+EventsBaseTask.csv,desc_en,国士无双,国士无双
+StrStr.csv,en,300+0s,300+0s
+StrStr.csv,en,0,0
+StrStr.csv,en,9,9
+StrStr.csv,en,8,8
+StrStr.csv,en,7,7
+StrStr.csv,en,6,6
+StrStr.csv,en,5,5
+EventsBaseTask.csv,desc_en,七对子,七对子
+StrStr.csv,en,、,、
+StrStr.csv,en,2,2
+StrStr.csv,en,3,3
+StrStr.csv,en,4,4
+StrStr.csv,en,GO,GO
+EventsBaseTask.csv,desc_en,Win 1 game with Full Flush,1 게임을 청일색으로 화료
+EventsBaseTask.csv,desc_en,Yaku: Half Flush/Full Flush,역: 혼일색/청일색
+EventsBaseTask.csv,desc_en,Win a game with Half Flush or Full Flush,혼일색 또는 청일색으로 화료
+EventsBaseTask.csv,desc_en,Win 5 games with Pinfu,5 게임을 핑후로 화료
+EventsBaseTask.csv,desc_en,Win 3 games with Pinfu,3 게임을 핑후로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Pinfu,1 게임을 핑후로 화료
+EventsBaseTask.csv,desc_en,Win 6 games with All Simples,6 게임을 탕야오로 화료
+EventsBaseTask.csv,desc_en,Win 4 games with All Simples,4 게임을 탕야오로 화료
+EventsBaseTask.csv,desc_en,Win 2 games with All Simples,2 게임을 탕야오로 화료
+EventsBaseTask.csv,desc_en,Win 5 games with Riichi,5 게임을 리치하여 화료
+EventsBaseTask.csv,desc_en,Yaku: Riichi,역: 리치
+EventsBaseTask.csv,desc_en,Avoid dealing into others' in 6 games,6번 방총 회피하기
+EventsBaseTask.csv,desc_en,Win a game with Ron,론으로 화료
+ItemDefinitionItem.csv,name_en,Riichi Bet - Crimson Thorns,리치 봉 - 크림슨 가시
+ItemDefinitionItem.csv,name_en,Riichi - Blood·Lance of Longinus,리치 - 선혈·롱기누스의 창
+ItemDefinitionItem.csv,name_en,Riichi - Starfall,리치 - 별똥별
+ItemDefinitionItem.csv,name_en,Winning - Eye of Eris,승리 - 에리스의 눈
+ItemDefinitionItem.csv,name_en,Winning - Silent Star,승리 - 고요한 별
+ItemDefinitionItem.csv,name_en,Wishing Stone,기도의 소옥
+ItemDefinitionItem.csv,name_en,Tablecloth - Swimming Koi,테이블보 - 비단 잉어
+ItemDefinitionItem.csv,name_en,Tile Back - Red Packet,마작패 - 복주머니
+ItemDefinitionItem.csv,name_en,Riichi Bet - Gold Arowana,리치 봉 - 황금 아로와나
+ItemDefinitionItem.csv,name_en,Riichi - Rat Power,리치 - 경자(庚子)의 힘
+ItemDefinitionItem.csv,name_en,Winning - Family Reunion,승리 - 새해 불꽃놀이
+ItemDefinitionItem.csv,name_en,Riichi Bet - Magical Wand,리치 봉 - 마법봉
+ItemDefinitionItem.csv,name_en,Riichi - Magical Girl,리치 - 마법소녀
+ItemDefinitionItem.csv,name_en,Riichi - Emergency,리치 - 비상
+ItemDefinitionItem.csv,name_en,Winning - Magical Girl,승리 - 마법소녀
+ItemDefinitionItem.csv,name_en,Winning - Opera Phantom,승리 - 오페라의 유령
+ItemDefinitionItem.csv,name_en,“On the Edge”,“일촉즉발”
+ItemDefinitionItem.csv,name_en,Tile Back - Bumpkin,마작패 - 유령
+ChestChestShop.csv,name_en,Riichi Bet - Impish Bat,리치 봉 - 소악마
+ItemDefinitionItem.csv,name_en,Riichi - Bat Swarm,리치 - 박쥐떼
+ItemDefinitionItem.csv,name_en,Winning - Screaming Ghost,승리 - 비명을 지르는 유령
+ItemDefinitionItem.csv,name_en,Tablecloth - Melon,테이블보 - 수박
+ItemDefinitionItem.csv,name_en,Tablecloth - Mahjong Ceremony,테이블보 - 여름 축제
+ItemDefinitionItem.csv,name_en,“Charge”,“출전”
+ItemDefinitionItem.csv,name_en,Riichi Bet - Ice Cream,리치 봉 - 아이스크림
+ItemDefinitionItem.csv,name_en,Riichi Bet - Sever,리치 봉 - 악의
+ChestChestShop.csv,name_en,Winning - Inverted Dragon Scale,승리 - 역린
+ItemDefinitionItem.csv,name_en,Winning - K.O,승리 - K.O
+ItemDefinitionItem.csv,name_en,Riichi - Dragon,리치 - 드래곤
+ItemDefinitionItem.csv,name_en,"Riichi - ""Beep""!","리치 - ""삑""!"
+ChestChestShop.csv,name_en,Kavvi,카비
+ItemDefinitionItem.csv,name_en,Winning - Dancing Rose,승리 - 춤추는 꽃
+ItemDefinitionItem.csv,name_en,Winning - Laser Blast,승리 - 레이저 블라스트
+ItemDefinitionItem.csv,name_en,Winning - Firestorm,승리 - 화염폭풍
+ItemDefinitionItem.csv,name_en,Riichi - Feather,리치 - 깃털
+ItemDefinitionItem.csv,name_en,Riichi - Phantom,리치 - 팬텀
+ChestChestShop.csv,name_en,Tablecloth - Lunar New Year,테이블보 - 설날
+ItemDefinitionItem.csv,name_en,“Intensive Battle”,“격투”
+ItemDefinitionItem.csv,name_en,“Serious Game”,“진검승부”
+ChestChestShop.csv,name_en,24K Gold Riichi Bet,24K 순금 리치 봉
+ItemDefinitionItem.csv,name_en,Riichi - Crimson,리치 - 크림슨
+ItemDefinitionItem.csv,name_en,Riichi - Bone,리치 - 뼈
+ItemDefinitionItem.csv,name_en,Riichi - Green Onion,리치 - 파
+ItemDefinitionItem.csv,name_en,Riichi - Fish,리치 - 물고기
+ItemDefinitionItem.csv,name_en,Riichi - Dumpling,리치 - 만두
+ItemDefinitionItem.csv,name_en,Riichi - Firecracker,리치 - 폭죽
+ItemDefinitionItem.csv,name_en,Ginger Cat Paw,치즈색 고양이 발
+ItemDefinitionItem.csv,name_en,Winning - Sakura,승리 - 벚꽃
+ItemDefinitionItem.csv,name_en,Winning - Cyclone,승리 - 사이클론
+ItemDefinitionItem.csv,name_en,Winning - Flame,승리 - 불꽃
+ItemDefinitionItem.csv,name_en,Winning - Fireworks,승리 - 불꽃놀이
+ItemDefinitionItem.csv,name_en,Winning - Dark Flame,승리 - 어둠의 불꽃
+ItemDefinitionItem.csv,name_en,Riichi - Fire,리치 - 파이어
+ItemDefinitionItem.csv,name_en,Riichi - Ice,리치 - 아이스
+ItemDefinitionItem.csv,name_en,Riichi - Blue Flame,리치 - 푸른 불꽃
+ActivityActivity.csv,name_en,Maid's Commission,메이드의 커미션
+ActivityActivity.csv,name_en,Working Adventure Rewards,아르바이트 대모험 보상
+StrStr.csv,en,Working Adventure Quest,아르바이트 대모험 퀘스트
+StrStr.csv,en,Ichihime's Working Adventure,이치히메의 아르바이트 대모험
+ActivityActivity.csv,name_en,Detection: OP Progress,확인 : 작전 진행
+ActivityActivity.csv,name_en,Launch: School Operation,시작: 봄방학 작전
+ActivityActivity.csv,name_en,Gorgeous Spring,화려한 봄날
+ActivityActivity.csv,name_en,Spring Festival Limited-time Sticker Shop,봄 축제 기간 한정 스티커 샵
+ActivityActivity.csv,name_en,Celebration Shop,기념품점
+ActivityActivity.csv,name_en,New Year Celebration,혼천신사 새해 참배
+ActivityActivity.csv,name_en,Chiori's Trouble,치오리의 고민
+ActivityActivity.csv,name_en,Halloween Event Exchange,할로윈 이벤트 교환
+ActivityActivity.csv,name_en,Halloween Event,할로윈 이벤트
+ActivityActivity.csv,name_en,Hana Ninomiya's Challenge,니노미야 하나의 도전
+ActivityActivity.csv,name_en,Moon Palace,달 궁전
+ActivityActivity.csv,name_en,Missions from Moon Palace,달 궁전의 역할
+ActivityActivity.csv,name_en,Visiting the Shrine in Midsummer,여름 신사 참배
+ActivityActivity.csv,name_en,Midsummer Gifts,한여름 선물
+ActivityActivity.csv,name_en,Nikaidou's Reward,니카이도 보상
+ActivityActivity.csv,name_en,Nikaidou's Class,니카이도 교실
+ActivityActivity.csv,name_en,古役活动,古役活动
+ActivityActivity.csv,name_en,排名活动,排名活动
+ActivityActivity.csv,name_en,对局点数活动,对局点数活动
+ActivityActivity.csv,name_en,春节的礼品箱,春节的礼品箱
+ActivityActivity.csv,name_en,春节夺宝战,春节夺宝战
+ActivityActivity.csv,name_en,新角色 新装版up,新角色 新装版up
+StrStr.csv,en,1,1

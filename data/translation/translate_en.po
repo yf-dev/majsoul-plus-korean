@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-02 22:57:11\n"
+"PO-Revision-Date: 2020-06-02 16:04:29\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -9122,91 +9122,411 @@ msgid "1,800 Summon Stones"
 msgstr "1,800 Summon Stones"
 
 #: translate_sheet.csv:433
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Riichi"
-msgstr "Riichi"
-
-#: translate_sheet.csv:434
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand after you declared Riichi; You may declare Riichi when you "
-"achieve Tenpai (ready hand) at Menzenchin (closed hand)"
-msgstr ""
-"Win a hand after you declared Riichi; You may declare Riichi when you "
-"achieve Tenpai (ready hand) at Menzenchin (closed hand)"
-
-#: translate_sheet.csv:435
-msgctxt "sheet|FandescFandesc.csv|desc2_en"
-msgid "Menzenchin Only"
-msgstr "Menzenchin Only"
-
-#: translate_sheet.csv:436
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "All Simples"
-msgstr "All Simples"
-
-#: translate_sheet.csv:437
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand without any Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, "
-"1-Sou/9-Sou, Wind Tiles, and Dragon Tiles)"
-msgstr ""
-"Win a hand without any Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, "
-"1-Sou/9-Sou, Wind Tiles, and Dragon Tiles)"
-
-#: translate_sheet.csv:438
-msgctxt "sheet|FandescFandesc.csv|desc2_en"
-msgid ""
-msgstr ""
-
-#: translate_sheet.csv:439
-msgctxt "sheet|FandescFandesc.csv|name_en"
+msgctxt "sheet|FanFan.csv|name_en"
 msgid "Fully Concealed Hand"
 msgstr "Fully Concealed Hand"
 
+#: translate_sheet.csv:434
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Riichi"
+msgstr "Riichi"
+
+#: translate_sheet.csv:435
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Robbing a Kan"
+msgstr "Robbing a Kan"
+
+#: translate_sheet.csv:436
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "After a Kan"
+msgstr "After a Kan"
+
+#: translate_sheet.csv:437
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Under the Sea"
+msgstr "Under the Sea"
+
+#: translate_sheet.csv:438
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Under the River"
+msgstr "Under the River"
+
+#: translate_sheet.csv:439
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "White Dragon"
+msgstr "White Dragon"
+
 #: translate_sheet.csv:440
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand by Tsumo (drawing the winning tile) at Menzenchin (closed hand)"
-msgstr ""
-"Win a hand by Tsumo (drawing the winning tile) at Menzenchin (closed hand)"
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Green Dragon"
+msgstr "Green Dragon"
 
 #: translate_sheet.csv:441
-msgctxt "sheet|FandescFandesc.csv|name_en"
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Red Dragon"
+msgstr "Red Dragon"
+
+#: translate_sheet.csv:442
+msgctxt "sheet|FanFan.csv|name_en"
 msgid "Seat Wind"
 msgstr "Seat Wind"
 
-#: translate_sheet.csv:442
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with a Triplet of Player Wind"
-msgstr "Win a hand with a Triplet of Player Wind"
-
 #: translate_sheet.csv:443
-msgctxt "sheet|FandescFandesc.csv|name_en"
+msgctxt "sheet|FanFan.csv|name_en"
 msgid "Prevalent Wind"
 msgstr "Prevalent Wind"
 
 #: translate_sheet.csv:444
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "All Simples"
+msgstr "All Simples"
+
+#: translate_sheet.csv:445
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Pure Double Sequence"
+msgstr "Pure Double Sequence"
+
+#: translate_sheet.csv:446
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Pinfu"
+msgstr "Pinfu"
+
+#: translate_sheet.csv:447
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Half Outside Hand"
+msgstr "Half Outside Hand"
+
+#: translate_sheet.csv:448
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Pure Straight"
+msgstr "Pure Straight"
+
+#: translate_sheet.csv:449
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Mixed Triple Sequence"
+msgstr "Mixed Triple Sequence"
+
+#: translate_sheet.csv:450
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Double Riichi"
+msgstr "Double Riichi"
+
+#: translate_sheet.csv:451
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Triple Triplets"
+msgstr "Triple Triplets"
+
+#: translate_sheet.csv:452
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Three Quads"
+msgstr "Three Quads"
+
+#: translate_sheet.csv:453
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "All Triplets"
+msgstr "All Triplets"
+
+#: translate_sheet.csv:454
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Three Concealed Triplets"
+msgstr "Three Concealed Triplets"
+
+#: translate_sheet.csv:455
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Little Three Dragons"
+msgstr "Little Three Dragons"
+
+#: translate_sheet.csv:456
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "All Terminals and Honors"
+msgstr "All Terminals and Honors"
+
+#: translate_sheet.csv:457
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Seven Pairs"
+msgstr "Seven Pairs"
+
+#: translate_sheet.csv:458
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Fully Outside Hand"
+msgstr "Fully Outside Hand"
+
+#: translate_sheet.csv:459
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Half Flush"
+msgstr "Half Flush"
+
+#: translate_sheet.csv:460
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Twice Pure Double Sequence"
+msgstr "Twice Pure Double Sequence"
+
+#: translate_sheet.csv:461
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Full Flush"
+msgstr "Full Flush"
+
+#: translate_sheet.csv:462
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Ippatsu"
+msgstr "Ippatsu"
+
+#: translate_sheet.csv:463
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Dora"
+msgstr "Dora"
+
+#: translate_sheet.csv:464
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Red Five"
+msgstr "Red Five"
+
+#: translate_sheet.csv:465
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Ura Dora"
+msgstr "Ura Dora"
+
+#: translate_sheet.csv:466
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Kita"
+msgstr "Kita"
+
+#: translate_sheet.csv:467
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Blessing of Heaven"
+msgstr "Blessing of Heaven"
+
+#: translate_sheet.csv:468
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Blessing of Earth"
+msgstr "Blessing of Earth"
+
+#: translate_sheet.csv:469
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Big Three Dragons"
+msgstr "Big Three Dragons"
+
+#: translate_sheet.csv:470
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Four Concealed Triplets"
+msgstr "Four Concealed Triplets"
+
+#: translate_sheet.csv:471
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "All Honors"
+msgstr "All Honors"
+
+#: translate_sheet.csv:472
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "All Green"
+msgstr "All Green"
+
+#: translate_sheet.csv:473
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "All Terminals"
+msgstr "All Terminals"
+
+#: translate_sheet.csv:474
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Thirteen Orphans"
+msgstr "Thirteen Orphans"
+
+#: translate_sheet.csv:475
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Four Little Winds"
+msgstr "Four Little Winds"
+
+#: translate_sheet.csv:476
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Four Quads"
+msgstr "Four Quads"
+
+#: translate_sheet.csv:477
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Nine Gates"
+msgstr "Nine Gates"
+
+#: translate_sheet.csv:478
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Eight-time East Staying"
+msgstr "Eight-time East Staying"
+
+#: translate_sheet.csv:479
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "True Nine Gates"
+msgstr "True Nine Gates"
+
+#: translate_sheet.csv:480
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Single-wait Four Concealed Triplets"
+msgstr "Single-wait Four Concealed Triplets"
+
+#: translate_sheet.csv:481
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Thirteen-wait Thirteen Orphans"
+msgstr "Thirteen-wait Thirteen Orphans"
+
+#: translate_sheet.csv:482
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Four Big Winds"
+msgstr "Four Big Winds"
+
+#: translate_sheet.csv:483
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Tsubame-gaeshi"
+msgstr "Tsubame-gaeshi"
+
+#: translate_sheet.csv:484
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Kanburi"
+msgstr "Kanburi"
+
+#: translate_sheet.csv:485
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Shiiaruraotai"
+msgstr "Shiiaruraotai"
+
+#: translate_sheet.csv:486
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Uumensai"
+msgstr "Uumensai"
+
+#: translate_sheet.csv:487
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Three Chained Triplets"
+msgstr "Three Chained Triplets"
+
+#: translate_sheet.csv:488
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Pure Triple Chow"
+msgstr "Pure Triple Chow"
+
+#: translate_sheet.csv:489
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Iipinmoyue"
+msgstr "Iipinmoyue"
+
+#: translate_sheet.csv:490
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Chuupinraoyui"
+msgstr "Chuupinraoyui"
+
+#: translate_sheet.csv:491
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Hand of Man"
+msgstr "Hand of Man"
+
+#: translate_sheet.csv:492
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Big Wheels"
+msgstr "Big Wheels"
+
+#: translate_sheet.csv:493
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Bamboo Forest"
+msgstr "Bamboo Forest"
+
+#: translate_sheet.csv:494
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Numerous Neighbours"
+msgstr "Numerous Neighbours"
+
+#: translate_sheet.csv:495
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Ishinouenimosannen"
+msgstr "Ishinouenimosannen"
+
+#: translate_sheet.csv:496
+msgctxt "sheet|FanFan.csv|name_en"
+msgid "Big Seven Stars"
+msgstr "Big Seven Stars"
+
+#: translate_sheet.csv:497
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Riichi"
+msgstr "Riichi"
+
+#: translate_sheet.csv:498
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand after you declared Riichi; You may declare Riichi when you "
+"achieve Tenpai (ready hand) at Menzenchin (closed hand)"
+msgstr ""
+"Win a hand after you declared Riichi; You may declare Riichi when you "
+"achieve Tenpai (ready hand) at Menzenchin (closed hand)"
+
+#: translate_sheet.csv:499
+msgctxt "sheet|FandescFandesc.csv|desc2_en"
+msgid "Menzenchin Only"
+msgstr "Menzenchin Only"
+
+#: translate_sheet.csv:500
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "All Simples"
+msgstr "All Simples"
+
+#: translate_sheet.csv:501
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand without any Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, "
+"1-Sou/9-Sou, Wind Tiles, and Dragon Tiles)"
+msgstr ""
+"Win a hand without any Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, "
+"1-Sou/9-Sou, Wind Tiles, and Dragon Tiles)"
+
+#: translate_sheet.csv:502
+msgctxt "sheet|FandescFandesc.csv|desc2_en"
+msgid ""
+msgstr ""
+
+#: translate_sheet.csv:503
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Fully Concealed Hand"
+msgstr "Fully Concealed Hand"
+
+#: translate_sheet.csv:504
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand by Tsumo (drawing the winning tile) at Menzenchin (closed hand)"
+msgstr ""
+"Win a hand by Tsumo (drawing the winning tile) at Menzenchin (closed hand)"
+
+#: translate_sheet.csv:505
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Seat Wind"
+msgstr "Seat Wind"
+
+#: translate_sheet.csv:506
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand with a Triplet of Player Wind"
+msgstr "Win a hand with a Triplet of Player Wind"
+
+#: translate_sheet.csv:507
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Prevalent Wind"
+msgstr "Prevalent Wind"
+
+#: translate_sheet.csv:508
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid "Win a hand with a Triplet of Round Wind"
 msgstr "Win a hand with a Triplet of Round Wind"
 
-#: translate_sheet.csv:445
+#: translate_sheet.csv:509
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Dragons"
 msgstr "Dragons"
 
-#: translate_sheet.csv:446
+#: translate_sheet.csv:510
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid "Win a hand with a Triplet of Dragon Tile (White, Green or Red)"
 msgstr "Win a hand with a Triplet of Dragon Tile (White, Green or Red)"
 
-#: translate_sheet.csv:447
+#: translate_sheet.csv:511
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Pinfu"
 msgstr "Pinfu"
 
-#: translate_sheet.csv:448
+#: translate_sheet.csv:512
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid ""
 "Win a hand with four Sequences and one non-Yakuhai Pair, plus the potential "
@@ -9215,22 +9535,22 @@ msgstr ""
 "Win a hand with four Sequences and one non-Yakuhai Pair, plus the potential "
 "winning tiles must be tiles from both side of a Sequence"
 
-#: translate_sheet.csv:449
+#: translate_sheet.csv:513
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Pure Double Sequence"
 msgstr "Pure Double Sequence"
 
-#: translate_sheet.csv:450
+#: translate_sheet.csv:514
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid "Win a hand with two identical Sequences"
 msgstr "Win a hand with two identical Sequences"
 
-#: translate_sheet.csv:451
+#: translate_sheet.csv:515
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Robbing a Kan"
 msgstr "Robbing a Kan"
 
-#: translate_sheet.csv:452
+#: translate_sheet.csv:516
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid ""
 "Call a Ron (declare winning) on another player’s Kan (when you have a Tenpai"
@@ -9239,12 +9559,12 @@ msgstr ""
 "Call a Ron (declare winning) on another player’s Kan (when you have a Tenpai"
 " for Thirteen Orphans, you can call on a Closed Kan)"
 
-#: translate_sheet.csv:453
+#: translate_sheet.csv:517
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "After a Kan"
 msgstr "After a Kan"
 
-#: translate_sheet.csv:454
+#: translate_sheet.csv:518
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid ""
 "Win a hand with the tile drawn from the Dead Wall after immediately calling "
@@ -9253,12 +9573,12 @@ msgstr ""
 "Win a hand with the tile drawn from the Dead Wall after immediately calling "
 "a Kan"
 
-#: translate_sheet.csv:455
+#: translate_sheet.csv:519
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Under the Sea"
 msgstr "Under the Sea"
 
-#: translate_sheet.csv:456
+#: translate_sheet.csv:520
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid ""
 "Win a hand by Tsumo (drawing the winning tile) with the last tile drawn from"
@@ -9267,23 +9587,23 @@ msgstr ""
 "Win a hand by Tsumo (drawing the winning tile) with the last tile drawn from"
 " the Wall"
 
-#: translate_sheet.csv:457
+#: translate_sheet.csv:521
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Under the River"
 msgstr "Under the River"
 
-#: translate_sheet.csv:458
+#: translate_sheet.csv:522
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid "Win a hand by calling Ron (declare winning) on the last discarded tile"
 msgstr ""
 "Win a hand by calling Ron (declare winning) on the last discarded tile"
 
-#: translate_sheet.csv:459
+#: translate_sheet.csv:523
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Ippatsu"
 msgstr "Ippatsu"
 
-#: translate_sheet.csv:460
+#: translate_sheet.csv:524
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid ""
 "Win a hand within 1 turn after declaring Riichi, in addition, draws/discards"
@@ -9292,37 +9612,37 @@ msgstr ""
 "Win a hand within 1 turn after declaring Riichi, in addition, draws/discards"
 " must not be interrupted by tile calls during that turn"
 
-#: translate_sheet.csv:461
+#: translate_sheet.csv:525
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Dora"
 msgstr "Dora"
 
-#: translate_sheet.csv:462
+#: translate_sheet.csv:526
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid "The next tile immediately after the flipped Dora Indicator Tile"
 msgstr "The next tile immediately after the flipped Dora Indicator Tile"
 
-#: translate_sheet.csv:463
+#: translate_sheet.csv:527
 msgctxt "sheet|FandescFandesc.csv|desc2_en"
 msgid "Not Yaku"
 msgstr "Not Yaku"
 
-#: translate_sheet.csv:464
+#: translate_sheet.csv:528
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Red Five"
 msgstr "Red Five"
 
-#: translate_sheet.csv:465
+#: translate_sheet.csv:529
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid "Red 5-Man, Red 5-Pin, Red 5-Sou"
 msgstr "Red 5-Man, Red 5-Pin, Red 5-Sou"
 
-#: translate_sheet.csv:466
+#: translate_sheet.csv:530
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Kita"
 msgstr "Kita"
 
-#: translate_sheet.csv:467
+#: translate_sheet.csv:531
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid ""
 "In 3-Player Mahjong, North Wind can be considered as a Dora after “Kita” is "
@@ -9331,939 +9651,619 @@ msgstr ""
 "In 3-Player Mahjong, North Wind can be considered as a Dora after “Kita” is "
 "called (does not count as a Dora if North Wind remains in hand)"
 
-#: translate_sheet.csv:468
+#: translate_sheet.csv:532
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Local Yaku: Tsubame-gaeshi"
 msgstr "Local Yaku: Tsubame-gaeshi"
 
-#: translate_sheet.csv:469
+#: translate_sheet.csv:533
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid ""
 "Call a Ron on the first tile discarded by another player to declare Riichi"
 msgstr ""
 "Call a Ron on the first tile discarded by another player to declare Riichi"
 
-#: translate_sheet.csv:470
+#: translate_sheet.csv:534
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Local Yaku: Kanburi"
 msgstr "Local Yaku: Kanburi"
 
-#: translate_sheet.csv:471
+#: translate_sheet.csv:535
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid "Call a Ron on a tile discarded by another player who just called Kan"
 msgstr "Call a Ron on a tile discarded by another player who just called Kan"
 
-#: translate_sheet.csv:472
+#: translate_sheet.csv:536
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Local Yaku: Shiiaruraotai"
 msgstr "Local Yaku: Shiiaruraotai"
 
-#: translate_sheet.csv:473
+#: translate_sheet.csv:537
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid "Win a hand by Tsumo or Ron with 4 open Chii, Pon, or Kan"
 msgstr "Win a hand by Tsumo or Ron with 4 open Chii, Pon, or Kan"
 
-#: translate_sheet.csv:474
+#: translate_sheet.csv:538
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Double Riichi"
 msgstr "Double Riichi"
 
-#: translate_sheet.csv:475
+#: translate_sheet.csv:539
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid "Declare Riichi with your starting hand before any tiles are called"
 msgstr "Declare Riichi with your starting hand before any tiles are called"
 
-#: translate_sheet.csv:476
+#: translate_sheet.csv:540
 msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Triple Triplets"
 msgstr "Triple Triplets"
-
-#: translate_sheet.csv:477
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand with three Triplets with the same number out of the Number Tiles "
-"(Man, Pin, Sou)"
-msgstr ""
-"Win a hand with three Triplets with the same number out of the Number Tiles "
-"(Man, Pin, Sou)"
-
-#: translate_sheet.csv:478
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Three Quads"
-msgstr "Three Quads"
-
-#: translate_sheet.csv:479
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with three Quads"
-msgstr "Win a hand with three Quads"
-
-#: translate_sheet.csv:480
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "All Triplets"
-msgstr "All Triplets"
-
-#: translate_sheet.csv:481
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with four Triplets or Quads"
-msgstr "Win a hand with four Triplets or Quads"
-
-#: translate_sheet.csv:482
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Three Concealed Triplets"
-msgstr "Three Concealed Triplets"
-
-#: translate_sheet.csv:483
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with three closed Triplets or closed Quads"
-msgstr "Win a hand with three closed Triplets or closed Quads"
-
-#: translate_sheet.csv:484
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Little Three Dragons"
-msgstr "Little Three Dragons"
-
-#: translate_sheet.csv:485
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand with two Triplets out of the Dragon Tiles (White, Green or Red), "
-"plus a Pair of the third Dragon Tile"
-msgstr ""
-"Win a hand with two Triplets out of the Dragon Tiles (White, Green or Red), "
-"plus a Pair of the third Dragon Tile"
-
-#: translate_sheet.csv:486
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "All Terminals and Honors"
-msgstr "All Terminals and Honors"
-
-#: translate_sheet.csv:487
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand with only Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, "
-"Wind Tiles, and Dragon Tiles)"
-msgstr ""
-"Win a hand with only Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, "
-"Wind Tiles, and Dragon Tiles)"
-
-#: translate_sheet.csv:488
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Seven Pairs"
-msgstr "Seven Pairs"
-
-#: translate_sheet.csv:489
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with seven different Pairs"
-msgstr "Win a hand with seven different Pairs"
-
-#: translate_sheet.csv:490
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Half Outside Hand"
-msgstr "Half Outside Hand"
-
-#: translate_sheet.csv:491
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand where every Sequence, Triplet and Pair contains at least one "
-"Terminal Tile"
-msgstr ""
-"Win a hand where every Sequence, Triplet and Pair contains at least one "
-"Terminal Tile"
-
-#: translate_sheet.csv:492
-msgctxt "sheet|FandescFandesc.csv|desc2_en"
-msgid "-1 Han after making a call"
-msgstr "-1 Han after making a call"
-
-#: translate_sheet.csv:493
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Pure Straight"
-msgstr "Pure Straight"
-
-#: translate_sheet.csv:494
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand with a complete Sequence of 1 through 9 (i.e. 123-Man, 456-Man, "
-"789-Man)"
-msgstr ""
-"Win a hand with a complete Sequence of 1 through 9 (i.e. 123-Man, 456-Man, "
-"789-Man)"
-
-#: translate_sheet.csv:495
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Mixed Triple Sequence"
-msgstr "Mixed Triple Sequence"
-
-#: translate_sheet.csv:496
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand with three Sequences with the same numbers out of three different"
-" Number Tiles  (i.e. 123-Man, 123-Pin, 123-Sou)"
-msgstr ""
-"Win a hand with three Sequences with the same numbers out of three different"
-" Number Tiles  (i.e. 123-Man, 123-Pin, 123-Sou)"
-
-#: translate_sheet.csv:497
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Local Yaku: Uumensai"
-msgstr "Local Yaku: Uumensai"
-
-#: translate_sheet.csv:498
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand consists of Man, Pin, Sou, Wind, and Dragon tiles"
-msgstr "Win a hand consists of Man, Pin, Sou, Wind, and Dragon tiles"
-
-#: translate_sheet.csv:499
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Local Yaku: Three Chained Triplets"
-msgstr "Local Yaku: Three Chained Triplets"
-
-#: translate_sheet.csv:500
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with 3 consecutive Triplets"
-msgstr "Win a hand with 3 consecutive Triplets"
-
-#: translate_sheet.csv:501
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Twice Pure Double Sequence"
-msgstr "Twice Pure Double Sequence"
-
-#: translate_sheet.csv:502
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with two sets two identical Sequences"
-msgstr "Win a hand with two sets two identical Sequences"
-
-#: translate_sheet.csv:503
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Fully Outside Hand"
-msgstr "Fully Outside Hand"
-
-#: translate_sheet.csv:504
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand with every Sequence, Triplet and Pair contains at least one 1 and"
-" 9 out of the Number Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)"
-msgstr ""
-"Win a hand with every Sequence, Triplet and Pair contains at least one 1 and"
-" 9 out of the Number Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)"
-
-#: translate_sheet.csv:505
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Half Flush"
-msgstr "Half Flush"
-
-#: translate_sheet.csv:506
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand with tiles from only one of the three Number Tiles (Man, Pin or "
-"Sou) and HonorTiles (Wind Tiles and Dragon Tiles)"
-msgstr ""
-"Win a hand with tiles from only one of the three Number Tiles (Man, Pin or "
-"Sou) and HonorTiles (Wind Tiles and Dragon Tiles)"
-
-#: translate_sheet.csv:507
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Local Yaku: Pure Triple Chow"
-msgstr "Local Yaku: Pure Triple Chow"
-
-#: translate_sheet.csv:508
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with three identical Sequences"
-msgstr "Win a hand with three identical Sequences"
-
-#: translate_sheet.csv:509
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Full Flush"
-msgstr "Full Flush"
-
-#: translate_sheet.csv:510
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand with tiles from only one of the three Number Tiles (Man, Pin or "
-"Sou)"
-msgstr ""
-"Win a hand with tiles from only one of the three Number Tiles (Man, Pin or "
-"Sou)"
-
-#: translate_sheet.csv:511
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Mangan at Draw"
-msgstr "Mangan at Draw"
-
-#: translate_sheet.csv:512
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a game with all your discarded tiles being Terminal Tiles, and no one "
-"has called them"
-msgstr ""
-"Win a game with all your discarded tiles being Terminal Tiles, and no one "
-"has called them"
-
-#: translate_sheet.csv:513
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Local Yaku: Iipinmoyue"
-msgstr "Local Yaku: Iipinmoyue"
-
-#: translate_sheet.csv:514
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand by Tsumo (drawing the winning tile) with the last tile drawn from"
-" the Wall, and that tile must be 1-Pin(5 Han)"
-msgstr ""
-"Win a hand by Tsumo (drawing the winning tile) with the last tile drawn from"
-" the Wall, and that tile must be 1-Pin(5 Han)"
-
-#: translate_sheet.csv:515
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Local Yaku: Chuupinraoyui"
-msgstr "Local Yaku: Chuupinraoyui"
-
-#: translate_sheet.csv:516
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Call a Ron on the last tile drawn from the Wall, and that tile must be "
-"9-Pin(5 Han)"
-msgstr ""
-"Call a Ron on the last tile drawn from the Wall, and that tile must be "
-"9-Pin(5 Han)"
-
-#: translate_sheet.csv:517
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Blessing of Heaven"
-msgstr "Blessing of Heaven"
-
-#: translate_sheet.csv:518
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand as a dealer in the first turn with the first draw"
-msgstr "Win a hand as a dealer in the first turn with the first draw"
-
-#: translate_sheet.csv:519
-msgctxt "sheet|FandescFandesc.csv|desc2_en"
-msgid "Dealer Only"
-msgstr "Dealer Only"
-
-#: translate_sheet.csv:520
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Blessing of Earth"
-msgstr "Blessing of Earth"
-
-#: translate_sheet.csv:521
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand as a non-dealer in the first turn before any tiles are called"
-msgstr ""
-"Win a hand as a non-dealer in the first turn before any tiles are called"
-
-#: translate_sheet.csv:522
-msgctxt "sheet|FandescFandesc.csv|desc2_en"
-msgid "Non-Dealer Only"
-msgstr "Non-Dealer Only"
-
-#: translate_sheet.csv:523
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Big Three Dragons"
-msgstr "Big Three Dragons"
-
-#: translate_sheet.csv:524
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with three Triplets or Quads of all the three Dragon Tiles"
-msgstr "Win a hand with three Triplets or Quads of all the three Dragon Tiles"
-
-#: translate_sheet.csv:525
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Four Concealed Triplets"
-msgstr "Four Concealed Triplets"
-
-#: translate_sheet.csv:526
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with four closed Triplets"
-msgstr "Win a hand with four closed Triplets"
-
-#: translate_sheet.csv:527
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "All Honors"
-msgstr "All Honors"
-
-#: translate_sheet.csv:528
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand with four Triplets and a Pair of the Honor Tiles (Wind Tiles and "
-"Dragon Tiles)"
-msgstr ""
-"Win a hand with four Triplets and a Pair of the Honor Tiles (Wind Tiles and "
-"Dragon Tiles)"
-
-#: translate_sheet.csv:529
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "All Green"
-msgstr "All Green"
-
-#: translate_sheet.csv:530
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand with only green-colored tiles: 2-Sou/3-Sou/4-Sou/6-Sou/8-Sou "
-"and/or Green (F)"
-msgstr ""
-"Win a hand with only green-colored tiles: 2-Sou/3-Sou/4-Sou/6-Sou/8-Sou "
-"and/or Green (F)"
-
-#: translate_sheet.csv:531
-msgctxt "sheet|FandescFandesc.csv|desc2_en"
-msgid "Green is not Necessary"
-msgstr "Green is not Necessary"
-
-#: translate_sheet.csv:532
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "All Terminals"
-msgstr "All Terminals"
-
-#: translate_sheet.csv:533
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand with four Triplets and a Pair of 1 and 9 out of the Number Tiles "
-"(1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)"
-msgstr ""
-"Win a hand with four Triplets and a Pair of 1 and 9 out of the Number Tiles "
-"(1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)"
-
-#: translate_sheet.csv:534
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Thirteen Orphans"
-msgstr "Thirteen Orphans"
-
-#: translate_sheet.csv:535
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand with one of each 13 Terminal Tiles, plus any tile matches one of "
-"them"
-msgstr ""
-"Win a hand with one of each 13 Terminal Tiles, plus any tile matches one of "
-"them"
-
-#: translate_sheet.csv:536
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Four Little Winds"
-msgstr "Four Little Winds"
-
-#: translate_sheet.csv:537
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Win a hand with three Triplets or Quads of the Wind Tiles, plus a pair of "
-"the fourth wind"
-msgstr ""
-"Win a hand with three Triplets or Quads of the Wind Tiles, plus a pair of "
-"the fourth wind"
-
-#: translate_sheet.csv:538
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Four Quads"
-msgstr "Four Quads"
-
-#: translate_sheet.csv:539
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with four Quads"
-msgstr "Win a hand with four Quads"
-
-#: translate_sheet.csv:540
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Nine Gates"
-msgstr "Nine Gates"
 
 #: translate_sheet.csv:541
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid ""
-"Win a hand with tiles from only one of the three Number Tiles in the order "
-"of “1112345678999”, plus any tile matches one of them"
+"Win a hand with three Triplets with the same number out of the Number Tiles "
+"(Man, Pin, Sou)"
 msgstr ""
-"Win a hand with tiles from only one of the three Number Tiles in the order "
-"of “1112345678999”, plus any tile matches one of them"
+"Win a hand with three Triplets with the same number out of the Number Tiles "
+"(Man, Pin, Sou)"
 
 #: translate_sheet.csv:542
 msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Local Yaku: Hand of Man"
-msgstr "Local Yaku: Hand of Man"
+msgid "Three Quads"
+msgstr "Three Quads"
 
 #: translate_sheet.csv:543
 msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Call a Ron as a non-dealer in the first turn you draw a tile and before any "
-"tiles are called"
-msgstr ""
-"Call a Ron as a non-dealer in the first turn you draw a tile and before any "
-"tiles are called"
+msgid "Win a hand with three Quads"
+msgstr "Win a hand with three Quads"
 
 #: translate_sheet.csv:544
 msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Local Yaku: Big Wheels"
-msgstr "Local Yaku: Big Wheels"
+msgid "All Triplets"
+msgstr "All Triplets"
 
 #: translate_sheet.csv:545
 msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with 7 Pairs consist of 2-Pin to 8-Pin"
-msgstr "Win a hand with 7 Pairs consist of 2-Pin to 8-Pin"
+msgid "Win a hand with four Triplets or Quads"
+msgstr "Win a hand with four Triplets or Quads"
 
 #: translate_sheet.csv:546
 msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Local Yaku: Bamboo Forest"
-msgstr "Local Yaku: Bamboo Forest"
+msgid "Three Concealed Triplets"
+msgstr "Three Concealed Triplets"
 
 #: translate_sheet.csv:547
 msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with 7 Pairs consist of 2-Sou to 8-Sou"
-msgstr "Win a hand with 7 Pairs consist of 2-Sou to 8-Sou"
+msgid "Win a hand with three closed Triplets or closed Quads"
+msgstr "Win a hand with three closed Triplets or closed Quads"
 
 #: translate_sheet.csv:548
 msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Local Yaku: Numerous Neighbours"
-msgstr "Local Yaku: Numerous Neighbours"
+msgid "Little Three Dragons"
+msgstr "Little Three Dragons"
 
 #: translate_sheet.csv:549
 msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with 7 Pairs consist of 2-Man to 8-Man"
-msgstr "Win a hand with 7 Pairs consist of 2-Man to 8-Man"
+msgid ""
+"Win a hand with two Triplets out of the Dragon Tiles (White, Green or Red), "
+"plus a Pair of the third Dragon Tile"
+msgstr ""
+"Win a hand with two Triplets out of the Dragon Tiles (White, Green or Red), "
+"plus a Pair of the third Dragon Tile"
 
 #: translate_sheet.csv:550
 msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Local Yaku: Ishinouenimosannen"
-msgstr "Local Yaku: Ishinouenimosannen"
+msgid "All Terminals and Honors"
+msgstr "All Terminals and Honors"
 
 #: translate_sheet.csv:551
 msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with Double Riichi as well as Under the Sea/River"
-msgstr "Win a hand with Double Riichi as well as Under the Sea/River"
+msgid ""
+"Win a hand with only Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, "
+"Wind Tiles, and Dragon Tiles)"
+msgstr ""
+"Win a hand with only Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, "
+"Wind Tiles, and Dragon Tiles)"
 
 #: translate_sheet.csv:552
 msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Single-wait Four Concealed Triplets"
-msgstr "Single-wait Four Concealed Triplets"
+msgid "Seven Pairs"
+msgstr "Seven Pairs"
 
 #: translate_sheet.csv:553
 msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Achieve Tenpai with four Closed Triplets already drawn (i.e. waiting for one"
-" remaining tile to form a Pair)"
-msgstr ""
-"Achieve Tenpai with four Closed Triplets already drawn (i.e. waiting for one"
-" remaining tile to form a Pair)"
+msgid "Win a hand with seven different Pairs"
+msgstr "Win a hand with seven different Pairs"
 
 #: translate_sheet.csv:554
 msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Thirteen-wait Thirteen Orphans"
-msgstr "Thirteen-wait Thirteen Orphans"
+msgid "Half Outside Hand"
+msgstr "Half Outside Hand"
 
 #: translate_sheet.csv:555
 msgctxt "sheet|FandescFandesc.csv|desc_en"
 msgid ""
-"Achieve Tenpai with 13 different Terminal Tiles already drawn (i.e. waiting "
-"for 1 out of 13 possible tiles to win)"
+"Win a hand where every Sequence, Triplet and Pair contains at least one "
+"Terminal Tile"
 msgstr ""
-"Achieve Tenpai with 13 different Terminal Tiles already drawn (i.e. waiting "
-"for 1 out of 13 possible tiles to win)"
+"Win a hand where every Sequence, Triplet and Pair contains at least one "
+"Terminal Tile"
 
 #: translate_sheet.csv:556
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "True Nine Gates"
-msgstr "True Nine Gates"
+msgctxt "sheet|FandescFandesc.csv|desc2_en"
+msgid "-1 Han after making a call"
+msgstr "-1 Han after making a call"
 
 #: translate_sheet.csv:557
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"Achieve Tenpai with tiles from only one of the three Number Tiles in the "
-"order of “1112345678999” (i.e. waiting for 1 out of 9 possible tiles to win)"
-msgstr ""
-"Achieve Tenpai with tiles from only one of the three Number Tiles in the "
-"order of “1112345678999” (i.e. waiting for 1 out of 9 possible tiles to win)"
-
-#: translate_sheet.csv:558
 msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Four Big Winds"
-msgstr "Four Big Winds"
-
-#: translate_sheet.csv:559
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with four Triplets or Quads of the Wind Tiles"
-msgstr "Win a hand with four Triplets or Quads of the Wind Tiles"
-
-#: translate_sheet.csv:560
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Local Yaku: Big Seven Stars"
-msgstr "Local Yaku: Big Seven Stars"
-
-#: translate_sheet.csv:561
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "Win a hand with 7 Pairs consist of only Word tiles"
-msgstr "Win a hand with 7 Pairs consist of only Word tiles"
-
-#: translate_sheet.csv:562
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Four-Wind Discarded"
-msgstr "Four-Wind Discarded"
-
-#: translate_sheet.csv:563
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"The game becomes a draw when each player discards the same Wind Tile in the "
-"first turn"
-msgstr ""
-"The game becomes a draw when each player discards the same Wind Tile in the "
-"first turn"
-
-#: translate_sheet.csv:564
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Four-kan Abortion"
-msgstr "Four-kan Abortion"
-
-#: translate_sheet.csv:565
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"The game becomes a draw when two or more players called for a total of four "
-"Quads"
-msgstr ""
-"The game becomes a draw when two or more players called for a total of four "
-"Quads"
-
-#: translate_sheet.csv:566
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Nine Different Terminals and Honors"
-msgstr "Nine Different Terminals and Honors"
-
-#: translate_sheet.csv:567
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid ""
-"You have the option to declare a draw in the first turn if your hand "
-"consists of 9 different Terminal Tiles  before any tiles are called"
-msgstr ""
-"You have the option to declare a draw in the first turn if your hand "
-"consists of 9 different Terminal Tiles  before any tiles are called"
-
-#: translate_sheet.csv:568
-msgctxt "sheet|FandescFandesc.csv|name_en"
-msgid "Four-player Riichi"
-msgstr "Four-player Riichi"
-
-#: translate_sheet.csv:569
-msgctxt "sheet|FandescFandesc.csv|desc_en"
-msgid "The game becomes a draw when all players have declared Riichi"
-msgstr "The game becomes a draw when all players have declared Riichi"
-
-#: translate_sheet.csv:570
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Fully Concealed Hand"
-msgstr "Fully Concealed Hand"
-
-#: translate_sheet.csv:571
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Riichi"
-msgstr "Riichi"
-
-#: translate_sheet.csv:572
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Robbing a Kan"
-msgstr "Robbing a Kan"
-
-#: translate_sheet.csv:573
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "After a Kan"
-msgstr "After a Kan"
-
-#: translate_sheet.csv:574
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Under the Sea"
-msgstr "Under the Sea"
-
-#: translate_sheet.csv:575
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Under the River"
-msgstr "Under the River"
-
-#: translate_sheet.csv:576
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "White Dragon"
-msgstr "White Dragon"
-
-#: translate_sheet.csv:577
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Green Dragon"
-msgstr "Green Dragon"
-
-#: translate_sheet.csv:578
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Red Dragon"
-msgstr "Red Dragon"
-
-#: translate_sheet.csv:579
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Seat Wind"
-msgstr "Seat Wind"
-
-#: translate_sheet.csv:580
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Prevalent Wind"
-msgstr "Prevalent Wind"
-
-#: translate_sheet.csv:581
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "All Simples"
-msgstr "All Simples"
-
-#: translate_sheet.csv:582
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Pure Double Sequence"
-msgstr "Pure Double Sequence"
-
-#: translate_sheet.csv:583
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Pinfu"
-msgstr "Pinfu"
-
-#: translate_sheet.csv:584
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Half Outside Hand"
-msgstr "Half Outside Hand"
-
-#: translate_sheet.csv:585
-msgctxt "sheet|FanFan.csv|name_en"
 msgid "Pure Straight"
 msgstr "Pure Straight"
 
-#: translate_sheet.csv:586
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:558
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand with a complete Sequence of 1 through 9 (i.e. 123-Man, 456-Man, "
+"789-Man)"
+msgstr ""
+"Win a hand with a complete Sequence of 1 through 9 (i.e. 123-Man, 456-Man, "
+"789-Man)"
+
+#: translate_sheet.csv:559
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Mixed Triple Sequence"
 msgstr "Mixed Triple Sequence"
 
-#: translate_sheet.csv:587
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Double Riichi"
-msgstr "Double Riichi"
+#: translate_sheet.csv:560
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand with three Sequences with the same numbers out of three different"
+" Number Tiles  (i.e. 123-Man, 123-Pin, 123-Sou)"
+msgstr ""
+"Win a hand with three Sequences with the same numbers out of three different"
+" Number Tiles  (i.e. 123-Man, 123-Pin, 123-Sou)"
 
-#: translate_sheet.csv:588
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Triple Triplets"
-msgstr "Triple Triplets"
+#: translate_sheet.csv:561
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Local Yaku: Uumensai"
+msgstr "Local Yaku: Uumensai"
 
-#: translate_sheet.csv:589
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Three Quads"
-msgstr "Three Quads"
+#: translate_sheet.csv:562
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand consists of Man, Pin, Sou, Wind, and Dragon tiles"
+msgstr "Win a hand consists of Man, Pin, Sou, Wind, and Dragon tiles"
 
-#: translate_sheet.csv:590
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "All Triplets"
-msgstr "All Triplets"
+#: translate_sheet.csv:563
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Local Yaku: Three Chained Triplets"
+msgstr "Local Yaku: Three Chained Triplets"
 
-#: translate_sheet.csv:591
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Three Concealed Triplets"
-msgstr "Three Concealed Triplets"
+#: translate_sheet.csv:564
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand with 3 consecutive Triplets"
+msgstr "Win a hand with 3 consecutive Triplets"
 
-#: translate_sheet.csv:592
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Little Three Dragons"
-msgstr "Little Three Dragons"
-
-#: translate_sheet.csv:593
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "All Terminals and Honors"
-msgstr "All Terminals and Honors"
-
-#: translate_sheet.csv:594
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Seven Pairs"
-msgstr "Seven Pairs"
-
-#: translate_sheet.csv:595
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Fully Outside Hand"
-msgstr "Fully Outside Hand"
-
-#: translate_sheet.csv:596
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Half Flush"
-msgstr "Half Flush"
-
-#: translate_sheet.csv:597
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:565
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Twice Pure Double Sequence"
 msgstr "Twice Pure Double Sequence"
 
-#: translate_sheet.csv:598
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:566
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand with two sets two identical Sequences"
+msgstr "Win a hand with two sets two identical Sequences"
+
+#: translate_sheet.csv:567
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Fully Outside Hand"
+msgstr "Fully Outside Hand"
+
+#: translate_sheet.csv:568
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand with every Sequence, Triplet and Pair contains at least one 1 and"
+" 9 out of the Number Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)"
+msgstr ""
+"Win a hand with every Sequence, Triplet and Pair contains at least one 1 and"
+" 9 out of the Number Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)"
+
+#: translate_sheet.csv:569
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Half Flush"
+msgstr "Half Flush"
+
+#: translate_sheet.csv:570
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand with tiles from only one of the three Number Tiles (Man, Pin or "
+"Sou) and HonorTiles (Wind Tiles and Dragon Tiles)"
+msgstr ""
+"Win a hand with tiles from only one of the three Number Tiles (Man, Pin or "
+"Sou) and HonorTiles (Wind Tiles and Dragon Tiles)"
+
+#: translate_sheet.csv:571
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Local Yaku: Pure Triple Chow"
+msgstr "Local Yaku: Pure Triple Chow"
+
+#: translate_sheet.csv:572
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand with three identical Sequences"
+msgstr "Win a hand with three identical Sequences"
+
+#: translate_sheet.csv:573
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Full Flush"
 msgstr "Full Flush"
 
-#: translate_sheet.csv:599
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Ippatsu"
-msgstr "Ippatsu"
+#: translate_sheet.csv:574
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand with tiles from only one of the three Number Tiles (Man, Pin or "
+"Sou)"
+msgstr ""
+"Win a hand with tiles from only one of the three Number Tiles (Man, Pin or "
+"Sou)"
 
-#: translate_sheet.csv:600
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Dora"
-msgstr "Dora"
+#: translate_sheet.csv:575
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Mangan at Draw"
+msgstr "Mangan at Draw"
 
-#: translate_sheet.csv:601
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Red Five"
-msgstr "Red Five"
+#: translate_sheet.csv:576
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a game with all your discarded tiles being Terminal Tiles, and no one "
+"has called them"
+msgstr ""
+"Win a game with all your discarded tiles being Terminal Tiles, and no one "
+"has called them"
 
-#: translate_sheet.csv:602
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Ura Dora"
-msgstr "Ura Dora"
+#: translate_sheet.csv:577
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Local Yaku: Iipinmoyue"
+msgstr "Local Yaku: Iipinmoyue"
 
-#: translate_sheet.csv:603
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Kita"
-msgstr "Kita"
+#: translate_sheet.csv:578
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand by Tsumo (drawing the winning tile) with the last tile drawn from"
+" the Wall, and that tile must be 1-Pin(5 Han)"
+msgstr ""
+"Win a hand by Tsumo (drawing the winning tile) with the last tile drawn from"
+" the Wall, and that tile must be 1-Pin(5 Han)"
 
-#: translate_sheet.csv:604
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:579
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Local Yaku: Chuupinraoyui"
+msgstr "Local Yaku: Chuupinraoyui"
+
+#: translate_sheet.csv:580
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Call a Ron on the last tile drawn from the Wall, and that tile must be "
+"9-Pin(5 Han)"
+msgstr ""
+"Call a Ron on the last tile drawn from the Wall, and that tile must be "
+"9-Pin(5 Han)"
+
+#: translate_sheet.csv:581
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Blessing of Heaven"
 msgstr "Blessing of Heaven"
 
-#: translate_sheet.csv:605
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:582
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand as a dealer in the first turn with the first draw"
+msgstr "Win a hand as a dealer in the first turn with the first draw"
+
+#: translate_sheet.csv:583
+msgctxt "sheet|FandescFandesc.csv|desc2_en"
+msgid "Dealer Only"
+msgstr "Dealer Only"
+
+#: translate_sheet.csv:584
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Blessing of Earth"
 msgstr "Blessing of Earth"
 
-#: translate_sheet.csv:606
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:585
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand as a non-dealer in the first turn before any tiles are called"
+msgstr ""
+"Win a hand as a non-dealer in the first turn before any tiles are called"
+
+#: translate_sheet.csv:586
+msgctxt "sheet|FandescFandesc.csv|desc2_en"
+msgid "Non-Dealer Only"
+msgstr "Non-Dealer Only"
+
+#: translate_sheet.csv:587
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Big Three Dragons"
 msgstr "Big Three Dragons"
 
-#: translate_sheet.csv:607
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:588
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand with three Triplets or Quads of all the three Dragon Tiles"
+msgstr "Win a hand with three Triplets or Quads of all the three Dragon Tiles"
+
+#: translate_sheet.csv:589
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Four Concealed Triplets"
 msgstr "Four Concealed Triplets"
 
-#: translate_sheet.csv:608
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:590
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand with four closed Triplets"
+msgstr "Win a hand with four closed Triplets"
+
+#: translate_sheet.csv:591
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "All Honors"
 msgstr "All Honors"
 
-#: translate_sheet.csv:609
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:592
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand with four Triplets and a Pair of the Honor Tiles (Wind Tiles and "
+"Dragon Tiles)"
+msgstr ""
+"Win a hand with four Triplets and a Pair of the Honor Tiles (Wind Tiles and "
+"Dragon Tiles)"
+
+#: translate_sheet.csv:593
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "All Green"
 msgstr "All Green"
 
-#: translate_sheet.csv:610
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:594
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand with only green-colored tiles: 2-Sou/3-Sou/4-Sou/6-Sou/8-Sou "
+"and/or Green (F)"
+msgstr ""
+"Win a hand with only green-colored tiles: 2-Sou/3-Sou/4-Sou/6-Sou/8-Sou "
+"and/or Green (F)"
+
+#: translate_sheet.csv:595
+msgctxt "sheet|FandescFandesc.csv|desc2_en"
+msgid "Green is not Necessary"
+msgstr "Green is not Necessary"
+
+#: translate_sheet.csv:596
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "All Terminals"
 msgstr "All Terminals"
 
-#: translate_sheet.csv:611
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:597
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand with four Triplets and a Pair of 1 and 9 out of the Number Tiles "
+"(1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)"
+msgstr ""
+"Win a hand with four Triplets and a Pair of 1 and 9 out of the Number Tiles "
+"(1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)"
+
+#: translate_sheet.csv:598
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Thirteen Orphans"
 msgstr "Thirteen Orphans"
 
-#: translate_sheet.csv:612
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:599
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand with one of each 13 Terminal Tiles, plus any tile matches one of "
+"them"
+msgstr ""
+"Win a hand with one of each 13 Terminal Tiles, plus any tile matches one of "
+"them"
+
+#: translate_sheet.csv:600
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Four Little Winds"
 msgstr "Four Little Winds"
 
-#: translate_sheet.csv:613
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:601
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand with three Triplets or Quads of the Wind Tiles, plus a pair of "
+"the fourth wind"
+msgstr ""
+"Win a hand with three Triplets or Quads of the Wind Tiles, plus a pair of "
+"the fourth wind"
+
+#: translate_sheet.csv:602
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Four Quads"
 msgstr "Four Quads"
 
-#: translate_sheet.csv:614
-msgctxt "sheet|FanFan.csv|name_en"
+#: translate_sheet.csv:603
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand with four Quads"
+msgstr "Win a hand with four Quads"
+
+#: translate_sheet.csv:604
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Nine Gates"
 msgstr "Nine Gates"
 
+#: translate_sheet.csv:605
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Win a hand with tiles from only one of the three Number Tiles in the order "
+"of “1112345678999”, plus any tile matches one of them"
+msgstr ""
+"Win a hand with tiles from only one of the three Number Tiles in the order "
+"of “1112345678999”, plus any tile matches one of them"
+
+#: translate_sheet.csv:606
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Local Yaku: Hand of Man"
+msgstr "Local Yaku: Hand of Man"
+
+#: translate_sheet.csv:607
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Call a Ron as a non-dealer in the first turn you draw a tile and before any "
+"tiles are called"
+msgstr ""
+"Call a Ron as a non-dealer in the first turn you draw a tile and before any "
+"tiles are called"
+
+#: translate_sheet.csv:608
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Local Yaku: Big Wheels"
+msgstr "Local Yaku: Big Wheels"
+
+#: translate_sheet.csv:609
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand with 7 Pairs consist of 2-Pin to 8-Pin"
+msgstr "Win a hand with 7 Pairs consist of 2-Pin to 8-Pin"
+
+#: translate_sheet.csv:610
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Local Yaku: Bamboo Forest"
+msgstr "Local Yaku: Bamboo Forest"
+
+#: translate_sheet.csv:611
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand with 7 Pairs consist of 2-Sou to 8-Sou"
+msgstr "Win a hand with 7 Pairs consist of 2-Sou to 8-Sou"
+
+#: translate_sheet.csv:612
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Local Yaku: Numerous Neighbours"
+msgstr "Local Yaku: Numerous Neighbours"
+
+#: translate_sheet.csv:613
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand with 7 Pairs consist of 2-Man to 8-Man"
+msgstr "Win a hand with 7 Pairs consist of 2-Man to 8-Man"
+
+#: translate_sheet.csv:614
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Local Yaku: Ishinouenimosannen"
+msgstr "Local Yaku: Ishinouenimosannen"
+
 #: translate_sheet.csv:615
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Eight-time East Staying"
-msgstr "Eight-time East Staying"
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand with Double Riichi as well as Under the Sea/River"
+msgstr "Win a hand with Double Riichi as well as Under the Sea/River"
 
 #: translate_sheet.csv:616
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "True Nine Gates"
-msgstr "True Nine Gates"
-
-#: translate_sheet.csv:617
-msgctxt "sheet|FanFan.csv|name_en"
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Single-wait Four Concealed Triplets"
 msgstr "Single-wait Four Concealed Triplets"
 
+#: translate_sheet.csv:617
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Achieve Tenpai with four Closed Triplets already drawn (i.e. waiting for one"
+" remaining tile to form a Pair)"
+msgstr ""
+"Achieve Tenpai with four Closed Triplets already drawn (i.e. waiting for one"
+" remaining tile to form a Pair)"
+
 #: translate_sheet.csv:618
-msgctxt "sheet|FanFan.csv|name_en"
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Thirteen-wait Thirteen Orphans"
 msgstr "Thirteen-wait Thirteen Orphans"
 
 #: translate_sheet.csv:619
-msgctxt "sheet|FanFan.csv|name_en"
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Achieve Tenpai with 13 different Terminal Tiles already drawn (i.e. waiting "
+"for 1 out of 13 possible tiles to win)"
+msgstr ""
+"Achieve Tenpai with 13 different Terminal Tiles already drawn (i.e. waiting "
+"for 1 out of 13 possible tiles to win)"
+
+#: translate_sheet.csv:620
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "True Nine Gates"
+msgstr "True Nine Gates"
+
+#: translate_sheet.csv:621
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"Achieve Tenpai with tiles from only one of the three Number Tiles in the "
+"order of “1112345678999” (i.e. waiting for 1 out of 9 possible tiles to win)"
+msgstr ""
+"Achieve Tenpai with tiles from only one of the three Number Tiles in the "
+"order of “1112345678999” (i.e. waiting for 1 out of 9 possible tiles to win)"
+
+#: translate_sheet.csv:622
+msgctxt "sheet|FandescFandesc.csv|name_en"
 msgid "Four Big Winds"
 msgstr "Four Big Winds"
 
-#: translate_sheet.csv:620
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Tsubame-gaeshi"
-msgstr "Tsubame-gaeshi"
-
-#: translate_sheet.csv:621
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Kanburi"
-msgstr "Kanburi"
-
-#: translate_sheet.csv:622
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Shiiaruraotai"
-msgstr "Shiiaruraotai"
-
 #: translate_sheet.csv:623
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Uumensai"
-msgstr "Uumensai"
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand with four Triplets or Quads of the Wind Tiles"
+msgstr "Win a hand with four Triplets or Quads of the Wind Tiles"
 
 #: translate_sheet.csv:624
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Three Chained Triplets"
-msgstr "Three Chained Triplets"
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Local Yaku: Big Seven Stars"
+msgstr "Local Yaku: Big Seven Stars"
 
 #: translate_sheet.csv:625
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Pure Triple Chow"
-msgstr "Pure Triple Chow"
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "Win a hand with 7 Pairs consist of only Word tiles"
+msgstr "Win a hand with 7 Pairs consist of only Word tiles"
 
 #: translate_sheet.csv:626
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Iipinmoyue"
-msgstr "Iipinmoyue"
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Four-Wind Discarded"
+msgstr "Four-Wind Discarded"
 
 #: translate_sheet.csv:627
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Chuupinraoyui"
-msgstr "Chuupinraoyui"
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"The game becomes a draw when each player discards the same Wind Tile in the "
+"first turn"
+msgstr ""
+"The game becomes a draw when each player discards the same Wind Tile in the "
+"first turn"
 
 #: translate_sheet.csv:628
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Hand of Man"
-msgstr "Hand of Man"
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Four-kan Abortion"
+msgstr "Four-kan Abortion"
 
 #: translate_sheet.csv:629
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Big Wheels"
-msgstr "Big Wheels"
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"The game becomes a draw when two or more players called for a total of four "
+"Quads"
+msgstr ""
+"The game becomes a draw when two or more players called for a total of four "
+"Quads"
 
 #: translate_sheet.csv:630
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Bamboo Forest"
-msgstr "Bamboo Forest"
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Nine Different Terminals and Honors"
+msgstr "Nine Different Terminals and Honors"
 
 #: translate_sheet.csv:631
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Numerous Neighbours"
-msgstr "Numerous Neighbours"
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid ""
+"You have the option to declare a draw in the first turn if your hand "
+"consists of 9 different Terminal Tiles  before any tiles are called"
+msgstr ""
+"You have the option to declare a draw in the first turn if your hand "
+"consists of 9 different Terminal Tiles  before any tiles are called"
 
 #: translate_sheet.csv:632
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Ishinouenimosannen"
-msgstr "Ishinouenimosannen"
+msgctxt "sheet|FandescFandesc.csv|name_en"
+msgid "Four-player Riichi"
+msgstr "Four-player Riichi"
 
 #: translate_sheet.csv:633
-msgctxt "sheet|FanFan.csv|name_en"
-msgid "Big Seven Stars"
-msgstr "Big Seven Stars"
+msgctxt "sheet|FandescFandesc.csv|desc_en"
+msgid "The game becomes a draw when all players have declared Riichi"
+msgstr "The game becomes a draw when all players have declared Riichi"
 
 #: translate_sheet.csv:634
 msgctxt "sheet|GameLiveSelectFilters.csv|name1_en"
