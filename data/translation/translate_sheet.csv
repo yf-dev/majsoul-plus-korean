@@ -42,7 +42,7 @@ FandescFandesc.csv,desc_en,"Win a hand by Tsumo or Ron with 4 open Chii, Pon, or
 FandescFandesc.csv,name_en,Double Riichi,더블리치
 FandescFandesc.csv,desc_en,Declare Riichi with your starting hand before any tiles are called,첫 쯔모 후 리치 선언을 한 후 화료 - 자신이 쯔모하기 전 누군가 치/펑/깡을 했을 경우 무효
 FandescFandesc.csv,name_en,Triple Triplets,삼색동각
-FandescFandesc.csv,desc_en,"Win a hand with three Triplets with the same number out of the Number Tiles (Man, Pin, Sou)","세가지 같은 숫자로 각 수패(만수, 통수, 삭수)로 커쯔 몸통을 만들어 화료 "
+FandescFandesc.csv,desc_en,"Win a hand with three Triplets with the same number out of the Number Tiles (Man, Pin, Sou)","세가지 같은 숫자로 각 수패(만수, 통수, 삭수)로 커쯔 몸통을 만들어 화료"
 FandescFandesc.csv,name_en,Three Quads,산깡즈
 FandescFandesc.csv,desc_en,Win a hand with three Quads,깡 3개를 포함하여 화료
 FandescFandesc.csv,name_en,All Triplets,또이또이
@@ -232,7 +232,7 @@ InfoError.csv,en,The refresh attempts will reset at 5 A.M. tomorrow morning.,새
 InfoError.csv,en,Mailbox is empty.,우편함이 비어있습니다.
 InfoError.csv,en,This mail does not have any attachments.,이 편지는 첨부(attachment)가 없습니다.
 InfoError.csv,en,You have already claimed the attachment.,이미 첨부(attachment)를 받았습니다.
-InfoError.csv,en,Please claim your uncollected reward first,먼저 획득하지 않은 보상을 받아주세요.
+InfoError.csv,en,Please claim your uncollected reward first,먼저 획득하지 않은 보상을 받아주세요
 InfoError.csv,en,Live cast not found. Please try again.,라이브 캐스트를 찾을 수 없습니다. 다시 시도해주세요.
 InfoError.csv,en,You can`t view other region`s match.,다른 지역의 게임은 볼 수 없습니다.
 InfoError.csv,en,Recharge feature is temporarily unavailable.,충전(recharge) 기능을 일시적으로 사용할 수 없습니다.
@@ -264,7 +264,7 @@ InfoError.csv,en,Incorrect summon attempts.,잘못된 기원 시도입니다.
 InfoError.csv,en,Game logs you saved have reached the limit,저장한 게임 로그가 한계에 도달했습니다
 InfoError.csv,en,Daily reward was already collected or Fortune Charm wasn't purchased yet,일일 보상을 이미 획득했거나 행운의 부적을 아직 구매하지 않았습니다
 InfoError.csv,en,Fortune Charm maximum duration exseeded,행운의 부적 최대 기간 초과
-InfoError.csv,en,The number of purchases has reached the ceiling and cannot be re-purchased,구매 횟수가 상한선에 도달하여 더 이상 구매할 수 없습니다.
+InfoError.csv,en,The number of purchases has reached the ceiling and cannot be re-purchased,구매 횟수가 상한선에 도달하여 더 이상 구매할 수 없습니다
 InfoError.csv,en,This item cannot be sent as a gift. Keep it to yourself.,이 아이템은 선물할 수 없습니다. 스스로 간직하세요.
 InfoError.csv,en,Cannot send any more gifts today.,오늘은 더 이상 선물을 보낼 수 없습니다.
 InfoError.csv,en,Maximum Bond reached.,최대 인연에 도달했습니다.
@@ -307,9 +307,9 @@ InfoError.csv,en,You have claimed all available rewards.,획득 가능한 모든
 InfoError.csv,en,Quest has not been accepted.,퀘스트가 수락되지 않았습니다.
 InfoError.csv,en,Quest incomplete.,퀘스트가 완료되지 않았습니다.
 InfoError.csv,en,Upper limit of collection,수집 상한
-InfoError.csv,en,Unable to claim the rewards right now,지금 보상을 받을 수 없습니다.
-InfoError.csv,en,The rewards has already been claimed,보상을 이미 받았습니다.
-InfoError.csv,en,Not enough attempts,더 이상 시도할 수 없습니다.
+InfoError.csv,en,Unable to claim the rewards right now,지금 보상을 받을 수 없습니다
+InfoError.csv,en,The rewards has already been claimed,보상을 이미 받았습니다
+InfoError.csv,en,Not enough attempts,더 이상 시도할 수 없습니다
 InfoError.csv,en,Invalid block,잘못된 칸(block)
 InfoError.csv,en,Unable to claim rewards from this block,이 칸에서 보상을 받을 수 없습니다
 InfoError.csv,en,You have already checked in,이미 체크인했습니다
@@ -345,7 +345,7 @@ ItemDefinitionCurrency.csv,desc_en,Can be used to buy props.,소품(props)을 �
 ItemDefinitionCurrency.csv,name_en,Copper,동전
 ItemDefinitionCurrency.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천 신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
 ItemDefinitionCurrency.csv,name_en,Outfit Voucher,의상 교환권
-ItemDefinitionCurrency.csv,desc_en,A currency used to purchase outfits,의상을 구입하는데 사용되는 화폐입니다.
+ItemDefinitionCurrency.csv,desc_en,A currency used to purchase outfits,의상을 구입하는데 사용되는 화폐입니다
 DesktopChest.csv,name_en,Silver Chest,은 상자
 DesktopChest.csv,name_en,Gold Chest,금 상자
 DesktopChest.csv,name_en,Jade Chest,비취 상자
@@ -527,7 +527,7 @@ ItemDefinitionCharacter.csv,desc_stature_en,178cm,178cm
 ItemDefinitionCharacter.csv,desc_birth_en,24th December,12월 24일
 ItemDefinitionCharacter.csv,desc_cv_en,Jun Fukuyama,후쿠야마 쥰
 ItemDefinitionCharacter.csv,desc_hobby_en,"Mahjong, gaming, bartending","마작, 게임, 칵테일"
-ItemDefinitionCharacter.csv,desc_en,"Natsuki Shinomiya is a common college boy as well as a part-time bartender of LULLABY. Like many Otakus, Shinomiya spends all his spare time in playing video games and reading mangas, and behaves like a chunibyo in certain circumstances. Under the influence of the owner of LULLABY, Shinomiya learned and became fond of Mahjong.\nShinomiya role-plays a rogue character named WhiteNight in an MMORPG. He cosplays his rogue from time to time, and calls himself the best coser of WhiteNight.","바 ""LULLABY""에서 바텐더 아르바이트를 하고 있는 평범한 대학생. 약간 중2병스럽고, 게임과 만화를 좋아하는 오타쿠. 바 오너의 영향으로 마작을 시작했다. 마작 실력에는 꽤 자신이 있다. 자주 하는 MMORPG에서는 ""백야(白夜)""라는 ID로 도적 캐릭터를 플레이하고 있다. 평소 자신 안에 억눌려있던 감정을 토해내기 때문인지, 게임 내의 언동은 실제라고 믿기 어려울 정도로 날뛰는 경향이 있다. 동인 이벤트 등에서는 ""백야""의 코스프레를 하고 자주 참가해, 가장 재현도가 높은 백야 코스플레이어라고 칭송받고 있다."
+ItemDefinitionCharacter.csv,desc_en,"Natsuki Shinomiya is a common college boy as well as a part-time bartender of LULLABY. Like many Otakus, Shinomiya spends all his spare time in playing video games and reading mangas, and behaves like a chunibyo in certain circumstances. Under the influence of the owner of LULLABY, Shinomiya learned and became fond of Mahjong.\nShinomiya role-plays a rogue character named WhiteNight in an MMORPG. He cosplays his rogue from time to time, and calls himself the best coser of WhiteNight.","바 ""LULLABY""에서 바텐더 아르바이트를 하고 있는 평범한 대학생. 약간 중2병스럽고, 게임과 만화를 좋아하는 오타쿠. 바 오너의 영향으로 마작을 시작했다. 마작 실력에는 꽤 자신이 있다. 자주 하는 MMORPG에서는 ""백야(白夜)""라는 ID로 도적 캐릭터를 플레이하고 있다. 평소 자신 안에 억눌려있던 감정을 토해내기 때문인지, 게임 내의 언동은 실제라고 믿기 어려울 정도로 날뛰는 경향이 있다.\n동인 이벤트 등에서는 ""백야""의 코스프레를 하고 자주 참가해, 가장 재현도가 높은 백야 코스플레이어라고 칭송받고 있다."
 ItemDefinitionCharacter.csv,name_en,Wanjirou,왕지로
 ItemDefinitionCharacter.csv,desc_stature_en,165cm,165cm
 ItemDefinitionCharacter.csv,desc_birth_en,13th January,1월 13일
@@ -552,8 +552,7 @@ ItemDefinitionCharacter.csv,desc_stature_en,159cm,159cm
 ItemDefinitionCharacter.csv,desc_birth_en,9th September,9월 9일
 ItemDefinitionCharacter.csv,desc_cv_en,Konomi Kohara,코하라 코노미
 ItemDefinitionCharacter.csv,desc_hobby_en,"Light novels, teasing her younger sister","라이트 노벨, 동생에게 장난치기"
-ItemDefinitionCharacter.csv,desc_en,"Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat. As the head of her school’s literature club, which is on the verge of being dissolved, Keikumusume is constantly leaning to her fellow club members to try saving their beloved club. \nKeikumusume’s personality changes when she takes off her witch hat. Once the hat is off, she goes from being a carefree naive girl to someone who is very dependable in nature. But such change is totally clueless to herself.\nIt seems that she has an infinite supply of witch hats at her disposal, yet where she keeps her supply remains a mystery.","어느 학교에 있는 폐부 직전의 문학부 부장. 평소에는 기묘한 마녀모자를 쓰고 라노벨을 읽으며, 부원에게 문학부를 구원받길 기다리고 있다. 모자를 씀으로써 인격을 바꿀 수 있다. 모자를 쓰지 않았을 때는 똑부러지는 성격이지만, 모자를 쓰면 덜렁이가 되며, 본인에게 자각은 없다. 모자에는 대량의 비품이 들어있을 것 같지만, 어디에 보존되는지는 미스터리."
-ItemDefinitionCharacter.csv,desc_item_en,Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat.,Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat.
+ItemDefinitionCharacter.csv,desc_en,"Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat. As the head of her school’s literature club, which is on the verge of being dissolved, Keikumusume is constantly leaning to her fellow club members to try saving their beloved club. \nKeikumusume’s personality changes when she takes off her witch hat. Once the hat is off, she goes from being a carefree naive girl to someone who is very dependable in nature. But such change is totally clueless to herself.\nIt seems that she has an infinite supply of witch hats at her disposal, yet where she keeps her supply remains a mystery.","어느 학교에 있는 폐부 직전의 문학부 부장. 평소에는 기묘한 마녀모자를 쓰고 라노벨을 읽으며, 부원에게 문학부를 구원받길 기다리고 있다. \n모자를 씀으로써 인격을 바꿀 수 있다. 모자를 쓰지 않았을 때는 똑부러지는 성격이지만, 모자를 쓰면 덜렁이가 되며, 본인에게 자각은 없다.\n모자에는 대량의 비품이 들어있을 것 같지만, 어디에 보존되는지는 미스터리."
 ItemDefinitionCharacter.csv,name_en,Sara,사라
 ItemDefinitionCharacter.csv,desc_stature_en,158cm,158cm
 ItemDefinitionCharacter.csv,desc_birth_en,25th September,9월 25일
@@ -593,7 +592,7 @@ ItemDefinitionCharacter.csv,desc_birth_en,17th January,1월 17일
 ItemDefinitionCharacter.csv,desc_age_en,35,35
 ItemDefinitionCharacter.csv,desc_cv_en,Hiroki Yasumoto,야스모토 히로키
 ItemDefinitionCharacter.csv,desc_hobby_en,"Liquor, adventure, fishing","술, 탐험, 낚시"
-ItemDefinitionCharacter.csv,desc_en,"""As the host of an adventure channel, Joseph has loved animals and the nature since his childhood. Despite his young age, he has almost traveled all around the globe.\nUnder the suggestion of his friends, he started adventuring as a career. His humorous speech and bold actions brought the adventure show back to life. \nSometimes, you can see him in a Mahjong club sitting in door for the entire afternoon.""","탐험방송의 젊은 진행자. 어릴때부터 자연이나 동물을 좋아했고, 모험심이 넘쳐나 젊은 시절에 전세계를 누비고 다녔다. 본래 탐험을 단순한 취미로만 생각했지만, 친한 친구의 어드바이스로 취미를 직업으로 삼기로했다. 자신의 유머와 대담한 행동으로 종영 직전이었던 탐험방송을 다시 태어나게 했다. 이런 대자연의 사나이라도 가끔은 마작회관에 출몰할 때도 있다. 인도어의 의외의 행동도 보인다."
+ItemDefinitionCharacter.csv,desc_en,"""As the host of an adventure channel, Joseph has loved animals and the nature since his childhood. Despite his young age, he has almost traveled all around the globe.\nUnder the suggestion of his friends, he started adventuring as a career. His humorous speech and bold actions brought the adventure show back to life. \nSometimes, you can see him in a Mahjong club sitting in door for the entire afternoon.""","""탐험방송의 젊은 진행자. 어릴때부터 자연이나 동물을 좋아했고, 모험심이 넘쳐나 젊은 시절에 전세계를 누비고 다녔다.\n본래 탐험을 단순한 취미로만 생각했지만, 친한 친구의 어드바이스로 취미를 직업으로 삼기로했다. 자신의 유머와 대담한 행동으로 종영 직전이었던 탐험방송을 다시 태어나게 했다.\n이런 대자연의 사나이라도 가끔은 마작회관에 출몰할 때도 있다. 인도어의 의외의 행동도 보인다."""
 ItemDefinitionCharacter.csv,name_en,Osamu Saitou,사이토 오사무
 ItemDefinitionCharacter.csv,desc_stature_en,190cm,190cm
 ItemDefinitionCharacter.csv,desc_birth_en,18th May,5월 18일
@@ -646,8 +645,8 @@ CharacterEmoji.csv,after_unlock_desc_en,Spring Festival,봄 축제
 StrStr.csv,en,Deal-in is not the end; All Last is only the beginning!,"쏘였다고 경기에서 패배한 것은 아니며, 최종국은 또다른 시작일 뿐입니다!"
 StrStr.csv,en,"No matter how big your hand is, a Tanyao will end it all.","내 손패가 아무리 강해도, 탕야오 한번에 끝날 수 있습니다."
 StrStr.csv,en,"You must have Yaku to declare a win. Before you make a call (Chii/Pon/Kan), make sure you check if you have Yaku.",화료하기 위해서는 역이 필요합니다. 울기(치/펑/깡) 전에 역이 있는지 꼭 확인하세요.
-StrStr.csv,en,Go to settings menu to view all types of Yaku,설정 메뉴에서 모든 역을 확인할 수 있습니다.
-StrStr.csv,en,"In settings, you can choose to play a tile with single or double click",설정에서 한번 터치 또는 두번 터치로 타패하도록 변경할 수 있습니다.
+StrStr.csv,en,Go to settings menu to view all types of Yaku,설정 메뉴에서 모든 역을 확인할 수 있습니다
+StrStr.csv,en,"In settings, you can choose to play a tile with single or double click",설정에서 한번 터치 또는 두번 터치로 타패하도록 변경할 수 있습니다
 StrStr.csv,en,Players who use IE or Opera browsers may encounter lag issues. We recommend Chrome，FireFox or Edge browsers.,"인터넷 익스플로러 또는 오페라 브라우저에서는 게임이 원할하게 구동되지 않을 수 있습니다. 크롬, 파이어폭스, 엣지 브라우저를 사용하는 것을 추천합니다."
 StrStr.csv,en,Mangan at Draw,유국만관
 StrStr.csv,en,Four-Wind Discarded,사풍연타
@@ -795,7 +794,7 @@ StrStr.csv,en,Game Tips,게임 팁
 StrStr.csv,en,Enable,활성화
 StrStr.csv,en,Disable,비활성화
 StrStr.csv,en,Finding opponents,상대방을 찾는 중
-StrStr.csv,en,Starting soon,잠시 후 시작: 
+StrStr.csv,en,Starting soon,잠시 후 시작:
 StrStr.csv,en,Ranked,단위전
 EventsSoscoin.csv,desc_en,Only players of Adept rank or above can claim Revival Tokens. Keep working!,작사 등급 이상의 플레이어만 부활 토큰을 받을 수 있습니다. 계속 힘내세요!
 EventsSoscoin.csv,desc_en,You are currently an Adept.You may claim this when you have less than 4500 coppers. Available once per day.,당신은 현재 작사 등급입니다. 4500개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
@@ -938,3 +937,105 @@ ActivityActivity.csv,name_en,春节的礼品箱,春节的礼品箱
 ActivityActivity.csv,name_en,春节夺宝战,春节夺宝战
 ActivityActivity.csv,name_en,新角色 新装版up,新角色 新装版up
 StrStr.csv,en,1,1
+EventsBaseTask.csv,desc_en,Win 28 games with Ron and Tsumo,28 게임을 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Yaku: Dragon,2 게임을 삼원패로 화료
+EventsBaseTask.csv,desc_en,Get 1st or 2nd 1 time in Chaotic Wall Break,혼돈의 패산파괴 게임에서 1등 또는 2등 1회 달성
+EventsBaseTask.csv,desc_en,Win 8 games with 1 Han Yaku included,8 게임을 1판 역을 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 2 games with 1 Han Yaku included,2 게임을 1판 역을 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 1 game with All Simples or Pinfu,1 게임을 탕야오 또는 핑후로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with 2 Han Yaku or above included,1 게임을 2판 역 이상을 포함하여 화료
+EventsBaseTask.csv,desc_en,"Win 1 game with Ippatsu, Ura Dora or Fully Concealed Hand","1 게임을 일발, 뒷도라, 멘젠쯔모를 포함하여 화료"
+EventsBaseTask.csv,desc_en,Finish 1 match in 2nd or 1st place,1등 또는 2등 1회 달성
+EventsBaseTask.csv,desc_en,"Win 1 game with Seat Wind, Prevalent Wind or Dragons","1 게임을 자풍패, 장풍패 또는 삼원패로 화료"
+EventsBaseTask.csv,desc_en,Win 2 games with Yaku: Seat/Prevalent Wind,2 게임을 역: 자풍패/장풍패로 화료
+EventsBaseTask.csv,desc_en,Donate 1 gift (Items - Gift),선물 1개 기부(창고- 선물)
+EventsBaseTask.csv,desc_en,Ron 10 times,10회 론 화료
+EventsBaseTask.csv,desc_en,Win 33 games with Ron and Tsumo,33 게임을 화료
+EventsBaseTask.csv,desc_en,Win 2 games with at least a Ura Dora,2 게임을 뒷도라를 하나 이상 포함하여 화료
+EventsBaseTask.csv,desc_en,Get 1st or 2nd 1 time in Open Hand Match,손패 공개 게임에서 1등 또는 2등 1회 달성
+EventsBaseTask.csv,desc_en,Win 3 games with Yaku: Dragon,3 게임을 삼원패로 화료
+EventsBaseTask.csv,desc_en,Win 3 games with Fully Concealed Hand,3 게임을 멘젠쯔모로 화료
+EventsBaseTask.csv,desc_en,Win 6 games with Riichi,6 게임을 리치로 화료
+EventsBaseTask.csv,desc_en,Win 20 games with at least a Dora,20 게임을 도라를 하나 이상 포함하여 화료
+EventsBaseTask.csv,desc_en,Win a game with Prevalent Wind,장풍패로 화료
+EventsBaseTask.csv,desc_en,Win a game with Seven Pairs,치또이츠로 화료
+EventsBaseTask.csv,desc_en,Purchase 2 times from Misc Shop,잡화점에서 아이템 2회 구매
+EventsBaseTask.csv,desc_en,Ron 8 times,8회 론 화료
+EventsBaseTask.csv,desc_en,Win 2 games with a Yaku that values 2 Han or above,2 게임을 2판 이상의 역을 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Yakuhai: Red,2게임을 역패: 중으로 화료
+EventsBaseTask.csv,desc_en,Avoid dealing into others' in 88 games,88번 방총 회피하기
+EventsBaseTask.csv,desc_en,Win 5 games with at least a Ura Dora,5 게임을 뒷도라를 하나 이상 포함하여 화료
+EventsBaseTask.csv,desc_en,Win a game with Ippatsu,일발로 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Yakuhai: Green,2 게임을 역패: 발로 화료
+EventsBaseTask.csv,desc_en,Win 10 games with a Yaku that values 1 Han,10 게임을 1판역을 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 5 games with at least a Red Five,5 게임을 하나 이상의 적도라를 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Yakuhai: White,2 게임을 역패: 백으로 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Fully Concealed Hand,2 게임을 멘젠쯔모로 화료
+EventsBaseTask.csv,desc_en,Win 10 games with at least a Dora,20 게임을 도라를 하나 이상 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Pinfu,2 게임을 핑후로 화료
+EventsBaseTask.csv,desc_en,Win a game with Seat Wind,자풍패로 화료
+EventsBaseTask.csv,desc_en,Win a game with Dora,도라를 포함하여 화료
+EventsBaseTask.csv,desc_en,Yaku: All Simples,역: 탕야오
+EventsBaseTask.csv,desc_en,Fully Concealed Hand/Pinfu,멘젠쯔모/핑후
+EventsBaseTask.csv,desc_en,Ura Dora or Yaku: Ippatsu,뒷도라 또는 역: 일발
+EventsBaseTask.csv,desc_en,大四喜,大四喜
+EventsBaseTask.csv,desc_en,小四喜,小四喜
+EventsBaseTask.csv,desc_en,字一色,字一色
+EventsBaseTask.csv,desc_en,大三元,大三元
+EventsBaseTask.csv,desc_en,混一色,混一色
+EventsBaseTask.csv,desc_en,小三元,小三元
+EventsBaseTask.csv,desc_en,混老头,混老头
+EventsBaseTask.csv,desc_en,混全带幺九,混全带幺九
+EventsBaseTask.csv,desc_en,场风,场风
+EventsBaseTask.csv,desc_en,自风,自风
+EventsBaseTask.csv,desc_en,中,中
+EventsBaseTask.csv,desc_en,发,发
+EventsBaseTask.csv,desc_en,白,白
+EventsBaseTask.csv,desc_en,四杠子,四杠子
+EventsBaseTask.csv,desc_en,绿一色,绿一色
+EventsBaseTask.csv,desc_en,清老头,清老头
+EventsBaseTask.csv,desc_en,清一色,清一色
+EventsBaseTask.csv,desc_en,纯全带幺九,纯全带幺九
+EventsBaseTask.csv,desc_en,河底捞鱼,河底捞鱼
+EventsBaseTask.csv,desc_en,海底摸月,海底摸月
+EventsBaseTask.csv,desc_en,岭上开花,岭上开花
+EventsBaseTask.csv,desc_en,一气通贯,一气通贯
+EventsBaseTask.csv,desc_en,三暗刻,三暗刻
+EventsBaseTask.csv,desc_en,对对和,对对和
+EventsBaseTask.csv,desc_en,三杠子,三杠子
+EventsBaseTask.csv,desc_en,三色同刻,三色同刻
+EventsBaseTask.csv,desc_en,三色同顺,三色同顺
+EventsBaseTask.csv,desc_en,抢杠,抢杠
+EventsBaseTask.csv,desc_en,一发,一发
+EventsBaseTask.csv,desc_en,北宝牌,北宝牌
+EventsBaseTask.csv,desc_en,里宝牌,里宝牌
+EventsBaseTask.csv,desc_en,宝牌,宝牌
+EventsBaseTask.csv,desc_en,红宝牌,红宝牌
+EventsBaseTask.csv,desc_en,断幺九,断幺九
+EventsBaseTask.csv,desc_en,纯正九莲,纯正九莲
+EventsBaseTask.csv,desc_en,九莲宝灯,九莲宝灯
+EventsBaseTask.csv,desc_en,国士十三面,国士十三面
+EventsBaseTask.csv,desc_en,四暗刻单器,四暗刻单器
+EventsBaseTask.csv,desc_en,地和,地和
+EventsBaseTask.csv,desc_en,天和,天和
+EventsBaseTask.csv,desc_en,二杯口,二杯口
+EventsBaseTask.csv,desc_en,两立直,两立直
+EventsBaseTask.csv,desc_en,一杯口,一杯口
+EventsBaseTask.csv,desc_en,平和,平和
+EventsBaseTask.csv,desc_en,门前清自摸和,门前清自摸和
+EventsBaseTask.csv,desc_en,立直,立直
+EventsBaseTask.csv,desc_en,Yaku: Seat/Prevalent Wind,역: 자풍패/장풍패
+EventsBaseTask.csv,desc_en,Yaku: Dragon,역: 삼원패
+EventsBaseTask.csv,desc_en,Win 1 game with Fully Outside Hand + Mixed Triple Sequence,1 게임을 준찬타 + 삼색동순으로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Riichi + All Simples + Pinfu,1 게임을 리치 + 탕야오 + 핑후로 화료
+EventsBaseTask.csv,desc_en,Win a game with All Triplets,또이또이로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Triple Triplets,1 게임을 삼색동각으로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Mixed Triple Sequence,1 게임을 삼색동순으로 화료
+EventsBaseTask.csv,desc_en,Draw 5 Ura Dora,5 게임을 뒷도라를 포함하여 화료
+EventsBaseTask.csv,desc_en,Draw 2 Ura Dora,2 게임을 뒷도라를 포함하여 화료
+EventsBaseTask.csv,desc_en,Draw 1 Ura Dora,1 게임을 뒷도라를 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Half Outside Hand or Fully Outside Hand,2 게임을 찬타 또는 준찬타로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Half Outside Hand or Fully Outside Hand,1 게임을 찬타 또는 준찬타로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Twice Pure Double Sequence,1 게임을 량페코로 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Pure Double Sequence,2 게임을 이페코로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Pure Double Sequence,1 게임을 이페코로 화료
