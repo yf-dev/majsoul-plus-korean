@@ -1,810 +1,810 @@
-﻿location,context,source,target,notes,developer comments
-FandescFandesc.csv,name_en,Riichi,리치,,
-FandescFandesc.csv,desc_en,Win a hand after you declared Riichi; You may declare Riichi when you achieve Tenpai (ready hand) at Menzenchin (closed hand),리치 선언 후 화료 - 리치 선언은 멘젠 상태에서 텐파이 했을 때 할 수 있음,,
-FandescFandesc.csv,desc2_en,Menzenchin Only,멘젠 한정,,
-FandescFandesc.csv,name_en,All Simples,탕야오,,
-FandescFandesc.csv,desc_en,"Win a hand without any Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, Wind Tiles, and Dragon Tiles)","요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)가 손패에 없는 상태로 화료",,
-FandescFandesc.csv,name_en,Fully Concealed Hand,멘젠쯔모,,
-FandescFandesc.csv,desc_en,Win a hand by Tsumo (drawing the winning tile) at Menzenchin (closed hand),멘젠 상태에서 쯔모(자신이 뽑아온 패)로 화료,,
-FandescFandesc.csv,name_en,Seat Wind,자풍패,,
-FandescFandesc.csv,desc_en,Win a hand with a Triplet of Player Wind,자신의 방위에 맞는 바람패 커쯔가 포함된 손패로 화료,,
-FandescFandesc.csv,name_en,Prevalent Wind,장풍패,,
-FandescFandesc.csv,desc_en,Win a hand with a Triplet of Round Wind,장의 방위에 맞는 바람패 커쯔가 포함된 손패로 화료,,
-FandescFandesc.csv,name_en,Dragons,역패,,
-FandescFandesc.csv,desc_en,"Win a hand with a Triplet of Dragon Tile (White, Green or Red)","역패(백, 발, 중) 커쯔가 포함된 손패로 화료",,
-FandescFandesc.csv,name_en,Pinfu,핑후,,
-FandescFandesc.csv,desc_en,"Win a hand with four Sequences and one non-Yakuhai Pair, plus the potential winning tiles must be tiles from both side of a Sequence","몸통이 모두 슌쯔이고, 역패(백, 발, 중)이 포함되어 있지 않고, 자풍패와 장풍패가 포함되어 있지 않고, 양면대기 상태에서 화료",,
-FandescFandesc.csv,name_en,Pure Double Sequence,이페코,,
-FandescFandesc.csv,desc_en,Win a hand with two identical Sequences,완전히 동일한 슌쯔 두개를 몸통으로 사용하여 화료,,
-FandescFandesc.csv,name_en,Robbing a Kan,창깡,,
-FandescFandesc.csv,desc_en,"Call a Ron (declare winning) on another player’s Kan (when you have a Tenpai for Thirteen Orphans, you can call on a Closed Kan)",다른 플레이어가 가깡(자신이 펑한 패에 추가로 붙여 깡)을 한 패를 론(다른 사람의 패)으로 화료 - 국사무쌍 텐파이 상태일 경우에 한하여 안깡도 론 가능,,
-FandescFandesc.csv,name_en,After a Kan,영상개화,,
-FandescFandesc.csv,desc_en,Win a hand with the tile drawn from the Dead Wall after immediately calling a Kan,영상패(깡을 할 때 손으로 가져오는 패)로 화료,,
-FandescFandesc.csv,name_en,Under the Sea,해저로월,,
-FandescFandesc.csv,desc_en,Win a hand by Tsumo (drawing the winning tile) with the last tile drawn from the Wall,패산의 마지막 패를 쯔모(자신이 뽑아온 패)하여 화료,,
-FandescFandesc.csv,name_en,Under the River,하저로어,,
-FandescFandesc.csv,desc_en,Win a hand by calling Ron (declare winning) on the last discarded tile,마지막 버림패를 론(다른 사람의 패)으로 화료,,
-FandescFandesc.csv,name_en,Ippatsu,일발,,
-FandescFandesc.csv,desc_en,"Win a hand within 1 turn after declaring Riichi, in addition, draws/discards must not be interrupted by tile calls during that turn",리치 선언 후 1순(1바퀴)내로 화료 - 리치 선언 후 누군가 치/펑/깡을 했을 경우 무효,,
-FandescFandesc.csv,name_en,Dora,도라,,
-FandescFandesc.csv,desc_en,The next tile immediately after the flipped Dora Indicator Tile,도라표시패의 바로 다음 패를 손패에 포함,,
-FandescFandesc.csv,desc2_en,Not Yaku,역 아님,,
-FandescFandesc.csv,name_en,Red Five,적도라,,
-FandescFandesc.csv,desc_en,"Red 5-Man, Red 5-Pin, Red 5-Sou","적5만, 적5통, 적5삭을 손패에 포함",,
-FandescFandesc.csv,name_en,Kita,북도라,,
-FandescFandesc.csv,desc_en,"In 3-Player Mahjong, North Wind can be considered as a Dora after “Kita” is called (does not count as a Dora if North Wind remains in hand)",3인 마작에서 북패는 빼기 도라로 취급함(손패에 있는 북풍패를 북도라 선언하지 않았을 경우 도라로 취급하지 않음),,
-FandescFandesc.csv,name_en,Local Yaku: Tsubame-gaeshi,로컬역: 츠바메가에시,,
-FandescFandesc.csv,desc_en,Call a Ron on the first tile discarded by another player to declare Riichi,다른 플레이어가 리치 선언을 하며 버린 패를 론으로 화료,,
-FandescFandesc.csv,name_en,Local Yaku: Kanburi,로컬역: 영상개론,,
-FandescFandesc.csv,desc_en,Call a Ron on a tile discarded by another player who just called Kan,다른 플레이어가 깡을 선언한 후 버린 패를 론으로 화료,,
-FandescFandesc.csv,name_en,Local Yaku: Shiiaruraotai,로컬역: 십이낙태,,
-FandescFandesc.csv,desc_en,"Win a hand by Tsumo or Ron with 4 open Chii, Pon, or Kan",몸통을 모두 치/펑/깡으로 만들고 머리를 대기패로 하여 화료,,
-FandescFandesc.csv,name_en,Double Riichi,더블리치,,
-FandescFandesc.csv,desc_en,Declare Riichi with your starting hand before any tiles are called,첫 쯔모 후 리치 선언을 한 후 화료 - 자신이 쯔모하기 전 누군가 치/펑/깡을 했을 경우 무효,,
-FandescFandesc.csv,name_en,Triple Triplets,삼색동각,,
-FandescFandesc.csv,desc_en,"Win a hand with three Triplets with the same number out of the Number Tiles (Man, Pin, Sou)","세가지 같은 숫자로 각 수패(만수, 통수, 삭수)로 커쯔 몸통을 만들어 화료 ",,
-FandescFandesc.csv,name_en,Three Quads,산깡즈,,
-FandescFandesc.csv,desc_en,Win a hand with three Quads,깡 3개를 포함하여 화료,,
-FandescFandesc.csv,name_en,All Triplets,또이또이,,
-FandescFandesc.csv,desc_en,Win a hand with four Triplets or Quads,커쯔 4개로 몸통을 만들어 화료,,
-FandescFandesc.csv,name_en,Three Concealed Triplets,산안커,,
-FandescFandesc.csv,desc_en,Win a hand with three closed Triplets or closed Quads,안커(펑/깡으로 만들지 않은 커쯔) 3개를 손패에 포함화여 화료,,
-FandescFandesc.csv,name_en,Little Three Dragons,소삼원,,
-FandescFandesc.csv,desc_en,"Win a hand with two Triplets out of the Dragon Tiles (White, Green or Red), plus a Pair of the third Dragon Tile","역패(백, 발, 중)으로 커쯔 2개와 머리를 만들어 화료",,
-FandescFandesc.csv,name_en,All Terminals and Honors,혼노두,,
-FandescFandesc.csv,desc_en,"Win a hand with only Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, Wind Tiles, and Dragon Tiles)","요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)만으로 몸통 4개와 머리를 만들어 화료",,
-FandescFandesc.csv,name_en,Seven Pairs,치또이츠,,
-FandescFandesc.csv,desc_en,Win a hand with seven different Pairs,서로 다른 또이츠(동일한 패 2개) 7개를 모아 화료,,
-FandescFandesc.csv,name_en,Half Outside Hand,찬타,,
-FandescFandesc.csv,desc_en,"Win a hand where every Sequence, Triplet and Pair contains at least one Terminal Tile","4개의 몸통과 머리에 요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)를 적어도 하나씩 포함하여 화료",,
-FandescFandesc.csv,desc2_en,-1 Han after making a call,울었을 경우 1판 차감,,
-FandescFandesc.csv,name_en,Pure Straight,일기통관,,
-FandescFandesc.csv,desc_en,"Win a hand with a complete Sequence of 1 through 9 (i.e. 123-Man, 456-Man, 789-Man)","같은 수패(만수, 통수, 삭수)로 구성된 123 슌쯔, 456 슌쯔, 789 슌쯔를 몸통으로 사용하여 화료",,
-FandescFandesc.csv,name_en,Mixed Triple Sequence,삼색동순,,
-FandescFandesc.csv,desc_en,"Win a hand with three Sequences with the same numbers out of three different Number Tiles  (i.e. 123-Man, 123-Pin, 123-Sou)","같은 숫자의 슌쯔를 각각의 수패(만수, 통수, 삭수)로 만들어 몸통으로 사용하여 화료(예: 123만 슌쯔, 123통 슌쯔, 123삭 슌쯔)",,
-FandescFandesc.csv,name_en,Local Yaku: Uumensai,로컬역: 오문제,,
-FandescFandesc.csv,desc_en,"Win a hand consists of Man, Pin, Sou, Wind, and Dragon tiles","만수패, 통수패, 삭수패, 바람패, 역패를 모두 하나 이상 포함한 손패로 화료",,
-FandescFandesc.csv,name_en,Local Yaku: Three Chained Triplets,로컬역: 삼련각,,
-FandescFandesc.csv,desc_en,Win a hand with 3 consecutive Triplets,"연속된 숫자의 같은 수패(만수, 통수, 삭수)로 커쯔 3개를 만들어 몸통으로 사용하여 화료(예: 444만 커쯔, 555만 커쯔, 666만 커쯔)",,
-FandescFandesc.csv,name_en,Twice Pure Double Sequence,량페코,,
-FandescFandesc.csv,desc_en,Win a hand with two sets two identical Sequences,서로 중복되지 않는 이페코 두개를 손패에 포함하여 화료(치또이츠와 중복되지 않음),,
-FandescFandesc.csv,name_en,Fully Outside Hand,준찬타,,
-FandescFandesc.csv,desc_en,"Win a hand with every Sequence, Triplet and Pair contains at least one 1 and 9 out of the Number Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)","모든 몸통과 머리에 노두패(1만, 9만, 1통, 9통, 1삭, 9삭)을 적어도 하나 사용하여 화료",,
-FandescFandesc.csv,name_en,Half Flush,혼일색,,
-FandescFandesc.csv,desc_en,"Win a hand with tiles from only one of the three Number Tiles (Man, Pin or Sou) and HonorTiles (Wind Tiles and Dragon Tiles)","세가지 수패(만수, 통수, 삭수) 중 하나와 자패(바람패, 역패)만으로 몸통과 머리를 만들어 화료",,
-FandescFandesc.csv,name_en,Local Yaku: Pure Triple Chow,로컬역: 일색삼순,,
-FandescFandesc.csv,desc_en,Win a hand with three identical Sequences,"연속된 숫자의 같은 수패(만수, 통수, 삭수)로 슌쯔 3개를 만들어 몸통으로 사용하여 화료(예: 456만 슌쯔 3개)",,
-FandescFandesc.csv,name_en,Full Flush,청일색,,
-FandescFandesc.csv,desc_en,"Win a hand with tiles from only one of the three Number Tiles (Man, Pin or Sou)","세가지 수패(만수, 통수, 삭수) 중 하나만으로 몸통과 머리를 만들어 화료",,
-FandescFandesc.csv,name_en,Mangan at Draw,유국만관,,
-FandescFandesc.csv,desc_en,"Win a game with all your discarded tiles being Terminal Tiles, and no one has called them","패산을 모두 사용하여 유국될 때까지 요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)만 버렸고, 자신의 버림패를 다른사람이 치/펑/깡하여 사용하지 않았을 경우",,
-FandescFandesc.csv,name_en,Local Yaku: Iipinmoyue,로컬역: 일통모월,,
-FandescFandesc.csv,desc_en,"Win a hand by Tsumo (drawing the winning tile) with the last tile drawn from the Wall, and that tile must be 1-Pin(5 Han)",1통을 쯔모하여 해저로월(5판),,
-FandescFandesc.csv,name_en,Local Yaku: Chuupinraoyui,로컬역: 구통로어,,
-FandescFandesc.csv,desc_en,"Call a Ron on the last tile drawn from the Wall, and that tile must be 9-Pin(5 Han)",9통을 론하여 하저로어(5판),,
-FandescFandesc.csv,name_en,Blessing of Heaven,천화,,
-FandescFandesc.csv,desc_en,Win a hand as a dealer in the first turn with the first draw,친(오야)의 배패로 화료,,
-FandescFandesc.csv,desc2_en,Dealer Only,친(오야) 한정,,
-FandescFandesc.csv,name_en,Blessing of Earth,지화,,
-FandescFandesc.csv,desc_en,Win a hand as a non-dealer in the first turn before any tiles are called,자(코)의 첫 쯔모패료 화료 - 화료 전 누군가 치/펑/깡을 선언했을 경우 무효,,
-FandescFandesc.csv,desc2_en,Non-Dealer Only,자(코) 한정,,
-FandescFandesc.csv,name_en,Big Three Dragons,대삼원,,
-FandescFandesc.csv,desc_en,Win a hand with three Triplets or Quads of all the three Dragon Tiles,"역패(백, 발, 중)으로 커쯔 3개를 만들어 몸통으로 사용하여 화료",,
-FandescFandesc.csv,name_en,Four Concealed Triplets,스안커,,
-FandescFandesc.csv,desc_en,Win a hand with four closed Triplets,안커(펑/깡으로 만들지 않은 커쯔) 4개를 손패에 포함화여 화료,,
-FandescFandesc.csv,name_en,All Honors,자일색,,
-FandescFandesc.csv,desc_en,Win a hand with four Triplets and a Pair of the Honor Tiles (Wind Tiles and Dragon Tiles),"자패(바람패, 역패)만으로 몸통과 머리를 만들어 화료",,
-FandescFandesc.csv,name_en,All Green,녹일색,,
-FandescFandesc.csv,desc_en,Win a hand with only green-colored tiles: 2-Sou/3-Sou/4-Sou/6-Sou/8-Sou and/or Green (F),녹색 패로만 몸통과 머리를 만들어 화료(2삭/3삭/4삭/6삭/8삭/발),,
-FandescFandesc.csv,desc2_en,Green is not Necessary,발은 포함하지 않아도 허용,,
-FandescFandesc.csv,name_en,All Terminals,청노두,,
-FandescFandesc.csv,desc_en,"Win a hand with four Triplets and a Pair of 1 and 9 out of the Number Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)","노두패(1만, 9만, 1통, 9통, 1삭, 9삭)만으로 몸통과 머리를 만들어 화료",,
-FandescFandesc.csv,name_en,Thirteen Orphans,국사무쌍,,
-FandescFandesc.csv,desc_en,"Win a hand with one of each 13 Terminal Tiles, plus any tile matches one of them","13개의 요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)를 하나씩 가지고, 추가로 하나의 요구패를 가진 상태로 화료",,
-FandescFandesc.csv,name_en,Four Little Winds,소사희,,
-FandescFandesc.csv,desc_en,"Win a hand with three Triplets or Quads of the Wind Tiles, plus a pair of the fourth wind",4가지 바람패로 3개의 커쯔와 몸통 하나를 만들어 화료,,
-FandescFandesc.csv,name_en,Four Quads,스깡즈,,
-FandescFandesc.csv,desc_en,Win a hand with four Quads,깡 4개를 포함하여 화료,,
-FandescFandesc.csv,name_en,Nine Gates,구련보등,,
-FandescFandesc.csv,desc_en,"Win a hand with tiles from only one of the three Number Tiles in the order of “1112345678999”, plus any tile matches one of them","세가지 수패(만수, 통수, 삭수) 중 하나로 ""1112345678999"" 형태와, 추가로 하나의 동일한 수패로 손패를 만들어 화료",,
-FandescFandesc.csv,name_en,Local Yaku: Hand of Man,로컬역: 인화,,
-FandescFandesc.csv,desc_en,Call a Ron as a non-dealer in the first turn you draw a tile and before any tiles are called,"자신이 자(코)일 때, 자신의 첫 쯔모 전에 다른 사람의 버림패로 화료 - 화료 전 다른사람이 치/펑/깡을 선언했을 경우 무효",,
-FandescFandesc.csv,name_en,Local Yaku: Big Wheels,로컬역: 대차륜,,
-FandescFandesc.csv,desc_en,Win a hand with 7 Pairs consist of 2-Pin to 8-Pin,2통부터 8통까지 사용하여 7개의 또이츠(동일한 패 2개)를 만들어 화료,,
-FandescFandesc.csv,name_en,Local Yaku: Bamboo Forest,로컬역: 대죽림,,
-FandescFandesc.csv,desc_en,Win a hand with 7 Pairs consist of 2-Sou to 8-Sou,2삭부터 8삭까지 사용하여 7개의 또이츠(동일한 패 2개)를 만들어 화료,,
-FandescFandesc.csv,name_en,Local Yaku: Numerous Neighbours,로컬역: 대수린,,
-FandescFandesc.csv,desc_en,Win a hand with 7 Pairs consist of 2-Man to 8-Man,2만부터 8만까지 사용하여 7개의 또이츠(동일한 패 2개)를 만들어 화료,,
-FandescFandesc.csv,name_en,Local Yaku: Ishinouenimosannen,로컬역: 돌 위에서 삼년,,
-FandescFandesc.csv,desc_en,Win a hand with Double Riichi as well as Under the Sea/River,더블 리치 선언 후 해저로월 또는 하저로어로 화료,,
-FandescFandesc.csv,name_en,Single-wait Four Concealed Triplets,스안커 단기,,
-FandescFandesc.csv,desc_en,Achieve Tenpai with four Closed Triplets already drawn (i.e. waiting for one remaining tile to form a Pair),"4개의 안커(펑/깡으로 만들지 않은 커쯔)를 손패에 가진 상태로 텐파이하고, 머리를 대기패로 하여 화료",,
-FandescFandesc.csv,name_en,Thirteen-wait Thirteen Orphans,국사무쌍 13면대기,,
-FandescFandesc.csv,desc_en,Achieve Tenpai with 13 different Terminal Tiles already drawn (i.e. waiting for 1 out of 13 possible tiles to win),"13개의 요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)를 손패에 하나씩 가진 상태로 텐파이하여, 13면대기 상태로 화료",,
-FandescFandesc.csv,name_en,True Nine Gates,순정구련보등,,
-FandescFandesc.csv,desc_en,Achieve Tenpai with tiles from only one of the three Number Tiles in the order of “1112345678999” (i.e. waiting for 1 out of 9 possible tiles to win),"세가지 수패(만수, 통수, 삭수) 중 하나로 ""1112345678999"" 형태를 손패에 가진 상태로 텐파이하여 9면대기 상태로 화료",,
-FandescFandesc.csv,name_en,Four Big Winds,대사희,,
-FandescFandesc.csv,desc_en,Win a hand with four Triplets or Quads of the Wind Tiles,바람패 커쯔 4개를 몸통으로 사용하여 화료,,
-FandescFandesc.csv,name_en,Local Yaku: Big Seven Stars,로컬역: 대칠성,,
-FandescFandesc.csv,desc_en,Win a hand with 7 Pairs consist of only Word tiles,"자패(바람패, 역패)만으로 치또이츠를 만들어 화료",,
-FandescFandesc.csv,name_en,Four-Wind Discarded,사풍연타,,
-FandescFandesc.csv,desc_en,The game becomes a draw when each player discards the same Wind Tile in the first turn,각 플레이어의 첫 차례에 모두 동일한 바람패를 버림패로 사용했을 경우 유국,,
-FandescFandesc.csv,name_en,Four-kan Abortion,사깡유국,,
-FandescFandesc.csv,desc_en,The game becomes a draw when two or more players called for a total of four Quads,둘 이상의 플레이어가 총 4번의 깡을 했을 경우 유국,,
-FandescFandesc.csv,name_en,Nine Different Terminals and Honors,구종구패,,
-FandescFandesc.csv,desc_en,You have the option to declare a draw in the first turn if your hand consists of 9 different Terminal Tiles  before any tiles are called,"자신의 첫 쯔모 후 손패에 9개 이상의 서로 다른 요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)가 있을 경우 유국시킬 수 있음(선택적)",,
-FandescFandesc.csv,name_en,Four-player Riichi,사가리치,,
-FandescFandesc.csv,desc_en,The game becomes a draw when all players have declared Riichi,4명의 플레이어가 모두 리치 선언을 했을 경우 유국,,
-InfoError.csv,en,Unknown error. Please try to refresh the page.,알 수 없는 오류. 페이지를 새로고침 해주세요.,,
-InfoError.csv,en,System error. Please try to refresh the page.,시스템 오류. 페이지를 새로고침 해주세요.,,
-InfoError.csv,en,Parameter error. Please try to refresh the page.,매개변수 오류. 페이지를 새로고침 해주세요.,,
-InfoError.csv,en,Please don’t mess around.,엉망으로 만들지 마십시오.,,
-InfoError.csv,en,System communication error. Please try to refresh the page.,시스템 통신 오류. 페이지를 새로고침 해주세요.,,
-InfoError.csv,en,Illegal protocol. Please try to refresh the page.,잘못된 프로토콜. 페이지를 새로고침 해주세요.,,
-InfoError.csv,en,Unknown error.,알 수 없는 오류.,,
-InfoError.csv,en,You must enter something.,값을 입력해주세요.,,
-InfoError.csv,en,Invalid input. Please try another one.,잘못된 입력입니다. 다른 값을 사용해주세요.,,
-InfoError.csv,en,Server under maintenance.,서버 점검 중입니다.,,
-InfoError.csv,en,Cannot find corresponding configuration.,해당 구성을 찾을 수 없습니다.,,
-InfoError.csv,en,Invalid gift code. Please check your input.,잘못된 선물 코드입니다. 입력하신 코드를 다시 확인하세요.,,
-InfoError.csv,en,This gift code has already been used.,이미 사용한 선물 코드입니다.,,
-InfoError.csv,en,You have already claimed this gift.,이미 획득한 선물입니다.,,
-InfoError.csv,en,Login failed. Please try again.,로그인할 수 없습니다. 다시 시도해주세요.,,
-InfoError.csv,en,Login expired. Please login again.,로그인이 만료되었습니다. 다시 로그인해주세요.,,
-InfoError.csv,en,Validation failed. Please check your account info and try again.,유효성 검사가 실패했습니다. 계정 정보를 확인한 후 다시 시도해주세요.,,
-InfoError.csv,en,Invalid gift code.,잘못된 선물 코드입니다.,,
-InfoError.csv,en,Please wait a while before getting a Verification Code again.,인증 코드를 다시 요청하기 전에 잠시 기다려주십시오.,,
-InfoError.csv,en,Incorrect Verification Code. Please try again.,정확하지 않은 인증 코드입니다. 다시 시도해주세요.,,
-InfoError.csv,en,Authorization for the validation has expired. Please try again.,유효성 검사에 대한 권한이 만료되었습니다. 다시 시도해주세요.,,
-InfoError.csv,en,This mobile number has already been linked.,이 휴대전화 번호는 이미 연결되어 있습니다.,,
-InfoError.csv,en,Failed to send message. Please try again later.,메시지를 보낼 수 없습니다. 나중에 다시 시도해주세요.,,
-InfoError.csv,en,Insufficient resources.,리소스가 부족합니다.,,
-InfoError.csv,en,Your input contains censored content. Please change it.,입력 내용에 검열된 내용이 포함되어 있습니다. 내용을 수정해주세요.,,
-InfoError.csv,en,Your account has been banned for violating relevant game rules.,당신의 계정은 게임 규정을 위반하여 정지되었습니다.,,
-InfoError.csv,en,Resource is unique.,리소스가 유일(Unique)합니다.,,
-InfoError.csv,en,Contains unsupported characters. Please try again.,지원되지 않는 문자가 포함되어 있습니다. 다시 시도해주세요.,,
-InfoError.csv,en,You cannot send friend requests or leave messages to players from another region.,다른 지역의 플레이어에게 친구 요청을 하거나 메시지를 남길 수 없습니다.,,
-InfoError.csv,en,This account has already been registered.,이 계정은 이미 등록되었습니다.,,
-InfoError.csv,en,Account does not exist. Please create an account first.,계정이 존재하지 않습니다. 먼저 계정을 생성해주세요.,,
-InfoError.csv,en,"Oops, wrong password.","이런, 잘못된 비밀번호입니다.",,
-InfoError.csv,en,Connection failed. Please try to refresh the page.,연결 실패. 페이지를 새로고침 해주세요.,,
-InfoError.csv,en,Your account is already logged in.,당신의 계정은 이미 로그인되어 있습니다.,,
-InfoError.csv,en,"Oops, account does not exist.","이런, 계정이 존재하지 않습니다.",,
-InfoError.csv,en,You don’t have this character yet.,아직 이 캐릭터를 가지고 있지 않습니다.,,
-InfoError.csv,en,Character has been unlocked.,캐릭터가 해금되었습니다.,,
-InfoError.csv,en,You are already logged in on another device.,다른 장치에 이미 로그인되어 있습니다.,,
-InfoError.csv,en,This name has already been taken. Please try another one.,이 이름은 이미 사용되었습니다. 다른 이름을 사용해 보세요.,,
-InfoError.csv,en,You don’t have a nickname yet.,아직 닉네임이 없습니다.,,
-InfoError.csv,en,You already have a nickname.,이미 닉네임이 존재합니다.,,
-InfoError.csv,en,You need a Rename Scroll to change your nickname.,닉네임을 변경하려면 이름 변경 스크롤이 필요합니다.,,
-InfoError.csv,en,You can only change your name once in the 30 days.,이름은 30일에 한 번만 변경할 수 있습니다.,,
-InfoError.csv,en,Real name authentication has already been completed.,실명 인증이 이미 완료되었습니다.,,
-InfoError.csv,en,Registration closed.,등록이 마감되었습니다.,,
-InfoError.csv,en,Insufficient VIP level.,VIP 레벨이 부족합니다.,,
-InfoError.csv,en,You have already claimed this reward.,이 보상은 이미 받았습니다.,,
-InfoError.csv,en,Unknown error. Please try to refresh the page.(Age),알 수 없는 오류. 페이지를 새로고침 해주세요.(Age),,
-InfoError.csv,en,You are currently in a match.,현재 게임 중입니다.,,
-InfoError.csv,en,Your character name is too long.,캐릭터 이름이 너무 깁니다.,,
-InfoError.csv,en,"Can`t find this room, please check the room number","방을 찾을 수 없습니다, 방 번호를 확인하십시오",,
-InfoError.csv,en,"Oops, room is full.","이런, 방이 가득 찼습니다.",,
-InfoError.csv,en,This player is no longer in the room. Try refreshing this page if you keep seeing this message.,이 플레이어는 더 이상 방에 없습니다. 이 메시지가 계속 나타나면 이 페이지를 새로고침 해주세요.,,
-InfoError.csv,en,Unable to perform this action as you are not the room host.,당신이 방 호스트 아니기 때문에 이 작업을 수행 할 수 없습니다.,,
-InfoError.csv,en,One or more players are not ready yet. Please wait.,한 명 이상의 플레이어가 아직 준비되지 않았습니다. 기다려주세요.,,
-InfoError.csv,en,You have already joined this room.,이미 이 방에 참여했습니다.,,
-InfoError.csv,en,You have not joined any room.,어떤 방에도 참여하지 않았습니다.,,
-InfoError.csv,en,The player you are looking for is not in the room.,찾고 있는 플레이어가 방에 없습니다.,,
-InfoError.csv,en,You cannot kick yourself from the room.,자신을 방에서 강퇴할 수 없습니다.,,
-InfoError.csv,en,The match in this room has started,이 방은 게임이 시작되었습니다,,
-InfoError.csv,en,"Oops, there are no rooms available. Please try again later.","이런, 참가할 수 있는 방이 없습니다. 나중에 다시 시도해주세요.",,
-InfoError.csv,en,The room is full. Cannot add AI players.,방이 가득 차 있습니다. AI 플레이어를 추가할 수 없습니다.,,
-InfoError.csv,en,Room mode error. Try restarting the game.,방 모드 오류. 게임을 다시 시작해주세요.,,
-InfoError.csv,en,The previous match has ended.,이전 게임이 종료되었습니다.,,
-InfoError.csv,en,This game does not exist.,게임이 존재하지 않습니다.,,
-InfoError.csv,en,"Oops, you don’t seem to satisfy the entry criteria.","이런, 참가 기준을 만족하지 못하는 것 같습니다.",,
-InfoError.csv,en,Game has already ended.,게임이 이미 종료되었습니다.,,
-InfoError.csv,en,Cannot manually end the game.,게임을 수동으로 종료할 수 없습니다.,,
-InfoError.csv,en,Failed to open match. Please try again later.,게임을 시작할 수 없습니다. 나중에 다시 시도해주세요.,,
-InfoError.csv,en,Game paused.,게임이 일시정지 되었습니다.,,
-InfoError.csv,en,Game in progress (1210),게임이 진행중입니다 (1210),,
-InfoError.csv,en,The game has been paused for too long.,게임이 너무 오래 일시정지 되었습니다.,,
-InfoError.csv,en,You're already in matchmaking.,이미 게임을 찾는 중입니다.,,
-InfoError.csv,en,"Oops, a strange error happened. Please close the pop up window.","이런, 이상한(strange) 오류가 발생했습니다. 팝업 창을 닫아주세요.",,
-InfoError.csv,en,A strange error happened. Please try a different way.,이상한(strange) 오류가 발생했습니다. 다른 방식으로 다시 시도해주세요.,,
-InfoError.csv,en,You don’t have enough Coins to enter this room. You can claim Revival Tokens in “Event” once per day.,이 방에 입장하기 위한 동전이 충분하지 않습니다. “이벤트”에서 부활 토큰을 하루에 한 번 받을 수 있습니다.,,
-InfoError.csv,en,Unable to enter this room with your current rank. Please try another room.,현재 등급으로는 방에 입장할 수 없습니다. 다른 방으로 시도하십시오.,,
-InfoError.csv,en,This room is under renovation. Please visit somewhere else.,이 방은 보수 공사(renovation) 중입니다. 다른 곳을 방문하십시오.,,
-InfoError.csv,en,"Invalid login information, please try to relog your game",잘못된 로그인 정보입니다. 다시 로그인해주세요.,,
-InfoError.csv,en,You are not friends yet.,아직 친구가 아닙니다.,,
-InfoError.csv,en,You are already friends.,이미 친구입니다.,,
-InfoError.csv,en,A strange problem happened while searching. Please try a different way.,검색하는 동안 이상한(strange) 문제가 발생했습니다. 다른 방식으로 다시 시도해주세요.,,
-InfoError.csv,en,We can’t seem to process your query. Please try a different one.,요청을 처리할 수 없습니다. 다른 방식으로 다시 시도해주세요.,,
-InfoError.csv,en,A strange problem happened during the application. Please try a different way.,애플리케이션에서 이상한(strange) 문제가 발생했습니다. 다른 방식으로 다시 시도해주세요.,,
-InfoError.csv,en,This player’s application list is full. Unable to send invitation.,이 플레이어의 애플리케이션 목록이 가득 찼습니다. 초대를 보낼 수 없습니다.,,
-InfoError.csv,en,You cannot have any more friends.,더 이상 친구를 추가할 수 없습니다.,,
-InfoError.csv,en,You cannot add yourself as a friend.,자신을 친구로 추가할 수 없습니다.,,
-InfoError.csv,en,This player cannot have any more friends.,이 플레이어는 더 이상 친구를 추가할 수 없습니다.,,
-InfoError.csv,en,You don’t have this item.,이 아이템을 가지고 있지 않습니다.,,
-InfoError.csv,en,Insufficient items.,아이템이 부족합니다.,,
-InfoError.csv,en,This item cannot be used.,이 아이템은 사용할 수 없습니다.,,
-InfoError.csv,en,This item cannot be created.,이 아이템은 만들 수 없습니다.,,
-InfoError.csv,en,Unable to find this daily quest.,이 일일 퀘스트를 찾을 수 없습니다.,,
-InfoError.csv,en,The refresh attempts will reset at 5 A.M. tomorrow morning.,새로고침 횟수는 내일 오전 5시에 초기화됩니다.,,
-InfoError.csv,en,Mailbox is empty.,우편함이 비어있습니다.,,
-InfoError.csv,en,This mail does not have any attachments.,이 편지는 첨부(attachment)가 없습니다.,,
-InfoError.csv,en,You have already claimed the attachment.,이미 첨부(attachment)를 받았습니다.,,
-InfoError.csv,en,Please claim your uncollected reward first,먼저 획득하지 않은 보상을 받아주세요.,,
-InfoError.csv,en,Live cast not found. Please try again.,라이브 캐스트를 찾을 수 없습니다. 다시 시도해주세요.,,
-InfoError.csv,en,You can`t view other region`s match.,다른 지역의 게임은 볼 수 없습니다.,,
-InfoError.csv,en,Recharge feature is temporarily unavailable.,충전(recharge) 기능을 일시적으로 사용할 수 없습니다.,,
-InfoError.csv,en,Order not found.,주문을 찾을 수 없습니다.,,
-InfoError.csv,en,Order has been processed.,주문이 처리되었습니다.,,
-InfoError.csv,en,Payment platform error.,결제 플랫폼 오류.,,
-InfoError.csv,en,Unable to find item ID.,아이템 ID를 찾을 수 없습니다.,,
-InfoError.csv,en,Google platform validation error. Please contact customer support.,구글 플랫폼 유효성 검사 오류. 고객 지원부에 문의해주세요.,,
-InfoError.csv,en,WeChat Pay cannot be used at the moment.,현재 WeChat Pay를 사용할 수 없습니다.,,
-InfoError.csv,en,Payment expired. Please purchase again.,결제가 만료되었습니다. 다시 구매해주세요.,,
-InfoError.csv,en,Alipay cannot be used at the moment.,현재 Alipay를 사용할 수 없습니다.,,
-InfoError.csv,en,This payment method is currently unavailable.,이 결제 방법은 현재 사용할 수 없습니다.,,
-InfoError.csv,en,"Failed to create the purchase order, please try again later(JP)","구매 주문을 생성할 수 없으므로, 나중에 다시 시도해주세요(JP)",,
-InfoError.csv,en,"In-game recharge is temporarily unavailable, sorry(JP)","게임 내 충전(recharge) 기능을 일시적으로 사용할 수 없습니다, 죄송합니다(JP)",,
-InfoError.csv,en,"Failed to create the purchase order, please try again later(YoStar)","구매 주문을 생성할 수 없으므로, 나중에 다시 시도해주세요(YoStar)",,
-InfoError.csv,en,"Failed to create the purchase order, please try again later(EN)","구매 주문을 생성할 수 없으므로, 나중에 다시 시도해주세요(EN)",,
-InfoError.csv,en,"In-game recharge is temporarily unavailable, sorry(EN)","게임 내 충전(recharge) 기능을 일시적으로 사용할 수 없습니다, 죄송합니다(EN)",,
-InfoError.csv,en,You have already claimed Revival Tokens today.,오늘은 이미 부활 토큰을 받았습니다.,,
-InfoError.csv,en,You still have lots of Coins and don’t need Revival Tokens.,이미 동전이 많아 부활 토큰이 필요하지 않습니다.,,
-InfoError.csv,en,You don’t have this title yet.,아직 이 타이틀을 가지고 있지 않습니다.,,
-InfoError.csv,en,This player only allows friends to leave messages.,이 플레이어에게는 친구만 메시지를 전송할 수 있습니다.,,
-InfoError.csv,en,The player does not allow anyone to leave a message.,이 플레이어는 메시지 수신을 허용하지 않았습니다.,,
-InfoError.csv,en,You cannot leave yourself a message.,자신에게 메시지를 남길 수 없습니다.,,
-InfoError.csv,en,You cannot send message while in a match.,게임 중에는 메시지를 전송할 수 없습니다.,,
-InfoError.csv,en,You cannot delete messages from other people.,다른 사람의 메시지를 삭제할 수 없습니다.,,
-InfoError.csv,en,You are sending messages too frequently. Please wait for 8 seconds before sending again.,메시지를 너무 자주 보내고 있습니다. 다시 전송하기 전에 8초 동안 기다려주세요.,,
-InfoError.csv,en,Unable to find this chest.,이 상자를 찾을 수 없습니다.,,
-InfoError.csv,en,Incorrect summon attempts.,잘못된 기원 시도입니다.,,
-InfoError.csv,en,Game logs you saved have reached the limit,저장한 게임 로그가 한계에 도달했습니다,,
-InfoError.csv,en,Daily reward was already collected or Fortune Charm wasn't purchased yet,일일 보상을 이미 획득했거나 행운의 부적을 아직 구매하지 않았습니다,,
-InfoError.csv,en,Fortune Charm maximum duration exseeded,행운의 부적 최대 기간 초과,,
-InfoError.csv,en,The number of purchases has reached the ceiling and cannot be re-purchased,구매 횟수가 상한선에 도달하여 더 이상 구매할 수 없습니다.,,
-InfoError.csv,en,This item cannot be sent as a gift. Keep it to yourself.,이 아이템은 선물할 수 없습니다. 스스로 간직하세요.,,
-InfoError.csv,en,Cannot send any more gifts today.,오늘은 더 이상 선물을 보낼 수 없습니다.,,
-InfoError.csv,en,Maximum Bond reached.,최대 인연에 도달했습니다.,,
-InfoError.csv,en,The Bond between you and this character is not deep enough.,캐릭터와의 인연이 충분히 깊지 않습니다.,,
-InfoError.csv,en,You cannot have a bonding promise with this character yet.,이 캐릭터와는 아직 인연을 가질 수 없습니다.,,
-InfoError.csv,en,Emoji locked. Unable to be used.,이모티콘이 잠겨있습니다. 사용할 수 없습니다.,,
-InfoError.csv,en,The God doesn’t like this item.,신(The God)께서는 이 아이템을 좋아하지 않으십니다.,,
-InfoError.csv,en,Item not found.,아이템을 찾을 수 없습니다.,,
-InfoError.csv,en,Item sold out.,매진된 아이템입니다.,,
-InfoError.csv,en,Attempt to buy items that have not appeared in Misc Shop.,잡화 상점에 표시되지 않은 아이템을 구입하려고 시도했습니다.,,
-InfoError.csv,en,No more refresh chances today.,오늘은 더 이상 새로고침할 수 없습니다.,,
-InfoError.csv,en,Item infor not received,아이템 정보를 받지 못했습니다,,
-InfoError.csv,en,"Item price has changed, please refresh the page and purchase again","아이템 가격이 변경되었습니다, 페이지를 새로고침하고 다시 구매해주세요",,
-InfoError.csv,en,Item can only be purchased once,아이템은 한 번만 구매할 수 있습니다,,
-InfoError.csv,en,Item was not Offering period expired,아이템 기간이 만료되지 않았습니다,,
-InfoError.csv,en,Cannot find this tournament. Refresh the page and try again.,이 대회를 찾을 수 없습니다. 페이지를 새로고침하고 다시 시도해주세요.,,
-InfoError.csv,en,Maximum number of tournaments reached.,최대 대회 수에 도달햇습니다.,,
-InfoError.csv,en,Tournament ID generation error. Please try again later.,대회 ID 생성 오류. 나중에 다시 시도해주세요.,,
-InfoError.csv,en,Repeated login. Please try to refresh the page.,반복 로그인. 페이지를 새로고침해주세요.,,
-InfoError.csv,en,Not logged in. Please login.,로그인되지 않음. 로그인해주세요.,,
-InfoError.csv,en,You do not have the permission to do this.,이 동작을 수행할 권한이 없습니다.,,
-InfoError.csv,en,Tournament has not started yet.,대회가 아직 시작되지 않았습니다.,,
-InfoError.csv,en,Tournament has already ended.,대회가 이미 종료되었습니다.,,
-InfoError.csv,en,This player is not in the waiting list. Please try to refresh the page.,이 플레이어는 대기 목록에 없습니다. 페이지를 새로고침해주세요.,,
-InfoError.csv,en,Other admin is working on this player.,다른 관리자는 이 플레이어에서 작업하고 있습니다.,,
-InfoError.csv,en,You cannot participate in this tournament due to the name list restriction. Please contact a tournament admin.,이름 목록 제한으로 인해 이 대회에 참여할 수 없습니다. 대회 관리자에게 문의해주세요.,,
-InfoError.csv,en,You cannot send chat messages due to tournament room restrictions.,대회 방 제한으로 인해 채팅 메시지를 보낼 수 없습니다.,,
-InfoError.csv,en,Only the tournament creator can perform this action.,대회 개최자만 이 작업을 수행할 수 있습니다.,,
-InfoError.csv,en,You can only assign up to 20 admins.,관리자는 최대 20명까지만 할당할 수 있습니다.,,
-InfoError.csv,en,Each account can only create up to 1 tournament every 7 days.,각 계정은 7일마다 최대 1개의 대회를 개최할 수 있습니다.,,
-InfoError.csv,en,Your account does not have the permission to create a tournament.,당신의 계정은 대회를 개최할 권한이 없습니다.,,
-InfoError.csv,en,Tournament parameter configuration error.,대회 매개변수 구성 오류.,,
-InfoError.csv,en,You cannot participate in this tournament because you have not reached the required rank. Please consult the tournament organizer for more details.,요구 등급에 도달하지 못해 이 대회에 참여할 수 없습니다. 자세한 내용은 대회 관리자에게 문의하세요.,,
-InfoError.csv,en,You have played too many matches and cannot continue to take part in this tournament. Please consult the tournament organizer for more details.,너무 많은 게임을 진행하여 이 대회에 더 이상 참여할 수 없습니다. 세한 내용은 대회 관리자에게 문의하세요.,,
-InfoError.csv,en,This player is in matchmaking.,이 플레이어는 게임을 찾는 중입니다.,,
-InfoError.csv,en,"Due to the server entry limit, you cannot participate in this tournament.",서버 입장 제한으로 인해 이 대회에 참여할 수 없습니다.,,
-InfoError.csv,en,Event does not exist. Please try to refresh the page.,이벤트가 존재하지 않습니다. 페이지를 새로고침해주세요.,,
-InfoError.csv,en,This event has already ended.,이 이벤트는 이미 종료되었습니다.,,
-InfoError.csv,en,You have claimed all available rewards.,획득 가능한 모든 보상을 받았습니다.,,
-InfoError.csv,en,Quest has not been accepted.,퀘스트가 수락되지 않았습니다.,,
-InfoError.csv,en,Quest incomplete.,퀘스트가 완료되지 않았습니다.,,
-InfoError.csv,en,Upper limit of collection,수집 상한,,
-InfoError.csv,en,Unable to claim the rewards right now,지금 보상을 받을 수 없습니다.,,
-InfoError.csv,en,The rewards has already been claimed,보상을 이미 받았습니다.,,
-InfoError.csv,en,Not enough attempts,더 이상 시도할 수 없습니다.,,
-InfoError.csv,en,Invalid block,잘못된 칸(block),,
-InfoError.csv,en,Unable to claim rewards from this block,이 칸에서 보상을 받을 수 없습니다,,
-InfoError.csv,en,You have already checked in,이미 체크인했습니다,,
-InfoError.csv,en,Mahjong Soul Shrine has received your response. Thank you for your contribution in making a better gaming environment!,혼천 신사에서 당신의 응답(response)을 받았습니다. 더 나은 게임 환경을 만드는 데 기여해주셔서 감사합니다!,,
-VipVip.csv,name_en,No,없음,,
-VipVip.csv,desc_en,Daily Gift Attempts: 2 \\n Max No. of Friends +0 \\n Misc Shop Refresh Attempts: 5 \\n Misc Shop Free Refresh: 0 \\n Bond Bonus from Matches +0%\\n Log Collection Limit: 20,일일 선물 상한: 2 \\n 친구 수 상한 +0 \\n 잡화 상점 일일 새로고침 횟수: 5 \\n 잡화 상점 무료 새로고침 횟수: 0 \\n 단위전 인연 보너스 +0%\\n 로그 컬렉션 갯수: 20,,
-VipVip.csv,name_en,Soul Contractor - Beginner,혼의 계약자 - 초급,,
-VipVip.csv,desc_en,Daily Gift Attempts: 4 \\n Max No. of Friends +0 \\n Misc Shop Refresh Attempts: 6 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +50%\\n Log Collection Limit: 25,일일 선물 상한: 4 \\n 친구 수 상한 +0 \\n 잡화 상점 일일 새로고침 횟수: 6 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +50%\\n 로그 컬렉션 갯수: 25,,
-VipVip.csv,name_en,Soul Contractor - Intermediate,혼의 계약자 - 중급,,
-VipVip.csv,desc_en,Daily Gift Attempts: 6 \\nMax No. of Friends +10\\n Misc Shop Refresh Attempts: 7 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +75%\\n Log Collection Limit: 30,일일 선물 상한: 6 \\n친구 수 상한 +10\\n 잡화 상점 일일 새로고침 횟수: 7 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +75%\\n 로그 컬렉션 갯수: 30,,
-VipVip.csv,name_en,Soul Contractor - Senior,혼의 계약자 - 상급,,
-VipVip.csv,desc_en,Daily Gift Attempts: 8 \\n Max No. of Friends +20 \\n Misc Shop Refresh Attempts: 8 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +100%\\n Log Collection Limit: 35,일일 선물 상한: 8 \\n 친구 수 상한 +20 \\n 잡화 상점 일일 새로고침 횟수: 8 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +100%\\n 로그 컬렉션 갯수: 35,,
-VipVip.csv,name_en,Soul Enlightener - Beginner,혼의 계몽자 - 초급,,
-VipVip.csv,desc_en,Daily Gift Attempts: 10 \\n Max No. of Friends +30 \\n Misc Shop Refresh Attempts: 9 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +120%\\n Log Collection Limit: 40,일일 선물 상한: 10 \\n 친구 수 상한 +30 \\n 잡화 상점 일일 새로고침 횟수: 9 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +120%\\n 로그 컬렉션 갯수: 40,,
-VipVip.csv,name_en,Soul Enlightener - Intermediate,혼의 계몽자 - 중급,,
-VipVip.csv,desc_en,Daily Gift Attempts: 12 \\n Max No. of Friends +40 \\n Misc Shop Refresh Attempts: 10 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +140%\\n Log Collection Limit: 45,일일 선물 상한: 12 \\n 친구 수 상한 +40 \\n 잡화 상점 일일 새로고침 횟수: 10 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +140%\\n 로그 컬렉션 갯수: 45,,
-VipVip.csv,name_en,Soul Enlightener - Senior,혼의 계몽자 - 상급,,
-VipVip.csv,desc_en,Daily Gift Attempts: 14 \\n Max No. of Friends +50 \\n Misc Shop Refresh Attempts: 11 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +160%\\n Log Collection Limit: 50,일일 선물 상한: 14 \\n 친구 수 상한 +50 \\n 잡화 상점 일일 새로고침 횟수: 11 \\n 잡화 상점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +160%\\n 로그 컬렉션 갯수: 50,,
-VipVip.csv,name_en,Soul Creator - Beginner,혼의 창조자 - 초급,,
-VipVip.csv,desc_en,Daily Gift Attempts: 16 \\n Max No. of Friends +60 \\n Misc Shop Refresh Attempts: 12 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 55,일일 선물 상한: 16 \\n 친구 수 상한 +60 \\n 잡화 상점 일일 새로고침 횟수: 12 \\n 잡화 상점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 55,,
-VipVip.csv,name_en,Soul Creator - Intermediate,혼의 창조자 - 중급,,
-VipVip.csv,desc_en,Daily Gift Attempts: 18 \\n Max No. of Friends +70 \\n Misc Shop Refresh Attempts: 13 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 60,일일 선물 상한: 18 \\n 친구 수 상한 +70 \\n 잡화 상점 일일 새로고침 횟수: 13 \\n 잡화 상점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 60,,
-VipVip.csv,name_en,Soul Creator - Senior,혼의 창조자 - 상급,,
-VipVip.csv,desc_en,Daily Gift Attempts: 20 \\n Max No. of Friends +80 \\n Misc Shop Refresh Attempts: 14 \\n Misc Shop Free Refresh: 3 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 65,일일 선물 상한: 20 \\n 친구 수 상한 +80 \\n 잡화 상점 일일 새로고침 횟수: 14 \\n 잡화 상점 무료 새로고침 횟수: 3 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 65,,
-VipVip.csv,name_en,Soul Excelsior,혼의 초월자,,
-VipVip.csv,desc_en,Daily Gift Attempts: 22 \\n Max No. of Friends +90 \\n Misc Shop Refresh Attempts: 15 \\n Misc Shop Free Refresh: 4 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 70,일일 선물 상한: 22 \\n 친구 수 상한 +90 \\n 잡화 상점 일일 새로고침 횟수: 15 \\n 잡화 상점 무료 새로고침 횟수: 4 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 70,,
-VipVip.csv,name_en,Cat Food Supplier,캣푸드 상인,,
-VipVip.csv,desc_en,Daily Gift Attempts: 25 \\n Max No. of Friends +100 \\n Misc Shop Refresh Attempts: 20 \\n Misc Shop Free Refresh: 5 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 75,일일 선물 상한: 25 \\n 친구 수 상한 +100 \\n 잡화 상점 일일 새로고침 횟수: 20 \\n 잡화 상점 무료 새로고침 횟수: 5 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 75,,
-VipVip.csv,name_en,Royal Cat Guard,고양이 왕국의 수호자,,
-VipVip.csv,desc_en,Daily Gift Attempts: 30 \\n Max No. of Friends +110 \\n Misc Shop Refresh Attempts: 25 \\n Misc Shop Free Refresh: 7 \\n Bond Bonus from Matches +250%\\n Log Collection Limit: 80,일일 선물 상한: 30 \\n 친구 수 상한 +110 \\n 잡화 상점 일일 새로고침 횟수: 25 \\n 잡화 상점 무료 새로고침 횟수: 7 \\n 단위전 인연 보너스 +250%\\n 로그 컬렉션 갯수: 80,,
-ItemDefinitionCurrency.csv,name_en,Jade,휘옥,,
-ItemDefinitionCurrency.csv,desc_en,Can be used to buy props.,소품(props)을 구입하는데 사용할 수 있습니다.,,
-ItemDefinitionCurrency.csv,name_en,Copper,동전,,
-ItemDefinitionCurrency.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천 신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.,,
-ItemDefinitionCurrency.csv,name_en,Outfit Voucher,의상 교환권,,
-ItemDefinitionCurrency.csv,desc_en,A currency used to purchase outfits,의상을 구입하는데 사용되는 화폐입니다.,,
-DesktopChest.csv,name_en,Silver Chest,은 상자,,
-DesktopChest.csv,name_en,Gold Chest,금 상자,,
-DesktopChest.csv,name_en,Jade Chest,비취 상자,,
-DesktopChest.csv,name_en,King’s Chest,왕의 상자,,
-DesktopChest.csv,name_en,Casual Chest,캐주얼 상자,,
-ExchangeSearchexchange.csv,name_en,200 Summon Stones,200 기원의 소옥,,
-ExchangeSearchexchange.csv,desc_en,Collect a specific amount to summon.,기원하기 위해 특정량을 모으세요.,,
-ExchangeSearchexchange.csv,name_en,"1,800 Summon Stones","1,800 기원의 소옥",,
-ExchangeExchange.csv,name_en,"5,000 Coppers","5,000 동전",,
-ExchangeExchange.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천 신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.,,
-ExchangeExchange.csv,name_en,"30,000 Coppers","30,000 동전",,
-ExchangeExchange.csv,name_en,"60,000 Coppers","60,000 동전",,
-ExchangeExchange.csv,name_en,"300,000 Coppers","300,000 동전",,
-ExchangeExchange.csv,name_en,"500,000 Coppers","500,000 동전",,
-ExchangeExchange.csv,name_en,"1,000,000 Coppers","1,000,000 동전",,
-GameLiveSelectFilters.csv,name1_en,Friends Room,친선전,,
-GameLiveSelectFilters.csv,name2_en,4-Player East,4인 동풍전,,
-GameLiveSelectFilters.csv,name2_en,4-Player South,4인 반장전,,
-GameLiveSelectFilters.csv,name1_en,Bronze Room,동탁,,
-GameLiveSelectFilters.csv,name2_en,Best of One Game,최고의 한게임,,
-GameLiveSelectFilters.csv,name1_en,Silver Room,은탁,,
-GameLiveSelectFilters.csv,name1_en,Gold Room,금탁,,
-GameLiveSelectFilters.csv,name1_en,Jade Room,옥탁,,
-GameLiveSelectFilters.csv,name1_en,Melee Room,Melee Room,,
-GameLiveSelectFilters.csv,name1_en,Throne Room,왕좌탁,,
-GameLiveSelectFilters.csv,name2_en,3-Player East,3인 동풍전,,
-GameLiveSelectFilters.csv,name2_en,3-Player South,3인 반장전,,
-LevelDefinitionLevelDefinition.csv,name_en,Novice,초심,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Novice I,초심 I,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Novice II,초심 II,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Novice III,초심 III,,
-LevelDefinitionLevelDefinition.csv,name_en,Intermediate,작사,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Adept I,작사 I,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Adept II,작사 II,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Adept III,작사 III,,
-LevelDefinitionLevelDefinition.csv,name_en,Expert,작걸,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Expert I,작걸 I,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Expert II,작걸 II,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Expert III,작걸 III,,
-LevelDefinitionLevelDefinition.csv,name_en,Master,작호,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Master I,작호 I,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Master II,작호 II,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Master III,작호 III,,
-LevelDefinitionLevelDefinition.csv,name_en,Saint,작성,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Saint I,작성 I,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Saint II,작성 II,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Saint III,작성 III,,
-LevelDefinitionLevelDefinition.csv,name_en,Celestial,혼천,,
-LevelDefinitionLevelDefinition.csv,full_name_en,Celestial,혼천,,
-FanFan.csv,name_en,Fully Concealed Hand,멘젠쯔모,,
-FanFan.csv,name_en,Riichi,리치,,
-FanFan.csv,name_en,Robbing a Kan,창깡,,
-FanFan.csv,name_en,After a Kan,영상개화,,
-FanFan.csv,name_en,Under the Sea,해저로월,,
-FanFan.csv,name_en,Under the River,하저로어,,
-FanFan.csv,name_en,White Dragon,역패: 백,,
-FanFan.csv,name_en,Green Dragon,역패: 발,,
-FanFan.csv,name_en,Red Dragon,역패: 중,,
-FanFan.csv,name_en,Seat Wind,자풍패,,
-FanFan.csv,name_en,Prevalent Wind,장풍패,,
-FanFan.csv,name_en,All Simples,탕야오,,
-FanFan.csv,name_en,Pure Double Sequence,이페코,,
-FanFan.csv,name_en,Pinfu,핑후,,
-FanFan.csv,name_en,Half Outside Hand,찬타,,
-FanFan.csv,name_en,Pure Straight,일기통관,,
-FanFan.csv,name_en,Mixed Triple Sequence,삼색동순,,
-FanFan.csv,name_en,Double Riichi,더블리치,,
-FanFan.csv,name_en,Triple Triplets,삼색동각,,
-FanFan.csv,name_en,Three Quads,산깡즈,,
-FanFan.csv,name_en,All Triplets,또이또이,,
-FanFan.csv,name_en,Three Concealed Triplets,산안커,,
-FanFan.csv,name_en,Little Three Dragons,소삼원,,
-FanFan.csv,name_en,All Terminals and Honors,혼노두,,
-FanFan.csv,name_en,Seven Pairs,치또이츠,,
-FanFan.csv,name_en,Fully Outside Hand,준찬타,,
-FanFan.csv,name_en,Half Flush,혼일색,,
-FanFan.csv,name_en,Twice Pure Double Sequence,량페코,,
-FanFan.csv,name_en,Full Flush,청일색,,
-FanFan.csv,name_en,Ippatsu,일발,,
-FanFan.csv,name_en,Dora,도라,,
-FanFan.csv,name_en,Red Five,적도라,,
-FanFan.csv,name_en,Ura Dora,뒷도라,,
-FanFan.csv,name_en,Kita,북도라,,
-FanFan.csv,name_en,Blessing of Heaven,천화,,
-FanFan.csv,name_en,Blessing of Earth,지화,,
-FanFan.csv,name_en,Big Three Dragons,대삼원,,
-FanFan.csv,name_en,Four Concealed Triplets,스안커,,
-FanFan.csv,name_en,All Honors,자일색,,
-FanFan.csv,name_en,All Green,녹일색,,
-FanFan.csv,name_en,All Terminals,청노두,,
-FanFan.csv,name_en,Thirteen Orphans,국사무쌍,,
-FanFan.csv,name_en,Four Little Winds,소사희,,
-FanFan.csv,name_en,Four Quads,스깡즈,,
-FanFan.csv,name_en,Nine Gates,구련보등,,
-FanFan.csv,name_en,Eight-time East Staying,팔연장,,
-FanFan.csv,name_en,True Nine Gates,순정구련보등,,
-FanFan.csv,name_en,Single-wait Four Concealed Triplets,스안커 단기,,
-FanFan.csv,name_en,Thirteen-wait Thirteen Orphans,국사무쌍 13면대기,,
-FanFan.csv,name_en,Four Big Winds,대사희,,
-FanFan.csv,name_en,Tsubame-gaeshi,츠바메가에시,,
-FanFan.csv,name_en,Kanburi,영상개론,,
-FanFan.csv,name_en,Shiiaruraotai,십이낙태,,
-FanFan.csv,name_en,Uumensai,오문제,,
-FanFan.csv,name_en,Three Chained Triplets,삼련각,,
-FanFan.csv,name_en,Pure Triple Chow,일색삼순,,
-FanFan.csv,name_en,Iipinmoyue,일통모월,,
-FanFan.csv,name_en,Chuupinraoyui,구통로어,,
-FanFan.csv,name_en,Hand of Man,인화,,
-FanFan.csv,name_en,Big Wheels,대차륜,,
-FanFan.csv,name_en,Bamboo Forest,대죽림,,
-FanFan.csv,name_en,Numerous Neighbours,대수린,,
-FanFan.csv,name_en,Ishinouenimosannen,돌 위에서 삼년,,
-FanFan.csv,name_en,Big Seven Stars,대칠성,,
-ChestChest.csv,name_en,Summon,기원,,
-ChestChest.csv,desc_en,"For each summon: you can get 1 Faith, with a chance to draw an all-new character and decorations. \\n\\n Character drop rates: 5% \\n Decoration drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate character, will be converted into Wishing Stones. \\n Duplicate decorations will be converted into Star Stones.","기원할 때 마다 1개의 신앙을 획득하며, 새로운 캐릭터와 장식을 얻을 기회가 주어집니다. \\n\\n 캐릭터 획득 확률: 5% \\n 장식 획득 확률: 15% \\n 선물 획득 확률: 80% \\n\\n 중복된 캐릭터는 기도의 소옥으로 전환됩니다. \\n 중복된 장식은 별의 소옥으로 전환됩니다.",,
-ItemDefinitionCharacter.csv,name_en,Ichihime,이치히메,,
-ItemDefinitionCharacter.csv,desc_stature_en,154 cm,154 cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,11th January,1월 11일,,
-ItemDefinitionCharacter.csv,desc_age_en,Unknown,불명,,
-ItemDefinitionCharacter.csv,desc_cv_en,Maaya Uchida,우치다 마아야,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Food, sleep","먹는 것, 자는 것",,
-ItemDefinitionCharacter.csv,desc_en,"One of the first characters to appear in the Mahjong Soul Temple. She is the current priestess of the temple who claims to be human, despite her cat ears. To Ichiihime, nothing is more important than eating and napping.",혼천 신사에 나타난 최초의 작사 중 한 명으로 혼천 신사의 현역 무녀. 고양이귀를 달고 있으며 자신이 인간이라 강력히 주장한다. 그녀에겐 밥과 잠이 무엇보다 중요하다.,,
-ItemDefinitionCharacter.csv,name_en,Miki Nikaidou,니카이도 미키,,
-ItemDefinitionCharacter.csv,desc_stature_en,168 cm,168 cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,14th February,2월 14일,,
-ItemDefinitionCharacter.csv,desc_age_en,24,24,,
-ItemDefinitionCharacter.csv,desc_cv_en,Chiwa Saitou,사이토 치와,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Gems, hedgehog pet","보석, 고슴도치 기르기",,
-ItemDefinitionCharacter.csv,desc_en,"A mysterious female Mahjong player. She is intelligent with a flirtatious nature. Therefore, people often find her to be unpredictable. She owns a pet hedgehog and gorgeous gems are her favorite.","미스테리한 여성 작사. 총명하고 지적이지만, 묘하게 남을 놀리 듯 행동해 진심이 드러나지 않는다. 애완동물로 고슴도치 한마리를 키우고 있으며, 보석이라하면 사족을 못쓴다.",,
-ItemDefinitionCharacter.csv,name_en,Kana Fujita,후지타 카나,,
-ItemDefinitionCharacter.csv,desc_stature_en,159 cm,159 cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,27th April,4월 27일,,
-ItemDefinitionCharacter.csv,desc_age_en,17,17,,
-ItemDefinitionCharacter.csv,desc_hobby_en,Gaming,게임,,
-ItemDefinitionCharacter.csv,desc_en,"Before Kana became an idol, she was just an ordinary high school girl with cute looks. A talent scout discovered her by chance when she was playing arcade games in Akihabara. As a gameholic, Kana learned to play Mahjong under the influence of her senior, Nadeshiko. “Nadeshiko outplays me in all other games, but I will never lose in a game of luck such as Mahjong!” Kana's not wrong, she has great luck indeed.","평범한 여고생이지만, 귀여운 외모 덕에 오락실에 스카웃되어 아이돌로 일하고 있다. 게임 오타쿠인 그녀가 마작을 시작하게 된 계기는 선배 나데시코 때문. ""선배는 어떤 게임이든 나보다 잘하지만, 운이 좌우하는 마작이라면 나도 지지 않는다구요!""라고 말하는 그녀에겐 언제나 행운이 함께 한다.",,
-ItemDefinitionCharacter.csv,name_en,Chiori Mikami,미카미 치오리,,
-ItemDefinitionCharacter.csv,desc_stature_en,143 cm,143 cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,23rd May,5월 23일,,
-ItemDefinitionCharacter.csv,desc_age_en,14,14,,
-ItemDefinitionCharacter.csv,desc_cv_en,Yuka Iguchi,이구치 유카,,
-ItemDefinitionCharacter.csv,desc_hobby_en,Teddy bear,곰,,
-ItemDefinitionCharacter.csv,desc_en,"Chiori was born to a rich family in Tokyo. Her father is a university professor and her mother is a surgeon. They are often traveling for work and leave a maid to take care of Chiori most of the time. One year, she received a teddy bear bag from her parents as her birthday present, and she keeps it with her all the time. She learned about mahjong from a TV show and fell in love with the game. ""Mahjong is so fun! I can have so much from other people's suffering.""","유복한 가정에서 태어난 아가씨. 아버지는 대학 교수, 어머니는 외과 의사라 자주 부재중이기에, 항상 가정부가 그녀를 돌봐주고 있다. 생일선물로 부모님에게 받은 곰돌이 가방을 언제나 손에 쥐고 다니는 그녀는 우연히 홈쇼핑으로 마작을 알게 되어 푹 빠지게 되었다. ""다른 사람의 고통을 지배하는 즐거움이 있으니, 마작은 참 즐겁지.""",,
-ItemDefinitionCharacter.csv,name_en,Mai Aihara,아이하라 마이,,
-ItemDefinitionCharacter.csv,desc_stature_en,165 cm,165 cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,26th June,6월 26일,,
-ItemDefinitionCharacter.csv,desc_age_en,18,18,,
-ItemDefinitionCharacter.csv,desc_hobby_en,Reading,독서,,
-ItemDefinitionCharacter.csv,desc_en,"Mai works as a priestess in the Temple of Moons. Despite having to greet people often in her line of work, she is incredibly shy. Visitors often complain about her voice being hard to hear. She is a quiet girl that loves books, but never talks about what she is reading. Occasionally, some will notice the title of one of her books ' ""Garden Files."" ""Oh, mahjong? ... I'm actually not that good at it. I only play it with the elderlies that live nearby...""","천월 신사의 무녀. 신사에서 일하기에 타인과의 만남이 잦지만, 의외로 대인기피증이 있어 ""목소리가 너무 작다""는 말을 자주 듣는다. 사적인 공간에선 조용한 문학소녀로 읽고 있는 책에 대해서 한마디도 남겨주지 않는다. 인형의 증언에 따르면 ""화원 파일""이란 책이 있다 한다. ""네…? 마작 말인가요…? 이웃 노인 분들과 함께 치는 정도라, 그렇게 잘하진…""",,
-ItemDefinitionCharacter.csv,name_en,Nadeshiko,나데시코,,
-ItemDefinitionCharacter.csv,desc_stature_en,175 cm,175 cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,14th August,8월 14일,,
-ItemDefinitionCharacter.csv,desc_age_en,28,28,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Beer, traveling","맥주, 여행",,
-ItemDefinitionCharacter.csv,desc_en,"Nadeshiko lost her mother when she was young, and so she was raised by her father who is a mechanic. She has a natural love for motorbikes, beer, and traveling. Her height often gives others the impression that she is cold and distant, but she is actually very easy to get along with. Nadeshiko is a talented Mahjong player; she learned most of games, including Mahjong, without any guidance.","어린 나이에 어머니를 잃고 정비사인 아버지 손에 자란 그녀는 자연스럽게 맥주, 오토바이를 사랑하게 되었다. 큰 키 덕분에 고상하고 쿨한 사람이라 많이들 생각하지만 사실은 무척이나 명랑하다. 한가할 때는 종종 장거리 여행을 다니곤 한다. 마작을 포함해 모든 게임에 천재적이다.",,
-ItemDefinitionCharacter.csv,name_en,Yui Yagi,야기 유이,,
-ItemDefinitionCharacter.csv,desc_stature_en,162 cm,162 cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,7th September,9월 7일,,
-ItemDefinitionCharacter.csv,desc_age_en,19,19,,
-ItemDefinitionCharacter.csv,desc_cv_en,Ami Koshimizu,코시미즈 아미,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Snacks, coffee, swimming","간식, 커피, 수영",,
-ItemDefinitionCharacter.csv,desc_en,"Yagi Yui is a genius with an IQ of 180, but people keep their distance from her because she cannot interpret their emotions. Still, she longs to understand others and to be understood. On a chance visit, she came to the Mahjong Soul Shrine, and she started to change. Other than coffee and snacks, being her favourite beverage and food, Yui really has a poor sense of taste.","IQ180의 천재, 하지만 다른 사람의 감정을 잘 이해하지 못하는 탓에 주변 사람들과 어울리지 못한다. 우연히 혼천 신사에 다른 사람들과 잘 어울릴 수 있도록 참배하러 왔다가, 조금씩 변하기 시작했다. 커피와 간식을 좋아하면서 동시에 절망적인 미각을 갖고 있다.",,
-ItemDefinitionCharacter.csv,name_en,Riu Kujou,쿠죠 리우,,
-ItemDefinitionCharacter.csv,desc_stature_en,161 cm,161 cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,29th November,11월 29일,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Taekwondo, black tea, clothing","태권도, 홍차, 옷",,
-ItemDefinitionCharacter.csv,desc_en,"Like Chiori, Riu was also born in Tokyo. Her father and Chiori’s father are good friends. Because Chiori’s parents are away from home most of the time, Riu has been living with Chiori and taking care of her like an elder sister ever since they were children. She also started playing Mahjong because of Chiori. Over time, Kujou fell in love with the game. Her hobby is to collect all kinds of beautiful dresses.","치오리의 부모가 집을 비울 때마다 친구의 딸인 리우가 어릴 때부터 치오리를 돌봐주고 있다. 때문에 치오리에게 있어서 그녀는 친언니와 같다. 치오리와 함께 마작을 시작해, 점점 마작에 빠져들고 있는 상태. 평소 패션에 무수한 관심을 보인다.",,
-ItemDefinitionCharacter.csv,name_en,Xenia,지니아,,
-ItemDefinitionCharacter.csv,desc_stature_en,158 cm,158 cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,2nd February,2월 2일,,
-ItemDefinitionCharacter.csv,desc_cv_en,Mai Nakahara,나카하라 마이,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Gaming, camping, cooking","게임, 캠프, 요리",,
-ItemDefinitionCharacter.csv,desc_en,"Being born a noble is probably not as much a blessing as most people believe. To Xenia, the world beyond the cage-like walls of her home is always strange yet full of beauty. With a rebellious nature, she is filled with resentment for the inflexibility and harshness of her family. Xenia’s greatest dream is to leave family in pursuit of her own freedom.",귀족 출신이 항상 좋은 것만은 아니다. 저택의 높은 벽을 너머 펼쳐진 신비하고 아름다운 세계를 두고 그녀는 낡고 보수적인 교육에 갇혀 동경 이상의 꿈을 꾸지 못한다. 그녀의 꿈은 집을 떠나 자신의 힘으로 세계를 찾는 것이다.,,
-ItemDefinitionCharacter.csv,name_en,Kaavi,카비,,
-ItemDefinitionCharacter.csv,desc_birth_en,12th October,10월 12일,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Gems, inevitable fate","보석, 변하지 않는 진실",,
-ItemDefinitionCharacter.csv,desc_en,A mysterious fortune teller who deeply believes that one’s fate is inevitable and unavoidable. She opposes any effort in trying to change fate because she simply cannot stand meaningless struggles. One of her main motives in becoming a fortune teller is probably the pleasurable moment in delivering someone’s fate and the amusement of watching them react in a desperate and ugly way.,"운명은 바꿀 수 없다고 단언하는 그녀지만, 운명을 바꾸는 노력을 부정하기 보단 그저 무의미한 저항을 싫어하는 것 뿐이다. 점을 보게 된 동기는 사람들의 운명을 알려주는 순간과 그들이 절망하고 저항하는 모습을 즐기고 싶었기 때문이라고 말한다.",,
-ItemDefinitionCharacter.csv,name_en,Natsuki Shinomiya,시노미야 나츠키,,
-ItemDefinitionCharacter.csv,desc_stature_en,178cm,178cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,24th December,12월 24일,,
-ItemDefinitionCharacter.csv,desc_cv_en,Jun Fukuyama,후쿠야마 쥰,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Mahjong, gaming, bartending","마작, 게임, 칵테일",,
+﻿location,context,source,target
+FandescFandesc.csv,name_en,Riichi,리치
+FandescFandesc.csv,desc_en,Win a hand after you declared Riichi; You may declare Riichi when you achieve Tenpai (ready hand) at Menzenchin (closed hand),리치 선언 후 화료 - 리치 선언은 멘젠 상태에서 텐파이 했을 때 할 수 있음
+FandescFandesc.csv,desc2_en,Menzenchin Only,멘젠 한정
+FandescFandesc.csv,name_en,All Simples,탕야오
+FandescFandesc.csv,desc_en,"Win a hand without any Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, Wind Tiles, and Dragon Tiles)","요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)가 손패에 없는 상태로 화료"
+FandescFandesc.csv,name_en,Fully Concealed Hand,멘젠쯔모
+FandescFandesc.csv,desc_en,Win a hand by Tsumo (drawing the winning tile) at Menzenchin (closed hand),멘젠 상태에서 쯔모(자신이 뽑아온 패)로 화료
+FandescFandesc.csv,name_en,Seat Wind,자풍패
+FandescFandesc.csv,desc_en,Win a hand with a Triplet of Player Wind,자신의 방위에 맞는 바람패 커쯔가 포함된 손패로 화료
+FandescFandesc.csv,name_en,Prevalent Wind,장풍패
+FandescFandesc.csv,desc_en,Win a hand with a Triplet of Round Wind,장의 방위에 맞는 바람패 커쯔가 포함된 손패로 화료
+FandescFandesc.csv,name_en,Dragons,역패
+FandescFandesc.csv,desc_en,"Win a hand with a Triplet of Dragon Tile (White, Green or Red)","역패(백, 발, 중) 커쯔가 포함된 손패로 화료"
+FandescFandesc.csv,name_en,Pinfu,핑후
+FandescFandesc.csv,desc_en,"Win a hand with four Sequences and one non-Yakuhai Pair, plus the potential winning tiles must be tiles from both side of a Sequence","몸통이 모두 슌쯔이고, 역패(백, 발, 중)이 포함되어 있지 않고, 자풍패와 장풍패가 포함되어 있지 않고, 양면대기 상태에서 화료"
+FandescFandesc.csv,name_en,Pure Double Sequence,이페코
+FandescFandesc.csv,desc_en,Win a hand with two identical Sequences,완전히 동일한 슌쯔 두개를 몸통으로 사용하여 화료
+FandescFandesc.csv,name_en,Robbing a Kan,창깡
+FandescFandesc.csv,desc_en,"Call a Ron (declare winning) on another player’s Kan (when you have a Tenpai for Thirteen Orphans, you can call on a Closed Kan)",다른 플레이어가 가깡(자신이 펑한 패에 추가로 붙여 깡)을 한 패를 론(다른 사람의 패)으로 화료 - 국사무쌍 텐파이 상태일 경우에 한하여 안깡도 론 가능
+FandescFandesc.csv,name_en,After a Kan,영상개화
+FandescFandesc.csv,desc_en,Win a hand with the tile drawn from the Dead Wall after immediately calling a Kan,영상패(깡을 할 때 손으로 가져오는 패)로 화료
+FandescFandesc.csv,name_en,Under the Sea,해저로월
+FandescFandesc.csv,desc_en,Win a hand by Tsumo (drawing the winning tile) with the last tile drawn from the Wall,패산의 마지막 패를 쯔모(자신이 뽑아온 패)하여 화료
+FandescFandesc.csv,name_en,Under the River,하저로어
+FandescFandesc.csv,desc_en,Win a hand by calling Ron (declare winning) on the last discarded tile,마지막 버림패를 론(다른 사람의 패)으로 화료
+FandescFandesc.csv,name_en,Ippatsu,일발
+FandescFandesc.csv,desc_en,"Win a hand within 1 turn after declaring Riichi, in addition, draws/discards must not be interrupted by tile calls during that turn",리치 선언 후 1순(1바퀴)내로 화료 - 리치 선언 후 누군가 치/펑/깡을 했을 경우 무효
+FandescFandesc.csv,name_en,Dora,도라
+FandescFandesc.csv,desc_en,The next tile immediately after the flipped Dora Indicator Tile,도라표시패의 바로 다음 패를 손패에 포함
+FandescFandesc.csv,desc2_en,Not Yaku,역 아님
+FandescFandesc.csv,name_en,Red Five,적도라
+FandescFandesc.csv,desc_en,"Red 5-Man, Red 5-Pin, Red 5-Sou","적5만, 적5통, 적5삭을 손패에 포함"
+FandescFandesc.csv,name_en,Kita,북도라
+FandescFandesc.csv,desc_en,"In 3-Player Mahjong, North Wind can be considered as a Dora after “Kita” is called (does not count as a Dora if North Wind remains in hand)",3인 마작에서 북패는 빼기 도라로 취급함(손패에 있는 북풍패를 북도라 선언하지 않았을 경우 도라로 취급하지 않음)
+FandescFandesc.csv,name_en,Local Yaku: Tsubame-gaeshi,로컬역: 츠바메가에시
+FandescFandesc.csv,desc_en,Call a Ron on the first tile discarded by another player to declare Riichi,다른 플레이어가 리치 선언을 하며 버린 패를 론으로 화료
+FandescFandesc.csv,name_en,Local Yaku: Kanburi,로컬역: 영상개론
+FandescFandesc.csv,desc_en,Call a Ron on a tile discarded by another player who just called Kan,다른 플레이어가 깡을 선언한 후 버린 패를 론으로 화료
+FandescFandesc.csv,name_en,Local Yaku: Shiiaruraotai,로컬역: 십이낙태
+FandescFandesc.csv,desc_en,"Win a hand by Tsumo or Ron with 4 open Chii, Pon, or Kan",몸통을 모두 치/펑/깡으로 만들고 머리를 대기패로 하여 화료
+FandescFandesc.csv,name_en,Double Riichi,더블리치
+FandescFandesc.csv,desc_en,Declare Riichi with your starting hand before any tiles are called,첫 쯔모 후 리치 선언을 한 후 화료 - 자신이 쯔모하기 전 누군가 치/펑/깡을 했을 경우 무효
+FandescFandesc.csv,name_en,Triple Triplets,삼색동각
+FandescFandesc.csv,desc_en,"Win a hand with three Triplets with the same number out of the Number Tiles (Man, Pin, Sou)","세가지 같은 숫자로 각 수패(만수, 통수, 삭수)로 커쯔 몸통을 만들어 화료 "
+FandescFandesc.csv,name_en,Three Quads,산깡즈
+FandescFandesc.csv,desc_en,Win a hand with three Quads,깡 3개를 포함하여 화료
+FandescFandesc.csv,name_en,All Triplets,또이또이
+FandescFandesc.csv,desc_en,Win a hand with four Triplets or Quads,커쯔 4개로 몸통을 만들어 화료
+FandescFandesc.csv,name_en,Three Concealed Triplets,산안커
+FandescFandesc.csv,desc_en,Win a hand with three closed Triplets or closed Quads,안커(펑/깡으로 만들지 않은 커쯔) 3개를 손패에 포함화여 화료
+FandescFandesc.csv,name_en,Little Three Dragons,소삼원
+FandescFandesc.csv,desc_en,"Win a hand with two Triplets out of the Dragon Tiles (White, Green or Red), plus a Pair of the third Dragon Tile","역패(백, 발, 중)으로 커쯔 2개와 머리를 만들어 화료"
+FandescFandesc.csv,name_en,All Terminals and Honors,혼노두
+FandescFandesc.csv,desc_en,"Win a hand with only Terminal Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou, Wind Tiles, and Dragon Tiles)","요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)만으로 몸통 4개와 머리를 만들어 화료"
+FandescFandesc.csv,name_en,Seven Pairs,치또이츠
+FandescFandesc.csv,desc_en,Win a hand with seven different Pairs,서로 다른 또이츠(동일한 패 2개) 7개를 모아 화료
+FandescFandesc.csv,name_en,Half Outside Hand,찬타
+FandescFandesc.csv,desc_en,"Win a hand where every Sequence, Triplet and Pair contains at least one Terminal Tile","4개의 몸통과 머리에 요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)를 적어도 하나씩 포함하여 화료"
+FandescFandesc.csv,desc2_en,-1 Han after making a call,울었을 경우 1판 차감
+FandescFandesc.csv,name_en,Pure Straight,일기통관
+FandescFandesc.csv,desc_en,"Win a hand with a complete Sequence of 1 through 9 (i.e. 123-Man, 456-Man, 789-Man)","같은 수패(만수, 통수, 삭수)로 구성된 123 슌쯔, 456 슌쯔, 789 슌쯔를 몸통으로 사용하여 화료"
+FandescFandesc.csv,name_en,Mixed Triple Sequence,삼색동순
+FandescFandesc.csv,desc_en,"Win a hand with three Sequences with the same numbers out of three different Number Tiles  (i.e. 123-Man, 123-Pin, 123-Sou)","같은 숫자의 슌쯔를 각각의 수패(만수, 통수, 삭수)로 만들어 몸통으로 사용하여 화료(예: 123만 슌쯔, 123통 슌쯔, 123삭 슌쯔)"
+FandescFandesc.csv,name_en,Local Yaku: Uumensai,로컬역: 오문제
+FandescFandesc.csv,desc_en,"Win a hand consists of Man, Pin, Sou, Wind, and Dragon tiles","만수패, 통수패, 삭수패, 바람패, 역패를 모두 하나 이상 포함한 손패로 화료"
+FandescFandesc.csv,name_en,Local Yaku: Three Chained Triplets,로컬역: 삼련각
+FandescFandesc.csv,desc_en,Win a hand with 3 consecutive Triplets,"연속된 숫자의 같은 수패(만수, 통수, 삭수)로 커쯔 3개를 만들어 몸통으로 사용하여 화료(예: 444만 커쯔, 555만 커쯔, 666만 커쯔)"
+FandescFandesc.csv,name_en,Twice Pure Double Sequence,량페코
+FandescFandesc.csv,desc_en,Win a hand with two sets two identical Sequences,서로 중복되지 않는 이페코 두개를 손패에 포함하여 화료(치또이츠와 중복되지 않음)
+FandescFandesc.csv,name_en,Fully Outside Hand,준찬타
+FandescFandesc.csv,desc_en,"Win a hand with every Sequence, Triplet and Pair contains at least one 1 and 9 out of the Number Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)","모든 몸통과 머리에 노두패(1만, 9만, 1통, 9통, 1삭, 9삭)을 적어도 하나 사용하여 화료"
+FandescFandesc.csv,name_en,Half Flush,혼일색
+FandescFandesc.csv,desc_en,"Win a hand with tiles from only one of the three Number Tiles (Man, Pin or Sou) and HonorTiles (Wind Tiles and Dragon Tiles)","세가지 수패(만수, 통수, 삭수) 중 하나와 자패(바람패, 역패)만으로 몸통과 머리를 만들어 화료"
+FandescFandesc.csv,name_en,Local Yaku: Pure Triple Chow,로컬역: 일색삼순
+FandescFandesc.csv,desc_en,Win a hand with three identical Sequences,"연속된 숫자의 같은 수패(만수, 통수, 삭수)로 슌쯔 3개를 만들어 몸통으로 사용하여 화료(예: 456만 슌쯔 3개)"
+FandescFandesc.csv,name_en,Full Flush,청일색
+FandescFandesc.csv,desc_en,"Win a hand with tiles from only one of the three Number Tiles (Man, Pin or Sou)","세가지 수패(만수, 통수, 삭수) 중 하나만으로 몸통과 머리를 만들어 화료"
+FandescFandesc.csv,name_en,Mangan at Draw,유국만관
+FandescFandesc.csv,desc_en,"Win a game with all your discarded tiles being Terminal Tiles, and no one has called them","패산을 모두 사용하여 유국될 때까지 요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)만 버렸고, 자신의 버림패를 다른사람이 치/펑/깡하여 사용하지 않았을 경우"
+FandescFandesc.csv,name_en,Local Yaku: Iipinmoyue,로컬역: 일통모월
+FandescFandesc.csv,desc_en,"Win a hand by Tsumo (drawing the winning tile) with the last tile drawn from the Wall, and that tile must be 1-Pin(5 Han)",1통을 쯔모하여 해저로월(5판)
+FandescFandesc.csv,name_en,Local Yaku: Chuupinraoyui,로컬역: 구통로어
+FandescFandesc.csv,desc_en,"Call a Ron on the last tile drawn from the Wall, and that tile must be 9-Pin(5 Han)",9통을 론하여 하저로어(5판)
+FandescFandesc.csv,name_en,Blessing of Heaven,천화
+FandescFandesc.csv,desc_en,Win a hand as a dealer in the first turn with the first draw,친(오야)의 배패로 화료
+FandescFandesc.csv,desc2_en,Dealer Only,친(오야) 한정
+FandescFandesc.csv,name_en,Blessing of Earth,지화
+FandescFandesc.csv,desc_en,Win a hand as a non-dealer in the first turn before any tiles are called,자(코)의 첫 쯔모패료 화료 - 화료 전 누군가 치/펑/깡을 선언했을 경우 무효
+FandescFandesc.csv,desc2_en,Non-Dealer Only,자(코) 한정
+FandescFandesc.csv,name_en,Big Three Dragons,대삼원
+FandescFandesc.csv,desc_en,Win a hand with three Triplets or Quads of all the three Dragon Tiles,"역패(백, 발, 중)으로 커쯔 3개를 만들어 몸통으로 사용하여 화료"
+FandescFandesc.csv,name_en,Four Concealed Triplets,스안커
+FandescFandesc.csv,desc_en,Win a hand with four closed Triplets,안커(펑/깡으로 만들지 않은 커쯔) 4개를 손패에 포함화여 화료
+FandescFandesc.csv,name_en,All Honors,자일색
+FandescFandesc.csv,desc_en,Win a hand with four Triplets and a Pair of the Honor Tiles (Wind Tiles and Dragon Tiles),"자패(바람패, 역패)만으로 몸통과 머리를 만들어 화료"
+FandescFandesc.csv,name_en,All Green,녹일색
+FandescFandesc.csv,desc_en,Win a hand with only green-colored tiles: 2-Sou/3-Sou/4-Sou/6-Sou/8-Sou and/or Green (F),녹색 패로만 몸통과 머리를 만들어 화료(2삭/3삭/4삭/6삭/8삭/발)
+FandescFandesc.csv,desc2_en,Green is not Necessary,발은 포함하지 않아도 허용
+FandescFandesc.csv,name_en,All Terminals,청노두
+FandescFandesc.csv,desc_en,"Win a hand with four Triplets and a Pair of 1 and 9 out of the Number Tiles (1-Man/9-Man, 1-Pin/9-Pin, 1-Sou/9-Sou)","노두패(1만, 9만, 1통, 9통, 1삭, 9삭)만으로 몸통과 머리를 만들어 화료"
+FandescFandesc.csv,name_en,Thirteen Orphans,국사무쌍
+FandescFandesc.csv,desc_en,"Win a hand with one of each 13 Terminal Tiles, plus any tile matches one of them","13개의 요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)를 하나씩 가지고, 추가로 하나의 요구패를 가진 상태로 화료"
+FandescFandesc.csv,name_en,Four Little Winds,소사희
+FandescFandesc.csv,desc_en,"Win a hand with three Triplets or Quads of the Wind Tiles, plus a pair of the fourth wind",4가지 바람패로 3개의 커쯔와 몸통 하나를 만들어 화료
+FandescFandesc.csv,name_en,Four Quads,스깡즈
+FandescFandesc.csv,desc_en,Win a hand with four Quads,깡 4개를 포함하여 화료
+FandescFandesc.csv,name_en,Nine Gates,구련보등
+FandescFandesc.csv,desc_en,"Win a hand with tiles from only one of the three Number Tiles in the order of “1112345678999”, plus any tile matches one of them","세가지 수패(만수, 통수, 삭수) 중 하나로 ""1112345678999"" 형태와, 추가로 하나의 동일한 수패로 손패를 만들어 화료"
+FandescFandesc.csv,name_en,Local Yaku: Hand of Man,로컬역: 인화
+FandescFandesc.csv,desc_en,Call a Ron as a non-dealer in the first turn you draw a tile and before any tiles are called,"자신이 자(코)일 때, 자신의 첫 쯔모 전에 다른 사람의 버림패로 화료 - 화료 전 다른사람이 치/펑/깡을 선언했을 경우 무효"
+FandescFandesc.csv,name_en,Local Yaku: Big Wheels,로컬역: 대차륜
+FandescFandesc.csv,desc_en,Win a hand with 7 Pairs consist of 2-Pin to 8-Pin,2통부터 8통까지 사용하여 7개의 또이츠(동일한 패 2개)를 만들어 화료
+FandescFandesc.csv,name_en,Local Yaku: Bamboo Forest,로컬역: 대죽림
+FandescFandesc.csv,desc_en,Win a hand with 7 Pairs consist of 2-Sou to 8-Sou,2삭부터 8삭까지 사용하여 7개의 또이츠(동일한 패 2개)를 만들어 화료
+FandescFandesc.csv,name_en,Local Yaku: Numerous Neighbours,로컬역: 대수린
+FandescFandesc.csv,desc_en,Win a hand with 7 Pairs consist of 2-Man to 8-Man,2만부터 8만까지 사용하여 7개의 또이츠(동일한 패 2개)를 만들어 화료
+FandescFandesc.csv,name_en,Local Yaku: Ishinouenimosannen,로컬역: 돌 위에서 삼년
+FandescFandesc.csv,desc_en,Win a hand with Double Riichi as well as Under the Sea/River,더블 리치 선언 후 해저로월 또는 하저로어로 화료
+FandescFandesc.csv,name_en,Single-wait Four Concealed Triplets,스안커 단기
+FandescFandesc.csv,desc_en,Achieve Tenpai with four Closed Triplets already drawn (i.e. waiting for one remaining tile to form a Pair),"4개의 안커(펑/깡으로 만들지 않은 커쯔)를 손패에 가진 상태로 텐파이하고, 머리를 대기패로 하여 화료"
+FandescFandesc.csv,name_en,Thirteen-wait Thirteen Orphans,국사무쌍 13면대기
+FandescFandesc.csv,desc_en,Achieve Tenpai with 13 different Terminal Tiles already drawn (i.e. waiting for 1 out of 13 possible tiles to win),"13개의 요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)를 손패에 하나씩 가진 상태로 텐파이하여, 13면대기 상태로 화료"
+FandescFandesc.csv,name_en,True Nine Gates,순정구련보등
+FandescFandesc.csv,desc_en,Achieve Tenpai with tiles from only one of the three Number Tiles in the order of “1112345678999” (i.e. waiting for 1 out of 9 possible tiles to win),"세가지 수패(만수, 통수, 삭수) 중 하나로 ""1112345678999"" 형태를 손패에 가진 상태로 텐파이하여 9면대기 상태로 화료"
+FandescFandesc.csv,name_en,Four Big Winds,대사희
+FandescFandesc.csv,desc_en,Win a hand with four Triplets or Quads of the Wind Tiles,바람패 커쯔 4개를 몸통으로 사용하여 화료
+FandescFandesc.csv,name_en,Local Yaku: Big Seven Stars,로컬역: 대칠성
+FandescFandesc.csv,desc_en,Win a hand with 7 Pairs consist of only Word tiles,"자패(바람패, 역패)만으로 치또이츠를 만들어 화료"
+FandescFandesc.csv,name_en,Four-Wind Discarded,사풍연타
+FandescFandesc.csv,desc_en,The game becomes a draw when each player discards the same Wind Tile in the first turn,각 플레이어의 첫 차례에 모두 동일한 바람패를 버림패로 사용했을 경우 유국
+FandescFandesc.csv,name_en,Four-kan Abortion,사깡유국
+FandescFandesc.csv,desc_en,The game becomes a draw when two or more players called for a total of four Quads,둘 이상의 플레이어가 총 4번의 깡을 했을 경우 유국
+FandescFandesc.csv,name_en,Nine Different Terminals and Honors,구종구패
+FandescFandesc.csv,desc_en,You have the option to declare a draw in the first turn if your hand consists of 9 different Terminal Tiles  before any tiles are called,"자신의 첫 쯔모 후 손패에 9개 이상의 서로 다른 요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)가 있을 경우 유국시킬 수 있음(선택적)"
+FandescFandesc.csv,name_en,Four-player Riichi,사가리치
+FandescFandesc.csv,desc_en,The game becomes a draw when all players have declared Riichi,4명의 플레이어가 모두 리치 선언을 했을 경우 유국
+InfoError.csv,en,Unknown error. Please try to refresh the page.,알 수 없는 오류. 페이지를 새로고침 해주세요.
+InfoError.csv,en,System error. Please try to refresh the page.,시스템 오류. 페이지를 새로고침 해주세요.
+InfoError.csv,en,Parameter error. Please try to refresh the page.,매개변수 오류. 페이지를 새로고침 해주세요.
+InfoError.csv,en,Please don’t mess around.,엉망으로 만들지 마십시오.
+InfoError.csv,en,System communication error. Please try to refresh the page.,시스템 통신 오류. 페이지를 새로고침 해주세요.
+InfoError.csv,en,Illegal protocol. Please try to refresh the page.,잘못된 프로토콜. 페이지를 새로고침 해주세요.
+InfoError.csv,en,Unknown error.,알 수 없는 오류.
+InfoError.csv,en,You must enter something.,값을 입력해주세요.
+InfoError.csv,en,Invalid input. Please try another one.,잘못된 입력입니다. 다른 값을 사용해주세요.
+InfoError.csv,en,Server under maintenance.,서버 점검 중입니다.
+InfoError.csv,en,Cannot find corresponding configuration.,해당 구성을 찾을 수 없습니다.
+InfoError.csv,en,Invalid gift code. Please check your input.,잘못된 선물 코드입니다. 입력하신 코드를 다시 확인하세요.
+InfoError.csv,en,This gift code has already been used.,이미 사용한 선물 코드입니다.
+InfoError.csv,en,You have already claimed this gift.,이미 획득한 선물입니다.
+InfoError.csv,en,Login failed. Please try again.,로그인할 수 없습니다. 다시 시도해주세요.
+InfoError.csv,en,Login expired. Please login again.,로그인이 만료되었습니다. 다시 로그인해주세요.
+InfoError.csv,en,Validation failed. Please check your account info and try again.,유효성 검사가 실패했습니다. 계정 정보를 확인한 후 다시 시도해주세요.
+InfoError.csv,en,Invalid gift code.,잘못된 선물 코드입니다.
+InfoError.csv,en,Please wait a while before getting a Verification Code again.,인증 코드를 다시 요청하기 전에 잠시 기다려주십시오.
+InfoError.csv,en,Incorrect Verification Code. Please try again.,정확하지 않은 인증 코드입니다. 다시 시도해주세요.
+InfoError.csv,en,Authorization for the validation has expired. Please try again.,유효성 검사에 대한 권한이 만료되었습니다. 다시 시도해주세요.
+InfoError.csv,en,This mobile number has already been linked.,이 휴대전화 번호는 이미 연결되어 있습니다.
+InfoError.csv,en,Failed to send message. Please try again later.,메시지를 보낼 수 없습니다. 나중에 다시 시도해주세요.
+InfoError.csv,en,Insufficient resources.,리소스가 부족합니다.
+InfoError.csv,en,Your input contains censored content. Please change it.,입력 내용에 검열된 내용이 포함되어 있습니다. 내용을 수정해주세요.
+InfoError.csv,en,Your account has been banned for violating relevant game rules.,당신의 계정은 게임 규정을 위반하여 정지되었습니다.
+InfoError.csv,en,Resource is unique.,리소스가 유일(Unique)합니다.
+InfoError.csv,en,Contains unsupported characters. Please try again.,지원되지 않는 문자가 포함되어 있습니다. 다시 시도해주세요.
+InfoError.csv,en,You cannot send friend requests or leave messages to players from another region.,다른 지역의 플레이어에게 친구 요청을 하거나 메시지를 남길 수 없습니다.
+InfoError.csv,en,This account has already been registered.,이 계정은 이미 등록되었습니다.
+InfoError.csv,en,Account does not exist. Please create an account first.,계정이 존재하지 않습니다. 먼저 계정을 생성해주세요.
+InfoError.csv,en,"Oops, wrong password.","이런, 잘못된 비밀번호입니다."
+InfoError.csv,en,Connection failed. Please try to refresh the page.,연결 실패. 페이지를 새로고침 해주세요.
+InfoError.csv,en,Your account is already logged in.,당신의 계정은 이미 로그인되어 있습니다.
+InfoError.csv,en,"Oops, account does not exist.","이런, 계정이 존재하지 않습니다."
+InfoError.csv,en,You don’t have this character yet.,아직 이 캐릭터를 가지고 있지 않습니다.
+InfoError.csv,en,Character has been unlocked.,캐릭터가 해금되었습니다.
+InfoError.csv,en,You are already logged in on another device.,다른 장치에 이미 로그인되어 있습니다.
+InfoError.csv,en,This name has already been taken. Please try another one.,이 이름은 이미 사용되었습니다. 다른 이름을 사용해 보세요.
+InfoError.csv,en,You don’t have a nickname yet.,아직 닉네임이 없습니다.
+InfoError.csv,en,You already have a nickname.,이미 닉네임이 존재합니다.
+InfoError.csv,en,You need a Rename Scroll to change your nickname.,닉네임을 변경하려면 이름 변경 스크롤이 필요합니다.
+InfoError.csv,en,You can only change your name once in the 30 days.,이름은 30일에 한 번만 변경할 수 있습니다.
+InfoError.csv,en,Real name authentication has already been completed.,실명 인증이 이미 완료되었습니다.
+InfoError.csv,en,Registration closed.,등록이 마감되었습니다.
+InfoError.csv,en,Insufficient VIP level.,VIP 레벨이 부족합니다.
+InfoError.csv,en,You have already claimed this reward.,이 보상은 이미 받았습니다.
+InfoError.csv,en,Unknown error. Please try to refresh the page.(Age),알 수 없는 오류. 페이지를 새로고침 해주세요.(Age)
+InfoError.csv,en,You are currently in a match.,현재 게임 중입니다.
+InfoError.csv,en,Your character name is too long.,캐릭터 이름이 너무 깁니다.
+InfoError.csv,en,"Can`t find this room, please check the room number","방을 찾을 수 없습니다, 방 번호를 확인하십시오"
+InfoError.csv,en,"Oops, room is full.","이런, 방이 가득 찼습니다."
+InfoError.csv,en,This player is no longer in the room. Try refreshing this page if you keep seeing this message.,이 플레이어는 더 이상 방에 없습니다. 이 메시지가 계속 나타나면 이 페이지를 새로고침 해주세요.
+InfoError.csv,en,Unable to perform this action as you are not the room host.,당신이 방 호스트 아니기 때문에 이 작업을 수행 할 수 없습니다.
+InfoError.csv,en,One or more players are not ready yet. Please wait.,한 명 이상의 플레이어가 아직 준비되지 않았습니다. 기다려주세요.
+InfoError.csv,en,You have already joined this room.,이미 이 방에 참여했습니다.
+InfoError.csv,en,You have not joined any room.,어떤 방에도 참여하지 않았습니다.
+InfoError.csv,en,The player you are looking for is not in the room.,찾고 있는 플레이어가 방에 없습니다.
+InfoError.csv,en,You cannot kick yourself from the room.,자신을 방에서 강퇴할 수 없습니다.
+InfoError.csv,en,The match in this room has started,이 방은 게임이 시작되었습니다
+InfoError.csv,en,"Oops, there are no rooms available. Please try again later.","이런, 참가할 수 있는 방이 없습니다. 나중에 다시 시도해주세요."
+InfoError.csv,en,The room is full. Cannot add AI players.,방이 가득 차 있습니다. AI 플레이어를 추가할 수 없습니다.
+InfoError.csv,en,Room mode error. Try restarting the game.,방 모드 오류. 게임을 다시 시작해주세요.
+InfoError.csv,en,The previous match has ended.,이전 게임이 종료되었습니다.
+InfoError.csv,en,This game does not exist.,게임이 존재하지 않습니다.
+InfoError.csv,en,"Oops, you don’t seem to satisfy the entry criteria.","이런, 참가 기준을 만족하지 못하는 것 같습니다."
+InfoError.csv,en,Game has already ended.,게임이 이미 종료되었습니다.
+InfoError.csv,en,Cannot manually end the game.,게임을 수동으로 종료할 수 없습니다.
+InfoError.csv,en,Failed to open match. Please try again later.,게임을 시작할 수 없습니다. 나중에 다시 시도해주세요.
+InfoError.csv,en,Game paused.,게임이 일시정지 되었습니다.
+InfoError.csv,en,Game in progress (1210),게임이 진행중입니다 (1210)
+InfoError.csv,en,The game has been paused for too long.,게임이 너무 오래 일시정지 되었습니다.
+InfoError.csv,en,You're already in matchmaking.,이미 게임을 찾는 중입니다.
+InfoError.csv,en,"Oops, a strange error happened. Please close the pop up window.","이런, 이상한(strange) 오류가 발생했습니다. 팝업 창을 닫아주세요."
+InfoError.csv,en,A strange error happened. Please try a different way.,이상한(strange) 오류가 발생했습니다. 다른 방식으로 다시 시도해주세요.
+InfoError.csv,en,You don’t have enough Coins to enter this room. You can claim Revival Tokens in “Event” once per day.,이 방에 입장하기 위한 동전이 충분하지 않습니다. “이벤트”에서 부활 토큰을 하루에 한 번 받을 수 있습니다.
+InfoError.csv,en,Unable to enter this room with your current rank. Please try another room.,현재 등급으로는 방에 입장할 수 없습니다. 다른 방으로 시도하십시오.
+InfoError.csv,en,This room is under renovation. Please visit somewhere else.,이 방은 보수 공사(renovation) 중입니다. 다른 곳을 방문하십시오.
+InfoError.csv,en,"Invalid login information, please try to relog your game",잘못된 로그인 정보입니다. 다시 로그인해주세요.
+InfoError.csv,en,You are not friends yet.,아직 친구가 아닙니다.
+InfoError.csv,en,You are already friends.,이미 친구입니다.
+InfoError.csv,en,A strange problem happened while searching. Please try a different way.,검색하는 동안 이상한(strange) 문제가 발생했습니다. 다른 방식으로 다시 시도해주세요.
+InfoError.csv,en,We can’t seem to process your query. Please try a different one.,요청을 처리할 수 없습니다. 다른 방식으로 다시 시도해주세요.
+InfoError.csv,en,A strange problem happened during the application. Please try a different way.,애플리케이션에서 이상한(strange) 문제가 발생했습니다. 다른 방식으로 다시 시도해주세요.
+InfoError.csv,en,This player’s application list is full. Unable to send invitation.,이 플레이어의 애플리케이션 목록이 가득 찼습니다. 초대를 보낼 수 없습니다.
+InfoError.csv,en,You cannot have any more friends.,더 이상 친구를 추가할 수 없습니다.
+InfoError.csv,en,You cannot add yourself as a friend.,자신을 친구로 추가할 수 없습니다.
+InfoError.csv,en,This player cannot have any more friends.,이 플레이어는 더 이상 친구를 추가할 수 없습니다.
+InfoError.csv,en,You don’t have this item.,이 아이템을 가지고 있지 않습니다.
+InfoError.csv,en,Insufficient items.,아이템이 부족합니다.
+InfoError.csv,en,This item cannot be used.,이 아이템은 사용할 수 없습니다.
+InfoError.csv,en,This item cannot be created.,이 아이템은 만들 수 없습니다.
+InfoError.csv,en,Unable to find this daily quest.,이 일일 퀘스트를 찾을 수 없습니다.
+InfoError.csv,en,The refresh attempts will reset at 5 A.M. tomorrow morning.,새로고침 횟수는 내일 오전 5시에 초기화됩니다.
+InfoError.csv,en,Mailbox is empty.,우편함이 비어있습니다.
+InfoError.csv,en,This mail does not have any attachments.,이 편지는 첨부(attachment)가 없습니다.
+InfoError.csv,en,You have already claimed the attachment.,이미 첨부(attachment)를 받았습니다.
+InfoError.csv,en,Please claim your uncollected reward first,먼저 획득하지 않은 보상을 받아주세요.
+InfoError.csv,en,Live cast not found. Please try again.,라이브 캐스트를 찾을 수 없습니다. 다시 시도해주세요.
+InfoError.csv,en,You can`t view other region`s match.,다른 지역의 게임은 볼 수 없습니다.
+InfoError.csv,en,Recharge feature is temporarily unavailable.,충전(recharge) 기능을 일시적으로 사용할 수 없습니다.
+InfoError.csv,en,Order not found.,주문을 찾을 수 없습니다.
+InfoError.csv,en,Order has been processed.,주문이 처리되었습니다.
+InfoError.csv,en,Payment platform error.,결제 플랫폼 오류.
+InfoError.csv,en,Unable to find item ID.,아이템 ID를 찾을 수 없습니다.
+InfoError.csv,en,Google platform validation error. Please contact customer support.,구글 플랫폼 유효성 검사 오류. 고객 지원부에 문의해주세요.
+InfoError.csv,en,WeChat Pay cannot be used at the moment.,현재 WeChat Pay를 사용할 수 없습니다.
+InfoError.csv,en,Payment expired. Please purchase again.,결제가 만료되었습니다. 다시 구매해주세요.
+InfoError.csv,en,Alipay cannot be used at the moment.,현재 Alipay를 사용할 수 없습니다.
+InfoError.csv,en,This payment method is currently unavailable.,이 결제 방법은 현재 사용할 수 없습니다.
+InfoError.csv,en,"Failed to create the purchase order, please try again later(JP)","구매 주문을 생성할 수 없으므로, 나중에 다시 시도해주세요(JP)"
+InfoError.csv,en,"In-game recharge is temporarily unavailable, sorry(JP)","게임 내 충전(recharge) 기능을 일시적으로 사용할 수 없습니다, 죄송합니다(JP)"
+InfoError.csv,en,"Failed to create the purchase order, please try again later(YoStar)","구매 주문을 생성할 수 없으므로, 나중에 다시 시도해주세요(YoStar)"
+InfoError.csv,en,"Failed to create the purchase order, please try again later(EN)","구매 주문을 생성할 수 없으므로, 나중에 다시 시도해주세요(EN)"
+InfoError.csv,en,"In-game recharge is temporarily unavailable, sorry(EN)","게임 내 충전(recharge) 기능을 일시적으로 사용할 수 없습니다, 죄송합니다(EN)"
+InfoError.csv,en,You have already claimed Revival Tokens today.,오늘은 이미 부활 토큰을 받았습니다.
+InfoError.csv,en,You still have lots of Coins and don’t need Revival Tokens.,이미 동전이 많아 부활 토큰이 필요하지 않습니다.
+InfoError.csv,en,You don’t have this title yet.,아직 이 타이틀을 가지고 있지 않습니다.
+InfoError.csv,en,This player only allows friends to leave messages.,이 플레이어에게는 친구만 메시지를 전송할 수 있습니다.
+InfoError.csv,en,The player does not allow anyone to leave a message.,이 플레이어는 메시지 수신을 허용하지 않았습니다.
+InfoError.csv,en,You cannot leave yourself a message.,자신에게 메시지를 남길 수 없습니다.
+InfoError.csv,en,You cannot send message while in a match.,게임 중에는 메시지를 전송할 수 없습니다.
+InfoError.csv,en,You cannot delete messages from other people.,다른 사람의 메시지를 삭제할 수 없습니다.
+InfoError.csv,en,You are sending messages too frequently. Please wait for 8 seconds before sending again.,메시지를 너무 자주 보내고 있습니다. 다시 전송하기 전에 8초 동안 기다려주세요.
+InfoError.csv,en,Unable to find this chest.,이 상자를 찾을 수 없습니다.
+InfoError.csv,en,Incorrect summon attempts.,잘못된 기원 시도입니다.
+InfoError.csv,en,Game logs you saved have reached the limit,저장한 게임 로그가 한계에 도달했습니다
+InfoError.csv,en,Daily reward was already collected or Fortune Charm wasn't purchased yet,일일 보상을 이미 획득했거나 행운의 부적을 아직 구매하지 않았습니다
+InfoError.csv,en,Fortune Charm maximum duration exseeded,행운의 부적 최대 기간 초과
+InfoError.csv,en,The number of purchases has reached the ceiling and cannot be re-purchased,구매 횟수가 상한선에 도달하여 더 이상 구매할 수 없습니다.
+InfoError.csv,en,This item cannot be sent as a gift. Keep it to yourself.,이 아이템은 선물할 수 없습니다. 스스로 간직하세요.
+InfoError.csv,en,Cannot send any more gifts today.,오늘은 더 이상 선물을 보낼 수 없습니다.
+InfoError.csv,en,Maximum Bond reached.,최대 인연에 도달했습니다.
+InfoError.csv,en,The Bond between you and this character is not deep enough.,캐릭터와의 인연이 충분히 깊지 않습니다.
+InfoError.csv,en,You cannot have a bonding promise with this character yet.,이 캐릭터와는 아직 인연을 가질 수 없습니다.
+InfoError.csv,en,Emoji locked. Unable to be used.,이모티콘이 잠겨있습니다. 사용할 수 없습니다.
+InfoError.csv,en,The God doesn’t like this item.,신(The God)께서는 이 아이템을 좋아하지 않으십니다.
+InfoError.csv,en,Item not found.,아이템을 찾을 수 없습니다.
+InfoError.csv,en,Item sold out.,매진된 아이템입니다.
+InfoError.csv,en,Attempt to buy items that have not appeared in Misc Shop.,잡화 상점에 표시되지 않은 아이템을 구입하려고 시도했습니다.
+InfoError.csv,en,No more refresh chances today.,오늘은 더 이상 새로고침할 수 없습니다.
+InfoError.csv,en,Item infor not received,아이템 정보를 받지 못했습니다
+InfoError.csv,en,"Item price has changed, please refresh the page and purchase again","아이템 가격이 변경되었습니다, 페이지를 새로고침하고 다시 구매해주세요"
+InfoError.csv,en,Item can only be purchased once,아이템은 한 번만 구매할 수 있습니다
+InfoError.csv,en,Item was not Offering period expired,아이템 기간이 만료되지 않았습니다
+InfoError.csv,en,Cannot find this tournament. Refresh the page and try again.,이 대회를 찾을 수 없습니다. 페이지를 새로고침하고 다시 시도해주세요.
+InfoError.csv,en,Maximum number of tournaments reached.,최대 대회 수에 도달햇습니다.
+InfoError.csv,en,Tournament ID generation error. Please try again later.,대회 ID 생성 오류. 나중에 다시 시도해주세요.
+InfoError.csv,en,Repeated login. Please try to refresh the page.,반복 로그인. 페이지를 새로고침해주세요.
+InfoError.csv,en,Not logged in. Please login.,로그인되지 않음. 로그인해주세요.
+InfoError.csv,en,You do not have the permission to do this.,이 동작을 수행할 권한이 없습니다.
+InfoError.csv,en,Tournament has not started yet.,대회가 아직 시작되지 않았습니다.
+InfoError.csv,en,Tournament has already ended.,대회가 이미 종료되었습니다.
+InfoError.csv,en,This player is not in the waiting list. Please try to refresh the page.,이 플레이어는 대기 목록에 없습니다. 페이지를 새로고침해주세요.
+InfoError.csv,en,Other admin is working on this player.,다른 관리자는 이 플레이어에서 작업하고 있습니다.
+InfoError.csv,en,You cannot participate in this tournament due to the name list restriction. Please contact a tournament admin.,이름 목록 제한으로 인해 이 대회에 참여할 수 없습니다. 대회 관리자에게 문의해주세요.
+InfoError.csv,en,You cannot send chat messages due to tournament room restrictions.,대회 방 제한으로 인해 채팅 메시지를 보낼 수 없습니다.
+InfoError.csv,en,Only the tournament creator can perform this action.,대회 개최자만 이 작업을 수행할 수 있습니다.
+InfoError.csv,en,You can only assign up to 20 admins.,관리자는 최대 20명까지만 할당할 수 있습니다.
+InfoError.csv,en,Each account can only create up to 1 tournament every 7 days.,각 계정은 7일마다 최대 1개의 대회를 개최할 수 있습니다.
+InfoError.csv,en,Your account does not have the permission to create a tournament.,당신의 계정은 대회를 개최할 권한이 없습니다.
+InfoError.csv,en,Tournament parameter configuration error.,대회 매개변수 구성 오류.
+InfoError.csv,en,You cannot participate in this tournament because you have not reached the required rank. Please consult the tournament organizer for more details.,요구 등급에 도달하지 못해 이 대회에 참여할 수 없습니다. 자세한 내용은 대회 관리자에게 문의하세요.
+InfoError.csv,en,You have played too many matches and cannot continue to take part in this tournament. Please consult the tournament organizer for more details.,너무 많은 게임을 진행하여 이 대회에 더 이상 참여할 수 없습니다. 세한 내용은 대회 관리자에게 문의하세요.
+InfoError.csv,en,This player is in matchmaking.,이 플레이어는 게임을 찾는 중입니다.
+InfoError.csv,en,"Due to the server entry limit, you cannot participate in this tournament.",서버 입장 제한으로 인해 이 대회에 참여할 수 없습니다.
+InfoError.csv,en,Event does not exist. Please try to refresh the page.,이벤트가 존재하지 않습니다. 페이지를 새로고침해주세요.
+InfoError.csv,en,This event has already ended.,이 이벤트는 이미 종료되었습니다.
+InfoError.csv,en,You have claimed all available rewards.,획득 가능한 모든 보상을 받았습니다.
+InfoError.csv,en,Quest has not been accepted.,퀘스트가 수락되지 않았습니다.
+InfoError.csv,en,Quest incomplete.,퀘스트가 완료되지 않았습니다.
+InfoError.csv,en,Upper limit of collection,수집 상한
+InfoError.csv,en,Unable to claim the rewards right now,지금 보상을 받을 수 없습니다.
+InfoError.csv,en,The rewards has already been claimed,보상을 이미 받았습니다.
+InfoError.csv,en,Not enough attempts,더 이상 시도할 수 없습니다.
+InfoError.csv,en,Invalid block,잘못된 칸(block)
+InfoError.csv,en,Unable to claim rewards from this block,이 칸에서 보상을 받을 수 없습니다
+InfoError.csv,en,You have already checked in,이미 체크인했습니다
+InfoError.csv,en,Mahjong Soul Shrine has received your response. Thank you for your contribution in making a better gaming environment!,혼천 신사에서 당신의 응답(response)을 받았습니다. 더 나은 게임 환경을 만드는 데 기여해주셔서 감사합니다!
+VipVip.csv,name_en,No,없음
+VipVip.csv,desc_en,Daily Gift Attempts: 2 \\n Max No. of Friends +0 \\n Misc Shop Refresh Attempts: 5 \\n Misc Shop Free Refresh: 0 \\n Bond Bonus from Matches +0%\\n Log Collection Limit: 20,일일 선물 상한: 2 \\n 친구 수 상한 +0 \\n 잡화 상점 일일 새로고침 횟수: 5 \\n 잡화 상점 무료 새로고침 횟수: 0 \\n 단위전 인연 보너스 +0%\\n 로그 컬렉션 갯수: 20
+VipVip.csv,name_en,Soul Contractor - Beginner,혼의 계약자 - 초급
+VipVip.csv,desc_en,Daily Gift Attempts: 4 \\n Max No. of Friends +0 \\n Misc Shop Refresh Attempts: 6 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +50%\\n Log Collection Limit: 25,일일 선물 상한: 4 \\n 친구 수 상한 +0 \\n 잡화 상점 일일 새로고침 횟수: 6 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +50%\\n 로그 컬렉션 갯수: 25
+VipVip.csv,name_en,Soul Contractor - Intermediate,혼의 계약자 - 중급
+VipVip.csv,desc_en,Daily Gift Attempts: 6 \\nMax No. of Friends +10\\n Misc Shop Refresh Attempts: 7 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +75%\\n Log Collection Limit: 30,일일 선물 상한: 6 \\n친구 수 상한 +10\\n 잡화 상점 일일 새로고침 횟수: 7 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +75%\\n 로그 컬렉션 갯수: 30
+VipVip.csv,name_en,Soul Contractor - Senior,혼의 계약자 - 상급
+VipVip.csv,desc_en,Daily Gift Attempts: 8 \\n Max No. of Friends +20 \\n Misc Shop Refresh Attempts: 8 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +100%\\n Log Collection Limit: 35,일일 선물 상한: 8 \\n 친구 수 상한 +20 \\n 잡화 상점 일일 새로고침 횟수: 8 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +100%\\n 로그 컬렉션 갯수: 35
+VipVip.csv,name_en,Soul Enlightener - Beginner,혼의 계몽자 - 초급
+VipVip.csv,desc_en,Daily Gift Attempts: 10 \\n Max No. of Friends +30 \\n Misc Shop Refresh Attempts: 9 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +120%\\n Log Collection Limit: 40,일일 선물 상한: 10 \\n 친구 수 상한 +30 \\n 잡화 상점 일일 새로고침 횟수: 9 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +120%\\n 로그 컬렉션 갯수: 40
+VipVip.csv,name_en,Soul Enlightener - Intermediate,혼의 계몽자 - 중급
+VipVip.csv,desc_en,Daily Gift Attempts: 12 \\n Max No. of Friends +40 \\n Misc Shop Refresh Attempts: 10 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +140%\\n Log Collection Limit: 45,일일 선물 상한: 12 \\n 친구 수 상한 +40 \\n 잡화 상점 일일 새로고침 횟수: 10 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +140%\\n 로그 컬렉션 갯수: 45
+VipVip.csv,name_en,Soul Enlightener - Senior,혼의 계몽자 - 상급
+VipVip.csv,desc_en,Daily Gift Attempts: 14 \\n Max No. of Friends +50 \\n Misc Shop Refresh Attempts: 11 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +160%\\n Log Collection Limit: 50,일일 선물 상한: 14 \\n 친구 수 상한 +50 \\n 잡화 상점 일일 새로고침 횟수: 11 \\n 잡화 상점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +160%\\n 로그 컬렉션 갯수: 50
+VipVip.csv,name_en,Soul Creator - Beginner,혼의 창조자 - 초급
+VipVip.csv,desc_en,Daily Gift Attempts: 16 \\n Max No. of Friends +60 \\n Misc Shop Refresh Attempts: 12 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 55,일일 선물 상한: 16 \\n 친구 수 상한 +60 \\n 잡화 상점 일일 새로고침 횟수: 12 \\n 잡화 상점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 55
+VipVip.csv,name_en,Soul Creator - Intermediate,혼의 창조자 - 중급
+VipVip.csv,desc_en,Daily Gift Attempts: 18 \\n Max No. of Friends +70 \\n Misc Shop Refresh Attempts: 13 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 60,일일 선물 상한: 18 \\n 친구 수 상한 +70 \\n 잡화 상점 일일 새로고침 횟수: 13 \\n 잡화 상점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 60
+VipVip.csv,name_en,Soul Creator - Senior,혼의 창조자 - 상급
+VipVip.csv,desc_en,Daily Gift Attempts: 20 \\n Max No. of Friends +80 \\n Misc Shop Refresh Attempts: 14 \\n Misc Shop Free Refresh: 3 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 65,일일 선물 상한: 20 \\n 친구 수 상한 +80 \\n 잡화 상점 일일 새로고침 횟수: 14 \\n 잡화 상점 무료 새로고침 횟수: 3 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 65
+VipVip.csv,name_en,Soul Excelsior,혼의 초월자
+VipVip.csv,desc_en,Daily Gift Attempts: 22 \\n Max No. of Friends +90 \\n Misc Shop Refresh Attempts: 15 \\n Misc Shop Free Refresh: 4 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 70,일일 선물 상한: 22 \\n 친구 수 상한 +90 \\n 잡화 상점 일일 새로고침 횟수: 15 \\n 잡화 상점 무료 새로고침 횟수: 4 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 70
+VipVip.csv,name_en,Cat Food Supplier,캣푸드 상인
+VipVip.csv,desc_en,Daily Gift Attempts: 25 \\n Max No. of Friends +100 \\n Misc Shop Refresh Attempts: 20 \\n Misc Shop Free Refresh: 5 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 75,일일 선물 상한: 25 \\n 친구 수 상한 +100 \\n 잡화 상점 일일 새로고침 횟수: 20 \\n 잡화 상점 무료 새로고침 횟수: 5 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 75
+VipVip.csv,name_en,Royal Cat Guard,고양이 왕국의 수호자
+VipVip.csv,desc_en,Daily Gift Attempts: 30 \\n Max No. of Friends +110 \\n Misc Shop Refresh Attempts: 25 \\n Misc Shop Free Refresh: 7 \\n Bond Bonus from Matches +250%\\n Log Collection Limit: 80,일일 선물 상한: 30 \\n 친구 수 상한 +110 \\n 잡화 상점 일일 새로고침 횟수: 25 \\n 잡화 상점 무료 새로고침 횟수: 7 \\n 단위전 인연 보너스 +250%\\n 로그 컬렉션 갯수: 80
+ItemDefinitionCurrency.csv,name_en,Jade,휘옥
+ItemDefinitionCurrency.csv,desc_en,Can be used to buy props.,소품(props)을 구입하는데 사용할 수 있습니다.
+ItemDefinitionCurrency.csv,name_en,Copper,동전
+ItemDefinitionCurrency.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천 신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
+ItemDefinitionCurrency.csv,name_en,Outfit Voucher,의상 교환권
+ItemDefinitionCurrency.csv,desc_en,A currency used to purchase outfits,의상을 구입하는데 사용되는 화폐입니다.
+DesktopChest.csv,name_en,Silver Chest,은 상자
+DesktopChest.csv,name_en,Gold Chest,금 상자
+DesktopChest.csv,name_en,Jade Chest,비취 상자
+DesktopChest.csv,name_en,King’s Chest,왕의 상자
+DesktopChest.csv,name_en,Casual Chest,캐주얼 상자
+ExchangeSearchexchange.csv,name_en,200 Summon Stones,200 기원의 소옥
+ExchangeSearchexchange.csv,desc_en,Collect a specific amount to summon.,기원하기 위해 특정량을 모으세요.
+ExchangeSearchexchange.csv,name_en,"1,800 Summon Stones","1,800 기원의 소옥"
+ExchangeExchange.csv,name_en,"5,000 Coppers","5,000 동전"
+ExchangeExchange.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천 신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
+ExchangeExchange.csv,name_en,"30,000 Coppers","30,000 동전"
+ExchangeExchange.csv,name_en,"60,000 Coppers","60,000 동전"
+ExchangeExchange.csv,name_en,"300,000 Coppers","300,000 동전"
+ExchangeExchange.csv,name_en,"500,000 Coppers","500,000 동전"
+ExchangeExchange.csv,name_en,"1,000,000 Coppers","1,000,000 동전"
+GameLiveSelectFilters.csv,name1_en,Friends Room,친선전
+GameLiveSelectFilters.csv,name2_en,4-Player East,4인 동풍전
+GameLiveSelectFilters.csv,name2_en,4-Player South,4인 반장전
+GameLiveSelectFilters.csv,name1_en,Bronze Room,동탁
+GameLiveSelectFilters.csv,name2_en,Best of One Game,최고의 한게임
+GameLiveSelectFilters.csv,name1_en,Silver Room,은탁
+GameLiveSelectFilters.csv,name1_en,Gold Room,금탁
+GameLiveSelectFilters.csv,name1_en,Jade Room,옥탁
+GameLiveSelectFilters.csv,name1_en,Melee Room,Melee Room
+GameLiveSelectFilters.csv,name1_en,Throne Room,왕좌탁
+GameLiveSelectFilters.csv,name2_en,3-Player East,3인 동풍전
+GameLiveSelectFilters.csv,name2_en,3-Player South,3인 반장전
+LevelDefinitionLevelDefinition.csv,name_en,Novice,초심
+LevelDefinitionLevelDefinition.csv,full_name_en,Novice I,초심 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Novice II,초심 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Novice III,초심 III
+LevelDefinitionLevelDefinition.csv,name_en,Intermediate,작사
+LevelDefinitionLevelDefinition.csv,full_name_en,Adept I,작사 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Adept II,작사 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Adept III,작사 III
+LevelDefinitionLevelDefinition.csv,name_en,Expert,작걸
+LevelDefinitionLevelDefinition.csv,full_name_en,Expert I,작걸 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Expert II,작걸 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Expert III,작걸 III
+LevelDefinitionLevelDefinition.csv,name_en,Master,작호
+LevelDefinitionLevelDefinition.csv,full_name_en,Master I,작호 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Master II,작호 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Master III,작호 III
+LevelDefinitionLevelDefinition.csv,name_en,Saint,작성
+LevelDefinitionLevelDefinition.csv,full_name_en,Saint I,작성 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Saint II,작성 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Saint III,작성 III
+LevelDefinitionLevelDefinition.csv,name_en,Celestial,혼천
+LevelDefinitionLevelDefinition.csv,full_name_en,Celestial,혼천
+FanFan.csv,name_en,Fully Concealed Hand,멘젠쯔모
+FanFan.csv,name_en,Riichi,리치
+FanFan.csv,name_en,Robbing a Kan,창깡
+FanFan.csv,name_en,After a Kan,영상개화
+FanFan.csv,name_en,Under the Sea,해저로월
+FanFan.csv,name_en,Under the River,하저로어
+FanFan.csv,name_en,White Dragon,역패: 백
+FanFan.csv,name_en,Green Dragon,역패: 발
+FanFan.csv,name_en,Red Dragon,역패: 중
+FanFan.csv,name_en,Seat Wind,자풍패
+FanFan.csv,name_en,Prevalent Wind,장풍패
+FanFan.csv,name_en,All Simples,탕야오
+FanFan.csv,name_en,Pure Double Sequence,이페코
+FanFan.csv,name_en,Pinfu,핑후
+FanFan.csv,name_en,Half Outside Hand,찬타
+FanFan.csv,name_en,Pure Straight,일기통관
+FanFan.csv,name_en,Mixed Triple Sequence,삼색동순
+FanFan.csv,name_en,Double Riichi,더블리치
+FanFan.csv,name_en,Triple Triplets,삼색동각
+FanFan.csv,name_en,Three Quads,산깡즈
+FanFan.csv,name_en,All Triplets,또이또이
+FanFan.csv,name_en,Three Concealed Triplets,산안커
+FanFan.csv,name_en,Little Three Dragons,소삼원
+FanFan.csv,name_en,All Terminals and Honors,혼노두
+FanFan.csv,name_en,Seven Pairs,치또이츠
+FanFan.csv,name_en,Fully Outside Hand,준찬타
+FanFan.csv,name_en,Half Flush,혼일색
+FanFan.csv,name_en,Twice Pure Double Sequence,량페코
+FanFan.csv,name_en,Full Flush,청일색
+FanFan.csv,name_en,Ippatsu,일발
+FanFan.csv,name_en,Dora,도라
+FanFan.csv,name_en,Red Five,적도라
+FanFan.csv,name_en,Ura Dora,뒷도라
+FanFan.csv,name_en,Kita,북도라
+FanFan.csv,name_en,Blessing of Heaven,천화
+FanFan.csv,name_en,Blessing of Earth,지화
+FanFan.csv,name_en,Big Three Dragons,대삼원
+FanFan.csv,name_en,Four Concealed Triplets,스안커
+FanFan.csv,name_en,All Honors,자일색
+FanFan.csv,name_en,All Green,녹일색
+FanFan.csv,name_en,All Terminals,청노두
+FanFan.csv,name_en,Thirteen Orphans,국사무쌍
+FanFan.csv,name_en,Four Little Winds,소사희
+FanFan.csv,name_en,Four Quads,스깡즈
+FanFan.csv,name_en,Nine Gates,구련보등
+FanFan.csv,name_en,Eight-time East Staying,팔연장
+FanFan.csv,name_en,True Nine Gates,순정구련보등
+FanFan.csv,name_en,Single-wait Four Concealed Triplets,스안커 단기
+FanFan.csv,name_en,Thirteen-wait Thirteen Orphans,국사무쌍 13면대기
+FanFan.csv,name_en,Four Big Winds,대사희
+FanFan.csv,name_en,Tsubame-gaeshi,츠바메가에시
+FanFan.csv,name_en,Kanburi,영상개론
+FanFan.csv,name_en,Shiiaruraotai,십이낙태
+FanFan.csv,name_en,Uumensai,오문제
+FanFan.csv,name_en,Three Chained Triplets,삼련각
+FanFan.csv,name_en,Pure Triple Chow,일색삼순
+FanFan.csv,name_en,Iipinmoyue,일통모월
+FanFan.csv,name_en,Chuupinraoyui,구통로어
+FanFan.csv,name_en,Hand of Man,인화
+FanFan.csv,name_en,Big Wheels,대차륜
+FanFan.csv,name_en,Bamboo Forest,대죽림
+FanFan.csv,name_en,Numerous Neighbours,대수린
+FanFan.csv,name_en,Ishinouenimosannen,돌 위에서 삼년
+FanFan.csv,name_en,Big Seven Stars,대칠성
+ChestChest.csv,name_en,Summon,기원
+ChestChest.csv,desc_en,"For each summon: you can get 1 Faith, with a chance to draw an all-new character and decorations. \\n\\n Character drop rates: 5% \\n Decoration drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate character, will be converted into Wishing Stones. \\n Duplicate decorations will be converted into Star Stones.","기원할 때 마다 1개의 신앙을 획득하며, 새로운 캐릭터와 장식을 얻을 기회가 주어집니다. \\n\\n 캐릭터 획득 확률: 5% \\n 장식 획득 확률: 15% \\n 선물 획득 확률: 80% \\n\\n 중복된 캐릭터는 기도의 소옥으로 전환됩니다. \\n 중복된 장식은 별의 소옥으로 전환됩니다."
+ItemDefinitionCharacter.csv,name_en,Ichihime,이치히메
+ItemDefinitionCharacter.csv,desc_stature_en,154 cm,154 cm
+ItemDefinitionCharacter.csv,desc_birth_en,11th January,1월 11일
+ItemDefinitionCharacter.csv,desc_age_en,Unknown,불명
+ItemDefinitionCharacter.csv,desc_cv_en,Maaya Uchida,우치다 마아야
+ItemDefinitionCharacter.csv,desc_hobby_en,"Food, sleep","먹는 것, 자는 것"
+ItemDefinitionCharacter.csv,desc_en,"One of the first characters to appear in the Mahjong Soul Temple. She is the current priestess of the temple who claims to be human, despite her cat ears. To Ichiihime, nothing is more important than eating and napping.",혼천 신사에 나타난 최초의 작사 중 한 명으로 혼천 신사의 현역 무녀. 고양이귀를 달고 있으며 자신이 인간이라 강력히 주장한다. 그녀에겐 밥과 잠이 무엇보다 중요하다.
+ItemDefinitionCharacter.csv,name_en,Miki Nikaidou,니카이도 미키
+ItemDefinitionCharacter.csv,desc_stature_en,168 cm,168 cm
+ItemDefinitionCharacter.csv,desc_birth_en,14th February,2월 14일
+ItemDefinitionCharacter.csv,desc_age_en,24,24
+ItemDefinitionCharacter.csv,desc_cv_en,Chiwa Saitou,사이토 치와
+ItemDefinitionCharacter.csv,desc_hobby_en,"Gems, hedgehog pet","보석, 고슴도치 기르기"
+ItemDefinitionCharacter.csv,desc_en,"A mysterious female Mahjong player. She is intelligent with a flirtatious nature. Therefore, people often find her to be unpredictable. She owns a pet hedgehog and gorgeous gems are her favorite.","미스테리한 여성 작사. 총명하고 지적이지만, 묘하게 남을 놀리 듯 행동해 진심이 드러나지 않는다. 애완동물로 고슴도치 한마리를 키우고 있으며, 보석이라하면 사족을 못쓴다."
+ItemDefinitionCharacter.csv,name_en,Kana Fujita,후지타 카나
+ItemDefinitionCharacter.csv,desc_stature_en,159 cm,159 cm
+ItemDefinitionCharacter.csv,desc_birth_en,27th April,4월 27일
+ItemDefinitionCharacter.csv,desc_age_en,17,17
+ItemDefinitionCharacter.csv,desc_hobby_en,Gaming,게임
+ItemDefinitionCharacter.csv,desc_en,"Before Kana became an idol, she was just an ordinary high school girl with cute looks. A talent scout discovered her by chance when she was playing arcade games in Akihabara. As a gameholic, Kana learned to play Mahjong under the influence of her senior, Nadeshiko. “Nadeshiko outplays me in all other games, but I will never lose in a game of luck such as Mahjong!” Kana's not wrong, she has great luck indeed.","평범한 여고생이지만, 귀여운 외모 덕에 오락실에 스카웃되어 아이돌로 일하고 있다. 게임 오타쿠인 그녀가 마작을 시작하게 된 계기는 선배 나데시코 때문. ""선배는 어떤 게임이든 나보다 잘하지만, 운이 좌우하는 마작이라면 나도 지지 않는다구요!""라고 말하는 그녀에겐 언제나 행운이 함께 한다."
+ItemDefinitionCharacter.csv,name_en,Chiori Mikami,미카미 치오리
+ItemDefinitionCharacter.csv,desc_stature_en,143 cm,143 cm
+ItemDefinitionCharacter.csv,desc_birth_en,23rd May,5월 23일
+ItemDefinitionCharacter.csv,desc_age_en,14,14
+ItemDefinitionCharacter.csv,desc_cv_en,Yuka Iguchi,이구치 유카
+ItemDefinitionCharacter.csv,desc_hobby_en,Teddy bear,곰
+ItemDefinitionCharacter.csv,desc_en,"Chiori was born to a rich family in Tokyo. Her father is a university professor and her mother is a surgeon. They are often traveling for work and leave a maid to take care of Chiori most of the time. One year, she received a teddy bear bag from her parents as her birthday present, and she keeps it with her all the time. She learned about mahjong from a TV show and fell in love with the game. ""Mahjong is so fun! I can have so much from other people's suffering.""","유복한 가정에서 태어난 아가씨. 아버지는 대학 교수, 어머니는 외과 의사라 자주 부재중이기에, 항상 가정부가 그녀를 돌봐주고 있다. 생일선물로 부모님에게 받은 곰돌이 가방을 언제나 손에 쥐고 다니는 그녀는 우연히 홈쇼핑으로 마작을 알게 되어 푹 빠지게 되었다. ""다른 사람의 고통을 지배하는 즐거움이 있으니, 마작은 참 즐겁지."""
+ItemDefinitionCharacter.csv,name_en,Mai Aihara,아이하라 마이
+ItemDefinitionCharacter.csv,desc_stature_en,165 cm,165 cm
+ItemDefinitionCharacter.csv,desc_birth_en,26th June,6월 26일
+ItemDefinitionCharacter.csv,desc_age_en,18,18
+ItemDefinitionCharacter.csv,desc_hobby_en,Reading,독서
+ItemDefinitionCharacter.csv,desc_en,"Mai works as a priestess in the Temple of Moons. Despite having to greet people often in her line of work, she is incredibly shy. Visitors often complain about her voice being hard to hear. She is a quiet girl that loves books, but never talks about what she is reading. Occasionally, some will notice the title of one of her books ' ""Garden Files."" ""Oh, mahjong? ... I'm actually not that good at it. I only play it with the elderlies that live nearby...""","천월 신사의 무녀. 신사에서 일하기에 타인과의 만남이 잦지만, 의외로 대인기피증이 있어 ""목소리가 너무 작다""는 말을 자주 듣는다. 사적인 공간에선 조용한 문학소녀로 읽고 있는 책에 대해서 한마디도 남겨주지 않는다. 인형의 증언에 따르면 ""화원 파일""이란 책이 있다 한다. ""네…? 마작 말인가요…? 이웃 노인 분들과 함께 치는 정도라, 그렇게 잘하진…"""
+ItemDefinitionCharacter.csv,name_en,Nadeshiko,나데시코
+ItemDefinitionCharacter.csv,desc_stature_en,175 cm,175 cm
+ItemDefinitionCharacter.csv,desc_birth_en,14th August,8월 14일
+ItemDefinitionCharacter.csv,desc_age_en,28,28
+ItemDefinitionCharacter.csv,desc_hobby_en,"Beer, traveling","맥주, 여행"
+ItemDefinitionCharacter.csv,desc_en,"Nadeshiko lost her mother when she was young, and so she was raised by her father who is a mechanic. She has a natural love for motorbikes, beer, and traveling. Her height often gives others the impression that she is cold and distant, but she is actually very easy to get along with. Nadeshiko is a talented Mahjong player; she learned most of games, including Mahjong, without any guidance.","어린 나이에 어머니를 잃고 정비사인 아버지 손에 자란 그녀는 자연스럽게 맥주, 오토바이를 사랑하게 되었다. 큰 키 덕분에 고상하고 쿨한 사람이라 많이들 생각하지만 사실은 무척이나 명랑하다. 한가할 때는 종종 장거리 여행을 다니곤 한다. 마작을 포함해 모든 게임에 천재적이다."
+ItemDefinitionCharacter.csv,name_en,Yui Yagi,야기 유이
+ItemDefinitionCharacter.csv,desc_stature_en,162 cm,162 cm
+ItemDefinitionCharacter.csv,desc_birth_en,7th September,9월 7일
+ItemDefinitionCharacter.csv,desc_age_en,19,19
+ItemDefinitionCharacter.csv,desc_cv_en,Ami Koshimizu,코시미즈 아미
+ItemDefinitionCharacter.csv,desc_hobby_en,"Snacks, coffee, swimming","간식, 커피, 수영"
+ItemDefinitionCharacter.csv,desc_en,"Yagi Yui is a genius with an IQ of 180, but people keep their distance from her because she cannot interpret their emotions. Still, she longs to understand others and to be understood. On a chance visit, she came to the Mahjong Soul Shrine, and she started to change. Other than coffee and snacks, being her favourite beverage and food, Yui really has a poor sense of taste.","IQ180의 천재, 하지만 다른 사람의 감정을 잘 이해하지 못하는 탓에 주변 사람들과 어울리지 못한다. 우연히 혼천 신사에 다른 사람들과 잘 어울릴 수 있도록 참배하러 왔다가, 조금씩 변하기 시작했다. 커피와 간식을 좋아하면서 동시에 절망적인 미각을 갖고 있다."
+ItemDefinitionCharacter.csv,name_en,Riu Kujou,쿠죠 리우
+ItemDefinitionCharacter.csv,desc_stature_en,161 cm,161 cm
+ItemDefinitionCharacter.csv,desc_birth_en,29th November,11월 29일
+ItemDefinitionCharacter.csv,desc_hobby_en,"Taekwondo, black tea, clothing","태권도, 홍차, 옷"
+ItemDefinitionCharacter.csv,desc_en,"Like Chiori, Riu was also born in Tokyo. Her father and Chiori’s father are good friends. Because Chiori’s parents are away from home most of the time, Riu has been living with Chiori and taking care of her like an elder sister ever since they were children. She also started playing Mahjong because of Chiori. Over time, Kujou fell in love with the game. Her hobby is to collect all kinds of beautiful dresses.","치오리의 부모가 집을 비울 때마다 친구의 딸인 리우가 어릴 때부터 치오리를 돌봐주고 있다. 때문에 치오리에게 있어서 그녀는 친언니와 같다. 치오리와 함께 마작을 시작해, 점점 마작에 빠져들고 있는 상태. 평소 패션에 무수한 관심을 보인다."
+ItemDefinitionCharacter.csv,name_en,Xenia,지니아
+ItemDefinitionCharacter.csv,desc_stature_en,158 cm,158 cm
+ItemDefinitionCharacter.csv,desc_birth_en,2nd February,2월 2일
+ItemDefinitionCharacter.csv,desc_cv_en,Mai Nakahara,나카하라 마이
+ItemDefinitionCharacter.csv,desc_hobby_en,"Gaming, camping, cooking","게임, 캠프, 요리"
+ItemDefinitionCharacter.csv,desc_en,"Being born a noble is probably not as much a blessing as most people believe. To Xenia, the world beyond the cage-like walls of her home is always strange yet full of beauty. With a rebellious nature, she is filled with resentment for the inflexibility and harshness of her family. Xenia’s greatest dream is to leave family in pursuit of her own freedom.",귀족 출신이 항상 좋은 것만은 아니다. 저택의 높은 벽을 너머 펼쳐진 신비하고 아름다운 세계를 두고 그녀는 낡고 보수적인 교육에 갇혀 동경 이상의 꿈을 꾸지 못한다. 그녀의 꿈은 집을 떠나 자신의 힘으로 세계를 찾는 것이다.
+ItemDefinitionCharacter.csv,name_en,Kaavi,카비
+ItemDefinitionCharacter.csv,desc_birth_en,12th October,10월 12일
+ItemDefinitionCharacter.csv,desc_hobby_en,"Gems, inevitable fate","보석, 변하지 않는 진실"
+ItemDefinitionCharacter.csv,desc_en,A mysterious fortune teller who deeply believes that one’s fate is inevitable and unavoidable. She opposes any effort in trying to change fate because she simply cannot stand meaningless struggles. One of her main motives in becoming a fortune teller is probably the pleasurable moment in delivering someone’s fate and the amusement of watching them react in a desperate and ugly way.,"운명은 바꿀 수 없다고 단언하는 그녀지만, 운명을 바꾸는 노력을 부정하기 보단 그저 무의미한 저항을 싫어하는 것 뿐이다. 점을 보게 된 동기는 사람들의 운명을 알려주는 순간과 그들이 절망하고 저항하는 모습을 즐기고 싶었기 때문이라고 말한다."
+ItemDefinitionCharacter.csv,name_en,Natsuki Shinomiya,시노미야 나츠키
+ItemDefinitionCharacter.csv,desc_stature_en,178cm,178cm
+ItemDefinitionCharacter.csv,desc_birth_en,24th December,12월 24일
+ItemDefinitionCharacter.csv,desc_cv_en,Jun Fukuyama,후쿠야마 쥰
+ItemDefinitionCharacter.csv,desc_hobby_en,"Mahjong, gaming, bartending","마작, 게임, 칵테일"
 ItemDefinitionCharacter.csv,desc_en,"Natsuki Shinomiya is a common college boy as well as a part-time bartender of LULLABY. Like many Otakus, Shinomiya spends all his spare time in playing video games and reading mangas, and behaves like a chunibyo in certain circumstances. Under the influence of the owner of LULLABY, Shinomiya learned and became fond of Mahjong.
-Shinomiya role-plays a rogue character named WhiteNight in an MMORPG. He cosplays his rogue from time to time, and calls himself the best coser of WhiteNight.","바 ""LULLABY""에서 바텐더 아르바이트를 하고 있는 평범한 대학생. 약간 중2병스럽고, 게임과 만화를 좋아하는 오타쿠. 바 오너의 영향으로 마작을 시작했다. 마작 실력에는 꽤 자신이 있다. 자주 하는 MMORPG에서는 ""백야(白夜)""라는 ID로 도적 캐릭터를 플레이하고 있다. 평소 자신 안에 억눌려있던 감정을 토해내기 때문인지, 게임 내의 언동은 실제라고 믿기 어려울 정도로 날뛰는 경향이 있다. 동인 이벤트 등에서는 ""백야""의 코스프레를 하고 자주 참가해, 가장 재현도가 높은 백야 코스플레이어라고 칭송받고 있다.",,
-ItemDefinitionCharacter.csv,name_en,Wanjirou,왕지로,,
-ItemDefinitionCharacter.csv,desc_stature_en,165cm,165cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,13th January,1월 13일,,
-ItemDefinitionCharacter.csv,desc_cv_en,Yuuki Ono,오노 유우키,,
-ItemDefinitionCharacter.csv,desc_en,"Together with Ichihime, Wanjirou was one of the first characters to appear at the Mahjong Soul Shrine. After refusing to be bound by the mysterious duty entrusted to him, Wanjirou left the shrine in the pursuit of freedom. Unlike Ichihime’s human appearance, Wanjirou unabashedly bears a canine face, which is probably a little punishment from Kami-sama. To Wanjirou, nothing is more common than good fortune and tasty food.","이치히메와 함께 혼천 신사에 강림한 작사 중 한 명. 문득 자신에게 주어진 사명에 얽매이고 싶지 않다는 생각이 들어, 여행을 하고 있다. 이치히메와 달리 인간의 얼굴을 가지지 못한 것은, 신이 내린 자그마한 벌일 것이다. 행운과 미식은 왕지로의 주위에서 가장 흔하게 보이는 것이라고 한다.",,
-ItemDefinitionCharacter.csv,name_en,Sora Ichinose,이치노세 소라,,
-ItemDefinitionCharacter.csv,desc_stature_en,147cm,147cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,14th March,3월 14일,,
-ItemDefinitionCharacter.csv,desc_age_en,13,13,,
-ItemDefinitionCharacter.csv,desc_cv_en,Junko Minagawa,미나가와 준코,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Reading, math, cubes","독서, 수학, 큐브",,
-ItemDefinitionCharacter.csv,desc_en,"People often say that “too smart for your own good”. Ever since he was a boy, Ichinose’s weak and frail body made him prone to sickness often. His world view is rooted in science and believes that everything can be explained through scientific methodology. Once upon random chance, Ichinose happened upon the Mahjong Soul Shrine. He thought that this was a very interesting game of probabilities, and so he decided to join in.","사람들은 그를 이렇게 평가한다. ""지나치게 똑똑한 데에는 대가가 따르는 건가…."" 어렸을 적부터 병약해서 운동을 할 기회가 거의 없었다. 그 대신, 과학에 깊이 몰두했고 지금은 모든 현상을 과학으로 설명할 수 있다고 생각한다. 우연히 혼천신사에서 마작을 보고, 재미있는 확률 게임이라고 생각하게 된 뒤로 마작을 하고 있다.",,
-ItemDefinitionCharacter.csv,name_en,Hideki Akechi,아케치 히데키,,
-ItemDefinitionCharacter.csv,desc_stature_en,177cm,177cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,9th January,1월 9일,,
-ItemDefinitionCharacter.csv,desc_age_en,20,20,,
-ItemDefinitionCharacter.csv,desc_cv_en,Shinnosuke Tachibana,타치바나 신노스케,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Horse riding, playing Go","승마, 바둑",,
-ItemDefinitionCharacter.csv,desc_en,"Hideki Akechi is the leader of his university’s mahjong club. Even though Hideki was raised through prestigious ivy league schooling, however he always shows his courteous nature and gives a warm smile to anyone he meets. Influenced by his grandmother, Hideki often likes to make local yaku even if the rule doesn’t allow for this. There seems to be a shroud of mystery to his past. Every time someone brings up relatable topics of the past, Hideki would slyly change the topic entirely.","대학 마작동아리의 부장. 어렸을 때부터 영재교육을 받은 덕분에, 항상 옅은 미소를 짓고 있고, 다른 사람에게 친절하다. 조모의 영향으로 룰이나 로컬역이 유효하지 않은 경우에도, 로컬역을 만들어버리는 습관이 있다. 다른 사람이 모르는 과거가 있는듯해, 과거와 관련된 화제가 나오면 늘 자리를 피한다.",,
-ItemDefinitionCharacter.csv,name_en,Keikumusume,케이쿠무스메,,
-ItemDefinitionCharacter.csv,desc_stature_en,159cm,159cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,9th September,9월 9일,,
-ItemDefinitionCharacter.csv,desc_cv_en,Konomi Kohara,코하라 코노미,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Light novels, teasing her younger sister","라이트 노벨, 동생에게 장난치기",,
-ItemDefinitionCharacter.csv,desc_en,"Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat. As the head of her school’s literature club, which is on the verge of being dissolved, Keikumusume is constantly leaning to her fellow club members to try saving their beloved club. \nKeikumusume’s personality changes when she takes off her witch hat. Once the hat is off, she goes from being a carefree naive girl to someone who is very dependable in nature. But such change is totally clueless to herself.\nIt seems that she has an infinite supply of witch hats at her disposal, yet where she keeps her supply remains a mystery.","어느 학교에 있는 폐부 직전의 문학부 부장. 평소에는 기묘한 마녀모자를 쓰고 라노벨을 읽으며, 부원에게 문학부를 구원받길 기다리고 있다. 모자를 씀으로써 인격을 바꿀 수 있다. 모자를 쓰지 않았을 때는 똑부러지는 성격이지만, 모자를 쓰면 덜렁이가 되며, 본인에게 자각은 없다. 모자에는 대량의 비품이 들어있을 것 같지만, 어디에 보존되는지는 미스터리.",,
-ItemDefinitionCharacter.csv,desc_item_en,Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat.,Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat.,,
-ItemDefinitionCharacter.csv,name_en,Sara,사라,,
-ItemDefinitionCharacter.csv,desc_stature_en,158cm,158cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,25th September,9월 25일,,
-ItemDefinitionCharacter.csv,desc_cv_en,M·A·O,이치미치 마오,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Skirts, dance, cats","치마, 춤추기, 고양이와 놀기",,
-ItemDefinitionCharacter.csv,desc_en,"Sara is the top dancer of the touring performing group ""Soul"". She was crowned as ""Cassiopeia on Stage"" for her passionate dance moves as well as her attractive but elegant physique. Sara got her distinctive appearance from her parents, who came from different countries and backgrounds. Her different-colored eyes can charm people; some even feel that her looks can reach deep into their souls. She's a cat lover, and her characters are also as unpredictable as one. One day, Sara stepped into Mahjong Soul Shrine by coincidence, and because of the cat hobby of hers, she soon became very fond of Ichihime.","이동곡예서커스 ""soul""의 인기무희. 대담분방하게 춤추는 모습이 요염하면서도 저속함이 느껴지지 않아, 「무대 위의 카시오페아」라는 이명을 지니고 있다. 다국적의 혼혈이라 사라는 한결 눈에 띄는 외견을 하고 있다. 특히, 그녀의 오드아이 눈동자를 바라보고 있으면, 영혼 깊은 곳까지 꿰뚫어보는 듯한 기분이 든다. 고양이처럼 성격이 제멋대로이며, 본인도 상당히 고양이 애호가이다. 과거에 혼천신사에 이끌린 적이 있으며, 자기 취향인 이치히메를 꽤 마음에 들어하고 있다.",,
-ItemDefinitionCharacter.csv,name_en,Hana Ninomiya,니노미야 하나,,
-ItemDefinitionCharacter.csv,desc_stature_en,155cm,155cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,12th July,7월 12일,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Gardening, reading","원예, 독서",,
-ItemDefinitionCharacter.csv,desc_en,"An occasional chance brought Hana Ninomiya into Mahjong. It didn’t take long for her to notice that people would take her seriously once she showed her capabilities on the Mahjong table. However, Hana probably hasn’t realized it by herself yet that she shines while playing Mahjong. With her confidence blossoms, she would become so different from the regular her, a shy and insignificant girl who knows only gardening.","우연히 마작의 존재를 알게 된 그녀는, 이 사각형의 작탁 위에서 제대로 된 실력을 발휘하기만 하면 모두 자신을 제대로 봐준다는 것을 깨달았다. 본인은 눈치채지 못하고 있지만, 평소 원예부에서 화초 이야기를 하고 있을 때는 수줍은듯한 모습이고, 마작에 집중하고 있을 때는 눈에 자신감이 번쩍이며 마치 다른 사람처럼 바뀐다.",,
-ItemDefinitionCharacter.csv,name_en,Nana Shiraishi,시라이시 나나,,
-ItemDefinitionCharacter.csv,desc_stature_en,167cm,167cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,31th May,5월 31일,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Sports, teen mangas","스포츠, 소년만화",,
-ItemDefinitionCharacter.csv,desc_en,"She can easily become close with anyone. But sometimes people feel awkward because of her wild laid-back spirit.” This is the first impression Nana left for most people. With her carefree personality and responsible attitude, she is no doubt a trustworthy class representative. From time to time, she helps out sport clubs with her excellent sport talents, but she never considers to join any of them. After all, she puts her class duties above sports.","""다른 사람이 부끄러워할 정도로 호의적이고 대범하다."" 이건 대부분의 사람들이 가지는 나나에 대한 첫 인상이다. 클래스 위원인 그녀는 천성의 밝은 성격과 강한 책임감으로 많은 학생들의 신뢰를 얻고 있다. 운동신경이 좋아, 자주 운동부의 도우미로 간다. 하지만 본인은 부활동을 할 생각은 없고 클래스 위원의 일이 더 중요하다고 생각하고 있다.",,
-ItemDefinitionCharacter.csv,name_en,Hinata Takanashi,타카나시 히나타,,
-ItemDefinitionCharacter.csv,desc_birth_en,28th June,6월 28일,,
-ItemDefinitionCharacter.csv,desc_cv_en,Rie Murakawa,무라카와 리에,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Photography, gardening","사진 촬영, 원예",,
-ItemDefinitionCharacter.csv,desc_en,"Hinata loves gardening, and hence she joined the school club to deepen her knowledge. Even during the summer vacations, Hinata often goes to school to take care of plants, and she enjoys to record the progress of their growth with photos she takes. Hinata has always been a very sensible girl. As her parents become more and more busy with their careers, she would choose to stay at home, read diaries and browse photos of her childhood, no matter how desired she wants to go out with them for a nature tour.","그녀의 양친은 일로 바쁘다. 그래서 어린 시절처럼 함께 피크닉을 하고 싶어도 입 밖으로 내지 못하고 혼자서 옛날 사진이나 일기를 바라본다. 타카나시 히나타는 인내심이 강한 여자아이다. 원예부의 부원인 그녀는, 쉬는 날에도 일부러 학교에 가서 화초를 돌볼 정도로 원예를 좋아한다. 화초의 성장과정을 사진으로 기록하고 있다.",,
-ItemDefinitionCharacter.csv,name_en,Haruna Igarashi,이가라시 하루나,,
-ItemDefinitionCharacter.csv,desc_stature_en,134cm,134cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,24th November,11월 24일,,
-ItemDefinitionCharacter.csv,desc_age_en,11,11,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Game consoles, cat, ice pop","게임, 고양이, 아이스크림",,
-ItemDefinitionCharacter.csv,desc_en,"Haruna Igarashi is a girl with endless power, who never gets tired throughout the whole day. She is an optimist type, who can screw around with boys. Haruna can't resist to have an ice pop and once made a great speech about her goal ""to try all the flavors of ice pop in the world"" in her composition class. In her spare time, she always brings cat food to street cats nearby and plays with them. Although Haruna calls herself ""Leader of Cats"", the street cats seem to regard her as a small attendant who often brings food for them.","무진장한 파워를 몸에 지니고 있는 힘이 가득하고 천진난만한 여자아이. 남자 아이와 친하고 아이스 바를 굉장히 좋아한다. 과거에 학교의 작문발표에서 ""온 세상의 아이스바를 먹어 보고 싶다.""고 호언한 적이 있다. 이치히메가 말하길, 쉬는 날에는 자주 캣 푸드를 들고 근처에 들고양이들과 놀고는 한다. 자칭 ""고양이보스"" 하지만 들고양이들에게는 먹을 것을 바치는 심부름꾼으로 인식되고 있는 모양이다.",,
-ItemDefinitionCharacter.csv,name_en,Anju Suzumiya,스즈미야 안즈,,
-ItemDefinitionCharacter.csv,desc_stature_en,148cm,148cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,16th May,5월 16일,,
-ItemDefinitionCharacter.csv,desc_cv_en,Aya Suzaki,스자키 아야,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Artwork, recording, milk","미술품, 기록, 딸기 우유",,
-ItemDefinitionCharacter.csv,desc_en,"Anju claims that she is a ""type KR-976"" artificial intelligence. Most of the time, she is rather quiet and would respond to all your questions with a mechanical tone. However, when the question asked is beyond her ability to interpret, she would reply with ""warning, warning, low battery, unable to perform any duty"" and avoid the question by pretending to be offline. Her hobby is to record everything that has happened around her, because as an artificial intelligence she needs to gather more data for learning, so her behaviors can better mimic those of a human.","자신을 KR-976형 인공지능이라 자칭하는 말이 없는 소녀, 항상 기계적인 어조로 질문에 대답한다. 대답할 수 없는 질문에는 ""경고! 배터리 잔량이 얼마남지 않았습니다""와 같은 시스템 메세지를 말하며 얼버무린다. 취미는 주변 생활을 메모하는 것이다. ""인공지능이 아닌 인류에 가까워지기 위해""라는 이유로 행동한다.",,
-ItemDefinitionCharacter.csv,name_en,Joseph,조셉,,
-ItemDefinitionCharacter.csv,desc_stature_en,189cm,189cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,17th January,1월 17일,,
-ItemDefinitionCharacter.csv,desc_age_en,35,35,,
-ItemDefinitionCharacter.csv,desc_cv_en,Hiroki Yasumoto,야스모토 히로키,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Liquor, adventure, fishing","술, 탐험, 낚시",,
-ItemDefinitionCharacter.csv,desc_en,"""As the host of an adventure channel, Joseph has loved animals and the nature since his childhood. Despite his young age, he has almost traveled all around the globe.\nUnder the suggestion of his friends, he started adventuring as a career. His humorous speech and bold actions brought the adventure show back to life. \nSometimes, you can see him in a Mahjong club sitting in door for the entire afternoon.""","탐험방송의 젊은 진행자. 어릴때부터 자연이나 동물을 좋아했고, 모험심이 넘쳐나 젊은 시절에 전세계를 누비고 다녔다. 본래 탐험을 단순한 취미로만 생각했지만, 친한 친구의 어드바이스로 취미를 직업으로 삼기로했다. 자신의 유머와 대담한 행동으로 종영 직전이었던 탐험방송을 다시 태어나게 했다. 이런 대자연의 사나이라도 가끔은 마작회관에 출몰할 때도 있다. 인도어의 의외의 행동도 보인다.",,
-ItemDefinitionCharacter.csv,name_en,Osamu Saitou,사이토 오사무,,
-ItemDefinitionCharacter.csv,desc_stature_en,190cm,190cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,18th May,5월 18일,,
-ItemDefinitionCharacter.csv,desc_age_en,29,29,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Gem, sudoku","보석, 스도쿠",,
-ItemDefinitionCharacter.csv,desc_en,"Osamu Saitou is perfect as a company director; he is calm, decisive and performs his daily routines like an accurate robot. When it comes to work, he is strict to himself as well as his employees, so they often refer to him as the ""Devil Boss"". If one has to find out a weak point of his, it is probably his younger sister who is still in high school, Mami Saitou.","매사에 냉정하게 대처하는 칼 같은 성격. 완전무결의 사장으로, 프로그램대로 움직이는 기계와 같이 행동하여 흐트러짐 없는 인생을 살아왔다. 일에 대해서는 자신에게 바라는 요구치가 높기에, 자신에게도 엄격하다. 사원에게도 같은 요구치를 바라고 있어 뒤에서는 ""염라상사""라고 불리고 있다. 모든게 완벽한 그이지만, 유일한 약점으로 고등학교를 다니는 여동생 사이토 아사미가 있다.",,
-ItemDefinitionCharacter.csv,name_en,Sawako Kitami,키타미 사와코,,
-ItemDefinitionCharacter.csv,desc_stature_en,160cm,160cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,15th October,10월 15일,,
-ItemDefinitionCharacter.csv,desc_age_en,32,32,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Card game, dress","보드게임, 양복",,
-ItemDefinitionCharacter.csv,desc_en,"Despite Sawako's somewhat naive looks, she has everything well-organized at home. She is also able to enjoy her hobbies at free time, which has made nearby housewives very envious as they often come to her for tips. She has won a lot of popularity in her neighborhood, especially amongst the kids as they often refer to her as ""the ideal mother"".","언뜻보면 천연처럼 보이지만, 전업주부로서 집안일도 이웃과의 사이도 좋다. 여가시간은 취미로 보내고 있어, 주부들의 부러움을 산다. 어린아이들을 좋아해서 이웃 아이들을 상냥하게 대해서일까, 아이들에게도 사랑받고 있으며, ""완벽마마""로 여겨지고 있다.",,
-ItemDefinitionCharacter.csv,name_en,Ein,에인,,
-ItemDefinitionCharacter.csv,desc_stature_en,175cm,175cm,,
-ItemDefinitionCharacter.csv,desc_birth_en,13th April,4월 13일,,
-ItemDefinitionCharacter.csv,desc_cv_en,Tetsuya Kakihara,카키하라 테츠야,,
-ItemDefinitionCharacter.csv,desc_hobby_en,"Fruit, hunting, game consoles","과일, 사냥, 게임기",,
-ItemDefinitionCharacter.csv,desc_en,"Ein is the descendant of an ancient race. Their most significant trait is their appearance. Male or female, old or young, all of them have some characteristics that can be linked to animals. He took his father's words to look for a hunting ground when he was 16. Accidentally, he stepped onto the land of far east where his instinct was awakened by a certain object. It is at this moment, he realized he have already found his ""hunting ground"".","몸에 다른 동물의 특징이 나타나 있는 오래된 종족의 후예. 16 세때 일족의 규칙과 아버지의 말에 따라 ""사냥터""를 찾는 여행에 나섰다. 도착한 먼 동쪽 나라에서 마작을 접한 순간, 이 땅 이야말로 그의 ""사냥터""라고 야생의 본능으로 확신했다.",,
-AudioBgm.csv,name_en,Sakura,벛꽃,,
-AudioBgm.csv,unlock_desc_en,,,,
-AudioBgm.csv,name_en,Midsummer,한여름,,
-AudioBgm.csv,unlock_desc_en,Unlock by event,이벤트로 해제,,
-AudioBgm.csv,name_en,Bamboo,대나무,,
-DesktopMatchmode.csv,room_name_en,Bronze Room,동탁,,
-DesktopMatchmode.csv,room_name_en,Silver Room,은탁,,
-DesktopMatchmode.csv,room_name_en,Gold Room,금탁,,
-DesktopMatchmode.csv,room_name_en,Jade Room,옥탁,,
-DesktopMatchmode.csv,room_name_en,Melee Room,근접탁,,
-DesktopMatchmode.csv,room_name_en,Throne Room,왕좌탁,,
-DesktopMatchmode.csv,room_name_en,Casual Match,캐주얼,,
-DesktopMatchmode.csv,room_name_en,DoraDorara,도라도라라,,
-DesktopMatchmode.csv,room_name_en,Open Hand Match,손패 공개,,
-DesktopMatchmode.csv,room_name_en,Chaotic Wall Break,혼돈의 패산파괴,,
-ExchangeFushiquanexchange.csv,name_en,10Jade,10 휘옥,,
-ExchangeFushiquanexchange.csv,desc_en,Can be used to buy props.,소품(props)을 구입하는데 사용할 수 있습니다.,,
-CharacterEmoji.csv,unlock_desc_en,Bond,인연,,
-CharacterEmoji.csv,unlock_desc_en,Event,이벤트,,
-CharacterEmoji.csv,after_unlock_desc_en,9/27  (PDT),9/27  (PDT),,
-CharacterEmoji.csv,after_unlock_desc_en,10/30 (PDT),10/30 (PDT),,
-CharacterEmoji.csv,after_unlock_desc_en,11/09 (PDT),11/09 (PDT),,
-CharacterEmoji.csv,after_unlock_desc_en,12/11(PDT),12/11(PDT),,
-CharacterEmoji.csv,after_unlock_desc_en,12/26(PDT),12/26(PDT),,
-CharacterEmoji.csv,unlock_desc_en,Sticker Shop,스티커 상점,,
-CharacterEmoji.csv,after_unlock_desc_en,2/28(UTC-7),2/28(UTC-7),,
-CharacterEmoji.csv,unlock_desc_en,Unlock Outfit,의상으로 해제,,
-CharacterEmoji.csv,after_unlock_desc_en,Christmas,크리스마스,,
-CharacterEmoji.csv,after_unlock_desc_en,Halloween,할로윈,,
-CharacterEmoji.csv,after_unlock_desc_en,Beach Party,비치 파티,,
-CharacterEmoji.csv,after_unlock_desc_en,New Year,신년,,
-CharacterEmoji.csv,after_unlock_desc_en,Spring Festival,봄 축제,,
-StrStr.csv,en,Deal-in is not the end; All Last is only the beginning!,"쏘였다고 경기에서 패배한 것은 아니며, 최종국은 또다른 시작일 뿐입니다!",,
-StrStr.csv,en,"No matter how big your hand is, a Tanyao will end it all.","내 손패가 아무리 강해도, 탕야오 한번에 끝날 수 있습니다.",,
-StrStr.csv,en,"You must have Yaku to declare a win. Before you make a call (Chii/Pon/Kan), make sure you check if you have Yaku.",화료하기 위해서는 역이 필요합니다. 울기(치/펑/깡) 전에 역이 있는지 꼭 확인하세요.,,
-StrStr.csv,en,Go to settings menu to view all types of Yaku,설정 메뉴에서 모든 역을 확인할 수 있습니다.,,
-StrStr.csv,en,"In settings, you can choose to play a tile with single or double click",설정에서 한번 터치 또는 두번 터치로 타패하도록 변경할 수 있습니다.,,
-StrStr.csv,en,Players who use IE or Opera browsers may encounter lag issues. We recommend Chrome，FireFox or Edge browsers.,"인터넷 익스플로러 또는 오페라 브라우저에서는 게임이 원할하게 구동되지 않을 수 있습니다. 크롬, 파이어폭스, 엣지 브라우저를 사용하는 것을 추천합니다.",,
-StrStr.csv,en,Mangan at Draw,유국만관,,
-StrStr.csv,en,Four-Wind Discarded,사풍연타,,
-StrStr.csv,en,Four-kan Abortion,사깡유국,,
-StrStr.csv,en,Four-player Riichi,사가리치,,
-StrStr.csv,en,Nine Different Terminals and Honors,구종구패,,
-StrStr.csv,en,Three Rons Draw,트리플론,,
-StrStr.csv,en,Ippatsu,일발,,
-StrStr.csv,en,Exhaustive Draw,유국,,
-StrStr.csv,en,Nine Terminal Initial Draw,구종구패,,
-StrStr.csv,en,Four Winds Draw,사풍연타,,
-StrStr.csv,en,Four Quads Draw,사깡유국,,
-StrStr.csv,en,Four Riichi Draw,사가리치,,
-StrStr.csv,en,Tsumo,쯔모,,
-StrStr.csv,en,Ron,론,,
-StrStr.csv,en,Riichi,리치,,
-StrStr.csv,en,Furiten,후리텐,,
-StrStr.csv,en,Deal-in,방총,,
-StrStr.csv,en,Cancel,취소,,
-StrStr.csv,en,4-Player,4인,,
-StrStr.csv,en,3-Player,3인,,
-StrStr.csv,en,1 Han,1판,,
-StrStr.csv,en,2 Han,2판,,
-StrStr.csv,en,3 Han,3판,,
-StrStr.csv,en,6 Han,6판,,
-StrStr.csv,en,Mangan,만관,,
-StrStr.csv,en,Yakuman,역만,,
-StrStr.csv,en,Double Yakuman,더블 역만,,
-StrStr.csv,en,Draw,유국,,
-StrStr.csv,en,Menzenchin Only,멘젠 한정,,
-StrStr.csv,en,Yaku Overview,역 요약,,
-StrStr.csv,en,Close,닫기,,
-StrStr.csv,en,Exit,나가기,,
-StrStr.csv,en,Auto Arrange,자동정렬,,
-StrStr.csv,en,Auto Call Win,자동화료,,
-StrStr.csv,en,No Chii/Pon/Kan,울기금지,,
-StrStr.csv,en,Auto Draw & Discard,자동쯔모기리,,
-StrStr.csv,en,4 Han,4판,,
-StrStr.csv,en,Local Yaku,로컬역,,
-StrStr.csv,en,Logging In...,로그인 중...,,
-StrStr.csv,en,View Yaku,역 보기,,
-StrStr.csv,en,Log Out,로그아웃,,
-StrStr.csv,en,Rank,랭킹,,
-StrStr.csv,en,Info,정보,,
-StrStr.csv,en,Turn,순:,,
-StrStr.csv,en,Wall,패산,,
-StrStr.csv,en,Repeat Counter,연장,,
-StrStr.csv,en,Ranked Match,단위전,,
-StrStr.csv,en,Recent High Score,최근 고득점,,
-StrStr.csv,en,Confirm,확인,,
-StrStr.csv,en,Trends,트렌드,,
-StrStr.csv,en,Detailed Info,상세 정보,,
-StrStr.csv,en,East Round,동풍전,,
-StrStr.csv,en,1st,1위,,
-StrStr.csv,en,2nd,2위,,
-StrStr.csv,en,3rd,3위,,
-StrStr.csv,en,4th,4위,,
-StrStr.csv,en,Negative,들통,,
-StrStr.csv,en,Total Played,총 플레이 수,,
-StrStr.csv,en,Avg Score,평균 점수,,
-StrStr.csv,en,Avg Rank,평균 순위,,
-StrStr.csv,en,Max Repeats,최대 연장,,
-StrStr.csv,en,Win Rate,승률,,
-StrStr.csv,en,Tsumo Rate,쯔모 비율,,
-StrStr.csv,en,Deal-in Rate,방총율,,
-StrStr.csv,en,Call Rate,울기 비율,,
-StrStr.csv,en,Riichi Rate,리치 비율,,
-StrStr.csv,en,South Round,반장전,,
-StrStr.csv,en,Yaku Achieved,달성한 역,,
-StrStr.csv,en,Quest,퀘스트,,
-StrStr.csv,en,Settings,설정,,
-StrStr.csv,en,BGM,배경음,,
-StrStr.csv,en,Mute,음소거,,
-StrStr.csv,en,SE,효과음,,
-StrStr.csv,en,Voice,음성,,
-StrStr.csv,en,Audio,오디오,,
-StrStr.csv,en,Preference,환경설정,,
-StrStr.csv,en,Single tap,한번 터치,,
-StrStr.csv,en,Double tap,두번 터치,,
-StrStr.csv,en,Message,메시지,,
-StrStr.csv,en,Anybody,누구나,,
-StrStr.csv,en,Friends only,친구만,,
-StrStr.csv,en,Forbid all,모두 금지,,
-StrStr.csv,en,Others,기타,,
-StrStr.csv,en,High FPS mode,고사양 모드,,
-StrStr.csv,en,Power saving mode,저사양 모드,,
-StrStr.csv,en,Restart Now,지금 재시작,,
-StrStr.csv,en,Authentication,인증,,
-StrStr.csv,en,Gift Code,기프트 코드,,
-StrStr.csv,en,Tutorials,튜토리얼,,
-StrStr.csv,en,View Yaku,역 보기,,
-StrStr.csv,en,Log Out,로그아웃,,
-StrStr.csv,en,Tap to close,탭하여 닫기,,
-StrStr.csv,en,Added to titles,타이틀에 추가됨,,
-StrStr.csv,en,Enter a Gift Code to claim rewards,보상을 받기 위해 기프트 코드 입력,,
-StrStr.csv,en,Mute this for 5m,5분 동안 음소거,,
-StrStr.csv,en,Join,참가,,
-StrStr.csv,en,Invites you to join,게임 초대,,
-StrStr.csv,en,Auto-cancel after 3 minutes,3분 뒤 자동 취소,,
-StrStr.csv,en,Add,추가,,
-StrStr.csv,en,Enter number,번호 입력,,
-StrStr.csv,en,No Red Five,적도라 없음,,
-StrStr.csv,en,3 Red Five,적도라 3개,,
-StrStr.csv,en,4 Red Five,적도라 4개,,
-StrStr.csv,en,2 Red Five,적도라 2개,,
-StrStr.csv,en,Just now,지금,,
-StrStr.csv,en,minutes,분,,
-StrStr.csv,en,hours,시간,,
-StrStr.csv,en,days,일,,
-StrStr.csv,en,weeks,주,,
-StrStr.csv,en,months,개월,,
-StrStr.csv,en,Second,초,,
-StrStr.csv,en,Minute,분,,
-StrStr.csv,en,Hour,시,,
-StrStr.csv,en,Day,일,,
-StrStr.csv,en,AI(Easy),AI(쉬움),,
-StrStr.csv,en,AI(Normal),AI(보통),,
-StrStr.csv,en,Friendly Match,친선전,,
-StrStr.csv,en,Successfully used,성공적으로 사용함,,
-StrStr.csv,en,Tournament Match,대회전,,
-StrStr.csv,en,4-Player (1 Game),4인 (단판),,
-StrStr.csv,en,4-Player East,4인 동풍전,,
-StrStr.csv,en,4-Player South,4인 반장전,,
-StrStr.csv,en,4-Player (vs AI),4인 (vs AI),,
-StrStr.csv,en,3-Player (1 Game),3인 (단판),,
-StrStr.csv,en,3-Player East,3인 동풍전,,
-StrStr.csv,en,3-Player South,3인 반장전,,
-StrStr.csv,en,3-Player (vs AI),3인 (vs AI),,
-StrStr.csv,en,Current version,현재 버전,,
-StrStr.csv,en,Join Room #,참가: Room #,,
-StrStr.csv,en,Mode,모드,,
-StrStr.csv,en,Thinking Time,턴 시간 제한,,
-StrStr.csv,en,Number of Red Five,적도라 수,,
-StrStr.csv,en,Open Tanyao,쿠이탕,,
-StrStr.csv,en,No,아니오,,
-StrStr.csv,en,Yes,예,,
-StrStr.csv,en,Starting Points,시작 점수,,
-StrStr.csv,en,Minimum Points to Win,최소 승리 점수,,
-StrStr.csv,en,Negative Points,들통 점수,,
-StrStr.csv,en,Upper Limit,상한,,
-StrStr.csv,en,Riichi Points,리치 점수,,
-StrStr.csv,en,Repeat Counter Points,연장 점수,,
-StrStr.csv,en,No-Tenpai Penalty,노텐 패널티,,
-StrStr.csv,en,Game Tips,게임 팁,,
-StrStr.csv,en,Enable,활성화,,
-StrStr.csv,en,Disable,비활성화,,
-StrStr.csv,en,Finding opponents,상대방을 찾는 중,,
-StrStr.csv,en,Starting soon,잠시 후 시작: ,,
-StrStr.csv,en,Ranked,단위전,,
-EventsSoscoin.csv,desc_en,Only players of Adept rank or above can claim Revival Tokens. Keep working!,작사 등급 이상의 플레이어만 부활 토큰을 받을 수 있습니다. 계속 힘내세요!,,
-EventsSoscoin.csv,desc_en,You are currently an Adept.You may claim this when you have less than 4500 coppers. Available once per day.,당신은 현재 작사 등급입니다. 4500개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.,,
-EventsSoscoin.csv,desc_en,You are current an Expert. You may claim this when you have less than 9000 coppers. Available once per day.,당신은 현재 작걸 등급입니다. 9000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.,,
-EventsSoscoin.csv,desc_en,You are current a Master. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 작호 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.,,
-EventsSoscoin.csv,desc_en,You are current a Saint. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 작성 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.,,
-EventsSoscoin.csv,desc_en,You are current a Celestial. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 혼천 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.,,
-LevelDefinitionCharacter.csv,unlock_desc_en,New daily voice unlocked!\\nNew match voice unlocked!,새 일일 보이스 잠금 해제!\\n새 게임 보이스 잠금 해제!,,
-LevelDefinitionCharacter.csv,unlock_desc_en,New daily voice unlocked!\\nNew bonding voice unlocked!,새 일일 보이스 잠금 해제!\\n새 인연 보이스 잠금 해제!,,
-LevelDefinitionCharacter.csv,unlock_desc_en,New Han-declaration voice unlocked!\\nNew login voice unlocked!\\nNew daily voice unlocked!\\nNew bonding voice unlocked!,새 판 선언 보이스 잠금 해제!\\n새 로그인 보이스 잠금 해제!\\n새 일일 보이스 잠금 해제!\\n새 인연 보이스 잠금 해제!,,
+Shinomiya role-plays a rogue character named WhiteNight in an MMORPG. He cosplays his rogue from time to time, and calls himself the best coser of WhiteNight.","바 ""LULLABY""에서 바텐더 아르바이트를 하고 있는 평범한 대학생. 약간 중2병스럽고, 게임과 만화를 좋아하는 오타쿠. 바 오너의 영향으로 마작을 시작했다. 마작 실력에는 꽤 자신이 있다. 자주 하는 MMORPG에서는 ""백야(白夜)""라는 ID로 도적 캐릭터를 플레이하고 있다. 평소 자신 안에 억눌려있던 감정을 토해내기 때문인지, 게임 내의 언동은 실제라고 믿기 어려울 정도로 날뛰는 경향이 있다. 동인 이벤트 등에서는 ""백야""의 코스프레를 하고 자주 참가해, 가장 재현도가 높은 백야 코스플레이어라고 칭송받고 있다."
+ItemDefinitionCharacter.csv,name_en,Wanjirou,왕지로
+ItemDefinitionCharacter.csv,desc_stature_en,165cm,165cm
+ItemDefinitionCharacter.csv,desc_birth_en,13th January,1월 13일
+ItemDefinitionCharacter.csv,desc_cv_en,Yuuki Ono,오노 유우키
+ItemDefinitionCharacter.csv,desc_en,"Together with Ichihime, Wanjirou was one of the first characters to appear at the Mahjong Soul Shrine. After refusing to be bound by the mysterious duty entrusted to him, Wanjirou left the shrine in the pursuit of freedom. Unlike Ichihime’s human appearance, Wanjirou unabashedly bears a canine face, which is probably a little punishment from Kami-sama. To Wanjirou, nothing is more common than good fortune and tasty food.","이치히메와 함께 혼천 신사에 강림한 작사 중 한 명. 문득 자신에게 주어진 사명에 얽매이고 싶지 않다는 생각이 들어, 여행을 하고 있다. 이치히메와 달리 인간의 얼굴을 가지지 못한 것은, 신이 내린 자그마한 벌일 것이다. 행운과 미식은 왕지로의 주위에서 가장 흔하게 보이는 것이라고 한다."
+ItemDefinitionCharacter.csv,name_en,Sora Ichinose,이치노세 소라
+ItemDefinitionCharacter.csv,desc_stature_en,147cm,147cm
+ItemDefinitionCharacter.csv,desc_birth_en,14th March,3월 14일
+ItemDefinitionCharacter.csv,desc_age_en,13,13
+ItemDefinitionCharacter.csv,desc_cv_en,Junko Minagawa,미나가와 준코
+ItemDefinitionCharacter.csv,desc_hobby_en,"Reading, math, cubes","독서, 수학, 큐브"
+ItemDefinitionCharacter.csv,desc_en,"People often say that “too smart for your own good”. Ever since he was a boy, Ichinose’s weak and frail body made him prone to sickness often. His world view is rooted in science and believes that everything can be explained through scientific methodology. Once upon random chance, Ichinose happened upon the Mahjong Soul Shrine. He thought that this was a very interesting game of probabilities, and so he decided to join in.","사람들은 그를 이렇게 평가한다. ""지나치게 똑똑한 데에는 대가가 따르는 건가…."" 어렸을 적부터 병약해서 운동을 할 기회가 거의 없었다. 그 대신, 과학에 깊이 몰두했고 지금은 모든 현상을 과학으로 설명할 수 있다고 생각한다. 우연히 혼천신사에서 마작을 보고, 재미있는 확률 게임이라고 생각하게 된 뒤로 마작을 하고 있다."
+ItemDefinitionCharacter.csv,name_en,Hideki Akechi,아케치 히데키
+ItemDefinitionCharacter.csv,desc_stature_en,177cm,177cm
+ItemDefinitionCharacter.csv,desc_birth_en,9th January,1월 9일
+ItemDefinitionCharacter.csv,desc_age_en,20,20
+ItemDefinitionCharacter.csv,desc_cv_en,Shinnosuke Tachibana,타치바나 신노스케
+ItemDefinitionCharacter.csv,desc_hobby_en,"Horse riding, playing Go","승마, 바둑"
+ItemDefinitionCharacter.csv,desc_en,"Hideki Akechi is the leader of his university’s mahjong club. Even though Hideki was raised through prestigious ivy league schooling, however he always shows his courteous nature and gives a warm smile to anyone he meets. Influenced by his grandmother, Hideki often likes to make local yaku even if the rule doesn’t allow for this. There seems to be a shroud of mystery to his past. Every time someone brings up relatable topics of the past, Hideki would slyly change the topic entirely.","대학 마작동아리의 부장. 어렸을 때부터 영재교육을 받은 덕분에, 항상 옅은 미소를 짓고 있고, 다른 사람에게 친절하다. 조모의 영향으로 룰이나 로컬역이 유효하지 않은 경우에도, 로컬역을 만들어버리는 습관이 있다. 다른 사람이 모르는 과거가 있는듯해, 과거와 관련된 화제가 나오면 늘 자리를 피한다."
+ItemDefinitionCharacter.csv,name_en,Keikumusume,케이쿠무스메
+ItemDefinitionCharacter.csv,desc_stature_en,159cm,159cm
+ItemDefinitionCharacter.csv,desc_birth_en,9th September,9월 9일
+ItemDefinitionCharacter.csv,desc_cv_en,Konomi Kohara,코하라 코노미
+ItemDefinitionCharacter.csv,desc_hobby_en,"Light novels, teasing her younger sister","라이트 노벨, 동생에게 장난치기"
+ItemDefinitionCharacter.csv,desc_en,"Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat. As the head of her school’s literature club, which is on the verge of being dissolved, Keikumusume is constantly leaning to her fellow club members to try saving their beloved club. \nKeikumusume’s personality changes when she takes off her witch hat. Once the hat is off, she goes from being a carefree naive girl to someone who is very dependable in nature. But such change is totally clueless to herself.\nIt seems that she has an infinite supply of witch hats at her disposal, yet where she keeps her supply remains a mystery.","어느 학교에 있는 폐부 직전의 문학부 부장. 평소에는 기묘한 마녀모자를 쓰고 라노벨을 읽으며, 부원에게 문학부를 구원받길 기다리고 있다. 모자를 씀으로써 인격을 바꿀 수 있다. 모자를 쓰지 않았을 때는 똑부러지는 성격이지만, 모자를 쓰면 덜렁이가 되며, 본인에게 자각은 없다. 모자에는 대량의 비품이 들어있을 것 같지만, 어디에 보존되는지는 미스터리."
+ItemDefinitionCharacter.csv,desc_item_en,Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat.,Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat.
+ItemDefinitionCharacter.csv,name_en,Sara,사라
+ItemDefinitionCharacter.csv,desc_stature_en,158cm,158cm
+ItemDefinitionCharacter.csv,desc_birth_en,25th September,9월 25일
+ItemDefinitionCharacter.csv,desc_cv_en,M·A·O,이치미치 마오
+ItemDefinitionCharacter.csv,desc_hobby_en,"Skirts, dance, cats","치마, 춤추기, 고양이와 놀기"
+ItemDefinitionCharacter.csv,desc_en,"Sara is the top dancer of the touring performing group ""Soul"". She was crowned as ""Cassiopeia on Stage"" for her passionate dance moves as well as her attractive but elegant physique. Sara got her distinctive appearance from her parents, who came from different countries and backgrounds. Her different-colored eyes can charm people; some even feel that her looks can reach deep into their souls. She's a cat lover, and her characters are also as unpredictable as one. One day, Sara stepped into Mahjong Soul Shrine by coincidence, and because of the cat hobby of hers, she soon became very fond of Ichihime.","이동곡예서커스 ""soul""의 인기무희. 대담분방하게 춤추는 모습이 요염하면서도 저속함이 느껴지지 않아, 「무대 위의 카시오페아」라는 이명을 지니고 있다. 다국적의 혼혈이라 사라는 한결 눈에 띄는 외견을 하고 있다. 특히, 그녀의 오드아이 눈동자를 바라보고 있으면, 영혼 깊은 곳까지 꿰뚫어보는 듯한 기분이 든다. 고양이처럼 성격이 제멋대로이며, 본인도 상당히 고양이 애호가이다. 과거에 혼천신사에 이끌린 적이 있으며, 자기 취향인 이치히메를 꽤 마음에 들어하고 있다."
+ItemDefinitionCharacter.csv,name_en,Hana Ninomiya,니노미야 하나
+ItemDefinitionCharacter.csv,desc_stature_en,155cm,155cm
+ItemDefinitionCharacter.csv,desc_birth_en,12th July,7월 12일
+ItemDefinitionCharacter.csv,desc_hobby_en,"Gardening, reading","원예, 독서"
+ItemDefinitionCharacter.csv,desc_en,"An occasional chance brought Hana Ninomiya into Mahjong. It didn’t take long for her to notice that people would take her seriously once she showed her capabilities on the Mahjong table. However, Hana probably hasn’t realized it by herself yet that she shines while playing Mahjong. With her confidence blossoms, she would become so different from the regular her, a shy and insignificant girl who knows only gardening.","우연히 마작의 존재를 알게 된 그녀는, 이 사각형의 작탁 위에서 제대로 된 실력을 발휘하기만 하면 모두 자신을 제대로 봐준다는 것을 깨달았다. 본인은 눈치채지 못하고 있지만, 평소 원예부에서 화초 이야기를 하고 있을 때는 수줍은듯한 모습이고, 마작에 집중하고 있을 때는 눈에 자신감이 번쩍이며 마치 다른 사람처럼 바뀐다."
+ItemDefinitionCharacter.csv,name_en,Nana Shiraishi,시라이시 나나
+ItemDefinitionCharacter.csv,desc_stature_en,167cm,167cm
+ItemDefinitionCharacter.csv,desc_birth_en,31th May,5월 31일
+ItemDefinitionCharacter.csv,desc_hobby_en,"Sports, teen mangas","스포츠, 소년만화"
+ItemDefinitionCharacter.csv,desc_en,"She can easily become close with anyone. But sometimes people feel awkward because of her wild laid-back spirit.” This is the first impression Nana left for most people. With her carefree personality and responsible attitude, she is no doubt a trustworthy class representative. From time to time, she helps out sport clubs with her excellent sport talents, but she never considers to join any of them. After all, she puts her class duties above sports.","""다른 사람이 부끄러워할 정도로 호의적이고 대범하다."" 이건 대부분의 사람들이 가지는 나나에 대한 첫 인상이다. 클래스 위원인 그녀는 천성의 밝은 성격과 강한 책임감으로 많은 학생들의 신뢰를 얻고 있다. 운동신경이 좋아, 자주 운동부의 도우미로 간다. 하지만 본인은 부활동을 할 생각은 없고 클래스 위원의 일이 더 중요하다고 생각하고 있다."
+ItemDefinitionCharacter.csv,name_en,Hinata Takanashi,타카나시 히나타
+ItemDefinitionCharacter.csv,desc_birth_en,28th June,6월 28일
+ItemDefinitionCharacter.csv,desc_cv_en,Rie Murakawa,무라카와 리에
+ItemDefinitionCharacter.csv,desc_hobby_en,"Photography, gardening","사진 촬영, 원예"
+ItemDefinitionCharacter.csv,desc_en,"Hinata loves gardening, and hence she joined the school club to deepen her knowledge. Even during the summer vacations, Hinata often goes to school to take care of plants, and she enjoys to record the progress of their growth with photos she takes. Hinata has always been a very sensible girl. As her parents become more and more busy with their careers, she would choose to stay at home, read diaries and browse photos of her childhood, no matter how desired she wants to go out with them for a nature tour.","그녀의 양친은 일로 바쁘다. 그래서 어린 시절처럼 함께 피크닉을 하고 싶어도 입 밖으로 내지 못하고 혼자서 옛날 사진이나 일기를 바라본다. 타카나시 히나타는 인내심이 강한 여자아이다. 원예부의 부원인 그녀는, 쉬는 날에도 일부러 학교에 가서 화초를 돌볼 정도로 원예를 좋아한다. 화초의 성장과정을 사진으로 기록하고 있다."
+ItemDefinitionCharacter.csv,name_en,Haruna Igarashi,이가라시 하루나
+ItemDefinitionCharacter.csv,desc_stature_en,134cm,134cm
+ItemDefinitionCharacter.csv,desc_birth_en,24th November,11월 24일
+ItemDefinitionCharacter.csv,desc_age_en,11,11
+ItemDefinitionCharacter.csv,desc_hobby_en,"Game consoles, cat, ice pop","게임, 고양이, 아이스크림"
+ItemDefinitionCharacter.csv,desc_en,"Haruna Igarashi is a girl with endless power, who never gets tired throughout the whole day. She is an optimist type, who can screw around with boys. Haruna can't resist to have an ice pop and once made a great speech about her goal ""to try all the flavors of ice pop in the world"" in her composition class. In her spare time, she always brings cat food to street cats nearby and plays with them. Although Haruna calls herself ""Leader of Cats"", the street cats seem to regard her as a small attendant who often brings food for them.","무진장한 파워를 몸에 지니고 있는 힘이 가득하고 천진난만한 여자아이. 남자 아이와 친하고 아이스 바를 굉장히 좋아한다. 과거에 학교의 작문발표에서 ""온 세상의 아이스바를 먹어 보고 싶다.""고 호언한 적이 있다. 이치히메가 말하길, 쉬는 날에는 자주 캣 푸드를 들고 근처에 들고양이들과 놀고는 한다. 자칭 ""고양이보스"" 하지만 들고양이들에게는 먹을 것을 바치는 심부름꾼으로 인식되고 있는 모양이다."
+ItemDefinitionCharacter.csv,name_en,Anju Suzumiya,스즈미야 안즈
+ItemDefinitionCharacter.csv,desc_stature_en,148cm,148cm
+ItemDefinitionCharacter.csv,desc_birth_en,16th May,5월 16일
+ItemDefinitionCharacter.csv,desc_cv_en,Aya Suzaki,스자키 아야
+ItemDefinitionCharacter.csv,desc_hobby_en,"Artwork, recording, milk","미술품, 기록, 딸기 우유"
+ItemDefinitionCharacter.csv,desc_en,"Anju claims that she is a ""type KR-976"" artificial intelligence. Most of the time, she is rather quiet and would respond to all your questions with a mechanical tone. However, when the question asked is beyond her ability to interpret, she would reply with ""warning, warning, low battery, unable to perform any duty"" and avoid the question by pretending to be offline. Her hobby is to record everything that has happened around her, because as an artificial intelligence she needs to gather more data for learning, so her behaviors can better mimic those of a human.","자신을 KR-976형 인공지능이라 자칭하는 말이 없는 소녀, 항상 기계적인 어조로 질문에 대답한다. 대답할 수 없는 질문에는 ""경고! 배터리 잔량이 얼마남지 않았습니다""와 같은 시스템 메세지를 말하며 얼버무린다. 취미는 주변 생활을 메모하는 것이다. ""인공지능이 아닌 인류에 가까워지기 위해""라는 이유로 행동한다."
+ItemDefinitionCharacter.csv,name_en,Joseph,조셉
+ItemDefinitionCharacter.csv,desc_stature_en,189cm,189cm
+ItemDefinitionCharacter.csv,desc_birth_en,17th January,1월 17일
+ItemDefinitionCharacter.csv,desc_age_en,35,35
+ItemDefinitionCharacter.csv,desc_cv_en,Hiroki Yasumoto,야스모토 히로키
+ItemDefinitionCharacter.csv,desc_hobby_en,"Liquor, adventure, fishing","술, 탐험, 낚시"
+ItemDefinitionCharacter.csv,desc_en,"""As the host of an adventure channel, Joseph has loved animals and the nature since his childhood. Despite his young age, he has almost traveled all around the globe.\nUnder the suggestion of his friends, he started adventuring as a career. His humorous speech and bold actions brought the adventure show back to life. \nSometimes, you can see him in a Mahjong club sitting in door for the entire afternoon.""","탐험방송의 젊은 진행자. 어릴때부터 자연이나 동물을 좋아했고, 모험심이 넘쳐나 젊은 시절에 전세계를 누비고 다녔다. 본래 탐험을 단순한 취미로만 생각했지만, 친한 친구의 어드바이스로 취미를 직업으로 삼기로했다. 자신의 유머와 대담한 행동으로 종영 직전이었던 탐험방송을 다시 태어나게 했다. 이런 대자연의 사나이라도 가끔은 마작회관에 출몰할 때도 있다. 인도어의 의외의 행동도 보인다."
+ItemDefinitionCharacter.csv,name_en,Osamu Saitou,사이토 오사무
+ItemDefinitionCharacter.csv,desc_stature_en,190cm,190cm
+ItemDefinitionCharacter.csv,desc_birth_en,18th May,5월 18일
+ItemDefinitionCharacter.csv,desc_age_en,29,29
+ItemDefinitionCharacter.csv,desc_hobby_en,"Gem, sudoku","보석, 스도쿠"
+ItemDefinitionCharacter.csv,desc_en,"Osamu Saitou is perfect as a company director; he is calm, decisive and performs his daily routines like an accurate robot. When it comes to work, he is strict to himself as well as his employees, so they often refer to him as the ""Devil Boss"". If one has to find out a weak point of his, it is probably his younger sister who is still in high school, Mami Saitou.","매사에 냉정하게 대처하는 칼 같은 성격. 완전무결의 사장으로, 프로그램대로 움직이는 기계와 같이 행동하여 흐트러짐 없는 인생을 살아왔다. 일에 대해서는 자신에게 바라는 요구치가 높기에, 자신에게도 엄격하다. 사원에게도 같은 요구치를 바라고 있어 뒤에서는 ""염라상사""라고 불리고 있다. 모든게 완벽한 그이지만, 유일한 약점으로 고등학교를 다니는 여동생 사이토 아사미가 있다."
+ItemDefinitionCharacter.csv,name_en,Sawako Kitami,키타미 사와코
+ItemDefinitionCharacter.csv,desc_stature_en,160cm,160cm
+ItemDefinitionCharacter.csv,desc_birth_en,15th October,10월 15일
+ItemDefinitionCharacter.csv,desc_age_en,32,32
+ItemDefinitionCharacter.csv,desc_hobby_en,"Card game, dress","보드게임, 양복"
+ItemDefinitionCharacter.csv,desc_en,"Despite Sawako's somewhat naive looks, she has everything well-organized at home. She is also able to enjoy her hobbies at free time, which has made nearby housewives very envious as they often come to her for tips. She has won a lot of popularity in her neighborhood, especially amongst the kids as they often refer to her as ""the ideal mother"".","언뜻보면 천연처럼 보이지만, 전업주부로서 집안일도 이웃과의 사이도 좋다. 여가시간은 취미로 보내고 있어, 주부들의 부러움을 산다. 어린아이들을 좋아해서 이웃 아이들을 상냥하게 대해서일까, 아이들에게도 사랑받고 있으며, ""완벽마마""로 여겨지고 있다."
+ItemDefinitionCharacter.csv,name_en,Ein,에인
+ItemDefinitionCharacter.csv,desc_stature_en,175cm,175cm
+ItemDefinitionCharacter.csv,desc_birth_en,13th April,4월 13일
+ItemDefinitionCharacter.csv,desc_cv_en,Tetsuya Kakihara,카키하라 테츠야
+ItemDefinitionCharacter.csv,desc_hobby_en,"Fruit, hunting, game consoles","과일, 사냥, 게임기"
+ItemDefinitionCharacter.csv,desc_en,"Ein is the descendant of an ancient race. Their most significant trait is their appearance. Male or female, old or young, all of them have some characteristics that can be linked to animals. He took his father's words to look for a hunting ground when he was 16. Accidentally, he stepped onto the land of far east where his instinct was awakened by a certain object. It is at this moment, he realized he have already found his ""hunting ground"".","몸에 다른 동물의 특징이 나타나 있는 오래된 종족의 후예. 16 세때 일족의 규칙과 아버지의 말에 따라 ""사냥터""를 찾는 여행에 나섰다. 도착한 먼 동쪽 나라에서 마작을 접한 순간, 이 땅 이야말로 그의 ""사냥터""라고 야생의 본능으로 확신했다."
+AudioBgm.csv,name_en,Sakura,벛꽃
+AudioBgm.csv,unlock_desc_en,,
+AudioBgm.csv,name_en,Midsummer,한여름
+AudioBgm.csv,unlock_desc_en,Unlock by event,이벤트로 해제
+AudioBgm.csv,name_en,Bamboo,대나무
+DesktopMatchmode.csv,room_name_en,Bronze Room,동탁
+DesktopMatchmode.csv,room_name_en,Silver Room,은탁
+DesktopMatchmode.csv,room_name_en,Gold Room,금탁
+DesktopMatchmode.csv,room_name_en,Jade Room,옥탁
+DesktopMatchmode.csv,room_name_en,Melee Room,근접탁
+DesktopMatchmode.csv,room_name_en,Throne Room,왕좌탁
+DesktopMatchmode.csv,room_name_en,Casual Match,캐주얼
+DesktopMatchmode.csv,room_name_en,DoraDorara,도라도라라
+DesktopMatchmode.csv,room_name_en,Open Hand Match,손패 공개
+DesktopMatchmode.csv,room_name_en,Chaotic Wall Break,혼돈의 패산파괴
+ExchangeFushiquanexchange.csv,name_en,10Jade,10 휘옥
+ExchangeFushiquanexchange.csv,desc_en,Can be used to buy props.,소품(props)을 구입하는데 사용할 수 있습니다.
+CharacterEmoji.csv,unlock_desc_en,Bond,인연
+CharacterEmoji.csv,unlock_desc_en,Event,이벤트
+CharacterEmoji.csv,after_unlock_desc_en,9/27  (PDT),9/27  (PDT)
+CharacterEmoji.csv,after_unlock_desc_en,10/30 (PDT),10/30 (PDT)
+CharacterEmoji.csv,after_unlock_desc_en,11/09 (PDT),11/09 (PDT)
+CharacterEmoji.csv,after_unlock_desc_en,12/11(PDT),12/11(PDT)
+CharacterEmoji.csv,after_unlock_desc_en,12/26(PDT),12/26(PDT)
+CharacterEmoji.csv,unlock_desc_en,Sticker Shop,스티커 상점
+CharacterEmoji.csv,after_unlock_desc_en,2/28(UTC-7),2/28(UTC-7)
+CharacterEmoji.csv,unlock_desc_en,Unlock Outfit,의상으로 해제
+CharacterEmoji.csv,after_unlock_desc_en,Christmas,크리스마스
+CharacterEmoji.csv,after_unlock_desc_en,Halloween,할로윈
+CharacterEmoji.csv,after_unlock_desc_en,Beach Party,비치 파티
+CharacterEmoji.csv,after_unlock_desc_en,New Year,신년
+CharacterEmoji.csv,after_unlock_desc_en,Spring Festival,봄 축제
+StrStr.csv,en,Deal-in is not the end; All Last is only the beginning!,"쏘였다고 경기에서 패배한 것은 아니며, 최종국은 또다른 시작일 뿐입니다!"
+StrStr.csv,en,"No matter how big your hand is, a Tanyao will end it all.","내 손패가 아무리 강해도, 탕야오 한번에 끝날 수 있습니다."
+StrStr.csv,en,"You must have Yaku to declare a win. Before you make a call (Chii/Pon/Kan), make sure you check if you have Yaku.",화료하기 위해서는 역이 필요합니다. 울기(치/펑/깡) 전에 역이 있는지 꼭 확인하세요.
+StrStr.csv,en,Go to settings menu to view all types of Yaku,설정 메뉴에서 모든 역을 확인할 수 있습니다.
+StrStr.csv,en,"In settings, you can choose to play a tile with single or double click",설정에서 한번 터치 또는 두번 터치로 타패하도록 변경할 수 있습니다.
+StrStr.csv,en,Players who use IE or Opera browsers may encounter lag issues. We recommend Chrome，FireFox or Edge browsers.,"인터넷 익스플로러 또는 오페라 브라우저에서는 게임이 원할하게 구동되지 않을 수 있습니다. 크롬, 파이어폭스, 엣지 브라우저를 사용하는 것을 추천합니다."
+StrStr.csv,en,Mangan at Draw,유국만관
+StrStr.csv,en,Four-Wind Discarded,사풍연타
+StrStr.csv,en,Four-kan Abortion,사깡유국
+StrStr.csv,en,Four-player Riichi,사가리치
+StrStr.csv,en,Nine Different Terminals and Honors,구종구패
+StrStr.csv,en,Three Rons Draw,트리플론
+StrStr.csv,en,Ippatsu,일발
+StrStr.csv,en,Exhaustive Draw,유국
+StrStr.csv,en,Nine Terminal Initial Draw,구종구패
+StrStr.csv,en,Four Winds Draw,사풍연타
+StrStr.csv,en,Four Quads Draw,사깡유국
+StrStr.csv,en,Four Riichi Draw,사가리치
+StrStr.csv,en,Tsumo,쯔모
+StrStr.csv,en,Ron,론
+StrStr.csv,en,Riichi,리치
+StrStr.csv,en,Furiten,후리텐
+StrStr.csv,en,Deal-in,방총
+StrStr.csv,en,Cancel,취소
+StrStr.csv,en,4-Player,4인
+StrStr.csv,en,3-Player,3인
+StrStr.csv,en,1 Han,1판
+StrStr.csv,en,2 Han,2판
+StrStr.csv,en,3 Han,3판
+StrStr.csv,en,6 Han,6판
+StrStr.csv,en,Mangan,만관
+StrStr.csv,en,Yakuman,역만
+StrStr.csv,en,Double Yakuman,더블 역만
+StrStr.csv,en,Draw,유국
+StrStr.csv,en,Menzenchin Only,멘젠 한정
+StrStr.csv,en,Yaku Overview,역 요약
+StrStr.csv,en,Close,닫기
+StrStr.csv,en,Exit,나가기
+StrStr.csv,en,Auto Arrange,자동정렬
+StrStr.csv,en,Auto Call Win,자동화료
+StrStr.csv,en,No Chii/Pon/Kan,울기금지
+StrStr.csv,en,Auto Draw & Discard,자동쯔모기리
+StrStr.csv,en,4 Han,4판
+StrStr.csv,en,Local Yaku,로컬역
+StrStr.csv,en,Logging In...,로그인 중...
+StrStr.csv,en,View Yaku,역 보기
+StrStr.csv,en,Log Out,로그아웃
+StrStr.csv,en,Rank,랭킹
+StrStr.csv,en,Info,정보
+StrStr.csv,en,Turn,순:
+StrStr.csv,en,Wall,패산
+StrStr.csv,en,Repeat Counter,연장
+StrStr.csv,en,Ranked Match,단위전
+StrStr.csv,en,Recent High Score,최근 고득점
+StrStr.csv,en,Confirm,확인
+StrStr.csv,en,Trends,트렌드
+StrStr.csv,en,Detailed Info,상세 정보
+StrStr.csv,en,East Round,동풍전
+StrStr.csv,en,1st,1위
+StrStr.csv,en,2nd,2위
+StrStr.csv,en,3rd,3위
+StrStr.csv,en,4th,4위
+StrStr.csv,en,Negative,들통
+StrStr.csv,en,Total Played,총 플레이 수
+StrStr.csv,en,Avg Score,평균 점수
+StrStr.csv,en,Avg Rank,평균 순위
+StrStr.csv,en,Max Repeats,최대 연장
+StrStr.csv,en,Win Rate,승률
+StrStr.csv,en,Tsumo Rate,쯔모 비율
+StrStr.csv,en,Deal-in Rate,방총율
+StrStr.csv,en,Call Rate,울기 비율
+StrStr.csv,en,Riichi Rate,리치 비율
+StrStr.csv,en,South Round,반장전
+StrStr.csv,en,Yaku Achieved,달성한 역
+StrStr.csv,en,Quest,퀘스트
+StrStr.csv,en,Settings,설정
+StrStr.csv,en,BGM,배경음
+StrStr.csv,en,Mute,음소거
+StrStr.csv,en,SE,효과음
+StrStr.csv,en,Voice,음성
+StrStr.csv,en,Audio,오디오
+StrStr.csv,en,Preference,환경설정
+StrStr.csv,en,Single tap,한번 터치
+StrStr.csv,en,Double tap,두번 터치
+StrStr.csv,en,Message,메시지
+StrStr.csv,en,Anybody,누구나
+StrStr.csv,en,Friends only,친구만
+StrStr.csv,en,Forbid all,모두 금지
+StrStr.csv,en,Others,기타
+StrStr.csv,en,High FPS mode,고사양 모드
+StrStr.csv,en,Power saving mode,저사양 모드
+StrStr.csv,en,Restart Now,지금 재시작
+StrStr.csv,en,Authentication,인증
+StrStr.csv,en,Gift Code,기프트 코드
+StrStr.csv,en,Tutorials,튜토리얼
+StrStr.csv,en,View Yaku,역 보기
+StrStr.csv,en,Log Out,로그아웃
+StrStr.csv,en,Tap to close,탭하여 닫기
+StrStr.csv,en,Added to titles,타이틀에 추가됨
+StrStr.csv,en,Enter a Gift Code to claim rewards,보상을 받기 위해 기프트 코드 입력
+StrStr.csv,en,Mute this for 5m,5분 동안 음소거
+StrStr.csv,en,Join,참가
+StrStr.csv,en,Invites you to join,게임 초대
+StrStr.csv,en,Auto-cancel after 3 minutes,3분 뒤 자동 취소
+StrStr.csv,en,Add,추가
+StrStr.csv,en,Enter number,번호 입력
+StrStr.csv,en,No Red Five,적도라 없음
+StrStr.csv,en,3 Red Five,적도라 3개
+StrStr.csv,en,4 Red Five,적도라 4개
+StrStr.csv,en,2 Red Five,적도라 2개
+StrStr.csv,en,Just now,지금
+StrStr.csv,en,minutes,분
+StrStr.csv,en,hours,시간
+StrStr.csv,en,days,일
+StrStr.csv,en,weeks,주
+StrStr.csv,en,months,개월
+StrStr.csv,en,Second,초
+StrStr.csv,en,Minute,분
+StrStr.csv,en,Hour,시
+StrStr.csv,en,Day,일
+StrStr.csv,en,AI(Easy),AI(쉬움)
+StrStr.csv,en,AI(Normal),AI(보통)
+StrStr.csv,en,Friendly Match,친선전
+StrStr.csv,en,Successfully used,성공적으로 사용함
+StrStr.csv,en,Tournament Match,대회전
+StrStr.csv,en,4-Player (1 Game),4인 (단판)
+StrStr.csv,en,4-Player East,4인 동풍전
+StrStr.csv,en,4-Player South,4인 반장전
+StrStr.csv,en,4-Player (vs AI),4인 (vs AI)
+StrStr.csv,en,3-Player (1 Game),3인 (단판)
+StrStr.csv,en,3-Player East,3인 동풍전
+StrStr.csv,en,3-Player South,3인 반장전
+StrStr.csv,en,3-Player (vs AI),3인 (vs AI)
+StrStr.csv,en,Current version,현재 버전
+StrStr.csv,en,Join Room #,참가: Room #
+StrStr.csv,en,Mode,모드
+StrStr.csv,en,Thinking Time,턴 시간 제한
+StrStr.csv,en,Number of Red Five,적도라 수
+StrStr.csv,en,Open Tanyao,쿠이탕
+StrStr.csv,en,No,아니오
+StrStr.csv,en,Yes,예
+StrStr.csv,en,Starting Points,시작 점수
+StrStr.csv,en,Minimum Points to Win,최소 승리 점수
+StrStr.csv,en,Negative Points,들통 점수
+StrStr.csv,en,Upper Limit,상한
+StrStr.csv,en,Riichi Points,리치 점수
+StrStr.csv,en,Repeat Counter Points,연장 점수
+StrStr.csv,en,No-Tenpai Penalty,노텐 패널티
+StrStr.csv,en,Game Tips,게임 팁
+StrStr.csv,en,Enable,활성화
+StrStr.csv,en,Disable,비활성화
+StrStr.csv,en,Finding opponents,상대방을 찾는 중
+StrStr.csv,en,Starting soon,잠시 후 시작: 
+StrStr.csv,en,Ranked,단위전
+EventsSoscoin.csv,desc_en,Only players of Adept rank or above can claim Revival Tokens. Keep working!,작사 등급 이상의 플레이어만 부활 토큰을 받을 수 있습니다. 계속 힘내세요!
+EventsSoscoin.csv,desc_en,You are currently an Adept.You may claim this when you have less than 4500 coppers. Available once per day.,당신은 현재 작사 등급입니다. 4500개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+EventsSoscoin.csv,desc_en,You are current an Expert. You may claim this when you have less than 9000 coppers. Available once per day.,당신은 현재 작걸 등급입니다. 9000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+EventsSoscoin.csv,desc_en,You are current a Master. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 작호 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+EventsSoscoin.csv,desc_en,You are current a Saint. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 작성 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+EventsSoscoin.csv,desc_en,You are current a Celestial. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 혼천 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+LevelDefinitionCharacter.csv,unlock_desc_en,New daily voice unlocked!\\nNew match voice unlocked!,새 일일 보이스 잠금 해제!\\n새 게임 보이스 잠금 해제!
+LevelDefinitionCharacter.csv,unlock_desc_en,New daily voice unlocked!\\nNew bonding voice unlocked!,새 일일 보이스 잠금 해제!\\n새 인연 보이스 잠금 해제!
+LevelDefinitionCharacter.csv,unlock_desc_en,New Han-declaration voice unlocked!\\nNew login voice unlocked!\\nNew daily voice unlocked!\\nNew bonding voice unlocked!,새 판 선언 보이스 잠금 해제!\\n새 로그인 보이스 잠금 해제!\\n새 일일 보이스 잠금 해제!\\n새 인연 보이스 잠금 해제!

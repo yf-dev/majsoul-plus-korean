@@ -9,7 +9,7 @@ def parse_node(translate_json_rows, node, path):
     if 'text' in node['props']:
         text = node['props']['text'].replace('\\', '\\\\').replace('\n', '\\n')
         if text:
-            translate_json_rows.append([path, text, text, None, None])
+            translate_json_rows.append([path, text, text])
     if 'child' in node:
         for i, child in enumerate(node['child']):
             parse_node(translate_json_rows, child, f'{path}|{i}')
@@ -27,7 +27,7 @@ def main(original_assets_path, translation_path):
 
     with open(templates_path / 'translate_json.csv', 'w', encoding='utf-8-sig', newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
-        csv_writer.writerow(['location', 'source', 'target', 'notes', 'developer comments'])
+        csv_writer.writerow(['location', 'source', 'target'])
         for row in translate_json_rows:
             csv_writer.writerow(row)
 
