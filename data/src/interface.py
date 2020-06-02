@@ -79,6 +79,10 @@ def action_template(args):
     from generate_translation_json import main as generate_translation_json
     generate_translation_json(args.original_assets_path, args.translation_path)
 
+    from generate_translation_po import main as generate_translation_po
+    generate_translation_po(args.translation_path)
+
+
 def action_atlas(args):
     if args.atlas_action == 'pack':
         from pack_atlas import main as pack_atlas
@@ -93,9 +97,14 @@ def action_atlas(args):
         from unpack_all_atlas import main as unpack_all_atlas
         unpack_all_atlas(args.original_assets_path)
 
+
 def action_build(args):
     from export_sheets import main as export_sheets
     export_sheets(args.original_assets_path, args.temp_path)
+
+    if not hasattr(args, 'skip_po') or not args.skip_po:
+        from apply_translation_po import main as apply_translation_po
+        apply_translation_po(args.translation_path)
 
     from apply_translation_sheet import main as apply_translation_sheet
     apply_translation_sheet(args.translation_path, args.temp_path)
@@ -165,6 +174,7 @@ if __name__ == '__main__':
         parser_atlas_unpack_all = atlas_subparsers.add_parser('unpack-all', help='unpack all .atlas files in default path')
 
         parser_build = action_subparsers.add_parser('build', help='build asset data')
+        parser_build.add_argument('--skip-po', help='skip build po file to csv', action='store_true', default=False)
 
         parser_all = action_subparsers.add_parser('all', help='update original assets, apply translation and build all things automatically')
         parser_all.add_argument('--skip-download', help='skip download', action='store_true')

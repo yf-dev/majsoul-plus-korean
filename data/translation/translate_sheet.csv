@@ -527,8 +527,7 @@ ItemDefinitionCharacter.csv,desc_stature_en,178cm,178cm
 ItemDefinitionCharacter.csv,desc_birth_en,24th December,12월 24일
 ItemDefinitionCharacter.csv,desc_cv_en,Jun Fukuyama,후쿠야마 쥰
 ItemDefinitionCharacter.csv,desc_hobby_en,"Mahjong, gaming, bartending","마작, 게임, 칵테일"
-ItemDefinitionCharacter.csv,desc_en,"Natsuki Shinomiya is a common college boy as well as a part-time bartender of LULLABY. Like many Otakus, Shinomiya spends all his spare time in playing video games and reading mangas, and behaves like a chunibyo in certain circumstances. Under the influence of the owner of LULLABY, Shinomiya learned and became fond of Mahjong.
-Shinomiya role-plays a rogue character named WhiteNight in an MMORPG. He cosplays his rogue from time to time, and calls himself the best coser of WhiteNight.","바 ""LULLABY""에서 바텐더 아르바이트를 하고 있는 평범한 대학생. 약간 중2병스럽고, 게임과 만화를 좋아하는 오타쿠. 바 오너의 영향으로 마작을 시작했다. 마작 실력에는 꽤 자신이 있다. 자주 하는 MMORPG에서는 ""백야(白夜)""라는 ID로 도적 캐릭터를 플레이하고 있다. 평소 자신 안에 억눌려있던 감정을 토해내기 때문인지, 게임 내의 언동은 실제라고 믿기 어려울 정도로 날뛰는 경향이 있다. 동인 이벤트 등에서는 ""백야""의 코스프레를 하고 자주 참가해, 가장 재현도가 높은 백야 코스플레이어라고 칭송받고 있다."
+ItemDefinitionCharacter.csv,desc_en,"Natsuki Shinomiya is a common college boy as well as a part-time bartender of LULLABY. Like many Otakus, Shinomiya spends all his spare time in playing video games and reading mangas, and behaves like a chunibyo in certain circumstances. Under the influence of the owner of LULLABY, Shinomiya learned and became fond of Mahjong.\nShinomiya role-plays a rogue character named WhiteNight in an MMORPG. He cosplays his rogue from time to time, and calls himself the best coser of WhiteNight.","바 ""LULLABY""에서 바텐더 아르바이트를 하고 있는 평범한 대학생. 약간 중2병스럽고, 게임과 만화를 좋아하는 오타쿠. 바 오너의 영향으로 마작을 시작했다. 마작 실력에는 꽤 자신이 있다. 자주 하는 MMORPG에서는 ""백야(白夜)""라는 ID로 도적 캐릭터를 플레이하고 있다. 평소 자신 안에 억눌려있던 감정을 토해내기 때문인지, 게임 내의 언동은 실제라고 믿기 어려울 정도로 날뛰는 경향이 있다. 동인 이벤트 등에서는 ""백야""의 코스프레를 하고 자주 참가해, 가장 재현도가 높은 백야 코스플레이어라고 칭송받고 있다."
 ItemDefinitionCharacter.csv,name_en,Wanjirou,왕지로
 ItemDefinitionCharacter.csv,desc_stature_en,165cm,165cm
 ItemDefinitionCharacter.csv,desc_birth_en,13th January,1월 13일
@@ -614,7 +613,6 @@ ItemDefinitionCharacter.csv,desc_cv_en,Tetsuya Kakihara,카키하라 테츠야
 ItemDefinitionCharacter.csv,desc_hobby_en,"Fruit, hunting, game consoles","과일, 사냥, 게임기"
 ItemDefinitionCharacter.csv,desc_en,"Ein is the descendant of an ancient race. Their most significant trait is their appearance. Male or female, old or young, all of them have some characteristics that can be linked to animals. He took his father's words to look for a hunting ground when he was 16. Accidentally, he stepped onto the land of far east where his instinct was awakened by a certain object. It is at this moment, he realized he have already found his ""hunting ground"".","몸에 다른 동물의 특징이 나타나 있는 오래된 종족의 후예. 16 세때 일족의 규칙과 아버지의 말에 따라 ""사냥터""를 찾는 여행에 나섰다. 도착한 먼 동쪽 나라에서 마작을 접한 순간, 이 땅 이야말로 그의 ""사냥터""라고 야생의 본능으로 확신했다."
 AudioBgm.csv,name_en,Sakura,벛꽃
-AudioBgm.csv,unlock_desc_en,,
 AudioBgm.csv,name_en,Midsummer,한여름
 AudioBgm.csv,unlock_desc_en,Unlock by event,이벤트로 해제
 AudioBgm.csv,name_en,Bamboo,대나무
