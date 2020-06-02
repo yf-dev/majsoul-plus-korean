@@ -40,7 +40,7 @@ def main(translation_path, temp_path):
 
     with open(templates_path / 'translate_sheet.csv', 'w', encoding='utf-8-sig', newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
-        csv_writer.writerow(['location', 'context', 'source', 'target', 'translator_comments', 'developer_comments'])
+        csv_writer.writerow(['location', 'context', 'source', 'target', 'notes', 'developer comments'])
         for row in translate_sheet_rows:
             r = row.split('|')
             csv_writer.writerow(r + [r[2]])

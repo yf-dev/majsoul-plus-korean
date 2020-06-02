@@ -1,4 +1,4 @@
-﻿location,source,target,translator_comments,developer_comments
+﻿location,source,target,notes,developer comments
 both_ui/bind_mail0|0|2,绑定邮箱,绑定邮箱
 both_ui/bind_mail0|0|7|0,发送验证码,发送验证码
 both_ui/bind_mail0|0|8|0,绑定,绑定
