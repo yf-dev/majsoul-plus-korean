@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-02 16:46+0000\n"
+"PO-Revision-Date: 2020-06-03 02:36+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -11224,3 +11224,830 @@ msgstr "2 게임을 이페코로 화료"
 msgctxt "sheet|EventsBaseTask.csv|desc_en"
 msgid "Win 1 game with Pure Double Sequence"
 msgstr "1 게임을 이페코로 화료"
+
+#: translate_sheet.csv:687
+msgctxt "sheet|InfoError.csv|en"
+msgid "手机格式错误"
+msgstr "手机格式错误"
+
+#: translate_sheet.csv:686
+msgctxt "sheet|InfoError.csv|en"
+msgid "未绑定手机"
+msgstr "未绑定手机"
+
+#: translate_sheet.csv:685
+msgctxt "sheet|InfoError.csv|en"
+msgid "必须用本账号手机来绑定邮箱"
+msgstr "必须用本账号手机来绑定邮箱"
+
+#: translate_sheet.csv:684
+msgctxt "sheet|InfoError.csv|en"
+msgid "目标手机已经被使用"
+msgstr "目标手机已经被使用"
+
+#: translate_sheet.csv:683
+msgctxt "sheet|InfoError.csv|en"
+msgid "本账号已绑定手机"
+msgstr "本账号已绑定手机"
+
+#: translate_sheet.csv:682
+msgctxt "sheet|InfoError.csv|en"
+msgid "手机发送过于频繁"
+msgstr "手机发送过于频繁"
+
+#: translate_sheet.csv:681
+msgctxt "sheet|InfoError.csv|en"
+msgid "不支持的注册类型"
+msgstr "不支持的注册类型"
+
+#: translate_sheet.csv:680
+msgctxt "sheet|InfoError.csv|en"
+msgid "您需要先绑定并验证邮箱，才能充值或寻觅"
+msgstr "您需要先绑定并验证邮箱，才能充值或寻觅"
+
+#: translate_sheet.csv:679
+msgctxt "sheet|InfoError.csv|en"
+msgid "必须用本账号邮箱来绑定邮箱"
+msgstr "必须用本账号邮箱来绑定邮箱"
+
+#: translate_sheet.csv:678
+msgctxt "sheet|InfoError.csv|en"
+msgid "发送邮箱过于频繁"
+msgstr "发送邮箱过于频繁"
+
+#: translate_sheet.csv:677
+msgctxt "sheet|InfoError.csv|en"
+msgid "操作口令过期"
+msgstr "操作口令过期"
+
+#: translate_sheet.csv:676
+msgctxt "sheet|InfoError.csv|en"
+msgid "邮箱验证失败"
+msgstr "邮箱验证失败"
+
+#: translate_sheet.csv:675
+msgctxt "sheet|InfoError.csv|en"
+msgid "未绑定邮箱"
+msgstr "未绑定邮箱"
+
+#: translate_sheet.csv:674
+msgctxt "sheet|InfoError.csv|en"
+msgid "错误的验证码适用类型"
+msgstr "错误的验证码适用类型"
+
+#: translate_sheet.csv:673
+msgctxt "sheet|InfoError.csv|en"
+msgid "未提供密码"
+msgstr "未提供密码"
+
+#: translate_sheet.csv:672
+msgctxt "sheet|InfoError.csv|en"
+msgid "该邮箱已经被其他账号绑定"
+msgstr "该邮箱已经被其他账号绑定"
+
+#: translate_sheet.csv:671
+msgctxt "sheet|InfoError.csv|en"
+msgid "本账号已绑定邮箱"
+msgstr "本账号已绑定邮箱"
+
+#: translate_sheet.csv:670
+msgctxt "sheet|InfoError.csv|en"
+msgid "邮件发送失败"
+msgstr "邮件发送失败"
+
+#: translate_sheet.csv:669
+msgctxt "sheet|InfoError.csv|en"
+msgid "邮箱格式错误"
+msgstr "邮箱格式错误"
+
+#: translate_sheet.csv:414
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Event!  Avoid dealing into others' in 8 games"
+msgstr "이벤트!  8번 방총 회피하기"
+
+#: translate_sheet.csv:413
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Event!  Play 3 matches in Melee Room"
+msgstr "이벤트!  근접탁 2번 플레이"
+
+#: translate_sheet.csv:412
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Red envelope lucky money! Play 2 matches in Friends Room"
+msgstr "새해 복주머니! 친선전 2번 플레이"
+
+#: translate_sheet.csv:411
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Red envelope lucky money! Avoid dealing into others' in 8 games into others'"
+" hands"
+msgstr "새해 복주머니! 8번 방총 회피하기"
+
+#: translate_sheet.csv:410
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Red envelope lucky money! Win 1 game with Mixed Flush or Pure Flush"
+msgstr "새해 복주머니! 1 게임을 혼일색 또는 청일색으로 화료"
+
+#: translate_sheet.csv:409
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Red envelope lucky money! Win 1 game with Flat Hand"
+msgstr "새해 복주머니! 1 게임을 핑후로 화료"
+
+#: translate_sheet.csv:408
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Red envelope lucky money! Win 2 games with Player Wind or Round Wind"
+msgstr "새해 복주머니! 2 게임을 자풍패/장풍패로 화료"
+
+#: translate_sheet.csv:407
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Red envelope lucky money! Win 2 games with Tanyao"
+msgstr "새해 복주머니! 2 게임을 탕야오로 화료"
+
+#: translate_sheet.csv:406
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Red envelope lucky money! Win 1 game with Riichi"
+msgstr "새해 복주머니! 1 게임을 리치하여 화료"
+
+#: translate_sheet.csv:405
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Get 1st or 2nd 1 time in Room of the Throne"
+msgstr "보상 세배! 왕좌탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:404
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Play 3 matches in Room of the Throne"
+msgstr "보상 세배! 왕좌탁에서 3번 플레이"
+
+#: translate_sheet.csv:403
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Play 2 matches in Room of the Throne"
+msgstr "보상 세배! 왕좌탁에서 2번 플레이"
+
+#: translate_sheet.csv:402
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Get 1st or 2nd 1 time in Jade Room"
+msgstr "보상 세배! 옥탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:401
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Play 3 matches in Jade Room"
+msgstr "보상 세배! 옥탁에서 3번 플레이"
+
+#: translate_sheet.csv:400
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Play 2 matches in Jade Room"
+msgstr "보상 세배! 옥탁에서 2번 플레이"
+
+#: translate_sheet.csv:399
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Get 1st or 2nd 1 time in Gold Room"
+msgstr "보상 세배! 금탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:398
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Play 3 matches in Gold Room"
+msgstr "보상 세배! 금탁에서 3번 플레이"
+
+#: translate_sheet.csv:397
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Play 2 matches in Gold Room"
+msgstr "보상 세배! 금탁에서 2번 플레이"
+
+#: translate_sheet.csv:396
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Get 1st or 2nd 1 time in Silver Room"
+msgstr "보상 세배! 은탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:395
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Play 3 matches in Silver Room"
+msgstr "보상 세배! 은탁에서 3번 플레이"
+
+#: translate_sheet.csv:394
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Play 2 matches in Silver Room"
+msgstr "보상 세배! 은탁에서 2번 플레이"
+
+#: translate_sheet.csv:393
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Play 2 matches in Friends Room"
+msgstr "보상 세배! 친선전 2번 플레이"
+
+#: translate_sheet.csv:392
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Avoid dealing into others' in 8 games"
+msgstr "보상 세배! 8번 방총 회피하기"
+
+#: translate_sheet.csv:391
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Win 2 games with Tsumo"
+msgstr "보상 세배! 2 게임을 쯔모로 화료"
+
+#: translate_sheet.csv:390
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Win 4 games with Ron"
+msgstr "보상 세배! 4 게임을 론으로 화료"
+
+#: translate_sheet.csv:389
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Get 1st or 2nd 1 time in Bronze Room"
+msgstr "보상 세배! 동탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:388
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Play 3 matches in Bronze Room"
+msgstr "보상 세배! 동탁에서 3번 플레이"
+
+#: translate_sheet.csv:387
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Triple rewards! Play 2 matches in Bronze Room"
+msgstr "보상 세배! 동탁에서 2번 플레이"
+
+#: translate_sheet.csv:386
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 2 matches in Jade Room - "
+"4-Player South"
+msgstr "기간 한정 보상 세배! 옥탁 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:385
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 2 matches in Jade Room - "
+"4-Player East"
+msgstr "기간 한정 보상 세배! 옥탁 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:384
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 3 matches in Jade Room - "
+"4-Player South"
+msgstr "기간 한정 보상 세배! 옥탁 4인 반장전 3번 플레이"
+
+#: translate_sheet.csv:383
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 3 matches in Jade Room - "
+"4-Player East"
+msgstr "기간 한정 보상 세배! 옥탁 4인 동풍전 3번 플레이"
+
+#: translate_sheet.csv:382
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 2 matches in Gold Room - "
+"4-Player South"
+msgstr "기간 한정 보상 세배! 금탁 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:381
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 2 matches in Gold Room - "
+"4-Player East"
+msgstr "기간 한정 보상 세배! 금탁 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:380
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 3 matches in Gold Room - "
+"4-Player South"
+msgstr "기간 한정 보상 세배! 금탁 4인 반장전 3번 플레이"
+
+#: translate_sheet.csv:379
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 3 matches in Gold Room - "
+"4-Player East"
+msgstr "기간 한정 보상 세배! 금탁 4인 동풍전 3번 플레이"
+
+#: translate_sheet.csv:378
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 2 matches in Silver Room - "
+"4-Player South"
+msgstr "기간 한정 보상 세배! 은탁 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:377
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 2 matches in Silver Room - "
+"4-Player East"
+msgstr "기간 한정 보상 세배! 은탁 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:376
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 3 matches in Silver Room - "
+"4-Player South"
+msgstr "기간 한정 보상 세배! 은탁 4인 반장전 3번 플레이"
+
+#: translate_sheet.csv:375
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 3 matches in Silver Room - "
+"4-Player East"
+msgstr "기간 한정 보상 세배! 은탁 4인 동풍전 3번 플레이"
+
+#: translate_sheet.csv:374
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 2 matches in Friends Room -"
+" 4-Player South"
+msgstr "기간 한정 보상 세배! 친선전 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:373
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 2 matches in Friends Room -"
+" 4-Player East"
+msgstr "기간 한정 보상 세배! 친선전 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:372
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 2 matches in Bronze Room - "
+"4-Player South"
+msgstr "기간 한정 보상 세배! 동탁 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:371
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 2 matches in Bronze Room - "
+"4-Player East"
+msgstr "기간 한정 보상 세배! 동탁 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:370
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 3 matches in Bronze Room - "
+"4-Player South"
+msgstr "기간 한정 보상 세배! 동탁 4인 반장전 3번 플레이"
+
+#: translate_sheet.csv:369
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get triple rewards for a limited time only! Play 3 matches in Bronze Room - "
+"4-Player East"
+msgstr "기간 한정 보상 세배! 동탁 4인 동풍전 3번 플레이"
+
+#: translate_sheet.csv:368
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Get 1st or 2nd 1 time in Room of the Throne"
+msgstr "보상 두배! 왕좌탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:367
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Play 3 matches in Room of the Throne"
+msgstr "보상 두배! 왕좌탁에서 3번 플레이"
+
+#: translate_sheet.csv:366
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Play 2 matches in Room of the Throne"
+msgstr "보상 두배! 왕좌탁에서 2번 플레이"
+
+#: translate_sheet.csv:365
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Get 1st or 2nd 1 time in Jade Room"
+msgstr "보상 두배! 옥탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:364
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Play 3 matches in Jade Room"
+msgstr "보상 두배! 옥탁에서 3번 플레이"
+
+#: translate_sheet.csv:363
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Play 2 matches in Jade Room"
+msgstr "보상 두배! 옥탁에서 2번 플레이"
+
+#: translate_sheet.csv:362
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Get 1st or 2nd 1 time in Gold Room"
+msgstr "보상 두배! 금탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:361
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Play 3 matches in Gold Room"
+msgstr "보상 두배! 금탁에서 3번 플레이"
+
+#: translate_sheet.csv:360
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Play 2 matches in Gold Room"
+msgstr "보상 두배! 금탁에서 2번 플레이"
+
+#: translate_sheet.csv:359
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Get 1st or 2nd 1 time in Silver Room"
+msgstr "보상 두배! 은탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:358
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Play 3 matches in Silver Room"
+msgstr "보상 두배! 은탁에서 3번 플레이"
+
+#: translate_sheet.csv:357
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Play 2 matches in Silver Room"
+msgstr "보상 두배! 은탁에서 2번 플레이"
+
+#: translate_sheet.csv:356
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Play 2 matches in Friends Room"
+msgstr "보상 두배! 친선전 2번 플레이"
+
+#: translate_sheet.csv:355
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Avoid dealing into others' in 8 games"
+msgstr "보상 두배! 8번 방총 회피하기"
+
+#: translate_sheet.csv:354
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Win 2 games with Tsumo"
+msgstr "보상 두배! 2 게임을 쯔모로 화료"
+
+#: translate_sheet.csv:353
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Win 4 games with Ron"
+msgstr "보상 두배! 4 게임을 론으로 화료"
+
+#: translate_sheet.csv:352
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Get 1st or 2nd 1 time in Bronze Room"
+msgstr "보상 두배! 동탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:351
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Play 3 matches in Bronze Room"
+msgstr "보상 두배! 동탁에서 3번 플레이"
+
+#: translate_sheet.csv:350
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Play 2 matches in Bronze Room"
+msgstr "보상 두배! 동탁에서 2번 플레이"
+
+#: translate_sheet.csv:349
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 2 matches in Jade Room - "
+"4-Player South"
+msgstr "기간 한정 보상 두배! 옥탁 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:348
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 2 matches in Jade Room - "
+"4-Player East"
+msgstr "기간 한정 보상 두배! 옥탁 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:347
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 3 matches in Jade Room - "
+"4-Player South"
+msgstr "기간 한정 보상 두배! 옥탁 4인 반장전 3번 플레이"
+
+#: translate_sheet.csv:346
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 3 matches in Jade Room - "
+"4-Player East"
+msgstr "기간 한정 보상 두배! 옥탁 4인 동풍전 3번 플레이"
+
+#: translate_sheet.csv:345
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 2 matches in Gold Room - "
+"4-Player South"
+msgstr "기간 한정 보상 두배! 금탁 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:344
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 2 matches in Gold Room - "
+"4-Player East"
+msgstr "기간 한정 보상 두배! 금탁 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:343
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 3 matches in Gold Room - "
+"4-Player South"
+msgstr "기간 한정 보상 두배! 금탁 4인 반장전 3번 플레이"
+
+#: translate_sheet.csv:342
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 3 matches in Gold Room - "
+"4-Player East"
+msgstr "기간 한정 보상 두배! 금탁 4인 동풍전 3번 플레이"
+
+#: translate_sheet.csv:341
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 2 matches in Silver Room - "
+"4-Player South"
+msgstr "기간 한정 보상 두배! 은탁 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:340
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 2 matches in Silver Room - "
+"4-Player East"
+msgstr "기간 한정 보상 두배! 은탁 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:339
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 3 matches in Silver Room - "
+"4-Player South"
+msgstr "기간 한정 보상 두배! 은탁 4인 반장전 3번 플레이"
+
+#: translate_sheet.csv:338
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 3 matches in Silver Room - "
+"4-Player East"
+msgstr "기간 한정 보상 두배! 은탁 4인 동풍전 3번 플레이"
+
+#: translate_sheet.csv:337
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 2 matches in Friends Room -"
+" 4-Player South"
+msgstr "기간 한정 보상 두배! 친선전 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:336
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 2 matches in Friends Room -"
+" 4-Player East"
+msgstr "기간 한정 보상 두배! 친선전 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:335
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 2 matches in Bronze Room - "
+"4-Player South"
+msgstr "기간 한정 보상 두배! 동탁 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:334
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 2 matches in Bronze Room - "
+"4-Player East"
+msgstr "기간 한정 보상 두배! 동탁 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:333
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid ""
+"Get double rewards for a limited time only! Play 3 matches in Bronze Room - "
+"4-Player South"
+msgstr "기간 한정 보상 두배! 동탁 4인 반장전 3번 플레이"
+
+#: translate_sheet.csv:332
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Double rewards! Play 3 matches in Bronze Room - 4-Player East"
+msgstr "보상 두배! 동탁 4인 동풍전 3번 플레이"
+
+#: translate_sheet.csv:331
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Get 1st or 2nd 1 time in Room of the Throne"
+msgstr "왕좌탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:330
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 3 matches in Room of the Throne"
+msgstr "왕좌탁에서 3번 플레이"
+
+#: translate_sheet.csv:329
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Room of the Throne"
+msgstr "왕좌탁에서 2번 플레이"
+
+#: translate_sheet.csv:328
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Get 1st or 2nd 1 time in Jade Room"
+msgstr "옥탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:327
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 3 matches in Jade Room"
+msgstr "옥탁에서 3번 플레이"
+
+#: translate_sheet.csv:326
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Jade Room"
+msgstr "옥탁에서 2번 플레이"
+
+#: translate_sheet.csv:325
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Get 1st or 2nd 1 time in Gold Room"
+msgstr "금탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:324
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 3 matches in Gold Room"
+msgstr "금탁에서 3번 플레이"
+
+#: translate_sheet.csv:323
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Gold Room"
+msgstr "금탁에서 2번 플레이"
+
+#: translate_sheet.csv:322
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Get 1st or 2nd 1 time in Silver Room"
+msgstr "은탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:321
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 3 matches in Silver Room"
+msgstr "은탁에서 3번 플레이"
+
+#: translate_sheet.csv:320
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Silver Room"
+msgstr "은탁에서 2번 플레이"
+
+#: translate_sheet.csv:319
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Friends Room"
+msgstr "친선전 2번 플레이"
+
+#: translate_sheet.csv:318
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Avoid dealing into others' in 8 games"
+msgstr "8번 방총 회피하기"
+
+#: translate_sheet.csv:317
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Win 2 games with Tsumo"
+msgstr "2 게임을 쯔모로 화료"
+
+#: translate_sheet.csv:316
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Win 4 games with Ron"
+msgstr "4 게임을 론으로 화료"
+
+#: translate_sheet.csv:315
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Get 1st or 2nd 1 time in Bronze Room"
+msgstr "동탁에서 1위 또는 2위 1회 달성"
+
+#: translate_sheet.csv:314
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 3 matches in Bronze Room"
+msgstr "동탁에서 3번 플레이"
+
+#: translate_sheet.csv:313
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Bronze Room"
+msgstr "동탁에서 2번 플레이"
+
+#: translate_sheet.csv:312
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Jade Room - 4-Player South"
+msgstr "옥탁 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:311
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Jade Room - 4-Player East"
+msgstr "옥탁 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:310
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 3 matches in Jade Room - 4-Player South"
+msgstr "옥탁 4인 반장전 3번 플레이"
+
+#: translate_sheet.csv:309
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 3 matches in Jade Room - 4-Player East"
+msgstr "옥탁 4인 동풍전 3번 플레이"
+
+#: translate_sheet.csv:308
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Gold Room - 4-Player South"
+msgstr "금탁 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:307
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Gold Room - 4-Player East"
+msgstr "금탁 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:306
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 3 matches in Gold Room - 4-Player South"
+msgstr "금탁 4인 반장전 3번 플레이"
+
+#: translate_sheet.csv:305
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 3 matches in Gold Room - 4-Player East"
+msgstr "금탁 4인 동풍전 3번 플레이"
+
+#: translate_sheet.csv:304
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Silver Room - 4-Player South"
+msgstr "은탁 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:303
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Silver Room - 4-Player East"
+msgstr "은탁 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:302
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 3 matches in Silver Room - 4-Player South"
+msgstr "은탁 4인 반장전 3번 플레이"
+
+#: translate_sheet.csv:301
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 3 matches in Silver Room - 4-Player East"
+msgstr "은탁 4인 동풍전 3번 플레이"
+
+#: translate_sheet.csv:300
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Friends Room - 4-Player South"
+msgstr "친선전 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:299
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Friends Room - 4-Player East"
+msgstr "친선전 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:298
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Bronze Room - 4-Player South"
+msgstr "동탁 4인 반장전 2번 플레이"
+
+#: translate_sheet.csv:297
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 2 matches in Bronze Room - 4-Player East"
+msgstr "동탁 4인 동풍전 2번 플레이"
+
+#: translate_sheet.csv:296
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 3 matches in Bronze Room - 4-Player South"
+msgstr "동탁 4인 반장전 3번 플레이"
+
+#: translate_sheet.csv:295
+msgctxt "sheet|EventsDailyevent.csv|desc_en"
+msgid "Play 3 matches in Bronze Room - 4-Player East"
+msgstr "동탁 4인 동풍전 3번 플레이"
+
+#: translate_sheet.csv:294
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Finished 10 laps on the event map"
+msgstr "이벤트 맵에서 10바퀴 완주"
+
+#: translate_sheet.csv:293
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Finished 9 laps on the event map"
+msgstr "이벤트 맵에서 9바퀴 완주"
+
+#: translate_sheet.csv:292
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Finished 8 laps on the event map"
+msgstr "이벤트 맵에서 8바퀴 완주"
+
+#: translate_sheet.csv:291
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Finished 7 laps on the event map"
+msgstr "이벤트 맵에서 7바퀴 완주"
+
+#: translate_sheet.csv:290
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Finished 6 laps on the event map"
+msgstr "이벤트 맵에서 6바퀴 완주"
+
+#: translate_sheet.csv:289
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Finished 5 laps on the event map"
+msgstr "이벤트 맵에서 5바퀴 완주"
+
+#: translate_sheet.csv:288
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Finished 4 laps on the event map"
+msgstr "이벤트 맵에서 4바퀴 완주"
+
+#: translate_sheet.csv:287
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Finished 3 laps on the event map"
+msgstr "이벤트 맵에서 3바퀴 완주"
+
+#: translate_sheet.csv:286
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Finished 2 laps on the event map"
+msgstr "이벤트 맵에서 2바퀴 완주"
+
+#: translate_sheet.csv:285
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Finished 1 lap on the event map"
+msgstr "이벤트 맵에서 1바퀴 완주"
+
+#: translate_sheet.csv:284
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 3 games with at least a Red Five"
+msgstr "3 게임을 하나 이상의 적도라를 포함하여 화료"
+
+#: translate_sheet.csv:283
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 3 games with All Simples"
+msgstr "3 게임을 탕야오로 화료"
