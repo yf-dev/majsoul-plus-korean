@@ -1,0 +1,26 @@
+name: Build assets
+on: push
+
+jobs: 
+  run:
+    name: Build assets
+    runs-on: ubuntu-latest
+    steps: 
+    - name: Checkout repo
+      uses: actions/checkout@v2
+
+    - name: Build docker image
+      run: docker-compose build --force-rm --no-cache
+      working-directory: ./data
+    
+    - name: Run docker image to build
+      run: docker-compose run --rm python python src/interface.py --protoc-path=/utils/protoc/bin/protoc --fontbm-path=/utils/fontbm/bin/fontbm all
+
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v4
+      with:
+        author_name: Github Action
+        author_email: github-action@nothing.local
+        message: "Build Assets"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
