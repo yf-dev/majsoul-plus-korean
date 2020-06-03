@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-03 02:36+0000\n"
+"PO-Revision-Date: 2020-06-03 02:40+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -12051,3 +12051,8 @@ msgstr "3 게임을 하나 이상의 적도라를 포함하여 화료"
 msgctxt "sheet|EventsBaseTask.csv|desc_en"
 msgid "Win 3 games with All Simples"
 msgstr "3 게임을 탕야오로 화료"
+
+#: translate_sheet.csv:282
+msgctxt "sheet|EventsBaseTask.csv|desc_en"
+msgid "Win 1 game with Seven Pairs or All Triplets"
+msgstr "1 게임을 치또이츠 또는 또이또이로 화료"
