@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-03 22:46:22\n"
+"PO-Revision-Date: 2020-06-03 22:56:30\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -2351,11 +2351,6 @@ msgstr "휘옥 정보"
 msgctxt "Premium Jade:"
 msgid "json|lobby/checkhuiyu|0|3"
 msgstr "프리미엄 휘옥:"
-
-#: translate_json.csv:581
-msgctxt "Free Jade:"
-msgid "json|lobby/checkhuiyu|0|5"
-msgstr "무료 휘옥:"
 
 #: translate_json.csv:582
 msgctxt "Total:"
@@ -8725,12 +8720,6 @@ msgctxt "Contains unsupported characters. Please try again."
 msgid "sheet|InfoError.csv|en|692"
 msgstr "지원되지 않는 문자가 포함되어 있습니다. 다시 시도해주세요."
 
-#: translate_sheet.csv:693
-msgctxt ""
-"You cannot send friend requests or leave messages to players from another region."
-msgid "sheet|InfoError.csv|en|693"
-msgstr "다른 지역의 플레이어에게 친구 요청을 하거나 메시지를 남길 수 없습니다."
-
 #: translate_sheet.csv:694
 msgctxt "This account has already been registered."
 msgid "sheet|InfoError.csv|en|694"
@@ -10647,6 +10636,131 @@ msgctxt "Light Novel"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1039"
 msgstr "라이트 노벨"
 
+#: translate_sheet.csv:1040
+msgctxt ""
+"Written by Keikumusume, the novel is a necessary item required to build a "
+"bond with Keikumusume. It is published on school literature club’s magazine."
+" Just you know, the cover has nothing to do with its actual content."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1040"
+msgstr ""
+"케이쿠무스메가 쓴 소설로, 케이쿠무스메와 인연을 다지기 위해 필요합니다. 문학부 회지로 출판되었는데, 아시다시피 겉표지는 실제 내용과 "
+"아무런 관련이 없습니다."
+
+#: translate_sheet.csv:1042
+msgctxt ""
+"Doesn't look great, but tastes okay. Give it to a character to increase your"
+" Bond with him/her by 200 points. Characters who love cookies will receive "
+"bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1042"
+msgstr ""
+"겉보기와는 달리 맛은 괜찮습니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 쿠키를 좋아하는 캐릭터에게는 추가 인연 포인트가"
+" 주어집니다."
+
+#: translate_sheet.csv:1044
+msgctxt ""
+"Classic flavor. Give it to a character to increase your Bond with him/her by"
+" 1000 points. Characters who love cookies will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1044"
+msgstr ""
+"클래식한 맛입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 쿠키를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다."
+
+#: translate_sheet.csv:1046
+msgctxt ""
+"It's so delicious. Give it to a character to increase your Bond with him/her"
+" by 5000 points. Characters who love cookies will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1046"
+msgstr ""
+"정말 맛있습니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 쿠키를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다."
+
+#: translate_sheet.csv:1048
+msgctxt ""
+"You can play Tetris on it. Give it to a character to increase your Bond with"
+" him/her by 200 points. Characters who love game consoles will receive bonus"
+" Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1048"
+msgstr ""
+"테트리스를 플레이할 수 있습니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 게임기를 좋아하는 캐릭터에게는 추가 인연 "
+"포인트가 주어집니다."
+
+#: translate_sheet.csv:1050
+msgctxt ""
+"A pretty cool handheld console. Give it to a character to increase your Bond"
+" with him/her by 1000 points. Characters who love game consoles will receive"
+" bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1050"
+msgstr ""
+"꽤 멋진 휴대용 게임기입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 게임기를 좋아하는 캐릭터에게는 추가 인연 포인트가"
+" 주어집니다."
+
+#: translate_sheet.csv:1052
+msgctxt ""
+"A powerful console. Give it to a character to increase your Bond with "
+"him/her by 5000 points. Characters who love game consoles will receive bonus"
+" Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1052"
+msgstr ""
+"강력한 게임기입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 게임기를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1054
+msgctxt ""
+"A good table top decoration. Give it to a character to increase your Bond "
+"with him/her by 200 points. Characters who love artworks will receive bonus "
+"Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1054"
+msgstr ""
+"좋은 테이블 장식입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 미술품을 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1056
+msgctxt ""
+"Very artistic, good for room decoration. Give it to a character to increase "
+"your Bond with him/her by 1000 points. Characters who love artworks will "
+"receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1056"
+msgstr ""
+"매우 예술적이고, 실내 장식에 적합합니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 미술품을 좋아하는 캐릭터에게는 추가 "
+"인연 포인트가 주어집니다."
+
+#: translate_sheet.csv:1058
+msgctxt ""
+"A masterpiece worth millions of dollars. Give it to a character to increase "
+"your Bond with him/her by 5000 points. Characters who love artworks will "
+"receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1058"
+msgstr ""
+"수십억원의 가치가 있는 걸작입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 미술품을 좋아하는 캐릭터에게는 추가 인연 "
+"포인트가 주어집니다."
+
+#: translate_sheet.csv:1060
+msgctxt ""
+"Common beer mugs that can be seen everywhim/here. Give it to a character to "
+"increase your Bond with him/her by 200 points. Characters who love wine will"
+" receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1060"
+msgstr ""
+"어디에서나 볼 수 있는 일반적인 맥주잔입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 술을 좋아하는 캐릭터에게는 추가 "
+"인연 포인트가 주어집니다."
+
+#: translate_sheet.csv:1062
+msgctxt ""
+"Bespoke-made wine glass. Give it to a character to increase your Bond with "
+"him/her by 1000 points. Characters who love wine will receive bonus Bond "
+"points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1062"
+msgstr ""
+"맞춤형 와인잔입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 술을 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다."
+
+#: translate_sheet.csv:1064
+msgctxt ""
+"A world-renowned famous goblet. Give it to a character to increase your Bond"
+" with him/her by 5000 points. Characters who love wine will receive bonus "
+"Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1064"
+msgstr ""
+"세계적으로 유명한 고블렛잔입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 술을 좋아하는 캐릭터에게는 추가 인연 포인트가"
+" 주어집니다."
+
 #: translate_sheet.csv:1126
 msgctxt "Riichi - Fish"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1126"
@@ -11019,6 +11133,26 @@ msgctxt "Celestial"
 msgid "sheet|LevelDefinitionLevelDefinition.csv|full_name_en|1523"
 msgstr "혼천"
 
+#: translate_sheet.csv:1524
+msgctxt "Delicious Cookie"
+msgid "sheet|ShopsGoods.csv|name_en|1524"
+msgstr "맛있는 쿠키"
+
+#: translate_sheet.csv:1526
+msgctxt "Powerful Console"
+msgid "sheet|ShopsGoods.csv|name_en|1526"
+msgstr "강력한 게임기"
+
+#: translate_sheet.csv:1527
+msgctxt "Classic Painting"
+msgid "sheet|ShopsGoods.csv|name_en|1527"
+msgstr "고전 회화"
+
+#: translate_sheet.csv:1528
+msgctxt "Valuable Goblet"
+msgid "sheet|ShopsGoods.csv|name_en|1528"
+msgstr "귀중한 고블렛잔"
+
 #: translate_sheet.csv:1560
 msgctxt "Summon Scroll"
 msgid "sheet|ShopsGoods.csv|name_en|1560"
@@ -11028,6 +11162,46 @@ msgstr "기원의 두루마리"
 msgctxt "Rename Scroll"
 msgid "sheet|ShopsGoods.csv|name_en|1561"
 msgstr "이름 변경 두루마리"
+
+#: translate_sheet.csv:1584
+msgctxt "Handmade Cookie"
+msgid "sheet|ShopsZhpGoods.csv|name_en|1584"
+msgstr "수제 쿠키"
+
+#: translate_sheet.csv:1585
+msgctxt "Nostalgic Console"
+msgid "sheet|ShopsZhpGoods.csv|name_en|1585"
+msgstr "추억의 게임기"
+
+#: translate_sheet.csv:1586
+msgctxt "Simple Art"
+msgid "sheet|ShopsZhpGoods.csv|name_en|1586"
+msgstr "단순한 예술품"
+
+#: translate_sheet.csv:1587
+msgctxt "Common Beer Mug"
+msgid "sheet|ShopsZhpGoods.csv|name_en|1587"
+msgstr "평범한 맥주잔"
+
+#: translate_sheet.csv:1592
+msgctxt "Danish Cookie"
+msgid "sheet|ShopsZhpGoods.csv|name_en|1592"
+msgstr "덴마크 쿠키"
+
+#: translate_sheet.csv:1593
+msgctxt "Xwitch Console"
+msgid "sheet|ShopsZhpGoods.csv|name_en|1593"
+msgstr "휴대용 게임기"
+
+#: translate_sheet.csv:1594
+msgctxt "Wall Painting"
+msgid "sheet|ShopsZhpGoods.csv|name_en|1594"
+msgstr "벽화"
+
+#: translate_sheet.csv:1595
+msgctxt "Exquisite Wine Glass"
+msgid "sheet|ShopsZhpGoods.csv|name_en|1595"
+msgstr "정교한 와인잔"
 
 #: translate_sheet.csv:1600
 msgctxt "Sphere of Courage"
@@ -11855,11 +12029,6 @@ msgstr "후리텐"
 msgctxt "Deal-in"
 msgid "sheet|StrStr.csv|en|2239"
 msgstr "방총"
-
-#: translate_sheet.csv:2284
-msgctxt "VIP Point:"
-msgid "sheet|StrStr.csv|en|2284"
-msgstr "VIP 포인트:"
 
 #: translate_sheet.csv:2285
 msgctxt "Credit Card"
