@@ -19,9 +19,9 @@ def main(translation_path):
     )
 
     for entry in po.translated_entries():
-        if entry.msgctxt.startswith('json|'):
+        if entry.msgid.startswith('json|'):
             json_entries.append(entry)
-        elif entry.msgctxt.startswith('sheet|'):
+        elif entry.msgid.startswith('sheet|'):
             sheet_entries.append(entry)
         else:
             raise Exception(f'Unexpected msgid: {entry.msgid}')
@@ -30,8 +30,8 @@ def main(translation_path):
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(['location', 'source', 'target'])
         for entry in json_entries:
-            path = entry.msgctxt[len('json|'):]
-            target = entry.msgid.replace('\\', '\\\\').replace('\n', '\\n')
+            path = entry.msgid[len('json|'):]
+            target = entry.msgctxt.replace('\\', '\\\\').replace('\n', '\\n')
             translated = entry.msgstr.replace('\\', '\\\\').replace('\n', '\\n')
             csv_writer.writerow([path, target, translated])
 
@@ -39,10 +39,10 @@ def main(translation_path):
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(['location', 'context', 'source', 'target'])
         for entry in sheet_entries:
-            full_path = entry.msgctxt[len('sheet|'):]
-            sheet_path = '|'.join(full_path.split('|')[:-1])
-            header = full_path.split('|')[-1]
-            target = entry.msgid.replace('\\', '\\\\').replace('\n', '\\n')
+            full_path = entry.msgid[len('sheet|'):]
+            sheet_path = '|'.join(full_path.split('|')[:-2])
+            header = full_path.split('|')[-2]
+            target = entry.msgctxt.replace('\\', '\\\\').replace('\n', '\\n')
             translated = entry.msgstr.replace('\\', '\\\\').replace('\n', '\\n')
             csv_writer.writerow([sheet_path, header, target, translated])
 

@@ -34,8 +34,8 @@ def main(translation_path):
                 continue
 
             entry = polib.POEntry(
-                msgctxt=f'json|{path}',
-                msgid=target,
+                msgctxt=target,
+                msgid=f'json|{path}',
                 msgstr=translated,
                 occurrences=[('translate_json.csv', csv_reader.line_num)],
                 encoding='utf-8'
@@ -59,8 +59,8 @@ def main(translation_path):
                 continue
 
             entry = polib.POEntry(
-                msgctxt=f'sheet|{sheet_path}|{header}',
-                msgid=target,
+                msgctxt=target,
+                msgid=f'sheet|{sheet_path}|{header}|{csv_reader.line_num}',
                 msgstr=translated,
                 occurrences=[('translate_sheet.csv', csv_reader.line_num)],
                 encoding='utf-8'

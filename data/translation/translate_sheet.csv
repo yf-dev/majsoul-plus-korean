@@ -1,4 +1,404 @@
 ﻿location,context,source,target
+ActivityActivity.csv,name_en,圣夜的宝物,圣夜的宝物
+ActivityActivity.csv,name_en,圣夜的礼物箱,圣夜的礼物箱
+ActivityActivity.csv,name_en,新角色 新装版up,新角色 新装版up
+ActivityActivity.csv,name_en,春节夺宝战,春节夺宝战
+ActivityActivity.csv,name_en,春节的礼品箱,春节的礼品箱
+ActivityActivity.csv,name_en,Nikaidou's Class,니카이도 교실
+ActivityActivity.csv,name_en,Nikaidou's Reward,니카이도 보상
+ActivityActivity.csv,name_en,对局点数活动,对局点数活动
+ActivityActivity.csv,name_en,排名活动,排名活动
+ActivityActivity.csv,name_en,古役活动,古役活动
+ActivityActivity.csv,name_en,Visiting the Shrine in Midsummer,여름 신사 참배
+ActivityActivity.csv,name_en,Midsummer Gifts,한여름 선물
+ActivityActivity.csv,name_en,Missions from Moon Palace,달 궁전의 역할
+ActivityActivity.csv,name_en,Moon Palace,달 궁전
+ActivityActivity.csv,name_en,Hana Ninomiya's Challenge,니노미야 하나의 도전
+ActivityActivity.csv,name_en,Halloween Event,할로윈 이벤트
+ActivityActivity.csv,name_en,Halloween Event Exchange,할로윈 이벤트 교환
+ActivityActivity.csv,name_en,Chiori's Trouble,치오리의 고민
+ActivityActivity.csv,name_en,New Year Celebration,혼천 신사 새해 참배
+ActivityActivity.csv,name_en,Celebration Shop,기념품점
+ActivityActivity.csv,name_en,Spring Festival Limited-time Sticker Shop,봄 축제 기간 한정 스티커 샵
+ActivityActivity.csv,name_en,Gorgeous Spring,화려한 봄날
+ActivityActivity.csv,name_en,Launch: School Operation,시작: 봄방학 작전
+ActivityActivity.csv,name_en,Detection: OP Progress,확인 : 작전 진행
+ActivityActivity.csv,name_en,Working Adventure Rewards,아르바이트 대모험 보상
+ActivityActivity.csv,name_en,Maid's Commission,메이드의 커미션
+AudioBgm.csv,name_en,Sakura,벛꽃
+AudioBgm.csv,name_en,Midsummer,한여름
+AudioBgm.csv,unlock_desc_en,Unlock by event,이벤트로 해제
+AudioBgm.csv,name_en,Bamboo,대나무
+CharacterEmoji.csv,unlock_desc_en,Bond,인연
+CharacterEmoji.csv,unlock_desc_en,Event,이벤트
+CharacterEmoji.csv,after_unlock_desc_en,9/27  (PDT),9/27  (PDT)
+CharacterEmoji.csv,after_unlock_desc_en,10/30 (PDT),10/30 (PDT)
+CharacterEmoji.csv,after_unlock_desc_en,11/09 (PDT),11/09 (PDT)
+CharacterEmoji.csv,after_unlock_desc_en,12/11(PDT),12/11(PDT)
+CharacterEmoji.csv,after_unlock_desc_en,12/26(PDT),12/26(PDT)
+CharacterEmoji.csv,unlock_desc_en,Sticker Shop,스티커 상점
+CharacterEmoji.csv,after_unlock_desc_en,2/28(UTC-7),2/28(UTC-7)
+CharacterEmoji.csv,unlock_desc_en,Unlock Outfit,의상으로 해제
+CharacterEmoji.csv,after_unlock_desc_en,Christmas,크리스마스
+CharacterEmoji.csv,after_unlock_desc_en,Halloween,할로윈
+CharacterEmoji.csv,after_unlock_desc_en,Beach Party,비치 파티
+CharacterEmoji.csv,after_unlock_desc_en,New Year,신년
+CharacterEmoji.csv,after_unlock_desc_en,Spring Festival,봄 축제
+ChestChest.csv,name_en,Summon,기원
+ChestChest.csv,desc_en,"For each summon: you can get 1 Faith, with a chance to draw an all-new character and decorations. \\n\\n Character drop rates: 5% \\n Decoration drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate character, will be converted into Wishing Stones. \\n Duplicate decorations will be converted into Star Stones.","기원할 때 마다 1개의 신앙을 획득하며, 새로운 캐릭터와 장식을 얻을 기회가 주어집니다. \\n\\n 캐릭터 획득 확률: 5% \\n 장식 획득 확률: 15% \\n 선물 획득 확률: 80% \\n\\n 중복된 캐릭터는 기도의 돌로 전환됩니다. \\n 중복된 장식은 별의 돌로 전환됩니다."
+ChestChestShop.csv,name_en,24K Gold Riichi Bet,24K 순금 리치 봉
+ChestChestShop.csv,name_en,Tablecloth - Lunar New Year,테이블보 - 설날
+ChestChestShop.csv,name_en,Kavvi,카비
+ChestChestShop.csv,name_en,Winning - Inverted Dragon Scale,승리 - 역린
+ChestChestShop.csv,name_en,Riichi Bet - Impish Bat,리치 봉 - 소악마
+DesktopChest.csv,name_en,Silver Chest,은 상자
+DesktopChest.csv,name_en,Gold Chest,금 상자
+DesktopChest.csv,name_en,Jade Chest,비취 상자
+DesktopChest.csv,name_en,King’s Chest,왕의 상자
+DesktopChest.csv,name_en,Casual Chest,캐주얼 상자
+DesktopMatchmode.csv,room_name_en,Bronze Room,동탁
+DesktopMatchmode.csv,room_name_en,Silver Room,은탁
+DesktopMatchmode.csv,room_name_en,Gold Room,금탁
+DesktopMatchmode.csv,room_name_en,Jade Room,옥탁
+DesktopMatchmode.csv,room_name_en,Melee Room,근접탁
+DesktopMatchmode.csv,room_name_en,Throne Room,왕좌탁
+DesktopMatchmode.csv,room_name_en,Casual Match,캐주얼
+DesktopMatchmode.csv,room_name_en,DoraDorara,도라도라라
+DesktopMatchmode.csv,room_name_en,Open Hand Match,손패 공개
+DesktopMatchmode.csv,room_name_en,Chaotic Wall Break,혼돈의 패산파괴
+EventsBaseTask.csv,desc_en,Win a game with Ron,론으로 화료
+EventsBaseTask.csv,desc_en,Avoid dealing into others' in 6 games,6번 방총 회피하기
+EventsBaseTask.csv,desc_en,Yaku: Riichi,역: 리치
+EventsBaseTask.csv,desc_en,Win 5 games with Riichi,5 게임을 리치하여 화료
+EventsBaseTask.csv,desc_en,Win 2 games with All Simples,2 게임을 탕야오로 화료
+EventsBaseTask.csv,desc_en,Win 4 games with All Simples,4 게임을 탕야오로 화료
+EventsBaseTask.csv,desc_en,Win 6 games with All Simples,6 게임을 탕야오로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Pinfu,1 게임을 핑후로 화료
+EventsBaseTask.csv,desc_en,Win 3 games with Pinfu,3 게임을 핑후로 화료
+EventsBaseTask.csv,desc_en,Win 5 games with Pinfu,5 게임을 핑후로 화료
+EventsBaseTask.csv,desc_en,Win a game with Half Flush or Full Flush,혼일색 또는 청일색으로 화료
+EventsBaseTask.csv,desc_en,Yaku: Half Flush/Full Flush,역: 혼일색/청일색
+EventsBaseTask.csv,desc_en,Win 1 game with Full Flush,1 게임을 청일색으로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Pure Double Sequence,1 게임을 이페코로 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Pure Double Sequence,2 게임을 이페코로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Twice Pure Double Sequence,1 게임을 량페코로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Half Outside Hand or Fully Outside Hand,1 게임을 찬타 또는 준찬타로 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Half Outside Hand or Fully Outside Hand,2 게임을 찬타 또는 준찬타로 화료
+EventsBaseTask.csv,desc_en,Draw 1 Ura Dora,1 게임을 뒷도라를 포함하여 화료
+EventsBaseTask.csv,desc_en,Draw 2 Ura Dora,2 게임을 뒷도라를 포함하여 화료
+EventsBaseTask.csv,desc_en,Draw 5 Ura Dora,5 게임을 뒷도라를 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Mixed Triple Sequence,1 게임을 삼색동순으로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Triple Triplets,1 게임을 삼색동각으로 화료
+EventsBaseTask.csv,desc_en,Win a game with All Triplets,또이또이로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Riichi + All Simples + Pinfu,1 게임을 리치 + 탕야오 + 핑후로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Fully Outside Hand + Mixed Triple Sequence,1 게임을 준찬타 + 삼색동순으로 화료
+EventsBaseTask.csv,desc_en,Yaku: Dragon,역: 삼원패
+EventsBaseTask.csv,desc_en,Yaku: Seat/Prevalent Wind,역: 자풍패/장풍패
+EventsBaseTask.csv,desc_en,立直,立直
+EventsBaseTask.csv,desc_en,门前清自摸和,门前清自摸和
+EventsBaseTask.csv,desc_en,平和,平和
+EventsBaseTask.csv,desc_en,一杯口,一杯口
+EventsBaseTask.csv,desc_en,七对子,七对子
+EventsBaseTask.csv,desc_en,两立直,两立直
+EventsBaseTask.csv,desc_en,二杯口,二杯口
+EventsBaseTask.csv,desc_en,天和,天和
+EventsBaseTask.csv,desc_en,地和,地和
+EventsBaseTask.csv,desc_en,四暗刻,四暗刻
+EventsBaseTask.csv,desc_en,四暗刻单器,四暗刻单器
+EventsBaseTask.csv,desc_en,国士无双,国士无双
+EventsBaseTask.csv,desc_en,国士十三面,国士十三面
+EventsBaseTask.csv,desc_en,九莲宝灯,九莲宝灯
+EventsBaseTask.csv,desc_en,纯正九莲,纯正九莲
+EventsBaseTask.csv,desc_en,断幺九,断幺九
+EventsBaseTask.csv,desc_en,红宝牌,红宝牌
+EventsBaseTask.csv,desc_en,宝牌,宝牌
+EventsBaseTask.csv,desc_en,里宝牌,里宝牌
+EventsBaseTask.csv,desc_en,北宝牌,北宝牌
+EventsBaseTask.csv,desc_en,一发,一发
+EventsBaseTask.csv,desc_en,抢杠,抢杠
+EventsBaseTask.csv,desc_en,三色同顺,三色同顺
+EventsBaseTask.csv,desc_en,三色同刻,三色同刻
+EventsBaseTask.csv,desc_en,三杠子,三杠子
+EventsBaseTask.csv,desc_en,对对和,对对和
+EventsBaseTask.csv,desc_en,三暗刻,三暗刻
+EventsBaseTask.csv,desc_en,一气通贯,一气通贯
+EventsBaseTask.csv,desc_en,岭上开花,岭上开花
+EventsBaseTask.csv,desc_en,海底摸月,海底摸月
+EventsBaseTask.csv,desc_en,河底捞鱼,河底捞鱼
+EventsBaseTask.csv,desc_en,纯全带幺九,纯全带幺九
+EventsBaseTask.csv,desc_en,清一色,清一色
+EventsBaseTask.csv,desc_en,清老头,清老头
+EventsBaseTask.csv,desc_en,绿一色,绿一色
+EventsBaseTask.csv,desc_en,四杠子,四杠子
+EventsBaseTask.csv,desc_en,白,白
+EventsBaseTask.csv,desc_en,发,发
+EventsBaseTask.csv,desc_en,中,中
+EventsBaseTask.csv,desc_en,自风,自风
+EventsBaseTask.csv,desc_en,场风,场风
+EventsBaseTask.csv,desc_en,混全带幺九,混全带幺九
+EventsBaseTask.csv,desc_en,混老头,混老头
+EventsBaseTask.csv,desc_en,小三元,小三元
+EventsBaseTask.csv,desc_en,混一色,混一色
+EventsBaseTask.csv,desc_en,大三元,大三元
+EventsBaseTask.csv,desc_en,字一色,字一色
+EventsBaseTask.csv,desc_en,小四喜,小四喜
+EventsBaseTask.csv,desc_en,大四喜,大四喜
+EventsBaseTask.csv,desc_en,Ura Dora or Yaku: Ippatsu,뒷도라 또는 역: 일발
+EventsBaseTask.csv,desc_en,Fully Concealed Hand/Pinfu,멘젠쯔모/핑후
+EventsBaseTask.csv,desc_en,Yaku: All Simples,역: 탕야오
+EventsBaseTask.csv,desc_en,Win a game with Dora,도라를 포함하여 화료
+EventsBaseTask.csv,desc_en,Win a game with Seat Wind,자풍패로 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Pinfu,2 게임을 핑후로 화료
+EventsBaseTask.csv,desc_en,Win 10 games with at least a Dora,20 게임을 도라를 하나 이상 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Fully Concealed Hand,2 게임을 멘젠쯔모로 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Yakuhai: White,2 게임을 역패: 백으로 화료
+EventsBaseTask.csv,desc_en,Win 5 games with at least a Red Five,5 게임을 하나 이상의 적도라를 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 10 games with a Yaku that values 1 Han,10 게임을 1판역을 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 2 games with Yakuhai: Green,2 게임을 역패: 발로 화료
+EventsBaseTask.csv,desc_en,Win a game with Ippatsu,일발로 화료
+EventsBaseTask.csv,desc_en,Win 5 games with at least a Ura Dora,5 게임을 뒷도라를 하나 이상 포함하여 화료
+EventsBaseTask.csv,desc_en,Avoid dealing into others' in 88 games,88번 방총 회피하기
+EventsBaseTask.csv,desc_en,Win 2 games with Yakuhai: Red,2게임을 역패: 중으로 화료
+EventsBaseTask.csv,desc_en,Win 2 games with a Yaku that values 2 Han or above,2 게임을 2판 이상의 역을 포함하여 화료
+EventsBaseTask.csv,desc_en,Ron 8 times,8회 론 화료
+EventsBaseTask.csv,desc_en,Purchase 2 times from Misc Shop,잡화점에서 아이템 2회 구매
+EventsBaseTask.csv,desc_en,Win a game with Seven Pairs,치또이츠로 화료
+EventsBaseTask.csv,desc_en,Win a game with Prevalent Wind,장풍패로 화료
+EventsBaseTask.csv,desc_en,Win 20 games with at least a Dora,20 게임을 도라를 하나 이상 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 6 games with Riichi,6 게임을 리치로 화료
+EventsBaseTask.csv,desc_en,Win 3 games with Fully Concealed Hand,3 게임을 멘젠쯔모로 화료
+EventsBaseTask.csv,desc_en,Win 3 games with Yaku: Dragon,3 게임을 삼원패로 화료
+EventsBaseTask.csv,desc_en,Get 1st or 2nd 1 time in Open Hand Match,손패 공개 게임에서 1등 또는 2등 1회 달성
+EventsBaseTask.csv,desc_en,Win 2 games with at least a Ura Dora,2 게임을 뒷도라를 하나 이상 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 33 games with Ron and Tsumo,33 게임을 화료
+EventsBaseTask.csv,desc_en,Ron 10 times,10회 론 화료
+EventsBaseTask.csv,desc_en,Donate 1 gift (Items - Gift),선물 1개 기부(창고- 선물)
+EventsBaseTask.csv,desc_en,Win 2 games with Yaku: Seat/Prevalent Wind,2 게임을 역: 자풍패/장풍패로 화료
+EventsBaseTask.csv,desc_en,"Win 1 game with Seat Wind, Prevalent Wind or Dragons","1 게임을 자풍패, 장풍패 또는 삼원패로 화료"
+EventsBaseTask.csv,desc_en,Finish 1 match in 2nd or 1st place,1등 또는 2등 1회 달성
+EventsBaseTask.csv,desc_en,"Win 1 game with Ippatsu, Ura Dora or Fully Concealed Hand","1 게임을 일발, 뒷도라, 멘젠쯔모를 포함하여 화료"
+EventsBaseTask.csv,desc_en,Win 1 game with 2 Han Yaku or above included,1 게임을 2판 역 이상을 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 1 game with All Simples or Pinfu,1 게임을 탕야오 또는 핑후로 화료
+EventsBaseTask.csv,desc_en,Win 2 games with 1 Han Yaku included,2 게임을 1판 역을 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 8 games with 1 Han Yaku included,8 게임을 1판 역을 포함하여 화료
+EventsBaseTask.csv,desc_en,Get 1st or 2nd 1 time in Chaotic Wall Break,혼돈의 패산파괴 게임에서 1등 또는 2등 1회 달성
+EventsBaseTask.csv,desc_en,Win 2 games with Yaku: Dragon,2 게임을 삼원패로 화료
+EventsBaseTask.csv,desc_en,Win 28 games with Ron and Tsumo,28 게임을 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Seven Pairs or All Triplets,1 게임을 치또이츠 또는 또이또이로 화료
+EventsBaseTask.csv,desc_en,Win 3 games with All Simples,3 게임을 탕야오로 화료
+EventsBaseTask.csv,desc_en,Win 3 games with at least a Red Five,3 게임을 하나 이상의 적도라를 포함하여 화료
+EventsBaseTask.csv,desc_en,Finished 1 lap on the event map,이벤트 맵에서 1바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 2 laps on the event map,이벤트 맵에서 2바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 3 laps on the event map,이벤트 맵에서 3바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 4 laps on the event map,이벤트 맵에서 4바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 5 laps on the event map,이벤트 맵에서 5바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 6 laps on the event map,이벤트 맵에서 6바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 7 laps on the event map,이벤트 맵에서 7바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 8 laps on the event map,이벤트 맵에서 8바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 9 laps on the event map,이벤트 맵에서 9바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 10 laps on the event map,이벤트 맵에서 10바퀴 완주
+EventsDailyevent.csv,desc_en,Play 3 matches in Bronze Room - 4-Player East,동탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Bronze Room - 4-Player South,동탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Bronze Room - 4-Player East,동탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Bronze Room - 4-Player South,동탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Friends Room - 4-Player East,친선전 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Friends Room - 4-Player South,친선전 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Silver Room - 4-Player East,은탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Silver Room - 4-Player South,은탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Silver Room - 4-Player East,은탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Silver Room - 4-Player South,은탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Gold Room - 4-Player East,금탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Gold Room - 4-Player South,금탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Gold Room - 4-Player East,금탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Gold Room - 4-Player South,금탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Jade Room - 4-Player East,옥탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Jade Room - 4-Player South,옥탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Jade Room - 4-Player East,옥탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Jade Room - 4-Player South,옥탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Bronze Room,동탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Bronze Room,동탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Bronze Room,동탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Win 4 games with Ron,4 게임을 론으로 화료
+EventsDailyevent.csv,desc_en,Win 2 games with Tsumo,2 게임을 쯔모로 화료
+EventsDailyevent.csv,desc_en,Avoid dealing into others' in 8 games,8번 방총 회피하기
+EventsDailyevent.csv,desc_en,Play 2 matches in Friends Room,친선전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Silver Room,은탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Silver Room,은탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Silver Room,은탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Play 2 matches in Gold Room,금탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Gold Room,금탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Gold Room,금탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Play 2 matches in Jade Room,옥탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Jade Room,옥탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Jade Room,옥탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Play 2 matches in Room of the Throne,왕좌탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Room of the Throne,왕좌탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Room of the Throne,왕좌탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Bronze Room - 4-Player East,보상 두배! 동탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Bronze Room - 4-Player South,기간 한정 보상 두배! 동탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Bronze Room - 4-Player East,기간 한정 보상 두배! 동탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Bronze Room - 4-Player South,기간 한정 보상 두배! 동탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Friends Room - 4-Player East,기간 한정 보상 두배! 친선전 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Friends Room - 4-Player South,기간 한정 보상 두배! 친선전 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Silver Room - 4-Player East,기간 한정 보상 두배! 은탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Silver Room - 4-Player South,기간 한정 보상 두배! 은탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Silver Room - 4-Player East,기간 한정 보상 두배! 은탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Silver Room - 4-Player South,기간 한정 보상 두배! 은탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Gold Room - 4-Player East,기간 한정 보상 두배! 금탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Gold Room - 4-Player South,기간 한정 보상 두배! 금탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Gold Room - 4-Player East,기간 한정 보상 두배! 금탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Gold Room - 4-Player South,기간 한정 보상 두배! 금탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Jade Room - 4-Player East,기간 한정 보상 두배! 옥탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Jade Room - 4-Player South,기간 한정 보상 두배! 옥탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Jade Room - 4-Player East,기간 한정 보상 두배! 옥탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Jade Room - 4-Player South,기간 한정 보상 두배! 옥탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Bronze Room,보상 두배! 동탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Bronze Room,보상 두배! 동탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Bronze Room,보상 두배! 동탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Double rewards! Win 4 games with Ron,보상 두배! 4 게임을 론으로 화료
+EventsDailyevent.csv,desc_en,Double rewards! Win 2 games with Tsumo,보상 두배! 2 게임을 쯔모로 화료
+EventsDailyevent.csv,desc_en,Double rewards! Avoid dealing into others' in 8 games,보상 두배! 8번 방총 회피하기
+EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Friends Room,보상 두배! 친선전 2번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Silver Room,보상 두배! 은탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Silver Room,보상 두배! 은탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Silver Room,보상 두배! 은탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Gold Room,보상 두배! 금탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Gold Room,보상 두배! 금탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Gold Room,보상 두배! 금탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Jade Room,보상 두배! 옥탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Jade Room,보상 두배! 옥탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Jade Room,보상 두배! 옥탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Room of the Throne,보상 두배! 왕좌탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Room of the Throne,보상 두배! 왕좌탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Room of the Throne,보상 두배! 왕좌탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Bronze Room - 4-Player East,기간 한정 보상 세배! 동탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Bronze Room - 4-Player South,기간 한정 보상 세배! 동탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Bronze Room - 4-Player East,기간 한정 보상 세배! 동탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Bronze Room - 4-Player South,기간 한정 보상 세배! 동탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Friends Room - 4-Player East,기간 한정 보상 세배! 친선전 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Friends Room - 4-Player South,기간 한정 보상 세배! 친선전 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Silver Room - 4-Player East,기간 한정 보상 세배! 은탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Silver Room - 4-Player South,기간 한정 보상 세배! 은탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Silver Room - 4-Player East,기간 한정 보상 세배! 은탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Silver Room - 4-Player South,기간 한정 보상 세배! 은탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Gold Room - 4-Player East,기간 한정 보상 세배! 금탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Gold Room - 4-Player South,기간 한정 보상 세배! 금탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Gold Room - 4-Player East,기간 한정 보상 세배! 금탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Gold Room - 4-Player South,기간 한정 보상 세배! 금탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Jade Room - 4-Player East,기간 한정 보상 세배! 옥탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Jade Room - 4-Player South,기간 한정 보상 세배! 옥탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Jade Room - 4-Player East,기간 한정 보상 세배! 옥탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Jade Room - 4-Player South,기간 한정 보상 세배! 옥탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Bronze Room,보상 세배! 동탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Bronze Room,보상 세배! 동탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Bronze Room,보상 세배! 동탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Triple rewards! Win 4 games with Ron,보상 세배! 4 게임을 론으로 화료
+EventsDailyevent.csv,desc_en,Triple rewards! Win 2 games with Tsumo,보상 세배! 2 게임을 쯔모로 화료
+EventsDailyevent.csv,desc_en,Triple rewards! Avoid dealing into others' in 8 games,보상 세배! 8번 방총 회피하기
+EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Friends Room,보상 세배! 친선전 2번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Silver Room,보상 세배! 은탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Silver Room,보상 세배! 은탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Silver Room,보상 세배! 은탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Gold Room,보상 세배! 금탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Gold Room,보상 세배! 금탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Gold Room,보상 세배! 금탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Jade Room,보상 세배! 옥탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Jade Room,보상 세배! 옥탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Jade Room,보상 세배! 옥탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Room of the Throne,보상 세배! 왕좌탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Room of the Throne,보상 세배! 왕좌탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Room of the Throne,보상 세배! 왕좌탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 1 game with Riichi,새해 복주머니! 1 게임을 리치하여 화료
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 2 games with Tanyao,새해 복주머니! 2 게임을 탕야오로 화료
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 2 games with Player Wind or Round Wind,새해 복주머니! 2 게임을 자풍패/장풍패로 화료
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 1 game with Flat Hand,새해 복주머니! 1 게임을 핑후로 화료
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 1 game with Mixed Flush or Pure Flush,새해 복주머니! 1 게임을 혼일색 또는 청일색으로 화료
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Avoid dealing into others' in 8 games into others' hands,새해 복주머니! 8번 방총 회피하기
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Play 2 matches in Friends Room,새해 복주머니! 친선전 2번 플레이
+EventsDailyevent.csv,desc_en,Event!  Play 3 matches in Melee Room,이벤트!  근접탁 2번 플레이
+EventsDailyevent.csv,desc_en,Event!  Avoid dealing into others' in 8 games,이벤트!  8번 방총 회피하기
+EventsSoscoin.csv,desc_en,Only players of Adept rank or above can claim Revival Tokens. Keep working!,작사 등급 이상의 플레이어만 부활 토큰을 받을 수 있습니다. 계속 힘내세요!
+EventsSoscoin.csv,desc_en,You are currently an Adept.You may claim this when you have less than 4500 coppers. Available once per day.,당신은 현재 작사 등급입니다. 4500개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+EventsSoscoin.csv,desc_en,You are current an Expert. You may claim this when you have less than 9000 coppers. Available once per day.,당신은 현재 작걸 등급입니다. 9000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+EventsSoscoin.csv,desc_en,You are current a Master. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 작호 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+EventsSoscoin.csv,desc_en,You are current a Saint. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 작성 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+EventsSoscoin.csv,desc_en,You are current a Celestial. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 혼천 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
+ExchangeExchange.csv,name_en,"5,000 Coppers","5,000 동전"
+ExchangeExchange.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천 신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
+ExchangeExchange.csv,name_en,"30,000 Coppers","30,000 동전"
+ExchangeExchange.csv,name_en,"60,000 Coppers","60,000 동전"
+ExchangeExchange.csv,name_en,"300,000 Coppers","300,000 동전"
+ExchangeExchange.csv,name_en,"500,000 Coppers","500,000 동전"
+ExchangeExchange.csv,name_en,"1,000,000 Coppers","1,000,000 동전"
+ExchangeFushiquanexchange.csv,name_en,10Jade,10 휘옥
+ExchangeFushiquanexchange.csv,desc_en,Can be used to buy props.,소품(props)을 구입하는데 사용할 수 있습니다.
+ExchangeSearchexchange.csv,name_en,200 Summon Stones,200 기원의 돌
+ExchangeSearchexchange.csv,desc_en,Collect a specific amount to summon.,기원하기 위해 특정량을 모으세요.
+ExchangeSearchexchange.csv,name_en,"1,800 Summon Stones","1,800 기원의 돌"
+FanFan.csv,name_en,Fully Concealed Hand,멘젠쯔모
+FanFan.csv,name_en,Riichi,리치
+FanFan.csv,name_en,Robbing a Kan,창깡
+FanFan.csv,name_en,After a Kan,영상개화
+FanFan.csv,name_en,Under the Sea,해저로월
+FanFan.csv,name_en,Under the River,하저로어
+FanFan.csv,name_en,White Dragon,역패: 백
+FanFan.csv,name_en,Green Dragon,역패: 발
+FanFan.csv,name_en,Red Dragon,역패: 중
+FanFan.csv,name_en,Seat Wind,자풍패
+FanFan.csv,name_en,Prevalent Wind,장풍패
+FanFan.csv,name_en,All Simples,탕야오
+FanFan.csv,name_en,Pure Double Sequence,이페코
+FanFan.csv,name_en,Pinfu,핑후
+FanFan.csv,name_en,Half Outside Hand,찬타
+FanFan.csv,name_en,Pure Straight,일기통관
+FanFan.csv,name_en,Mixed Triple Sequence,삼색동순
+FanFan.csv,name_en,Double Riichi,더블리치
+FanFan.csv,name_en,Triple Triplets,삼색동각
+FanFan.csv,name_en,Three Quads,산깡즈
+FanFan.csv,name_en,All Triplets,또이또이
+FanFan.csv,name_en,Three Concealed Triplets,산안커
+FanFan.csv,name_en,Little Three Dragons,소삼원
+FanFan.csv,name_en,All Terminals and Honors,혼노두
+FanFan.csv,name_en,Seven Pairs,치또이츠
+FanFan.csv,name_en,Fully Outside Hand,준찬타
+FanFan.csv,name_en,Half Flush,혼일색
+FanFan.csv,name_en,Twice Pure Double Sequence,량페코
+FanFan.csv,name_en,Full Flush,청일색
+FanFan.csv,name_en,Ippatsu,일발
+FanFan.csv,name_en,Dora,도라
+FanFan.csv,name_en,Red Five,적도라
+FanFan.csv,name_en,Ura Dora,뒷도라
+FanFan.csv,name_en,Kita,북도라
+FanFan.csv,name_en,Blessing of Heaven,천화
+FanFan.csv,name_en,Blessing of Earth,지화
+FanFan.csv,name_en,Big Three Dragons,대삼원
+FanFan.csv,name_en,Four Concealed Triplets,스안커
+FanFan.csv,name_en,All Honors,자일색
+FanFan.csv,name_en,All Green,녹일색
+FanFan.csv,name_en,All Terminals,청노두
+FanFan.csv,name_en,Thirteen Orphans,국사무쌍
+FanFan.csv,name_en,Four Little Winds,소사희
+FanFan.csv,name_en,Four Quads,스깡즈
+FanFan.csv,name_en,Nine Gates,구련보등
+FanFan.csv,name_en,Eight-time East Staying,팔연장
+FanFan.csv,name_en,True Nine Gates,순정구련보등
+FanFan.csv,name_en,Single-wait Four Concealed Triplets,스안커 단기
+FanFan.csv,name_en,Thirteen-wait Thirteen Orphans,국사무쌍 13면대기
+FanFan.csv,name_en,Four Big Winds,대사희
+FanFan.csv,name_en,Tsubame-gaeshi,츠바메가에시
+FanFan.csv,name_en,Kanburi,영상개론
+FanFan.csv,name_en,Shiiaruraotai,십이낙태
+FanFan.csv,name_en,Uumensai,오문제
+FanFan.csv,name_en,Three Chained Triplets,삼련각
+FanFan.csv,name_en,Pure Triple Chow,일색삼순
+FanFan.csv,name_en,Iipinmoyue,일통모월
+FanFan.csv,name_en,Chuupinraoyui,구통로어
+FanFan.csv,name_en,Hand of Man,인화
+FanFan.csv,name_en,Big Wheels,대차륜
+FanFan.csv,name_en,Bamboo Forest,대죽림
+FanFan.csv,name_en,Numerous Neighbours,대수린
+FanFan.csv,name_en,Ishinouenimosannen,돌 위에서 삼년
+FanFan.csv,name_en,Big Seven Stars,대칠성
 FandescFandesc.csv,name_en,Riichi,리치
 FandescFandesc.csv,desc_en,Win a hand after you declared Riichi; You may declare Riichi when you achieve Tenpai (ready hand) at Menzenchin (closed hand),리치 선언 후 화료 - 리치 선언은 멘젠 상태에서 텐파이 했을 때 할 수 있음
 FandescFandesc.csv,desc2_en,Menzenchin Only,멘젠 한정
@@ -135,6 +535,18 @@ FandescFandesc.csv,name_en,Nine Different Terminals and Honors,구종구패
 FandescFandesc.csv,desc_en,You have the option to declare a draw in the first turn if your hand consists of 9 different Terminal Tiles  before any tiles are called,"자신의 첫 쯔모 후 손패에 9개 이상의 서로 다른 요구패(1만, 9만, 1통, 9통, 1삭, 9삭, 바람패, 역패)가 있을 경우 유국시킬 수 있음(선택적)"
 FandescFandesc.csv,name_en,Four-player Riichi,사가리치
 FandescFandesc.csv,desc_en,The game becomes a draw when all players have declared Riichi,4명의 플레이어가 모두 리치 선언을 했을 경우 유국
+GameLiveSelectFilters.csv,name1_en,Friends Room,친선전
+GameLiveSelectFilters.csv,name2_en,4-Player East,4인 동풍전
+GameLiveSelectFilters.csv,name2_en,4-Player South,4인 반장전
+GameLiveSelectFilters.csv,name1_en,Bronze Room,동탁
+GameLiveSelectFilters.csv,name2_en,Best of One Game,최고의 한게임
+GameLiveSelectFilters.csv,name1_en,Silver Room,은탁
+GameLiveSelectFilters.csv,name1_en,Gold Room,금탁
+GameLiveSelectFilters.csv,name1_en,Jade Room,옥탁
+GameLiveSelectFilters.csv,name1_en,Melee Room,Melee Room
+GameLiveSelectFilters.csv,name1_en,Throne Room,왕좌탁
+GameLiveSelectFilters.csv,name2_en,3-Player East,3인 동풍전
+GameLiveSelectFilters.csv,name2_en,3-Player South,3인 반장전
 InfoError.csv,en,Unknown error. Please try to refresh the page.,알 수 없는 오류. 페이지를 새로고침 해주세요.
 InfoError.csv,en,System error. Please try to refresh the page.,시스템 오류. 페이지를 새로고침 해주세요.
 InfoError.csv,en,Parameter error. Please try to refresh the page.,매개변수 오류. 페이지를 새로고침 해주세요.
@@ -158,6 +570,25 @@ InfoError.csv,en,Incorrect Verification Code. Please try again.,정확하지 않
 InfoError.csv,en,Authorization for the validation has expired. Please try again.,유효성 검사에 대한 권한이 만료되었습니다. 다시 시도해주세요.
 InfoError.csv,en,This mobile number has already been linked.,이 휴대전화 번호는 이미 연결되어 있습니다.
 InfoError.csv,en,Failed to send message. Please try again later.,메시지를 보낼 수 없습니다. 나중에 다시 시도해주세요.
+InfoError.csv,en,邮箱格式错误,邮箱格式错误
+InfoError.csv,en,邮件发送失败,邮件发送失败
+InfoError.csv,en,本账号已绑定邮箱,本账号已绑定邮箱
+InfoError.csv,en,该邮箱已经被其他账号绑定,该邮箱已经被其他账号绑定
+InfoError.csv,en,未提供密码,未提供密码
+InfoError.csv,en,错误的验证码适用类型,错误的验证码适用类型
+InfoError.csv,en,未绑定邮箱,未绑定邮箱
+InfoError.csv,en,邮箱验证失败,邮箱验证失败
+InfoError.csv,en,操作口令过期,操作口令过期
+InfoError.csv,en,发送邮箱过于频繁,发送邮箱过于频繁
+InfoError.csv,en,必须用本账号邮箱来绑定邮箱,必须用本账号邮箱来绑定邮箱
+InfoError.csv,en,您需要先绑定并验证邮箱，才能充值或寻觅,您需要先绑定并验证邮箱，才能充值或寻觅
+InfoError.csv,en,不支持的注册类型,不支持的注册类型
+InfoError.csv,en,手机发送过于频繁,手机发送过于频繁
+InfoError.csv,en,本账号已绑定手机,本账号已绑定手机
+InfoError.csv,en,目标手机已经被使用,目标手机已经被使用
+InfoError.csv,en,必须用本账号手机来绑定邮箱,必须用本账号手机来绑定邮箱
+InfoError.csv,en,未绑定手机,未绑定手机
+InfoError.csv,en,手机格式错误,手机格式错误
 InfoError.csv,en,Insufficient resources.,리소스가 부족합니다.
 InfoError.csv,en,Your input contains censored content. Please change it.,입력 내용에 검열된 내용이 포함되어 있습니다. 내용을 수정해주세요.
 InfoError.csv,en,Your account has been banned for violating relevant game rules.,당신의 계정은 게임 규정을 위반하여 정지되었습니다.
@@ -314,153 +745,6 @@ InfoError.csv,en,Invalid block,잘못된 칸(block)
 InfoError.csv,en,Unable to claim rewards from this block,이 칸에서 보상을 받을 수 없습니다
 InfoError.csv,en,You have already checked in,이미 체크인했습니다
 InfoError.csv,en,Mahjong Soul Shrine has received your response. Thank you for your contribution in making a better gaming environment!,혼천 신사에서 당신의 응답(response)을 받았습니다. 더 나은 게임 환경을 만드는 데 기여해주셔서 감사합니다!
-VipVip.csv,name_en,No,없음
-VipVip.csv,desc_en,Daily Gift Attempts: 2 \\n Max No. of Friends +0 \\n Misc Shop Refresh Attempts: 5 \\n Misc Shop Free Refresh: 0 \\n Bond Bonus from Matches +0%\\n Log Collection Limit: 20,일일 선물 상한: 2 \\n 친구 수 상한 +0 \\n 잡화점 일일 새로고침 횟수: 5 \\n 잡화점 무료 새로고침 횟수: 0 \\n 단위전 인연 보너스 +0%\\n 로그 컬렉션 갯수: 20
-VipVip.csv,name_en,Soul Contractor - Beginner,혼의 계약자 - 초급
-VipVip.csv,desc_en,Daily Gift Attempts: 4 \\n Max No. of Friends +0 \\n Misc Shop Refresh Attempts: 6 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +50%\\n Log Collection Limit: 25,일일 선물 상한: 4 \\n 친구 수 상한 +0 \\n 잡화점 일일 새로고침 횟수: 6 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +50%\\n 로그 컬렉션 갯수: 25
-VipVip.csv,name_en,Soul Contractor - Intermediate,혼의 계약자 - 중급
-VipVip.csv,desc_en,Daily Gift Attempts: 6 \\nMax No. of Friends +10\\n Misc Shop Refresh Attempts: 7 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +75%\\n Log Collection Limit: 30,일일 선물 상한: 6 \\n친구 수 상한 +10\\n 잡화점 일일 새로고침 횟수: 7 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +75%\\n 로그 컬렉션 갯수: 30
-VipVip.csv,name_en,Soul Contractor - Senior,혼의 계약자 - 상급
-VipVip.csv,desc_en,Daily Gift Attempts: 8 \\n Max No. of Friends +20 \\n Misc Shop Refresh Attempts: 8 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +100%\\n Log Collection Limit: 35,일일 선물 상한: 8 \\n 친구 수 상한 +20 \\n 잡화점 일일 새로고침 횟수: 8 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +100%\\n 로그 컬렉션 갯수: 35
-VipVip.csv,name_en,Soul Enlightener - Beginner,혼의 계몽자 - 초급
-VipVip.csv,desc_en,Daily Gift Attempts: 10 \\n Max No. of Friends +30 \\n Misc Shop Refresh Attempts: 9 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +120%\\n Log Collection Limit: 40,일일 선물 상한: 10 \\n 친구 수 상한 +30 \\n 잡화점 일일 새로고침 횟수: 9 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +120%\\n 로그 컬렉션 갯수: 40
-VipVip.csv,name_en,Soul Enlightener - Intermediate,혼의 계몽자 - 중급
-VipVip.csv,desc_en,Daily Gift Attempts: 12 \\n Max No. of Friends +40 \\n Misc Shop Refresh Attempts: 10 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +140%\\n Log Collection Limit: 45,일일 선물 상한: 12 \\n 친구 수 상한 +40 \\n 잡화점 일일 새로고침 횟수: 10 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +140%\\n 로그 컬렉션 갯수: 45
-VipVip.csv,name_en,Soul Enlightener - Senior,혼의 계몽자 - 상급
-VipVip.csv,desc_en,Daily Gift Attempts: 14 \\n Max No. of Friends +50 \\n Misc Shop Refresh Attempts: 11 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +160%\\n Log Collection Limit: 50,일일 선물 상한: 14 \\n 친구 수 상한 +50 \\n 잡화점 일일 새로고침 횟수: 11 \\n 잡화점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +160%\\n 로그 컬렉션 갯수: 50
-VipVip.csv,name_en,Soul Creator - Beginner,혼의 창조자 - 초급
-VipVip.csv,desc_en,Daily Gift Attempts: 16 \\n Max No. of Friends +60 \\n Misc Shop Refresh Attempts: 12 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 55,일일 선물 상한: 16 \\n 친구 수 상한 +60 \\n 잡화점 일일 새로고침 횟수: 12 \\n 잡화점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 55
-VipVip.csv,name_en,Soul Creator - Intermediate,혼의 창조자 - 중급
-VipVip.csv,desc_en,Daily Gift Attempts: 18 \\n Max No. of Friends +70 \\n Misc Shop Refresh Attempts: 13 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 60,일일 선물 상한: 18 \\n 친구 수 상한 +70 \\n 잡화점 일일 새로고침 횟수: 13 \\n 잡화점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 60
-VipVip.csv,name_en,Soul Creator - Senior,혼의 창조자 - 상급
-VipVip.csv,desc_en,Daily Gift Attempts: 20 \\n Max No. of Friends +80 \\n Misc Shop Refresh Attempts: 14 \\n Misc Shop Free Refresh: 3 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 65,일일 선물 상한: 20 \\n 친구 수 상한 +80 \\n 잡화점 일일 새로고침 횟수: 14 \\n 잡화점 무료 새로고침 횟수: 3 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 65
-VipVip.csv,name_en,Soul Excelsior,혼의 초월자
-VipVip.csv,desc_en,Daily Gift Attempts: 22 \\n Max No. of Friends +90 \\n Misc Shop Refresh Attempts: 15 \\n Misc Shop Free Refresh: 4 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 70,일일 선물 상한: 22 \\n 친구 수 상한 +90 \\n 잡화점 일일 새로고침 횟수: 15 \\n 잡화점 무료 새로고침 횟수: 4 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 70
-VipVip.csv,name_en,Cat Food Supplier,캣푸드 상인
-VipVip.csv,desc_en,Daily Gift Attempts: 25 \\n Max No. of Friends +100 \\n Misc Shop Refresh Attempts: 20 \\n Misc Shop Free Refresh: 5 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 75,일일 선물 상한: 25 \\n 친구 수 상한 +100 \\n 잡화점 일일 새로고침 횟수: 20 \\n 잡화점 무료 새로고침 횟수: 5 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 75
-VipVip.csv,name_en,Royal Cat Guard,고양이 왕국의 수호자
-VipVip.csv,desc_en,Daily Gift Attempts: 30 \\n Max No. of Friends +110 \\n Misc Shop Refresh Attempts: 25 \\n Misc Shop Free Refresh: 7 \\n Bond Bonus from Matches +250%\\n Log Collection Limit: 80,일일 선물 상한: 30 \\n 친구 수 상한 +110 \\n 잡화점 일일 새로고침 횟수: 25 \\n 잡화점 무료 새로고침 횟수: 7 \\n 단위전 인연 보너스 +250%\\n 로그 컬렉션 갯수: 80
-ItemDefinitionCurrency.csv,name_en,Jade,휘옥
-ItemDefinitionCurrency.csv,desc_en,Can be used to buy props.,소품(props)을 구입하는데 사용할 수 있습니다.
-ItemDefinitionCurrency.csv,name_en,Copper,동전
-ItemDefinitionCurrency.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천 신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
-ItemDefinitionCurrency.csv,name_en,Outfit Voucher,의상 교환권
-ItemDefinitionCurrency.csv,desc_en,A currency used to purchase outfits,의상을 구입하는데 사용되는 화폐입니다
-DesktopChest.csv,name_en,Silver Chest,은 상자
-DesktopChest.csv,name_en,Gold Chest,금 상자
-DesktopChest.csv,name_en,Jade Chest,비취 상자
-DesktopChest.csv,name_en,King’s Chest,왕의 상자
-DesktopChest.csv,name_en,Casual Chest,캐주얼 상자
-ExchangeSearchexchange.csv,name_en,200 Summon Stones,200 기원의 돌
-ExchangeSearchexchange.csv,desc_en,Collect a specific amount to summon.,기원하기 위해 특정량을 모으세요.
-ExchangeSearchexchange.csv,name_en,"1,800 Summon Stones","1,800 기원의 돌"
-ExchangeExchange.csv,name_en,"5,000 Coppers","5,000 동전"
-ExchangeExchange.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천 신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
-ExchangeExchange.csv,name_en,"30,000 Coppers","30,000 동전"
-ExchangeExchange.csv,name_en,"60,000 Coppers","60,000 동전"
-ExchangeExchange.csv,name_en,"300,000 Coppers","300,000 동전"
-ExchangeExchange.csv,name_en,"500,000 Coppers","500,000 동전"
-ExchangeExchange.csv,name_en,"1,000,000 Coppers","1,000,000 동전"
-GameLiveSelectFilters.csv,name1_en,Friends Room,친선전
-GameLiveSelectFilters.csv,name2_en,4-Player East,4인 동풍전
-GameLiveSelectFilters.csv,name2_en,4-Player South,4인 반장전
-GameLiveSelectFilters.csv,name1_en,Bronze Room,동탁
-GameLiveSelectFilters.csv,name2_en,Best of One Game,최고의 한게임
-GameLiveSelectFilters.csv,name1_en,Silver Room,은탁
-GameLiveSelectFilters.csv,name1_en,Gold Room,금탁
-GameLiveSelectFilters.csv,name1_en,Jade Room,옥탁
-GameLiveSelectFilters.csv,name1_en,Melee Room,Melee Room
-GameLiveSelectFilters.csv,name1_en,Throne Room,왕좌탁
-GameLiveSelectFilters.csv,name2_en,3-Player East,3인 동풍전
-GameLiveSelectFilters.csv,name2_en,3-Player South,3인 반장전
-LevelDefinitionLevelDefinition.csv,name_en,Novice,초심
-LevelDefinitionLevelDefinition.csv,full_name_en,Novice I,초심 I
-LevelDefinitionLevelDefinition.csv,full_name_en,Novice II,초심 II
-LevelDefinitionLevelDefinition.csv,full_name_en,Novice III,초심 III
-LevelDefinitionLevelDefinition.csv,name_en,Intermediate,작사
-LevelDefinitionLevelDefinition.csv,full_name_en,Adept I,작사 I
-LevelDefinitionLevelDefinition.csv,full_name_en,Adept II,작사 II
-LevelDefinitionLevelDefinition.csv,full_name_en,Adept III,작사 III
-LevelDefinitionLevelDefinition.csv,name_en,Expert,작걸
-LevelDefinitionLevelDefinition.csv,full_name_en,Expert I,작걸 I
-LevelDefinitionLevelDefinition.csv,full_name_en,Expert II,작걸 II
-LevelDefinitionLevelDefinition.csv,full_name_en,Expert III,작걸 III
-LevelDefinitionLevelDefinition.csv,name_en,Master,작호
-LevelDefinitionLevelDefinition.csv,full_name_en,Master I,작호 I
-LevelDefinitionLevelDefinition.csv,full_name_en,Master II,작호 II
-LevelDefinitionLevelDefinition.csv,full_name_en,Master III,작호 III
-LevelDefinitionLevelDefinition.csv,name_en,Saint,작성
-LevelDefinitionLevelDefinition.csv,full_name_en,Saint I,작성 I
-LevelDefinitionLevelDefinition.csv,full_name_en,Saint II,작성 II
-LevelDefinitionLevelDefinition.csv,full_name_en,Saint III,작성 III
-LevelDefinitionLevelDefinition.csv,name_en,Celestial,혼천
-LevelDefinitionLevelDefinition.csv,full_name_en,Celestial,혼천
-FanFan.csv,name_en,Fully Concealed Hand,멘젠쯔모
-FanFan.csv,name_en,Riichi,리치
-FanFan.csv,name_en,Robbing a Kan,창깡
-FanFan.csv,name_en,After a Kan,영상개화
-FanFan.csv,name_en,Under the Sea,해저로월
-FanFan.csv,name_en,Under the River,하저로어
-FanFan.csv,name_en,White Dragon,역패: 백
-FanFan.csv,name_en,Green Dragon,역패: 발
-FanFan.csv,name_en,Red Dragon,역패: 중
-FanFan.csv,name_en,Seat Wind,자풍패
-FanFan.csv,name_en,Prevalent Wind,장풍패
-FanFan.csv,name_en,All Simples,탕야오
-FanFan.csv,name_en,Pure Double Sequence,이페코
-FanFan.csv,name_en,Pinfu,핑후
-FanFan.csv,name_en,Half Outside Hand,찬타
-FanFan.csv,name_en,Pure Straight,일기통관
-FanFan.csv,name_en,Mixed Triple Sequence,삼색동순
-FanFan.csv,name_en,Double Riichi,더블리치
-FanFan.csv,name_en,Triple Triplets,삼색동각
-FanFan.csv,name_en,Three Quads,산깡즈
-FanFan.csv,name_en,All Triplets,또이또이
-FanFan.csv,name_en,Three Concealed Triplets,산안커
-FanFan.csv,name_en,Little Three Dragons,소삼원
-FanFan.csv,name_en,All Terminals and Honors,혼노두
-FanFan.csv,name_en,Seven Pairs,치또이츠
-FanFan.csv,name_en,Fully Outside Hand,준찬타
-FanFan.csv,name_en,Half Flush,혼일색
-FanFan.csv,name_en,Twice Pure Double Sequence,량페코
-FanFan.csv,name_en,Full Flush,청일색
-FanFan.csv,name_en,Ippatsu,일발
-FanFan.csv,name_en,Dora,도라
-FanFan.csv,name_en,Red Five,적도라
-FanFan.csv,name_en,Ura Dora,뒷도라
-FanFan.csv,name_en,Kita,북도라
-FanFan.csv,name_en,Blessing of Heaven,천화
-FanFan.csv,name_en,Blessing of Earth,지화
-FanFan.csv,name_en,Big Three Dragons,대삼원
-FanFan.csv,name_en,Four Concealed Triplets,스안커
-FanFan.csv,name_en,All Honors,자일색
-FanFan.csv,name_en,All Green,녹일색
-FanFan.csv,name_en,All Terminals,청노두
-FanFan.csv,name_en,Thirteen Orphans,국사무쌍
-FanFan.csv,name_en,Four Little Winds,소사희
-FanFan.csv,name_en,Four Quads,스깡즈
-FanFan.csv,name_en,Nine Gates,구련보등
-FanFan.csv,name_en,Eight-time East Staying,팔연장
-FanFan.csv,name_en,True Nine Gates,순정구련보등
-FanFan.csv,name_en,Single-wait Four Concealed Triplets,스안커 단기
-FanFan.csv,name_en,Thirteen-wait Thirteen Orphans,국사무쌍 13면대기
-FanFan.csv,name_en,Four Big Winds,대사희
-FanFan.csv,name_en,Tsubame-gaeshi,츠바메가에시
-FanFan.csv,name_en,Kanburi,영상개론
-FanFan.csv,name_en,Shiiaruraotai,십이낙태
-FanFan.csv,name_en,Uumensai,오문제
-FanFan.csv,name_en,Three Chained Triplets,삼련각
-FanFan.csv,name_en,Pure Triple Chow,일색삼순
-FanFan.csv,name_en,Iipinmoyue,일통모월
-FanFan.csv,name_en,Chuupinraoyui,구통로어
-FanFan.csv,name_en,Hand of Man,인화
-FanFan.csv,name_en,Big Wheels,대차륜
-FanFan.csv,name_en,Bamboo Forest,대죽림
-FanFan.csv,name_en,Numerous Neighbours,대수린
-FanFan.csv,name_en,Ishinouenimosannen,돌 위에서 삼년
-FanFan.csv,name_en,Big Seven Stars,대칠성
-ChestChest.csv,name_en,Summon,기원
-ChestChest.csv,desc_en,"For each summon: you can get 1 Faith, with a chance to draw an all-new character and decorations. \\n\\n Character drop rates: 5% \\n Decoration drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate character, will be converted into Wishing Stones. \\n Duplicate decorations will be converted into Star Stones.","기원할 때 마다 1개의 신앙을 획득하며, 새로운 캐릭터와 장식을 얻을 기회가 주어집니다. \\n\\n 캐릭터 획득 확률: 5% \\n 장식 획득 확률: 15% \\n 선물 획득 확률: 80% \\n\\n 중복된 캐릭터는 기도의 돌로 전환됩니다. \\n 중복된 장식은 별의 돌로 전환됩니다."
 ItemDefinitionCharacter.csv,name_en,Ichihime,이치히메
 ItemDefinitionCharacter.csv,desc_stature_en,154 cm,154 cm
 ItemDefinitionCharacter.csv,desc_birth_en,11th January,1월 11일
@@ -612,111 +896,183 @@ ItemDefinitionCharacter.csv,desc_birth_en,13th April,4월 13일
 ItemDefinitionCharacter.csv,desc_cv_en,Tetsuya Kakihara,카키하라 테츠야
 ItemDefinitionCharacter.csv,desc_hobby_en,"Fruit, hunting, game consoles","과일, 사냥, 게임기"
 ItemDefinitionCharacter.csv,desc_en,"Ein is the descendant of an ancient race. Their most significant trait is their appearance. Male or female, old or young, all of them have some characteristics that can be linked to animals. He took his father's words to look for a hunting ground when he was 16. Accidentally, he stepped onto the land of far east where his instinct was awakened by a certain object. It is at this moment, he realized he have already found his ""hunting ground"".","몸에 다른 동물의 특징이 나타나 있는 오래된 종족의 후예. 16 세때 일족의 규칙과 아버지의 말에 따라 ""사냥터""를 찾는 여행에 나섰다. 도착한 먼 동쪽 나라에서 마작을 접한 순간, 이 땅 이야말로 그의 ""사냥터""라고 야생의 본능으로 확신했다."
-AudioBgm.csv,name_en,Sakura,벛꽃
-AudioBgm.csv,name_en,Midsummer,한여름
-AudioBgm.csv,unlock_desc_en,Unlock by event,이벤트로 해제
-AudioBgm.csv,name_en,Bamboo,대나무
-DesktopMatchmode.csv,room_name_en,Bronze Room,동탁
-DesktopMatchmode.csv,room_name_en,Silver Room,은탁
-DesktopMatchmode.csv,room_name_en,Gold Room,금탁
-DesktopMatchmode.csv,room_name_en,Jade Room,옥탁
-DesktopMatchmode.csv,room_name_en,Melee Room,근접탁
-DesktopMatchmode.csv,room_name_en,Throne Room,왕좌탁
-DesktopMatchmode.csv,room_name_en,Casual Match,캐주얼
-DesktopMatchmode.csv,room_name_en,DoraDorara,도라도라라
-DesktopMatchmode.csv,room_name_en,Open Hand Match,손패 공개
-DesktopMatchmode.csv,room_name_en,Chaotic Wall Break,혼돈의 패산파괴
-ExchangeFushiquanexchange.csv,name_en,10Jade,10 휘옥
-ExchangeFushiquanexchange.csv,desc_en,Can be used to buy props.,소품(props)을 구입하는데 사용할 수 있습니다.
-CharacterEmoji.csv,unlock_desc_en,Bond,인연
-CharacterEmoji.csv,unlock_desc_en,Event,이벤트
-CharacterEmoji.csv,after_unlock_desc_en,9/27  (PDT),9/27  (PDT)
-CharacterEmoji.csv,after_unlock_desc_en,10/30 (PDT),10/30 (PDT)
-CharacterEmoji.csv,after_unlock_desc_en,11/09 (PDT),11/09 (PDT)
-CharacterEmoji.csv,after_unlock_desc_en,12/11(PDT),12/11(PDT)
-CharacterEmoji.csv,after_unlock_desc_en,12/26(PDT),12/26(PDT)
-CharacterEmoji.csv,unlock_desc_en,Sticker Shop,스티커 상점
-CharacterEmoji.csv,after_unlock_desc_en,2/28(UTC-7),2/28(UTC-7)
-CharacterEmoji.csv,unlock_desc_en,Unlock Outfit,의상으로 해제
-CharacterEmoji.csv,after_unlock_desc_en,Christmas,크리스마스
-CharacterEmoji.csv,after_unlock_desc_en,Halloween,할로윈
-CharacterEmoji.csv,after_unlock_desc_en,Beach Party,비치 파티
-CharacterEmoji.csv,after_unlock_desc_en,New Year,신년
-CharacterEmoji.csv,after_unlock_desc_en,Spring Festival,봄 축제
+ItemDefinitionCurrency.csv,name_en,Jade,휘옥
+ItemDefinitionCurrency.csv,desc_en,Can be used to buy props.,소품(props)을 구입하는데 사용할 수 있습니다.
+ItemDefinitionCurrency.csv,name_en,Copper,동전
+ItemDefinitionCurrency.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천 신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
+ItemDefinitionCurrency.csv,name_en,Outfit Voucher,의상 교환권
+ItemDefinitionCurrency.csv,desc_en,A currency used to purchase outfits,의상을 구입하는데 사용되는 화폐입니다
+ItemDefinitionItem.csv,name_en,Trial Ticket,시련 티켓
+ItemDefinitionItem.csv,desc_en,Entrance ticket to the Path of Trial.,시련의 길 입장권.
+ItemDefinitionItem.csv,name_en,Midorimiya Keita-Cup Ticket,미도리야 케이타 컵 티켓
+ItemDefinitionItem.csv,desc_en,Entrance ticket used by the organizer of Midorimiya Keita-Cup.,미도리아 케이타 컵 주최자가 사용하는 입장권.
+ItemDefinitionItem.csv,desc_en,A scroll bless by the shrine. \nUse it to perform a free summon for once.,신사에서 축복한 두루마리. \n사용하여 한 번 무료로 기원할 수 있다.
+ItemDefinitionItem.csv,name_en,Wishing Stone,기도의 돌
+ItemDefinitionItem.csv,desc_en,You can find hope in this enchanted stone. Use it to redeem items in Wishing Shop.,희망이 깃든 영석. 기도 상점에서 아이템과 교환할 수 있다.
+ItemDefinitionItem.csv,name_en,Star Stone,별의 돌
+ItemDefinitionItem.csv,desc_en,You can find emotions in this enchanted stone. Use it to redeem items in Star Shop.,감정이 깃든 영석. 별 상점에서 아이템과 교환할 수 있다.
+ItemDefinitionItem.csv,name_en,Star Dust,별가루
+ItemDefinitionItem.csv,desc_en,Slightly enchanted dust of Star Stone. Use it to redeem items in Fortune Shop. Available via donation of gifts in Inventory.,희미하게 영기가 남아있는 별의 돌 가루. 소원 상점에서 아이템과 교환할 수 있다. 창고에서 선물을 기부하여 모을 수 있다.
+ItemDefinitionItem.csv,desc_en,A brave heart. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,용감한 마음. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ItemDefinitionItem.csv,desc_en,Determination without regret. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,후회없는 결의. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ItemDefinitionItem.csv,desc_en,A firm oath. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,확고한 맹세. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ItemDefinitionItem.csv,desc_en,Unconditional love. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,무조건적인 사랑. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ItemDefinitionItem.csv,desc_en,The obsession of knowledge seeking. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,지식에 대한 집념. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ItemDefinitionItem.csv,desc_en,"Pure, innocent kindness. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).",순수한 선의.기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ItemDefinitionItem.csv,desc_en,Immortal faith. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,불멸의 믿음. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ItemDefinitionItem.csv,desc_en,The brightest light. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,가장 밝은 빛. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ItemDefinitionItem.csv,desc_en,Use this mysterious scroll to change your nickname once. You may change your nickname in Personal Info. It can only be used once every 30 days.,닉네임을 한 번 변경할 수 있는 신비한 두루마리. 개인 정보 화면에서 닉네임을 변경할 수 있습니다. 30일에 한 번만 사용할 수 있습니다.
+ItemDefinitionItem.csv,name_en,Summon Stone,기원의 돌
+ItemDefinitionItem.csv,desc_en,Collect them to summon.,기원하기 위해 수집하세요.
+ItemDefinitionItem.csv,name_en,Light Novel,라이트 노벨
+ItemDefinitionItem.csv,name_en,Riichi - Fish,리치 - 물고기
+ItemDefinitionItem.csv,name_en,Riichi - Green Onion,리치 - 파
+ItemDefinitionItem.csv,name_en,Riichi - Bone,리치 - 뼈
+ItemDefinitionItem.csv,name_en,Winning - Flame,승리 - 불꽃
+ItemDefinitionItem.csv,name_en,Winning - Cyclone,승리 - 사이클론
+ItemDefinitionItem.csv,name_en,Winning - Sakura,승리 - 벚꽃
+ItemDefinitionItem.csv,name_en,Riichi - Blue Flame,리치 - 푸른 불꽃
+ItemDefinitionItem.csv,name_en,Ginger Cat Paw,치즈색 고양이 발
+ItemDefinitionItem.csv,name_en,Riichi - Crimson,리치 - 크림슨
+ItemDefinitionItem.csv,name_en,Riichi - Ice,리치 - 아이스
+ItemDefinitionItem.csv,name_en,Riichi - Fire,리치 - 파이어
+ItemDefinitionItem.csv,name_en,Winning - Dark Flame,승리 - 어둠의 불꽃
+ItemDefinitionItem.csv,name_en,“Serious Game”,“진검승부”
+ItemDefinitionItem.csv,name_en,“Intensive Battle”,“격투”
+ItemDefinitionItem.csv,name_en,Riichi - Firecracker,리치 - 폭죽
+ItemDefinitionItem.csv,name_en,Riichi - Dumpling,리치 - 만두
+ItemDefinitionItem.csv,name_en,Winning - Fireworks,승리 - 불꽃놀이
+ItemDefinitionItem.csv,name_en,Riichi - Phantom,리치 - 팬텀
+ItemDefinitionItem.csv,name_en,Riichi - Feather,리치 - 깃털
+ItemDefinitionItem.csv,name_en,Winning - Firestorm,승리 - 화염폭풍
+ItemDefinitionItem.csv,name_en,Winning - Laser Blast,승리 - 레이저 블라스트
+ItemDefinitionItem.csv,name_en,Winning - Dancing Rose,승리 - 춤추는 꽃
+ItemDefinitionItem.csv,name_en,"Riichi - ""Beep""!","리치 - ""삑""!"
+ItemDefinitionItem.csv,name_en,Riichi - Dragon,리치 - 드래곤
+ItemDefinitionItem.csv,name_en,Winning - K.O,승리 - K.O
+ItemDefinitionItem.csv,name_en,Riichi Bet - Sever,리치 봉 - 악의
+ItemDefinitionItem.csv,name_en,Riichi Bet - Ice Cream,리치 봉 - 아이스크림
+ItemDefinitionItem.csv,name_en,Tablecloth - Melon,테이블보 - 수박
+ItemDefinitionItem.csv,name_en,Tablecloth - Mahjong Ceremony,테이블보 - 여름 축제
+ItemDefinitionItem.csv,name_en,“Charge”,“출전”
+ItemDefinitionItem.csv,name_en,“On the Edge”,“일촉즉발”
+ItemDefinitionItem.csv,name_en,Winning - Screaming Ghost,승리 - 비명을 지르는 유령
+ItemDefinitionItem.csv,name_en,Winning - Opera Phantom,승리 - 오페라의 유령
+ItemDefinitionItem.csv,name_en,Winning - Magical Girl,승리 - 마법소녀
+ItemDefinitionItem.csv,name_en,Winning - Family Reunion,승리 - 새해 불꽃놀이
+ItemDefinitionItem.csv,name_en,Winning - Silent Star,승리 - 고요한 별
+ItemDefinitionItem.csv,name_en,Winning - Eye of Eris,승리 - 에리스의 눈
+ItemDefinitionItem.csv,name_en,Riichi - Bat Swarm,리치 - 박쥐떼
+ItemDefinitionItem.csv,name_en,Riichi - Emergency,리치 - 비상
+ItemDefinitionItem.csv,name_en,Riichi - Magical Girl,리치 - 마법소녀
+ItemDefinitionItem.csv,name_en,Riichi - Rat Power,리치 - 경자(庚子)의 힘
+ItemDefinitionItem.csv,name_en,Riichi - Starfall,리치 - 별똥별
+ItemDefinitionItem.csv,name_en,Riichi - Blood·Lance of Longinus,리치 - 선혈·롱기누스의 창
+ItemDefinitionItem.csv,name_en,Riichi Bet - Magical Wand,리치 봉 - 마법봉
+ItemDefinitionItem.csv,name_en,Riichi Bet - Gold Arowana,리치 봉 - 황금 아로와나
+ItemDefinitionItem.csv,name_en,Riichi Bet - Crimson Thorns,리치 봉 - 크림슨 가시
+ItemDefinitionItem.csv,name_en,Tile Back - Bumpkin,마작패 - 유령
+ItemDefinitionItem.csv,name_en,Tile Back - Red Packet,마작패 - 복주머니
+ItemDefinitionItem.csv,name_en,Tablecloth - Swimming Koi,테이블보 - 비단 잉어
+LevelDefinitionCharacter.csv,unlock_desc_en,New daily voice unlocked!\\nNew match voice unlocked!,새 일일 보이스 잠금 해제!\\n새 게임 보이스 잠금 해제!
+LevelDefinitionCharacter.csv,unlock_desc_en,New daily voice unlocked!\\nNew bonding voice unlocked!,새 일일 보이스 잠금 해제!\\n새 인연 보이스 잠금 해제!
+LevelDefinitionCharacter.csv,unlock_desc_en,New Han-declaration voice unlocked!\\nNew login voice unlocked!\\nNew daily voice unlocked!\\nNew bonding voice unlocked!,새 판 선언 보이스 잠금 해제!\\n새 로그인 보이스 잠금 해제!\\n새 일일 보이스 잠금 해제!\\n새 인연 보이스 잠금 해제!
+LevelDefinitionLevelDefinition.csv,name_en,Novice,초심
+LevelDefinitionLevelDefinition.csv,full_name_en,Novice I,초심 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Novice II,초심 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Novice III,초심 III
+LevelDefinitionLevelDefinition.csv,name_en,Intermediate,작사
+LevelDefinitionLevelDefinition.csv,full_name_en,Adept I,작사 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Adept II,작사 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Adept III,작사 III
+LevelDefinitionLevelDefinition.csv,name_en,Expert,작걸
+LevelDefinitionLevelDefinition.csv,full_name_en,Expert I,작걸 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Expert II,작걸 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Expert III,작걸 III
+LevelDefinitionLevelDefinition.csv,name_en,Master,작호
+LevelDefinitionLevelDefinition.csv,full_name_en,Master I,작호 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Master II,작호 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Master III,작호 III
+LevelDefinitionLevelDefinition.csv,name_en,Saint,작성
+LevelDefinitionLevelDefinition.csv,full_name_en,Saint I,작성 I
+LevelDefinitionLevelDefinition.csv,full_name_en,Saint II,작성 II
+LevelDefinitionLevelDefinition.csv,full_name_en,Saint III,작성 III
+LevelDefinitionLevelDefinition.csv,name_en,Celestial,혼천
+LevelDefinitionLevelDefinition.csv,full_name_en,Celestial,혼천
+ShopsGoods.csv,name_en,Summon Scroll,기원의 두루마리
+ShopsGoods.csv,name_en,Rename Scroll,이름 변경 두루마리
+ShopsZhpGoods.csv,name_en,Sphere of Courage,용기의 보옥
+ShopsZhpGoods.csv,name_en,Sphere of Will,의지의 보옥
+ShopsZhpGoods.csv,name_en,Sphere of Honesty,성실의 보옥
+ShopsZhpGoods.csv,name_en,Sphere of Love,사랑의 보옥
+ShopsZhpGoods.csv,name_en,Sphere of Wisdom,지혜의 보옥
+ShopsZhpGoods.csv,name_en,Sphere of Innocence,순수의 보옥
+ShopsZhpGoods.csv,name_en,Sphere of Hope,희망의 보옥
+ShopsZhpGoods.csv,name_en,Sphere of Light,빛의 보옥
 StrStr.csv,en,Deal-in is not the end; All Last is only the beginning!,"쏘였다고 경기에서 패배한 것은 아니며, 최종국은 또다른 시작일 뿐입니다!"
 StrStr.csv,en,"No matter how big your hand is, a Tanyao will end it all.","내 손패가 아무리 강해도, 탕야오 한번에 끝날 수 있습니다."
 StrStr.csv,en,"You must have Yaku to declare a win. Before you make a call (Chii/Pon/Kan), make sure you check if you have Yaku.",화료하기 위해서는 역이 필요합니다. 울기(치/펑/깡) 전에 역이 있는지 꼭 확인하세요.
 StrStr.csv,en,Go to settings menu to view all types of Yaku,설정 메뉴에서 모든 역을 확인할 수 있습니다
 StrStr.csv,en,"In settings, you can choose to play a tile with single or double click",설정에서 한번 터치 또는 두번 터치로 타패하도록 변경할 수 있습니다
 StrStr.csv,en,Players who use IE or Opera browsers may encounter lag issues. We recommend Chrome，FireFox or Edge browsers.,"인터넷 익스플로러 또는 오페라 브라우저에서는 게임이 원할하게 구동되지 않을 수 있습니다. 크롬, 파이어폭스, 엣지 브라우저를 사용하는 것을 추천합니다."
+StrStr.csv,en,AI(Easy),AI(쉬움)
+StrStr.csv,en,AI(Normal),AI(보통)
+StrStr.csv,en,Just now,지금
+StrStr.csv,en,minutes,분
+StrStr.csv,en,hours,시간
+StrStr.csv,en,days,일
+StrStr.csv,en,weeks,주
+StrStr.csv,en,months,개월
+StrStr.csv,en,Second,초
+StrStr.csv,en,Minute,분
+StrStr.csv,en,Hour,시
+StrStr.csv,en,Day,일
+StrStr.csv,en,Friendly Match,친선전
+StrStr.csv,en,Successfully used,성공적으로 사용함
+StrStr.csv,en,Tournament Match,대회전
+StrStr.csv,en,4-Player (1 Game),4인 (단판)
+StrStr.csv,en,4-Player East,4인 동풍전
+StrStr.csv,en,4-Player South,4인 반장전
+StrStr.csv,en,4-Player (vs AI),4인 (vs AI)
+StrStr.csv,en,3-Player (1 Game),3인 (단판)
+StrStr.csv,en,3-Player East,3인 동풍전
+StrStr.csv,en,3-Player South,3인 반장전
+StrStr.csv,en,3-Player (vs AI),3인 (vs AI)
+StrStr.csv,en,Cancel,취소
+StrStr.csv,en,Current version,현재 버전
+StrStr.csv,en,Enter number,번호 입력
+StrStr.csv,en,No Red Five,적도라 없음
+StrStr.csv,en,3 Red Five,적도라 3개
+StrStr.csv,en,4 Red Five,적도라 4개
+StrStr.csv,en,2 Red Five,적도라 2개
+StrStr.csv,en,Logging In...,로그인 중...
+StrStr.csv,en,Ranked,단위전
+StrStr.csv,en,Join Room #,참여할 방 번호
+StrStr.csv,en,Mode,모드
+StrStr.csv,en,Thinking Time,턴 시간 제한
+StrStr.csv,en,Open Tanyao,쿠이탕
+StrStr.csv,en,Disable,비활성화
+StrStr.csv,en,Enable,활성화
+StrStr.csv,en,Starting Points,시작 점수
+StrStr.csv,en,Minimum Points to Win,최소 승리 점수
+StrStr.csv,en,Riichi Points,리치 점수
+StrStr.csv,en,Game Tips,게임 팁
 StrStr.csv,en,Mangan at Draw,유국만관
-StrStr.csv,en,Four-Wind Discarded,사풍연타
-StrStr.csv,en,Four-kan Abortion,사깡유국
-StrStr.csv,en,Four-player Riichi,사가리치
 StrStr.csv,en,Nine Different Terminals and Honors,구종구패
-StrStr.csv,en,Three Rons Draw,트리플론
 StrStr.csv,en,Ippatsu,일발
+StrStr.csv,en,Confirm,확인
+StrStr.csv,en,、,、
+StrStr.csv,en,Finding opponents,상대방을 찾는 중
+StrStr.csv,en,Starting soon,잠시 후 시작:
 StrStr.csv,en,Exhaustive Draw,유국
 StrStr.csv,en,Nine Terminal Initial Draw,구종구패
 StrStr.csv,en,Four Winds Draw,사풍연타
 StrStr.csv,en,Four Quads Draw,사깡유국
 StrStr.csv,en,Four Riichi Draw,사가리치
+StrStr.csv,en,Three Rons Draw,트리플론
 StrStr.csv,en,Tsumo,쯔모
 StrStr.csv,en,Ron,론
 StrStr.csv,en,Riichi,리치
-StrStr.csv,en,Furiten,후리텐
-StrStr.csv,en,Deal-in,방총
-StrStr.csv,en,Cancel,취소
-StrStr.csv,en,4-Player,4인
-StrStr.csv,en,3-Player,3인
-StrStr.csv,en,1 Han,1판
-StrStr.csv,en,2 Han,2판
-StrStr.csv,en,3 Han,3판
-StrStr.csv,en,6 Han,6판
-StrStr.csv,en,Mangan,만관
-StrStr.csv,en,Yakuman,역만
-StrStr.csv,en,Double Yakuman,더블 역만
-StrStr.csv,en,Draw,유국
-StrStr.csv,en,Menzenchin Only,멘젠 한정
-StrStr.csv,en,Yaku Overview,역 요약
-StrStr.csv,en,Close,닫기
-StrStr.csv,en,Exit,나가기
-StrStr.csv,en,Auto Arrange,자동정렬
-StrStr.csv,en,Auto Call Win,자동화료
-StrStr.csv,en,No Chii/Pon/Kan,울기금지
-StrStr.csv,en,Auto Draw & Discard,자동쯔모기리
-StrStr.csv,en,4 Han,4판
-StrStr.csv,en,Local Yaku,로컬역
-StrStr.csv,en,Logging In...,로그인 중...
-StrStr.csv,en,View Yaku,역 보기
-StrStr.csv,en,Log Out,로그아웃
-StrStr.csv,en,Rank,랭킹
-StrStr.csv,en,Info,정보
-StrStr.csv,en,Turn,순:
-StrStr.csv,en,Wall,패산
-StrStr.csv,en,Repeat Counter,연장
-StrStr.csv,en,Ranked Match,단위전
-StrStr.csv,en,Recent High Score,최근 고득점
-StrStr.csv,en,Confirm,확인
-StrStr.csv,en,Trends,트렌드
-StrStr.csv,en,Detailed Info,상세 정보
-StrStr.csv,en,East Round,동풍전
-StrStr.csv,en,1st,1위
-StrStr.csv,en,2nd,2위
-StrStr.csv,en,3rd,3위
-StrStr.csv,en,4th,4위
-StrStr.csv,en,Negative,들통
-StrStr.csv,en,Total Played,총 플레이 수
-StrStr.csv,en,Avg Score,평균 점수
-StrStr.csv,en,Avg Rank,평균 순위
-StrStr.csv,en,Max Repeats,최대 연장
-StrStr.csv,en,Win Rate,승률
-StrStr.csv,en,Tsumo Rate,쯔모 비율
-StrStr.csv,en,Deal-in Rate,방총율
-StrStr.csv,en,Call Rate,울기 비율
-StrStr.csv,en,Riichi Rate,리치 비율
-StrStr.csv,en,South Round,반장전
-StrStr.csv,en,Yaku Achieved,달성한 역
 StrStr.csv,en,Quest,퀘스트
 StrStr.csv,en,Settings,설정
 StrStr.csv,en,BGM,배경음
@@ -748,479 +1104,113 @@ StrStr.csv,en,Join,참가
 StrStr.csv,en,Invites you to join,게임 초대
 StrStr.csv,en,Auto-cancel after 3 minutes,3분 뒤 자동 취소
 StrStr.csv,en,Add,추가
-StrStr.csv,en,Enter number,번호 입력
-StrStr.csv,en,No Red Five,적도라 없음
-StrStr.csv,en,3 Red Five,적도라 3개
-StrStr.csv,en,4 Red Five,적도라 4개
-StrStr.csv,en,2 Red Five,적도라 2개
-StrStr.csv,en,Just now,지금
-StrStr.csv,en,minutes,분
-StrStr.csv,en,hours,시간
-StrStr.csv,en,days,일
-StrStr.csv,en,weeks,주
-StrStr.csv,en,months,개월
-StrStr.csv,en,Second,초
-StrStr.csv,en,Minute,분
-StrStr.csv,en,Hour,시
-StrStr.csv,en,Day,일
-StrStr.csv,en,AI(Easy),AI(쉬움)
-StrStr.csv,en,AI(Normal),AI(보통)
-StrStr.csv,en,Friendly Match,친선전
-StrStr.csv,en,Successfully used,성공적으로 사용함
-StrStr.csv,en,Tournament Match,대회전
-StrStr.csv,en,4-Player (1 Game),4인 (단판)
-StrStr.csv,en,4-Player East,4인 동풍전
-StrStr.csv,en,4-Player South,4인 반장전
-StrStr.csv,en,4-Player (vs AI),4인 (vs AI)
-StrStr.csv,en,3-Player (1 Game),3인 (단판)
-StrStr.csv,en,3-Player East,3인 동풍전
-StrStr.csv,en,3-Player South,3인 반장전
-StrStr.csv,en,3-Player (vs AI),3인 (vs AI)
-StrStr.csv,en,Current version,현재 버전
-StrStr.csv,en,Join Room #,참여할 방 번호
-StrStr.csv,en,Mode,모드
-StrStr.csv,en,Thinking Time,턴 시간 제한
-StrStr.csv,en,Number of Red Five,적도라 수
-StrStr.csv,en,Open Tanyao,쿠이탕
+StrStr.csv,en,Ranked Match,단위전
+StrStr.csv,en,Recent High Score,최근 고득점
+StrStr.csv,en,4,4
+StrStr.csv,en,3,3
+StrStr.csv,en,2,2
+StrStr.csv,en,1,1
+StrStr.csv,en,Rank,랭킹
+StrStr.csv,en,Trends,트렌드
+StrStr.csv,en,Detailed Info,상세 정보
+StrStr.csv,en,East Round,동풍전
+StrStr.csv,en,1st,1위
+StrStr.csv,en,2nd,2위
+StrStr.csv,en,3rd,3위
+StrStr.csv,en,4th,4위
+StrStr.csv,en,Negative,들통
+StrStr.csv,en,Total Played,총 플레이 수
+StrStr.csv,en,Avg Score,평균 점수
+StrStr.csv,en,Avg Rank,평균 순위
+StrStr.csv,en,Max Repeats,최대 연장
+StrStr.csv,en,Win Rate,승률
+StrStr.csv,en,Tsumo Rate,쯔모 비율
+StrStr.csv,en,Deal-in Rate,방총율
+StrStr.csv,en,Call Rate,울기 비율
+StrStr.csv,en,Riichi Rate,리치 비율
+StrStr.csv,en,South Round,반장전
+StrStr.csv,en,Yaku Achieved,달성한 역
+StrStr.csv,en,4-Player,4인
+StrStr.csv,en,3-Player,3인
+StrStr.csv,en,1 Han,1판
+StrStr.csv,en,2 Han,2판
+StrStr.csv,en,3 Han,3판
+StrStr.csv,en,6 Han,6판
+StrStr.csv,en,Mangan,만관
+StrStr.csv,en,Yakuman,역만
+StrStr.csv,en,Double Yakuman,더블 역만
+StrStr.csv,en,Draw,유국
+StrStr.csv,en,Menzenchin Only,멘젠 한정
+StrStr.csv,en,Yaku Overview,역 요약
+StrStr.csv,en,5,5
+StrStr.csv,en,6,6
+StrStr.csv,en,7,7
+StrStr.csv,en,8,8
+StrStr.csv,en,9,9
+StrStr.csv,en,0,0
+StrStr.csv,en,Info,정보
+StrStr.csv,en,Close,닫기
 StrStr.csv,en,No,아니오
 StrStr.csv,en,Yes,예
-StrStr.csv,en,Starting Points,시작 점수
-StrStr.csv,en,Minimum Points to Win,최소 승리 점수
-StrStr.csv,en,Negative Points,들통 점수
-StrStr.csv,en,Upper Limit,상한
-StrStr.csv,en,Riichi Points,리치 점수
-StrStr.csv,en,Repeat Counter Points,연장 점수
-StrStr.csv,en,No-Tenpai Penalty,노텐 패널티
-StrStr.csv,en,Game Tips,게임 팁
-StrStr.csv,en,Enable,활성화
-StrStr.csv,en,Disable,비활성화
-StrStr.csv,en,Finding opponents,상대방을 찾는 중
-StrStr.csv,en,Starting soon,잠시 후 시작:
-StrStr.csv,en,Ranked,단위전
-EventsSoscoin.csv,desc_en,Only players of Adept rank or above can claim Revival Tokens. Keep working!,작사 등급 이상의 플레이어만 부활 토큰을 받을 수 있습니다. 계속 힘내세요!
-EventsSoscoin.csv,desc_en,You are currently an Adept.You may claim this when you have less than 4500 coppers. Available once per day.,당신은 현재 작사 등급입니다. 4500개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
-EventsSoscoin.csv,desc_en,You are current an Expert. You may claim this when you have less than 9000 coppers. Available once per day.,당신은 현재 작걸 등급입니다. 9000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
-EventsSoscoin.csv,desc_en,You are current a Master. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 작호 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
-EventsSoscoin.csv,desc_en,You are current a Saint. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 작성 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
-EventsSoscoin.csv,desc_en,You are current a Celestial. You may claim this when you have less than 18000 coppers. Available once per day.,당신은 현재 혼천 등급입니다. 18000개 미만의 동전을 가지고 있을 때 부활 토큰을 받을 수 있습니다. 하루에 한번 이용하실 수 있습니다.
-LevelDefinitionCharacter.csv,unlock_desc_en,New daily voice unlocked!\\nNew match voice unlocked!,새 일일 보이스 잠금 해제!\\n새 게임 보이스 잠금 해제!
-LevelDefinitionCharacter.csv,unlock_desc_en,New daily voice unlocked!\\nNew bonding voice unlocked!,새 일일 보이스 잠금 해제!\\n새 인연 보이스 잠금 해제!
-LevelDefinitionCharacter.csv,unlock_desc_en,New Han-declaration voice unlocked!\\nNew login voice unlocked!\\nNew daily voice unlocked!\\nNew bonding voice unlocked!,새 판 선언 보이스 잠금 해제!\\n새 로그인 보이스 잠금 해제!\\n새 일일 보이스 잠금 해제!\\n새 인연 보이스 잠금 해제!
-ActivityActivity.csv,name_en,圣夜的礼物箱,圣夜的礼物箱
-ActivityActivity.csv,name_en,圣夜的宝物,圣夜的宝物
-StrStr.csv,en,排名点数：,排名点数：
-StrStr.csv,en,American Express\\n4-digit Card Verification Number,American Express\\n4자리 카드 확인 번호
-StrStr.csv,en,"Discover,MasterCard,Visa\\n3-digit Card Verification Number","Discover,MasterCard,Visa\\n3자리 카드 확인 번호"
-StrStr.csv,en,Confirm And Pay,확인 및 지불
-StrStr.csv,en,Please enter a 3 or 4 digits CVV2/CSC Code,3~4자리 CVV2/CSC 코드를 입력해주세요
-StrStr.csv,en,Security Code,보안 코드
-StrStr.csv,en,Please select a year,년을 선택해주세요
-StrStr.csv,en,Please select a month,월을 선택해주세요
-StrStr.csv,en,Year,년
-StrStr.csv,en,Month,월
-StrStr.csv,en,Expiry Date,유효 기간
-StrStr.csv,en,Card number ranges from 14 digits to 16 digits,카드 번호는 14~16자리 숫자입니다
-StrStr.csv,en,Card Number,카드 번호
-StrStr.csv,en,Credit Card,신용카드
-StrStr.csv,en,VIP Point:,VIP 포인트:
-StrStr.csv,en,Price:,가격:
-StrStr.csv,en,Description,설명
-StrStr.csv,en,Item:,아이템:
 StrStr.csv,en,Choose a payment method,결제 방법을 선택해주세요
-StrStr.csv,en,1/23 14:00 - 1/28 13:59 (UTC-7),1/23 14:00 - 1/28 13:59 (UTC-7)
-EventsBaseTask.csv,desc_en,四暗刻,四暗刻
-EventsBaseTask.csv,desc_en,国士无双,国士无双
-StrStr.csv,en,300+0s,300+0s
-StrStr.csv,en,0,0
-StrStr.csv,en,9,9
-StrStr.csv,en,8,8
-StrStr.csv,en,7,7
-StrStr.csv,en,6,6
-StrStr.csv,en,5,5
-EventsBaseTask.csv,desc_en,七对子,七对子
-StrStr.csv,en,、,、
-StrStr.csv,en,2,2
-StrStr.csv,en,3,3
-StrStr.csv,en,4,4
+StrStr.csv,en,Item:,아이템:
+StrStr.csv,en,Price:,가격:
+StrStr.csv,en,Exit,나가기
+StrStr.csv,en,Auto Arrange,자동정렬
+StrStr.csv,en,Auto Call Win,자동화료
+StrStr.csv,en,No Chii/Pon/Kan,울기금지
+StrStr.csv,en,Auto Draw & Discard,자동쯔모기리
+StrStr.csv,en,Turn,순:
+StrStr.csv,en,Wall,패산
+StrStr.csv,en,Repeat Counter,연장
+StrStr.csv,en,Furiten,후리텐
+StrStr.csv,en,Deal-in,방총
+StrStr.csv,en,VIP Point:,VIP 포인트:
+StrStr.csv,en,Credit Card,신용카드
+StrStr.csv,en,Card Number,카드 번호
+StrStr.csv,en,Card number ranges from 14 digits to 16 digits,카드 번호는 14~16자리 숫자입니다
+StrStr.csv,en,Expiry Date,유효 기간
+StrStr.csv,en,Month,월
+StrStr.csv,en,Year,년
+StrStr.csv,en,Please select a month,월을 선택해주세요
+StrStr.csv,en,Please select a year,년을 선택해주세요
+StrStr.csv,en,Security Code,보안 코드
+StrStr.csv,en,Please enter a 3 or 4 digits CVV2/CSC Code,3~4자리 CVV2/CSC 코드를 입력해주세요
+StrStr.csv,en,Confirm And Pay,확인 및 지불
+StrStr.csv,en,"Discover,MasterCard,Visa\\n3-digit Card Verification Number","Discover,MasterCard,Visa\\n3자리 카드 확인 번호"
+StrStr.csv,en,American Express\\n4-digit Card Verification Number,American Express\\n4자리 카드 확인 번호
+StrStr.csv,en,4 Han,4판
+StrStr.csv,en,排名点数：,排名点数：
+StrStr.csv,en,Description,설명
+StrStr.csv,en,Local Yaku,로컬역
 StrStr.csv,en,GO,GO
-EventsBaseTask.csv,desc_en,Win 1 game with Full Flush,1 게임을 청일색으로 화료
-EventsBaseTask.csv,desc_en,Yaku: Half Flush/Full Flush,역: 혼일색/청일색
-EventsBaseTask.csv,desc_en,Win a game with Half Flush or Full Flush,혼일색 또는 청일색으로 화료
-EventsBaseTask.csv,desc_en,Win 5 games with Pinfu,5 게임을 핑후로 화료
-EventsBaseTask.csv,desc_en,Win 3 games with Pinfu,3 게임을 핑후로 화료
-EventsBaseTask.csv,desc_en,Win 1 game with Pinfu,1 게임을 핑후로 화료
-EventsBaseTask.csv,desc_en,Win 6 games with All Simples,6 게임을 탕야오로 화료
-EventsBaseTask.csv,desc_en,Win 4 games with All Simples,4 게임을 탕야오로 화료
-EventsBaseTask.csv,desc_en,Win 2 games with All Simples,2 게임을 탕야오로 화료
-EventsBaseTask.csv,desc_en,Win 5 games with Riichi,5 게임을 리치하여 화료
-EventsBaseTask.csv,desc_en,Yaku: Riichi,역: 리치
-EventsBaseTask.csv,desc_en,Avoid dealing into others' in 6 games,6번 방총 회피하기
-EventsBaseTask.csv,desc_en,Win a game with Ron,론으로 화료
-ItemDefinitionItem.csv,name_en,Riichi Bet - Crimson Thorns,리치 봉 - 크림슨 가시
-ItemDefinitionItem.csv,name_en,Riichi - Blood·Lance of Longinus,리치 - 선혈·롱기누스의 창
-ItemDefinitionItem.csv,name_en,Riichi - Starfall,리치 - 별똥별
-ItemDefinitionItem.csv,name_en,Winning - Eye of Eris,승리 - 에리스의 눈
-ItemDefinitionItem.csv,name_en,Winning - Silent Star,승리 - 고요한 별
-ItemDefinitionItem.csv,name_en,Wishing Stone,기도의 돌
-ItemDefinitionItem.csv,name_en,Tablecloth - Swimming Koi,테이블보 - 비단 잉어
-ItemDefinitionItem.csv,name_en,Tile Back - Red Packet,마작패 - 복주머니
-ItemDefinitionItem.csv,name_en,Riichi Bet - Gold Arowana,리치 봉 - 황금 아로와나
-ItemDefinitionItem.csv,name_en,Riichi - Rat Power,리치 - 경자(庚子)의 힘
-ItemDefinitionItem.csv,name_en,Winning - Family Reunion,승리 - 새해 불꽃놀이
-ItemDefinitionItem.csv,name_en,Riichi Bet - Magical Wand,리치 봉 - 마법봉
-ItemDefinitionItem.csv,name_en,Riichi - Magical Girl,리치 - 마법소녀
-ItemDefinitionItem.csv,name_en,Riichi - Emergency,리치 - 비상
-ItemDefinitionItem.csv,name_en,Winning - Magical Girl,승리 - 마법소녀
-ItemDefinitionItem.csv,name_en,Winning - Opera Phantom,승리 - 오페라의 유령
-ItemDefinitionItem.csv,name_en,“On the Edge”,“일촉즉발”
-ItemDefinitionItem.csv,name_en,Tile Back - Bumpkin,마작패 - 유령
-ChestChestShop.csv,name_en,Riichi Bet - Impish Bat,리치 봉 - 소악마
-ItemDefinitionItem.csv,name_en,Riichi - Bat Swarm,리치 - 박쥐떼
-ItemDefinitionItem.csv,name_en,Winning - Screaming Ghost,승리 - 비명을 지르는 유령
-ItemDefinitionItem.csv,name_en,Tablecloth - Melon,테이블보 - 수박
-ItemDefinitionItem.csv,name_en,Tablecloth - Mahjong Ceremony,테이블보 - 여름 축제
-ItemDefinitionItem.csv,name_en,“Charge”,“출전”
-ItemDefinitionItem.csv,name_en,Riichi Bet - Ice Cream,리치 봉 - 아이스크림
-ItemDefinitionItem.csv,name_en,Riichi Bet - Sever,리치 봉 - 악의
-ChestChestShop.csv,name_en,Winning - Inverted Dragon Scale,승리 - 역린
-ItemDefinitionItem.csv,name_en,Winning - K.O,승리 - K.O
-ItemDefinitionItem.csv,name_en,Riichi - Dragon,리치 - 드래곤
-ItemDefinitionItem.csv,name_en,"Riichi - ""Beep""!","리치 - ""삑""!"
-ChestChestShop.csv,name_en,Kavvi,카비
-ItemDefinitionItem.csv,name_en,Winning - Dancing Rose,승리 - 춤추는 꽃
-ItemDefinitionItem.csv,name_en,Winning - Laser Blast,승리 - 레이저 블라스트
-ItemDefinitionItem.csv,name_en,Winning - Firestorm,승리 - 화염폭풍
-ItemDefinitionItem.csv,name_en,Riichi - Feather,리치 - 깃털
-ItemDefinitionItem.csv,name_en,Riichi - Phantom,리치 - 팬텀
-ChestChestShop.csv,name_en,Tablecloth - Lunar New Year,테이블보 - 설날
-ItemDefinitionItem.csv,name_en,“Intensive Battle”,“격투”
-ItemDefinitionItem.csv,name_en,“Serious Game”,“진검승부”
-ChestChestShop.csv,name_en,24K Gold Riichi Bet,24K 순금 리치 봉
-ItemDefinitionItem.csv,name_en,Riichi - Crimson,리치 - 크림슨
-ItemDefinitionItem.csv,name_en,Riichi - Bone,리치 - 뼈
-ItemDefinitionItem.csv,name_en,Riichi - Green Onion,리치 - 파
-ItemDefinitionItem.csv,name_en,Riichi - Fish,리치 - 물고기
-ItemDefinitionItem.csv,name_en,Riichi - Dumpling,리치 - 만두
-ItemDefinitionItem.csv,name_en,Riichi - Firecracker,리치 - 폭죽
-ItemDefinitionItem.csv,name_en,Ginger Cat Paw,치즈색 고양이 발
-ItemDefinitionItem.csv,name_en,Winning - Sakura,승리 - 벚꽃
-ItemDefinitionItem.csv,name_en,Winning - Cyclone,승리 - 사이클론
-ItemDefinitionItem.csv,name_en,Winning - Flame,승리 - 불꽃
-ItemDefinitionItem.csv,name_en,Winning - Fireworks,승리 - 불꽃놀이
-ItemDefinitionItem.csv,name_en,Winning - Dark Flame,승리 - 어둠의 불꽃
-ItemDefinitionItem.csv,name_en,Riichi - Fire,리치 - 파이어
-ItemDefinitionItem.csv,name_en,Riichi - Ice,리치 - 아이스
-ItemDefinitionItem.csv,name_en,Riichi - Blue Flame,리치 - 푸른 불꽃
-ActivityActivity.csv,name_en,Maid's Commission,메이드의 커미션
-ActivityActivity.csv,name_en,Working Adventure Rewards,아르바이트 대모험 보상
-StrStr.csv,en,Working Adventure Quest,아르바이트 대모험 퀘스트
+StrStr.csv,en,1/23 14:00 - 1/28 13:59 (UTC-7),1/23 14:00 - 1/28 13:59 (UTC-7)
 StrStr.csv,en,Ichihime's Working Adventure,이치히메의 아르바이트 대모험
-ActivityActivity.csv,name_en,Detection: OP Progress,확인 : 작전 진행
-ActivityActivity.csv,name_en,Launch: School Operation,시작: 봄방학 작전
-ActivityActivity.csv,name_en,Gorgeous Spring,화려한 봄날
-ActivityActivity.csv,name_en,Spring Festival Limited-time Sticker Shop,봄 축제 기간 한정 스티커 샵
-ActivityActivity.csv,name_en,Celebration Shop,기념품점
-ActivityActivity.csv,name_en,New Year Celebration,혼천 신사 새해 참배
-ActivityActivity.csv,name_en,Chiori's Trouble,치오리의 고민
-ActivityActivity.csv,name_en,Halloween Event Exchange,할로윈 이벤트 교환
-ActivityActivity.csv,name_en,Halloween Event,할로윈 이벤트
-ActivityActivity.csv,name_en,Hana Ninomiya's Challenge,니노미야 하나의 도전
-ActivityActivity.csv,name_en,Moon Palace,달 궁전
-ActivityActivity.csv,name_en,Missions from Moon Palace,달 궁전의 역할
-ActivityActivity.csv,name_en,Visiting the Shrine in Midsummer,여름 신사 참배
-ActivityActivity.csv,name_en,Midsummer Gifts,한여름 선물
-ActivityActivity.csv,name_en,Nikaidou's Reward,니카이도 보상
-ActivityActivity.csv,name_en,Nikaidou's Class,니카이도 교실
-ActivityActivity.csv,name_en,古役活动,古役活动
-ActivityActivity.csv,name_en,排名活动,排名活动
-ActivityActivity.csv,name_en,对局点数活动,对局点数活动
-ActivityActivity.csv,name_en,春节的礼品箱,春节的礼品箱
-ActivityActivity.csv,name_en,春节夺宝战,春节夺宝战
-ActivityActivity.csv,name_en,新角色 新装版up,新角色 新装版up
-StrStr.csv,en,1,1
-EventsBaseTask.csv,desc_en,Win 28 games with Ron and Tsumo,28 게임을 화료
-EventsBaseTask.csv,desc_en,Win 2 games with Yaku: Dragon,2 게임을 삼원패로 화료
-EventsBaseTask.csv,desc_en,Get 1st or 2nd 1 time in Chaotic Wall Break,혼돈의 패산파괴 게임에서 1등 또는 2등 1회 달성
-EventsBaseTask.csv,desc_en,Win 8 games with 1 Han Yaku included,8 게임을 1판 역을 포함하여 화료
-EventsBaseTask.csv,desc_en,Win 2 games with 1 Han Yaku included,2 게임을 1판 역을 포함하여 화료
-EventsBaseTask.csv,desc_en,Win 1 game with All Simples or Pinfu,1 게임을 탕야오 또는 핑후로 화료
-EventsBaseTask.csv,desc_en,Win 1 game with 2 Han Yaku or above included,1 게임을 2판 역 이상을 포함하여 화료
-EventsBaseTask.csv,desc_en,"Win 1 game with Ippatsu, Ura Dora or Fully Concealed Hand","1 게임을 일발, 뒷도라, 멘젠쯔모를 포함하여 화료"
-EventsBaseTask.csv,desc_en,Finish 1 match in 2nd or 1st place,1등 또는 2등 1회 달성
-EventsBaseTask.csv,desc_en,"Win 1 game with Seat Wind, Prevalent Wind or Dragons","1 게임을 자풍패, 장풍패 또는 삼원패로 화료"
-EventsBaseTask.csv,desc_en,Win 2 games with Yaku: Seat/Prevalent Wind,2 게임을 역: 자풍패/장풍패로 화료
-EventsBaseTask.csv,desc_en,Donate 1 gift (Items - Gift),선물 1개 기부(창고- 선물)
-EventsBaseTask.csv,desc_en,Ron 10 times,10회 론 화료
-EventsBaseTask.csv,desc_en,Win 33 games with Ron and Tsumo,33 게임을 화료
-EventsBaseTask.csv,desc_en,Win 2 games with at least a Ura Dora,2 게임을 뒷도라를 하나 이상 포함하여 화료
-EventsBaseTask.csv,desc_en,Get 1st or 2nd 1 time in Open Hand Match,손패 공개 게임에서 1등 또는 2등 1회 달성
-EventsBaseTask.csv,desc_en,Win 3 games with Yaku: Dragon,3 게임을 삼원패로 화료
-EventsBaseTask.csv,desc_en,Win 3 games with Fully Concealed Hand,3 게임을 멘젠쯔모로 화료
-EventsBaseTask.csv,desc_en,Win 6 games with Riichi,6 게임을 리치로 화료
-EventsBaseTask.csv,desc_en,Win 20 games with at least a Dora,20 게임을 도라를 하나 이상 포함하여 화료
-EventsBaseTask.csv,desc_en,Win a game with Prevalent Wind,장풍패로 화료
-EventsBaseTask.csv,desc_en,Win a game with Seven Pairs,치또이츠로 화료
-EventsBaseTask.csv,desc_en,Purchase 2 times from Misc Shop,잡화점에서 아이템 2회 구매
-EventsBaseTask.csv,desc_en,Ron 8 times,8회 론 화료
-EventsBaseTask.csv,desc_en,Win 2 games with a Yaku that values 2 Han or above,2 게임을 2판 이상의 역을 포함하여 화료
-EventsBaseTask.csv,desc_en,Win 2 games with Yakuhai: Red,2게임을 역패: 중으로 화료
-EventsBaseTask.csv,desc_en,Avoid dealing into others' in 88 games,88번 방총 회피하기
-EventsBaseTask.csv,desc_en,Win 5 games with at least a Ura Dora,5 게임을 뒷도라를 하나 이상 포함하여 화료
-EventsBaseTask.csv,desc_en,Win a game with Ippatsu,일발로 화료
-EventsBaseTask.csv,desc_en,Win 2 games with Yakuhai: Green,2 게임을 역패: 발로 화료
-EventsBaseTask.csv,desc_en,Win 10 games with a Yaku that values 1 Han,10 게임을 1판역을 포함하여 화료
-EventsBaseTask.csv,desc_en,Win 5 games with at least a Red Five,5 게임을 하나 이상의 적도라를 포함하여 화료
-EventsBaseTask.csv,desc_en,Win 2 games with Yakuhai: White,2 게임을 역패: 백으로 화료
-EventsBaseTask.csv,desc_en,Win 2 games with Fully Concealed Hand,2 게임을 멘젠쯔모로 화료
-EventsBaseTask.csv,desc_en,Win 10 games with at least a Dora,20 게임을 도라를 하나 이상 포함하여 화료
-EventsBaseTask.csv,desc_en,Win 2 games with Pinfu,2 게임을 핑후로 화료
-EventsBaseTask.csv,desc_en,Win a game with Seat Wind,자풍패로 화료
-EventsBaseTask.csv,desc_en,Win a game with Dora,도라를 포함하여 화료
-EventsBaseTask.csv,desc_en,Yaku: All Simples,역: 탕야오
-EventsBaseTask.csv,desc_en,Fully Concealed Hand/Pinfu,멘젠쯔모/핑후
-EventsBaseTask.csv,desc_en,Ura Dora or Yaku: Ippatsu,뒷도라 또는 역: 일발
-EventsBaseTask.csv,desc_en,大四喜,大四喜
-EventsBaseTask.csv,desc_en,小四喜,小四喜
-EventsBaseTask.csv,desc_en,字一色,字一色
-EventsBaseTask.csv,desc_en,大三元,大三元
-EventsBaseTask.csv,desc_en,混一色,混一色
-EventsBaseTask.csv,desc_en,小三元,小三元
-EventsBaseTask.csv,desc_en,混老头,混老头
-EventsBaseTask.csv,desc_en,混全带幺九,混全带幺九
-EventsBaseTask.csv,desc_en,场风,场风
-EventsBaseTask.csv,desc_en,自风,自风
-EventsBaseTask.csv,desc_en,中,中
-EventsBaseTask.csv,desc_en,发,发
-EventsBaseTask.csv,desc_en,白,白
-EventsBaseTask.csv,desc_en,四杠子,四杠子
-EventsBaseTask.csv,desc_en,绿一色,绿一色
-EventsBaseTask.csv,desc_en,清老头,清老头
-EventsBaseTask.csv,desc_en,清一色,清一色
-EventsBaseTask.csv,desc_en,纯全带幺九,纯全带幺九
-EventsBaseTask.csv,desc_en,河底捞鱼,河底捞鱼
-EventsBaseTask.csv,desc_en,海底摸月,海底摸月
-EventsBaseTask.csv,desc_en,岭上开花,岭上开花
-EventsBaseTask.csv,desc_en,一气通贯,一气通贯
-EventsBaseTask.csv,desc_en,三暗刻,三暗刻
-EventsBaseTask.csv,desc_en,对对和,对对和
-EventsBaseTask.csv,desc_en,三杠子,三杠子
-EventsBaseTask.csv,desc_en,三色同刻,三色同刻
-EventsBaseTask.csv,desc_en,三色同顺,三色同顺
-EventsBaseTask.csv,desc_en,抢杠,抢杠
-EventsBaseTask.csv,desc_en,一发,一发
-EventsBaseTask.csv,desc_en,北宝牌,北宝牌
-EventsBaseTask.csv,desc_en,里宝牌,里宝牌
-EventsBaseTask.csv,desc_en,宝牌,宝牌
-EventsBaseTask.csv,desc_en,红宝牌,红宝牌
-EventsBaseTask.csv,desc_en,断幺九,断幺九
-EventsBaseTask.csv,desc_en,纯正九莲,纯正九莲
-EventsBaseTask.csv,desc_en,九莲宝灯,九莲宝灯
-EventsBaseTask.csv,desc_en,国士十三面,国士十三面
-EventsBaseTask.csv,desc_en,四暗刻单器,四暗刻单器
-EventsBaseTask.csv,desc_en,地和,地和
-EventsBaseTask.csv,desc_en,天和,天和
-EventsBaseTask.csv,desc_en,二杯口,二杯口
-EventsBaseTask.csv,desc_en,两立直,两立直
-EventsBaseTask.csv,desc_en,一杯口,一杯口
-EventsBaseTask.csv,desc_en,平和,平和
-EventsBaseTask.csv,desc_en,门前清自摸和,门前清自摸和
-EventsBaseTask.csv,desc_en,立直,立直
-EventsBaseTask.csv,desc_en,Yaku: Seat/Prevalent Wind,역: 자풍패/장풍패
-EventsBaseTask.csv,desc_en,Yaku: Dragon,역: 삼원패
-EventsBaseTask.csv,desc_en,Win 1 game with Fully Outside Hand + Mixed Triple Sequence,1 게임을 준찬타 + 삼색동순으로 화료
-EventsBaseTask.csv,desc_en,Win 1 game with Riichi + All Simples + Pinfu,1 게임을 리치 + 탕야오 + 핑후로 화료
-EventsBaseTask.csv,desc_en,Win a game with All Triplets,또이또이로 화료
-EventsBaseTask.csv,desc_en,Win 1 game with Triple Triplets,1 게임을 삼색동각으로 화료
-EventsBaseTask.csv,desc_en,Win 1 game with Mixed Triple Sequence,1 게임을 삼색동순으로 화료
-EventsBaseTask.csv,desc_en,Draw 5 Ura Dora,5 게임을 뒷도라를 포함하여 화료
-EventsBaseTask.csv,desc_en,Draw 2 Ura Dora,2 게임을 뒷도라를 포함하여 화료
-EventsBaseTask.csv,desc_en,Draw 1 Ura Dora,1 게임을 뒷도라를 포함하여 화료
-EventsBaseTask.csv,desc_en,Win 2 games with Half Outside Hand or Fully Outside Hand,2 게임을 찬타 또는 준찬타로 화료
-EventsBaseTask.csv,desc_en,Win 1 game with Half Outside Hand or Fully Outside Hand,1 게임을 찬타 또는 준찬타로 화료
-EventsBaseTask.csv,desc_en,Win 1 game with Twice Pure Double Sequence,1 게임을 량페코로 화료
-EventsBaseTask.csv,desc_en,Win 2 games with Pure Double Sequence,2 게임을 이페코로 화료
-EventsBaseTask.csv,desc_en,Win 1 game with Pure Double Sequence,1 게임을 이페코로 화료
-InfoError.csv,en,手机格式错误,手机格式错误
-InfoError.csv,en,未绑定手机,未绑定手机
-InfoError.csv,en,必须用本账号手机来绑定邮箱,必须用本账号手机来绑定邮箱
-InfoError.csv,en,目标手机已经被使用,目标手机已经被使用
-InfoError.csv,en,本账号已绑定手机,本账号已绑定手机
-InfoError.csv,en,手机发送过于频繁,手机发送过于频繁
-InfoError.csv,en,不支持的注册类型,不支持的注册类型
-InfoError.csv,en,您需要先绑定并验证邮箱，才能充值或寻觅,您需要先绑定并验证邮箱，才能充值或寻觅
-InfoError.csv,en,必须用本账号邮箱来绑定邮箱,必须用本账号邮箱来绑定邮箱
-InfoError.csv,en,发送邮箱过于频繁,发送邮箱过于频繁
-InfoError.csv,en,操作口令过期,操作口令过期
-InfoError.csv,en,邮箱验证失败,邮箱验证失败
-InfoError.csv,en,未绑定邮箱,未绑定邮箱
-InfoError.csv,en,错误的验证码适用类型,错误的验证码适用类型
-InfoError.csv,en,未提供密码,未提供密码
-InfoError.csv,en,该邮箱已经被其他账号绑定,该邮箱已经被其他账号绑定
-InfoError.csv,en,本账号已绑定邮箱,本账号已绑定邮箱
-InfoError.csv,en,邮件发送失败,邮件发送失败
-InfoError.csv,en,邮箱格式错误,邮箱格式错误
-EventsDailyevent.csv,desc_en,Event!  Avoid dealing into others' in 8 games,이벤트!  8번 방총 회피하기
-EventsDailyevent.csv,desc_en,Event!  Play 3 matches in Melee Room,이벤트!  근접탁 2번 플레이
-EventsDailyevent.csv,desc_en,Red envelope lucky money! Play 2 matches in Friends Room,새해 복주머니! 친선전 2번 플레이
-EventsDailyevent.csv,desc_en,Red envelope lucky money! Avoid dealing into others' in 8 games into others' hands,새해 복주머니! 8번 방총 회피하기
-EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 1 game with Mixed Flush or Pure Flush,새해 복주머니! 1 게임을 혼일색 또는 청일색으로 화료
-EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 1 game with Flat Hand,새해 복주머니! 1 게임을 핑후로 화료
-EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 2 games with Player Wind or Round Wind,새해 복주머니! 2 게임을 자풍패/장풍패로 화료
-EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 2 games with Tanyao,새해 복주머니! 2 게임을 탕야오로 화료
-EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 1 game with Riichi,새해 복주머니! 1 게임을 리치하여 화료
-EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Room of the Throne,보상 세배! 왕좌탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Room of the Throne,보상 세배! 왕좌탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Room of the Throne,보상 세배! 왕좌탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Jade Room,보상 세배! 옥탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Jade Room,보상 세배! 옥탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Jade Room,보상 세배! 옥탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Gold Room,보상 세배! 금탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Gold Room,보상 세배! 금탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Gold Room,보상 세배! 금탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Silver Room,보상 세배! 은탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Silver Room,보상 세배! 은탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Silver Room,보상 세배! 은탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Friends Room,보상 세배! 친선전 2번 플레이
-EventsDailyevent.csv,desc_en,Triple rewards! Avoid dealing into others' in 8 games,보상 세배! 8번 방총 회피하기
-EventsDailyevent.csv,desc_en,Triple rewards! Win 2 games with Tsumo,보상 세배! 2 게임을 쯔모로 화료
-EventsDailyevent.csv,desc_en,Triple rewards! Win 4 games with Ron,보상 세배! 4 게임을 론으로 화료
-EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Bronze Room,보상 세배! 동탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Bronze Room,보상 세배! 동탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Bronze Room,보상 세배! 동탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Jade Room - 4-Player South,기간 한정 보상 세배! 옥탁 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Jade Room - 4-Player East,기간 한정 보상 세배! 옥탁 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Jade Room - 4-Player South,기간 한정 보상 세배! 옥탁 4인 반장전 3번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Jade Room - 4-Player East,기간 한정 보상 세배! 옥탁 4인 동풍전 3번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Gold Room - 4-Player South,기간 한정 보상 세배! 금탁 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Gold Room - 4-Player East,기간 한정 보상 세배! 금탁 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Gold Room - 4-Player South,기간 한정 보상 세배! 금탁 4인 반장전 3번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Gold Room - 4-Player East,기간 한정 보상 세배! 금탁 4인 동풍전 3번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Silver Room - 4-Player South,기간 한정 보상 세배! 은탁 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Silver Room - 4-Player East,기간 한정 보상 세배! 은탁 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Silver Room - 4-Player South,기간 한정 보상 세배! 은탁 4인 반장전 3번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Silver Room - 4-Player East,기간 한정 보상 세배! 은탁 4인 동풍전 3번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Friends Room - 4-Player South,기간 한정 보상 세배! 친선전 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Friends Room - 4-Player East,기간 한정 보상 세배! 친선전 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Bronze Room - 4-Player South,기간 한정 보상 세배! 동탁 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Bronze Room - 4-Player East,기간 한정 보상 세배! 동탁 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Bronze Room - 4-Player South,기간 한정 보상 세배! 동탁 4인 반장전 3번 플레이
-EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Bronze Room - 4-Player East,기간 한정 보상 세배! 동탁 4인 동풍전 3번 플레이
-EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Room of the Throne,보상 두배! 왕좌탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Room of the Throne,보상 두배! 왕좌탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Room of the Throne,보상 두배! 왕좌탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Jade Room,보상 두배! 옥탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Jade Room,보상 두배! 옥탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Jade Room,보상 두배! 옥탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Gold Room,보상 두배! 금탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Gold Room,보상 두배! 금탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Gold Room,보상 두배! 금탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Silver Room,보상 두배! 은탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Silver Room,보상 두배! 은탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Silver Room,보상 두배! 은탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Friends Room,보상 두배! 친선전 2번 플레이
-EventsDailyevent.csv,desc_en,Double rewards! Avoid dealing into others' in 8 games,보상 두배! 8번 방총 회피하기
-EventsDailyevent.csv,desc_en,Double rewards! Win 2 games with Tsumo,보상 두배! 2 게임을 쯔모로 화료
-EventsDailyevent.csv,desc_en,Double rewards! Win 4 games with Ron,보상 두배! 4 게임을 론으로 화료
-EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Bronze Room,보상 두배! 동탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Bronze Room,보상 두배! 동탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Bronze Room,보상 두배! 동탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Jade Room - 4-Player South,기간 한정 보상 두배! 옥탁 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Jade Room - 4-Player East,기간 한정 보상 두배! 옥탁 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Jade Room - 4-Player South,기간 한정 보상 두배! 옥탁 4인 반장전 3번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Jade Room - 4-Player East,기간 한정 보상 두배! 옥탁 4인 동풍전 3번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Gold Room - 4-Player South,기간 한정 보상 두배! 금탁 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Gold Room - 4-Player East,기간 한정 보상 두배! 금탁 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Gold Room - 4-Player South,기간 한정 보상 두배! 금탁 4인 반장전 3번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Gold Room - 4-Player East,기간 한정 보상 두배! 금탁 4인 동풍전 3번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Silver Room - 4-Player South,기간 한정 보상 두배! 은탁 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Silver Room - 4-Player East,기간 한정 보상 두배! 은탁 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Silver Room - 4-Player South,기간 한정 보상 두배! 은탁 4인 반장전 3번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Silver Room - 4-Player East,기간 한정 보상 두배! 은탁 4인 동풍전 3번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Friends Room - 4-Player South,기간 한정 보상 두배! 친선전 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Friends Room - 4-Player East,기간 한정 보상 두배! 친선전 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Bronze Room - 4-Player South,기간 한정 보상 두배! 동탁 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Bronze Room - 4-Player East,기간 한정 보상 두배! 동탁 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Bronze Room - 4-Player South,기간 한정 보상 두배! 동탁 4인 반장전 3번 플레이
-EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Bronze Room - 4-Player East,보상 두배! 동탁 4인 동풍전 3번 플레이
-EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Room of the Throne,왕좌탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Play 3 matches in Room of the Throne,왕좌탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Room of the Throne,왕좌탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Jade Room,옥탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Play 3 matches in Jade Room,옥탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Jade Room,옥탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Gold Room,금탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Play 3 matches in Gold Room,금탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Gold Room,금탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Silver Room,은탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Play 3 matches in Silver Room,은탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Silver Room,은탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Friends Room,친선전 2번 플레이
-EventsDailyevent.csv,desc_en,Avoid dealing into others' in 8 games,8번 방총 회피하기
-EventsDailyevent.csv,desc_en,Win 2 games with Tsumo,2 게임을 쯔모로 화료
-EventsDailyevent.csv,desc_en,Win 4 games with Ron,4 게임을 론으로 화료
-EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Bronze Room,동탁에서 1위 또는 2위 1회 달성
-EventsDailyevent.csv,desc_en,Play 3 matches in Bronze Room,동탁에서 3번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Bronze Room,동탁에서 2번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Jade Room - 4-Player South,옥탁 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Jade Room - 4-Player East,옥탁 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Play 3 matches in Jade Room - 4-Player South,옥탁 4인 반장전 3번 플레이
-EventsDailyevent.csv,desc_en,Play 3 matches in Jade Room - 4-Player East,옥탁 4인 동풍전 3번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Gold Room - 4-Player South,금탁 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Gold Room - 4-Player East,금탁 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Play 3 matches in Gold Room - 4-Player South,금탁 4인 반장전 3번 플레이
-EventsDailyevent.csv,desc_en,Play 3 matches in Gold Room - 4-Player East,금탁 4인 동풍전 3번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Silver Room - 4-Player South,은탁 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Silver Room - 4-Player East,은탁 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Play 3 matches in Silver Room - 4-Player South,은탁 4인 반장전 3번 플레이
-EventsDailyevent.csv,desc_en,Play 3 matches in Silver Room - 4-Player East,은탁 4인 동풍전 3번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Friends Room - 4-Player South,친선전 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Friends Room - 4-Player East,친선전 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Bronze Room - 4-Player South,동탁 4인 반장전 2번 플레이
-EventsDailyevent.csv,desc_en,Play 2 matches in Bronze Room - 4-Player East,동탁 4인 동풍전 2번 플레이
-EventsDailyevent.csv,desc_en,Play 3 matches in Bronze Room - 4-Player South,동탁 4인 반장전 3번 플레이
-EventsDailyevent.csv,desc_en,Play 3 matches in Bronze Room - 4-Player East,동탁 4인 동풍전 3번 플레이
-EventsBaseTask.csv,desc_en,Finished 10 laps on the event map,이벤트 맵에서 10바퀴 완주
-EventsBaseTask.csv,desc_en,Finished 9 laps on the event map,이벤트 맵에서 9바퀴 완주
-EventsBaseTask.csv,desc_en,Finished 8 laps on the event map,이벤트 맵에서 8바퀴 완주
-EventsBaseTask.csv,desc_en,Finished 7 laps on the event map,이벤트 맵에서 7바퀴 완주
-EventsBaseTask.csv,desc_en,Finished 6 laps on the event map,이벤트 맵에서 6바퀴 완주
-EventsBaseTask.csv,desc_en,Finished 5 laps on the event map,이벤트 맵에서 5바퀴 완주
-EventsBaseTask.csv,desc_en,Finished 4 laps on the event map,이벤트 맵에서 4바퀴 완주
-EventsBaseTask.csv,desc_en,Finished 3 laps on the event map,이벤트 맵에서 3바퀴 완주
-EventsBaseTask.csv,desc_en,Finished 2 laps on the event map,이벤트 맵에서 2바퀴 완주
-EventsBaseTask.csv,desc_en,Finished 1 lap on the event map,이벤트 맵에서 1바퀴 완주
-EventsBaseTask.csv,desc_en,Win 3 games with at least a Red Five,3 게임을 하나 이상의 적도라를 포함하여 화료
-EventsBaseTask.csv,desc_en,Win 3 games with All Simples,3 게임을 탕야오로 화료
-EventsBaseTask.csv,desc_en,Win 1 game with Seven Pairs or All Triplets,1 게임을 치또이츠 또는 또이또이로 화료
-ItemDefinitionItem.csv,name_en,Light Novel,라이트 노벨
-ItemDefinitionItem.csv,desc_en,Collect them to summon.,기원하기 위해 수집하세요.
-ItemDefinitionItem.csv,name_en,Summon Stone,기원의 돌
-ItemDefinitionItem.csv,desc_en,Use this mysterious scroll to change your nickname once. You may change your nickname in Personal Info. It can only be used once every 30 days.,닉네임을 한 번 변경할 수 있는 신비한 두루마리. 개인 정보 화면에서 닉네임을 변경할 수 있습니다. 30일에 한 번만 사용할 수 있습니다.
-ShopsGoods.csv,name_en,Rename Scroll,이름 변경 두루마리
-ItemDefinitionItem.csv,desc_en,The brightest light. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,가장 밝은 빛. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
-ShopsZhpGoods.csv,name_en,Sphere of Light,빛의 보옥
-ItemDefinitionItem.csv,desc_en,Immortal faith. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,불멸의 믿음. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
-ShopsZhpGoods.csv,name_en,Sphere of Hope,희망의 보옥
-ItemDefinitionItem.csv,desc_en,"Pure, innocent kindness. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).",순수한 선의.기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
-ShopsZhpGoods.csv,name_en,Sphere of Innocence,순수의 보옥
-ItemDefinitionItem.csv,desc_en,The obsession of knowledge seeking. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,지식에 대한 집념. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
-ShopsZhpGoods.csv,name_en,Sphere of Wisdom,지혜의 보옥
-ItemDefinitionItem.csv,desc_en,Unconditional love. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,무조건적인 사랑. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
-ShopsZhpGoods.csv,name_en,Sphere of Love,사랑의 보옥
-ItemDefinitionItem.csv,desc_en,A firm oath. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,확고한 맹세. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
-ShopsZhpGoods.csv,name_en,Sphere of Honesty,성실의 보옥
-ItemDefinitionItem.csv,desc_en,Determination without regret. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,후회없는 결의. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
-ShopsZhpGoods.csv,name_en,Sphere of Will,의지의 보옥
-ItemDefinitionItem.csv,desc_en,A brave heart. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,용감한 마음. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
-ShopsZhpGoods.csv,name_en,Sphere of Courage,용기의 보옥
-ItemDefinitionItem.csv,desc_en,Slightly enchanted dust of Star Stone. Use it to redeem items in Fortune Shop. Available via donation of gifts in Inventory.,희미하게 영기가 남아있는 별의 돌 가루. 소원 상점에서 아이템과 교환할 수 있다. 창고에서 선물을 기부하여 모을 수 있다.
-ItemDefinitionItem.csv,name_en,Star Dust,별가루
-ItemDefinitionItem.csv,desc_en,You can find emotions in this enchanted stone. Use it to redeem items in Star Shop.,감정이 깃든 영석. 별 상점에서 아이템과 교환할 수 있다.
-ItemDefinitionItem.csv,name_en,Star Stone,별의 돌
-ItemDefinitionItem.csv,desc_en,You can find hope in this enchanted stone. Use it to redeem items in Wishing Shop.,희망이 깃든 영석. 기도 상점에서 아이템과 교환할 수 있다.
-ItemDefinitionItem.csv,desc_en,A scroll bless by the shrine. \nUse it to perform a free summon for once.,신사에서 축복한 두루마리. \n사용하여 한 번 무료로 기원할 수 있다.
-ShopsGoods.csv,name_en,Summon Scroll,기원의 두루마리
-ItemDefinitionItem.csv,desc_en,Entrance ticket used by the organizer of Midorimiya Keita-Cup.,미도리아 케이타 컵 주최자가 사용하는 입장권.
-ItemDefinitionItem.csv,name_en,Midorimiya Keita-Cup Ticket,미도리야 케이타 컵 티켓
-ItemDefinitionItem.csv,desc_en,Entrance ticket to the Path of Trial.,시련의 길 입장권.
-ItemDefinitionItem.csv,name_en,Trial Ticket,시련 티켓
+StrStr.csv,en,Working Adventure Quest,아르바이트 대모험 퀘스트
+StrStr.csv,en,300+0s,300+0s
+VipVip.csv,name_en,No,없음
+VipVip.csv,desc_en,Daily Gift Attempts: 2 \\n Max No. of Friends +0 \\n Misc Shop Refresh Attempts: 5 \\n Misc Shop Free Refresh: 0 \\n Bond Bonus from Matches +0%\\n Log Collection Limit: 20,일일 선물 상한: 2 \\n 친구 수 상한 +0 \\n 잡화점 일일 새로고침 횟수: 5 \\n 잡화점 무료 새로고침 횟수: 0 \\n 단위전 인연 보너스 +0%\\n 로그 컬렉션 갯수: 20
+VipVip.csv,name_en,Soul Contractor - Beginner,혼의 계약자 - 초급
+VipVip.csv,desc_en,Daily Gift Attempts: 4 \\n Max No. of Friends +0 \\n Misc Shop Refresh Attempts: 6 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +50%\\n Log Collection Limit: 25,일일 선물 상한: 4 \\n 친구 수 상한 +0 \\n 잡화점 일일 새로고침 횟수: 6 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +50%\\n 로그 컬렉션 갯수: 25
+VipVip.csv,name_en,Soul Contractor - Intermediate,혼의 계약자 - 중급
+VipVip.csv,desc_en,Daily Gift Attempts: 6 \\nMax No. of Friends +10\\n Misc Shop Refresh Attempts: 7 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +75%\\n Log Collection Limit: 30,일일 선물 상한: 6 \\n친구 수 상한 +10\\n 잡화점 일일 새로고침 횟수: 7 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +75%\\n 로그 컬렉션 갯수: 30
+VipVip.csv,name_en,Soul Contractor - Senior,혼의 계약자 - 상급
+VipVip.csv,desc_en,Daily Gift Attempts: 8 \\n Max No. of Friends +20 \\n Misc Shop Refresh Attempts: 8 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +100%\\n Log Collection Limit: 35,일일 선물 상한: 8 \\n 친구 수 상한 +20 \\n 잡화점 일일 새로고침 횟수: 8 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +100%\\n 로그 컬렉션 갯수: 35
+VipVip.csv,name_en,Soul Enlightener - Beginner,혼의 계몽자 - 초급
+VipVip.csv,desc_en,Daily Gift Attempts: 10 \\n Max No. of Friends +30 \\n Misc Shop Refresh Attempts: 9 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +120%\\n Log Collection Limit: 40,일일 선물 상한: 10 \\n 친구 수 상한 +30 \\n 잡화점 일일 새로고침 횟수: 9 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +120%\\n 로그 컬렉션 갯수: 40
+VipVip.csv,name_en,Soul Enlightener - Intermediate,혼의 계몽자 - 중급
+VipVip.csv,desc_en,Daily Gift Attempts: 12 \\n Max No. of Friends +40 \\n Misc Shop Refresh Attempts: 10 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +140%\\n Log Collection Limit: 45,일일 선물 상한: 12 \\n 친구 수 상한 +40 \\n 잡화점 일일 새로고침 횟수: 10 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +140%\\n 로그 컬렉션 갯수: 45
+VipVip.csv,name_en,Soul Enlightener - Senior,혼의 계몽자 - 상급
+VipVip.csv,desc_en,Daily Gift Attempts: 14 \\n Max No. of Friends +50 \\n Misc Shop Refresh Attempts: 11 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +160%\\n Log Collection Limit: 50,일일 선물 상한: 14 \\n 친구 수 상한 +50 \\n 잡화점 일일 새로고침 횟수: 11 \\n 잡화점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +160%\\n 로그 컬렉션 갯수: 50
+VipVip.csv,name_en,Soul Creator - Beginner,혼의 창조자 - 초급
+VipVip.csv,desc_en,Daily Gift Attempts: 16 \\n Max No. of Friends +60 \\n Misc Shop Refresh Attempts: 12 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 55,일일 선물 상한: 16 \\n 친구 수 상한 +60 \\n 잡화점 일일 새로고침 횟수: 12 \\n 잡화점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 55
+VipVip.csv,name_en,Soul Creator - Intermediate,혼의 창조자 - 중급
+VipVip.csv,desc_en,Daily Gift Attempts: 18 \\n Max No. of Friends +70 \\n Misc Shop Refresh Attempts: 13 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 60,일일 선물 상한: 18 \\n 친구 수 상한 +70 \\n 잡화점 일일 새로고침 횟수: 13 \\n 잡화점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 60
+VipVip.csv,name_en,Soul Creator - Senior,혼의 창조자 - 상급
+VipVip.csv,desc_en,Daily Gift Attempts: 20 \\n Max No. of Friends +80 \\n Misc Shop Refresh Attempts: 14 \\n Misc Shop Free Refresh: 3 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 65,일일 선물 상한: 20 \\n 친구 수 상한 +80 \\n 잡화점 일일 새로고침 횟수: 14 \\n 잡화점 무료 새로고침 횟수: 3 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 65
+VipVip.csv,name_en,Soul Excelsior,혼의 초월자
+VipVip.csv,desc_en,Daily Gift Attempts: 22 \\n Max No. of Friends +90 \\n Misc Shop Refresh Attempts: 15 \\n Misc Shop Free Refresh: 4 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 70,일일 선물 상한: 22 \\n 친구 수 상한 +90 \\n 잡화점 일일 새로고침 횟수: 15 \\n 잡화점 무료 새로고침 횟수: 4 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 70
+VipVip.csv,name_en,Cat Food Supplier,캣푸드 상인
+VipVip.csv,desc_en,Daily Gift Attempts: 25 \\n Max No. of Friends +100 \\n Misc Shop Refresh Attempts: 20 \\n Misc Shop Free Refresh: 5 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 75,일일 선물 상한: 25 \\n 친구 수 상한 +100 \\n 잡화점 일일 새로고침 횟수: 20 \\n 잡화점 무료 새로고침 횟수: 5 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 75
+VipVip.csv,name_en,Royal Cat Guard,고양이 왕국의 수호자
+VipVip.csv,desc_en,Daily Gift Attempts: 30 \\n Max No. of Friends +110 \\n Misc Shop Refresh Attempts: 25 \\n Misc Shop Free Refresh: 7 \\n Bond Bonus from Matches +250%\\n Log Collection Limit: 80,일일 선물 상한: 30 \\n 친구 수 상한 +110 \\n 잡화점 일일 새로고침 횟수: 25 \\n 잡화점 무료 새로고침 횟수: 7 \\n 단위전 인연 보너스 +250%\\n 로그 컬렉션 갯수: 80
