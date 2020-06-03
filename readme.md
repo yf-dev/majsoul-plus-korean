@@ -1,6 +1,9 @@
 작혼 Plus: 한국어 리소스 팩
 ========================
 
+[![번역 현황](https://weblate.update.sh/widgets/majsoul-plus-korean-resource-pack/ko/master/svg-badge.svg)](https://weblate.update.sh/engage/majsoul-plus-korean-resource-pack/ko/?utm_source=widget)
+![Build assets](https://github.com/yf-dev/majsoul-plus-korean/workflows/Build%20assets/badge.svg?branch=master)
+
 ![리소스 팩 썸네일](/data/translation/assets/en/extendRes/emo/e200005/4.png)
 
 작혼 Plus: 한국어 리소스 팩은 [작혼 Plus](https://github.com/MajsoulPlus/majsoul-plus)에서 사용할 수 있는 리소스 팩으로, 다양한 요소를 한국어로 표시합니다.
