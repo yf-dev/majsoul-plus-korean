@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-03 14:48+0000\n"
+"PO-Revision-Date: 2020-06-04 15:56+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -6318,7 +6318,7 @@ msgstr "2 게임을 핑후로 화료"
 #: translate_sheet.csv:233
 msgctxt "Win 10 games with at least a Dora"
 msgid "sheet|EventsBaseTask.csv|desc_en|233"
-msgstr "20 게임을 도라를 하나 이상 포함하여 화료"
+msgstr "10 게임을 도라를 하나 이상 포함하여 화료"
 
 #: translate_sheet.csv:234
 msgctxt "Win 2 games with Fully Concealed Hand"
