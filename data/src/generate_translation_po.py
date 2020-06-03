@@ -30,6 +30,9 @@ def main(translation_path):
             target = re.sub(r'([^\\])\\n', r'\1\n', row[1]).replace('\\\\', '\\')
             translated = re.sub(r'([^\\])\\n', r'\1\n', row[2]).replace('\\\\', '\\')
 
+            if not target:
+                continue
+
             entry = polib.POEntry(
                 msgctxt=f'json|{path}',
                 msgid=target,
@@ -51,6 +54,9 @@ def main(translation_path):
             header = row[1]
             target = re.sub(r'([^\\])\\n', r'\1\n', row[2]).replace('\\\\', '\\')
             translated = re.sub(r'([^\\])\\n', r'\1\n', row[3]).replace('\\\\', '\\')
+
+            if not target:
+                continue
 
             entry = polib.POEntry(
                 msgctxt=f'sheet|{sheet_path}|{header}',
