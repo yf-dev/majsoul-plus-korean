@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-03 02:40+0000\n"
+"PO-Revision-Date: 2020-06-03 08:52+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -3451,17 +3451,17 @@ msgstr "의상"
 #: translate_json.csv:684
 msgctxt "json|lobby/shop|0|0|1|0"
 msgid "Fortune"
-msgstr "소원의 소옥"
+msgstr "소원"
 
 #: translate_json.csv:685
 msgctxt "json|lobby/shop|0|0|2|0"
 msgid "Star"
-msgstr "별의 소옥"
+msgstr "별"
 
 #: translate_json.csv:686
 msgctxt "json|lobby/shop|0|0|3|0"
 msgid "Wishing"
-msgstr "기도의 소옥"
+msgstr "기도"
 
 #: translate_json.csv:687
 msgctxt "json|lobby/shop|0|0|4|0"
@@ -3486,7 +3486,7 @@ msgstr "오늘은 더 이상 새로고침 할 수 없습니다"
 #: translate_json.csv:691
 msgctxt "json|lobby/shop|0|1|2|0"
 msgid "Duplicate characters will be converted into Wishing Stones"
-msgstr "중복된 캐릭터는 기도의 소옥으로 전환됩니다"
+msgstr "중복된 캐릭터는 기도의 돌로 전환됩니다"
 
 #: translate_json.csv:692
 msgctxt "json|lobby/shop|0|1|3|2"
@@ -3802,7 +3802,7 @@ msgstr "캐릭터 획득 확률: 5%"
 #: translate_json.csv:754
 msgctxt "json|lobby/treasure|4|2|2|3|2|0"
 msgid "Duplicate characters will be converted to Wishing Stones"
-msgstr "중복된 캐릭터는 기도의 소옥으로 전환됩니다"
+msgstr "중복된 캐릭터는 기도의 돌로 전환됩니다"
 
 #: translate_json.csv:755
 msgctxt "json|lobby/treasure|4|2|2|3|3"
@@ -3817,7 +3817,7 @@ msgstr "장식 획득 확률: 15%"
 #: translate_json.csv:757
 msgctxt "json|lobby/treasure|4|2|2|3|4|0"
 msgid "Duplicate decorations will be converted into Star Stones"
-msgstr "중복된 장식은 별의 소옥으로 전환됩니다"
+msgstr "중복된 장식은 별의 돌로 전환됩니다"
 
 #: translate_json.csv:758
 msgctxt "json|lobby/treasure|4|2|2|3|5"
@@ -3903,7 +3903,7 @@ msgstr "샘플 3"
 #: translate_json.csv:774
 msgctxt "json|lobby/treasure|5|0|2"
 msgid "Insufficient Summon Stones"
-msgstr "기원의 소옥 부족"
+msgstr "기원의 돌 부족"
 
 #: translate_json.csv:775
 msgctxt "json|lobby/treasure|5|0|11|0"
@@ -3933,7 +3933,7 @@ msgstr "구매"
 #: translate_json.csv:780
 msgctxt "json|lobby/treasure|5|0|16"
 msgid "Summon Stones?"
-msgstr "기원의 소옥?"
+msgstr "기원의 돌?"
 
 #: translate_json.csv:781
 msgctxt "json|lobby/treasure|6|0|2"
@@ -5601,7 +5601,7 @@ msgstr "이미 닉네임이 존재합니다."
 #: translate_sheet.csv:179
 msgctxt "sheet|InfoError.csv|en"
 msgid "You need a Rename Scroll to change your nickname."
-msgstr "닉네임을 변경하려면 이름 변경 스크롤이 필요합니다."
+msgstr "닉네임을 변경하려면 이름 변경 두루마리가 필요합니다."
 
 #: translate_sheet.csv:180
 msgctxt "sheet|InfoError.csv|en"
@@ -6103,7 +6103,7 @@ msgstr "매진된 아이템입니다."
 #: translate_sheet.csv:277
 msgctxt "sheet|InfoError.csv|en"
 msgid "Attempt to buy items that have not appeared in Misc Shop."
-msgstr "잡화 상점에 표시되지 않은 아이템을 구입하려고 시도했습니다."
+msgstr "잡화점에 표시되지 않은 아이템을 구입하려고 시도했습니다."
 
 #: translate_sheet.csv:278
 msgctxt "sheet|InfoError.csv|en"
@@ -6223,14 +6223,14 @@ msgctxt "sheet|InfoError.csv|en"
 msgid ""
 "You cannot participate in this tournament because you have not reached the "
 "required rank. Please consult the tournament organizer for more details."
-msgstr "요구 등급에 도달하지 못해 이 대회에 참여할 수 없습니다. 자세한 내용은 대회 관리자에게 문의하세요."
+msgstr "요구 등급에 도달하지 못해 이 대회에 참여할 수 없습니다. 자세한 내용은 대회 주최자에게 문의하세요."
 
 #: translate_sheet.csv:301
 msgctxt "sheet|InfoError.csv|en"
 msgid ""
 "You have played too many matches and cannot continue to take part in this "
 "tournament. Please consult the tournament organizer for more details."
-msgstr "너무 많은 게임을 진행하여 이 대회에 더 이상 참여할 수 없습니다. 세한 내용은 대회 관리자에게 문의하세요."
+msgstr "너무 많은 게임을 진행하여 이 대회에 더 이상 참여할 수 없습니다. 세한 내용은 대회 주최자에게 문의하세요."
 
 #: translate_sheet.csv:302
 msgctxt "sheet|InfoError.csv|en"
@@ -6322,8 +6322,12 @@ msgid ""
 "Attempts: 5 \\n Misc Shop Free Refresh: 0 \\n Bond Bonus from Matches +0%\\n"
 " Log Collection Limit: 20"
 msgstr ""
-"일일 선물 상한: 2 \\n 친구 수 상한 +0 \\n 잡화 상점 일일 새로고침 횟수: 5 \\n 잡화 상점 무료 새로고침 횟수: 0 "
-"\\n 단위전 인연 보너스 +0%\\n 로그 컬렉션 갯수: 20"
+"일일 선물 상한: 2 \\n"
+" 친구 수 상한 +0 \\n"
+" 잡화점 일일 새로고침 횟수: 5 \\n"
+" 잡화점 무료 새로고침 횟수: 0 \\n"
+" 단위전 인연 보너스 +0%\\n"
+" 로그 컬렉션 갯수: 20"
 
 #: translate_sheet.csv:319
 msgctxt "sheet|VipVip.csv|name_en"
@@ -6337,8 +6341,12 @@ msgid ""
 "Attempts: 6 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches "
 "+50%\\n Log Collection Limit: 25"
 msgstr ""
-"일일 선물 상한: 4 \\n 친구 수 상한 +0 \\n 잡화 상점 일일 새로고침 횟수: 6 \\n 잡화 상점 무료 새로고침 횟수: 1 "
-"\\n 단위전 인연 보너스 +50%\\n 로그 컬렉션 갯수: 25"
+"일일 선물 상한: 4 \\n"
+" 친구 수 상한 +0 \\n"
+" 잡화점 일일 새로고침 횟수: 6 \\n"
+" 잡화점 무료 새로고침 횟수: 1 \\n"
+" 단위전 인연 보너스 +50%\\n"
+" 로그 컬렉션 갯수: 25"
 
 #: translate_sheet.csv:321
 msgctxt "sheet|VipVip.csv|name_en"
@@ -6352,8 +6360,12 @@ msgid ""
 "Attempts: 7 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches "
 "+75%\\n Log Collection Limit: 30"
 msgstr ""
-"일일 선물 상한: 6 \\n친구 수 상한 +10\\n 잡화 상점 일일 새로고침 횟수: 7 \\n 잡화 상점 무료 새로고침 횟수: 1 "
-"\\n 단위전 인연 보너스 +75%\\n 로그 컬렉션 갯수: 30"
+"일일 선물 상한: 6 \\n"
+"친구 수 상한 +10\\n"
+" 잡화점 일일 새로고침 횟수: 7 \\n"
+" 잡화점 무료 새로고침 횟수: 1 \\n"
+" 단위전 인연 보너스 +75%\\n"
+" 로그 컬렉션 갯수: 30"
 
 #: translate_sheet.csv:323
 msgctxt "sheet|VipVip.csv|name_en"
@@ -6367,8 +6379,12 @@ msgid ""
 "Attempts: 8 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches "
 "+100%\\n Log Collection Limit: 35"
 msgstr ""
-"일일 선물 상한: 8 \\n 친구 수 상한 +20 \\n 잡화 상점 일일 새로고침 횟수: 8 \\n 잡화 상점 무료 새로고침 횟수: 1 "
-"\\n 단위전 인연 보너스 +100%\\n 로그 컬렉션 갯수: 35"
+"일일 선물 상한: 8 \\n"
+" 친구 수 상한 +20 \\n"
+" 잡화점 일일 새로고침 횟수: 8 \\n"
+" 잡화점 무료 새로고침 횟수: 1 \\n"
+" 단위전 인연 보너스 +100%\\n"
+" 로그 컬렉션 갯수: 35"
 
 #: translate_sheet.csv:325
 msgctxt "sheet|VipVip.csv|name_en"
@@ -6382,8 +6398,12 @@ msgid ""
 "Attempts: 9 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches "
 "+120%\\n Log Collection Limit: 40"
 msgstr ""
-"일일 선물 상한: 10 \\n 친구 수 상한 +30 \\n 잡화 상점 일일 새로고침 횟수: 9 \\n 잡화 상점 무료 새로고침 횟수: 1"
-" \\n 단위전 인연 보너스 +120%\\n 로그 컬렉션 갯수: 40"
+"일일 선물 상한: 10 \\n"
+" 친구 수 상한 +30 \\n"
+" 잡화점 일일 새로고침 횟수: 9 \\n"
+" 잡화점 무료 새로고침 횟수: 1 \\n"
+" 단위전 인연 보너스 +120%\\n"
+" 로그 컬렉션 갯수: 40"
 
 #: translate_sheet.csv:327
 msgctxt "sheet|VipVip.csv|name_en"
@@ -6397,8 +6417,12 @@ msgid ""
 "Attempts: 10 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches "
 "+140%\\n Log Collection Limit: 45"
 msgstr ""
-"일일 선물 상한: 12 \\n 친구 수 상한 +40 \\n 잡화 상점 일일 새로고침 횟수: 10 \\n 잡화 상점 무료 새로고침 횟수: "
-"1 \\n 단위전 인연 보너스 +140%\\n 로그 컬렉션 갯수: 45"
+"일일 선물 상한: 12 \\n"
+" 친구 수 상한 +40 \\n"
+" 잡화점 일일 새로고침 횟수: 10 \\n"
+" 잡화점 무료 새로고침 횟수: 1 \\n"
+" 단위전 인연 보너스 +140%\\n"
+" 로그 컬렉션 갯수: 45"
 
 #: translate_sheet.csv:329
 msgctxt "sheet|VipVip.csv|name_en"
@@ -6412,8 +6436,12 @@ msgid ""
 "Attempts: 11 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches "
 "+160%\\n Log Collection Limit: 50"
 msgstr ""
-"일일 선물 상한: 14 \\n 친구 수 상한 +50 \\n 잡화 상점 일일 새로고침 횟수: 11 \\n 잡화 상점 무료 새로고침 횟수: "
-"2 \\n 단위전 인연 보너스 +160%\\n 로그 컬렉션 갯수: 50"
+"일일 선물 상한: 14 \\n"
+" 친구 수 상한 +50 \\n"
+" 잡화점 일일 새로고침 횟수: 11 \\n"
+" 잡화점 무료 새로고침 횟수: 2 \\n"
+" 단위전 인연 보너스 +160%\\n"
+" 로그 컬렉션 갯수: 50"
 
 #: translate_sheet.csv:331
 msgctxt "sheet|VipVip.csv|name_en"
@@ -6427,8 +6455,12 @@ msgid ""
 "Attempts: 12 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches "
 "+200%\\n Log Collection Limit: 55"
 msgstr ""
-"일일 선물 상한: 16 \\n 친구 수 상한 +60 \\n 잡화 상점 일일 새로고침 횟수: 12 \\n 잡화 상점 무료 새로고침 횟수: "
-"2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 55"
+"일일 선물 상한: 16 \\n"
+" 친구 수 상한 +60 \\n"
+" 잡화점 일일 새로고침 횟수: 12 \\n"
+" 잡화점 무료 새로고침 횟수: 2 \\n"
+" 단위전 인연 보너스 +200%\\n"
+" 로그 컬렉션 갯수: 55"
 
 #: translate_sheet.csv:333
 msgctxt "sheet|VipVip.csv|name_en"
@@ -6442,8 +6474,12 @@ msgid ""
 "Attempts: 13 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches "
 "+200%\\n Log Collection Limit: 60"
 msgstr ""
-"일일 선물 상한: 18 \\n 친구 수 상한 +70 \\n 잡화 상점 일일 새로고침 횟수: 13 \\n 잡화 상점 무료 새로고침 횟수: "
-"2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 60"
+"일일 선물 상한: 18 \\n"
+" 친구 수 상한 +70 \\n"
+" 잡화점 일일 새로고침 횟수: 13 \\n"
+" 잡화점 무료 새로고침 횟수: 2 \\n"
+" 단위전 인연 보너스 +200%\\n"
+" 로그 컬렉션 갯수: 60"
 
 #: translate_sheet.csv:335
 msgctxt "sheet|VipVip.csv|name_en"
@@ -6457,8 +6493,12 @@ msgid ""
 "Attempts: 14 \\n Misc Shop Free Refresh: 3 \\n Bond Bonus from Matches "
 "+200%\\n Log Collection Limit: 65"
 msgstr ""
-"일일 선물 상한: 20 \\n 친구 수 상한 +80 \\n 잡화 상점 일일 새로고침 횟수: 14 \\n 잡화 상점 무료 새로고침 횟수: "
-"3 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 65"
+"일일 선물 상한: 20 \\n"
+" 친구 수 상한 +80 \\n"
+" 잡화점 일일 새로고침 횟수: 14 \\n"
+" 잡화점 무료 새로고침 횟수: 3 \\n"
+" 단위전 인연 보너스 +200%\\n"
+" 로그 컬렉션 갯수: 65"
 
 #: translate_sheet.csv:337
 msgctxt "sheet|VipVip.csv|name_en"
@@ -6472,8 +6512,12 @@ msgid ""
 "Attempts: 15 \\n Misc Shop Free Refresh: 4 \\n Bond Bonus from Matches "
 "+200%\\n Log Collection Limit: 70"
 msgstr ""
-"일일 선물 상한: 22 \\n 친구 수 상한 +90 \\n 잡화 상점 일일 새로고침 횟수: 15 \\n 잡화 상점 무료 새로고침 횟수: "
-"4 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 70"
+"일일 선물 상한: 22 \\n"
+" 친구 수 상한 +90 \\n"
+" 잡화점 일일 새로고침 횟수: 15 \\n"
+" 잡화점 무료 새로고침 횟수: 4 \\n"
+" 단위전 인연 보너스 +200%\\n"
+" 로그 컬렉션 갯수: 70"
 
 #: translate_sheet.csv:339
 msgctxt "sheet|VipVip.csv|name_en"
@@ -6487,8 +6531,12 @@ msgid ""
 "Attempts: 20 \\n Misc Shop Free Refresh: 5 \\n Bond Bonus from Matches "
 "+200%\\n Log Collection Limit: 75"
 msgstr ""
-"일일 선물 상한: 25 \\n 친구 수 상한 +100 \\n 잡화 상점 일일 새로고침 횟수: 20 \\n 잡화 상점 무료 새로고침 횟수:"
-" 5 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 75"
+"일일 선물 상한: 25 \\n"
+" 친구 수 상한 +100 \\n"
+" 잡화점 일일 새로고침 횟수: 20 \\n"
+" 잡화점 무료 새로고침 횟수: 5 \\n"
+" 단위전 인연 보너스 +200%\\n"
+" 로그 컬렉션 갯수: 75"
 
 #: translate_sheet.csv:341
 msgctxt "sheet|VipVip.csv|name_en"
@@ -6502,8 +6550,12 @@ msgid ""
 "Attempts: 25 \\n Misc Shop Free Refresh: 7 \\n Bond Bonus from Matches "
 "+250%\\n Log Collection Limit: 80"
 msgstr ""
-"일일 선물 상한: 30 \\n 친구 수 상한 +110 \\n 잡화 상점 일일 새로고침 횟수: 25 \\n 잡화 상점 무료 새로고침 횟수:"
-" 7 \\n 단위전 인연 보너스 +250%\\n 로그 컬렉션 갯수: 80"
+"일일 선물 상한: 30 \\n"
+" 친구 수 상한 +110 \\n"
+" 잡화점 일일 새로고침 횟수: 25 \\n"
+" 잡화점 무료 새로고침 횟수: 7 \\n"
+" 단위전 인연 보너스 +250%\\n"
+" 로그 컬렉션 갯수: 80"
 
 #: translate_sheet.csv:343
 msgctxt "sheet|ItemDefinitionCurrency.csv|name_en"
@@ -6565,7 +6617,7 @@ msgstr "캐주얼 상자"
 #: translate_sheet.csv:354
 msgctxt "sheet|ExchangeSearchexchange.csv|name_en"
 msgid "200 Summon Stones"
-msgstr "200 기원의 소옥"
+msgstr "200 기원의 돌"
 
 #: translate_sheet.csv:355
 msgctxt "sheet|ExchangeSearchexchange.csv|desc_en"
@@ -6575,7 +6627,7 @@ msgstr "기원하기 위해 특정량을 모으세요."
 #: translate_sheet.csv:356
 msgctxt "sheet|ExchangeSearchexchange.csv|name_en"
 msgid "1,800 Summon Stones"
-msgstr "1,800 기원의 소옥"
+msgstr "1,800 기원의 돌"
 
 #: translate_sheet.csv:357
 msgctxt "sheet|ExchangeExchange.csv|name_en"
@@ -7118,9 +7170,14 @@ msgid ""
 "character, will be converted into Wishing Stones. \\n Duplicate decorations "
 "will be converted into Star Stones."
 msgstr ""
-"기원할 때 마다 1개의 신앙을 획득하며, 새로운 캐릭터와 장식을 얻을 기회가 주어집니다. \\n\\n 캐릭터 획득 확률: 5% \\n "
-"장식 획득 확률: 15% \\n 선물 획득 확률: 80% \\n\\n 중복된 캐릭터는 기도의 소옥으로 전환됩니다. \\n 중복된 장식은 "
-"별의 소옥으로 전환됩니다."
+"기원할 때 마다 1개의 신앙을 획득하며, 새로운 캐릭터와 장식을 얻을 기회가 주어집니다. \\n"
+"\\n"
+" 캐릭터 획득 확률: 5% \\n"
+" 장식 획득 확률: 15% \\n"
+" 선물 획득 확률: 80% \\n"
+"\\n"
+" 중복된 캐릭터는 기도의 돌로 전환됩니다. \\n"
+" 중복된 장식은 별의 돌로 전환됩니다."
 
 #: translate_sheet.csv:464
 msgctxt "sheet|ItemDefinitionCharacter.csv|name_en"
@@ -7618,7 +7675,7 @@ msgid ""
 "interesting game of probabilities, and so he decided to join in."
 msgstr ""
 "사람들은 그를 이렇게 평가한다. \"지나치게 똑똑한 데에는 대가가 따르는 건가….\" 어렸을 적부터 병약해서 운동을 할 기회가 거의 "
-"없었다. 그 대신, 과학에 깊이 몰두했고 지금은 모든 현상을 과학으로 설명할 수 있다고 생각한다. 우연히 혼천신사에서 마작을 보고, "
+"없었다. 그 대신, 과학에 깊이 몰두했고 지금은 모든 현상을 과학으로 설명할 수 있다고 생각한다. 우연히 혼천 신사에서 마작을 보고, "
 "재미있는 확률 게임이라고 생각하게 된 뒤로 마작을 하고 있다."
 
 #: translate_sheet.csv:544
@@ -7709,7 +7766,7 @@ msgctxt "sheet|ItemDefinitionCharacter.csv|desc_item_en"
 msgid ""
 "Keikumusume possesses a quirky appearance as she is often seen wearing a "
 "witch hat."
-msgstr ""
+msgstr "케이쿠무스메는 평소에 기묘한 마녀모자를 쓰곤 한다."
 
 #: translate_sheet.csv:558
 msgctxt "sheet|ItemDefinitionCharacter.csv|name_en"
@@ -7750,8 +7807,8 @@ msgid ""
 " of Ichihime."
 msgstr ""
 "이동곡예서커스 \"soul\"의 인기무희. 대담분방하게 춤추는 모습이 요염하면서도 저속함이 느껴지지 않아, 「무대 위의 카시오페아」라는 "
-"이명을 지니고 있다. 다국적의 혼혈이라 사라는 한결 눈에 띄는 외견을 하고 있다. 특히, 그녀의 오드아이 눈동자를 바라보고 있으면, 영혼"
-" 깊은 곳까지 꿰뚫어보는 듯한 기분이 든다. 고양이처럼 성격이 제멋대로이며, 본인도 상당히 고양이 애호가이다. 과거에 혼천신사에 이끌린 "
+"이명을 지니고 있다. 다국적의 혼혈이라 사라는 한결 눈에 띄는 외견을 하고 있다. 특히, 그녀의 오드아이 눈동자를 바라보고 있으면, 영혼 "
+"깊은 곳까지 꿰뚫어보는 듯한 기분이 든다. 고양이처럼 성격이 제멋대로이며, 본인도 상당히 고양이 애호가이다. 과거에 혼천 신사에 이끌린 "
 "적이 있으며, 자기 취향인 이치히메를 꽤 마음에 들어하고 있다."
 
 #: translate_sheet.csv:564
@@ -10248,7 +10305,7 @@ msgstr "승리 - 고요한 별"
 #: translate_sheet.csv:1013
 msgctxt "sheet|ItemDefinitionItem.csv|name_en"
 msgid "Wishing Stone"
-msgstr "기도의 소옥"
+msgstr "기도의 돌"
 
 #: translate_sheet.csv:1257
 msgctxt "sheet|ItemDefinitionItem.csv|name_en"
@@ -10543,7 +10600,7 @@ msgstr "기념품점"
 #: translate_sheet.csv:24
 msgctxt "sheet|ActivityActivity.csv|name_en"
 msgid "New Year Celebration"
-msgstr "혼천신사 새해 참배"
+msgstr "혼천 신사 새해 참배"
 
 #: translate_sheet.csv:22
 msgctxt "sheet|ActivityActivity.csv|name_en"
@@ -12056,3 +12113,192 @@ msgstr "3 게임을 탕야오로 화료"
 msgctxt "sheet|EventsBaseTask.csv|desc_en"
 msgid "Win 1 game with Seven Pairs or All Triplets"
 msgstr "1 게임을 치또이츠 또는 또이또이로 화료"
+
+#: translate_sheet.csv:1039
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Light Novel"
+msgstr "라이트 노벨"
+
+#: translate_sheet.csv:1038
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid "Collect them to summon."
+msgstr "기원하기 위해 수집하세요."
+
+#: translate_sheet.csv:1037
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Summon Stone"
+msgstr "기원의 돌"
+
+#: translate_sheet.csv:1036
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid ""
+"Use this mysterious scroll to change your nickname once. You may change your"
+" nickname in Personal Info. It can only be used once every 30 days."
+msgstr ""
+"닉네임을 한 번 변경할 수 있는 신비한 두루마리. 개인 정보 화면에서 닉네임을 변경할 수 있습니다. 30일에 한 번만 사용할 수 있습니다."
+
+#: translate_sheet.csv:1561
+msgctxt "sheet|ShopsGoods.csv|name_en"
+msgid "Rename Scroll"
+msgstr "이름 변경 두루마리"
+
+#: translate_sheet.csv:1034
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid ""
+"The brightest light. Can be purchased from Wishing Shop and Misc Shop. Also "
+"available from Match Chests (Silver Room or above)."
+msgstr "가장 밝은 빛. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다."
+
+#: translate_sheet.csv:1607
+msgctxt "sheet|ShopsZhpGoods.csv|name_en"
+msgid "Sphere of Light"
+msgstr "빛의 보옥"
+
+#: translate_sheet.csv:1032
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid ""
+"Immortal faith. Can be purchased from Wishing Shop and Misc Shop. Also "
+"available from Match Chests (Silver Room or above)."
+msgstr "불멸의 믿음. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다."
+
+#: translate_sheet.csv:1606
+msgctxt "sheet|ShopsZhpGoods.csv|name_en"
+msgid "Sphere of Hope"
+msgstr "희망의 보옥"
+
+#: translate_sheet.csv:1030
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid ""
+"Pure, innocent kindness. Can be purchased from Wishing Shop and Misc Shop. "
+"Also available from Match Chests (Silver Room or above)."
+msgstr "순수한 선의.기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다."
+
+#: translate_sheet.csv:1605
+msgctxt "sheet|ShopsZhpGoods.csv|name_en"
+msgid "Sphere of Innocence"
+msgstr "순수의 보옥"
+
+#: translate_sheet.csv:1028
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid ""
+"The obsession of knowledge seeking. Can be purchased from Wishing Shop and "
+"Misc Shop. Also available from Match Chests (Silver Room or above)."
+msgstr "지식에 대한 집념. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다."
+
+#: translate_sheet.csv:1604
+msgctxt "sheet|ShopsZhpGoods.csv|name_en"
+msgid "Sphere of Wisdom"
+msgstr "지혜의 보옥"
+
+#: translate_sheet.csv:1026
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid ""
+"Unconditional love. Can be purchased from Wishing Shop and Misc Shop. Also "
+"available from Match Chests (Silver Room or above)."
+msgstr "무조건적인 사랑. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다."
+
+#: translate_sheet.csv:1603
+msgctxt "sheet|ShopsZhpGoods.csv|name_en"
+msgid "Sphere of Love"
+msgstr "사랑의 보옥"
+
+#: translate_sheet.csv:1024
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid ""
+"A firm oath. Can be purchased from Wishing Shop and Misc Shop. Also "
+"available from Match Chests (Silver Room or above)."
+msgstr "확고한 맹세. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다."
+
+#: translate_sheet.csv:1602
+msgctxt "sheet|ShopsZhpGoods.csv|name_en"
+msgid "Sphere of Honesty"
+msgstr "성실의 보옥"
+
+#: translate_sheet.csv:1022
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid ""
+"Determination without regret. Can be purchased from Wishing Shop and Misc "
+"Shop. Also available from Match Chests (Silver Room or above)."
+msgstr "후회없는 결의. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다."
+
+#: translate_sheet.csv:1601
+msgctxt "sheet|ShopsZhpGoods.csv|name_en"
+msgid "Sphere of Will"
+msgstr "의지의 보옥"
+
+#: translate_sheet.csv:1020
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid ""
+"A brave heart. Can be purchased from Wishing Shop and Misc Shop. Also "
+"available from Match Chests (Silver Room or above)."
+msgstr "용감한 마음. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다."
+
+#: translate_sheet.csv:1600
+msgctxt "sheet|ShopsZhpGoods.csv|name_en"
+msgid "Sphere of Courage"
+msgstr "용기의 보옥"
+
+#: translate_sheet.csv:1018
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid ""
+"Slightly enchanted dust of Star Stone. Use it to redeem items in Fortune "
+"Shop. Available via donation of gifts in Inventory."
+msgstr "희미하게 영기가 남아있는 별의 돌 가루. 소원 상점에서 아이템과 교환할 수 있다. 창고에서 선물을 기부하여 모을 수 있다."
+
+#: translate_sheet.csv:1017
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Star Dust"
+msgstr "별가루"
+
+#: translate_sheet.csv:1016
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid ""
+"You can find emotions in this enchanted stone. Use it to redeem items in "
+"Star Shop."
+msgstr "감정이 깃든 영석. 별 상점에서 아이템과 교환할 수 있다."
+
+#: translate_sheet.csv:1015
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Star Stone"
+msgstr "별의 돌"
+
+#: translate_sheet.csv:1014
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid ""
+"You can find hope in this enchanted stone. Use it to redeem items in Wishing"
+" Shop."
+msgstr "희망이 깃든 영석. 기도 상점에서 아이템과 교환할 수 있다."
+
+#: translate_sheet.csv:1012
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid ""
+"A scroll bless by the shrine. \n"
+"Use it to perform a free summon for once."
+msgstr ""
+"신사에서 축복한 두루마리. \n"
+"사용하여 한 번 무료로 기원할 수 있다."
+
+#: translate_sheet.csv:1560
+msgctxt "sheet|ShopsGoods.csv|name_en"
+msgid "Summon Scroll"
+msgstr "기원의 두루마리"
+
+#: translate_sheet.csv:1010
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid "Entrance ticket used by the organizer of Midorimiya Keita-Cup."
+msgstr "미도리아 케이타 컵 주최자가 사용하는 입장권."
+
+#: translate_sheet.csv:1009
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Midorimiya Keita-Cup Ticket"
+msgstr "미도리야 케이타 컵 티켓"
+
+#: translate_sheet.csv:1008
+msgctxt "sheet|ItemDefinitionItem.csv|desc_en"
+msgid "Entrance ticket to the Path of Trial."
+msgstr "시련의 길 입장권."
+
+#: translate_sheet.csv:1007
+msgctxt "sheet|ItemDefinitionItem.csv|name_en"
+msgid "Trial Ticket"
+msgstr "시련 티켓"
