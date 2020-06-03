@@ -1039,3 +1039,154 @@ EventsBaseTask.csv,desc_en,Win 1 game with Half Outside Hand or Fully Outside Ha
 EventsBaseTask.csv,desc_en,Win 1 game with Twice Pure Double Sequence,1 게임을 량페코로 화료
 EventsBaseTask.csv,desc_en,Win 2 games with Pure Double Sequence,2 게임을 이페코로 화료
 EventsBaseTask.csv,desc_en,Win 1 game with Pure Double Sequence,1 게임을 이페코로 화료
+InfoError.csv,en,手机格式错误,手机格式错误
+InfoError.csv,en,未绑定手机,未绑定手机
+InfoError.csv,en,必须用本账号手机来绑定邮箱,必须用本账号手机来绑定邮箱
+InfoError.csv,en,目标手机已经被使用,目标手机已经被使用
+InfoError.csv,en,本账号已绑定手机,本账号已绑定手机
+InfoError.csv,en,手机发送过于频繁,手机发送过于频繁
+InfoError.csv,en,不支持的注册类型,不支持的注册类型
+InfoError.csv,en,您需要先绑定并验证邮箱，才能充值或寻觅,您需要先绑定并验证邮箱，才能充值或寻觅
+InfoError.csv,en,必须用本账号邮箱来绑定邮箱,必须用本账号邮箱来绑定邮箱
+InfoError.csv,en,发送邮箱过于频繁,发送邮箱过于频繁
+InfoError.csv,en,操作口令过期,操作口令过期
+InfoError.csv,en,邮箱验证失败,邮箱验证失败
+InfoError.csv,en,未绑定邮箱,未绑定邮箱
+InfoError.csv,en,错误的验证码适用类型,错误的验证码适用类型
+InfoError.csv,en,未提供密码,未提供密码
+InfoError.csv,en,该邮箱已经被其他账号绑定,该邮箱已经被其他账号绑定
+InfoError.csv,en,本账号已绑定邮箱,本账号已绑定邮箱
+InfoError.csv,en,邮件发送失败,邮件发送失败
+InfoError.csv,en,邮箱格式错误,邮箱格式错误
+EventsDailyevent.csv,desc_en,Event!  Avoid dealing into others' in 8 games,이벤트!  8번 방총 회피하기
+EventsDailyevent.csv,desc_en,Event!  Play 3 matches in Melee Room,이벤트!  근접탁 2번 플레이
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Play 2 matches in Friends Room,새해 복주머니! 친선전 2번 플레이
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Avoid dealing into others' in 8 games into others' hands,새해 복주머니! 8번 방총 회피하기
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 1 game with Mixed Flush or Pure Flush,새해 복주머니! 1 게임을 혼일색 또는 청일색으로 화료
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 1 game with Flat Hand,새해 복주머니! 1 게임을 핑후로 화료
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 2 games with Player Wind or Round Wind,새해 복주머니! 2 게임을 자풍패/장풍패로 화료
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 2 games with Tanyao,새해 복주머니! 2 게임을 탕야오로 화료
+EventsDailyevent.csv,desc_en,Red envelope lucky money! Win 1 game with Riichi,새해 복주머니! 1 게임을 리치하여 화료
+EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Room of the Throne,보상 세배! 왕좌탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Room of the Throne,보상 세배! 왕좌탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Room of the Throne,보상 세배! 왕좌탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Jade Room,보상 세배! 옥탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Jade Room,보상 세배! 옥탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Jade Room,보상 세배! 옥탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Gold Room,보상 세배! 금탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Gold Room,보상 세배! 금탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Gold Room,보상 세배! 금탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Silver Room,보상 세배! 은탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Silver Room,보상 세배! 은탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Silver Room,보상 세배! 은탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Friends Room,보상 세배! 친선전 2번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Avoid dealing into others' in 8 games,보상 세배! 8번 방총 회피하기
+EventsDailyevent.csv,desc_en,Triple rewards! Win 2 games with Tsumo,보상 세배! 2 게임을 쯔모로 화료
+EventsDailyevent.csv,desc_en,Triple rewards! Win 4 games with Ron,보상 세배! 4 게임을 론으로 화료
+EventsDailyevent.csv,desc_en,Triple rewards! Get 1st or 2nd 1 time in Bronze Room,보상 세배! 동탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Triple rewards! Play 3 matches in Bronze Room,보상 세배! 동탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Triple rewards! Play 2 matches in Bronze Room,보상 세배! 동탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Jade Room - 4-Player South,기간 한정 보상 세배! 옥탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Jade Room - 4-Player East,기간 한정 보상 세배! 옥탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Jade Room - 4-Player South,기간 한정 보상 세배! 옥탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Jade Room - 4-Player East,기간 한정 보상 세배! 옥탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Gold Room - 4-Player South,기간 한정 보상 세배! 금탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Gold Room - 4-Player East,기간 한정 보상 세배! 금탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Gold Room - 4-Player South,기간 한정 보상 세배! 금탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Gold Room - 4-Player East,기간 한정 보상 세배! 금탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Silver Room - 4-Player South,기간 한정 보상 세배! 은탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Silver Room - 4-Player East,기간 한정 보상 세배! 은탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Silver Room - 4-Player South,기간 한정 보상 세배! 은탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Silver Room - 4-Player East,기간 한정 보상 세배! 은탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Friends Room - 4-Player South,기간 한정 보상 세배! 친선전 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Friends Room - 4-Player East,기간 한정 보상 세배! 친선전 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Bronze Room - 4-Player South,기간 한정 보상 세배! 동탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 2 matches in Bronze Room - 4-Player East,기간 한정 보상 세배! 동탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Bronze Room - 4-Player South,기간 한정 보상 세배! 동탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get triple rewards for a limited time only! Play 3 matches in Bronze Room - 4-Player East,기간 한정 보상 세배! 동탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Room of the Throne,보상 두배! 왕좌탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Room of the Throne,보상 두배! 왕좌탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Room of the Throne,보상 두배! 왕좌탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Jade Room,보상 두배! 옥탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Jade Room,보상 두배! 옥탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Jade Room,보상 두배! 옥탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Gold Room,보상 두배! 금탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Gold Room,보상 두배! 금탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Gold Room,보상 두배! 금탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Silver Room,보상 두배! 은탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Silver Room,보상 두배! 은탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Silver Room,보상 두배! 은탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Friends Room,보상 두배! 친선전 2번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Avoid dealing into others' in 8 games,보상 두배! 8번 방총 회피하기
+EventsDailyevent.csv,desc_en,Double rewards! Win 2 games with Tsumo,보상 두배! 2 게임을 쯔모로 화료
+EventsDailyevent.csv,desc_en,Double rewards! Win 4 games with Ron,보상 두배! 4 게임을 론으로 화료
+EventsDailyevent.csv,desc_en,Double rewards! Get 1st or 2nd 1 time in Bronze Room,보상 두배! 동탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Bronze Room,보상 두배! 동탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 2 matches in Bronze Room,보상 두배! 동탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Jade Room - 4-Player South,기간 한정 보상 두배! 옥탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Jade Room - 4-Player East,기간 한정 보상 두배! 옥탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Jade Room - 4-Player South,기간 한정 보상 두배! 옥탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Jade Room - 4-Player East,기간 한정 보상 두배! 옥탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Gold Room - 4-Player South,기간 한정 보상 두배! 금탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Gold Room - 4-Player East,기간 한정 보상 두배! 금탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Gold Room - 4-Player South,기간 한정 보상 두배! 금탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Gold Room - 4-Player East,기간 한정 보상 두배! 금탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Silver Room - 4-Player South,기간 한정 보상 두배! 은탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Silver Room - 4-Player East,기간 한정 보상 두배! 은탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Silver Room - 4-Player South,기간 한정 보상 두배! 은탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Silver Room - 4-Player East,기간 한정 보상 두배! 은탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Friends Room - 4-Player South,기간 한정 보상 두배! 친선전 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Friends Room - 4-Player East,기간 한정 보상 두배! 친선전 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Bronze Room - 4-Player South,기간 한정 보상 두배! 동탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 2 matches in Bronze Room - 4-Player East,기간 한정 보상 두배! 동탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Get double rewards for a limited time only! Play 3 matches in Bronze Room - 4-Player South,기간 한정 보상 두배! 동탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Double rewards! Play 3 matches in Bronze Room - 4-Player East,보상 두배! 동탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Room of the Throne,왕좌탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Play 3 matches in Room of the Throne,왕좌탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Room of the Throne,왕좌탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Jade Room,옥탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Play 3 matches in Jade Room,옥탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Jade Room,옥탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Gold Room,금탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Play 3 matches in Gold Room,금탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Gold Room,금탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Silver Room,은탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Play 3 matches in Silver Room,은탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Silver Room,은탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Friends Room,친선전 2번 플레이
+EventsDailyevent.csv,desc_en,Avoid dealing into others' in 8 games,8번 방총 회피하기
+EventsDailyevent.csv,desc_en,Win 2 games with Tsumo,2 게임을 쯔모로 화료
+EventsDailyevent.csv,desc_en,Win 4 games with Ron,4 게임을 론으로 화료
+EventsDailyevent.csv,desc_en,Get 1st or 2nd 1 time in Bronze Room,동탁에서 1위 또는 2위 1회 달성
+EventsDailyevent.csv,desc_en,Play 3 matches in Bronze Room,동탁에서 3번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Bronze Room,동탁에서 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Jade Room - 4-Player South,옥탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Jade Room - 4-Player East,옥탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Jade Room - 4-Player South,옥탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Jade Room - 4-Player East,옥탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Gold Room - 4-Player South,금탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Gold Room - 4-Player East,금탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Gold Room - 4-Player South,금탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Gold Room - 4-Player East,금탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Silver Room - 4-Player South,은탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Silver Room - 4-Player East,은탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Silver Room - 4-Player South,은탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Silver Room - 4-Player East,은탁 4인 동풍전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Friends Room - 4-Player South,친선전 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Friends Room - 4-Player East,친선전 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Bronze Room - 4-Player South,동탁 4인 반장전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 2 matches in Bronze Room - 4-Player East,동탁 4인 동풍전 2번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Bronze Room - 4-Player South,동탁 4인 반장전 3번 플레이
+EventsDailyevent.csv,desc_en,Play 3 matches in Bronze Room - 4-Player East,동탁 4인 동풍전 3번 플레이
+EventsBaseTask.csv,desc_en,Finished 10 laps on the event map,이벤트 맵에서 10바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 9 laps on the event map,이벤트 맵에서 9바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 8 laps on the event map,이벤트 맵에서 8바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 7 laps on the event map,이벤트 맵에서 7바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 6 laps on the event map,이벤트 맵에서 6바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 5 laps on the event map,이벤트 맵에서 5바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 4 laps on the event map,이벤트 맵에서 4바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 3 laps on the event map,이벤트 맵에서 3바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 2 laps on the event map,이벤트 맵에서 2바퀴 완주
+EventsBaseTask.csv,desc_en,Finished 1 lap on the event map,이벤트 맵에서 1바퀴 완주
+EventsBaseTask.csv,desc_en,Win 3 games with at least a Red Five,3 게임을 하나 이상의 적도라를 포함하여 화료
+EventsBaseTask.csv,desc_en,Win 3 games with All Simples,3 게임을 탕야오로 화료
