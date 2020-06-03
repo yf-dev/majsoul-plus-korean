@@ -1087,3 +1087,241 @@ mj/vote_progress|0|4|0,Disagree,동의하지 않음
 mj/win|1|6|0|1,Mangan at Draw,유국만관
 mj/win|1|15|3,Confirm,확인
 mj/win|1|19|0,Event Points：,이벤트 점수：
+mj/win|1|19|3,排名点数：,排名点数：
+lobby/waitingroom|3|1|2|1|4|1,5,5
+lobby/waitingroom|3|1|2|1|3|1,4,4
+lobby/waitingroom|3|1|2|1|2|1,3,3
+lobby/waitingroom|3|1|2|1|1|1,2,2
+lobby/waitingroom|3|1|2|1|0|1,1,1
+lobby/treasure|4|2|2|4|5,輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。,輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。
+lobby/treasure|4|2|2|4|4,緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％,緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％
+lobby/treasure|4|2|2|4|3|0,再度入手した装飾品は星の石に変換されます。,再度入手した装飾品は星の石に変換されます。
+lobby/treasure|4|2|2|4|2,雀士キャラクター提供確率:5％,雀士キャラクター提供確率:5％
+lobby/treasure|4|2|2|4|1,（信仰）が入手できます。,（信仰）が入手できます。
+lobby/treasure|4|2|2|4|0,1回祈願するたびに1点,1回祈願するたびに1点
+lobby/treasure|4|2|2|0|5,使用寻觅辉石10连寻觅，至少会获得一个紫色礼物,使用寻觅辉石10连寻觅，至少会获得一个紫色礼物
+lobby/treasure|4|2|2|0|4,礼物概率：80%,礼物概率：80%
+lobby/treasure|4|2|2|0|3|0,重复获取的装扮将转换为星之石,重复获取的装扮将转换为星之石
+lobby/treasure|4|2|2|0|3,装扮概率：15%,装扮概率：15%
+lobby/treasure|4|2|2|0|2|0,重复获取的雀士将转换为许愿石,重复获取的雀士将转换为许愿石
+lobby/treasure|4|2|2|0|2,雀士概率：5%,雀士概率：5%
+lobby/treasure|4|2|2|0|1,(信仰)，同时有可能获得全新的雀士及各种装扮,(信仰)，同时有可能获得全新的雀士及各种装扮
+lobby/treasure|4|2|2|0|0,每次寻觅都可以获得1点,每次寻觅都可以获得1点
+lobby/sushe_select_en|0|2|1|4|1,5,5
+lobby/sushe_select_en|0|2|1|3|1,4,4
+lobby/sushe_select_en|0|2|1|2|1,3,3
+lobby/sushe_select_en|0|2|1|1|1,2,2
+lobby/sushe_select_en|0|2|1|0|1,1,1
+lobby/sushe_select|0|2|1|4|1,5,5
+lobby/sushe_select|0|2|1|3|1,4,4
+lobby/sushe_select|0|2|1|2|1,3,3
+lobby/sushe_select|0|2|1|1|1,2,2
+lobby/sushe_select|0|2|1|0|1,1,1
+lobby/playerinfo_en|1|5|7|1|2|9,1,1
+lobby/playerinfo_en|1|5|7|1|2|8,2,2
+lobby/playerinfo_en|1|5|7|1|2|7,3,3
+lobby/playerinfo_en|1|5|7|1|2|6,4,4
+lobby/playerinfo_en|1|5|0|5|2,/,/
+lobby/playerinfo|1|5|7|1|2|9,1,1
+lobby/playerinfo|1|5|7|1|2|8,2,2
+lobby/playerinfo|1|5|7|1|2|7,3,3
+lobby/playerinfo|1|5|7|1|2|6,4,4
+lobby/playerinfo|1|5|0|5|2,/,/
+lobby/payment/creditcard|2|0|6,American Express\\n4-digit Card Verification Number,American Express\\n4자리 카드 확인 번호
+lobby/payment/creditcard|2|0|5,"Discover,MasterCard,Visa\\n3-digit Card Verification Number","Discover,MasterCard,Visa\\n3자리 카드 확인 번호"
+lobby/payment/creditcard|2|0|4,Security Code,보안 코드
+lobby/payment/creditcard|2|0|3|1,Confirm,확인
+lobby/payment/creditcard|0|6|1,Confirm And Pay,확인 및 지불
+lobby/payment/creditcard|0|5|3,Please enter a 3 or 4 digits CVV2/CSC Code,3~4자리 CVV2/CSC 코드를 입력해주세요
+lobby/payment/creditcard|0|5|0,Security Code,보안 코드
+lobby/payment/creditcard|0|4|4,Please select a year,년을 선택해주세요
+lobby/payment/creditcard|0|4|3,Please select a month,월을 선택해주세요
+lobby/payment/creditcard|0|4|2|0,Year,년
+lobby/payment/creditcard|0|4|1|0,Month,월
+lobby/payment/creditcard|0|4|0,Expiry Date,유효 기간
+lobby/payment/creditcard|0|3|3,Card number ranges from 14 digits to 16 digits,카드 번호는 14~16자리 숫자입니다
+lobby/payment/creditcard|0|3|1,Card Number,카드 번호
+lobby/payment/creditcard|0|2,Credit Card,신용카드
+lobby/payment/choose_method_en|0|8,VIP Point:,VIP 포인트:
+lobby/payment/choose_method_en|0|6,Price:,가격:
+lobby/payment/choose_method_en|0|4,Item:,아이템:
+lobby/payment/choose_method_en|0|3,Choose a payment method,결제 방법을 선택해주세요
+lobby/payment/choose_method_chs|0|9|1|0|1,支付宝,支付宝
+lobby/payment/choose_method_chs|0|7,680.00元,680.00元
+lobby/payment/choose_method_chs|0|6,应付金额：,应付金额：
+lobby/payment/choose_method_chs|0|5,6800辉玉,6800辉玉
+lobby/payment/choose_method_chs|0|4,商品名称：,商品名称：
+lobby/payment/buy_yueka_en|0|10,VIP Point:,VIP 포인트:
+lobby/payment/buy_yueka_en|0|8,Price:,가격:
+lobby/payment/buy_yueka_en|0|6,Description,설명
+lobby/payment/buy_yueka_en|0|4,Item:,아이템:
+lobby/payment/buy_yueka_en|0|3,Choose a payment method,결제 방법을 선택해주세요
+lobby/payment/buy_yueka_chs|0|11|2|0|1,支付宝扫码,支付宝扫码
+lobby/payment/buy_yueka_chs|0|11|1|0|1,支付宝,支付宝
+lobby/payment/buy_yueka_chs|0|11|0|0|1,微信,微信
+lobby/payment/buy_yueka_chs|0|10,支付疑问请加 QQ：951307369,支付疑问请加 QQ：951307369
+lobby/payment/buy_yueka_chs|0|9,680.00元,680.00元
+lobby/payment/buy_yueka_chs|0|8,应付金额：,应付金额：
+lobby/payment/buy_yueka_chs|0|5,6800辉玉,6800辉玉
+lobby/payment/buy_yueka_chs|0|4,商品名称：,商品名称：
+lobby/payment/buy_yueka_chs|0|3,选择支付方式,选择支付方式
+lobby/paipu|1|4|0|4|1,4,4
+lobby/paipu|1|4|0|3|1,3,3
+lobby/paipu|1|4|0|2|1,2,2
+lobby/paipu|1|4|0|1|1,1,1
+lobby/page_sign_jp|1|3,1/23 14:00 - 1/28 13:59 (UTC-7),1/23 14:00 - 1/28 13:59 (UTC-7)
+lobby/page_sign_en|1|3,1/23 14:00 - 1/28 13:59 (UTC-7),1/23 14:00 - 1/28 13:59 (UTC-7)
+lobby/page_sign_chs|1|3,1/23 14:00 - 1/28 13:59 (UTC-7),1/23 14:00 - 1/28 13:59 (UTC-7)
+lobby/number_input|0|6|10|1,0,0
+lobby/number_input|0|6|8|1,9,9
+lobby/number_input|0|6|7|1,8,8
+lobby/number_input|0|6|6|1,7,7
+lobby/number_input|0|6|5|1,6,6
+lobby/number_input|0|6|4|1,5,5
+lobby/number_input|0|6|3|1,4,4
+lobby/number_input|0|6|2|1,3,3
+lobby/number_input|0|6|1|1,2,2
+lobby/number_input|0|6|0|1,1,1
+lobby/match_ticket|0|5|0,9999,9999
+lobby/match_ticket|0|3|0|0,99999,99999
+lobby/match_ticket|0|3|0,消耗,消耗
+lobby/match_shilian|1|0|4|0|1|4|0|1,×999999,×999999
+lobby/match_shilian|1|0|3|0|1|4|0|1,×999999,×999999
+lobby/match_shilian|1|0|3|0|1|2,返点 99999,返点 99999
+lobby/match_shilian|1|0|3|0|1|1,起点 99999,起点 99999
+lobby/match_shilian|1|0|2|0|1|4|0|1,×999999,×999999
+lobby/match_shilian|1|0|2|0|1|2,返点 99999,返点 99999
+lobby/match_shilian|1|0|2|0|1|1,起点 99999,起点 99999
+lobby/match_shilian|1|0|1|0|1|4|0|1,×999999,×999999
+lobby/match_shilian|1|0|1|0|1|2,返点 99999,返点 99999
+lobby/match_shilian|1|0|1|0|1|1,起点 99999,起点 99999
+lobby/match_shilian|1|0|0|0|1|3|0|1,×999999,×999999
+lobby/match_shilian|1|0|0|0|1|2,返点 99999,返点 99999
+lobby/match_shilian|1|0|0|0|1|1,起点 99999,起点 99999
+lobby/match_shilian|0|2|2,9999999,9999999
+lobby/match_room|1|3|1|0|4|1,4,4
+lobby/match_room|1|3|1|0|3|1,3,3
+lobby/match_room|1|3|1|0|2|1,2,2
+lobby/match_room|1|3|1|0|1|1,1,1
+lobby/create_room|0|0|1|3|4|0,四暗刻,四暗刻
+lobby/create_room|0|0|1|3|2|0,国士无双,国士无双
+lobby/create_room|0|0|1|3|1|0,正常,正常
+lobby/create_room|0|0|1|2|5|0,300+0s,300+0s
+lobby/checkhuiyu|0|5,Free Jade:,무료 휘옥:
+lobby/agexiane|0|0|4,円,円
+lobby/agexiane|0|0|3,20000,20000
+lobby/agesuccess|0|0|4|0,確認,確認
+lobby/agesuccess|0|0|2,年齢認証,年齢認証
+lobby/agepending_chs|0|1|1|2|0|0|1,2001,2001
+lobby/agepending_chs|0|0|0|7,月,月
+lobby/agepending_chs|0|0|0|6,年,年
+lobby/agepending|0|1|2|2|0|0|1,2001,2001
+lobby/agepending|0|1|1|2|0|0|1,2001,2001
+lobby/agepending|0|0|6,请选择年份,请选择年份
+lobby/agepending|0|0|5,请选择月份,请选择月份
+lobby/agepending|0|0|3|0,確認,確認
+lobby/agepending|0|0|2|0,月,月
+lobby/agepending|0|0|1|0,年,年
+lobby/agepending|0|0|0|14,月,月
+lobby/agepending|0|0|0|13,年,年
+lobby/agepending|0|0|0|12,生年月,生年月
+lobby/agepending|0|0|0|2,年齢認証,年齢認証
+lobby/ageconfirm|0|0|7|0,確認,確認
+lobby/ageconfirm|0|0|6,20000,20000
+lobby/ageconfirm|0|0|2,年齢認証,年齢認証
+lobby/add_room|0|6|10|1,0,0
+lobby/add_room|0|6|8|1,9,9
+lobby/add_room|0|6|7|1,8,8
+lobby/add_room|0|6|6|1,7,7
+lobby/add_room|0|6|5|1,6,6
+lobby/add_room|0|6|4|1,5,5
+lobby/add_room|0|6|3|1,4,4
+lobby/add_room|0|6|2|1,3,3
+lobby/add_room|0|6|1|1,2,2
+lobby/add_room|0|6|0|1,1,1
+lobby/activitys/sign|8|2|1,超级巧克力,超级巧克力
+lobby/activitys/sign|8|2|0,999999,999999
+lobby/activitys/sign|7|2|1,超级巧克力,超级巧克力
+lobby/activitys/sign|7|2|0,999999,999999
+lobby/activitys/sign|6|2|1,超级巧克力,超级巧克力
+lobby/activitys/sign|6|2|0,999999,999999
+lobby/activitys/sign|5|2|1,超级巧克力,超级巧克力
+lobby/activitys/sign|5|2|0,999999,999999
+lobby/activitys/sign|4|2|1,超级巧克力,超级巧克力
+lobby/activitys/sign|4|2|0,999999,999999
+lobby/activitys/sign|3|2|1,超级巧克力,超级巧克力
+lobby/activitys/sign|3|2|0,999999,999999
+lobby/activitys/activity_task_zhongxia|0|0|3|1|11|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|3|1|11|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|3|1|10|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|3|1|10|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|3|1|9|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|3|1|9|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|2|1|12|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|2|1|12|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|2|1|11|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|2|1|11|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|2|1|10|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|2|1|10|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|2|1|9|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|2|1|9|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|2|1|7,/30,/30
+lobby/activitys/activity_task_zhongxia|0|0|2|1|6,15,15
+lobby/activitys/activity_task_zhongxia|0|0|2|1|5,今日获得,今日获得
+lobby/activitys/activity_task_zhongxia|0|0|2|1|4,对局中每次达成特定番型都可获得红灯笼,对局中每次达成特定番型都可获得红灯笼
+lobby/activitys/activity_task_zhongxia|0|0|2|1|3,风铃,风铃
+lobby/activitys/activity_task_zhongxia|0|0|1|1|12|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|1|1|12|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|1|1|11|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|1|1|11|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|1|1|10|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|1|1|10|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|1|1|9|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_zhongxia|0|0|1|1|9|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_zhongxia|0|0|1|1|7,/30,/30
+lobby/activitys/activity_task_zhongxia|0|0|1|1|6,15,15
+lobby/activitys/activity_task_zhongxia|0|0|1|1|5,今日获得,今日获得
+lobby/activitys/activity_task_zhongxia|0|0|1|1|4,对局中每次达成特定番型都可获得红灯笼,对局中每次达成特定番型都可获得红灯笼
+lobby/activitys/activity_task_zhongxia|0|0|1|1|3,风铃,风铃
+lobby/activitys/activity_task_newyear|0|0|1|1|7|2,七对子,七对子
+lobby/activitys/activity_task_newyear|0|0|1|1|6|2,立直、门前清自摸和、平和、一杯口,立直、门前清自摸和、平和、一杯口
+lobby/activitys/activity_task_newyear|0|0|1|1|6|0,红灯笼×1,红灯笼×1
+lobby/activitys/activity_task_newyear|0|0|1|1|3,对局中每次达成特定番型都可获得红灯笼,对局中每次达成特定番型都可获得红灯笼
+entrance/reset_password_phone2|0|2|0,确定,确定
+entrance/reset_password|0|0|2|0|0,确定,确定
+entrance/reset_password|0|0|1|2,重置密码,重置密码
+entrance/mail_regist|0|0|10|0,发送验证码,发送验证码
+entrance/entrance|2|0|5|3|1,、,、
+common/loading|5|1,/,/
+common/bind_phone1|0|5|0,发送验证码,发送验证码
+both_ui/otherplayerinfo_en|0|2|6|1|2|9,1,1
+both_ui/otherplayerinfo_en|0|2|6|1|2|8,2,2
+both_ui/otherplayerinfo_en|0|2|6|1|2|7,3,3
+both_ui/otherplayerinfo_en|0|2|6|1|2|6,4,4
+both_ui/otherplayerinfo_en|0|2|4|5|2,/,/
+both_ui/otherplayerinfo|0|2|6|1|2|9,1,1
+both_ui/otherplayerinfo|0|2|6|1|2|8,2,2
+both_ui/otherplayerinfo|0|2|6|1|2|7,3,3
+both_ui/otherplayerinfo|0|2|6|1|2|6,4,4
+both_ui/otherplayerinfo|0|2|4|5|2,/,/
+both_ui/itemdetail|0|7|6|1|0|0,GO,GO
+both_ui/itemdetail|0|7|5|1|0|0,GO,GO
+both_ui/itemdetail|0|7|4|1|0|0,GO,GO
+both_ui/itemdetail|0|7|3|1|0|0,GO,GO
+both_ui/itemdetail|0|7|2|1|0|0,GO,GO
+both_ui/config|0|7|3|2|2|2|0,已绑定,已绑定
+both_ui/config|0|7|3|2|2|1|1,（点击绑定）,（点击绑定）
+both_ui/config|0|7|3|2|2|1|0|0,未验证,未验证
+both_ui/bind_phone0|0|10|0,1,1
+both_ui/bind_phone0|0|10,手机号码：,手机号码：
+both_ui/bind_phone0|0|8|0,绑定,绑定
+both_ui/bind_phone0|0|7|0,发送验证码,发送验证码
+both_ui/bind_phone0|0|2,绑定手机,绑定手机
+both_ui/bind_mail1|0|8|0,28******@qq.com,28******@qq.com
+both_ui/bind_mail1|0|6|0,绑定,绑定
+both_ui/bind_mail1|0|5|0,发送验证码,发送验证码
+both_ui/bind_mail0|0|10|0,28******@qq.com,28******@qq.com
+both_ui/bind_mail0|0|10,邮箱地址:,邮箱地址:
+both_ui/bind_mail0|0|8|0,绑定,绑定
+both_ui/bind_mail0|0|7|0,发送验证码,发送验证码
+both_ui/bind_mail0|0|2,绑定邮箱,绑定邮箱

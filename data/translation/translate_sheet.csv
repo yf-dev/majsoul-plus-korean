@@ -1237,3 +1237,140 @@ VipVip.csv,name_en,Cat Food Supplier,캣푸드 상인
 VipVip.csv,desc_en,Daily Gift Attempts: 25 \\n Max No. of Friends +100 \\n Misc Shop Refresh Attempts: 20 \\n Misc Shop Free Refresh: 5 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 75,일일 선물 상한: 25 \\n 친구 수 상한 +100 \\n 잡화점 일일 새로고침 횟수: 20 \\n 잡화점 무료 새로고침 횟수: 5 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 75
 VipVip.csv,name_en,Royal Cat Guard,고양이 왕국의 수호자
 VipVip.csv,desc_en,Daily Gift Attempts: 30 \\n Max No. of Friends +110 \\n Misc Shop Refresh Attempts: 25 \\n Misc Shop Free Refresh: 7 \\n Bond Bonus from Matches +250%\\n Log Collection Limit: 80,일일 선물 상한: 30 \\n 친구 수 상한 +110 \\n 잡화점 일일 새로고침 횟수: 25 \\n 잡화점 무료 새로고침 횟수: 7 \\n 단위전 인연 보너스 +250%\\n 로그 컬렉션 갯수: 80
+ItemDefinitionItem.csv,name_en,Simple Fanzine,얇은 책
+ItemDefinitionItem.csv,name_en,Fanzine Booklet,동인 안내책자
+ItemDefinitionItem.csv,desc_en,A life size teddy bear. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love dolls will receive bonus Bond points.,실물 크기의 테디 베어입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 인형을 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ItemDefinitionItem.csv,name_en,Teddy Bear XXL,테디 베어 XXL
+ItemDefinitionItem.csv,desc_en,A cute teddy bear. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love dolls will receive bonus Bond points.,귀여운 테디 베어입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 인형을 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ItemDefinitionItem.csv,name_en,Teddy Bear L,테디 베어 L
+ItemDefinitionItem.csv,desc_en,An ordinary teddy bear. Give it to a character to increase your Bond with him/her by 200 points. Characters who love dolls will receive bonus Bond points.,평범한 테디 베어입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 인형을 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ItemDefinitionItem.csv,name_en,Teddy Bear,테디 베어
+ItemDefinitionItem.csv,desc_en,A very rare treasure. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love diamonds will receive bonus Bond points.,매우 희귀한 보물입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 다이아몬드를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ItemDefinitionItem.csv,name_en,Heart of the Ocean,바다의 심장
+ItemDefinitionItem.csv,desc_en,A symbol of luxury. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love diamonds will receive bonus Bond points.,사치의 상징입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 다이아몬드를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ItemDefinitionItem.csv,name_en,Large Diamond,큰 다이아몬드
+ItemDefinitionItem.csv,desc_en,"A very common, affordable accessory. Give it to a character to increase your Bond with him/her by 200 points. Characters who love diamonds will receive bonus Bond points.",아주 흔하고 저렴한 액세서리입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 다이아몬드를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ItemDefinitionItem.csv,name_en,Small Diamond,작은 다이아몬드
+ItemDefinitionItem.csv,name_en,Valuable Goblet,귀중한 고블렛잔
+ItemDefinitionItem.csv,name_en,Exquisite Wine Glass,정교한 와인잔
+ItemDefinitionItem.csv,name_en,Common Beer Mug,평범한 맥주잔
+ItemDefinitionItem.csv,name_en,Classic Painting,고전 회화
+ItemDefinitionItem.csv,name_en,Wall Painting,벽화
+ItemDefinitionItem.csv,name_en,Simple Art,단순한 예술품
+ItemDefinitionItem.csv,name_en,Powerful Console,강력한 게임기
+ItemDefinitionItem.csv,name_en,Xwitch Console,휴대용 게임기
+ItemDefinitionItem.csv,name_en,Nostalgic Console,추억의 게임기
+ItemDefinitionItem.csv,name_en,Delicious Cookie,맛있는 쿠키
+ItemDefinitionItem.csv,name_en,Danish Cookie,덴마크 쿠키
+ItemDefinitionItem.csv,name_en,Handmade Cookie,수제 쿠키
+ItemDefinitionItem.csv,name_en,Rename Scroll,이름 변경 두루마리
+ItemDefinitionItem.csv,name_en,Sphere of Light,빛의 보옥
+ItemDefinitionItem.csv,name_en,Sphere of Hope,희망의 보옥
+ItemDefinitionItem.csv,name_en,Sphere of Innocence,순수의 보옥
+ItemDefinitionItem.csv,name_en,Sphere of Wisdom,지혜의 보옥
+ItemDefinitionItem.csv,name_en,Sphere of Love,사랑의 보옥
+ItemDefinitionItem.csv,name_en,Sphere of Honesty,성실의 보옥
+ItemDefinitionItem.csv,name_en,Sphere of Will,의지의 보옥
+ItemDefinitionItem.csv,name_en,Sphere of Courage,용기의 보옥
+ItemDefinitionItem.csv,name_en,Summon Scroll,기원의 두루마리
+InfoError.csv,en,You cannot send friend requests or leave messages to players from another region.,다른 지역의 플레이어에게 친구 요청을 하거나 메시지를 남길 수 없습니다.
+EventsBaseTask.csv,desc_en,Big Seven Stars,대칠성
+EventsBaseTask.csv,desc_en,Ishinouenimosannen,돌 위에서 삼년
+EventsBaseTask.csv,desc_en,Numerous Neighbours,대수린
+EventsBaseTask.csv,desc_en,Bamboo Forest,대죽림
+EventsBaseTask.csv,desc_en,Big Wheels,대차륜
+EventsBaseTask.csv,desc_en,Hand of Man,인화
+EventsBaseTask.csv,desc_en,Chuupinraoyui,구통로어
+EventsBaseTask.csv,desc_en,Iipinmoyue,일통모월
+EventsBaseTask.csv,desc_en,Pure Triple Chow,일색삼순
+EventsBaseTask.csv,desc_en,Three Chained Triplets,삼련각
+EventsBaseTask.csv,desc_en,Uumensai,오문제
+EventsBaseTask.csv,desc_en,Shiiaruraotai,십이낙태
+EventsBaseTask.csv,desc_en,Kanburi,영상개론
+EventsBaseTask.csv,desc_en,Tsubame-gaeshi,츠바메가에시
+ChestChestShop.csv,name_en,Riichi Bet - Crimson Thorns,리치 봉 - 크림슨 가시
+ChestChestShop.csv,name_en,Riichi - Blood·Lance of Longinus,리치 - 선혈·롱기누스의 창
+ChestChestShop.csv,name_en,Riichi - Starfall,리치 - 별똥별
+ChestChestShop.csv,name_en,Winning - Eye of Eris,승리 - 에리스의 눈
+ChestChestShop.csv,name_en,Winning - Silent Star,승리 - 고요한 별
+ChestChestShop.csv,name_en,Ein,에인
+ChestChestShop.csv,name_en,Sawako Kitami,키타미 사와코
+ChestChestShop.csv,name_en,Wishing Stone,기도의 돌
+ChestChestShop.csv,name_en,Tablecloth - Swimming Koi,테이블보 - 비단 잉어
+ChestChestShop.csv,name_en,Tile Back - Red Packet,마작패 - 복주머니
+ChestChestShop.csv,name_en,Riichi Bet - Gold Arowana,리치 봉 - 황금 아로와나
+ChestChestShop.csv,name_en,Riichi - Rat Power,리치 - 경자(庚子)의 힘
+ChestChestShop.csv,name_en,Winning - Family Reunion,승리 - 새해 불꽃놀이
+ChestChestShop.csv,name_en,Osamu Saitou,사이토 오사무
+ChestChestShop.csv,name_en,Joseph,조셉
+ChestChestShop.csv,name_en,Anju Suzumiya,스즈미야 안즈
+ChestChestShop.csv,name_en,Haruna Igarashi,이가라시 하루나
+ChestChestShop.csv,name_en,Riichi Bet - Magical Wand,리치 봉 - 마법봉
+ChestChestShop.csv,name_en,Riichi - Magical Girl,리치 - 마법소녀
+ChestChestShop.csv,name_en,Riichi - Emergency,리치 - 비상
+ChestChestShop.csv,name_en,Winning - Magical Girl,승리 - 마법소녀
+ChestChestShop.csv,name_en,Winning - Opera Phantom,승리 - 오페라의 유령
+ChestChestShop.csv,name_en,“On the Edge”,“일촉즉발”
+ChestChestShop.csv,name_en,Hinata Takanashi,타카나시 히나타
+ChestChestShop.csv,name_en,Nana Shiraishi,시라이시 나나
+ChestChestShop.csv,name_en,Tile Back - Bumpkin,마작패 - 유령
+ChestChestShop.csv,name_en,Riichi - Bat Swarm,리치 - 박쥐떼
+ChestChestShop.csv,name_en,Winning - Screaming Ghost,승리 - 비명을 지르는 유령
+ChestChestShop.csv,name_en,Tablecloth - Melon,테이블보 - 수박
+ChestChestShop.csv,name_en,Tablecloth - Mahjong Ceremony,테이블보 - 여름 축제
+ChestChestShop.csv,name_en,“Charge”,“출전”
+ChestChestShop.csv,name_en,Hana Ninomiya,니노미야 하나
+ChestChestShop.csv,name_en,Sara,사라
+ChestChestShop.csv,name_en,Riichi Bet - Ice Cream,리치 봉 - 아이스크림
+ChestChestShop.csv,name_en,Riichi Bet - Sever,리치 봉 - 악의
+ChestChestShop.csv,name_en,Winning - K.O,승리 - K.O
+ChestChestShop.csv,name_en,Riichi - Dragon,리치 - 드래곤
+ChestChestShop.csv,name_en,"Riichi - ""Beep""!","리치 - ""삑""!"
+ChestChestShop.csv,name_en,Hideki Akechi,아케치 히데키
+ChestChestShop.csv,name_en,Sora Ichinose,이치노세 소라
+ChestChestShop.csv,name_en,Wanjirou,왕지로
+ChestChestShop.csv,name_en,Natsuki Shinomiya,시노미야 나츠키
+ChestChestShop.csv,name_en,Xenia,지니아
+ChestChestShop.csv,name_en,Winning - Dancing Rose,승리 - 춤추는 꽃
+ChestChestShop.csv,name_en,Winning - Laser Blast,승리 - 레이저 블라스트
+ChestChestShop.csv,name_en,Winning - Firestorm,승리 - 화염폭풍
+ChestChestShop.csv,name_en,Riichi - Feather,리치 - 깃털
+ChestChestShop.csv,name_en,Riichi - Phantom,리치 - 팬텀
+ChestChestShop.csv,name_en,“Intensive Battle”,“격투”
+ChestChestShop.csv,name_en,“Serious Game”,“진검승부”
+ChestChestShop.csv,name_en,Riichi - Crimson,리치 - 크림슨
+ChestChestShop.csv,name_en,Riichi - Bone,리치 - 뼈
+ChestChestShop.csv,name_en,Riichi - Green Onion,리치 - 파
+ChestChestShop.csv,name_en,Riichi - Fish,리치 - 물고기
+ChestChestShop.csv,name_en,Riichi - Dumpling,리치 - 만두
+ChestChestShop.csv,name_en,Riichi - Firecracker,리치 - 폭죽
+ChestChestShop.csv,name_en,Ginger Cat Paw,치즈색 고양이 발
+ChestChestShop.csv,name_en,Winning - Sakura,승리 - 벚꽃
+ChestChestShop.csv,name_en,Winning - Cyclone,승리 - 사이클론
+ChestChestShop.csv,name_en,Winning - Flame,승리 - 불꽃
+ChestChestShop.csv,name_en,Winning - Fireworks,승리 - 불꽃놀이
+ChestChestShop.csv,name_en,Winning - Dark Flame,승리 - 어둠의 불꽃
+ChestChestShop.csv,name_en,Riichi - Fire,리치 - 파이어
+ChestChestShop.csv,name_en,Riichi - Ice,리치 - 아이스
+ChestChestShop.csv,name_en,Riichi - Blue Flame,리치 - 푸른 불꽃
+ChestChestShop.csv,name_en,Riu Kujou,쿠죠 리우
+ChestChestShop.csv,name_en,Yui Yagi,야기 유이
+ChestChestShop.csv,name_en,Nadeshiko,나데시코
+ChestChestShop.csv,name_en,Mai Aihara,아이하라 마이
+ChestChestShop.csv,name_en,Kana Fujita,후지타 카나
+ChestChestShop.csv,name_en,Chiori Mikami,미카미 치오리
+ActivityActivity.csv,name_en,Working Adventure Quest,아르바이트 대모험 퀘스트
+ActivityActivity.csv,name_en,Ichihime's Working Adventure,이치히메의 아르바이트 대모험
+ActivityActivity.csv,name_en,Open Hand Match,손패 공개
+ActivityActivity.csv,name_en,DoraDorara,도라도라라
+ActivityActivity.csv,name_en,Beach Party,비치 파티
+ItemDefinitionItem.csv,desc_en,"A gorgeous, elegant-looking dress. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love dresses will receive bonus Bond points.",화려하고 우아한 드레스입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 드레스를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ItemDefinitionItem.csv,name_en,Gorgeous Dress,화려한 드레스
+ItemDefinitionItem.csv,desc_en,A mid-range female dress. Looks quite good. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love dresses will receive bonus Bond points.,중급 여성용 드레스입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 드레스를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ItemDefinitionItem.csv,name_en,Normal Dress,평범한 드레스
+ItemDefinitionItem.csv,desc_en,A beautifully designed and printed fanzine. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love fanzines will receive bonus Bond points.,고급스럽게 제본된 동인지입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 동인지를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ItemDefinitionItem.csv,desc_en,A poorly printed fanzine. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love fanzines will receive bonus Bond points.,간단하게 만들어진 동인지입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 동인지를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ItemDefinitionItem.csv,desc_en,You can get this free booklet at comicons. Give it to a character to increase your Bond with him/her by 200 points. Characters who love fanzines will receive bonus Bond points.,코미케에서 무료로 받을 수 있는 책자입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 동인지를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ItemDefinitionItem.csv,desc_en,Common female dress. Give it to a character to increase your Bond with him/her by 200 points. Characters who love dresses will receive bonus Bond points.,일반적인 여성용 드레스입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 드레스를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ItemDefinitionItem.csv,name_en,Simple Dress,심플 드레스
+ItemDefinitionItem.csv,name_en,Delicate Fanzine,훌륭한 동인지
