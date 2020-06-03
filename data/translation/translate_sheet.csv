@@ -1224,3 +1224,28 @@ ItemDefinitionItem.csv,desc_en,Entrance ticket used by the organizer of Midorimi
 ItemDefinitionItem.csv,name_en,Midorimiya Keita-Cup Ticket,미도리야 케이타 컵 티켓
 ItemDefinitionItem.csv,desc_en,Entrance ticket to the Path of Trial.,시련의 길 입장권.
 ItemDefinitionItem.csv,name_en,Trial Ticket,시련 티켓
+ItemDefinitionItem.csv,desc_en,A world-renowned famous goblet. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love wine will receive bonus Bond points.,세계적으로 유명한 고블렛잔입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 술을 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ShopsGoods.csv,name_en,Valuable Goblet,귀중한 고블렛잔
+ItemDefinitionItem.csv,desc_en,Bespoke-made wine glass. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love wine will receive bonus Bond points.,맞춤형 와인잔입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 술을 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ShopsZhpGoods.csv,name_en,Exquisite Wine Glass,정교한 와인잔
+ItemDefinitionItem.csv,desc_en,Common beer mugs that can be seen everywhim/here. Give it to a character to increase your Bond with him/her by 200 points. Characters who love wine will receive bonus Bond points.,어디에서나 볼 수 있는 일반적인 맥주잔입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 술을 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ShopsZhpGoods.csv,name_en,Common Beer Mug,평범한 맥주잔
+ItemDefinitionItem.csv,desc_en,A masterpiece worth millions of dollars. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love artworks will receive bonus Bond points.,수십억원의 가치가 있는 걸작입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 미술품을 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ShopsGoods.csv,name_en,Classic Painting,고전 회화
+ItemDefinitionItem.csv,desc_en,"Very artistic, good for room decoration. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love artworks will receive bonus Bond points.","매우 예술적이고, 실내 장식에 적합합니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 미술품을 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다."
+ShopsZhpGoods.csv,name_en,Wall Painting,벽화
+ItemDefinitionItem.csv,desc_en,A good table top decoration. Give it to a character to increase your Bond with him/her by 200 points. Characters who love artworks will receive bonus Bond points.,좋은 테이블 장식입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 미술품을 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ShopsZhpGoods.csv,name_en,Simple Art,단순한 예술품
+ItemDefinitionItem.csv,desc_en,A powerful console. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love game consoles will receive bonus Bond points.,강력한 게임기입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 게임기를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ShopsGoods.csv,name_en,Powerful Console,강력한 게임기
+ItemDefinitionItem.csv,desc_en,A pretty cool handheld console. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love game consoles will receive bonus Bond points.,꽤 멋진 휴대용 게임기입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 게임기를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ShopsZhpGoods.csv,name_en,Xwitch Console,휴대용 게임기
+ItemDefinitionItem.csv,desc_en,You can play Tetris on it. Give it to a character to increase your Bond with him/her by 200 points. Characters who love game consoles will receive bonus Bond points.,테트리스를 플레이할 수 있습니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 게임기를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ShopsZhpGoods.csv,name_en,Nostalgic Console,추억의 게임기
+ItemDefinitionItem.csv,desc_en,It's so delicious. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love cookies will receive bonus Bond points.,정말 맛있습니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 쿠키를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ShopsGoods.csv,name_en,Delicious Cookie,맛있는 쿠키
+ItemDefinitionItem.csv,desc_en,Classic flavor. Give it to a character to increase your Bond with him/her by 1000 points. Characters who love cookies will receive bonus Bond points.,클래식한 맛입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 쿠키를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ShopsZhpGoods.csv,name_en,Danish Cookie,덴마크 쿠키
+ItemDefinitionItem.csv,desc_en,"Doesn't look great, but tastes okay. Give it to a character to increase your Bond with him/her by 200 points. Characters who love cookies will receive bonus Bond points.",겉보기와는 달리 맛은 괜찮습니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 쿠키를 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
+ShopsZhpGoods.csv,name_en,Handmade Cookie,수제 쿠키
+ItemDefinitionItem.csv,desc_en,"Written by Keikumusume, the novel is a necessary item required to build a bond with Keikumusume. It is published on school literature club’s magazine. Just you know, the cover has nothing to do with its actual content.","케이쿠무스메가 쓴 소설로, 케이쿠무스메와 인연을 다지기 위해 필요합니다. 문학부 회지로 출판되었는데, 아시다시피 겉표지는 실제 내용과 아무런 관련이 없습니다."
