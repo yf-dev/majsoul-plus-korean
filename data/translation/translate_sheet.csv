@@ -176,7 +176,7 @@ InfoError.csv,en,You are already logged in on another device.,다른 장치에 �
 InfoError.csv,en,This name has already been taken. Please try another one.,이 이름은 이미 사용되었습니다. 다른 이름을 사용해 보세요.
 InfoError.csv,en,You don’t have a nickname yet.,아직 닉네임이 없습니다.
 InfoError.csv,en,You already have a nickname.,이미 닉네임이 존재합니다.
-InfoError.csv,en,You need a Rename Scroll to change your nickname.,닉네임을 변경하려면 이름 변경 스크롤이 필요합니다.
+InfoError.csv,en,You need a Rename Scroll to change your nickname.,닉네임을 변경하려면 이름 변경 두루마리가 필요합니다.
 InfoError.csv,en,You can only change your name once in the 30 days.,이름은 30일에 한 번만 변경할 수 있습니다.
 InfoError.csv,en,Real name authentication has already been completed.,실명 인증이 이미 완료되었습니다.
 InfoError.csv,en,Registration closed.,등록이 마감되었습니다.
@@ -274,7 +274,7 @@ InfoError.csv,en,Emoji locked. Unable to be used.,이모티콘이 잠겨있습�
 InfoError.csv,en,The God doesn’t like this item.,신(The God)께서는 이 아이템을 좋아하지 않으십니다.
 InfoError.csv,en,Item not found.,아이템을 찾을 수 없습니다.
 InfoError.csv,en,Item sold out.,매진된 아이템입니다.
-InfoError.csv,en,Attempt to buy items that have not appeared in Misc Shop.,잡화 상점에 표시되지 않은 아이템을 구입하려고 시도했습니다.
+InfoError.csv,en,Attempt to buy items that have not appeared in Misc Shop.,잡화점에 표시되지 않은 아이템을 구입하려고 시도했습니다.
 InfoError.csv,en,No more refresh chances today.,오늘은 더 이상 새로고침할 수 없습니다.
 InfoError.csv,en,Item infor not received,아이템 정보를 받지 못했습니다
 InfoError.csv,en,"Item price has changed, please refresh the page and purchase again","아이템 가격이 변경되었습니다, 페이지를 새로고침하고 다시 구매해주세요"
@@ -297,8 +297,8 @@ InfoError.csv,en,You can only assign up to 20 admins.,관리자는 최대 20명�
 InfoError.csv,en,Each account can only create up to 1 tournament every 7 days.,각 계정은 7일마다 최대 1개의 대회를 개최할 수 있습니다.
 InfoError.csv,en,Your account does not have the permission to create a tournament.,당신의 계정은 대회를 개최할 권한이 없습니다.
 InfoError.csv,en,Tournament parameter configuration error.,대회 매개변수 구성 오류.
-InfoError.csv,en,You cannot participate in this tournament because you have not reached the required rank. Please consult the tournament organizer for more details.,요구 등급에 도달하지 못해 이 대회에 참여할 수 없습니다. 자세한 내용은 대회 관리자에게 문의하세요.
-InfoError.csv,en,You have played too many matches and cannot continue to take part in this tournament. Please consult the tournament organizer for more details.,너무 많은 게임을 진행하여 이 대회에 더 이상 참여할 수 없습니다. 세한 내용은 대회 관리자에게 문의하세요.
+InfoError.csv,en,You cannot participate in this tournament because you have not reached the required rank. Please consult the tournament organizer for more details.,요구 등급에 도달하지 못해 이 대회에 참여할 수 없습니다. 자세한 내용은 대회 주최자에게 문의하세요.
+InfoError.csv,en,You have played too many matches and cannot continue to take part in this tournament. Please consult the tournament organizer for more details.,너무 많은 게임을 진행하여 이 대회에 더 이상 참여할 수 없습니다. 세한 내용은 대회 주최자에게 문의하세요.
 InfoError.csv,en,This player is in matchmaking.,이 플레이어는 게임을 찾는 중입니다.
 InfoError.csv,en,"Due to the server entry limit, you cannot participate in this tournament.",서버 입장 제한으로 인해 이 대회에 참여할 수 없습니다.
 InfoError.csv,en,Event does not exist. Please try to refresh the page.,이벤트가 존재하지 않습니다. 페이지를 새로고침해주세요.
@@ -315,31 +315,31 @@ InfoError.csv,en,Unable to claim rewards from this block,이 칸에서 보상을
 InfoError.csv,en,You have already checked in,이미 체크인했습니다
 InfoError.csv,en,Mahjong Soul Shrine has received your response. Thank you for your contribution in making a better gaming environment!,혼천 신사에서 당신의 응답(response)을 받았습니다. 더 나은 게임 환경을 만드는 데 기여해주셔서 감사합니다!
 VipVip.csv,name_en,No,없음
-VipVip.csv,desc_en,Daily Gift Attempts: 2 \\n Max No. of Friends +0 \\n Misc Shop Refresh Attempts: 5 \\n Misc Shop Free Refresh: 0 \\n Bond Bonus from Matches +0%\\n Log Collection Limit: 20,일일 선물 상한: 2 \\n 친구 수 상한 +0 \\n 잡화 상점 일일 새로고침 횟수: 5 \\n 잡화 상점 무료 새로고침 횟수: 0 \\n 단위전 인연 보너스 +0%\\n 로그 컬렉션 갯수: 20
+VipVip.csv,desc_en,Daily Gift Attempts: 2 \\n Max No. of Friends +0 \\n Misc Shop Refresh Attempts: 5 \\n Misc Shop Free Refresh: 0 \\n Bond Bonus from Matches +0%\\n Log Collection Limit: 20,일일 선물 상한: 2 \\n 친구 수 상한 +0 \\n 잡화점 일일 새로고침 횟수: 5 \\n 잡화점 무료 새로고침 횟수: 0 \\n 단위전 인연 보너스 +0%\\n 로그 컬렉션 갯수: 20
 VipVip.csv,name_en,Soul Contractor - Beginner,혼의 계약자 - 초급
-VipVip.csv,desc_en,Daily Gift Attempts: 4 \\n Max No. of Friends +0 \\n Misc Shop Refresh Attempts: 6 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +50%\\n Log Collection Limit: 25,일일 선물 상한: 4 \\n 친구 수 상한 +0 \\n 잡화 상점 일일 새로고침 횟수: 6 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +50%\\n 로그 컬렉션 갯수: 25
+VipVip.csv,desc_en,Daily Gift Attempts: 4 \\n Max No. of Friends +0 \\n Misc Shop Refresh Attempts: 6 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +50%\\n Log Collection Limit: 25,일일 선물 상한: 4 \\n 친구 수 상한 +0 \\n 잡화점 일일 새로고침 횟수: 6 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +50%\\n 로그 컬렉션 갯수: 25
 VipVip.csv,name_en,Soul Contractor - Intermediate,혼의 계약자 - 중급
-VipVip.csv,desc_en,Daily Gift Attempts: 6 \\nMax No. of Friends +10\\n Misc Shop Refresh Attempts: 7 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +75%\\n Log Collection Limit: 30,일일 선물 상한: 6 \\n친구 수 상한 +10\\n 잡화 상점 일일 새로고침 횟수: 7 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +75%\\n 로그 컬렉션 갯수: 30
+VipVip.csv,desc_en,Daily Gift Attempts: 6 \\nMax No. of Friends +10\\n Misc Shop Refresh Attempts: 7 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +75%\\n Log Collection Limit: 30,일일 선물 상한: 6 \\n친구 수 상한 +10\\n 잡화점 일일 새로고침 횟수: 7 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +75%\\n 로그 컬렉션 갯수: 30
 VipVip.csv,name_en,Soul Contractor - Senior,혼의 계약자 - 상급
-VipVip.csv,desc_en,Daily Gift Attempts: 8 \\n Max No. of Friends +20 \\n Misc Shop Refresh Attempts: 8 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +100%\\n Log Collection Limit: 35,일일 선물 상한: 8 \\n 친구 수 상한 +20 \\n 잡화 상점 일일 새로고침 횟수: 8 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +100%\\n 로그 컬렉션 갯수: 35
+VipVip.csv,desc_en,Daily Gift Attempts: 8 \\n Max No. of Friends +20 \\n Misc Shop Refresh Attempts: 8 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +100%\\n Log Collection Limit: 35,일일 선물 상한: 8 \\n 친구 수 상한 +20 \\n 잡화점 일일 새로고침 횟수: 8 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +100%\\n 로그 컬렉션 갯수: 35
 VipVip.csv,name_en,Soul Enlightener - Beginner,혼의 계몽자 - 초급
-VipVip.csv,desc_en,Daily Gift Attempts: 10 \\n Max No. of Friends +30 \\n Misc Shop Refresh Attempts: 9 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +120%\\n Log Collection Limit: 40,일일 선물 상한: 10 \\n 친구 수 상한 +30 \\n 잡화 상점 일일 새로고침 횟수: 9 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +120%\\n 로그 컬렉션 갯수: 40
+VipVip.csv,desc_en,Daily Gift Attempts: 10 \\n Max No. of Friends +30 \\n Misc Shop Refresh Attempts: 9 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +120%\\n Log Collection Limit: 40,일일 선물 상한: 10 \\n 친구 수 상한 +30 \\n 잡화점 일일 새로고침 횟수: 9 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +120%\\n 로그 컬렉션 갯수: 40
 VipVip.csv,name_en,Soul Enlightener - Intermediate,혼의 계몽자 - 중급
-VipVip.csv,desc_en,Daily Gift Attempts: 12 \\n Max No. of Friends +40 \\n Misc Shop Refresh Attempts: 10 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +140%\\n Log Collection Limit: 45,일일 선물 상한: 12 \\n 친구 수 상한 +40 \\n 잡화 상점 일일 새로고침 횟수: 10 \\n 잡화 상점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +140%\\n 로그 컬렉션 갯수: 45
+VipVip.csv,desc_en,Daily Gift Attempts: 12 \\n Max No. of Friends +40 \\n Misc Shop Refresh Attempts: 10 \\n Misc Shop Free Refresh: 1 \\n Bond Bonus from Matches +140%\\n Log Collection Limit: 45,일일 선물 상한: 12 \\n 친구 수 상한 +40 \\n 잡화점 일일 새로고침 횟수: 10 \\n 잡화점 무료 새로고침 횟수: 1 \\n 단위전 인연 보너스 +140%\\n 로그 컬렉션 갯수: 45
 VipVip.csv,name_en,Soul Enlightener - Senior,혼의 계몽자 - 상급
-VipVip.csv,desc_en,Daily Gift Attempts: 14 \\n Max No. of Friends +50 \\n Misc Shop Refresh Attempts: 11 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +160%\\n Log Collection Limit: 50,일일 선물 상한: 14 \\n 친구 수 상한 +50 \\n 잡화 상점 일일 새로고침 횟수: 11 \\n 잡화 상점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +160%\\n 로그 컬렉션 갯수: 50
+VipVip.csv,desc_en,Daily Gift Attempts: 14 \\n Max No. of Friends +50 \\n Misc Shop Refresh Attempts: 11 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +160%\\n Log Collection Limit: 50,일일 선물 상한: 14 \\n 친구 수 상한 +50 \\n 잡화점 일일 새로고침 횟수: 11 \\n 잡화점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +160%\\n 로그 컬렉션 갯수: 50
 VipVip.csv,name_en,Soul Creator - Beginner,혼의 창조자 - 초급
-VipVip.csv,desc_en,Daily Gift Attempts: 16 \\n Max No. of Friends +60 \\n Misc Shop Refresh Attempts: 12 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 55,일일 선물 상한: 16 \\n 친구 수 상한 +60 \\n 잡화 상점 일일 새로고침 횟수: 12 \\n 잡화 상점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 55
+VipVip.csv,desc_en,Daily Gift Attempts: 16 \\n Max No. of Friends +60 \\n Misc Shop Refresh Attempts: 12 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 55,일일 선물 상한: 16 \\n 친구 수 상한 +60 \\n 잡화점 일일 새로고침 횟수: 12 \\n 잡화점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 55
 VipVip.csv,name_en,Soul Creator - Intermediate,혼의 창조자 - 중급
-VipVip.csv,desc_en,Daily Gift Attempts: 18 \\n Max No. of Friends +70 \\n Misc Shop Refresh Attempts: 13 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 60,일일 선물 상한: 18 \\n 친구 수 상한 +70 \\n 잡화 상점 일일 새로고침 횟수: 13 \\n 잡화 상점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 60
+VipVip.csv,desc_en,Daily Gift Attempts: 18 \\n Max No. of Friends +70 \\n Misc Shop Refresh Attempts: 13 \\n Misc Shop Free Refresh: 2 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 60,일일 선물 상한: 18 \\n 친구 수 상한 +70 \\n 잡화점 일일 새로고침 횟수: 13 \\n 잡화점 무료 새로고침 횟수: 2 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 60
 VipVip.csv,name_en,Soul Creator - Senior,혼의 창조자 - 상급
-VipVip.csv,desc_en,Daily Gift Attempts: 20 \\n Max No. of Friends +80 \\n Misc Shop Refresh Attempts: 14 \\n Misc Shop Free Refresh: 3 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 65,일일 선물 상한: 20 \\n 친구 수 상한 +80 \\n 잡화 상점 일일 새로고침 횟수: 14 \\n 잡화 상점 무료 새로고침 횟수: 3 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 65
+VipVip.csv,desc_en,Daily Gift Attempts: 20 \\n Max No. of Friends +80 \\n Misc Shop Refresh Attempts: 14 \\n Misc Shop Free Refresh: 3 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 65,일일 선물 상한: 20 \\n 친구 수 상한 +80 \\n 잡화점 일일 새로고침 횟수: 14 \\n 잡화점 무료 새로고침 횟수: 3 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 65
 VipVip.csv,name_en,Soul Excelsior,혼의 초월자
-VipVip.csv,desc_en,Daily Gift Attempts: 22 \\n Max No. of Friends +90 \\n Misc Shop Refresh Attempts: 15 \\n Misc Shop Free Refresh: 4 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 70,일일 선물 상한: 22 \\n 친구 수 상한 +90 \\n 잡화 상점 일일 새로고침 횟수: 15 \\n 잡화 상점 무료 새로고침 횟수: 4 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 70
+VipVip.csv,desc_en,Daily Gift Attempts: 22 \\n Max No. of Friends +90 \\n Misc Shop Refresh Attempts: 15 \\n Misc Shop Free Refresh: 4 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 70,일일 선물 상한: 22 \\n 친구 수 상한 +90 \\n 잡화점 일일 새로고침 횟수: 15 \\n 잡화점 무료 새로고침 횟수: 4 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 70
 VipVip.csv,name_en,Cat Food Supplier,캣푸드 상인
-VipVip.csv,desc_en,Daily Gift Attempts: 25 \\n Max No. of Friends +100 \\n Misc Shop Refresh Attempts: 20 \\n Misc Shop Free Refresh: 5 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 75,일일 선물 상한: 25 \\n 친구 수 상한 +100 \\n 잡화 상점 일일 새로고침 횟수: 20 \\n 잡화 상점 무료 새로고침 횟수: 5 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 75
+VipVip.csv,desc_en,Daily Gift Attempts: 25 \\n Max No. of Friends +100 \\n Misc Shop Refresh Attempts: 20 \\n Misc Shop Free Refresh: 5 \\n Bond Bonus from Matches +200%\\n Log Collection Limit: 75,일일 선물 상한: 25 \\n 친구 수 상한 +100 \\n 잡화점 일일 새로고침 횟수: 20 \\n 잡화점 무료 새로고침 횟수: 5 \\n 단위전 인연 보너스 +200%\\n 로그 컬렉션 갯수: 75
 VipVip.csv,name_en,Royal Cat Guard,고양이 왕국의 수호자
-VipVip.csv,desc_en,Daily Gift Attempts: 30 \\n Max No. of Friends +110 \\n Misc Shop Refresh Attempts: 25 \\n Misc Shop Free Refresh: 7 \\n Bond Bonus from Matches +250%\\n Log Collection Limit: 80,일일 선물 상한: 30 \\n 친구 수 상한 +110 \\n 잡화 상점 일일 새로고침 횟수: 25 \\n 잡화 상점 무료 새로고침 횟수: 7 \\n 단위전 인연 보너스 +250%\\n 로그 컬렉션 갯수: 80
+VipVip.csv,desc_en,Daily Gift Attempts: 30 \\n Max No. of Friends +110 \\n Misc Shop Refresh Attempts: 25 \\n Misc Shop Free Refresh: 7 \\n Bond Bonus from Matches +250%\\n Log Collection Limit: 80,일일 선물 상한: 30 \\n 친구 수 상한 +110 \\n 잡화점 일일 새로고침 횟수: 25 \\n 잡화점 무료 새로고침 횟수: 7 \\n 단위전 인연 보너스 +250%\\n 로그 컬렉션 갯수: 80
 ItemDefinitionCurrency.csv,name_en,Jade,휘옥
 ItemDefinitionCurrency.csv,desc_en,Can be used to buy props.,소품(props)을 구입하는데 사용할 수 있습니다.
 ItemDefinitionCurrency.csv,name_en,Copper,동전
@@ -351,9 +351,9 @@ DesktopChest.csv,name_en,Gold Chest,금 상자
 DesktopChest.csv,name_en,Jade Chest,비취 상자
 DesktopChest.csv,name_en,King’s Chest,왕의 상자
 DesktopChest.csv,name_en,Casual Chest,캐주얼 상자
-ExchangeSearchexchange.csv,name_en,200 Summon Stones,200 기원의 소옥
+ExchangeSearchexchange.csv,name_en,200 Summon Stones,200 기원의 돌
 ExchangeSearchexchange.csv,desc_en,Collect a specific amount to summon.,기원하기 위해 특정량을 모으세요.
-ExchangeSearchexchange.csv,name_en,"1,800 Summon Stones","1,800 기원의 소옥"
+ExchangeSearchexchange.csv,name_en,"1,800 Summon Stones","1,800 기원의 돌"
 ExchangeExchange.csv,name_en,"5,000 Coppers","5,000 동전"
 ExchangeExchange.csv,desc_en,An ordinary currency issued by the Mahjong Soul Temple. Can be used for a variety of purposes.,혼천 신사에서 발행하는 일반 화폐입니다. 다양한 용도로 사용할 수 있습니다.
 ExchangeExchange.csv,name_en,"30,000 Coppers","30,000 동전"
@@ -460,7 +460,7 @@ FanFan.csv,name_en,Numerous Neighbours,대수린
 FanFan.csv,name_en,Ishinouenimosannen,돌 위에서 삼년
 FanFan.csv,name_en,Big Seven Stars,대칠성
 ChestChest.csv,name_en,Summon,기원
-ChestChest.csv,desc_en,"For each summon: you can get 1 Faith, with a chance to draw an all-new character and decorations. \\n\\n Character drop rates: 5% \\n Decoration drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate character, will be converted into Wishing Stones. \\n Duplicate decorations will be converted into Star Stones.","기원할 때 마다 1개의 신앙을 획득하며, 새로운 캐릭터와 장식을 얻을 기회가 주어집니다. \\n\\n 캐릭터 획득 확률: 5% \\n 장식 획득 확률: 15% \\n 선물 획득 확률: 80% \\n\\n 중복된 캐릭터는 기도의 소옥으로 전환됩니다. \\n 중복된 장식은 별의 소옥으로 전환됩니다."
+ChestChest.csv,desc_en,"For each summon: you can get 1 Faith, with a chance to draw an all-new character and decorations. \\n\\n Character drop rates: 5% \\n Decoration drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate character, will be converted into Wishing Stones. \\n Duplicate decorations will be converted into Star Stones.","기원할 때 마다 1개의 신앙을 획득하며, 새로운 캐릭터와 장식을 얻을 기회가 주어집니다. \\n\\n 캐릭터 획득 확률: 5% \\n 장식 획득 확률: 15% \\n 선물 획득 확률: 80% \\n\\n 중복된 캐릭터는 기도의 돌로 전환됩니다. \\n 중복된 장식은 별의 돌로 전환됩니다."
 ItemDefinitionCharacter.csv,name_en,Ichihime,이치히메
 ItemDefinitionCharacter.csv,desc_stature_en,154 cm,154 cm
 ItemDefinitionCharacter.csv,desc_birth_en,11th January,1월 11일
@@ -539,7 +539,7 @@ ItemDefinitionCharacter.csv,desc_birth_en,14th March,3월 14일
 ItemDefinitionCharacter.csv,desc_age_en,13,13
 ItemDefinitionCharacter.csv,desc_cv_en,Junko Minagawa,미나가와 준코
 ItemDefinitionCharacter.csv,desc_hobby_en,"Reading, math, cubes","독서, 수학, 큐브"
-ItemDefinitionCharacter.csv,desc_en,"People often say that “too smart for your own good”. Ever since he was a boy, Ichinose’s weak and frail body made him prone to sickness often. His world view is rooted in science and believes that everything can be explained through scientific methodology. Once upon random chance, Ichinose happened upon the Mahjong Soul Shrine. He thought that this was a very interesting game of probabilities, and so he decided to join in.","사람들은 그를 이렇게 평가한다. ""지나치게 똑똑한 데에는 대가가 따르는 건가…."" 어렸을 적부터 병약해서 운동을 할 기회가 거의 없었다. 그 대신, 과학에 깊이 몰두했고 지금은 모든 현상을 과학으로 설명할 수 있다고 생각한다. 우연히 혼천신사에서 마작을 보고, 재미있는 확률 게임이라고 생각하게 된 뒤로 마작을 하고 있다."
+ItemDefinitionCharacter.csv,desc_en,"People often say that “too smart for your own good”. Ever since he was a boy, Ichinose’s weak and frail body made him prone to sickness often. His world view is rooted in science and believes that everything can be explained through scientific methodology. Once upon random chance, Ichinose happened upon the Mahjong Soul Shrine. He thought that this was a very interesting game of probabilities, and so he decided to join in.","사람들은 그를 이렇게 평가한다. ""지나치게 똑똑한 데에는 대가가 따르는 건가…."" 어렸을 적부터 병약해서 운동을 할 기회가 거의 없었다. 그 대신, 과학에 깊이 몰두했고 지금은 모든 현상을 과학으로 설명할 수 있다고 생각한다. 우연히 혼천 신사에서 마작을 보고, 재미있는 확률 게임이라고 생각하게 된 뒤로 마작을 하고 있다."
 ItemDefinitionCharacter.csv,name_en,Hideki Akechi,아케치 히데키
 ItemDefinitionCharacter.csv,desc_stature_en,177cm,177cm
 ItemDefinitionCharacter.csv,desc_birth_en,9th January,1월 9일
@@ -553,12 +553,13 @@ ItemDefinitionCharacter.csv,desc_birth_en,9th September,9월 9일
 ItemDefinitionCharacter.csv,desc_cv_en,Konomi Kohara,코하라 코노미
 ItemDefinitionCharacter.csv,desc_hobby_en,"Light novels, teasing her younger sister","라이트 노벨, 동생에게 장난치기"
 ItemDefinitionCharacter.csv,desc_en,"Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat. As the head of her school’s literature club, which is on the verge of being dissolved, Keikumusume is constantly leaning to her fellow club members to try saving their beloved club. \nKeikumusume’s personality changes when she takes off her witch hat. Once the hat is off, she goes from being a carefree naive girl to someone who is very dependable in nature. But such change is totally clueless to herself.\nIt seems that she has an infinite supply of witch hats at her disposal, yet where she keeps her supply remains a mystery.","어느 학교에 있는 폐부 직전의 문학부 부장. 평소에는 기묘한 마녀모자를 쓰고 라노벨을 읽으며, 부원에게 문학부를 구원받길 기다리고 있다. \n모자를 씀으로써 인격을 바꿀 수 있다. 모자를 쓰지 않았을 때는 똑부러지는 성격이지만, 모자를 쓰면 덜렁이가 되며, 본인에게 자각은 없다.\n모자에는 대량의 비품이 들어있을 것 같지만, 어디에 보존되는지는 미스터리."
+ItemDefinitionCharacter.csv,desc_item_en,Keikumusume possesses a quirky appearance as she is often seen wearing a witch hat.,케이쿠무스메는 평소에 기묘한 마녀모자를 쓰곤 한다.
 ItemDefinitionCharacter.csv,name_en,Sara,사라
 ItemDefinitionCharacter.csv,desc_stature_en,158cm,158cm
 ItemDefinitionCharacter.csv,desc_birth_en,25th September,9월 25일
 ItemDefinitionCharacter.csv,desc_cv_en,M·A·O,이치미치 마오
 ItemDefinitionCharacter.csv,desc_hobby_en,"Skirts, dance, cats","치마, 춤추기, 고양이와 놀기"
-ItemDefinitionCharacter.csv,desc_en,"Sara is the top dancer of the touring performing group ""Soul"". She was crowned as ""Cassiopeia on Stage"" for her passionate dance moves as well as her attractive but elegant physique. Sara got her distinctive appearance from her parents, who came from different countries and backgrounds. Her different-colored eyes can charm people; some even feel that her looks can reach deep into their souls. She's a cat lover, and her characters are also as unpredictable as one. One day, Sara stepped into Mahjong Soul Shrine by coincidence, and because of the cat hobby of hers, she soon became very fond of Ichihime.","이동곡예서커스 ""soul""의 인기무희. 대담분방하게 춤추는 모습이 요염하면서도 저속함이 느껴지지 않아, 「무대 위의 카시오페아」라는 이명을 지니고 있다. 다국적의 혼혈이라 사라는 한결 눈에 띄는 외견을 하고 있다. 특히, 그녀의 오드아이 눈동자를 바라보고 있으면, 영혼 깊은 곳까지 꿰뚫어보는 듯한 기분이 든다. 고양이처럼 성격이 제멋대로이며, 본인도 상당히 고양이 애호가이다. 과거에 혼천신사에 이끌린 적이 있으며, 자기 취향인 이치히메를 꽤 마음에 들어하고 있다."
+ItemDefinitionCharacter.csv,desc_en,"Sara is the top dancer of the touring performing group ""Soul"". She was crowned as ""Cassiopeia on Stage"" for her passionate dance moves as well as her attractive but elegant physique. Sara got her distinctive appearance from her parents, who came from different countries and backgrounds. Her different-colored eyes can charm people; some even feel that her looks can reach deep into their souls. She's a cat lover, and her characters are also as unpredictable as one. One day, Sara stepped into Mahjong Soul Shrine by coincidence, and because of the cat hobby of hers, she soon became very fond of Ichihime.","이동곡예서커스 ""soul""의 인기무희. 대담분방하게 춤추는 모습이 요염하면서도 저속함이 느껴지지 않아, 「무대 위의 카시오페아」라는 이명을 지니고 있다. 다국적의 혼혈이라 사라는 한결 눈에 띄는 외견을 하고 있다. 특히, 그녀의 오드아이 눈동자를 바라보고 있으면, 영혼 깊은 곳까지 꿰뚫어보는 듯한 기분이 든다. 고양이처럼 성격이 제멋대로이며, 본인도 상당히 고양이 애호가이다. 과거에 혼천 신사에 이끌린 적이 있으며, 자기 취향인 이치히메를 꽤 마음에 들어하고 있다."
 ItemDefinitionCharacter.csv,name_en,Hana Ninomiya,니노미야 하나
 ItemDefinitionCharacter.csv,desc_stature_en,155cm,155cm
 ItemDefinitionCharacter.csv,desc_birth_en,12th July,7월 12일
@@ -860,7 +861,7 @@ ItemDefinitionItem.csv,name_en,Riichi - Blood·Lance of Longinus,리치 - 선혈
 ItemDefinitionItem.csv,name_en,Riichi - Starfall,리치 - 별똥별
 ItemDefinitionItem.csv,name_en,Winning - Eye of Eris,승리 - 에리스의 눈
 ItemDefinitionItem.csv,name_en,Winning - Silent Star,승리 - 고요한 별
-ItemDefinitionItem.csv,name_en,Wishing Stone,기도의 소옥
+ItemDefinitionItem.csv,name_en,Wishing Stone,기도의 돌
 ItemDefinitionItem.csv,name_en,Tablecloth - Swimming Koi,테이블보 - 비단 잉어
 ItemDefinitionItem.csv,name_en,Tile Back - Red Packet,마작패 - 복주머니
 ItemDefinitionItem.csv,name_en,Riichi Bet - Gold Arowana,리치 봉 - 황금 아로와나
@@ -919,7 +920,7 @@ ActivityActivity.csv,name_en,Launch: School Operation,시작: 봄방학 작전
 ActivityActivity.csv,name_en,Gorgeous Spring,화려한 봄날
 ActivityActivity.csv,name_en,Spring Festival Limited-time Sticker Shop,봄 축제 기간 한정 스티커 샵
 ActivityActivity.csv,name_en,Celebration Shop,기념품점
-ActivityActivity.csv,name_en,New Year Celebration,혼천신사 새해 참배
+ActivityActivity.csv,name_en,New Year Celebration,혼천 신사 새해 참배
 ActivityActivity.csv,name_en,Chiori's Trouble,치오리의 고민
 ActivityActivity.csv,name_en,Halloween Event Exchange,할로윈 이벤트 교환
 ActivityActivity.csv,name_en,Halloween Event,할로윈 이벤트
@@ -1190,3 +1191,36 @@ EventsBaseTask.csv,desc_en,Finished 2 laps on the event map,이벤트 맵에서 
 EventsBaseTask.csv,desc_en,Finished 1 lap on the event map,이벤트 맵에서 1바퀴 완주
 EventsBaseTask.csv,desc_en,Win 3 games with at least a Red Five,3 게임을 하나 이상의 적도라를 포함하여 화료
 EventsBaseTask.csv,desc_en,Win 3 games with All Simples,3 게임을 탕야오로 화료
+EventsBaseTask.csv,desc_en,Win 1 game with Seven Pairs or All Triplets,1 게임을 치또이츠 또는 또이또이로 화료
+ItemDefinitionItem.csv,name_en,Light Novel,라이트 노벨
+ItemDefinitionItem.csv,desc_en,Collect them to summon.,기원하기 위해 수집하세요.
+ItemDefinitionItem.csv,name_en,Summon Stone,기원의 돌
+ItemDefinitionItem.csv,desc_en,Use this mysterious scroll to change your nickname once. You may change your nickname in Personal Info. It can only be used once every 30 days.,닉네임을 한 번 변경할 수 있는 신비한 두루마리. 개인 정보 화면에서 닉네임을 변경할 수 있습니다. 30일에 한 번만 사용할 수 있습니다.
+ShopsGoods.csv,name_en,Rename Scroll,이름 변경 두루마리
+ItemDefinitionItem.csv,desc_en,The brightest light. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,가장 밝은 빛. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ShopsZhpGoods.csv,name_en,Sphere of Light,빛의 보옥
+ItemDefinitionItem.csv,desc_en,Immortal faith. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,불멸의 믿음. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ShopsZhpGoods.csv,name_en,Sphere of Hope,희망의 보옥
+ItemDefinitionItem.csv,desc_en,"Pure, innocent kindness. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).",순수한 선의.기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ShopsZhpGoods.csv,name_en,Sphere of Innocence,순수의 보옥
+ItemDefinitionItem.csv,desc_en,The obsession of knowledge seeking. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,지식에 대한 집념. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ShopsZhpGoods.csv,name_en,Sphere of Wisdom,지혜의 보옥
+ItemDefinitionItem.csv,desc_en,Unconditional love. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,무조건적인 사랑. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ShopsZhpGoods.csv,name_en,Sphere of Love,사랑의 보옥
+ItemDefinitionItem.csv,desc_en,A firm oath. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,확고한 맹세. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ShopsZhpGoods.csv,name_en,Sphere of Honesty,성실의 보옥
+ItemDefinitionItem.csv,desc_en,Determination without regret. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,후회없는 결의. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ShopsZhpGoods.csv,name_en,Sphere of Will,의지의 보옥
+ItemDefinitionItem.csv,desc_en,A brave heart. Can be purchased from Wishing Shop and Misc Shop. Also available from Match Chests (Silver Room or above).,용감한 마음. 기도 상점과 잡화점에서 구매할 수 있습니다. 은탁 이상에서 획득 가능한 상자에서도 얻을 수 있습니다.
+ShopsZhpGoods.csv,name_en,Sphere of Courage,용기의 보옥
+ItemDefinitionItem.csv,desc_en,Slightly enchanted dust of Star Stone. Use it to redeem items in Fortune Shop. Available via donation of gifts in Inventory.,희미하게 영기가 남아있는 별의 돌 가루. 소원 상점에서 아이템과 교환할 수 있다. 창고에서 선물을 기부하여 모을 수 있다.
+ItemDefinitionItem.csv,name_en,Star Dust,별가루
+ItemDefinitionItem.csv,desc_en,You can find emotions in this enchanted stone. Use it to redeem items in Star Shop.,감정이 깃든 영석. 별 상점에서 아이템과 교환할 수 있다.
+ItemDefinitionItem.csv,name_en,Star Stone,별의 돌
+ItemDefinitionItem.csv,desc_en,You can find hope in this enchanted stone. Use it to redeem items in Wishing Shop.,희망이 깃든 영석. 기도 상점에서 아이템과 교환할 수 있다.
+ItemDefinitionItem.csv,desc_en,A scroll bless by the shrine. \nUse it to perform a free summon for once.,신사에서 축복한 두루마리. \n사용하여 한 번 무료로 기원할 수 있다.
+ShopsGoods.csv,name_en,Summon Scroll,기원의 두루마리
+ItemDefinitionItem.csv,desc_en,Entrance ticket used by the organizer of Midorimiya Keita-Cup.,미도리아 케이타 컵 주최자가 사용하는 입장권.
+ItemDefinitionItem.csv,name_en,Midorimiya Keita-Cup Ticket,미도리야 케이타 컵 티켓
+ItemDefinitionItem.csv,desc_en,Entrance ticket to the Path of Trial.,시련의 길 입장권.
+ItemDefinitionItem.csv,name_en,Trial Ticket,시련 티켓
