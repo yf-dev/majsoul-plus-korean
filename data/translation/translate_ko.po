@@ -1,11 +1,14 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-03 22:56:30\n"
+"PO-Revision-Date: 2020-06-03 14:48+0000\n"
+"Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #: translate_json.csv:7
 msgctxt "绑定邮箱"
@@ -12334,3 +12337,1942 @@ msgid "sheet|VipVip.csv|desc_en|2532"
 msgstr ""
 "일일 선물 상한: 30 \\n 친구 수 상한 +110 \\n 잡화점 일일 새로고침 횟수: 25 \\n 잡화점 무료 새로고침 횟수: 7 "
 "\\n 단위전 인연 보너스 +250%\\n 로그 컬렉션 갯수: 80"
+
+#: translate_sheet.csv:1079
+msgctxt "Simple Fanzine"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1079"
+msgstr "얇은 책"
+
+#: translate_sheet.csv:1077
+msgctxt "Fanzine Booklet"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1077"
+msgstr "동인 안내책자"
+
+#: translate_sheet.csv:1076
+msgctxt ""
+"A life size teddy bear. Give it to a character to increase your Bond with "
+"him/her by 5000 points. Characters who love dolls will receive bonus Bond "
+"points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1076"
+msgstr ""
+"실물 크기의 테디 베어입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 인형을 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1075
+msgctxt "Teddy Bear XXL"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1075"
+msgstr "테디 베어 XXL"
+
+#: translate_sheet.csv:1074
+msgctxt ""
+"A cute teddy bear. Give it to a character to increase your Bond with him/her"
+" by 1000 points. Characters who love dolls will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1074"
+msgstr ""
+"귀여운 테디 베어입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 인형을 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1073
+msgctxt "Teddy Bear L"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1073"
+msgstr "테디 베어 L"
+
+#: translate_sheet.csv:1072
+msgctxt ""
+"An ordinary teddy bear. Give it to a character to increase your Bond with "
+"him/her by 200 points. Characters who love dolls will receive bonus Bond "
+"points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1072"
+msgstr ""
+"평범한 테디 베어입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 인형을 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1071
+msgctxt "Teddy Bear"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1071"
+msgstr "테디 베어"
+
+#: translate_sheet.csv:1070
+msgctxt ""
+"A very rare treasure. Give it to a character to increase your Bond with "
+"him/her by 5000 points. Characters who love diamonds will receive bonus Bond"
+" points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1070"
+msgstr ""
+"매우 희귀한 보물입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 다이아몬드를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1069
+msgctxt "Heart of the Ocean"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1069"
+msgstr "바다의 심장"
+
+#: translate_sheet.csv:1068
+msgctxt ""
+"A symbol of luxury. Give it to a character to increase your Bond with "
+"him/her by 1000 points. Characters who love diamonds will receive bonus Bond"
+" points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1068"
+msgstr ""
+"사치의 상징입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 다이아몬드를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1067
+msgctxt "Large Diamond"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1067"
+msgstr "큰 다이아몬드"
+
+#: translate_sheet.csv:1066
+msgctxt ""
+"A very common, affordable accessory. Give it to a character to increase your"
+" Bond with him/her by 200 points. Characters who love diamonds will receive "
+"bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1066"
+msgstr ""
+"아주 흔하고 저렴한 액세서리입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 다이아몬드를 좋아하는 캐릭터에게는 추가 인연 "
+"포인트가 주어집니다."
+
+#: translate_sheet.csv:1065
+msgctxt "Small Diamond"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1065"
+msgstr "작은 다이아몬드"
+
+#: translate_sheet.csv:1063
+msgctxt "Valuable Goblet"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1063"
+msgstr "귀중한 고블렛잔"
+
+#: translate_sheet.csv:1061
+msgctxt "Exquisite Wine Glass"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1061"
+msgstr "정교한 와인잔"
+
+#: translate_sheet.csv:1059
+msgctxt "Common Beer Mug"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1059"
+msgstr "평범한 맥주잔"
+
+#: translate_sheet.csv:1057
+msgctxt "Classic Painting"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1057"
+msgstr "고전 회화"
+
+#: translate_sheet.csv:1055
+msgctxt "Wall Painting"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1055"
+msgstr "벽화"
+
+#: translate_sheet.csv:1053
+msgctxt "Simple Art"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1053"
+msgstr "단순한 예술품"
+
+#: translate_sheet.csv:1051
+msgctxt "Powerful Console"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1051"
+msgstr "강력한 게임기"
+
+#: translate_sheet.csv:1049
+msgctxt "Xwitch Console"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1049"
+msgstr "휴대용 게임기"
+
+#: translate_sheet.csv:1047
+msgctxt "Nostalgic Console"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1047"
+msgstr "추억의 게임기"
+
+#: translate_sheet.csv:1045
+msgctxt "Delicious Cookie"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1045"
+msgstr "맛있는 쿠키"
+
+#: translate_sheet.csv:1043
+msgctxt "Danish Cookie"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1043"
+msgstr "덴마크 쿠키"
+
+#: translate_sheet.csv:1041
+msgctxt "Handmade Cookie"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1041"
+msgstr "수제 쿠키"
+
+#: translate_sheet.csv:1035
+msgctxt "Rename Scroll"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1035"
+msgstr "이름 변경 두루마리"
+
+#: translate_sheet.csv:1033
+msgctxt "Sphere of Light"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1033"
+msgstr "빛의 보옥"
+
+#: translate_sheet.csv:1031
+msgctxt "Sphere of Hope"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1031"
+msgstr "희망의 보옥"
+
+#: translate_sheet.csv:1029
+msgctxt "Sphere of Innocence"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1029"
+msgstr "순수의 보옥"
+
+#: translate_sheet.csv:1027
+msgctxt "Sphere of Wisdom"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1027"
+msgstr "지혜의 보옥"
+
+#: translate_sheet.csv:1025
+msgctxt "Sphere of Love"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1025"
+msgstr "사랑의 보옥"
+
+#: translate_sheet.csv:1023
+msgctxt "Sphere of Honesty"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1023"
+msgstr "성실의 보옥"
+
+#: translate_sheet.csv:1021
+msgctxt "Sphere of Will"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1021"
+msgstr "의지의 보옥"
+
+#: translate_sheet.csv:1019
+msgctxt "Sphere of Courage"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1019"
+msgstr "용기의 보옥"
+
+#: translate_sheet.csv:1011
+msgctxt "Summon Scroll"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1011"
+msgstr "기원의 두루마리"
+
+#: translate_sheet.csv:693
+msgctxt ""
+"You cannot send friend requests or leave messages to players from another region."
+msgid "sheet|InfoError.csv|en|693"
+msgstr "다른 지역의 플레이어에게 친구 요청을 하거나 메시지를 남길 수 없습니다."
+
+#: translate_sheet.csv:262
+msgctxt "Big Seven Stars"
+msgid "sheet|EventsBaseTask.csv|desc_en|262"
+msgstr "대칠성"
+
+#: translate_sheet.csv:261
+msgctxt "Ishinouenimosannen"
+msgid "sheet|EventsBaseTask.csv|desc_en|261"
+msgstr "돌 위에서 삼년"
+
+#: translate_sheet.csv:260
+msgctxt "Numerous Neighbours"
+msgid "sheet|EventsBaseTask.csv|desc_en|260"
+msgstr "대수린"
+
+#: translate_sheet.csv:259
+msgctxt "Bamboo Forest"
+msgid "sheet|EventsBaseTask.csv|desc_en|259"
+msgstr "대죽림"
+
+#: translate_sheet.csv:258
+msgctxt "Big Wheels"
+msgid "sheet|EventsBaseTask.csv|desc_en|258"
+msgstr "대차륜"
+
+#: translate_sheet.csv:257
+msgctxt "Hand of Man"
+msgid "sheet|EventsBaseTask.csv|desc_en|257"
+msgstr "인화"
+
+#: translate_sheet.csv:256
+msgctxt "Chuupinraoyui"
+msgid "sheet|EventsBaseTask.csv|desc_en|256"
+msgstr "구통로어"
+
+#: translate_sheet.csv:255
+msgctxt "Iipinmoyue"
+msgid "sheet|EventsBaseTask.csv|desc_en|255"
+msgstr "일통모월"
+
+#: translate_sheet.csv:254
+msgctxt "Pure Triple Chow"
+msgid "sheet|EventsBaseTask.csv|desc_en|254"
+msgstr "일색삼순"
+
+#: translate_sheet.csv:253
+msgctxt "Three Chained Triplets"
+msgid "sheet|EventsBaseTask.csv|desc_en|253"
+msgstr "삼련각"
+
+#: translate_sheet.csv:252
+msgctxt "Uumensai"
+msgid "sheet|EventsBaseTask.csv|desc_en|252"
+msgstr "오문제"
+
+#: translate_sheet.csv:251
+msgctxt "Shiiaruraotai"
+msgid "sheet|EventsBaseTask.csv|desc_en|251"
+msgstr "십이낙태"
+
+#: translate_sheet.csv:250
+msgctxt "Kanburi"
+msgid "sheet|EventsBaseTask.csv|desc_en|250"
+msgstr "영상개론"
+
+#: translate_sheet.csv:249
+msgctxt "Tsubame-gaeshi"
+msgid "sheet|EventsBaseTask.csv|desc_en|249"
+msgstr "츠바메가에시"
+
+#: translate_sheet.csv:134
+msgctxt "Riichi Bet - Crimson Thorns"
+msgid "sheet|ChestChestShop.csv|name_en|134"
+msgstr "리치 봉 - 크림슨 가시"
+
+#: translate_sheet.csv:133
+msgctxt "Riichi - Blood·Lance of Longinus"
+msgid "sheet|ChestChestShop.csv|name_en|133"
+msgstr "리치 - 선혈·롱기누스의 창"
+
+#: translate_sheet.csv:132
+msgctxt "Riichi - Starfall"
+msgid "sheet|ChestChestShop.csv|name_en|132"
+msgstr "리치 - 별똥별"
+
+#: translate_sheet.csv:131
+msgctxt "Winning - Eye of Eris"
+msgid "sheet|ChestChestShop.csv|name_en|131"
+msgstr "승리 - 에리스의 눈"
+
+#: translate_sheet.csv:130
+msgctxt "Winning - Silent Star"
+msgid "sheet|ChestChestShop.csv|name_en|130"
+msgstr "승리 - 고요한 별"
+
+#: translate_sheet.csv:128
+msgctxt "Ein"
+msgid "sheet|ChestChestShop.csv|name_en|128"
+msgstr "에인"
+
+#: translate_sheet.csv:127
+msgctxt "Sawako Kitami"
+msgid "sheet|ChestChestShop.csv|name_en|127"
+msgstr "키타미 사와코"
+
+#: translate_sheet.csv:126
+msgctxt "Wishing Stone"
+msgid "sheet|ChestChestShop.csv|name_en|126"
+msgstr "기도의 돌"
+
+#: translate_sheet.csv:125
+msgctxt "Tablecloth - Swimming Koi"
+msgid "sheet|ChestChestShop.csv|name_en|125"
+msgstr "테이블보 - 비단 잉어"
+
+#: translate_sheet.csv:124
+msgctxt "Tile Back - Red Packet"
+msgid "sheet|ChestChestShop.csv|name_en|124"
+msgstr "마작패 - 복주머니"
+
+#: translate_sheet.csv:123
+msgctxt "Riichi Bet - Gold Arowana"
+msgid "sheet|ChestChestShop.csv|name_en|123"
+msgstr "리치 봉 - 황금 아로와나"
+
+#: translate_sheet.csv:122
+msgctxt "Riichi - Rat Power"
+msgid "sheet|ChestChestShop.csv|name_en|122"
+msgstr "리치 - 경자(庚子)의 힘"
+
+#: translate_sheet.csv:121
+msgctxt "Winning - Family Reunion"
+msgid "sheet|ChestChestShop.csv|name_en|121"
+msgstr "승리 - 새해 불꽃놀이"
+
+#: translate_sheet.csv:120
+msgctxt "Osamu Saitou"
+msgid "sheet|ChestChestShop.csv|name_en|120"
+msgstr "사이토 오사무"
+
+#: translate_sheet.csv:119
+msgctxt "Joseph"
+msgid "sheet|ChestChestShop.csv|name_en|119"
+msgstr "조셉"
+
+#: translate_sheet.csv:118
+msgctxt "Anju Suzumiya"
+msgid "sheet|ChestChestShop.csv|name_en|118"
+msgstr "스즈미야 안즈"
+
+#: translate_sheet.csv:117
+msgctxt "Haruna Igarashi"
+msgid "sheet|ChestChestShop.csv|name_en|117"
+msgstr "이가라시 하루나"
+
+#: translate_sheet.csv:116
+msgctxt "Riichi Bet - Magical Wand"
+msgid "sheet|ChestChestShop.csv|name_en|116"
+msgstr "리치 봉 - 마법봉"
+
+#: translate_sheet.csv:115
+msgctxt "Riichi - Magical Girl"
+msgid "sheet|ChestChestShop.csv|name_en|115"
+msgstr "리치 - 마법소녀"
+
+#: translate_sheet.csv:114
+msgctxt "Riichi - Emergency"
+msgid "sheet|ChestChestShop.csv|name_en|114"
+msgstr "리치 - 비상"
+
+#: translate_sheet.csv:113
+msgctxt "Winning - Magical Girl"
+msgid "sheet|ChestChestShop.csv|name_en|113"
+msgstr "승리 - 마법소녀"
+
+#: translate_sheet.csv:112
+msgctxt "Winning - Opera Phantom"
+msgid "sheet|ChestChestShop.csv|name_en|112"
+msgstr "승리 - 오페라의 유령"
+
+#: translate_sheet.csv:111
+msgctxt "“On the Edge”"
+msgid "sheet|ChestChestShop.csv|name_en|111"
+msgstr "“일촉즉발”"
+
+#: translate_sheet.csv:110
+msgctxt "Hinata Takanashi"
+msgid "sheet|ChestChestShop.csv|name_en|110"
+msgstr "타카나시 히나타"
+
+#: translate_sheet.csv:109
+msgctxt "Nana Shiraishi"
+msgid "sheet|ChestChestShop.csv|name_en|109"
+msgstr "시라이시 나나"
+
+#: translate_sheet.csv:108
+msgctxt "Tile Back - Bumpkin"
+msgid "sheet|ChestChestShop.csv|name_en|108"
+msgstr "마작패 - 유령"
+
+#: translate_sheet.csv:106
+msgctxt "Riichi - Bat Swarm"
+msgid "sheet|ChestChestShop.csv|name_en|106"
+msgstr "리치 - 박쥐떼"
+
+#: translate_sheet.csv:105
+msgctxt "Winning - Screaming Ghost"
+msgid "sheet|ChestChestShop.csv|name_en|105"
+msgstr "승리 - 비명을 지르는 유령"
+
+#: translate_sheet.csv:104
+msgctxt "Tablecloth - Melon"
+msgid "sheet|ChestChestShop.csv|name_en|104"
+msgstr "테이블보 - 수박"
+
+#: translate_sheet.csv:103
+msgctxt "Tablecloth - Mahjong Ceremony"
+msgid "sheet|ChestChestShop.csv|name_en|103"
+msgstr "테이블보 - 여름 축제"
+
+#: translate_sheet.csv:102
+msgctxt "“Charge”"
+msgid "sheet|ChestChestShop.csv|name_en|102"
+msgstr "“출전”"
+
+#: translate_sheet.csv:101
+msgctxt "Hana Ninomiya"
+msgid "sheet|ChestChestShop.csv|name_en|101"
+msgstr "니노미야 하나"
+
+#: translate_sheet.csv:100
+msgctxt "Sara"
+msgid "sheet|ChestChestShop.csv|name_en|100"
+msgstr "사라"
+
+#: translate_sheet.csv:99
+msgctxt "Riichi Bet - Ice Cream"
+msgid "sheet|ChestChestShop.csv|name_en|99"
+msgstr "리치 봉 - 아이스크림"
+
+#: translate_sheet.csv:98
+msgctxt "Riichi Bet - Sever"
+msgid "sheet|ChestChestShop.csv|name_en|98"
+msgstr "리치 봉 - 악의"
+
+#: translate_sheet.csv:96
+msgctxt "Winning - K.O"
+msgid "sheet|ChestChestShop.csv|name_en|96"
+msgstr "승리 - K.O"
+
+#: translate_sheet.csv:95
+msgctxt "Riichi - Dragon"
+msgid "sheet|ChestChestShop.csv|name_en|95"
+msgstr "리치 - 드래곤"
+
+#: translate_sheet.csv:94
+msgctxt "Riichi - \"Beep\"!"
+msgid "sheet|ChestChestShop.csv|name_en|94"
+msgstr "리치 - \"삑\"!"
+
+#: translate_sheet.csv:93
+msgctxt "Hideki Akechi"
+msgid "sheet|ChestChestShop.csv|name_en|93"
+msgstr "아케치 히데키"
+
+#: translate_sheet.csv:92
+msgctxt "Sora Ichinose"
+msgid "sheet|ChestChestShop.csv|name_en|92"
+msgstr "이치노세 소라"
+
+#: translate_sheet.csv:91
+msgctxt "Wanjirou"
+msgid "sheet|ChestChestShop.csv|name_en|91"
+msgstr "왕지로"
+
+#: translate_sheet.csv:90
+msgctxt "Natsuki Shinomiya"
+msgid "sheet|ChestChestShop.csv|name_en|90"
+msgstr "시노미야 나츠키"
+
+#: translate_sheet.csv:88
+msgctxt "Xenia"
+msgid "sheet|ChestChestShop.csv|name_en|88"
+msgstr "지니아"
+
+#: translate_sheet.csv:87
+msgctxt "Winning - Dancing Rose"
+msgid "sheet|ChestChestShop.csv|name_en|87"
+msgstr "승리 - 춤추는 꽃"
+
+#: translate_sheet.csv:86
+msgctxt "Winning - Laser Blast"
+msgid "sheet|ChestChestShop.csv|name_en|86"
+msgstr "승리 - 레이저 블라스트"
+
+#: translate_sheet.csv:85
+msgctxt "Winning - Firestorm"
+msgid "sheet|ChestChestShop.csv|name_en|85"
+msgstr "승리 - 화염폭풍"
+
+#: translate_sheet.csv:84
+msgctxt "Riichi - Feather"
+msgid "sheet|ChestChestShop.csv|name_en|84"
+msgstr "리치 - 깃털"
+
+#: translate_sheet.csv:83
+msgctxt "Riichi - Phantom"
+msgid "sheet|ChestChestShop.csv|name_en|83"
+msgstr "리치 - 팬텀"
+
+#: translate_sheet.csv:81
+msgctxt "“Intensive Battle”"
+msgid "sheet|ChestChestShop.csv|name_en|81"
+msgstr "“격투”"
+
+#: translate_sheet.csv:80
+msgctxt "“Serious Game”"
+msgid "sheet|ChestChestShop.csv|name_en|80"
+msgstr "“진검승부”"
+
+#: translate_sheet.csv:78
+msgctxt "Riichi - Crimson"
+msgid "sheet|ChestChestShop.csv|name_en|78"
+msgstr "리치 - 크림슨"
+
+#: translate_sheet.csv:77
+msgctxt "Riichi - Bone"
+msgid "sheet|ChestChestShop.csv|name_en|77"
+msgstr "리치 - 뼈"
+
+#: translate_sheet.csv:76
+msgctxt "Riichi - Green Onion"
+msgid "sheet|ChestChestShop.csv|name_en|76"
+msgstr "리치 - 파"
+
+#: translate_sheet.csv:75
+msgctxt "Riichi - Fish"
+msgid "sheet|ChestChestShop.csv|name_en|75"
+msgstr "리치 - 물고기"
+
+#: translate_sheet.csv:74
+msgctxt "Riichi - Dumpling"
+msgid "sheet|ChestChestShop.csv|name_en|74"
+msgstr "리치 - 만두"
+
+#: translate_sheet.csv:73
+msgctxt "Riichi - Firecracker"
+msgid "sheet|ChestChestShop.csv|name_en|73"
+msgstr "리치 - 폭죽"
+
+#: translate_sheet.csv:72
+msgctxt "Ginger Cat Paw"
+msgid "sheet|ChestChestShop.csv|name_en|72"
+msgstr "치즈색 고양이 발"
+
+#: translate_sheet.csv:71
+msgctxt "Winning - Sakura"
+msgid "sheet|ChestChestShop.csv|name_en|71"
+msgstr "승리 - 벚꽃"
+
+#: translate_sheet.csv:70
+msgctxt "Winning - Cyclone"
+msgid "sheet|ChestChestShop.csv|name_en|70"
+msgstr "승리 - 사이클론"
+
+#: translate_sheet.csv:69
+msgctxt "Winning - Flame"
+msgid "sheet|ChestChestShop.csv|name_en|69"
+msgstr "승리 - 불꽃"
+
+#: translate_sheet.csv:68
+msgctxt "Winning - Fireworks"
+msgid "sheet|ChestChestShop.csv|name_en|68"
+msgstr "승리 - 불꽃놀이"
+
+#: translate_sheet.csv:67
+msgctxt "Winning - Dark Flame"
+msgid "sheet|ChestChestShop.csv|name_en|67"
+msgstr "승리 - 어둠의 불꽃"
+
+#: translate_sheet.csv:66
+msgctxt "Riichi - Fire"
+msgid "sheet|ChestChestShop.csv|name_en|66"
+msgstr "리치 - 파이어"
+
+#: translate_sheet.csv:65
+msgctxt "Riichi - Ice"
+msgid "sheet|ChestChestShop.csv|name_en|65"
+msgstr "리치 - 아이스"
+
+#: translate_sheet.csv:64
+msgctxt "Riichi - Blue Flame"
+msgid "sheet|ChestChestShop.csv|name_en|64"
+msgstr "리치 - 푸른 불꽃"
+
+#: translate_sheet.csv:63
+msgctxt "Riu Kujou"
+msgid "sheet|ChestChestShop.csv|name_en|63"
+msgstr "쿠죠 리우"
+
+#: translate_sheet.csv:62
+msgctxt "Yui Yagi"
+msgid "sheet|ChestChestShop.csv|name_en|62"
+msgstr "야기 유이"
+
+#: translate_sheet.csv:61
+msgctxt "Nadeshiko"
+msgid "sheet|ChestChestShop.csv|name_en|61"
+msgstr "나데시코"
+
+#: translate_sheet.csv:60
+msgctxt "Mai Aihara"
+msgid "sheet|ChestChestShop.csv|name_en|60"
+msgstr "아이하라 마이"
+
+#: translate_sheet.csv:59
+msgctxt "Kana Fujita"
+msgid "sheet|ChestChestShop.csv|name_en|59"
+msgstr "후지타 카나"
+
+#: translate_sheet.csv:58
+msgctxt "Chiori Mikami"
+msgid "sheet|ChestChestShop.csv|name_en|58"
+msgstr "미카미 치오리"
+
+#: translate_sheet.csv:31
+msgctxt "Working Adventure Quest"
+msgid "sheet|ActivityActivity.csv|name_en|31"
+msgstr "아르바이트 대모험 퀘스트"
+
+#: translate_sheet.csv:30
+msgctxt "Ichihime's Working Adventure"
+msgid "sheet|ActivityActivity.csv|name_en|30"
+msgstr "이치히메의 아르바이트 대모험"
+
+#: translate_sheet.csv:23
+msgctxt "Open Hand Match"
+msgid "sheet|ActivityActivity.csv|name_en|23"
+msgstr "손패 공개"
+
+#: translate_sheet.csv:19
+msgctxt "DoraDorara"
+msgid "sheet|ActivityActivity.csv|name_en|19"
+msgstr "도라도라라"
+
+#: translate_sheet.csv:14
+msgctxt "Beach Party"
+msgid "sheet|ActivityActivity.csv|name_en|14"
+msgstr "비치 파티"
+
+#: translate_json.csv:1327
+msgctxt "排名点数："
+msgid "json|mj/win|1|19|3"
+msgstr "排名点数："
+
+#: translate_json.csv:1245
+msgctxt "5"
+msgid "json|lobby/waitingroom|3|1|2|1|4|1"
+msgstr "5"
+
+#: translate_json.csv:1244
+msgctxt "4"
+msgid "json|lobby/waitingroom|3|1|2|1|3|1"
+msgstr "4"
+
+#: translate_json.csv:1243
+msgctxt "3"
+msgid "json|lobby/waitingroom|3|1|2|1|2|1"
+msgstr "3"
+
+#: translate_json.csv:1242
+msgctxt "2"
+msgid "json|lobby/waitingroom|3|1|2|1|1|1"
+msgstr "2"
+
+#: translate_json.csv:1241
+msgctxt "1"
+msgid "json|lobby/waitingroom|3|1|2|1|0|1"
+msgstr "1"
+
+#: translate_json.csv:1168
+msgctxt "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
+msgid "json|lobby/treasure|4|2|2|4|5"
+msgstr "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
+
+#: translate_json.csv:1167
+msgctxt "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
+msgid "json|lobby/treasure|4|2|2|4|4"
+msgstr "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
+
+#: translate_json.csv:1166
+msgctxt "再度入手した装飾品は星の石に変換されます。"
+msgid "json|lobby/treasure|4|2|2|4|3|0"
+msgstr "再度入手した装飾品は星の石に変換されます。"
+
+#: translate_json.csv:1163
+msgctxt "雀士キャラクター提供確率:5％"
+msgid "json|lobby/treasure|4|2|2|4|2"
+msgstr "雀士キャラクター提供確率:5％"
+
+#: translate_json.csv:1162
+msgctxt "（信仰）が入手できます。"
+msgid "json|lobby/treasure|4|2|2|4|1"
+msgstr "（信仰）が入手できます。"
+
+#: translate_json.csv:1161
+msgctxt "1回祈願するたびに1点"
+msgid "json|lobby/treasure|4|2|2|4|0"
+msgstr "1回祈願するたびに1点"
+
+#: translate_json.csv:1131
+msgctxt "使用寻觅辉石10连寻觅，至少会获得一个紫色礼物"
+msgid "json|lobby/treasure|4|2|2|0|5"
+msgstr "使用寻觅辉石10连寻觅，至少会获得一个紫色礼物"
+
+#: translate_json.csv:1130
+msgctxt "礼物概率：80%"
+msgid "json|lobby/treasure|4|2|2|0|4"
+msgstr "礼物概率：80%"
+
+#: translate_json.csv:1129
+msgctxt "重复获取的装扮将转换为星之石"
+msgid "json|lobby/treasure|4|2|2|0|3|0"
+msgstr "重复获取的装扮将转换为星之石"
+
+#: translate_json.csv:1128
+msgctxt "装扮概率：15%"
+msgid "json|lobby/treasure|4|2|2|0|3"
+msgstr "装扮概率：15%"
+
+#: translate_json.csv:1127
+msgctxt "重复获取的雀士将转换为许愿石"
+msgid "json|lobby/treasure|4|2|2|0|2|0"
+msgstr "重复获取的雀士将转换为许愿石"
+
+#: translate_json.csv:1126
+msgctxt "雀士概率：5%"
+msgid "json|lobby/treasure|4|2|2|0|2"
+msgstr "雀士概率：5%"
+
+#: translate_json.csv:1125
+msgctxt "(信仰)，同时有可能获得全新的雀士及各种装扮"
+msgid "json|lobby/treasure|4|2|2|0|1"
+msgstr "(信仰)，同时有可能获得全新的雀士及各种装扮"
+
+#: translate_json.csv:1124
+msgctxt "每次寻觅都可以获得1点"
+msgid "json|lobby/treasure|4|2|2|0|0"
+msgstr "每次寻觅都可以获得1点"
+
+#: translate_json.csv:1100
+msgctxt "5"
+msgid "json|lobby/sushe_select_en|0|2|1|4|1"
+msgstr "5"
+
+#: translate_json.csv:1099
+msgctxt "4"
+msgid "json|lobby/sushe_select_en|0|2|1|3|1"
+msgstr "4"
+
+#: translate_json.csv:1098
+msgctxt "3"
+msgid "json|lobby/sushe_select_en|0|2|1|2|1"
+msgstr "3"
+
+#: translate_json.csv:1097
+msgctxt "2"
+msgid "json|lobby/sushe_select_en|0|2|1|1|1"
+msgstr "2"
+
+#: translate_json.csv:1096
+msgctxt "1"
+msgid "json|lobby/sushe_select_en|0|2|1|0|1"
+msgstr "1"
+
+#: translate_json.csv:1087
+msgctxt "5"
+msgid "json|lobby/sushe_select|0|2|1|4|1"
+msgstr "5"
+
+#: translate_json.csv:1086
+msgctxt "4"
+msgid "json|lobby/sushe_select|0|2|1|3|1"
+msgstr "4"
+
+#: translate_json.csv:1085
+msgctxt "3"
+msgid "json|lobby/sushe_select|0|2|1|2|1"
+msgstr "3"
+
+#: translate_json.csv:1084
+msgctxt "2"
+msgid "json|lobby/sushe_select|0|2|1|1|1"
+msgstr "2"
+
+#: translate_json.csv:1083
+msgctxt "1"
+msgid "json|lobby/sushe_select|0|2|1|0|1"
+msgstr "1"
+
+#: translate_json.csv:992
+msgctxt "1"
+msgid "json|lobby/playerinfo_en|1|5|7|1|2|9"
+msgstr "1"
+
+#: translate_json.csv:990
+msgctxt "2"
+msgid "json|lobby/playerinfo_en|1|5|7|1|2|8"
+msgstr "2"
+
+#: translate_json.csv:988
+msgctxt "3"
+msgid "json|lobby/playerinfo_en|1|5|7|1|2|7"
+msgstr "3"
+
+#: translate_json.csv:986
+msgctxt "4"
+msgid "json|lobby/playerinfo_en|1|5|7|1|2|6"
+msgstr "4"
+
+#: translate_json.csv:970
+msgctxt "/"
+msgid "json|lobby/playerinfo_en|1|5|0|5|2"
+msgstr "/"
+
+#: translate_json.csv:925
+msgctxt "1"
+msgid "json|lobby/playerinfo|1|5|7|1|2|9"
+msgstr "1"
+
+#: translate_json.csv:923
+msgctxt "2"
+msgid "json|lobby/playerinfo|1|5|7|1|2|8"
+msgstr "2"
+
+#: translate_json.csv:921
+msgctxt "3"
+msgid "json|lobby/playerinfo|1|5|7|1|2|7"
+msgstr "3"
+
+#: translate_json.csv:919
+msgctxt "4"
+msgid "json|lobby/playerinfo|1|5|7|1|2|6"
+msgstr "4"
+
+#: translate_json.csv:903
+msgctxt "/"
+msgid "json|lobby/playerinfo|1|5|0|5|2"
+msgstr "/"
+
+#: translate_json.csv:878
+msgctxt "American Express\\n4-digit Card Verification Number"
+msgid "json|lobby/payment/creditcard|2|0|6"
+msgstr ""
+"American Express\\n"
+"4자리 카드 확인 번호"
+
+#: translate_json.csv:877
+msgctxt "Discover,MasterCard,Visa\\n3-digit Card Verification Number"
+msgid "json|lobby/payment/creditcard|2|0|5"
+msgstr ""
+"Discover,MasterCard,Visa\\n"
+"3자리 카드 확인 번호"
+
+#: translate_json.csv:876
+msgctxt "Security Code"
+msgid "json|lobby/payment/creditcard|2|0|4"
+msgstr "보안 코드"
+
+#: translate_json.csv:875
+msgctxt "Confirm"
+msgid "json|lobby/payment/creditcard|2|0|3|1"
+msgstr "확인"
+
+#: translate_json.csv:874
+msgctxt "Confirm And Pay"
+msgid "json|lobby/payment/creditcard|0|6|1"
+msgstr "확인 및 지불"
+
+#: translate_json.csv:873
+msgctxt "Please enter a 3 or 4 digits CVV2/CSC Code"
+msgid "json|lobby/payment/creditcard|0|5|3"
+msgstr "3~4자리 CVV2/CSC 코드를 입력해주세요"
+
+#: translate_json.csv:872
+msgctxt "Security Code"
+msgid "json|lobby/payment/creditcard|0|5|0"
+msgstr "보안 코드"
+
+#: translate_json.csv:871
+msgctxt "Please select a year"
+msgid "json|lobby/payment/creditcard|0|4|4"
+msgstr "년을 선택해주세요"
+
+#: translate_json.csv:870
+msgctxt "Please select a month"
+msgid "json|lobby/payment/creditcard|0|4|3"
+msgstr "월을 선택해주세요"
+
+#: translate_json.csv:869
+msgctxt "Year"
+msgid "json|lobby/payment/creditcard|0|4|2|0"
+msgstr "년"
+
+#: translate_json.csv:868
+msgctxt "Month"
+msgid "json|lobby/payment/creditcard|0|4|1|0"
+msgstr "월"
+
+#: translate_json.csv:867
+msgctxt "Expiry Date"
+msgid "json|lobby/payment/creditcard|0|4|0"
+msgstr "유효 기간"
+
+#: translate_json.csv:866
+msgctxt "Card number ranges from 14 digits to 16 digits"
+msgid "json|lobby/payment/creditcard|0|3|3"
+msgstr "카드 번호는 14~16자리 숫자입니다"
+
+#: translate_json.csv:865
+msgctxt "Card Number"
+msgid "json|lobby/payment/creditcard|0|3|1"
+msgstr "카드 번호"
+
+#: translate_json.csv:864
+msgctxt "Credit Card"
+msgid "json|lobby/payment/creditcard|0|2"
+msgstr "신용카드"
+
+#: translate_json.csv:863
+msgctxt "VIP Point:"
+msgid "json|lobby/payment/choose_method_en|0|8"
+msgstr "VIP 포인트:"
+
+#: translate_json.csv:862
+msgctxt "Price:"
+msgid "json|lobby/payment/choose_method_en|0|6"
+msgstr "가격:"
+
+#: translate_json.csv:861
+msgctxt "Item:"
+msgid "json|lobby/payment/choose_method_en|0|4"
+msgstr "아이템:"
+
+#: translate_json.csv:860
+msgctxt "Choose a payment method"
+msgid "json|lobby/payment/choose_method_en|0|3"
+msgstr "결제 방법을 선택해주세요"
+
+#: translate_json.csv:858
+msgctxt "支付宝"
+msgid "json|lobby/payment/choose_method_chs|0|9|1|0|1"
+msgstr "支付宝"
+
+#: translate_json.csv:855
+msgctxt "680.00元"
+msgid "json|lobby/payment/choose_method_chs|0|7"
+msgstr "680.00元"
+
+#: translate_json.csv:854
+msgctxt "应付金额："
+msgid "json|lobby/payment/choose_method_chs|0|6"
+msgstr "应付金额："
+
+#: translate_json.csv:853
+msgctxt "6800辉玉"
+msgid "json|lobby/payment/choose_method_chs|0|5"
+msgstr "6800辉玉"
+
+#: translate_json.csv:852
+msgctxt "商品名称："
+msgid "json|lobby/payment/choose_method_chs|0|4"
+msgstr "商品名称："
+
+#: translate_json.csv:850
+msgctxt "VIP Point:"
+msgid "json|lobby/payment/buy_yueka_en|0|10"
+msgstr "VIP 포인트:"
+
+#: translate_json.csv:849
+msgctxt "Price:"
+msgid "json|lobby/payment/buy_yueka_en|0|8"
+msgstr "가격:"
+
+#: translate_json.csv:848
+msgctxt "Description"
+msgid "json|lobby/payment/buy_yueka_en|0|6"
+msgstr "설명"
+
+#: translate_json.csv:847
+msgctxt "Item:"
+msgid "json|lobby/payment/buy_yueka_en|0|4"
+msgstr "아이템:"
+
+#: translate_json.csv:846
+msgctxt "Choose a payment method"
+msgid "json|lobby/payment/buy_yueka_en|0|3"
+msgstr "결제 방법을 선택해주세요"
+
+#: translate_json.csv:845
+msgctxt "支付宝扫码"
+msgid "json|lobby/payment/buy_yueka_chs|0|11|2|0|1"
+msgstr "支付宝扫码"
+
+#: translate_json.csv:844
+msgctxt "支付宝"
+msgid "json|lobby/payment/buy_yueka_chs|0|11|1|0|1"
+msgstr "支付宝"
+
+#: translate_json.csv:843
+msgctxt "微信"
+msgid "json|lobby/payment/buy_yueka_chs|0|11|0|0|1"
+msgstr "微信"
+
+#: translate_json.csv:842
+msgctxt "支付疑问请加 QQ：951307369"
+msgid "json|lobby/payment/buy_yueka_chs|0|10"
+msgstr "支付疑问请加 QQ：951307369"
+
+#: translate_json.csv:841
+msgctxt "680.00元"
+msgid "json|lobby/payment/buy_yueka_chs|0|9"
+msgstr "680.00元"
+
+#: translate_json.csv:840
+msgctxt "应付金额："
+msgid "json|lobby/payment/buy_yueka_chs|0|8"
+msgstr "应付金额："
+
+#: translate_json.csv:837
+msgctxt "6800辉玉"
+msgid "json|lobby/payment/buy_yueka_chs|0|5"
+msgstr "6800辉玉"
+
+#: translate_json.csv:836
+msgctxt "商品名称："
+msgid "json|lobby/payment/buy_yueka_chs|0|4"
+msgstr "商品名称："
+
+#: translate_json.csv:835
+msgctxt "选择支付方式"
+msgid "json|lobby/payment/buy_yueka_chs|0|3"
+msgstr "选择支付方式"
+
+#: translate_json.csv:817
+msgctxt "4"
+msgid "json|lobby/paipu|1|4|0|4|1"
+msgstr "4"
+
+#: translate_json.csv:815
+msgctxt "3"
+msgid "json|lobby/paipu|1|4|0|3|1"
+msgstr "3"
+
+#: translate_json.csv:813
+msgctxt "2"
+msgid "json|lobby/paipu|1|4|0|2|1"
+msgstr "2"
+
+#: translate_json.csv:811
+msgctxt "1"
+msgid "json|lobby/paipu|1|4|0|1|1"
+msgstr "1"
+
+#: translate_json.csv:809
+msgctxt "1/23 14:00 - 1/28 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_jp|1|3"
+msgstr "1/23 14:00 - 1/28 13:59 (UTC-7)"
+
+#: translate_json.csv:806
+msgctxt "1/23 14:00 - 1/28 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_en|1|3"
+msgstr "1/23 14:00 - 1/28 13:59 (UTC-7)"
+
+#: translate_json.csv:803
+msgctxt "1/23 14:00 - 1/28 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_chs|1|3"
+msgstr "1/23 14:00 - 1/28 13:59 (UTC-7)"
+
+#: translate_json.csv:794
+msgctxt "0"
+msgid "json|lobby/number_input|0|6|10|1"
+msgstr "0"
+
+#: translate_json.csv:792
+msgctxt "9"
+msgid "json|lobby/number_input|0|6|8|1"
+msgstr "9"
+
+#: translate_json.csv:791
+msgctxt "8"
+msgid "json|lobby/number_input|0|6|7|1"
+msgstr "8"
+
+#: translate_json.csv:790
+msgctxt "7"
+msgid "json|lobby/number_input|0|6|6|1"
+msgstr "7"
+
+#: translate_json.csv:789
+msgctxt "6"
+msgid "json|lobby/number_input|0|6|5|1"
+msgstr "6"
+
+#: translate_json.csv:788
+msgctxt "5"
+msgid "json|lobby/number_input|0|6|4|1"
+msgstr "5"
+
+#: translate_json.csv:787
+msgctxt "4"
+msgid "json|lobby/number_input|0|6|3|1"
+msgstr "4"
+
+#: translate_json.csv:786
+msgctxt "3"
+msgid "json|lobby/number_input|0|6|2|1"
+msgstr "3"
+
+#: translate_json.csv:785
+msgctxt "2"
+msgid "json|lobby/number_input|0|6|1|1"
+msgstr "2"
+
+#: translate_json.csv:784
+msgctxt "1"
+msgid "json|lobby/number_input|0|6|0|1"
+msgstr "1"
+
+#: translate_json.csv:765
+msgctxt "9999"
+msgid "json|lobby/match_ticket|0|5|0"
+msgstr "9999"
+
+#: translate_json.csv:761
+msgctxt "99999"
+msgid "json|lobby/match_ticket|0|3|0|0"
+msgstr "99999"
+
+#: translate_json.csv:760
+msgctxt "消耗"
+msgid "json|lobby/match_ticket|0|3|0"
+msgstr "消耗"
+
+#: translate_json.csv:755
+msgctxt "×999999"
+msgid "json|lobby/match_shilian|1|0|4|0|1|4|0|1"
+msgstr "×999999"
+
+#: translate_json.csv:752
+msgctxt "×999999"
+msgid "json|lobby/match_shilian|1|0|3|0|1|4|0|1"
+msgstr "×999999"
+
+#: translate_json.csv:751
+msgctxt "返点 99999"
+msgid "json|lobby/match_shilian|1|0|3|0|1|2"
+msgstr "返点 99999"
+
+#: translate_json.csv:750
+msgctxt "起点 99999"
+msgid "json|lobby/match_shilian|1|0|3|0|1|1"
+msgstr "起点 99999"
+
+#: translate_json.csv:749
+msgctxt "×999999"
+msgid "json|lobby/match_shilian|1|0|2|0|1|4|0|1"
+msgstr "×999999"
+
+#: translate_json.csv:748
+msgctxt "返点 99999"
+msgid "json|lobby/match_shilian|1|0|2|0|1|2"
+msgstr "返点 99999"
+
+#: translate_json.csv:747
+msgctxt "起点 99999"
+msgid "json|lobby/match_shilian|1|0|2|0|1|1"
+msgstr "起点 99999"
+
+#: translate_json.csv:746
+msgctxt "×999999"
+msgid "json|lobby/match_shilian|1|0|1|0|1|4|0|1"
+msgstr "×999999"
+
+#: translate_json.csv:745
+msgctxt "返点 99999"
+msgid "json|lobby/match_shilian|1|0|1|0|1|2"
+msgstr "返点 99999"
+
+#: translate_json.csv:744
+msgctxt "起点 99999"
+msgid "json|lobby/match_shilian|1|0|1|0|1|1"
+msgstr "起点 99999"
+
+#: translate_json.csv:743
+msgctxt "×999999"
+msgid "json|lobby/match_shilian|1|0|0|0|1|3|0|1"
+msgstr "×999999"
+
+#: translate_json.csv:742
+msgctxt "返点 99999"
+msgid "json|lobby/match_shilian|1|0|0|0|1|2"
+msgstr "返点 99999"
+
+#: translate_json.csv:741
+msgctxt "起点 99999"
+msgid "json|lobby/match_shilian|1|0|0|0|1|1"
+msgstr "起点 99999"
+
+#: translate_json.csv:739
+msgctxt "9999999"
+msgid "json|lobby/match_shilian|0|2|2"
+msgstr "9999999"
+
+#: translate_json.csv:722
+msgctxt "4"
+msgid "json|lobby/match_room|1|3|1|0|4|1"
+msgstr "4"
+
+#: translate_json.csv:720
+msgctxt "3"
+msgid "json|lobby/match_room|1|3|1|0|3|1"
+msgstr "3"
+
+#: translate_json.csv:718
+msgctxt "2"
+msgid "json|lobby/match_room|1|3|1|0|2|1"
+msgstr "2"
+
+#: translate_json.csv:716
+msgctxt "1"
+msgid "json|lobby/match_room|1|3|1|0|1|1"
+msgstr "1"
+
+#: translate_json.csv:605
+msgctxt "四暗刻"
+msgid "json|lobby/create_room|0|0|1|3|4|0"
+msgstr "四暗刻"
+
+#: translate_json.csv:603
+msgctxt "国士无双"
+msgid "json|lobby/create_room|0|0|1|3|2|0"
+msgstr "国士无双"
+
+#: translate_json.csv:602
+msgctxt "正常"
+msgid "json|lobby/create_room|0|0|1|3|1|0"
+msgstr "正常"
+
+#: translate_json.csv:601
+msgctxt "300+0s"
+msgid "json|lobby/create_room|0|0|1|2|5|0"
+msgstr "300+0s"
+
+#: translate_json.csv:581
+msgctxt "Free Jade:"
+msgid "json|lobby/checkhuiyu|0|5"
+msgstr "무료 휘옥:"
+
+#: translate_json.csv:551
+msgctxt "円"
+msgid "json|lobby/agexiane|0|0|4"
+msgstr "円"
+
+#: translate_json.csv:550
+msgctxt "20000"
+msgid "json|lobby/agexiane|0|0|3"
+msgstr "20000"
+
+#: translate_json.csv:547
+msgctxt "確認"
+msgid "json|lobby/agesuccess|0|0|4|0"
+msgstr "確認"
+
+#: translate_json.csv:545
+msgctxt "年齢認証"
+msgid "json|lobby/agesuccess|0|0|2"
+msgstr "年齢認証"
+
+#: translate_json.csv:543
+msgctxt "2001"
+msgid "json|lobby/agepending_chs|0|1|1|2|0|0|1"
+msgstr "2001"
+
+#: translate_json.csv:537
+msgctxt "月"
+msgid "json|lobby/agepending_chs|0|0|0|7"
+msgstr "月"
+
+#: translate_json.csv:536
+msgctxt "年"
+msgid "json|lobby/agepending_chs|0|0|0|6"
+msgstr "年"
+
+#: translate_json.csv:531
+msgctxt "2001"
+msgid "json|lobby/agepending|0|1|2|2|0|0|1"
+msgstr "2001"
+
+#: translate_json.csv:530
+msgctxt "2001"
+msgid "json|lobby/agepending|0|1|1|2|0|0|1"
+msgstr "2001"
+
+#: translate_json.csv:529
+msgctxt "请选择年份"
+msgid "json|lobby/agepending|0|0|6"
+msgstr "请选择年份"
+
+#: translate_json.csv:528
+msgctxt "请选择月份"
+msgid "json|lobby/agepending|0|0|5"
+msgstr "请选择月份"
+
+#: translate_json.csv:527
+msgctxt "確認"
+msgid "json|lobby/agepending|0|0|3|0"
+msgstr "確認"
+
+#: translate_json.csv:526
+msgctxt "月"
+msgid "json|lobby/agepending|0|0|2|0"
+msgstr "月"
+
+#: translate_json.csv:525
+msgctxt "年"
+msgid "json|lobby/agepending|0|0|1|0"
+msgstr "年"
+
+#: translate_json.csv:523
+msgctxt "月"
+msgid "json|lobby/agepending|0|0|0|14"
+msgstr "月"
+
+#: translate_json.csv:522
+msgctxt "年"
+msgid "json|lobby/agepending|0|0|0|13"
+msgstr "年"
+
+#: translate_json.csv:521
+msgctxt "生年月"
+msgid "json|lobby/agepending|0|0|0|12"
+msgstr "生年月"
+
+#: translate_json.csv:511
+msgctxt "年齢認証"
+msgid "json|lobby/agepending|0|0|0|2"
+msgstr "年齢認証"
+
+#: translate_json.csv:510
+msgctxt "確認"
+msgid "json|lobby/ageconfirm|0|0|7|0"
+msgstr "確認"
+
+#: translate_json.csv:509
+msgctxt "20000"
+msgid "json|lobby/ageconfirm|0|0|6"
+msgstr "20000"
+
+#: translate_json.csv:506
+msgctxt "年齢認証"
+msgid "json|lobby/ageconfirm|0|0|2"
+msgstr "年齢認証"
+
+#: translate_json.csv:505
+msgctxt "0"
+msgid "json|lobby/add_room|0|6|10|1"
+msgstr "0"
+
+#: translate_json.csv:503
+msgctxt "9"
+msgid "json|lobby/add_room|0|6|8|1"
+msgstr "9"
+
+#: translate_json.csv:502
+msgctxt "8"
+msgid "json|lobby/add_room|0|6|7|1"
+msgstr "8"
+
+#: translate_json.csv:501
+msgctxt "7"
+msgid "json|lobby/add_room|0|6|6|1"
+msgstr "7"
+
+#: translate_json.csv:500
+msgctxt "6"
+msgid "json|lobby/add_room|0|6|5|1"
+msgstr "6"
+
+#: translate_json.csv:499
+msgctxt "5"
+msgid "json|lobby/add_room|0|6|4|1"
+msgstr "5"
+
+#: translate_json.csv:498
+msgctxt "4"
+msgid "json|lobby/add_room|0|6|3|1"
+msgstr "4"
+
+#: translate_json.csv:497
+msgctxt "3"
+msgid "json|lobby/add_room|0|6|2|1"
+msgstr "3"
+
+#: translate_json.csv:496
+msgctxt "2"
+msgid "json|lobby/add_room|0|6|1|1"
+msgstr "2"
+
+#: translate_json.csv:495
+msgctxt "1"
+msgid "json|lobby/add_room|0|6|0|1"
+msgstr "1"
+
+#: translate_json.csv:487
+msgctxt "超级巧克力"
+msgid "json|lobby/activitys/sign|8|2|1"
+msgstr "超级巧克力"
+
+#: translate_json.csv:486
+msgctxt "999999"
+msgid "json|lobby/activitys/sign|8|2|0"
+msgstr "999999"
+
+#: translate_json.csv:484
+msgctxt "超级巧克力"
+msgid "json|lobby/activitys/sign|7|2|1"
+msgstr "超级巧克力"
+
+#: translate_json.csv:483
+msgctxt "999999"
+msgid "json|lobby/activitys/sign|7|2|0"
+msgstr "999999"
+
+#: translate_json.csv:481
+msgctxt "超级巧克力"
+msgid "json|lobby/activitys/sign|6|2|1"
+msgstr "超级巧克力"
+
+#: translate_json.csv:480
+msgctxt "999999"
+msgid "json|lobby/activitys/sign|6|2|0"
+msgstr "999999"
+
+#: translate_json.csv:478
+msgctxt "超级巧克力"
+msgid "json|lobby/activitys/sign|5|2|1"
+msgstr "超级巧克力"
+
+#: translate_json.csv:477
+msgctxt "999999"
+msgid "json|lobby/activitys/sign|5|2|0"
+msgstr "999999"
+
+#: translate_json.csv:475
+msgctxt "超级巧克力"
+msgid "json|lobby/activitys/sign|4|2|1"
+msgstr "超级巧克力"
+
+#: translate_json.csv:474
+msgctxt "999999"
+msgid "json|lobby/activitys/sign|4|2|0"
+msgstr "999999"
+
+#: translate_json.csv:472
+msgctxt "超级巧克力"
+msgid "json|lobby/activitys/sign|3|2|1"
+msgstr "超级巧克力"
+
+#: translate_json.csv:471
+msgctxt "999999"
+msgid "json|lobby/activitys/sign|3|2|0"
+msgstr "999999"
+
+#: translate_json.csv:459
+msgctxt "立直、门前清自摸和、平和、一杯口"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|11|2"
+msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: translate_json.csv:458
+msgctxt "红灯笼×1"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|11|0"
+msgstr "红灯笼×1"
+
+#: translate_json.csv:457
+msgctxt "立直、门前清自摸和、平和、一杯口"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|10|2"
+msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: translate_json.csv:456
+msgctxt "红灯笼×1"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|10|0"
+msgstr "红灯笼×1"
+
+#: translate_json.csv:455
+msgctxt "立直、门前清自摸和、平和、一杯口"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|9|2"
+msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: translate_json.csv:454
+msgctxt "红灯笼×1"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|9|0"
+msgstr "红灯笼×1"
+
+#: translate_json.csv:448
+msgctxt "立直、门前清自摸和、平和、一杯口"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|12|2"
+msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: translate_json.csv:447
+msgctxt "红灯笼×1"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|12|0"
+msgstr "红灯笼×1"
+
+#: translate_json.csv:446
+msgctxt "立直、门前清自摸和、平和、一杯口"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|11|2"
+msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: translate_json.csv:445
+msgctxt "红灯笼×1"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|11|0"
+msgstr "红灯笼×1"
+
+#: translate_json.csv:444
+msgctxt "立直、门前清自摸和、平和、一杯口"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|10|2"
+msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: translate_json.csv:443
+msgctxt "红灯笼×1"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|10|0"
+msgstr "红灯笼×1"
+
+#: translate_json.csv:442
+msgctxt "立直、门前清自摸和、平和、一杯口"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|9|2"
+msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: translate_json.csv:441
+msgctxt "红灯笼×1"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|9|0"
+msgstr "红灯笼×1"
+
+#: translate_json.csv:440
+msgctxt "/30"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|7"
+msgstr "/30"
+
+#: translate_json.csv:439
+msgctxt "15"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|6"
+msgstr "15"
+
+#: translate_json.csv:438
+msgctxt "今日获得"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|5"
+msgstr "今日获得"
+
+#: translate_json.csv:437
+msgctxt "对局中每次达成特定番型都可获得红灯笼"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|4"
+msgstr "对局中每次达成特定番型都可获得红灯笼"
+
+#: translate_json.csv:436
+msgctxt "风铃"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|3"
+msgstr "风铃"
+
+#: translate_json.csv:435
+msgctxt "立直、门前清自摸和、平和、一杯口"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|12|2"
+msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: translate_json.csv:434
+msgctxt "红灯笼×1"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|12|0"
+msgstr "红灯笼×1"
+
+#: translate_json.csv:433
+msgctxt "立直、门前清自摸和、平和、一杯口"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|11|2"
+msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: translate_json.csv:432
+msgctxt "红灯笼×1"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|11|0"
+msgstr "红灯笼×1"
+
+#: translate_json.csv:431
+msgctxt "立直、门前清自摸和、平和、一杯口"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|10|2"
+msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: translate_json.csv:430
+msgctxt "红灯笼×1"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|10|0"
+msgstr "红灯笼×1"
+
+#: translate_json.csv:429
+msgctxt "立直、门前清自摸和、平和、一杯口"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|9|2"
+msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: translate_json.csv:428
+msgctxt "红灯笼×1"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|9|0"
+msgstr "红灯笼×1"
+
+#: translate_json.csv:427
+msgctxt "/30"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|7"
+msgstr "/30"
+
+#: translate_json.csv:426
+msgctxt "15"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|6"
+msgstr "15"
+
+#: translate_json.csv:425
+msgctxt "今日获得"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|5"
+msgstr "今日获得"
+
+#: translate_json.csv:424
+msgctxt "对局中每次达成特定番型都可获得红灯笼"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|4"
+msgstr "对局中每次达成特定番型都可获得红灯笼"
+
+#: translate_json.csv:423
+msgctxt "风铃"
+msgid "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|3"
+msgstr "风铃"
+
+#: translate_json.csv:418
+msgctxt "七对子"
+msgid "json|lobby/activitys/activity_task_newyear|0|0|1|1|7|2"
+msgstr "七对子"
+
+#: translate_json.csv:416
+msgctxt "立直、门前清自摸和、平和、一杯口"
+msgid "json|lobby/activitys/activity_task_newyear|0|0|1|1|6|2"
+msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: translate_json.csv:415
+msgctxt "红灯笼×1"
+msgid "json|lobby/activitys/activity_task_newyear|0|0|1|1|6|0"
+msgstr "红灯笼×1"
+
+#: translate_json.csv:412
+msgctxt "对局中每次达成特定番型都可获得红灯笼"
+msgid "json|lobby/activitys/activity_task_newyear|0|0|1|1|3"
+msgstr "对局中每次达成特定番型都可获得红灯笼"
+
+#: translate_json.csv:387
+msgctxt "确定"
+msgid "json|entrance/reset_password_phone2|0|2|0"
+msgstr "确定"
+
+#: translate_json.csv:382
+msgctxt "确定"
+msgid "json|entrance/reset_password|0|0|2|0|0"
+msgstr "确定"
+
+#: translate_json.csv:377
+msgctxt "重置密码"
+msgid "json|entrance/reset_password|0|0|1|2"
+msgstr "重置密码"
+
+#: translate_json.csv:361
+msgctxt "发送验证码"
+msgid "json|entrance/mail_regist|0|0|10|0"
+msgstr "发送验证码"
+
+#: translate_json.csv:345
+msgctxt "、"
+msgid "json|entrance/entrance|2|0|5|3|1"
+msgstr "、"
+
+#: translate_json.csv:299
+msgctxt "/"
+msgid "json|common/loading|5|1"
+msgstr "/"
+
+#: translate_json.csv:285
+msgctxt "发送验证码"
+msgid "json|common/bind_phone1|0|5|0"
+msgstr "发送验证码"
+
+#: translate_sheet.csv:1088
+msgctxt ""
+"A gorgeous, elegant-looking dress. Give it to a character to increase your "
+"Bond with him/her by 5000 points. Characters who love dresses will receive "
+"bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1088"
+msgstr ""
+"화려하고 우아한 드레스입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 드레스를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1087
+msgctxt "Gorgeous Dress"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1087"
+msgstr "화려한 드레스"
+
+#: translate_sheet.csv:1086
+msgctxt ""
+"A mid-range female dress. Looks quite good. Give it to a character to "
+"increase your Bond with him/her by 1000 points. Characters who love dresses "
+"will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1086"
+msgstr ""
+"중급 여성용 드레스입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 드레스를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1085
+msgctxt "Normal Dress"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1085"
+msgstr "평범한 드레스"
+
+#: translate_sheet.csv:1082
+msgctxt ""
+"A beautifully designed and printed fanzine. Give it to a character to "
+"increase your Bond with him/her by 5000 points. Characters who love fanzines"
+" will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1082"
+msgstr ""
+"고급스럽게 제본된 동인지입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 동인지를 좋아하는 캐릭터에게는 추가 인연 "
+"포인트가 주어집니다."
+
+#: translate_sheet.csv:1080
+msgctxt ""
+"A poorly printed fanzine. Give it to a character to increase your Bond with "
+"him/her by 1000 points. Characters who love fanzines will receive bonus Bond"
+" points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1080"
+msgstr ""
+"간단하게 만들어진 동인지입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 동인지를 좋아하는 캐릭터에게는 추가 인연 "
+"포인트가 주어집니다."
+
+#: translate_sheet.csv:1078
+msgctxt ""
+"You can get this free booklet at comicons. Give it to a character to "
+"increase your Bond with him/her by 200 points. Characters who love fanzines "
+"will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1078"
+msgstr ""
+"코미케에서 무료로 받을 수 있는 책자입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 동인지를 좋아하는 캐릭터에게는 추가 "
+"인연 포인트가 주어집니다."
+
+#: translate_sheet.csv:1084
+msgctxt ""
+"Common female dress. Give it to a character to increase your Bond with "
+"him/her by 200 points. Characters who love dresses will receive bonus Bond "
+"points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1084"
+msgstr ""
+"일반적인 여성용 드레스입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 드레스를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1083
+msgctxt "Simple Dress"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1083"
+msgstr "심플 드레스"
+
+#: translate_sheet.csv:1081
+msgctxt "Delicate Fanzine"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1081"
+msgstr "훌륭한 동인지"
+
+#: translate_json.csv:193
+msgctxt "1"
+msgid "json|both_ui/otherplayerinfo_en|0|2|6|1|2|9"
+msgstr "1"
+
+#: translate_json.csv:191
+msgctxt "2"
+msgid "json|both_ui/otherplayerinfo_en|0|2|6|1|2|8"
+msgstr "2"
+
+#: translate_json.csv:189
+msgctxt "3"
+msgid "json|both_ui/otherplayerinfo_en|0|2|6|1|2|7"
+msgstr "3"
+
+#: translate_json.csv:187
+msgctxt "4"
+msgid "json|both_ui/otherplayerinfo_en|0|2|6|1|2|6"
+msgstr "4"
+
+#: translate_json.csv:173
+msgctxt "/"
+msgid "json|both_ui/otherplayerinfo_en|0|2|4|5|2"
+msgstr "/"
+
+#: translate_json.csv:124
+msgctxt "1"
+msgid "json|both_ui/otherplayerinfo|0|2|6|1|2|9"
+msgstr "1"
+
+#: translate_json.csv:122
+msgctxt "2"
+msgid "json|both_ui/otherplayerinfo|0|2|6|1|2|8"
+msgstr "2"
+
+#: translate_json.csv:120
+msgctxt "3"
+msgid "json|both_ui/otherplayerinfo|0|2|6|1|2|7"
+msgstr "3"
+
+#: translate_json.csv:118
+msgctxt "4"
+msgid "json|both_ui/otherplayerinfo|0|2|6|1|2|6"
+msgstr "4"
+
+#: translate_json.csv:104
+msgctxt "/"
+msgid "json|both_ui/otherplayerinfo|0|2|4|5|2"
+msgstr "/"
+
+#: translate_json.csv:100
+msgctxt "GO"
+msgid "json|both_ui/itemdetail|0|7|6|1|0|0"
+msgstr "GO"
+
+#: translate_json.csv:99
+msgctxt "GO"
+msgid "json|both_ui/itemdetail|0|7|5|1|0|0"
+msgstr "GO"
+
+#: translate_json.csv:98
+msgctxt "GO"
+msgid "json|both_ui/itemdetail|0|7|4|1|0|0"
+msgstr "GO"
+
+#: translate_json.csv:97
+msgctxt "GO"
+msgid "json|both_ui/itemdetail|0|7|3|1|0|0"
+msgstr "GO"
+
+#: translate_json.csv:96
+msgctxt "GO"
+msgid "json|both_ui/itemdetail|0|7|2|1|0|0"
+msgstr "GO"
+
+#: translate_json.csv:66
+msgctxt "已绑定"
+msgid "json|both_ui/config|0|7|3|2|2|2|0"
+msgstr "已绑定"
+
+#: translate_json.csv:65
+msgctxt "（点击绑定）"
+msgid "json|both_ui/config|0|7|3|2|2|1|1"
+msgstr "（点击绑定）"
+
+#: translate_json.csv:64
+msgctxt "未验证"
+msgid "json|both_ui/config|0|7|3|2|2|1|0|0"
+msgstr "未验证"
+
+#: translate_json.csv:16
+msgctxt "1"
+msgid "json|both_ui/bind_phone0|0|10|0"
+msgstr "1"
+
+#: translate_json.csv:15
+msgctxt "手机号码："
+msgid "json|both_ui/bind_phone0|0|10"
+msgstr "手机号码："
+
+#: translate_json.csv:14
+msgctxt "绑定"
+msgid "json|both_ui/bind_phone0|0|8|0"
+msgstr "绑定"
+
+#: translate_json.csv:13
+msgctxt "发送验证码"
+msgid "json|both_ui/bind_phone0|0|7|0"
+msgstr "发送验证码"
+
+#: translate_json.csv:12
+msgctxt "绑定手机"
+msgid "json|both_ui/bind_phone0|0|2"
+msgstr "绑定手机"
+
+#: translate_json.csv:11
+msgctxt "28******@qq.com"
+msgid "json|both_ui/bind_mail1|0|8|0"
+msgstr "28******@qq.com"
+
+#: translate_json.csv:9
+msgctxt "绑定"
+msgid "json|both_ui/bind_mail1|0|6|0"
+msgstr "绑定"
+
+#: translate_json.csv:8
+msgctxt "发送验证码"
+msgid "json|both_ui/bind_mail1|0|5|0"
+msgstr "发送验证码"
+
+#: translate_json.csv:6
+msgctxt "28******@qq.com"
+msgid "json|both_ui/bind_mail0|0|10|0"
+msgstr "28******@qq.com"
+
+#: translate_json.csv:5
+msgctxt "邮箱地址:"
+msgid "json|both_ui/bind_mail0|0|10"
+msgstr "邮箱地址:"
+
+#: translate_json.csv:4
+msgctxt "绑定"
+msgid "json|both_ui/bind_mail0|0|8|0"
+msgstr "绑定"
+
+#: translate_json.csv:3
+msgctxt "发送验证码"
+msgid "json|both_ui/bind_mail0|0|7|0"
+msgstr "发送验证码"
+
+#: translate_json.csv:2
+msgctxt "绑定邮箱"
+msgid "json|both_ui/bind_mail0|0|2"
+msgstr "绑定邮箱"
