@@ -9,7 +9,7 @@ jobs:
     - name: Get majsoul version
       id: get-majsoul-version
       run: |
-        echo "::set-output name=json::$(curl https://mahjongsoul.game.yo-star.com/version.json)"
+        echo "::set-output name=json::$(curl https://mahjongsoul.game.yo-star.com/version.json | md5sum)"
 
     - name: Cache data
       uses: actions/cache@v2
