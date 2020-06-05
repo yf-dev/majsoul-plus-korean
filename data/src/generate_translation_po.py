@@ -5,6 +5,7 @@ import csv
 import re
 import polib
 from datetime import datetime
+from hashlib import md5
 lang = os.getenv('MAJSOUL_LANG', 'en')
 
 def main(translation_path):
@@ -35,7 +36,7 @@ def main(translation_path):
 
             entry = polib.POEntry(
                 msgctxt=target,
-                msgid=f'json|{path}',
+                msgid=f'json|{path}|{md5(target.encode()).hexdigest()}',
                 msgstr=translated,
                 occurrences=[('translate_json.csv', csv_reader.line_num)],
                 encoding='utf-8'
@@ -60,7 +61,7 @@ def main(translation_path):
 
             entry = polib.POEntry(
                 msgctxt=target,
-                msgid=f'sheet|{sheet_path}|{header}|{csv_reader.line_num}',
+                msgid=f'sheet|{sheet_path}|{header}|{md5(target.encode()).hexdigest()}',
                 msgstr=translated,
                 occurrences=[('translate_sheet.csv', csv_reader.line_num)],
                 encoding='utf-8'

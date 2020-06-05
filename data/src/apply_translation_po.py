@@ -7,6 +7,8 @@ import polib
 from datetime import datetime
 lang = os.getenv('MAJSOUL_LANG', 'en')
 
+HASH_LEN = 32
+
 def main(translation_path):
     translation_path = Path(translation_path)
 
@@ -30,7 +32,7 @@ def main(translation_path):
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(['location', 'source', 'target'])
         for entry in json_entries:
-            path = entry.msgid[len('json|'):]
+            path = entry.msgid[len('json|'):-(HASH_LEN + 1)]
             target = entry.msgctxt.replace('\\', '\\\\').replace('\n', '\\n')
             translated = entry.msgstr.replace('\\', '\\\\').replace('\n', '\\n')
             csv_writer.writerow([path, target, translated])
@@ -39,9 +41,9 @@ def main(translation_path):
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(['location', 'context', 'source', 'target'])
         for entry in sheet_entries:
-            full_path = entry.msgid[len('sheet|'):]
-            sheet_path = '|'.join(full_path.split('|')[:-2])
-            header = full_path.split('|')[-2]
+            full_path = entry.msgid[len('sheet|'):-(HASH_LEN + 1)]
+            sheet_path = '|'.join(full_path.split('|')[:-1])
+            header = full_path.split('|')[-1]
             target = entry.msgctxt.replace('\\', '\\\\').replace('\n', '\\n')
             translated = entry.msgstr.replace('\\', '\\\\').replace('\n', '\\n')
             csv_writer.writerow([sheet_path, header, target, translated])
