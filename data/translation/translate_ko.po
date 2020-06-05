@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-05 08:48+0000\n"
+"PO-Revision-Date: 2020-06-05 16:12+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -11119,7 +11119,7 @@ msgctxt ""
 " Bond points."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|dfcb614839dcb893e56adb2667ff579d"
 msgstr ""
-"강력한 게임기입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 게임기를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"고사양 게임기입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 게임기를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
 "주어집니다."
 
 #: translate_sheet.csv:1054
@@ -11641,7 +11641,7 @@ msgstr "휴대용 게임기"
 #: translate_sheet.csv:1594
 msgctxt "Wall Painting"
 msgid "sheet|ShopsZhpGoods.csv|name_en|000d7308f1335c873a5bc202f8449bf8"
-msgstr "벽화"
+msgstr "벽걸이 그림"
 
 #: translate_sheet.csv:1595
 msgctxt "Exquisite Wine Glass"
@@ -12902,7 +12902,7 @@ msgstr "고전 회화"
 #: translate_sheet.csv:1055
 msgctxt "Wall Painting"
 msgid "sheet|ItemDefinitionItem.csv|name_en|000d7308f1335c873a5bc202f8449bf8"
-msgstr "벽화"
+msgstr "벽걸이 그림"
 
 #: translate_sheet.csv:1053
 msgctxt "Simple Art"
@@ -12912,7 +12912,7 @@ msgstr "단순한 예술품"
 #: translate_sheet.csv:1051
 msgctxt "Powerful Console"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1e5ade7b828237fbfc1d16f39e278b88"
-msgstr "강력한 게임기"
+msgstr "고사양 게임기"
 
 #: translate_sheet.csv:1049
 msgctxt "Xwitch Console"
@@ -14543,13 +14543,13 @@ msgctxt ""
 "bonus Bond points."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|5978f16698c1ab957621ab933d57b81a"
 msgstr ""
-"화려하고 우아한 드레스입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 드레스를 좋아하는 캐릭터에게는 추가 인연 포인트가"
-" 주어집니다."
+"화려하고 우아한 옷입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 옷을 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
 
 #: translate_sheet.csv:1087
 msgctxt "Gorgeous Dress"
 msgid "sheet|ItemDefinitionItem.csv|name_en|b8c86e61dff0b367b7c19412f3fb24c3"
-msgstr "화려한 드레스"
+msgstr "화려한 의상"
 
 #: translate_sheet.csv:1086
 msgctxt ""
@@ -14558,13 +14558,13 @@ msgctxt ""
 "will receive bonus Bond points."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a6eac8e144acaccad8f2fdfcb4addc50"
 msgstr ""
-"중급 여성용 드레스입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 드레스를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"중간급 품질의 여성용 옷입니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 옷을 좋아하는 캐릭터에게는 추가 인연 포인트가 "
 "주어집니다."
 
 #: translate_sheet.csv:1085
 msgctxt "Normal Dress"
 msgid "sheet|ItemDefinitionItem.csv|name_en|09f75b3d49f21d370a24ecdf2c6a48b4"
-msgstr "평범한 드레스"
+msgstr "평범한 옷"
 
 #: translate_sheet.csv:1082
 msgctxt ""
@@ -14603,13 +14603,12 @@ msgctxt ""
 "points."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|c5ec767c9acc3e02a09b23dffc2d6902"
 msgstr ""
-"일반적인 여성용 드레스입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 드레스를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
-"주어집니다."
+"보통 여성용 옷입니다. 캐릭터에게 선물하면 인연 포인트가 200점 증가합니다. 옷을 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다."
 
 #: translate_sheet.csv:1083
 msgctxt "Simple Dress"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7789c0f9abc11bf7315cded1e59be69e"
-msgstr "심플 드레스"
+msgstr "단순한 옷"
 
 #: translate_sheet.csv:1081
 msgctxt "Delicate Fanzine"
@@ -15957,8 +15956,8 @@ msgctxt ""
 "will receive bonus Bond points."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|7101e5b91aae811b195d555eafe93c55"
 msgstr ""
-"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 드레스를 좋아하는 캐릭터에게는 추가 인연 포인트가"
-" 주어집니다."
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 옷을 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
 
 #: translate_sheet.csv:1108
 msgctxt ""
@@ -15967,8 +15966,8 @@ msgctxt ""
 "will receive bonus Bond points."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|be05e365469101174e070088c62d194a"
 msgstr ""
-"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 드레스를 좋아하는 캐릭터에게는 추가 인연 포인트가"
-" 주어집니다."
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 옷을 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
 
 #: translate_sheet.csv:1107
 msgctxt ""
@@ -16141,3 +16140,43 @@ msgstr "캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다
 msgctxt "Bonding Heart"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1e41c41ef8fdb0178767f1def64d4e37"
 msgstr "인연의 하트"
+
+#: translate_sheet.csv:1377
+msgctxt "Beach Party"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
+msgstr "비치 파티"
+
+#: translate_sheet.csv:1376
+msgctxt "Bond"
+msgid ""
+"sheet|ItemDefinitionSkin.csv|lock_tips_en|7a3b691731db2969498907b960183633"
+msgstr "인연"
+
+#: translate_sheet.csv:1375
+msgctxt ""
+"Available after making a Bonding Promise with Ichihime\\n\"Nyaa? Nyanyanya-"
+"nya! \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|5caf2f9a1046dd717ed677ea2b33bdce"
+msgstr ""
+"이치히메와 계약을 맺은 뒤 사용 가능\\n"
+"\"냐? 냥냐냐-냐!\""
+
+#: translate_sheet.csv:1374
+msgctxt "Bond"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|7a3b691731db2969498907b960183633"
+msgstr "인연"
+
+#: translate_sheet.csv:1373
+msgctxt "Ichihime’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|b60afd1b65f4c3d7b65e48894f98fb29"
+msgstr "이치히메의 기본 의상"
+
+#: translate_sheet.csv:1372
+msgctxt "Ichihime"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: translate_sheet.csv:1369
+msgctxt "Default Look"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|31aa19ddbc48e794f878057243ae30bc"
+msgstr "기본 의상"
