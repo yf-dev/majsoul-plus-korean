@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-04 15:56+0000\n"
+"PO-Revision-Date: 2020-06-05 08:48+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -5690,7 +5690,7 @@ msgstr "메이드의 커미션"
 #: translate_sheet.csv:34
 msgctxt "Sakura"
 msgid "sheet|AudioBgm.csv|name_en|34"
-msgstr "벛꽃"
+msgstr "벚꽃"
 
 #: translate_sheet.csv:36
 msgctxt "Midsummer"
@@ -10907,7 +10907,7 @@ msgstr "테이블보 - 수박"
 #: translate_sheet.csv:1210
 msgctxt "Tablecloth - Mahjong Ceremony"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1210"
-msgstr "테이블보 - 여름 축제"
+msgstr "테이블보 - 마작 축제"
 
 #: translate_sheet.csv:1214
 msgctxt "“Charge”"
@@ -10992,7 +10992,7 @@ msgstr "리치 봉 - 황금 아로와나"
 #: translate_sheet.csv:1251
 msgctxt "Riichi Bet - Crimson Thorns"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1251"
-msgstr "리치 봉 - 크림슨 가시"
+msgstr "리치 봉 - 크림슨 쏜"
 
 #: translate_sheet.csv:1253
 msgctxt "Tile Back - Bumpkin"
@@ -12771,7 +12771,7 @@ msgstr "테이블보 - 수박"
 #: translate_sheet.csv:103
 msgctxt "Tablecloth - Mahjong Ceremony"
 msgid "sheet|ChestChestShop.csv|name_en|103"
-msgstr "테이블보 - 여름 축제"
+msgstr "테이블보 - 마작 축제"
 
 #: translate_sheet.csv:102
 msgctxt "“Charge”"
@@ -14276,3 +14276,1367 @@ msgstr "发送验证码"
 msgctxt "绑定邮箱"
 msgid "json|both_ui/bind_mail0|0|2"
 msgstr "绑定邮箱"
+
+#: translate_sheet.csv:1368
+msgctxt "限时称号测试用"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1368"
+msgstr "限时称号测试用"
+
+#: translate_sheet.csv:1367
+msgctxt "限时称号测试用"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1367"
+msgstr "限时称号测试用"
+
+#: translate_sheet.csv:1366
+msgctxt "默认的手"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1366"
+msgstr "默认的手"
+
+#: translate_sheet.csv:1365
+msgctxt "手-默认"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1365"
+msgstr "手-默认"
+
+#: translate_sheet.csv:1364
+msgctxt "A limited-time emoji.Available until 12/26/2019 2:00 P.M. (UTC-7)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1364"
+msgstr "기간 한정 이모티콘. 2019/12/26 2:00 P.M. (UTC-7) 까지 사용 가능"
+
+#: translate_sheet.csv:1363
+msgctxt ""
+"A limited-time emoji for Halloween 2019. Available until 12/11/2019 2:00 "
+"P.M. (PDT)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1363"
+msgstr "2019 할로윈 기간 한정 이모티콘. 2019/12/11 2:00 P.M. (PDT) 까지 사용 가능"
+
+#: translate_sheet.csv:1362
+msgctxt "SURPRISE Emoji(Limited-time)"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1362"
+msgstr "서프라이즈 이모티콘(기간 한정)"
+
+#: translate_sheet.csv:1361
+msgctxt "A limited-time emoji. Available until 11/09/2019 2:00 P.M. (PDT)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1361"
+msgstr "기간 한정 이모티콘. 2019/11/09 2:00 P.M. (PDT) 까지 사용 가능"
+
+#: translate_sheet.csv:1360
+msgctxt ""
+"A limited-time emoji for celebrating victorious. Available until 10/30/2019 "
+"2:00 P.M. (PDT)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1360"
+msgstr "승리를 축하하기 위한 기간 한정 이모티콘. 2019/10/30 2:00 P.M. (PDT)까지 사용 가능"
+
+#: translate_sheet.csv:1359
+msgctxt "Firework Emoji (Limited-time)"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1359"
+msgstr "불꽃놀이 이모티콘 (기간 한정)"
+
+#: translate_sheet.csv:1358
+msgctxt ""
+"Unlocks Mooncake limited-time Emoji. It will expire at 9/27 2:00 P.M. (PDT)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1358"
+msgstr "월병 기간 한정 이모티콘 해제. 9/27 2:00 P.M. (PDT)에 만료됩니다"
+
+#: translate_sheet.csv:1357
+msgctxt "Mooncake Emoji"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1357"
+msgstr "월병 이모티콘"
+
+#: translate_sheet.csv:1356
+msgctxt "Spring Exclusive - Osamu Saitou"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1356"
+msgstr "봄 한정 - 사이토 오사무"
+
+#: translate_sheet.csv:1355
+msgctxt "Spring Exclusive - Joseph"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1355"
+msgstr "봄 한정 - 조셉"
+
+#: translate_sheet.csv:1354
+msgctxt "Spring Exclusive - Anju Suzumiya"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1354"
+msgstr "봄 한정 - 스즈미야 안즈"
+
+#: translate_sheet.csv:1353
+msgctxt "Spring Exclusive - Haruna Igarashi"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1353"
+msgstr "봄 한정 - 이가라시 하루나"
+
+#: translate_sheet.csv:1352
+msgctxt "Spring Exclusive - Hinata Takanashi"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1352"
+msgstr "봄 한정 - 타카나시 히나타"
+
+#: translate_sheet.csv:1351
+msgctxt "Spring Exclusive - Nana Shiraishi"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1351"
+msgstr "봄 한정 - 시라이시 나나"
+
+#: translate_sheet.csv:1350
+msgctxt "Spring Exclusive - Hana Ninomiya"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1350"
+msgstr "봄 한정 - 니노미야 하나"
+
+#: translate_sheet.csv:1349
+msgctxt "Spring Exclusive - Sara"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1349"
+msgstr "봄 한정 - 사라"
+
+#: translate_sheet.csv:1348
+msgctxt "Spring Exclusive - Keikumusume"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1348"
+msgstr "봄 한정 - 케이쿠무스메"
+
+#: translate_sheet.csv:1347
+msgctxt "Spring Exclusive - Hideki Akechi"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1347"
+msgstr "봄 한정 - 아케치 히데키"
+
+#: translate_sheet.csv:1346
+msgctxt "Spring Exclusive - Sora Ichinose"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1346"
+msgstr "봄 한정 - 이치노세 소라"
+
+#: translate_sheet.csv:1345
+msgctxt "Spring Exclusive - Wanjirou"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1345"
+msgstr "봄 한정 - 왕지로"
+
+#: translate_sheet.csv:1344
+msgctxt "Spring Exclusive - Natsuki Shinomiya"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1344"
+msgstr "봄 한정 - 시노미야 나츠키"
+
+#: translate_sheet.csv:1343
+msgctxt "Spring Exclusive - Kaavi"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1343"
+msgstr "봄 한정 - 카비"
+
+#: translate_sheet.csv:1342
+msgctxt "Spring Exclusive - Xenia"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1342"
+msgstr "봄 한정 - 지니아"
+
+#: translate_sheet.csv:1341
+msgctxt "Spring Exclusive - Riu Kujou"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1341"
+msgstr "봄 한정 - 쿠죠 리우"
+
+#: translate_sheet.csv:1340
+msgctxt "Spring Exclusive - Yui Yagi"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1340"
+msgstr "봄 한정 - 야기 유이"
+
+#: translate_sheet.csv:1339
+msgctxt "Spring Exclusive - Nadeshiko"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1339"
+msgstr "봄 한정 - 나데시코"
+
+#: translate_sheet.csv:1338
+msgctxt "Spring Exclusive - Mai Aihara"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1338"
+msgstr "봄 한정 - 아이하라 마이"
+
+#: translate_sheet.csv:1337
+msgctxt "Spring Exclusive - Chiori Mikami"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1337"
+msgstr "봄 한정 - 미카미 치오리"
+
+#: translate_sheet.csv:1336
+msgctxt "Spring Exclusive - Kana Fujita"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1336"
+msgstr "봄 한정 - 후지타 카나"
+
+#: translate_sheet.csv:1335
+msgctxt "Spring Exclusive - Miki Nikaidou"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1335"
+msgstr "봄 한정 - 니카이도 미키"
+
+#: translate_sheet.csv:1334
+msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1334"
+msgstr "이 스티커는 2020/2/28 1:59 P.M. (UTC-7) 이후에는 사용할 수 없습니다."
+
+#: translate_sheet.csv:1333
+msgctxt "Spring Exclusive - Ichihime"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1333"
+msgstr "봄 한정 - 이치히메"
+
+#: translate_sheet.csv:1332
+msgctxt ""
+"Unlocks Kujou Riu's Lunar New Year limited-time Emoji. It will expire at  "
+"5:00, 28 Feb 2019."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1332"
+msgstr "쿠죠 리우의 설날 기간 한정 이모티콘을 해제. 2019년 2월 28일 5:00에 만료됩니다."
+
+#: translate_sheet.csv:1331
+msgctxt "Riu Spring Festival Emoji (Limited-time)"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1331"
+msgstr "리우 봄 축제 이모티콘 (기간 한정)"
+
+#: translate_sheet.csv:1330
+msgctxt ""
+"Unlocks Yagi Yui's Lunar New Year limited-time Emoji. It will expire at  "
+"5:00, 28 Feb 2019."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1330"
+msgstr "야기 유이의 설날 기간 한정 이모티콘을 해제. 2019년 2월 28일 5:00에 만료됩니다."
+
+#: translate_sheet.csv:1329
+msgctxt "Yui Spring Festival Emoji (Limited-time)"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1329"
+msgstr "유이 봄 축제 이모티콘 (기간 한정)"
+
+#: translate_sheet.csv:1328
+msgctxt ""
+"Unlocks Nadeshiko's Lunar New Year limited-time Emoji. It will expire at  "
+"5:00, 28 Feb 2019."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1328"
+msgstr "나데시코의 설날 기간 한정 이모티콘을 해제. 2019년 2월 28일 5:00에 만료됩니다."
+
+#: translate_sheet.csv:1327
+msgctxt "Nadeshiko Spring Festival Emoji (Limited-time)"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1327"
+msgstr "나데시코 꽃 봄 축제 이모티콘 (기간 한정)"
+
+#: translate_sheet.csv:1326
+msgctxt ""
+"Unlocks Fujita Kana's Lunar New Year limited-time Emoji. It will expire at  "
+"5:00, 28 Feb 2019."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1326"
+msgstr "후지타 카나의 설날 기간 한정 이모티콘을 해제. 2019년 2월 28일 5:00에 만료됩니다."
+
+#: translate_sheet.csv:1325
+msgctxt "Kana Spring Festival Emoji (Limited-time)"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1325"
+msgstr "카나 봄 축제 이모티콘 (기간 한정)"
+
+#: translate_sheet.csv:1324
+msgctxt ""
+"Unlocks Aihara Mai's Lunar New Year limited-time Emoji. It will expire at  "
+"5:00, 28 Feb 2019."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1324"
+msgstr "아이하라 마이의 설날 기간 한정 이모티콘을 해제. 2019년 2월 28일 5:00에 만료됩니다."
+
+#: translate_sheet.csv:1323
+msgctxt "Aihara Mai Spring Festival Emoji (Limited-time)"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1323"
+msgstr "아이하라 마이 봄 축제 이모티콘 (기간 한정)"
+
+#: translate_sheet.csv:1322
+msgctxt ""
+"Unlocks Mikami Chiori's Lunar New Year limited-time Emoji. It will expire at"
+"  5:00, 28 Feb 2019."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1322"
+msgstr "미카미 치오리의 설날 기간 한정 이모티콘을 해제. 2019년 2월 28일 5:00에 만료됩니다."
+
+#: translate_sheet.csv:1321
+msgctxt "Chiori Spring Festival Emoji (Limited-time)"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1321"
+msgstr "치오리 봄 축제 이모티콘 (기간 한정)"
+
+#: translate_sheet.csv:1320
+msgctxt ""
+"Unlocks Nikaido Miki's Lunar New Year limited-time Emoji. It will expire at"
+"  5:00, 28 Feb 2019."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1320"
+msgstr "니카이도 미키의 설날 기간 한정 이모티콘을 해제. 2019년 2월 28일 5:00에 만료됩니다."
+
+#: translate_sheet.csv:1319
+msgctxt "Miki Spring Festival Emoji (Limited-time)"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1319"
+msgstr "미키 봄 축제 이모티콘 (기간 한정)"
+
+#: translate_sheet.csv:1318
+msgctxt ""
+"Unlocks Ichihime's Lunar New Year limited-time Emoji. It will expire at  "
+"5:00, 28 Feb 2019."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1318"
+msgstr "이치히메의 설날 기간 한정 이모티콘을 해제. 2019년 2월 28일 5:00에 만료됩니다."
+
+#: translate_sheet.csv:1317
+msgctxt "Ichihime Spring Festival Emoji (Limited-time)"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1317"
+msgstr "이치히메 봄 축제 이모티콘 (기간 한정)"
+
+#: translate_sheet.csv:1316
+msgctxt ""
+"An event-limited item for Ichihime's Working Adventure. Use it to select the"
+" number of steps you'd like to move on the map."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1316"
+msgstr "이치히메의 아르바이트 대모험을 위한 이벤트 한정 아이템. 지도에서 정해진 수 만큼 전진할 때 사용하세요."
+
+#: translate_sheet.csv:1315
+msgctxt "remote-control dice"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1315"
+msgstr "원격 제어 주사위"
+
+#: translate_sheet.csv:1314
+msgctxt ""
+"An event-limited item for Ichihime's Working Adventure. Use it to advance on"
+" the map."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1314"
+msgstr "이치히메의 아르바이트 대모험을 위한 이벤트 한정 아이템. 지도에서 전진할 때 사용하세요."
+
+#: translate_sheet.csv:1313
+msgctxt "dice"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1313"
+msgstr "주사위"
+
+#: translate_sheet.csv:1312
+msgctxt ""
+"A note book which is used to record daily life of Jyanshi. Wait... isn't it "
+"used to take notes?"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1312"
+msgstr "작사의 일상을 기록하는 데 사용하는 공책. 잠깐... 필기할 때 쓰는게 아니야?"
+
+#: translate_sheet.csv:1311
+msgctxt "Note Book"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1311"
+msgstr "공책"
+
+#: translate_sheet.csv:1310
+msgctxt ""
+"A propelling pencil produced by \"Catfood Studio\". Every lead of it can be "
+"used for almost one year."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1310"
+msgstr "\"캣푸드 스튜디오\"에서 제작한 프로펠러 연필. 심은 거의 1년 동안 사용할 수 있습니다."
+
+#: translate_sheet.csv:1309
+msgctxt "Propelling Pencil"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1309"
+msgstr "프로펠러 연필"
+
+#: translate_sheet.csv:1308
+msgctxt ""
+"You are already a mature ruler and should learn to solve Math problem "
+"yourself. Don't you think so?"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1308"
+msgstr "너는 이미 성숙한 자니까 스스로 수학 문제를 해결하는 법을 배워야 해. 그렇지 않니?"
+
+#: translate_sheet.csv:1307
+msgctxt "Ruler"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1307"
+msgstr "자"
+
+#: translate_sheet.csv:1306
+msgctxt ""
+"An item used to separate the God's realm from the outside realm. Put it in "
+"the entryway, and you will be protected by the God in the New Year."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1306"
+msgstr "신의 영역의 안과 밖을 구분하는 데 사용하는 아이템. 출입구에 두면 새해에는 신의 가호를 얻을 것입니다."
+
+#: translate_sheet.csv:1305
+msgctxt "Straw Ring"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1305"
+msgstr "금줄"
+
+#: translate_sheet.csv:1304
+msgctxt ""
+"The Kagami Mochi is an offering prepared for the God of New Year. Make sure "
+"it is placed outside Ichihime's sight, otherwise she will steal it away."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1304"
+msgstr "카가미모찌는 새해에 신을 위해 준비한 제물입니다. 이치히메의 눈에 띄지 않게 배치하지 않으면 훔쳐가버릴 겁니다."
+
+#: translate_sheet.csv:1303
+msgctxt "Kagami Mochi"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1303"
+msgstr "카가미모찌"
+
+#: translate_sheet.csv:1302
+msgctxt "Halloween Token \"Grrrr~ I am the scariest one!\""
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1302"
+msgstr "할로윈 토큰 \"그르르~ 내가 제일 무서워!\""
+
+#: translate_sheet.csv:1301
+msgctxt "Rookie Ghost"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1301"
+msgstr "신참 유령"
+
+#: translate_sheet.csv:1300
+msgctxt ""
+"Halloween Token“Hek, hek, hek, wanna have a guess what is wrapped in this "
+"colorful candy paper?”"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1300"
+msgstr "할로윈 토큰“히히히... 이 화려한 사탕 껍질 안에 무엇이 들어있을것 같니?”"
+
+#: translate_sheet.csv:1299
+msgctxt "Candies"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1299"
+msgstr "사탕"
+
+#: translate_sheet.csv:1298
+msgctxt "Halloween Token\"Nobody can escape my witchcraft~\" (Noboday: ???)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1298"
+msgstr "할로윈 토큰\"아무도 내 마법에서 벗어날 수 없어~\" (모두: ???)"
+
+#: translate_sheet.csv:1297
+msgctxt "Pumpkin Witch"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1297"
+msgstr "호박 마녀"
+
+#: translate_sheet.csv:1296
+msgctxt ""
+"An item used for redeeming gifts from Moon Palace. Please keep Ichihime busy"
+" for the period that you are stocking these mooncakes."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1296"
+msgstr "달 궁전에서 선물을 교환하는데 사용하는 아이템. 월병을 모으는 중에는 이치히메를 바쁘게 만들어야 할 겁니다."
+
+#: translate_sheet.csv:1295
+msgctxt "Mooncake"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1295"
+msgstr "월병"
+
+#: translate_sheet.csv:1294
+msgctxt ""
+"An item used for redeeming gifts from Moon Palace. It says 'No Underage "
+"Drinking' on its bottom, but Ichihime sips it anyway. “Sipping is not "
+"drinking, nyaa~”"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1294"
+msgstr ""
+"달 궁전에서 선물을 교환하는데 사용하는 아이템. 하단에 '미성년자 음주 금지'라고 쓰여 있지만, 이치히메는 홀짝이고 있다. “홀짝이는건 "
+"마시는게 아니다냐~”"
+
+#: translate_sheet.csv:1293
+msgctxt "Osmanthus Mead"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1293"
+msgstr "계화주"
+
+#: translate_sheet.csv:1292
+msgctxt ""
+"Watermelon slices prepared by Kujou, the word says they are prepared for "
+"Mikami"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1292"
+msgstr "쿠죠가 준비한 수박 조각, 미카미를 위해 준비했다고 합니다"
+
+#: translate_sheet.csv:1291
+msgctxt "Watermelon"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1291"
+msgstr "수박"
+
+#: translate_sheet.csv:1290
+msgctxt "Let's have some ice cream!!!"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1290"
+msgstr "아이스크림 먹자!!!"
+
+#: translate_sheet.csv:1289
+msgctxt "Ice Cream"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1289"
+msgstr "아이스크림"
+
+#: translate_sheet.csv:1288
+msgctxt "Ichihime asked Nadeshiko to hang this wind chimes in the shrine"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1288"
+msgstr "이치히메는 나데시코에게 이 풍경을 신사에 걸어달라고 부탁했습니다"
+
+#: translate_sheet.csv:1287
+msgctxt "Wind Chimes"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1287"
+msgstr "풍경"
+
+#: translate_sheet.csv:1286
+msgctxt "A pair of glasses  awarded after completing Nikaidou's Class"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1286"
+msgstr "니카이도 교실을 수료한 후 지급되는 안경"
+
+#: translate_sheet.csv:1285
+msgctxt "Glasses"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1285"
+msgstr "안경"
+
+#: translate_sheet.csv:1284
+msgctxt "An instruction tool awarded after completing Nikaidou's Class"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1284"
+msgstr "니카이도 교실을 수료한 후 지급되는 교재"
+
+#: translate_sheet.csv:1283
+msgctxt "Instruction Tool"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1283"
+msgstr "교재"
+
+#: translate_sheet.csv:1282
+msgctxt "Fu"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1282"
+msgstr "Fu"
+
+#: translate_sheet.csv:1281
+msgctxt "Firecracker"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1281"
+msgstr "폭죽"
+
+#: translate_sheet.csv:1280
+msgctxt "Lunar New Year event item."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1280"
+msgstr "설날 이벤트 아이템입니다."
+
+#: translate_sheet.csv:1279
+msgctxt "Lantern"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1279"
+msgstr "초롱"
+
+#: translate_sheet.csv:1278
+msgctxt "Christmas Gift - Stocking"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1278"
+msgstr "크리스마스 선물 - 양말"
+
+#: translate_sheet.csv:1277
+msgctxt "Christmas Stocking"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1277"
+msgstr "크리스마스 양말"
+
+#: translate_sheet.csv:1276
+msgctxt "Christmas Gift - Bells"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1276"
+msgstr "크리스마스 선물 - 종"
+
+#: translate_sheet.csv:1275
+msgctxt "Christmas Bells"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1275"
+msgstr "크리스마스 종"
+
+#: translate_sheet.csv:1274
+msgctxt ""
+"Mahjong Festival - Beach Party Event Exclusive\\n\n"
+"\"Wow... The sea is here-nya!\" Enjoying Mahjong in the sea breeze is the best way to spend a hot summer day."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1274"
+msgstr ""
+"마작 축제 - 비치 파티 이벤트 한정\\n"
+"\n"
+"“와, 바다가 여기있다냐!” 바닷 바람을 맞으며 마작을 즐기는 것이 더운 여름날을 보내는 가장 좋은 방법입니다."
+
+#: translate_sheet.csv:1273
+msgctxt "Beach Party"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1273"
+msgstr "비치 파티"
+
+#: translate_sheet.csv:1272
+msgctxt ""
+"Christmas Carnival Exclusive\\nWinter is the quietest season in Mahjong Soul"
+" Temple."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1272"
+msgstr ""
+"크리스마스 축제 한정\\n"
+"겨울은 혼천 신사에서 가장 조용한 계절입니다."
+
+#: translate_sheet.csv:1271
+msgctxt "Shrine Yard · Snow White"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1271"
+msgstr "신사 앞뜰 · 백설공주"
+
+#: translate_sheet.csv:1270
+msgctxt "Summer Theme Background"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1270"
+msgstr "여름 테마 배경"
+
+#: translate_sheet.csv:1269
+msgctxt "Shrine Yard · Midsummer"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1269"
+msgstr "신사 앞뜰 · 한여름"
+
+#: translate_sheet.csv:1268
+msgctxt ""
+"Every year when sakura blossoms, people will visit the shrine to offer "
+"Ichihime their delicious foods. What’s all that about? Nyaa~"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1268"
+msgstr "매년 벚꽃이 필 때면 사람들은 사당을 찾아 이치히메에게 맛있는 음식을 대접할 것입니다. 이게 다 뭐냥?"
+
+#: translate_sheet.csv:1267
+msgctxt "Shrine Yard · Sakura"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1267"
+msgstr "신사 앞뜰 · 벚꽃"
+
+#: translate_sheet.csv:1266
+msgctxt "Mahjong fun is the real fun!"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1266"
+msgstr "마작의 재미는 진짜 재미야!"
+
+#: translate_sheet.csv:1265
+msgctxt "Bamboo"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1265"
+msgstr "대나무"
+
+#: translate_sheet.csv:1264
+msgctxt "Watermelon and ice cream are the fundamental respect for summer!"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1264"
+msgstr "수박과 아이스크림은 여름의 가장 기본적인 거야!"
+
+#: translate_sheet.csv:1263
+msgctxt "Midsummer"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1263"
+msgstr "한여름"
+
+#: translate_sheet.csv:1262
+msgctxt ""
+"…they say the speed of a falling sakura petal is about five centimeters per "
+"second."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1262"
+msgstr "...떨어지는 벚꽃잎의 속도가 초속 5 센티미터라고 합니다."
+
+#: translate_sheet.csv:1261
+msgctxt "Sakura"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1261"
+msgstr "벚꽃"
+
+#: translate_sheet.csv:1260
+msgctxt "To call or not to call? There is never enough time to think."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1260"
+msgstr "울 것인가 울지 않을 것인가? 생각할 시간은 결코 충분하지 않습니다."
+
+#: translate_sheet.csv:1259
+msgctxt "Tile Call - Thunder & Lightning"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1259"
+msgstr "울기 - 천둥번개"
+
+#: translate_sheet.csv:1258
+msgctxt ""
+"If you retweet this Hana Ninomiya (oops wrong) Koi fish, \"Blessing of "
+"Heaven\" and \"Thirteen Orphans\" will no longer be just an inaccessible "
+"dream!(Spring Celebration Exclusive)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1258"
+msgstr ""
+"이 니노미야 하나(앗 실수) 비단 잉어를 배치하면, “천화”와 “국사무쌍”은 더 이상 이루지 못할 꿈이 아닙니다! (봄 축제 한정)"
+
+#: translate_sheet.csv:1256
+msgctxt ""
+"Hello, young player. Which of these have you lost? Is it this \"Under the "
+"Sea\" red packet? Or this \"After a Kan\" red packet? (Spring Celebration "
+"Exclusive)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1256"
+msgstr ""
+"반갑네, 젊은이. 잃어버린 주머니가 어느 것인가? 이 “해저로월” 복주머니인가? 아니면 이 “영상개화” 복주머니인가? (봄 축제 한정)"
+
+#: translate_sheet.csv:1254
+msgctxt ""
+"Grrrr~ I... I am t-the scariest one! Y-you supposed to run, don't you?"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1254"
+msgstr "으르렁~ 나... 난 가장 무..무서운 유령이야! 너...너는 도망가야 하는거... 맞지?"
+
+#: translate_sheet.csv:1252
+msgctxt ""
+"This dagger has absorbed the blood of Abel and completely turned into "
+"crimson.(Event limited, will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1252"
+msgstr "이 단검은 아벨의 피를 흡수하여 완전히 진홍빛으로 변했습니다. (이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1250
+msgctxt ""
+"100% Gold Arowana Riichi bet, miracle will happen after you retweet (place) "
+"it. (Spring Celebration Exclusive)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1250"
+msgstr "100% 황금 아로와나 리치 봉, 자리에 두면 기적이 일어날 것입니다. (봄 축제 한정)"
+
+#: translate_sheet.csv:1248
+msgctxt ""
+"A wand used by magical girls during their transformation. When placed on the"
+" table, it will enter a pact with all players on the table."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1248"
+msgstr "마법 소녀가 변신할 때 사용하는 지팡이. 테이블 위에 놓으면 테이블에 있는 모든 플레이어와 계약을 맺게 됩니다."
+
+#: translate_sheet.csv:1246
+msgctxt "Tremble before my declaration of Riichi."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1246"
+msgstr "리치를 선언하기 전에 흔들립니다."
+
+#: translate_sheet.csv:1245
+msgctxt "Riichi - Impish Bat"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1245"
+msgstr "리치 봉 - 소악마"
+
+#: translate_sheet.csv:1244
+msgctxt "Portrait Frame"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1244"
+msgstr "초상화 프레임"
+
+#: translate_sheet.csv:1243
+msgctxt "A sprout to become something unknown"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1243"
+msgstr "무엇이 될 지 알 수 없는 새싹"
+
+#: translate_sheet.csv:1242
+msgctxt "Portrait Frame - Sprout"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1242"
+msgstr "초상화 프레임 - 새싹"
+
+#: translate_sheet.csv:1241
+msgctxt ""
+"Once picked up, the bloody silhouette of the Lance of Longinus can never be "
+"put down.(Event limited, will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1241"
+msgstr "한번 잡으면 피에 물든 롱기누스의 창은 절대 내려놓을 수 없습니다.(이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1239
+msgctxt ""
+"Look, what's that twinkling in the sky…(Event limited, will be unobtainable "
+"after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1239"
+msgstr "봐, 하늘에서 반짝이는게 뭘까... (이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1229
+msgctxt ""
+"\"I see you...\"(Event limited, will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1229"
+msgstr "“당신이 보여...”(이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1237
+msgctxt ""
+"\"If I can spin fast enough, no one can be as cool as me!\"(Spring "
+"Celebration Exclusive)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1237"
+msgstr "“충분히 빠르게 회전할 수 있다면, 누구보다 멋질거야!”(봄 축제 한정)"
+
+#: translate_sheet.csv:1235
+msgctxt ""
+"Now that you have signed a magical pact with me, the stars will guide you to"
+" the right path."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1235"
+msgstr "이제 나와 마법 계약을 맺었으니, 별들이 올바른 길로 인도해 줄 거야."
+
+#: translate_sheet.csv:1233
+msgctxt ""
+"\"Beep—beep— The system has detected a Riichi crisis! Players, please take "
+"immediate actions! This is an emergency!\""
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1233"
+msgstr "“삐- 삐- 시스템이 리치 위기를 감지했습니다! 플레이어는 즉시 행동하십시오! 비상사태입니다!”"
+
+#: translate_sheet.csv:1231
+msgctxt "The bats are here to claim your soul, or... to peek at your hand..."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1231"
+msgstr "박쥐들이 네 영혼을 차지하려고 온 거야, 아니면... 손패를 훔쳐보려고..."
+
+#: translate_sheet.csv:1227
+msgctxt ""
+"Our conquest is the sea of stars.(Event limited, will be unobtainable after "
+"the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1227"
+msgstr "우리가 정벌하는 것은 별의 대해.(이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1225
+msgctxt ""
+"Fireworks blossom in the night sky, bringing fortune to every household. "
+"It's time for family reunion.(Spring Celebration Exclusive)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1225"
+msgstr "밤하늘에 불꽃이 피어 모든 가정에 행운을 가져다줍니다. 가족이 다시 뭉칠 시간입니다.(봄 축제 한정)"
+
+#: translate_sheet.csv:1223
+msgctxt ""
+"\"Close your eyes, for they will only tell the truth, and the truth isn't "
+"what you want to see.\""
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1223"
+msgstr "“눈을 감아라. 그들은 진실만을 말할 것이고, 진실은 네가 보고 싶은 것이 아니니.”"
+
+#: translate_sheet.csv:1221
+msgctxt ""
+"The starlight points to the destination of victory, and you shall serve me "
+"under my magic."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1221"
+msgstr "별빛은 승리의 목적지를 가리키고, 마법에 따라 너는 나를 섬길 것이다."
+
+#: translate_sheet.csv:1219
+msgctxt ""
+"A tombstone covered under vines, whose is it? Sush, not every secret needs "
+"to be revealed in this night."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1219"
+msgstr "덩굴로 뒤덮인 묘비는 누구의 묘비일까요? 쉿, 오늘 밤 모든 비밀을 밝힐 필요는 없습니다."
+
+#: translate_sheet.csv:1217
+msgctxt ""
+"It changes the BGM when you declare Riichi (You may activate it in Dorm - "
+"View - Effect)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1217"
+msgstr "리치를 선언하면 배경 음악이 변경됩니다 (숙소 - 보기 - 효과에서 활성화할 수 있음)"
+
+#: translate_sheet.csv:1215
+msgctxt ""
+"Riichi music \"Charge\". Change the background music when you declare "
+"Riichi.The troopers wolf down their barbequed beef bless'd,With sounds of "
+"string music in the wilderness."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1215"
+msgstr "리치 음악 “출전”. 리치를 선언할 때 배경 음악이 변경됩니다. (캐릭터 - 효과에서 활성화해야 합니다.)"
+
+#: translate_sheet.csv:1213
+msgctxt ""
+"“Buy one get one free? No, nyaa!” someone roared that right to everyone’s "
+"face."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1213"
+msgstr "어떤 고양이가 외쳤습니다. “두 번째는 없다냥!”"
+
+#: translate_sheet.csv:1212
+msgctxt "Riichi - Ichihime's Sweet Cone"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1212"
+msgstr "리치 - 이치히메의 옥수수"
+
+#: translate_sheet.csv:1211
+msgctxt "Let's play Mahjong for fun!"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1211"
+msgstr "즐겁게 마작을 하자!"
+
+#: translate_sheet.csv:1209
+msgctxt ""
+"I, Ichihime, am as good as Chiori when it comes to eating watermelons!"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1209"
+msgstr "수박 먹기 경쟁이라면 치오리에게 지지 않는다냥!"
+
+#: translate_sheet.csv:1207
+msgctxt "Tile Back - Orange"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1207"
+msgstr "테이블보 - 주황색"
+
+#: translate_sheet.csv:1206
+msgctxt "Tablecloth - Navy Blue"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1206"
+msgstr "테이블보 - 네이비 블루"
+
+#: translate_sheet.csv:1205
+msgctxt "In summer, if one ice cream ain't enough, just have two."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1205"
+msgstr "여름에 아이스크림 하나로 부족하다면, 두 개를 먹으면 됩니다."
+
+#: translate_sheet.csv:1203
+msgctxt ""
+"I can cut through all bad luck! This Riichi Bet was used by the legendary "
+"Mahjong girl."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1203"
+msgstr "난 모든 불운을 헤쳐 나갈 수 있어! 이 리치 봉은 전설의 소녀 작사가 사용했던 것입니다."
+
+#: translate_sheet.csv:1201
+msgctxt "I only have one growl, and I want everybody to know."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1201"
+msgstr "이것이 용의 포효다!"
+
+#: translate_sheet.csv:1200
+msgctxt "Winning - Dragon Scale"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1200"
+msgstr "승리 - 용의 비늘"
+
+#: translate_sheet.csv:1199
+msgctxt ""
+"\"Shoryuken!\" A Mahjong player who claimed to be \"Ryu\" passed by moments "
+"ago."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1199"
+msgstr "\"승룡권!\" 자신이 \"류\"라고 주장한 작사가 방금 지나갔습니다."
+
+#: translate_sheet.csv:1197
+msgctxt ""
+"Without seven balls, you can still summon this ink dragon when declaring "
+"Riichi."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1197"
+msgstr "리치를 선언하면 구슬을 7개 모으지 못했더라도 용이 소환됩니다."
+
+#: translate_sheet.csv:1195
+msgctxt "The gold coin was offered by a warm-hearted player with a red cap."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1195"
+msgstr "빨간 모자를 쓴 마작 친구에게 받은 동전입니다."
+
+#: translate_sheet.csv:1193
+msgctxt "Summons dancing rose petals when you win a game."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1193"
+msgstr "승리하면 춤추는 장미 꽃잎이 소환됩니다."
+
+#: translate_sheet.csv:1191
+msgctxt "Summons a Laser Blast when you win a game."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1191"
+msgstr "승리하면 레이저 블라스트가 소환됩니다."
+
+#: translate_sheet.csv:1189
+msgctxt "Summons a Firestorm  when you win a game."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1189"
+msgstr "승리하면 화염폭풍이 소환됩니다."
+
+#: translate_sheet.csv:1187
+msgctxt "Summons flying feathers when you declare Riichi."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1187"
+msgstr "리치를 선언하면 날아다니는 깃털이 소환됩니다."
+
+#: translate_sheet.csv:1185
+msgctxt ""
+"Summons a phantom fast enough to blur everyone's sight when you declare "
+"Riichi."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1185"
+msgstr "리치를 선언하면 잔상이 보일 정도로 빠른 팬텀이 소환됩니다."
+
+#: translate_sheet.csv:1183
+msgctxt "A cute paw of a blue cat."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1183"
+msgstr "파란 고양이의 귀여운 발입니다."
+
+#: translate_sheet.csv:1182
+msgctxt "Blue Cat Paw"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1182"
+msgstr "파란 고양이 발"
+
+#: translate_sheet.csv:1181
+msgctxt "An elegant paw of a black cat."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1181"
+msgstr "검은 고양이의 우아한 발입니다."
+
+#: translate_sheet.csv:1180
+msgctxt "Black Cat Paw"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1180"
+msgstr "검은 고양이 발"
+
+#: translate_sheet.csv:1179
+msgctxt "Summons fireworks when you win a game.(Spring Celebration Exclusive)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1179"
+msgstr "승리하면 불꽃놀이가 소환됩니다.(봄 축제 한정)"
+
+#: translate_sheet.csv:1177
+msgctxt ""
+"Lunar New Year limited Riichi Bet. Are you hungry?(Spring Celebration "
+"Exclusive)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1177"
+msgstr "설날 한정 리치 봉. 배고프신가요?(봄 축제 한정)"
+
+#: translate_sheet.csv:1175
+msgctxt ""
+"Lunar New Year limited Riichi Bet. Don't worry, it won't explode.(Spring "
+"Celebration Exclusive)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1175"
+msgstr "설날 한정 리치 봉. 걱정 마세요, 폭발하지 않습니다.(봄 축제 한정)"
+
+#: translate_sheet.csv:1173
+msgctxt ""
+"Riichi music “Intensive Battle”. Change the background music when you "
+"declare Riichi. (You must activate it in Character - Effect.)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1173"
+msgstr "리치 음악 “격투”. 리치를 선언할 때 배경 음악이 변경됩니다. (캐릭터 - 효과에서 활성화해야 합니다.)"
+
+#: translate_sheet.csv:1171
+msgctxt ""
+"Riichi music “Serious Game”. Change the background music when you declare "
+"Riichi. (You must activate it in Character - Effect.)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1171"
+msgstr "리치 음악 “진검승부”. 리치를 선언할 때 배경 음악이 변경됩니다. (캐릭터 - 효과에서 활성화해야 합니다.)"
+
+#: translate_sheet.csv:1169
+msgctxt "Happy New Year!(Spring Celebration Exclusive)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1169"
+msgstr "새해 복 많이 받으세요!(봄 축제 한정)"
+
+#: translate_sheet.csv:1168
+msgctxt "Tablecloth - Spring Festival"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1168"
+msgstr "테이블보 - 봄 축제"
+
+#: translate_sheet.csv:1167
+msgctxt "Summons dark flame when you win a game."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1167"
+msgstr "승리하면 어둠의 불꽃이 소환됩니다."
+
+#: translate_sheet.csv:1165
+msgctxt "Summons fire when you declare Riichi."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1165"
+msgstr "리치를 선언하면 불꽃이 소환됩니다."
+
+#: translate_sheet.csv:1163
+msgctxt "Summons ice flakes when you declare Riichi."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1163"
+msgstr "리치를 선언하면 얼음 조각이 소환됩니다."
+
+#: translate_sheet.csv:1161
+msgctxt "A Christmas exclusive."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1161"
+msgstr "크리스마스 한정."
+
+#: translate_sheet.csv:1160
+msgctxt "Tablecloth - Christmas"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1160"
+msgstr "테이블보 - 크리스마스"
+
+#: translate_sheet.csv:1159
+msgctxt "Made with 24K pure gold. A symbol of wealth."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1159"
+msgstr "24K 순금으로 만들어졌습니다. 부의 상징입니다."
+
+#: translate_sheet.csv:1158
+msgctxt "Riichi - 24K Gold"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1158"
+msgstr "리치 - 24K 순금"
+
+#: translate_sheet.csv:1157
+msgctxt "This Riichi Bet has a dangerous feel that makes people uneasy."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1157"
+msgstr "이 리치봉은 사람을 불안하게 하는 위험한 느낌이 듭니다."
+
+#: translate_sheet.csv:1155
+msgctxt "Tile Back - Red"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1155"
+msgstr "마작패 - 적색"
+
+#: translate_sheet.csv:1152
+msgctxt "Tile Back - Yellow"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1152"
+msgstr "마작패 - 황색"
+
+#: translate_sheet.csv:1154
+msgctxt "Tile Back - Green"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1154"
+msgstr "마작패 - 녹색"
+
+#: translate_sheet.csv:1153
+msgctxt "A tile back style."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1153"
+msgstr "마작패 뒷면 스타일입니다."
+
+#: translate_sheet.csv:1151
+msgctxt "Tablecloth - Violet"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1151"
+msgstr "테이블보 - 바이올렛"
+
+#: translate_sheet.csv:1150
+msgctxt "Tablecloth - Lavender"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1150"
+msgstr "테이블보 - 라벤더"
+
+#: translate_sheet.csv:1149
+msgctxt "A table style."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1149"
+msgstr "테이블 스타일입니다."
+
+#: translate_sheet.csv:1148
+msgctxt "Tablecloth - Green"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1148"
+msgstr "테이블보 - 녹색"
+
+#: translate_sheet.csv:1147
+msgctxt "A chubby paw of ginger cat. Nimble, yet elegant."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1147"
+msgstr "통통한 치즈색 고양이 발. 경쾌하면서도 우아합니다."
+
+#: translate_sheet.csv:1145
+msgctxt "Summons blue flame when you declare Riichi."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1145"
+msgstr "리치를 선언하면 푸른 불꽃이 소환됩니다."
+
+#: translate_sheet.csv:1143
+msgctxt "Summons cherry flower petals when you win a game."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1143"
+msgstr "게임에서 승리하면 벚꽃잎이 소환됩니다."
+
+#: translate_sheet.csv:1141
+msgctxt "Summons cyclone when you win a game."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1141"
+msgstr "게임에서 승리하면 사이클론이 소환됩니다."
+
+#: translate_sheet.csv:1139
+msgctxt "Summons fire when you win a game."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1139"
+msgstr "게임에서 승리하면 불꽃이 소환됩니다."
+
+#: translate_sheet.csv:1137
+msgctxt "A crystal-clear Riichi Bet. Handle with care, or you may break it."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1137"
+msgstr "수정처럼 투명한 리치봉. 조심해서 다루지 않으면 깨질 수 있습니다."
+
+#: translate_sheet.csv:1136
+msgctxt "Riichi - Jadeite"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1136"
+msgstr "리치 - 경옥"
+
+#: translate_sheet.csv:1135
+msgctxt "A mysterious power seems to be sealed inside."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1135"
+msgstr "알 수 없는 힘이 봉인된 것 같습니다."
+
+#: translate_sheet.csv:1134
+msgctxt "Riichi - Evil Eye"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1134"
+msgstr "리치 - 악마의 눈"
+
+#: translate_sheet.csv:1133
+msgctxt "Please do not eat it."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1133"
+msgstr "먹지 마시오."
+
+#: translate_sheet.csv:1132
+msgctxt "Riichi - Chocolate"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1132"
+msgstr "리치 - 초콜릿"
+
+#: translate_sheet.csv:1131
+msgctxt "Woof woof!"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1131"
+msgstr "멍멍!"
+
+#: translate_sheet.csv:1129
+msgctxt "Most people like to hold it instead of eat it."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1129"
+msgstr "대부분의 사람들은 먹는 것보다 들고 있는 것을 더 좋아합니다."
+
+#: translate_sheet.csv:1127
+msgctxt "Better not take it out when there are cats around."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1127"
+msgstr "주위에 고양이가 있다면 꺼내지 않는 편이 낫습니다."
+
+#: translate_sheet.csv:1125
+msgctxt "Contains a purple gift of your choice"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1125"
+msgstr "선택한 보라색 선물 포함"
+
+#: translate_sheet.csv:1124
+msgctxt "Sunshine Lucky Bag"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1124"
+msgstr "햇빛 행운의 주머니"
+
+#: translate_sheet.csv:1123
+msgctxt "Contains a blue gift of your choice"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1123"
+msgstr "선택한 파란색 선물 포함"
+
+#: translate_sheet.csv:1122
+msgctxt "Moonlight Lucky Bag"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1122"
+msgstr "달빛 행운의 주머니"
+
+#: translate_sheet.csv:1121
+msgctxt "Contains a purple gift"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1121"
+msgstr "보라색 선물 포함"
+
+#: translate_sheet.csv:1120
+msgctxt "Sunshine Chest"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1120"
+msgstr "햇빛 상자"
+
+#: translate_sheet.csv:1119
+msgctxt "Contains a blue gift"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1119"
+msgstr "파란색 선물 포함"
+
+#: translate_sheet.csv:1118
+msgctxt "Moonlight Chest"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1118"
+msgstr "달빛 상자"
+
+#: translate_sheet.csv:1117
+msgctxt "Saint's Bag"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1117"
+msgstr "성자의 주머니"
+
+#: translate_sheet.csv:1116
+msgctxt "Saint's Bag"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1116"
+msgstr "성자의 주머니"
+
+#: translate_sheet.csv:1115
+msgctxt ""
+"A gift bag left by an altruistic sage. Contains 1 random premium gift."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1115"
+msgstr "이타적인 현자가 남긴 선물 주머니. 랜덤 고급 선물 1개가 들어있습니다."
+
+#: translate_sheet.csv:1114
+msgctxt "Sage's Bag"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1114"
+msgstr "성스러운 주머니"
+
+#: translate_sheet.csv:1113
+msgctxt ""
+"A gift bag left by a successful nobleman. Contains 1 random mid-range gift."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1113"
+msgstr "성공한 귀족이 남긴 선물 주머니. 랜덤 중급 선물 1개가 들어있습니다."
+
+#: translate_sheet.csv:1111
+msgctxt ""
+"A gift bag left by a nameless traveler. Contains 1 random basic gift."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1111"
+msgstr "이름 없는 여행자가 남긴 선물 주머니. 랜덤 기본 선물 1개가 들어있습니다."
+
+#: translate_sheet.csv:1110
+msgctxt "Traveler's Bag"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1110"
+msgstr "여행자의 주머니"
+
+#: translate_sheet.csv:1112
+msgctxt "Fortune Bag"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1112"
+msgstr "복 주머니"
+
+#: translate_sheet.csv:1109
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 5000 points. Characters who love dresses "
+"will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1109"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 드레스를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1108
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 1000 points. Characters who love dresses "
+"will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1108"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 드레스를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1107
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 5000 points. Characters who love fanzines"
+" will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1107"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 동인지를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1106
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 1000 points. Characters who love fanzines"
+" will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1106"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 동인지를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1105
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 5000 points. Characters who love dolls "
+"will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1105"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 인형을 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1104
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 1000 points. Characters who love dolls "
+"will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1104"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 인형을 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1103
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 5000 points. Characters who love diamonds"
+" will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1103"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 다이아몬드를 좋아하는 캐릭터에게는 추가 인연 "
+"포인트가 주어집니다."
+
+#: translate_sheet.csv:1102
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 1000 points. Characters who love diamonds"
+" will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1102"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 다이아몬드를 좋아하는 캐릭터에게는 추가 인연 "
+"포인트가 주어집니다."
+
+#: translate_sheet.csv:1101
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 1000 points. Characters who love wine "
+"will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1101"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 술을 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1100
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 5000 points. Characters who love artworks"
+" will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1100"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 미술품을 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1099
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 1000 points. Characters who love artworks"
+" will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1099"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 미술품을 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1098
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 5000 points. Characters who love game "
+"consoles will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1098"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 게임기를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1097
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 1000 points. Characters who love game "
+"consoles will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1097"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 게임기를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1096
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 5000 points. Characters who love cookies "
+"will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1096"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 쿠키를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1095
+msgctxt ""
+"Cannot be broken converted into Star Dust. Give it to a character to "
+"increase your Bond with him/her by 1000 points. Characters who love cookies "
+"will receive bonus Bond points."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1095"
+msgstr ""
+"별가루로 분해할 수 없습니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 쿠키를 좋아하는 캐릭터에게는 추가 인연 포인트가 "
+"주어집니다."
+
+#: translate_sheet.csv:1094
+msgctxt ""
+"Valentine's Daylimited chocolate gift box - Godiwa, each box hides a little "
+"secret about love. Give it to a character to increase your bond by 1000 "
+"points. This gift cannot be broken converted into Star Dust."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1094"
+msgstr ""
+"발렌타인 데이 한정 초콜릿 선물 상자 - 고디와, 각각의 상자에는 사랑에 대한 작은 비밀이 숨겨져 있습니다. 캐릭터에게 선물하면 인연 "
+"포인트가 1000점 증가합니다. 이 아이템은 선물 횟수 제한에 영향을 주지 않습니다."
+
+#: translate_sheet.csv:1093
+msgctxt "Valentine's Day Chocolate"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1093"
+msgstr "발렌타인 데이 초콜릿"
+
+#: translate_sheet.csv:1092
+msgctxt ""
+"I wish this knot can bring out hearts togethim/her. Give it to a character "
+"to increase your Bond with him or him/her by 1000 points. This item will not"
+" consume your gift attempts."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1092"
+msgstr ""
+"이 매듭이 마음을 하나로 만들어 줄 수 있기를 바랍니다. 캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 이 아이템은 선물 횟수 "
+"제한에 영향을 주지 않습니다."
+
+#: translate_sheet.csv:1091
+msgctxt "Lover's Knot"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1091"
+msgstr "연인의 매듭"
+
+#: translate_sheet.csv:1090
+msgctxt ""
+"Give it to a character to increase your Bond with him/her by 1000 points. "
+"This item will not consume your gift attempts."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|1090"
+msgstr "캐릭터에게 선물하면 인연 포인트가 1000점 증가합니다. 이 아이템은 선물 횟수 제한에 영향을 주지 않습니다."
+
+#: translate_sheet.csv:1089
+msgctxt "Bonding Heart"
+msgid "sheet|ItemDefinitionItem.csv|name_en|1089"
+msgstr "인연의 하트"
