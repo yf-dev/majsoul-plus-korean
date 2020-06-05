@@ -14,7 +14,7 @@ jobs:
       working-directory: ./data
     
     - name: Run docker image to build
-      run: docker-compose run --rm python python src/interface.py --protoc-path=/utils/protoc/bin/protoc --fontbm-path=/utils/fontbm/bin/fontbm all
+      run: docker-compose run --rm mpk all
       working-directory: ./data
 
     - name: Commit changes

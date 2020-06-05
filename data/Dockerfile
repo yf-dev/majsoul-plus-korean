@@ -1,9 +1,9 @@
 FROM python:3.7-slim
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
-		unzip \
-        libfreetype6 \
-	&& rm -rf /var/lib/apt/lists/*
+    unzip \
+    libfreetype6 \
+    && rm -rf /var/lib/apt/lists/*
 
 RUN mkdir /utils
 
@@ -29,4 +29,6 @@ COPY Pipfile* /majsoul-plus-korean/data/
 RUN pipenv lock --requirements > requirements.txt
 RUN pip install -r requirements.txt
 
-CMD [ "python", "src/interface.py", "--protoc-path=/utils/protoc/bin/protoc", "--fontbm-path=/utils/fontbm/bin/fontbm"]
+COPY entrypoint.sh /majsoul-plus-korean/data/entrypoint.sh
+RUN chmod +x entrypoint.sh
+ENTRYPOINT [ "/bin/sh", "entrypoint.sh" ]
