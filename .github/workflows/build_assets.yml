@@ -5,7 +5,18 @@ jobs:
   run:
     name: Build assets
     runs-on: ubuntu-latest
-    steps: 
+    steps:
+    - name: Get majsoul version
+      id: get-majsoul-version
+      run: |
+        echo "::set-output name=json::$(curl https://mahjongsoul.game.yo-star.com/version.json)"
+
+    - name: Cache data
+      uses: actions/cache@v2
+      with:
+        path: ./data/assets-original
+        key: ${{ runner.os }}-${{ steps.get-majsoul-version.outputs.json }}
+
     - name: Checkout repo
       uses: actions/checkout@v2
 
