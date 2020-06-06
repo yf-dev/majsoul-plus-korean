@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-06 15:14+0000\n"
+"PO-Revision-Date: 2020-06-06 16:00+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -18722,7 +18722,7 @@ msgstr ")과 새로운 캐릭터와 장식을 얻을 수 있습니다"
 #: translate_sheet.csv:2545
 msgctxt "Ron"
 msgid "sheet|VoiceSound.csv|name_en|c297455c41f2193cfb3b281ec04277fa"
-msgstr "론"
+msgstr "Ron"
 
 #: translate_sheet.csv:2544
 msgctxt "Riichi"
@@ -18732,7 +18732,7 @@ msgstr "리치"
 #: translate_sheet.csv:2543
 msgctxt "Riichi"
 msgid "sheet|VoiceSound.csv|name_en|a24a259048cb6a113d9eeba1d7647fce"
-msgstr "리치"
+msgstr "Riichi"
 
 #: translate_sheet.csv:2542
 msgctxt "Double Riichi"
@@ -18742,7 +18742,7 @@ msgstr "더블리치"
 #: translate_sheet.csv:2541
 msgctxt "Double Riichi"
 msgid "sheet|VoiceSound.csv|name_en|bc1c334ae4cb115572c529ec16f3100c"
-msgstr "더블리치"
+msgstr "Double Riichi"
 
 #: translate_sheet.csv:2540
 msgctxt "{10}Kita"
@@ -18752,7 +18752,7 @@ msgstr "{10}북도라"
 #: translate_sheet.csv:2539
 msgctxt "Kita"
 msgid "sheet|VoiceSound.csv|name_en|aaa8bc3b73bb36e8638857dd41dbeaf3"
-msgstr "북도라"
+msgstr "Kita"
 
 #: translate_sheet.csv:2538
 msgctxt "Pon (Call for Triplet)"
@@ -18762,7 +18762,7 @@ msgstr "펑"
 #: translate_sheet.csv:2537
 msgctxt "Pon"
 msgid "sheet|VoiceSound.csv|name_en|25ad9e28babad3e903a3aa64c7256147"
-msgstr "펑"
+msgstr "Pon"
 
 #: translate_sheet.csv:2536
 msgctxt "Kan (Call for Quad)"
@@ -18772,7 +18772,7 @@ msgstr "깡"
 #: translate_sheet.csv:2535
 msgctxt "Kan"
 msgid "sheet|VoiceSound.csv|name_en|f60e8dbbc0c325f558c189cc9c7c3e06"
-msgstr "깡"
+msgstr "Kan"
 
 #: translate_sheet.csv:2534
 msgctxt "Chii"
@@ -18782,7 +18782,7 @@ msgstr "치"
 #: translate_sheet.csv:2533
 msgctxt "Chii"
 msgid "sheet|VoiceSound.csv|name_en|833a570d827e784b2fd4a2eab63aff48"
-msgstr "치"
+msgstr "Chii"
 
 #: translate_sheet.csv:2505
 msgctxt "Limited-time title Expiry date:"
@@ -21666,3 +21666,533 @@ msgctxt ""
 "have run out of your chance(s)."
 msgid "sheet|StrStr.csv|en|da04487d5808ef3030e74d0033a6a52d"
 msgstr "각 플레이어는 대회 중 {0}번만 게임에 참가할 수 있습니다. 당신은 이미 참가 횟수를 모두 사용했습니다."
+
+#: translate_sheet.csv:2816
+msgctxt "SP - Tenpai with Baiman/Sanbaiman"
+msgid "sheet|VoiceSound.csv|name_en|ab0c8ec1fb7755d900cf63b962f1ab7d"
+msgstr "SP - Tenpai with Baiman/Sanbaiman"
+
+#: translate_sheet.csv:2814
+msgctxt "SP - Tenpai with Yakuman"
+msgid "sheet|VoiceSound.csv|name_en|53c007cac30974bb34344efd3bc04176"
+msgstr "SP - Tenpai with Yakuman"
+
+#: translate_sheet.csv:2812
+msgctxt "SP - Less than 10 tiles remaining"
+msgid "sheet|VoiceSound.csv|name_en|661ec9acf96cacd6c4a3bf21fa6e608b"
+msgstr "SP - Less than 10 tiles remaining"
+
+#: translate_sheet.csv:2810
+msgctxt "SP - When discarding a Dora"
+msgid "sheet|VoiceSound.csv|name_en|f209f9c38b43594276da3a7c2ade42f7"
+msgstr "SP - When discarding a Dora"
+
+#: translate_sheet.csv:2808
+msgctxt "SP - When discarding multiple identical tiles in a row"
+msgid "sheet|VoiceSound.csv|name_en|fc2fc94ef3294a89d9ae8996c1e2a120"
+msgstr "SP - When discarding multiple identical tiles in a row"
+
+#: translate_sheet.csv:2804
+msgctxt "Bond Level Up Voice 5"
+msgid "sheet|VoiceSound.csv|name_en|15e811ff292e59d56e525f1cebe1a2a5"
+msgstr "Bond Level Up Voice 5"
+
+#: translate_sheet.csv:2743
+msgctxt "Pon (Call for Triplet)"
+msgid "sheet|VoiceSound.csv|name_en|57ac65abdeba550f2995f13d47260003"
+msgstr "Pon (Call for Triplet)"
+
+#: translate_sheet.csv:2742
+msgctxt "Kan (Call for Quad)"
+msgid "sheet|VoiceSound.csv|name_en|b384c9005ff8117f11a0b729ace63e44"
+msgstr "Kan (Call for Quad)"
+
+#: translate_sheet.csv:2740
+msgctxt "Nine Different Terminals and Honors"
+msgid "sheet|VoiceSound.csv|name_en|bb3d6e3480dc2645a6398dbb59ea7b71"
+msgstr "Nine Different Terminals and Honors"
+
+#: translate_sheet.csv:2738
+msgctxt "Four-Wind Discarded"
+msgid "sheet|VoiceSound.csv|name_en|f73da72a5bcfd81a63e4d6e2102b51c6"
+msgstr "Four-Wind Discarded"
+
+#: translate_sheet.csv:2736
+msgctxt "Four-kan Abortion"
+msgid "sheet|VoiceSound.csv|name_en|fd152c15f126b6ae7bcb1ce448748e56"
+msgstr "Four-kan Abortion"
+
+#: translate_sheet.csv:2734
+msgctxt "No-ten (No Ready Hand)"
+msgid "sheet|VoiceSound.csv|name_en|8be626bc36e9dbfd92b156b345630946"
+msgstr "No-ten (No Ready Hand)"
+
+#: translate_sheet.csv:2732
+msgctxt "Tenpai (Ready Hand)"
+msgid "sheet|VoiceSound.csv|name_en|8c719d344cddb4b055a7bb140625bab2"
+msgstr "Tenpai (Ready Hand)"
+
+#: translate_sheet.csv:2730
+msgctxt "Sextuple Yakuman"
+msgid "sheet|VoiceSound.csv|name_en|7c8d0d03f064015a41e03744a65a9f1e"
+msgstr "Sextuple Yakuman"
+
+#: translate_sheet.csv:2728
+msgctxt "Quintuple Yakuman"
+msgid "sheet|VoiceSound.csv|name_en|17d8567aadee21059bed246e731ae6f8"
+msgstr "Quintuple Yakuman"
+
+#: translate_sheet.csv:2726
+msgctxt "Quadruple Yakuman"
+msgid "sheet|VoiceSound.csv|name_en|1c67878e85269553c17a432191386ec6"
+msgstr "Quadruple Yakuman"
+
+#: translate_sheet.csv:2724
+msgctxt "Triple Yakuman"
+msgid "sheet|VoiceSound.csv|name_en|dcbb26a4a2225b7f9016210ada4043c0"
+msgstr "Triple Yakuman"
+
+#: translate_sheet.csv:2722
+msgctxt "Double Yakuman"
+msgid "sheet|VoiceSound.csv|name_en|1dc5a6d60ccc09bcfaa67f8ecbb79bdc"
+msgstr "Double Yakuman"
+
+#: translate_sheet.csv:2720
+msgctxt "Yakuman"
+msgid "sheet|VoiceSound.csv|name_en|6bf8ce9f4b0cadf8f93f314d0489606b"
+msgstr "Yakuman"
+
+#: translate_sheet.csv:2718
+msgctxt "Counted Yakuman"
+msgid "sheet|VoiceSound.csv|name_en|69c39bbdbf1b5c22e1e26f6b5ac5e3ef"
+msgstr "Counted Yakuman"
+
+#: translate_sheet.csv:2716
+msgctxt "Sanbaiman"
+msgid "sheet|VoiceSound.csv|name_en|ec408107eb0d81651bef4e2e3b9ec0e4"
+msgstr "Sanbaiman"
+
+#: translate_sheet.csv:2714
+msgctxt "Baiman"
+msgid "sheet|VoiceSound.csv|name_en|671d162e9774348b3d4c316b8a41ea63"
+msgstr "Baiman"
+
+#: translate_sheet.csv:2712
+msgctxt "Haneman"
+msgid "sheet|VoiceSound.csv|name_en|1235b01f21057d97a5bcd020c6d1cfe1"
+msgstr "Haneman"
+
+#: translate_sheet.csv:2710
+msgctxt "Mangan"
+msgid "sheet|VoiceSound.csv|name_en|aac1ed2ce3d22d76b339959c6f41590c"
+msgstr "Mangan"
+
+#: translate_sheet.csv:2708
+msgctxt "Mangan at Draw"
+msgid "sheet|VoiceSound.csv|name_en|6a7c8af2962c108638943650fe72ab41"
+msgstr "Mangan at Draw"
+
+#: translate_sheet.csv:2706
+msgctxt "True Nine Gates"
+msgid "sheet|VoiceSound.csv|name_en|b47dd8c8c410edb21c957d9886ae23e8"
+msgstr "True Nine Gates"
+
+#: translate_sheet.csv:2704
+msgctxt "Nine Gates"
+msgid "sheet|VoiceSound.csv|name_en|3a59640b863e44ff9ad87dd9e040f8c0"
+msgstr "Nine Gates"
+
+#: translate_sheet.csv:2702
+msgctxt "Four Quads"
+msgid "sheet|VoiceSound.csv|name_en|1daa5b709e3e375e7b20bb74315c6b20"
+msgstr "Four Quads"
+
+#: translate_sheet.csv:2700
+msgctxt "Four Big Winds"
+msgid "sheet|VoiceSound.csv|name_en|163bbb75949a92890783fc6a4a62206d"
+msgstr "Four Big Winds"
+
+#: translate_sheet.csv:2698
+msgctxt "Four Little Winds"
+msgid "sheet|VoiceSound.csv|name_en|420a3838274b338f321fa1eff733f48a"
+msgstr "Four Little Winds"
+
+#: translate_sheet.csv:2696
+msgctxt "Thirteen-wait Thirteen Orphans"
+msgid "sheet|VoiceSound.csv|name_en|e538c2a56b6a2c79b3538b9dae2b981d"
+msgstr "Thirteen-wait Thirteen Orphans"
+
+#: translate_sheet.csv:2694
+msgctxt "Thirteen Orphans"
+msgid "sheet|VoiceSound.csv|name_en|5f405ede71c2b239712185d073731b35"
+msgstr "Thirteen Orphans"
+
+#: translate_sheet.csv:2692
+msgctxt "All Terminals"
+msgid "sheet|VoiceSound.csv|name_en|275d3f144c90d510465ea365db46ec6c"
+msgstr "All Terminals"
+
+#: translate_sheet.csv:2690
+msgctxt "All Green"
+msgid "sheet|VoiceSound.csv|name_en|1db76ab4c9191367a7561bb9cd3a2e8a"
+msgstr "All Green"
+
+#: translate_sheet.csv:2688
+msgctxt "All Honors"
+msgid "sheet|VoiceSound.csv|name_en|12cba6c6571f732033ca793a69df8fee"
+msgstr "All Honors"
+
+#: translate_sheet.csv:2686
+msgctxt "Single-wait Four Concealed Triplets"
+msgid "sheet|VoiceSound.csv|name_en|6d67ade4c4a6edaf8346f89af279ca44"
+msgstr "Single-wait Four Concealed Triplets"
+
+#: translate_sheet.csv:2684
+msgctxt "Four Concealed Triplets"
+msgid "sheet|VoiceSound.csv|name_en|4482f1b451646649d7cf3f258d084ea8"
+msgstr "Four Concealed Triplets"
+
+#: translate_sheet.csv:2682
+msgctxt "Big Three Dragons"
+msgid "sheet|VoiceSound.csv|name_en|dee8855e5d89fe6bd4d1651286f494e2"
+msgstr "Big Three Dragons"
+
+#: translate_sheet.csv:2680
+msgctxt "Blessing of Earth"
+msgid "sheet|VoiceSound.csv|name_en|aa63d3e8b649e70633eb6257dcf81add"
+msgstr "Blessing of Earth"
+
+#: translate_sheet.csv:2678
+msgctxt "Blessing of Heaven"
+msgid "sheet|VoiceSound.csv|name_en|8711ea7c6db0a617b885ff61bcd4d6d2"
+msgstr "Blessing of Heaven"
+
+#: translate_sheet.csv:2676
+msgctxt "Lots of Dora"
+msgid "sheet|VoiceSound.csv|name_en|3ed4a84589ba20b3be412561597b5d6c"
+msgstr "Lots of Dora"
+
+#: translate_sheet.csv:2650
+msgctxt "Ippatsu"
+msgid "sheet|VoiceSound.csv|name_en|fcee07e57a15ee5f7905089efa0d0d62"
+msgstr "Ippatsu"
+
+#: translate_sheet.csv:2647
+msgctxt "Full Flush"
+msgid "sheet|VoiceSound.csv|name_en|b2dd4ef6541a9e0eef6aeceaca908432"
+msgstr "Full Flush"
+
+#: translate_sheet.csv:2645
+msgctxt "Twice Pure Double Sequence"
+msgid "sheet|VoiceSound.csv|name_en|e7de1112a2e2996f2f4831a3401ab0f9"
+msgstr "Twice Pure Double Sequence"
+
+#: translate_sheet.csv:2643
+msgctxt "Half Flush"
+msgid "sheet|VoiceSound.csv|name_en|2b5bc529522b051554e64ef81935574d"
+msgstr "Half Flush"
+
+#: translate_sheet.csv:2641
+msgctxt "Fully Outside Hand"
+msgid "sheet|VoiceSound.csv|name_en|34f8424f055d1c5f86f3ddfccdfc8843"
+msgstr "Fully Outside Hand"
+
+#: translate_sheet.csv:2639
+msgctxt "Seven Pairs"
+msgid "sheet|VoiceSound.csv|name_en|0bd8b72120e5c893f2b46bac43454e66"
+msgstr "Seven Pairs"
+
+#: translate_sheet.csv:2637
+msgctxt "All Terminals and Honors"
+msgid "sheet|VoiceSound.csv|name_en|940c876c46f9c9fea15a564786478760"
+msgstr "All Terminals and Honors"
+
+#: translate_sheet.csv:2635
+msgctxt "Little Three Dragons"
+msgid "sheet|VoiceSound.csv|name_en|5cd64e16a6bd3e399c1d8717e8fbd0eb"
+msgstr "Little Three Dragons"
+
+#: translate_sheet.csv:2633
+msgctxt "Three Concealed Triplets"
+msgid "sheet|VoiceSound.csv|name_en|c59012eaa0bf83134fcfaa7f70f36814"
+msgstr "Three Concealed Triplets"
+
+#: translate_sheet.csv:2631
+msgctxt "All Triplets"
+msgid "sheet|VoiceSound.csv|name_en|2b4a67c206a998f9023c1d5d797d339e"
+msgstr "All Triplets"
+
+#: translate_sheet.csv:2629
+msgctxt "Three Quads"
+msgid "sheet|VoiceSound.csv|name_en|812f5e9f1dcf1a39a54e55984ed72bfe"
+msgstr "Three Quads"
+
+#: translate_sheet.csv:2627
+msgctxt "Triple Triplets"
+msgid "sheet|VoiceSound.csv|name_en|cbdc9caec675b8c016a21e2c82af6da2"
+msgstr "Triple Triplets"
+
+#: translate_sheet.csv:2625
+msgctxt "Mixed Triple Sequence"
+msgid "sheet|VoiceSound.csv|name_en|3ea2915191c4bc107565b665945d8339"
+msgstr "Mixed Triple Sequence"
+
+#: translate_sheet.csv:2623
+msgctxt "Pure Straight"
+msgid "sheet|VoiceSound.csv|name_en|c2a175e22af987a5c90392f962104566"
+msgstr "Pure Straight"
+
+#: translate_sheet.csv:2621
+msgctxt "Half Outside Hand"
+msgid "sheet|VoiceSound.csv|name_en|ae123760457f211f1836f318e6342240"
+msgstr "Half Outside Hand"
+
+#: translate_sheet.csv:2619
+msgctxt "Pinfu"
+msgid "sheet|VoiceSound.csv|name_en|6386b202840c4e438939d8a9bb3fe36c"
+msgstr "Pinfu"
+
+#: translate_sheet.csv:2617
+msgctxt "Pure Double Sequence"
+msgid "sheet|VoiceSound.csv|name_en|0bdf161567ea7bf013c3e4f0bf2597d2"
+msgstr "Pure Double Sequence"
+
+#: translate_sheet.csv:2615
+msgctxt "All Simples"
+msgid "sheet|VoiceSound.csv|name_en|0f7e1b03698f14bf4120ceda8bb70af4"
+msgstr "All Simples"
+
+#: translate_sheet.csv:2613
+msgctxt "North Repeat"
+msgid "sheet|VoiceSound.csv|name_en|a22974b095520551e883c0ced0841b19"
+msgstr "North Repeat"
+
+#: translate_sheet.csv:2611
+msgctxt "West Repeat"
+msgid "sheet|VoiceSound.csv|name_en|c2a6648c7b67a48dea1a10b97a99e68e"
+msgstr "West Repeat"
+
+#: translate_sheet.csv:2609
+msgctxt "South Repeat"
+msgid "sheet|VoiceSound.csv|name_en|0f000d7d87cba25acd2ec952f4fa59c9"
+msgstr "South Repeat"
+
+#: translate_sheet.csv:2607
+msgctxt "East Repeat"
+msgid "sheet|VoiceSound.csv|name_en|168c2ed6e22ddeb40f0cae0e321b2c40"
+msgstr "East Repeat"
+
+#: translate_sheet.csv:2599
+msgctxt "North"
+msgid "sheet|VoiceSound.csv|name_en|601560b94fbb188919dd1d36c8ab70a4"
+msgstr "North"
+
+#: translate_sheet.csv:2597
+msgctxt "West"
+msgid "sheet|VoiceSound.csv|name_en|bf495fc048d8d44b7f32536df5cf3930"
+msgstr "West"
+
+#: translate_sheet.csv:2595
+msgctxt "South"
+msgid "sheet|VoiceSound.csv|name_en|263d7b2cf53802c9ed127b718c0bf9fd"
+msgstr "South"
+
+#: translate_sheet.csv:2593
+msgctxt "East"
+msgid "sheet|VoiceSound.csv|name_en|a99dc62d017d04cf67266593f9c3761e"
+msgstr "East"
+
+#: translate_sheet.csv:2587
+msgctxt "After a Kan"
+msgid "sheet|VoiceSound.csv|name_en|8d1e2f6f5f26455a18916a4771dba2d8"
+msgstr "After a Kan"
+
+#: translate_sheet.csv:2585
+msgctxt "Robbing a Kan"
+msgid "sheet|VoiceSound.csv|name_en|ed51bd96928fac2b94f12b757b6553a6"
+msgstr "Robbing a Kan"
+
+#: translate_sheet.csv:2583
+msgctxt "Bond Level Up Voice 4"
+msgid "sheet|VoiceSound.csv|name_en|9cfed6f58550f8be48c346cf26960446"
+msgstr "Bond Level Up Voice 4"
+
+#: translate_sheet.csv:2581
+msgctxt "Bond Level Up Voice 3"
+msgid "sheet|VoiceSound.csv|name_en|6530dca8e29b0342327f926ac4bfa07d"
+msgstr "Bond Level Up Voice 3"
+
+#: translate_sheet.csv:2579
+msgctxt "Bond Level Up Voice 2"
+msgid "sheet|VoiceSound.csv|name_en|44075d0c56160934972cf4cae04a0bff"
+msgstr "Bond Level Up Voice 2"
+
+#: translate_sheet.csv:2577
+msgctxt "Bond Level Up Voice 1"
+msgid "sheet|VoiceSound.csv|name_en|97a22832686ec0952a63b3e617f7d0a4"
+msgstr "Bond Level Up Voice 1"
+
+#: translate_sheet.csv:2575
+msgctxt "Receiving Gift - Preferred"
+msgid "sheet|VoiceSound.csv|name_en|b1357964262a259bd2e759e1fdf6c2f9"
+msgstr "Receiving Gift - Preferred"
+
+#: translate_sheet.csv:2573
+msgctxt "Receiving Gift - Normal"
+msgid "sheet|VoiceSound.csv|name_en|a70375a8d76c77b25ec5b5f10c986e0b"
+msgstr "Receiving Gift - Normal"
+
+#: translate_sheet.csv:2571
+msgctxt "Lobby Interactive Voice 8"
+msgid "sheet|VoiceSound.csv|name_en|d0d66b4e35814781c772bd69cecea5bb"
+msgstr "Lobby Interactive Voice 8"
+
+#: translate_sheet.csv:2569
+msgctxt "Lobby Interactive Voice 7"
+msgid "sheet|VoiceSound.csv|name_en|a2ae6153fb93a00015dc7940c71f71b7"
+msgstr "Lobby Interactive Voice 7"
+
+#: translate_sheet.csv:2567
+msgctxt "Lobby Interactive Voice 6"
+msgid "sheet|VoiceSound.csv|name_en|edf13298b84ec2a69f10130fdaac82bd"
+msgstr "Lobby Interactive Voice 6"
+
+#: translate_sheet.csv:2565
+msgctxt "Lobby Interactive Voice 5"
+msgid "sheet|VoiceSound.csv|name_en|3cb0c32274c89a4ace6fda617f65f9f3"
+msgstr "Lobby Interactive Voice 5"
+
+#: translate_sheet.csv:2563
+msgctxt "Lobby Interactive Voice 4"
+msgid "sheet|VoiceSound.csv|name_en|e3178497426143c4423fb7d2a4739423"
+msgstr "Lobby Interactive Voice 4"
+
+#: translate_sheet.csv:2561
+msgctxt "Lobby Interactive Voice 3"
+msgid "sheet|VoiceSound.csv|name_en|c51744a0291846aa4bc7a4911900b99c"
+msgstr "Lobby Interactive Voice 3"
+
+#: translate_sheet.csv:2559
+msgctxt "Lobby Interactive Voice 2"
+msgid "sheet|VoiceSound.csv|name_en|16727188070022d86f38e2460ffb3613"
+msgstr "Lobby Interactive Voice 2"
+
+#: translate_sheet.csv:2557
+msgctxt "Lobby Interactive Voice 1"
+msgid "sheet|VoiceSound.csv|name_en|efc23c735df288e9615be5973a33172a"
+msgstr "Lobby Interactive Voice 1"
+
+#: translate_sheet.csv:2555
+msgctxt "Login Voice - Max Bond"
+msgid "sheet|VoiceSound.csv|name_en|4a2c9a8771f0d461511439a28b8b8bb4"
+msgstr "Login Voice - Max Bond"
+
+#: translate_sheet.csv:2553
+msgctxt "Login Voice - Normal"
+msgid "sheet|VoiceSound.csv|name_en|b95e81e396a7cf682369244eb2af3590"
+msgstr "Login Voice - Normal"
+
+#: translate_sheet.csv:2551
+msgctxt "Voice when obtained"
+msgid "sheet|VoiceSound.csv|name_en|75d83fdedcf9faff8db96efa0b981a05"
+msgstr "Voice when obtained"
+
+#: translate_sheet.csv:2549
+msgctxt "Finishing a game at 1st place"
+msgid "sheet|VoiceSound.csv|name_en|6f5ccf5b6fcbfda863221b9243b1e312"
+msgstr "Finishing a game at 1st place"
+
+#: translate_sheet.csv:2547
+msgctxt "Tsumo"
+msgid "sheet|VoiceSound.csv|name_en|4a9a44674169dda05397df16a02fac8f"
+msgstr "Tsumo"
+
+#: translate_sheet.csv:2806
+msgctxt "Bond"
+msgid "sheet|VoiceSound.csv|name_en|7a3b691731db2969498907b960183633"
+msgstr "Bond"
+
+#: translate_sheet.csv:2674
+msgctxt "Dora 12"
+msgid "sheet|VoiceSound.csv|name_en|9e7ed3ab453345e9d8f068612482e93e"
+msgstr "Dora 12"
+
+#: translate_sheet.csv:2672
+msgctxt "Dora 11"
+msgid "sheet|VoiceSound.csv|name_en|04cdfe64334d580929ae2847eba2783c"
+msgstr "Dora 11"
+
+#: translate_sheet.csv:2670
+msgctxt "Dora 10"
+msgid "sheet|VoiceSound.csv|name_en|8b1ccb1d4ac1325032c19b0596ee335b"
+msgstr "Dora 10"
+
+#: translate_sheet.csv:2668
+msgctxt "Dora 9"
+msgid "sheet|VoiceSound.csv|name_en|7d2d4655ff4f8dfc26f4e006ebd2d2a2"
+msgstr "Dora 9"
+
+#: translate_sheet.csv:2666
+msgctxt "Dora 8"
+msgid "sheet|VoiceSound.csv|name_en|f84743988904d81f035d7926d7020556"
+msgstr "Dora 8"
+
+#: translate_sheet.csv:2664
+msgctxt "Dora 7"
+msgid "sheet|VoiceSound.csv|name_en|93c4a337de3640f6e7372ea5ad286006"
+msgstr "Dora 7"
+
+#: translate_sheet.csv:2662
+msgctxt "Dora 6"
+msgid "sheet|VoiceSound.csv|name_en|da181a97c9a54229210ce749c949b5f8"
+msgstr "Dora 6"
+
+#: translate_sheet.csv:2660
+msgctxt "Dora 5"
+msgid "sheet|VoiceSound.csv|name_en|c44e0c13868f9a5fc276aa647141c25c"
+msgstr "Dora 5"
+
+#: translate_sheet.csv:2658
+msgctxt "Dora 4"
+msgid "sheet|VoiceSound.csv|name_en|83d515177d9f317f8f853f1204f85680"
+msgstr "Dora 4"
+
+#: translate_sheet.csv:2656
+msgctxt "Dora 3"
+msgid "sheet|VoiceSound.csv|name_en|9f25cdf3bcd81c071cf6653ddb2046bf"
+msgstr "Dora 3"
+
+#: translate_sheet.csv:2654
+msgctxt "Dora 2"
+msgid "sheet|VoiceSound.csv|name_en|890e355121c061a7a02baaebbd88694d"
+msgstr "Dora 2"
+
+#: translate_sheet.csv:2652
+msgctxt "Dora"
+msgid "sheet|VoiceSound.csv|name_en|affa5249363911dd655e5a7cfacb49e6"
+msgstr "Dora"
+
+#: translate_sheet.csv:2605
+msgctxt "Green"
+msgid "sheet|VoiceSound.csv|name_en|d382816a3cbeed082c9e216e7392eed1"
+msgstr "Green"
+
+#: translate_sheet.csv:2603
+msgctxt "White"
+msgid "sheet|VoiceSound.csv|name_en|25a81701fbfa4a1efdf660a950c1d006"
+msgstr "White"
+
+#: translate_sheet.csv:2601
+msgctxt "Red"
+msgid "sheet|VoiceSound.csv|name_en|ee38e4d5dd68c4e440825018d549cb47"
+msgstr "Red"
+
+#: translate_sheet.csv:2591
+msgctxt "Under the River"
+msgid "sheet|VoiceSound.csv|name_en|ecf2460302f6d703c297fd0ab1702603"
+msgstr "Under the River"
+
+#: translate_sheet.csv:2589
+msgctxt "Under the Sea"
+msgid "sheet|VoiceSound.csv|name_en|41fd01ff85357984bc66c12be95d24f6"
+msgstr "Under the Sea"
