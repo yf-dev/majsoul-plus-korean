@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-06 09:31+0000\n"
+"PO-Revision-Date: 2020-06-06 10:49+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -16422,10 +16422,9 @@ msgid "sheet|StrStr.csv|en|45b3f97730c6db8fb8cd2d6f6959aacf"
 msgstr "대회 입장"
 
 #: translate_sheet.csv:1749
-#, fuzzy
 msgctxt "To"
 msgid "sheet|StrStr.csv|en|e12167aa0a7698e6ebc92b4ce3909b53"
-msgstr "To"
+msgstr "~"
 
 #: translate_sheet.csv:1746
 msgctxt "Choose one to Kan"
@@ -18475,3 +18474,244 @@ msgid "sheet|ItemDefinitionSkin.csv|desc_en|f031146e6848701624c5d57a5712e495"
 msgstr ""
 "비치 파티 한정\\n"
 "\"받아라냥! 주인님이라도 이치히메에게는 쉽게 이길 수 없을거다냐!\""
+
+#: translate_sheet.csv:1869
+msgctxt "You must have a rank of {0} or higher to join the match."
+msgid "sheet|StrStr.csv|en|16011fc351ecc240c81d5334aaead6c5"
+msgstr "경기에 참가하려면 등급이 {0} 이상이어야 합니다."
+
+#: translate_sheet.csv:1868
+msgctxt "Requirements not met"
+msgid "sheet|StrStr.csv|en|70bf796c3742a55994b14037d90e3998"
+msgstr "요구사항이 충족되지 않음"
+
+#: translate_sheet.csv:1867
+msgctxt ""
+"You are not eligible to participate in this tournament. Unable to start "
+"match"
+msgid "sheet|StrStr.csv|en|0fd50ea6fa7f5f65de8b0130a8efd63a"
+msgstr "이 대회에 참가할 자격이 없습니다. 경기를 시작할 수 없습니다"
+
+#: translate_sheet.csv:1866
+msgctxt "Not eligible"
+msgid "sheet|StrStr.csv|en|c1d0ec5e47fd458f25ae5a89bfe74489"
+msgstr "자격 없음"
+
+#: translate_sheet.csv:1865
+msgctxt "Do you wish to refresh the Misc Shop?"
+msgid "sheet|StrStr.csv|en|262cd4387a47e07339dd99ea1a8e2133"
+msgstr "잡화점을 새로고침 하시겠습니까?"
+
+#: translate_sheet.csv:1861
+msgctxt "Tips Off"
+msgid "sheet|StrStr.csv|en|9db8db419b00ff300b63be0d7a417095"
+msgstr "팁 비활성화"
+
+#: translate_sheet.csv:1863
+msgctxt "Turn Tsumo Loss Off"
+msgid "sheet|StrStr.csv|en|1e2f545b4979baf7a6548cf403615888"
+msgstr "쯔모 손실 비활성화"
+
+#: translate_sheet.csv:1864
+msgctxt "Turn Tsumo Loss On"
+msgid "sheet|StrStr.csv|en|3a3f740a0b987d7abd40462f7f4400ae"
+msgstr "쯔모 손실 활성화"
+
+#: translate_sheet.csv:1862
+msgctxt "Summon"
+msgid "sheet|StrStr.csv|en|efde9837421a1454da9ca1d72146c552"
+msgstr "기원"
+
+#: translate_sheet.csv:1860
+msgctxt "From:"
+msgid "sheet|StrStr.csv|en|1e6d57e813355689e9c77e947d73ad8f"
+msgstr "시작 점수:"
+
+#: translate_sheet.csv:1859
+msgctxt "Loading page..."
+msgid "sheet|StrStr.csv|en|458fa251529c8c536aa7eff3cecd1c43"
+msgstr "페이지 로드 중..."
+
+#: translate_sheet.csv:1858
+msgctxt "Left"
+msgid "sheet|StrStr.csv|en|945d5e233cf7d6240f6b783b36a374ff"
+msgstr "개"
+
+#: translate_sheet.csv:1857
+msgctxt "New look received\\nNew emoji received"
+msgid "sheet|StrStr.csv|en|37cf29c52188031f75aa6dac3b5d4b1d"
+msgstr ""
+"새 의상 획득\\n"
+"새 이모티콘 획득"
+
+#: translate_sheet.csv:1855
+msgctxt "Riichi Bet"
+msgid "sheet|StrStr.csv|en|51a56fb9e03ea98266fed91f2ed51c43"
+msgstr "리치 봉"
+
+#: translate_sheet.csv:1854
+msgctxt "Unlock at Bond lv{0}"
+msgid "sheet|StrStr.csv|en|deba2f6059f36a6aa1a3c5ec07ee8283"
+msgstr "인연 lv{0}에서 해제"
+
+#: translate_sheet.csv:1853
+msgctxt "Purchase successful"
+msgid "sheet|StrStr.csv|en|bc263af4383bca778d6a0358a6aba9fe"
+msgstr "구매 성공"
+
+#: translate_sheet.csv:1852
+msgctxt "Remaining:"
+msgid "sheet|StrStr.csv|en|c2221b442f97a4e0d4bf5accc92ae2ca"
+msgstr "잔여:"
+
+#: translate_sheet.csv:1851
+msgctxt "Refresh chance:"
+msgid "sheet|StrStr.csv|en|adc8aa056a88cc9474105fc6c1b9fee4"
+msgstr "새로고침 기회:"
+
+#: translate_sheet.csv:1850
+msgctxt "Refresh"
+msgid "sheet|StrStr.csv|en|63a6a88c066880c5ac42394a22803ca6"
+msgstr "새로고침"
+
+#: translate_sheet.csv:1849
+msgctxt "VIP Refresh:"
+msgid "sheet|StrStr.csv|en|b1fd380eb5b2a3bef6d6e1a32ae45cd3"
+msgstr "VIP 새로고침:"
+
+#: translate_sheet.csv:1848
+msgctxt "Refresh Now"
+msgid "sheet|StrStr.csv|en|17f85a2730b3dd7b71e21b3d85c4c153"
+msgstr "지금 새로고침"
+
+#: translate_sheet.csv:1847
+msgctxt "Invalid ID"
+msgid "sheet|StrStr.csv|en|c1c8a564c10a0efe07bb4e4b20d88cc9"
+msgstr "잘못된 ID"
+
+#: translate_sheet.csv:1846
+msgctxt "Authentication successful"
+msgid "sheet|StrStr.csv|en|8f6235efd59b23d17939f5e056420bd1"
+msgstr "인증 성공"
+
+#: translate_sheet.csv:1845
+msgctxt "Incorrect legal name entered"
+msgid "sheet|StrStr.csv|en|23daf0fe5ed0206589786cf71e9aea84"
+msgstr "잘못된 법적 이름 임력됨"
+
+#: translate_sheet.csv:1844
+msgctxt "Waiting for other players to confirm"
+msgid "sheet|StrStr.csv|en|5977e9fde2f8933976b6178ae6b0ee8a"
+msgstr "다른 플레이어가 확인하기를 기다리는 중"
+
+#: translate_sheet.csv:1843
+msgctxt "Invalid tile wall information"
+msgid "sheet|StrStr.csv|en|435330303ce74d25c2033077be2a013d"
+msgstr "잘못된 패산 정보"
+
+#: translate_sheet.csv:1834
+msgctxt "Unable to make purchases on iOS version at this time"
+msgid "sheet|StrStr.csv|en|aaac8981a5989dbc213006176bc0d24e"
+msgstr "현재 iOS 버전에서는 구매할 수 없음"
+
+#: translate_sheet.csv:1833
+msgctxt "Recovering your last order"
+msgid "sheet|StrStr.csv|en|aa42d673806fec9982a46492541e29bf"
+msgstr "마지막 주문 복구"
+
+#: translate_sheet.csv:1832
+msgctxt "VIP"
+msgid "sheet|StrStr.csv|en|5a11e0bd65af42743f1db2f10bcbba8e"
+msgstr "VIP"
+
+#: translate_sheet.csv:1831
+msgctxt "Coppers"
+msgid "sheet|StrStr.csv|en|ac9d3f007043a8679f94c6abd2cc5f76"
+msgstr "동전"
+
+#: translate_sheet.csv:1830
+msgctxt "Jade"
+msgid "sheet|StrStr.csv|en|101222f5de28a8ada8477a7dd32d01ac"
+msgstr "휘옥"
+
+#: translate_sheet.csv:1829
+msgctxt "Alipay"
+msgid "sheet|StrStr.csv|en|92a176f8a430b8b977ffe5fcff601372"
+msgstr "Alipay"
+
+#: translate_sheet.csv:1828
+msgctxt "WeChat"
+msgid "sheet|StrStr.csv|en|e5b152ed6b4609e94678665e9a972cbc"
+msgstr "WeChat"
+
+#: translate_sheet.csv:1827
+msgctxt "Yen"
+msgid "sheet|StrStr.csv|en|69e8187a8af4c2ca3b95e6027ecfc9bf"
+msgstr "엔"
+
+#: translate_sheet.csv:1826
+#, fuzzy
+msgctxt "Successfully purchased {0}"
+msgid "sheet|StrStr.csv|en|afd9e0171fbea9e40c16b0c051c4525f"
+msgstr "{0} 구입 성공"
+
+#: translate_sheet.csv:1825
+#, fuzzy
+msgctxt "Failed to purchase {0}"
+msgid "sheet|StrStr.csv|en|a3517e6816f4daca5437ffdc35c974cb"
+msgstr "{0} 구입 실패"
+
+#: translate_sheet.csv:1824
+msgctxt "Condition: Gain {0} VIP Point"
+msgid "sheet|StrStr.csv|en|3b7e5ada3f14f9febe7d2ed23eed9d30"
+msgstr "조건: {0} VIP 포인트 획득"
+
+#: translate_sheet.csv:1823
+msgctxt "Gain {0} VIP Point or more to upgrade"
+msgid "sheet|StrStr.csv|en|849cc938247874f6b83318dbbade926a"
+msgstr "업그레이드하기 위해 {0} VIP 포인트 이상 획득하기"
+
+#: translate_sheet.csv:1822
+msgctxt "You've played a total of {0} hours"
+msgid "sheet|StrStr.csv|en|f548569e29d48161ea1f2fe582e4f62c"
+msgstr "총 {0} 시간을 플레이했습니다"
+
+#: translate_sheet.csv:1821
+msgctxt "Display error, exceeded border"
+msgid "sheet|StrStr.csv|en|36f43517fa1ba71551d9407d472e7b81"
+msgstr "표시 오류, 경계 침범"
+
+#: translate_sheet.csv:1820
+msgctxt "My Profile"
+msgid "sheet|StrStr.csv|en|e8956174978be0a343e1e582cf681e4c"
+msgstr "내 프로필"
+
+#: translate_sheet.csv:1818
+msgctxt "Unable to find opponents. Please try again later"
+msgid "sheet|StrStr.csv|en|907467d43bfe7c738bbb97ef59495c08"
+msgstr "상대를 찾을 수 없습니다. 나중에 다시 시도해주세요"
+
+#: translate_sheet.csv:1816
+msgctxt "Master"
+msgid "sheet|StrStr.csv|en|f03bde11d261f185cbacfa32c1c6538c"
+msgstr "주인"
+
+#: translate_sheet.csv:1815
+msgctxt "Yi"
+msgid "sheet|StrStr.csv|en|f52f0a4793a169d9b488936511fd7672"
+msgstr "억"
+
+#: translate_sheet.csv:1814
+msgctxt "Wan"
+msgid "sheet|StrStr.csv|en|43749cfd097243a97e3774723d430403"
+msgstr "만"
+
+#: translate_sheet.csv:1813
+msgctxt "You are in matchmaking, unable to spectate."
+msgid "sheet|StrStr.csv|en|0243ba6f1cdb6162a6e5c3856f0f5db1"
+msgstr "경기를 찾는 중에는 관전할 수 없습니다."
+
+#: translate_sheet.csv:1812
+msgctxt "You are waiting for the match to start. Cannot view game logs."
+msgid "sheet|StrStr.csv|en|6c756ad0f1c63816c82d4b94f457c8a1"
+msgstr "경기 시작을 기다리고 있습니다. 게임 로그를 볼 수 없습니다."
