@@ -1985,19 +1985,19 @@ StrStr.csv,en,Wan,만
 StrStr.csv,en,"You are in matchmaking, unable to spectate.",경기를 찾는 중에는 관전할 수 없습니다.
 StrStr.csv,en,You are waiting for the match to start. Cannot view game logs.,경기 시작을 기다리고 있습니다. 게임 로그를 볼 수 없습니다.
 StrStr.csv,en,"(Faith), as well as all-new characters and decorations",)과 새로운 캐릭터와 장식을 얻을 수 있습니다
-VoiceSound.csv,name_en,Ron,론
+VoiceSound.csv,name_en,Ron,Ron
 VoiceSound.csv,words_en,Riichi,리치
-VoiceSound.csv,name_en,Riichi,리치
+VoiceSound.csv,name_en,Riichi,Riichi
 VoiceSound.csv,words_en,Double Riichi,더블리치
-VoiceSound.csv,name_en,Double Riichi,더블리치
+VoiceSound.csv,name_en,Double Riichi,Double Riichi
 VoiceSound.csv,words_en,{10}Kita,{10}북도라
-VoiceSound.csv,name_en,Kita,북도라
+VoiceSound.csv,name_en,Kita,Kita
 VoiceSound.csv,words_en,Pon (Call for Triplet),펑
-VoiceSound.csv,name_en,Pon,펑
+VoiceSound.csv,name_en,Pon,Pon
 VoiceSound.csv,words_en,Kan (Call for Quad),깡
-VoiceSound.csv,name_en,Kan,깡
+VoiceSound.csv,name_en,Kan,Kan
 VoiceSound.csv,words_en,Chii,치
-VoiceSound.csv,name_en,Chii,치
+VoiceSound.csv,name_en,Chii,Chii
 StrStr.csv,en,Limited-time title Expiry date:,기간 한정 타이틀 만료일:
 StrStr.csv,en,Can be changed in the Settings,설정에서 변경할 수 있음
 StrStr.csv,en,Expiry date:,만료일:
@@ -2520,3 +2520,109 @@ StrStr.csv,en,Owned:{0},소유중: {0}
 StrStr.csv,en,Successfully claimed,성공적으로 받음
 StrStr.csv,en,Yakuman Stacking Disabled,역만 중첩 비활성화됨
 StrStr.csv,en,Each player can only join the match {0} time(s) during the tournament. You have run out of your chance(s).,각 플레이어는 대회 중 {0}번만 게임에 참가할 수 있습니다. 당신은 이미 참가 횟수를 모두 사용했습니다.
+VoiceSound.csv,name_en,SP - Tenpai with Baiman/Sanbaiman,SP - Tenpai with Baiman/Sanbaiman
+VoiceSound.csv,name_en,SP - Tenpai with Yakuman,SP - Tenpai with Yakuman
+VoiceSound.csv,name_en,SP - Less than 10 tiles remaining,SP - Less than 10 tiles remaining
+VoiceSound.csv,name_en,SP - When discarding a Dora,SP - When discarding a Dora
+VoiceSound.csv,name_en,SP - When discarding multiple identical tiles in a row,SP - When discarding multiple identical tiles in a row
+VoiceSound.csv,name_en,Bond Level Up Voice 5,Bond Level Up Voice 5
+VoiceSound.csv,name_en,Pon (Call for Triplet),Pon (Call for Triplet)
+VoiceSound.csv,name_en,Kan (Call for Quad),Kan (Call for Quad)
+VoiceSound.csv,name_en,Nine Different Terminals and Honors,Nine Different Terminals and Honors
+VoiceSound.csv,name_en,Four-Wind Discarded,Four-Wind Discarded
+VoiceSound.csv,name_en,Four-kan Abortion,Four-kan Abortion
+VoiceSound.csv,name_en,No-ten (No Ready Hand),No-ten (No Ready Hand)
+VoiceSound.csv,name_en,Tenpai (Ready Hand),Tenpai (Ready Hand)
+VoiceSound.csv,name_en,Sextuple Yakuman,Sextuple Yakuman
+VoiceSound.csv,name_en,Quintuple Yakuman,Quintuple Yakuman
+VoiceSound.csv,name_en,Quadruple Yakuman,Quadruple Yakuman
+VoiceSound.csv,name_en,Triple Yakuman,Triple Yakuman
+VoiceSound.csv,name_en,Double Yakuman,Double Yakuman
+VoiceSound.csv,name_en,Yakuman,Yakuman
+VoiceSound.csv,name_en,Counted Yakuman,Counted Yakuman
+VoiceSound.csv,name_en,Sanbaiman,Sanbaiman
+VoiceSound.csv,name_en,Baiman,Baiman
+VoiceSound.csv,name_en,Haneman,Haneman
+VoiceSound.csv,name_en,Mangan,Mangan
+VoiceSound.csv,name_en,Mangan at Draw,Mangan at Draw
+VoiceSound.csv,name_en,True Nine Gates,True Nine Gates
+VoiceSound.csv,name_en,Nine Gates,Nine Gates
+VoiceSound.csv,name_en,Four Quads,Four Quads
+VoiceSound.csv,name_en,Four Big Winds,Four Big Winds
+VoiceSound.csv,name_en,Four Little Winds,Four Little Winds
+VoiceSound.csv,name_en,Thirteen-wait Thirteen Orphans,Thirteen-wait Thirteen Orphans
+VoiceSound.csv,name_en,Thirteen Orphans,Thirteen Orphans
+VoiceSound.csv,name_en,All Terminals,All Terminals
+VoiceSound.csv,name_en,All Green,All Green
+VoiceSound.csv,name_en,All Honors,All Honors
+VoiceSound.csv,name_en,Single-wait Four Concealed Triplets,Single-wait Four Concealed Triplets
+VoiceSound.csv,name_en,Four Concealed Triplets,Four Concealed Triplets
+VoiceSound.csv,name_en,Big Three Dragons,Big Three Dragons
+VoiceSound.csv,name_en,Blessing of Earth,Blessing of Earth
+VoiceSound.csv,name_en,Blessing of Heaven,Blessing of Heaven
+VoiceSound.csv,name_en,Lots of Dora,Lots of Dora
+VoiceSound.csv,name_en,Ippatsu,Ippatsu
+VoiceSound.csv,name_en,Full Flush,Full Flush
+VoiceSound.csv,name_en,Twice Pure Double Sequence,Twice Pure Double Sequence
+VoiceSound.csv,name_en,Half Flush,Half Flush
+VoiceSound.csv,name_en,Fully Outside Hand,Fully Outside Hand
+VoiceSound.csv,name_en,Seven Pairs,Seven Pairs
+VoiceSound.csv,name_en,All Terminals and Honors,All Terminals and Honors
+VoiceSound.csv,name_en,Little Three Dragons,Little Three Dragons
+VoiceSound.csv,name_en,Three Concealed Triplets,Three Concealed Triplets
+VoiceSound.csv,name_en,All Triplets,All Triplets
+VoiceSound.csv,name_en,Three Quads,Three Quads
+VoiceSound.csv,name_en,Triple Triplets,Triple Triplets
+VoiceSound.csv,name_en,Mixed Triple Sequence,Mixed Triple Sequence
+VoiceSound.csv,name_en,Pure Straight,Pure Straight
+VoiceSound.csv,name_en,Half Outside Hand,Half Outside Hand
+VoiceSound.csv,name_en,Pinfu,Pinfu
+VoiceSound.csv,name_en,Pure Double Sequence,Pure Double Sequence
+VoiceSound.csv,name_en,All Simples,All Simples
+VoiceSound.csv,name_en,North Repeat,North Repeat
+VoiceSound.csv,name_en,West Repeat,West Repeat
+VoiceSound.csv,name_en,South Repeat,South Repeat
+VoiceSound.csv,name_en,East Repeat,East Repeat
+VoiceSound.csv,name_en,North,North
+VoiceSound.csv,name_en,West,West
+VoiceSound.csv,name_en,South,South
+VoiceSound.csv,name_en,East,East
+VoiceSound.csv,name_en,After a Kan,After a Kan
+VoiceSound.csv,name_en,Robbing a Kan,Robbing a Kan
+VoiceSound.csv,name_en,Bond Level Up Voice 4,Bond Level Up Voice 4
+VoiceSound.csv,name_en,Bond Level Up Voice 3,Bond Level Up Voice 3
+VoiceSound.csv,name_en,Bond Level Up Voice 2,Bond Level Up Voice 2
+VoiceSound.csv,name_en,Bond Level Up Voice 1,Bond Level Up Voice 1
+VoiceSound.csv,name_en,Receiving Gift - Preferred,Receiving Gift - Preferred
+VoiceSound.csv,name_en,Receiving Gift - Normal,Receiving Gift - Normal
+VoiceSound.csv,name_en,Lobby Interactive Voice 8,Lobby Interactive Voice 8
+VoiceSound.csv,name_en,Lobby Interactive Voice 7,Lobby Interactive Voice 7
+VoiceSound.csv,name_en,Lobby Interactive Voice 6,Lobby Interactive Voice 6
+VoiceSound.csv,name_en,Lobby Interactive Voice 5,Lobby Interactive Voice 5
+VoiceSound.csv,name_en,Lobby Interactive Voice 4,Lobby Interactive Voice 4
+VoiceSound.csv,name_en,Lobby Interactive Voice 3,Lobby Interactive Voice 3
+VoiceSound.csv,name_en,Lobby Interactive Voice 2,Lobby Interactive Voice 2
+VoiceSound.csv,name_en,Lobby Interactive Voice 1,Lobby Interactive Voice 1
+VoiceSound.csv,name_en,Login Voice - Max Bond,Login Voice - Max Bond
+VoiceSound.csv,name_en,Login Voice - Normal,Login Voice - Normal
+VoiceSound.csv,name_en,Voice when obtained,Voice when obtained
+VoiceSound.csv,name_en,Finishing a game at 1st place,Finishing a game at 1st place
+VoiceSound.csv,name_en,Tsumo,Tsumo
+VoiceSound.csv,name_en,Bond,Bond
+VoiceSound.csv,name_en,Dora 12,Dora 12
+VoiceSound.csv,name_en,Dora 11,Dora 11
+VoiceSound.csv,name_en,Dora 10,Dora 10
+VoiceSound.csv,name_en,Dora 9,Dora 9
+VoiceSound.csv,name_en,Dora 8,Dora 8
+VoiceSound.csv,name_en,Dora 7,Dora 7
+VoiceSound.csv,name_en,Dora 6,Dora 6
+VoiceSound.csv,name_en,Dora 5,Dora 5
+VoiceSound.csv,name_en,Dora 4,Dora 4
+VoiceSound.csv,name_en,Dora 3,Dora 3
+VoiceSound.csv,name_en,Dora 2,Dora 2
+VoiceSound.csv,name_en,Dora,Dora
+VoiceSound.csv,name_en,Green,Green
+VoiceSound.csv,name_en,White,White
+VoiceSound.csv,name_en,Red,Red
+VoiceSound.csv,name_en,Under the River,Under the River
+VoiceSound.csv,name_en,Under the Sea,Under the Sea
