@@ -11,14 +11,14 @@ jobs:
       run: |
         echo "::set-output name=json::$(curl https://mahjongsoul.game.yo-star.com/version.json | md5sum)"
 
+    - name: Checkout repo
+      uses: actions/checkout@v2
+      
     - name: Cache data
       uses: actions/cache@v2
       with:
         path: ./data/assets-original
         key: ${{ runner.os }}-${{ steps.get-majsoul-version.outputs.json }}
-
-    - name: Checkout repo
-      uses: actions/checkout@v2
 
     - name: Build docker image
       run: docker-compose build --force-rm --no-cache
