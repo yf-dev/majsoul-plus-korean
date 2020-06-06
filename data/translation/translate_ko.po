@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-05 16:12+0000\n"
+"PO-Revision-Date: 2020-06-06 09:31+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -16180,3 +16180,2298 @@ msgstr "이치히메"
 msgctxt "Default Look"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|31aa19ddbc48e794f878057243ae30bc"
 msgstr "기본 의상"
+
+#: translate_sheet.csv:1811
+msgctxt "Follow"
+msgid "sheet|StrStr.csv|en|3903aab323863bd2e9b68218a7a65ebd"
+msgstr "팔로우"
+
+#: translate_sheet.csv:1810
+msgctxt "Followed"
+msgid "sheet|StrStr.csv|en|f2fe1a641d957aae9840739dae9f459e"
+msgstr "팔로우함"
+
+#: translate_sheet.csv:1809
+msgctxt "Match has ended"
+msgid "sheet|StrStr.csv|en|c6724f3f57d70108f6b7e6cd8f37aec8"
+msgstr "경기 종료됨"
+
+#: translate_sheet.csv:1808
+msgctxt "Prepare for match"
+msgid "sheet|StrStr.csv|en|276076bbe6f18fb6e3afc1084dba13f5"
+msgstr "경기 준비"
+
+#: translate_sheet.csv:1807
+msgctxt "Waiting to start..."
+msgid "sheet|StrStr.csv|en|080181fc10540c4f99ac20b9472d19da"
+msgstr "시작 대기 중..."
+
+#: translate_sheet.csv:1806
+msgctxt "Match hasn't started"
+msgid "sheet|StrStr.csv|en|2f9b4602422da3a3e62ad679b3c81cc5"
+msgstr "경기가 시작되지 않았습니다"
+
+#: translate_sheet.csv:1805
+msgctxt "Last {0} Matches Total Hanchan Score:"
+msgid "sheet|StrStr.csv|en|199c6579b165bb86636ced53cb8c234d"
+msgstr "최근 {0} 경기 총 정산 점수:"
+
+#: translate_sheet.csv:1804
+msgctxt "Open Tanyao On"
+msgid "sheet|StrStr.csv|en|d91568b9fe131755a3a2f19f1ebaa660"
+msgstr "쿠이탕 있음"
+
+#: translate_sheet.csv:1803
+msgctxt "Open Tanyao Off"
+msgid "sheet|StrStr.csv|en|2ba4fec77722f7c9464f750901c4838e"
+msgstr "쿠이탕 없음"
+
+#: translate_sheet.csv:1802
+msgctxt "Points"
+msgid "sheet|StrStr.csv|en|75dd5f1160a3f02b6fae89c54361a1b3"
+msgstr "점수"
+
+#: translate_sheet.csv:1801
+msgctxt "Game End:"
+msgid "sheet|StrStr.csv|en|0cd7037cbaf1d5f6eed30be0b6bacb8e"
+msgstr "게임 종료:"
+
+#: translate_sheet.csv:1800
+msgctxt "The game has begun!"
+msgid "sheet|StrStr.csv|en|72185dbc4cd56f0892296c62f10d96e0"
+msgstr "게임이 시작되었습니다!"
+
+#: translate_sheet.csv:1799
+msgctxt "AI"
+msgid "sheet|StrStr.csv|en|0a40e3c91a3a55c9a37428c6d194d0e5"
+msgstr "AI"
+
+#: translate_sheet.csv:1797
+msgctxt "(System)"
+msgid "sheet|StrStr.csv|en|24f2e9811661a32dcc26c5c5224f4275"
+msgstr "(시스템)"
+
+#: translate_sheet.csv:1796
+msgctxt "Failed to connect to chat room"
+msgid "sheet|StrStr.csv|en|8cd4dd6f0787aceb15cf222dec9a8649"
+msgstr "채팅방에 연결하지 못함"
+
+#: translate_sheet.csv:1794
+msgctxt "Enter link"
+msgid "sheet|StrStr.csv|en|d6d644f5425c6e3d35480b0f462d7858"
+msgstr "링크 입력"
+
+#: translate_sheet.csv:1793
+msgctxt "Copy"
+msgid "sheet|StrStr.csv|en|5fb63579fc981698f97d55bfecb213ea"
+msgstr "복사"
+
+#: translate_sheet.csv:1792
+msgctxt "Mahjong Soul Game Log"
+msgid "sheet|StrStr.csv|en|305d8ed31c22b2b99aa04e4d6c982e14"
+msgstr "작혼 게임 로그"
+
+#: translate_sheet.csv:1791
+msgctxt "Successfully copied"
+msgid "sheet|StrStr.csv|en|6e745fb807e67a2bc5b4504ec892e0fd"
+msgstr "성공적으로 복사됨"
+
+#: translate_sheet.csv:1790
+msgctxt "Game Log Link"
+msgid "sheet|StrStr.csv|en|e2720ecdb10e738dc180bb59a10add0b"
+msgstr "게임 로그 링크"
+
+#: translate_sheet.csv:1789
+msgctxt "Extension to South/West"
+msgid "sheet|StrStr.csv|en|33ba2d3a1764aa38de40ee9a2b4ba227"
+msgstr "남/서입"
+
+#: translate_sheet.csv:1785
+msgctxt "First Place All Last Dealer Win Ends Game"
+msgid "sheet|StrStr.csv|en|c56ee11ce7623756493a0783b527bb4c"
+msgstr "1위인 친이 최종국에서 승리로 게임 종료"
+
+#: translate_sheet.csv:1787
+msgctxt "First Place All Last Dealer Tenpai Ends Game"
+msgid "sheet|StrStr.csv|en|65832eafaa1cde473aeccfbf97838127"
+msgstr "1위인 친이 최종국에서 텐파이로 게임 종료"
+
+#: translate_sheet.csv:1786
+msgctxt "Dealer Repeats if Tenpai"
+msgid "sheet|StrStr.csv|en|91c34b2083c3718ffec49cc458459e90"
+msgstr "친 텐파이시 연짱"
+
+#: translate_sheet.csv:1784
+msgctxt "Dealer Repeats on Win"
+msgid "sheet|StrStr.csv|en|56874b3827826d6948d372dcc0a8b2c6"
+msgstr "친 화료시 연짱"
+
+#: translate_sheet.csv:1783
+msgctxt "Head-Bump"
+msgid "sheet|StrStr.csv|en|e55c01b40c3642d78d70d9b97092984d"
+msgstr "아타마하네"
+
+#: translate_sheet.csv:1782
+msgctxt "Triple-Ron Draw"
+msgid "sheet|StrStr.csv|en|1bf460d5622f415c9d1f1441941f56a9"
+msgstr "트리플론"
+
+#: translate_sheet.csv:1780
+msgctxt "Four-Player Riichi Draw"
+msgid "sheet|StrStr.csv|en|800b2c2108b922938486d2edb469c2b9"
+msgstr "사가리치"
+
+#: translate_sheet.csv:1778
+msgctxt "Four-Wind Discarded Draw"
+msgid "sheet|StrStr.csv|en|85a28ef1244e7d5e9207d4db572a2832"
+msgstr "사풍연타"
+
+#: translate_sheet.csv:1779
+msgctxt "Four-Kan Abortive Draw"
+msgid "sheet|StrStr.csv|en|c7a6e397d25f3b89f44b9bdecec1c0ae"
+msgstr "사깡유국"
+
+#: translate_sheet.csv:1777
+msgctxt "Reveal Dora immediately after calling Open Kan"
+msgid "sheet|StrStr.csv|en|089fcca6f90c95ffdcc0828866e378ad"
+msgstr "명깡을 선언한 경우 즉시 도라 공개"
+
+#: translate_sheet.csv:1776
+msgctxt "Kan-Ura Dora"
+msgid "sheet|StrStr.csv|en|ec3bc662cfe223e73111eb7bc1e7e004"
+msgstr "깡뒷도라"
+
+#: translate_sheet.csv:1775
+msgctxt "Ura Dora"
+msgid "sheet|StrStr.csv|en|281857607b9c9a72f7e606bc2a37fa8b"
+msgstr "뒷도라"
+
+#: translate_sheet.csv:1774
+msgctxt "Kan Dora"
+msgid "sheet|StrStr.csv|en|3d33d0923e5c0e84667d6c35a6923600"
+msgstr "깡도라"
+
+#: translate_sheet.csv:1773
+msgctxt "Open Dora"
+msgid "sheet|StrStr.csv|en|921775b5cc7d64764be288abffdbf4d4"
+msgstr "도라"
+
+#: translate_sheet.csv:1772
+msgctxt "Kiriage Mangan"
+msgid "sheet|StrStr.csv|en|a41ed190d82cd3fbce4b6ac851865fd0"
+msgstr "키리아게 만관"
+
+#: translate_sheet.csv:1769
+msgctxt "Uma"
+msgid "sheet|StrStr.csv|en|747fc9cc9a0245b4da2ea33437eaabd1"
+msgstr "우마"
+
+#: translate_sheet.csv:1768
+msgctxt "Goal"
+msgid "sheet|StrStr.csv|en|12c74214cb4c18cf36d885303d6aa2e1"
+msgstr "목표"
+
+#: translate_sheet.csv:1767
+msgctxt "Noten Penalty"
+msgid "sheet|StrStr.csv|en|f61506675dafdf87faaede8e060e7f04"
+msgstr "노텐 패널티"
+
+#: translate_sheet.csv:1766
+msgctxt "Continuance Counters Points"
+msgid "sheet|StrStr.csv|en|29f51661268676332236164200007a2d"
+msgstr "연짱 점수"
+
+#: translate_sheet.csv:1764
+msgctxt "Automatic Win"
+msgid "sheet|StrStr.csv|en|82a3dad08977952b65f804e493e598c3"
+msgstr "자동 승리"
+
+#: translate_sheet.csv:1763
+msgctxt "Busting"
+msgid "sheet|StrStr.csv|en|e90adedb80e73170da2f7d3ac255947a"
+msgstr "버스팅"
+
+#: translate_sheet.csv:1757
+msgctxt "Red Five"
+msgid "sheet|StrStr.csv|en|396fb37104cdff1ecb14a1f8d0929b81"
+msgstr "적도라"
+
+#: translate_sheet.csv:1754
+msgctxt "No tournament info found"
+msgid "sheet|StrStr.csv|en|2bf5893432d1025f468fa0065173d600"
+msgstr "대회 정보를 찾을 수 없음"
+
+#: translate_sheet.csv:1753
+msgctxt "You are not following any tournament info"
+msgid "sheet|StrStr.csv|en|278c2463079b35e99f5eb0e18519729f"
+msgstr "어떠한 대회 정보도 팔로우하지 않았습니다"
+
+#: translate_sheet.csv:1752
+msgctxt "Error loading new data. Please try again later"
+msgid "sheet|StrStr.csv|en|654871b91c3a159ec2ea35cc2c77b51a"
+msgstr "새 데이터를 로드하는 중 오류가 발생했습니다. 나중에 다시 시도해주세요"
+
+#: translate_sheet.csv:1751
+msgctxt "Match ID not found:"
+msgid "sheet|StrStr.csv|en|0936c8b3cc8d69266df9d68c1985d7fa"
+msgstr "경기 ID를 찾을 수 없음:"
+
+#: translate_sheet.csv:1750
+msgctxt "Enter Tournament"
+msgid "sheet|StrStr.csv|en|45b3f97730c6db8fb8cd2d6f6959aacf"
+msgstr "대회 입장"
+
+#: translate_sheet.csv:1749
+#, fuzzy
+msgctxt "To"
+msgid "sheet|StrStr.csv|en|e12167aa0a7698e6ebc92b4ce3909b53"
+msgstr "To"
+
+#: translate_sheet.csv:1746
+msgctxt "Choose one to Kan"
+msgid "sheet|StrStr.csv|en|c8290af0dc07c51a15ab0146a90de74e"
+msgstr "깡 선언할 패 선택"
+
+#: translate_sheet.csv:1745
+msgctxt "Final data unavailable"
+msgid "sheet|StrStr.csv|en|272ef9d5fed8483500963cef981030d5"
+msgstr "최종 데이터를 사용할 수 없음"
+
+#: translate_sheet.csv:1744
+msgctxt "Sent"
+msgid "sheet|StrStr.csv|en|7f8c0283f16925caed8e632086b81b9c"
+msgstr "보냄"
+
+#: translate_sheet.csv:1743
+msgctxt "Added"
+msgid "sheet|StrStr.csv|en|f29ddbfb905eb2593fdcdfb243f9af85"
+msgstr "추가됨"
+
+#: translate_sheet.csv:1742
+msgctxt "An error occurred while loading data {0}"
+msgid "sheet|StrStr.csv|en|6e520e60dcb976a68d6daa89564a695a"
+msgstr "데이터 {0}을(를) 로드하는 중 오류가 발생했습니다"
+
+#: translate_sheet.csv:1741
+msgctxt "Do you wish to delete your friend {0}?"
+msgid "sheet|StrStr.csv|en|5c7cb8aea59a406d9d17fdd0e4f00280"
+msgstr "친구 {0}을(를) 삭제 하시겠습니까?"
+
+#: translate_sheet.csv:1740
+msgctxt "Online"
+msgid "sheet|StrStr.csv|en|54f664c70c22054ea0d8d26fc3997ce7"
+msgstr "온라인"
+
+#: translate_sheet.csv:1739
+msgctxt "{0}"
+msgid "sheet|StrStr.csv|en|b7ee2123a1bbeea9606c2afb57f0bc63"
+msgstr "{0}"
+
+#: translate_sheet.csv:1738
+msgctxt "An unspecified error:"
+msgid "sheet|StrStr.csv|en|e7021552ac98e31ef7236f4c1f2bbcb6"
+msgstr "지정되지 않은 오류:"
+
+#: translate_sheet.csv:1737
+msgctxt "Reason:"
+msgid "sheet|StrStr.csv|en|ccb168b5a6a86eb100dc2dee754a316b"
+msgstr "사유:"
+
+#: translate_sheet.csv:1736
+msgctxt "Banned until:"
+msgid "sheet|StrStr.csv|en|331ddc67b14ab677839cc0d34f092bae"
+msgstr "다음 기간까지 정지됨:"
+
+#: translate_sheet.csv:1735
+msgctxt "Permanently Banned"
+msgid "sheet|StrStr.csv|en|1458cfcc120de8d4a92623b41d519aca"
+msgstr "영구 정지됨"
+
+#: translate_sheet.csv:1734
+msgctxt "Your account has been banned for violating the game rules"
+msgid "sheet|StrStr.csv|en|d521b675f5a4d1cd36d7f742801e127e"
+msgstr "당신의 계정은 게임 규정을 위반하여 정지되었습니다"
+
+#: translate_sheet.csv:1733
+msgctxt "Unknown Error"
+msgid "sheet|StrStr.csv|en|b3ea5d4962bbcb423b6e3693d7a1ea9f"
+msgstr "알 수 없는 오류"
+
+#: translate_sheet.csv:1732
+msgctxt "Authentication Error"
+msgid "sheet|StrStr.csv|en|08febe5afbf4e0b8b3737bedeb1f1b4a"
+msgstr "인증 오류"
+
+#: translate_sheet.csv:1731
+msgctxt "Network Error"
+msgid "sheet|StrStr.csv|en|3201603bcb7148a3f37775f184dbda44"
+msgstr "네트워크 오류"
+
+#: translate_sheet.csv:1730
+msgctxt "Registration Error"
+msgid "sheet|StrStr.csv|en|79e928f27fb57d697ba502f62d864aab"
+msgstr "등록 오류"
+
+#: translate_sheet.csv:1729
+msgctxt "Connection Error"
+msgid "sheet|StrStr.csv|en|f0967f215d969cc29613b435600b02c4"
+msgstr "연결 오류"
+
+#: translate_sheet.csv:1728
+msgctxt ""
+"You've already logged into an account on this device. Please do not "
+"repeatedly login."
+msgid "sheet|StrStr.csv|en|1cd981b1c13d587f9da19231bf4a0b62"
+msgstr "이 기기에서 이미 로그인했습니다. 반복적으로 로그인하지 마세요."
+
+#: translate_sheet.csv:1727
+msgctxt "Enter your password"
+msgid "sheet|StrStr.csv|en|e8d28194f9b3498d21fbda21321d0226"
+msgstr "비밀번호 입력"
+
+#: translate_sheet.csv:1726
+msgctxt "Enter your account"
+msgid "sheet|StrStr.csv|en|98c6be218877d144f8fcaf7957677189"
+msgstr "계정 입력"
+
+#: translate_sheet.csv:1725
+msgctxt "Search Log"
+msgid "sheet|StrStr.csv|en|2a4c81a5d9f9f89efdfe8e528bf01e3a"
+msgstr "로그 검색"
+
+#: translate_sheet.csv:1724
+msgctxt "Friends Room"
+msgid "sheet|StrStr.csv|en|8373e7b7593ced6bbc1a939dfb90cda8"
+msgstr "친선전"
+
+#: translate_sheet.csv:1722
+msgctxt "Reconnection successful"
+msgid "sheet|StrStr.csv|en|2886b17c8922178f32a66706379b3ab9"
+msgstr "재접속 성공"
+
+#: translate_sheet.csv:1721
+msgctxt "Unknown condition"
+msgid "sheet|StrStr.csv|en|c686ec81c9f18a7730231878101baeba"
+msgstr "알 수 없는 상태"
+
+#: translate_sheet.csv:1720
+msgctxt "Disconnected. Trying to reconnect..."
+msgid "sheet|StrStr.csv|en|b462739b370bcaeb8aa5dbc60ca048f2"
+msgstr "연결 끊김. 다시 연결하는 중..."
+
+#: translate_sheet.csv:1719
+msgctxt "Connection lost. Please login again."
+msgid "sheet|StrStr.csv|en|0cae87c1dabb5b03a78b641fdd8f5acc"
+msgstr "연결 끊김. 다시 로그인해주세요."
+
+#: translate_sheet.csv:1718
+msgctxt "Enter Game MD5 Code:"
+msgid "sheet|StrStr.csv|en|6d1298c160c2227afa919691715fd09b"
+msgstr "게임 MD5 코드 입력:"
+
+#: translate_sheet.csv:1712
+msgctxt "Real name authentication: Incomplete"
+msgid "sheet|StrStr.csv|en|fe517d520091f28cc6ee236666acb36d"
+msgstr "실명 인증: 미완료"
+
+#: translate_sheet.csv:1711
+msgctxt "Real name authentication: Completed"
+msgid "sheet|StrStr.csv|en|0d4daf408df4612bf37545e9f8067775"
+msgstr "실명 인증: 완료"
+
+#: translate_sheet.csv:1709
+msgctxt "Choose one to Pon"
+msgid "sheet|StrStr.csv|en|b5dcf138276968ddca4c170de1c43684"
+msgstr "퐁 선언할 패 선택"
+
+#: translate_sheet.csv:1708
+msgctxt "Choose one to Chii"
+msgid "sheet|StrStr.csv|en|110b48d18b2bd3159e336e6026b6f118"
+msgstr "치 선언할 패 선택"
+
+#: translate_sheet.csv:1707
+msgctxt "Donation Successful"
+msgid "sheet|StrStr.csv|en|9511ea340fc9ce70f3ceba850f3a4cc2"
+msgstr "기부 성공"
+
+#: translate_sheet.csv:1706
+msgctxt "Do you wish to donate these gifts?"
+msgid "sheet|StrStr.csv|en|b3cbf2dcec0dafd8be23ae5b66233e80"
+msgstr "선물을 기부하시겠습니까?"
+
+#: translate_sheet.csv:1705
+msgctxt "Use"
+msgid "sheet|StrStr.csv|en|ad8783089f828b927473fb61d51940ec"
+msgstr "사용하기"
+
+#: translate_sheet.csv:1682
+msgctxt "Failed to retrieve reconnection information"
+msgid "sheet|StrStr.csv|en|488c2dfbb015f4a60fdf3ce13e506a87"
+msgstr "재접속 정보를 받아올 수 없습니다"
+
+#: translate_sheet.csv:1681
+msgctxt "Game has already ended"
+msgid "sheet|StrStr.csv|en|00382b00f522331692e1835de2997faa"
+msgstr "게임이 이미 종료되었습니다"
+
+#: translate_sheet.csv:1680
+msgctxt "Unknown"
+msgid "sheet|StrStr.csv|en|88183b946cc5f0e8c96b2e66e1c74a7e"
+msgstr "알 수 없음"
+
+#: translate_sheet.csv:1679
+msgctxt "System under maintenance"
+msgid "sheet|StrStr.csv|en|9b46af7236cecf0d0f8e37c5400133c3"
+msgstr "시스템 유지보수 중"
+
+#: translate_sheet.csv:1678
+msgctxt "An error occurred when connecting to the Mahjong table"
+msgid "sheet|StrStr.csv|en|62a4c57f79268703fbe0ffa5ba776712"
+msgstr "마작 테이블에 연결하는 동안 오류가 발생했습니다"
+
+#: translate_sheet.csv:1677
+msgctxt "Auto Reconnect Failed"
+msgid "sheet|StrStr.csv|en|997d90c0a015da6bd3be2ffff522b1b5"
+msgstr "자동 재연결 실패"
+
+#: translate_sheet.csv:1676
+msgctxt "Connection error, please refresh and try again."
+msgid "sheet|StrStr.csv|en|61e8c04627897512a09e8d18bb7c9367"
+msgstr "연결 오류, 새로고침한 후 다시 시도해주세요."
+
+#: translate_sheet.csv:1675
+msgctxt "Failed to download log data"
+msgid "sheet|StrStr.csv|en|208f91f7bb6bd8b0685c9a95eb4d955f"
+msgstr "로그 데이터 다운로드 실패"
+
+#: translate_sheet.csv:1672
+msgctxt "Failed to retrieve version info. Please check your connection."
+msgid "sheet|StrStr.csv|en|5ef4101c881ee5b55a536a1a23bca55c"
+msgstr "버전 정보를 가져올 수 없습니다. 연결 상태를 확인해주세요."
+
+#: translate_sheet.csv:1671
+msgctxt ""
+"New update available for iOS. Please download from the official website."
+msgid "sheet|StrStr.csv|en|30c014326b74cbda9c6987f8d260ebba"
+msgstr "iOS에서 사용할 수 있는 새 업데이트가 있습니다. 공식 웹 사이트에서 다운로드하십시오."
+
+#: translate_sheet.csv:1670
+msgctxt "Tile Call Indicator"
+msgid "sheet|StrStr.csv|en|26aa7f246a955ac9d3fc400d318735e6"
+msgstr "후로패 표시기"
+
+#: translate_sheet.csv:1669
+msgctxt "Select your Tile Call Indicator style"
+msgid "sheet|StrStr.csv|en|5dc0a4b4fc70b683eb9962421b32d596"
+msgstr "후로패 표시기 스타일을 선택하세요"
+
+#: translate_sheet.csv:1668
+msgctxt "Select a portrait frame"
+msgid "sheet|StrStr.csv|en|f20da491d8b8ee45abde2a01fe6ad40b"
+msgstr "초상화 프레임을 선택하세요"
+
+#: translate_sheet.csv:1667
+msgctxt "Select the music played after you declare Riichi"
+msgid "sheet|StrStr.csv|en|be8f221896a9e338975d98d6db5891c3"
+msgstr "리치 음악을 선택하세요"
+
+#: translate_sheet.csv:1666
+msgctxt "Select your hand style"
+msgid "sheet|StrStr.csv|en|698352feaa0fbf49ffc244ccb5b67731"
+msgstr "손 스타일을 선택하세요"
+
+#: translate_sheet.csv:1665
+msgctxt "Select your specific effect when declaring Riichi"
+msgid "sheet|StrStr.csv|en|75122adb04a9d39a654c72a797634627"
+msgstr "리치 특수 효과를 선택하세요"
+
+#: translate_sheet.csv:1664
+msgctxt "Select the special effect when you win a hand"
+msgid "sheet|StrStr.csv|en|5c409158d4fcea5b06163e7a9cebdf66"
+msgstr "화료 특수 효과를 선택하세요"
+
+#: translate_sheet.csv:1663
+msgctxt "Select your Riichi Bet style"
+msgid "sheet|StrStr.csv|en|e0ed8b3a5ca84202431ea4505fffe0a2"
+msgstr "리치 봉 스타일을 선택해주세요"
+
+#: translate_sheet.csv:1656
+msgctxt "You cannot perform this action while in matchmaking"
+msgid "sheet|StrStr.csv|en|589daa14acba90ff3eaa85119710d240"
+msgstr "경기를 찾는 중에는 이 작업을 수행할 수 없습니다"
+
+#: translate_sheet.csv:1655
+msgctxt "Shop closed, more items are coming."
+msgid "sheet|StrStr.csv|en|df2016a38d9032774d99b0f1def612a8"
+msgstr "상점이 문을 닫고, 더 많은 물건을 들여오고 있습니다."
+
+#: translate_sheet.csv:1654
+msgctxt "Your friends are on their way"
+msgid "sheet|StrStr.csv|en|6c0eb26871259d01c16d1ca47b2b4168"
+msgstr "친구들이 오고 있습니다"
+
+#: translate_sheet.csv:1653
+msgctxt "Preparing tournament, stay tuned!"
+msgid "sheet|StrStr.csv|en|ecdf6108512f4675a81b4ce55f05141f"
+msgstr "대회 준비중입니다, 채널 고정!"
+
+#: translate_sheet.csv:1651
+msgctxt ""
+"Oops, you cannot enter this room with your current rank. Please select a "
+"room appropriate to your rank."
+msgid "sheet|StrStr.csv|en|83b7514cf21aa855a87ac4592225b829"
+msgstr "이런, 지금 등급으로는 이 방에 들어갈 수 없습니다. 등급에 맞는 방을 선택해주세요."
+
+#: translate_sheet.csv:1650
+msgctxt ""
+"Oops, you don't have enough coppers to enter this room. Please select a "
+"lower room level."
+msgid "sheet|StrStr.csv|en|0235ece26088f8c1ffc0feb28c67376a"
+msgstr "이런, 이 방에 입장하기 위한 동전이 부족합니다. 더 낮은 등급의 방을 선택해주세요."
+
+#: translate_sheet.csv:1649
+msgctxt ""
+"Rank Limit: Saint and above\n"
+"\\n4-player Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\n"
+"\\n3-player Order Bonus: 1st +15, 2nd +0, 3rd -15\n"
+"\\nIn Throne Room, Dora tips, same tile tips and Tenpai tips are disabled\n"
+"\\n\\nEast Round Match:\n"
+"\\nEntry Limit: 10000 Coppers\n"
+"\\nExchange Rate: 1000 Points = 200 Coppers\n"
+"\\nEntry Fee: 2000 Coppers\n"
+"\\n4-player Rank Bonus: 1st +60, 2nd +30, 3rd +0, 4th - penalty based on current rank\n"
+"\\n3-player Rank Bonus: 1st +120, 2nd +0, 3rd - penalty based on current rank\n"
+"\\n4-player Throne Chest Progress: 1st +260, 2nd +130, 3rd +95, 4th +60\n"
+"\\n3-player Throne Chest Progress: 1st +170, 2nd +100, 3rd +40\n"
+"\\n\\nSouth Round Match:\n"
+"\\nEntry Limit: 14000 Coppers\n"
+"\\nExchange Rate: 1000 Points = 280 Coppers\n"
+"\\nEntry Fee: 2800 Coppers\n"
+"\\n4-player Rank Bonus: 1st +120, 2nd +60, 3rd +0, 4th - penalty based on current rank\n"
+"\\n3-player Rank Bonus: 1st +240, 2nd 0, 3rd - penalty based on current rank\n"
+"\\n4-player Throne Chest Progress: 1st +360, 2nd +180, 3rd +130, 4th +80\n"
+"\\n3-player Throne Chest Progress: 1st +240, 2nd +135, 3rd +50\n"
+"\\n\\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity."
+msgid "sheet|StrStr.csv|en|b81f74e335b472adb09925a91092f7e8"
+msgstr ""
+"등급 제한: 작성 이상\n"
+"\\n"
+"4인 우마 점수: 1위 +15, 2위 +5, 3위 -5, 4위 -15\n"
+"\\n"
+"3인 우마 점수: 1위 +15, 2위 +0, 3위 -15\n"
+"\\n"
+"왕좌탁에서는 도라 팁, 동일 패 팁, 대기패 팁은 비활성화됨\n"
+"\\n"
+"\\n"
+"동풍전:\n"
+"\\n"
+"입장 제한: 10000 동전\n"
+"\\n"
+"교환비: 1000점 = 200 동전\n"
+"\\n"
+"입장료: 2000 동전\n"
+"\\n"
+"4인 등급 점수: 1위 +60, 2위 +30, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"3인 등급 점수: 1위 +120, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"4인 왕의 상자 진행도: 1위 +260, 2위 +130, 3위 +95, 4위 +60\n"
+"\\n"
+"3인 왕의 상자 진행도: 1위 +170, 2위 +100, 3위 +40\n"
+"\\n"
+"\\n"
+"반장전:\n"
+"\\n"
+"입장 제한: 14000 동전\n"
+"\\n"
+"교환비: 1000점 = 280 동전\n"
+"\\n"
+"입장료: 2800 동전\n"
+"\\n"
+"4인 등급 점수: 1위 +120, 2위 +60, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"3인 등급 점수: 1위 +240, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"4인 왕의 상자 진행도: 1위 +360, 2위 +180, 3위 +130, 4위 +80\n"
+"\\n"
+"3인 왕의 상자 진행도: 1위 +240, 2위 +135, 3위 +50\n"
+"\\n"
+"\\n"
+"동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다."
+
+#: translate_sheet.csv:1648
+msgctxt ""
+"“Tsumo Loss” is a rule that disregards the points that should be paid by the"
+" North player in a 3-Player Mahjong match. The points will still be "
+"calculated like a Tsumo game for 4-Player Mahjong. This makes the points won"
+" from Tsumo in a 3-Player game 1/3 or 1/4 lower than from the points won "
+"from Ron. \\nIf “Tsumo Loss” is turned off, the points that should be paid "
+"by the North player will be evenly distributed to the other two players. In "
+"this way, games won from both Tsumo and Ron will receive the same points."
+msgid "sheet|StrStr.csv|en|d885ef0dbd8697710e358d5ad4c45f80"
+msgstr ""
+"“쯔모 손실”은 3인 마작 경기에서 북가가 지불해야 하는 점수를 무시하는 규칙입니다. 점수는 4인 마작에서 쯔모한 것과 동일하게 "
+"계산됩니다. 이것은 3인 마작에서 쯔모로 화료한 점수를 론으로 화료한 점수보다 1/3 또는 1/4 낮게 만듭니다.\\n"
+"“쯔모 손실”을 비활성화하면 북가가 지불해야 하는 점수를 다른 두 플레이어에게 고르게 분배합니다. 이렇게 하면 쯔모와 론으로 화료한 경우 "
+"같은 점수를 받게됩니다."
+
+#: translate_sheet.csv:1647
+msgctxt ""
+"Poor network connection. Please use VPN or switch your internet environment."
+msgid "sheet|StrStr.csv|en|843748e95f97974fc9f691cd847dfa21"
+msgstr "네트워크 연결 상태가 좋지 않습니다. VPN을 사용하거나 인터넷 환경을 변경하십시오."
+
+#: translate_sheet.csv:1646
+msgctxt "Match server list is empty. Unable to connect."
+msgid "sheet|StrStr.csv|en|11e70d9f8528539191a74dea483be3d6"
+msgstr "경기 서버 목록이 비어 있습니다. 연결할 수 없습니다."
+
+#: translate_sheet.csv:1645
+msgctxt "Failed to connect to match server. Please refresh and try again."
+msgid "sheet|StrStr.csv|en|5fda2facee4ef0824f1b3384a2f98296"
+msgstr "경기 서버에 연결하지 못했습니다. 새로고침한 후 다시 시도해주세요."
+
+#: translate_sheet.csv:1644
+msgctxt "Cannot find match list. Please refresh and try again."
+msgid "sheet|StrStr.csv|en|976f2227bc071be476c5b2c918056c65"
+msgstr "경기 목록을 찾을 수 없습니다. 새로고침한 후 다시 시도해주세요."
+
+#: translate_sheet.csv:1643
+msgctxt ""
+"3-Player Mahjong Rules:\\n - Order Bonus +15, 0, -15\\n - 8 Dead Wall "
+"tiles\\n - 2M-8M tiles not used\\n - “Chii” is not allowed\\n -“North Wind” "
+"can be melded and used as a Kita Dora. Upon calling Kita, the player can "
+"draw an extra tile from the Dead Wall.\\n - “Tsumo” after Kita is considered"
+" a Dead Wall Draw\\n - Kita is considered as a call (which disables "
+"Ippatsu/Miracle (Non-Dealer)/Nine Terminal Initial Draw/Double Riichi) but "
+"does not make Menzenchin invalid\\n - Players can declare a Ron when others "
+"are Kita, but this has no Yaku\\n - North Winds are considered as Useless "
+"Wind when in triplets\\n - You may turn “Tsumo Loss” on or off in the "
+"advanced settings."
+msgid "sheet|StrStr.csv|en|c8f7c9870437d0f6eb82171245d791d7"
+msgstr ""
+"3인 마작 규칙:\\n"
+" - 우마 점수 +15, 0, -15\\n"
+" - 왕패 8칸\\n"
+" - 2-8만패는 사용하지 않음\\n"
+" - “치”금지\\n"
+" - “북패”는 빼기 도라로 사용함. 북패를 울어서 왕패에서 쯔모할 수 있음.\\n"
+" - 북패를 울어 “쯔모”하는 것은 영상패로 취급\\n"
+" - 북패는 “후로”로 취급(일발/지화/인화/구종구패/더블리치를 할 수 없게 함)하지만 멘젠 상태를 변화시키지 않음\\n"
+" - 플레이어는 다른 사람이 북패를 울 때 론을 선헐할 수 있지만, 별도의 역으로 취급하지 않음\\n"
+" - 북패 커쯔는 역으로 취급하지 않음\\n"
+" - “쯔모 손실”을 세부 설정에서 켜고 끌 수 있음."
+
+#: translate_sheet.csv:1642
+msgctxt ""
+"In the tournament lobby, players can create and manage different tournaments"
+" using customized rules. \\n Illegal activities, such as gambling, are "
+"strictly prohibited in Mahjong Soul and will face serious consequences once "
+"found. We hope all players can work together to ensure a healthy gaming "
+"environment. \\n\\nParticipant:\\n - Tournament matches will not involve "
+"coppers or PTs. \\n - Tournament match results will not be reflected in "
+"“Recent Trends”, “Style (stats)” or “Match Info”, but may appear in “Recent "
+"High Score”. \\n - Players can only prepare for tournaments marked as “In "
+"Progress”. \\n - Tournament matches can only be spectated in corresponding "
+"tournament rooms with a 300 seconds delay. \\n - Participants can view the "
+"match logs of a tournament within the tournament room. \\n\\nOrganizer:\\n -"
+" Organizers can enter the organizer center to create and manage tournaments "
+"via “Manage Tournament” on mahjongsoul.yo-star.com. \\n - Each account can "
+"create up to 1 tournament every 7 days. \\n - Creating a tournament will "
+"cost 60 Jade. \\n - A tournament room will exist for up to 90 days, starting"
+" from the day it was created. \\n - Tournament matches will use the same "
+"rules as the standard Ranked Match if “Advanced Rules” are disabled. \\n - "
+"Creators can add other players as admins to help manage the tournament. \\n "
+"- Tournament admins may use statistical tools in the organizer center to "
+"analyze participant scores and rankings. \\n - Tournament matches must be "
+"manually activated by admins. Participants will not be randomly matched."
+msgid "sheet|StrStr.csv|en|dd9328c007db6629a95aac5060f7d894"
+msgstr ""
+"대회 로비에서는 사용자 정의 규칙을 사용하여 다양한 대회를 만들고 관리할 수 있습니다. \\n"
+" 작혼에서는 도박과 같은 불법 행위를 엄격하게 금지하고 있으며, 발견될 경우 심각한 결과에 직면하게 될 것입니다. 건전한 게임 환경을 "
+"만들기 위해 모든 플레이어들이 함께 노력합시다. \\n"
+"\\n"
+"참가자:\\n"
+" - 대회전은 동전과 점수에 영향을 주지 않습니다. \\n"
+" = 대회전의 결과는 “최근 트렌드”, “스타일(스탯)” 및 “경기 정보”에 반영되지 않지만 “최근 고득점”에는 표시될 수 있습니다. \\"
+"n"
+" - 플레이어는 “진행중”으로 표시된 대회만 준비할 수 있습니다. \\n"
+" - 대회 관전은 300초 지연된 대회 방에서만 볼 수 있습니다. \\n"
+" - 참가자는 대회 방 내에서 대회의 경기 로그를 볼 수 있습니다. \\n"
+"\\n"
+"주최자:\\n"
+" - 주최자는 mahjongsoul.yo-star.com의 “대회 관리”를 통해 주최자 센터에 입장하여 대회를 만들고 관리할 수 "
+"있습니다. \\n"
+" - 각 계정은 7일마다 최대 1개의 대회를 만들 수 있습니다. \\n"
+" - 대회를 만들기 위해서는 60 휘옥이 필요합니다. \\n"
+" - 대화 방은 생성일로부터 90일까지 유지됩니다. \\n"
+" - 대회 경기는 \"세부 규칙\"이 비활성화된 경우 일반 등급전과 동일한 규칙을 사용합니다. \\n"
+" - 대회 개최자는 다른 플레이어를 관리자로 추가하여 대회 관리를 돕게 할 수 있습니다. \\n"
+" - 대회 관리자는 주최자 센터에서 통계 도구를 사용하여 참가자의 점수 및 순위를 분석할 수 있습니다. \\n"
+" - 대회 경기는 관리자가 수동으로 활성화해야 합니다. 참가자는 임의로 경기를 치룰 수 없습니다."
+
+#: translate_sheet.csv:1641
+msgctxt ""
+"Players can get 1 Faith each time they summon. \\nClick the button on the "
+"left to enter Faith Shop. Rare items and characters can be purchased with "
+"Faith."
+msgid "sheet|StrStr.csv|en|9c2923139c426013bf935dc3e8ea2d32"
+msgstr ""
+"플레이어는 기원할 때마다 1 신앙을 얻습니다. \\n"
+"왼쪽에 있는 버튼을 클릭하여 신앙 상점에 입장합니다. 희귀한 아이템과 캐릭터를 신앙으로 교환할 수 있습니다."
+
+#: translate_sheet.csv:1640
+msgctxt ""
+"Open Tanyao: \\nWhen “Open Tanyao” is on, “Tanyao” also counts as a Yaku "
+"when you have called for tiles \\nWhen “Open Tanyao” is off, “Tanyao” only "
+"counts as a Yaku when you have Menzenchin (no calls made)."
+msgid "sheet|StrStr.csv|en|ccc9675de73199419615243790f5f650"
+msgstr ""
+"쿠이탕: \\n"
+"“쿠이탕”이 허용되어 있으면, 울었을 때에도 “탕야오”가 역으로 인정됩니다 \\n"
+"“쿠이탕”이 허용되지 않으면, “탕야오”는 멘젠 상태(울지 않음)에만 역으로 인정됩니다."
+
+#: translate_sheet.csv:1639
+msgctxt ""
+"Tips include: \\nSame Tile: When you select a tile, similar tiles in the "
+"discard pile will be highlighted \\nTenpai: Display the type and remaining "
+"quantity of tiles required to win when you achieve Tenpai \\nDora: Dora "
+"tiles will be highlighted."
+msgid "sheet|StrStr.csv|en|6fb18570889d01708f1ffe7dc3279e3d"
+msgstr ""
+"팁에는 다음이 포함됩니다: \\n"
+"같은 패: 패를 선택하면, 버림패에서 동일한 패가 강조표시됩니다 \\n"
+"텐파이: 텐파이하면 대기패의 종류와 수량이 표시됩니다 \\n"
+"도라: 도라패가 강조표시됩니다."
+
+#: translate_sheet.csv:1638
+msgctxt "You have been removed from the room"
+msgid "sheet|StrStr.csv|en|87e8dc4cbe71d94dd6c7e57e13959fb8"
+msgstr "방에서 강퇴당하셨습니다"
+
+#: translate_sheet.csv:1637
+msgctxt ""
+"ATK: This stat increases with your average points won in the last 100 "
+"games;\\nDEF: This stat increases as your deal-in rate over the last 100 "
+"games decreases;\\nSPD: This stat increases as your win rate over the last "
+"100 games increases;\\nLUK: This stat is higher when you had more Dora-Yaku "
+"(Dora, Ura Dora, Red Five & Ippatsu) in the last 20 wins."
+msgid "sheet|StrStr.csv|en|25776c0f00ec4f4e6f39fd3851c6ac3d"
+msgstr ""
+"공격: 이 스탯은 최근 100게임에서 획득한 평균 점수에 따라 증가합니다;\\n"
+"수비: 이 스탯은 최근 100게임에서 방총당한 비율이 줄어들수록 증가합니다;\\n"
+"속도: 이 스탯은 최근 100게임에서 승률이 높이질수록 증가합니다;\\n"
+"행운: 이 스탯은 최근 20승에서 도라 역(도라, 뒷도라, 적도라, 일발)이 많을수록 증가합니다."
+
+#: translate_sheet.csv:1636
+msgctxt ""
+"Starting Points: 35,000\\nExtension into West: At the end of 3rd South game, if 1st place has less than 40,000 points\\nLength: Two-Wind Match\\nRed Five: 2\\nOpen Tanyao: On\\nTsumo Loss： On\\nWaiting Time: 5+20\n"
+"\\n - 8 Dead Wall tiles;\n"
+"\\n - 2,3,4,5,6,7,8-Man tiles are not used;\n"
+"\\n - “Chii” is not allowed;\n"
+"\\n - “North Wind” can be melded and used as a Kita Dora. Upon calling Kita, the player can draw an extra tile from the Dead Wall.\n"
+"\\n - “Tsumo” after Kita is considered a Dead Wall Draw;\n"
+"\\n - Kita is considered as a call (which disables Ippatsu/Miracle (Non-Dealer)/Nine Terminal Initial Draw/Double Riichi) but does not make Menzenchin invalid;\n"
+"\\n - Players can declare a Ron when others are Kita, but this has no Yaku;\n"
+"\\n - North Wind triplets are not considered as Yaku;"
+msgid "sheet|StrStr.csv|en|4f9907118f266fd8c3bcde36d3bacfa0"
+msgstr ""
+"시작 점수: 35,000\\n"
+"서입: 남3국 종료시 1위 점수가 40,000점 미만일 때\\n"
+"길이: 반장전\\n"
+"적도라: 2\\n"
+"쿠이탕: 허용\\n"
+"쯔모 손실： 있음\\n"
+"제한 시간: 5+20\n"
+"\\n"
+" - 왕패 8칸;\n"
+"\\n"
+" - 2,3,4,5,6,7,8만패는 사용하지 않음;\n"
+"\\n"
+" - “치”금지;\n"
+"\\n"
+" - “북패”는 빼기 도라로 사용함. 북패를 울어서 왕패에서 쯔모할 수 있음.\n"
+"\\n"
+" - 북패를 울어 “쯔모”하는 것은 영상패로 취급;\n"
+"\\n"
+" - 북패는 “후로”로 취급(일발/지화/인화/구종구패/더블리치를 할 수 없게 함)하지만 멘젠 상태를 변화시키지 않음;\n"
+"\\n"
+" - 플레이어는 다른 사람이 북패를 울 때 론을 선헐할 수 있지만, 별도의 역으로 취급하지 않음;\n"
+"\\n"
+" - 북패 커쯔는 역으로 취급하지 않음;"
+
+#: translate_sheet.csv:1635
+msgctxt ""
+"Starting Points: 35,000\\nExtension into South: At the end of 3rd East game, if 1st place has less than 40,000 points\\nLength: East Round Match\\nRed Five: 2\\nOpen Tanyao: On\\nTsumo Loss： On\\nWaiting Time: 5+20\n"
+"\\n - 8 Dead Wall tiles;\n"
+"\\n - 2,3,4,5,6,7,8-Man tiles are not used;\n"
+"\\n - “Chii” is not allowed;\n"
+"\\n - “North Wind” can be melded and used as a Kita Dora. Upon calling Kita, the player can draw an extra tile from the Dead Wall.\n"
+"\\n - “Tsumo” after Kita is considered a Dead Wall Draw;\n"
+"\\n - Kita is considered as a call (which disables Ippatsu/Miracle (Non-Dealer)/Nine Terminal Initial Draw/Double Riichi) but does not make Menzenchin invalid;\n"
+"\\n - Players can declare a Ron when others are Kita, but this has no Yaku;\n"
+"\\n - North Wind triplets are not considered as Yaku;"
+msgid "sheet|StrStr.csv|en|512d2a8c757f67c826811fc1f52453ca"
+msgstr ""
+"시작 점수: 35,000\\n"
+"남입: 동3국 종료시 1위 점수가 40,000점 미만일 때\\n"
+"길이: 동풍전\\n"
+"적도라: 2\\n"
+"쿠이탕: 허용\\n"
+"쯔모 손실： 있음\\n"
+"제한 시간: 5+20\n"
+"\\n"
+" - 왕패 8칸;\n"
+"\\n"
+" - 2,3,4,5,6,7,8만패는 사용하지 않음;\n"
+"\\n"
+" - “치”금지;\n"
+"\\n"
+" - “북패”는 빼기 도라로 사용함. 북패를 울어서 왕패에서 쯔모할 수 있음.\n"
+"\\n"
+" - 북패를 울어 “쯔모”하는 것은 영상패로 취급;\n"
+"\\n"
+" - 북패는 “후로”로 취급(일발/지화/인화/구종구패/더블리치를 할 수 없게 함)하지만 멘젠 상태를 변화시키지 않음;\n"
+"\\n"
+" - 플레이어는 다른 사람이 북패를 울 때 론을 선헐할 수 있지만, 별도의 역으로 취급하지 않음;\n"
+"\\n"
+" - 북패 커쯔는 역으로 취급하지 않음;"
+
+#: translate_sheet.csv:1634
+msgctxt ""
+"You cannot change so frequently. Please wait 30 seconds before trying again."
+msgid "sheet|StrStr.csv|en|ad274bbf7a0bf10436e5422525e15f88"
+msgstr "너무 자주 변경하고 있습니다. 다시 시도하기 전에 30초 동안 기다려주세요."
+
+#: translate_sheet.csv:1633
+msgctxt "Do you wish to close the game?"
+msgid "sheet|StrStr.csv|en|87462f1017bbe0bc981fe452658a58a8"
+msgstr "게임을 종료하시겠습니까?"
+
+#: translate_sheet.csv:1632
+msgctxt "Do you wish to leave this room?"
+msgid "sheet|StrStr.csv|en|2ddf12beed7046df13dbd25942dbebfe"
+msgstr "이 방을 나가시겠습니까?"
+
+#: translate_sheet.csv:1631
+msgctxt "You cannot send messages while in a match"
+msgid "sheet|StrStr.csv|en|c77012ff84e934055539477cd26283ea"
+msgstr "게임 중에는 메시지를 전송할 수 없습니다"
+
+#: translate_sheet.csv:1630
+msgctxt "Do you wish to delete this message?"
+msgid "sheet|StrStr.csv|en|7846e5d72ce9cd4538a1386edc5d2892"
+msgstr "이 메시지를 삭제하시겠습니까?"
+
+#: translate_sheet.csv:1629
+msgctxt "This player only allows friends to leave messages"
+msgid "sheet|StrStr.csv|en|b7e757661d408865219b3bd2ae7372fc"
+msgstr "이 플레이어에게는 친구만 메시지를 전송할 수 있습니다"
+
+#: translate_sheet.csv:1628
+msgctxt "This player has disabled messenger."
+msgid "sheet|StrStr.csv|en|4daaf27ed259327ed433ada75d7dc373"
+msgstr "이 플레이어는 메신저 기능을 비활성화했습니다."
+
+#: translate_sheet.csv:1627
+msgctxt "This match has ended. Leaving spectate mode."
+msgid "sheet|StrStr.csv|en|9670370befc7d5792d7da6781a30d1ef"
+msgstr "이 게임은 종료되었습니다. 관전 모드를 나갑니다."
+
+#: translate_sheet.csv:1626
+msgctxt ""
+"An error occurred while loading to spectate the match. Please exit and re-"
+"enter again."
+msgid "sheet|StrStr.csv|en|2b778daa967dc3d44fc55cc61d96a8cd"
+msgstr "경기를 관전하기 위해 로드하는 중 오류가 발생했습니다. 종료한 후 다시 입장해주세요."
+
+#: translate_sheet.csv:1625
+msgctxt ""
+"Oops, something is wrong with the program. Please refresh and enter the game"
+" again."
+msgid "sheet|StrStr.csv|en|168b4d6f14f31568f4be9a19b759ba84"
+msgstr "이런, 뭔가 잘못됬습니다. 새로고침 후 다시 게임에 접속해주세요."
+
+#: translate_sheet.csv:1624
+msgctxt "Attempting to connect to server. Please try again later."
+msgid "sheet|StrStr.csv|en|eff671752070c2a72ecedf81d9e0e3fe"
+msgstr "서버에 연결하려고 시도 중입니다. 나중에 다시 시도해주세요."
+
+#: translate_sheet.csv:1623
+msgctxt "Failed to connect to server"
+msgid "sheet|StrStr.csv|en|a9a70cd6177209344c8eab46cf98610f"
+msgstr "서버에 연결하지 못했습니다"
+
+#: translate_sheet.csv:1622
+msgctxt ""
+"You have a poor connection. Please check your network proxy settings and try"
+" again."
+msgid "sheet|StrStr.csv|en|a28a59b285b8f14b64c6f3445e8a97e3"
+msgstr "연결이 불안정합니다. 네트워크 프록시 설정을 확인하고 다시 시도해주세요."
+
+#: translate_sheet.csv:1621
+msgctxt ""
+"Rank Limit: N/A\\nMinimum coppers: N/A\\nMaximum coppers: N/A\\nRank Points:"
+" N/A\\n\\nMatches played in Smash Room will involve no coppers or Rank "
+"Points. There will be no entry restrictions either. All players can enjoy "
+"Mahjong here!"
+msgid "sheet|StrStr.csv|en|37ba9d632774f62dc1853287aff07ca0"
+msgstr ""
+"등급 제한: 없음\\n"
+"최소 동전: 없음\\n"
+"최대 동전: 없음\\n"
+"등급 점수: 없음\\n"
+"\\n"
+"스매쉬 룸의 플레이는 동전과 등급 점수에 영향을 주지 않습니다. 입장 제한도 없습니다. 여기에서는 모든 플레이어가 마작을 즐길 수 "
+"있습니다!"
+
+#: translate_sheet.csv:1620
+msgctxt ""
+"Enter a room number, or tap the invitation link sent by a friend to join the"
+" corresponding room and start playing!\\nIn Friends Room, only game points "
+"are calculated. Rank Points and coppers will not be affected."
+msgid "sheet|StrStr.csv|en|c0f1d29405a2dd31583aa46d8ffbb80a"
+msgstr ""
+"방 번호를 입력하거나 친구가 보낸 초대 링크를 눌러 방에 참여하시고 게임을 시작하세요!\\n"
+"친선전에서는 게임 우마만 계산됩니다. 등급 포인트와 동전은 변경되지 않습니다."
+
+#: translate_sheet.csv:1619
+msgctxt ""
+"Mode:\\n4-Player: 4-Player Mahjong rules used\\n3-Player: 3-Player Mahjong "
+"rules used\\nLength:\\nVS AI: Practice with AI, only play 1 East Game\\nEast"
+" Wind Match: Play an East Wind round with other players or AI\\nTwo-Wind "
+"Match: Play a Two-Wind Match with other players or AI\\nIn Friends Room, "
+"only game points are calculated. Rank Points and coppers will not be "
+"affected."
+msgid "sheet|StrStr.csv|en|2fc8b4670dc6e120798c4670728029f8"
+msgstr ""
+"모드:\\n"
+"4인: 4인 마작 규칙 사용\\n"
+"3인: 3인 마작 규칙 사용\\n"
+"길이:\\n"
+"VS AI: AI와 연습, 동1국만 플레이\\n"
+"동풍전: 다른 플레이어 또는 AI와 동풍전 플레이\\n"
+"반장전: 다른 플레이어 또는 AI와 반장전 플레이\\n"
+"친선전에서는 게임 우마만 계산됩니다. 등급 포인트와 동전은 변경되지 않습니다."
+
+#: translate_sheet.csv:1618
+msgctxt ""
+"Rank Limit: Master - Saint\n"
+"\\n4-player Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\n"
+"\\n3-player Order Bonus: 1st +15, 2nd +0, 3rd -15\n"
+"\\n\\nEast Round Match:\n"
+"\\nEntry Limit: 10000 Coppers\n"
+"\\nExchange Rate: 1000 Points = 200 Coppers\n"
+"\\nEntry Fee: 2000 Coppers\n"
+"\\n4-player Rank Bonus: 1st +55, 2nd +30, 3rd +0, 4th - penalty based on current rank\n"
+"\\n3-player Rank Bonus: 1st +75, 2nd +0, 3rd - penalty based on current rank\n"
+"\\n4-player Jade Chest Progress: 1st +260, 2nd +130, 3rd +95, 4th +60\n"
+"\\n3-player Jade Chest Progress: 1st +160, 2nd +100, 3rd +40\n"
+"\\n\\nSouth Round Match:\n"
+"\\nEntry Limit: 14000 Coppers\n"
+"\\nExchange Rate: 1000 Points = 280 Coppers\n"
+"\\nEntry Fee: 2800 Coppers\n"
+"\\n4-player Rank Bonus: 1st +110, 2nd +55, 3rd +0, 4th - penalty based on current rank\n"
+"\\n3-player Rank Bonus: 1st +160, 2nd 0, 3rd - penalty based on current rank\n"
+"\\n4-player Jade Chest Progress: 1st +360, 2nd +180, 3rd +130, 4th +80\n"
+"\\n3-player Jade Chest Progress: 1st +240, 2nd +135, 3rd +50\n"
+"\\n\\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity."
+msgid "sheet|StrStr.csv|en|9d039c6e976826a20791793bbea44347"
+msgstr ""
+"등급 제한: 작호 - 작성\n"
+"\\n"
+"4인 우마 점수: 1위 +15, 2위 +5, 3위 -5, 4위 -15\n"
+"\\n"
+"3인 우마 점수: 1위 +15, 2위 +0, 3위 -15\n"
+"\\n"
+"\\n"
+"동풍전:\n"
+"\\n"
+"입장 제한: 10000 동전\n"
+"\\n"
+"교환비: 1000점 = 200 동전\n"
+"\\n"
+"입장료: 2000 동전\n"
+"\\n"
+"4인 등급 점수: 1위 +55, 2위 +30, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"3인 등급 점수: 1위 +75, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"4인 비취 상자 진행도: 1위 +260, 2위 +130, 3위 +95, 4위 +60\n"
+"\\n"
+"3인 비취 상자 진행도: 1위 +170, 2위 +100, 3위 +40\n"
+"\\n"
+"\\n"
+"반장전:\n"
+"\\n"
+"입장 제한: 14000 동전\n"
+"\\n"
+"교환비: 1000점 = 280 동전\n"
+"\\n"
+"입장료: 2800 동전\n"
+"\\n"
+"4인 등급 점수: 1위 +110, 2위 +55, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"3인 등급 점수: 1위 +160, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"4인 비취 상자 진행도: 1위 +360, 2위 +180, 3위 +130, 4위 +80\n"
+"\\n"
+"3인 비취 상자 진행도: 1위 +240, 2위 +135, 3위 +50\n"
+"\\n"
+"\\n"
+"동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다."
+
+#: translate_sheet.csv:1617
+msgctxt ""
+"Rank Limit: Expert - Master\n"
+"\\n4-player Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\n"
+"\\n3-player Order Bonus: 1st +15, 2nd +0, 3rd -15\n"
+"\\n\\nEast Round Match:\n"
+"\\nEntry Limit: 5000 Coppers\n"
+"\\nExchange Rate: 1000 Points = 100 Coppers\n"
+"\\nEntry Fee: 1000 Coppers\n"
+"\\n4-player Rank Bonus: 1st +40, 2nd +20, 3rd +0, 4th - penalty based on current rank\n"
+"\\n3-player Rank Bonus: 1st +55, 2nd +0, 3rd - penalty based on current rank\n"
+"\\n4-player Gold Chest Progress: 1st +260, 2nd +130, 3rd +95, 4th +60\n"
+"\\n3-player Gold Chest Progress: 1st +170, 2nd +100, 3rd +40\n"
+"\\n\\nSouth Round Match:\n"
+"\\nEntry Limit: 7000 Coppers\n"
+"\\nExchange Rate: 1000 Points = 140 Coppers\n"
+"\\nEntry Fee: 1400 Coppers\n"
+"\\n4-player Rank Bonus: 1st +80, 2nd +40, 3rd +0, 4th - penalty based on current rank\n"
+"\\n3-player Rank Bonus: 1st +105, 2nd 0, 3rd - penalty based on current rank\n"
+"\\n4-player Gold Chest Progress: 1st +360, 2nd +180, 3rd +130, 4th +80\n"
+"\\n3-player Gold Chest Progress: 1st +240, 2nd +135, 3rd +50\n"
+"\\n\\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity."
+msgid "sheet|StrStr.csv|en|3e8698e39711dc6426abe30f92de2786"
+msgstr ""
+"등급 제한: 작걸 - 작호\n"
+"\\n"
+"4인 우마 점수: 1위 +15, 2위 +5, 3위 -5, 4위 -15\n"
+"\\n"
+"3인 우마 점수: 1위 +15, 2위 +0, 3위 -15\n"
+"\\n"
+"\\n"
+"동풍전:\n"
+"\\n"
+"입장 제한: 5000 동전\n"
+"\\n"
+"교환비: 1000점 = 100 동전\n"
+"\\n"
+"입장료: 1000 동전\n"
+"\\n"
+"4인 등급 점수: 1위 +40, 2위 +20, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"3인 등급 점수: 1위 +55, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"4인 금 상자 진행도: 1위 +260, 2위 +130, 3위 +95, 4위 +60\n"
+"\\n"
+"3인 금 상자 진행도: 1위 +170, 2위 +100, 3위 +40\n"
+"\\n"
+"\\n"
+"반장전:\n"
+"\\n"
+"입장 제한: 7000 동전\n"
+"\\n"
+"교환비: 1000점 = 140 동전\n"
+"\\n"
+"입장료: 1400 동전\n"
+"\\n"
+"4인 등급 점수: 1위 +80, 2위 +40, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"3인 등급 점수: 1위 +105, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"4인 금 상자 진행도: 1위 +360, 2위 +180, 3위 +130, 4위 +80\n"
+"\\n"
+"3인 금 상자 진행도: 1위 +240, 2위 +135, 3위 +50\n"
+"\\n"
+"\\n"
+"동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다."
+
+#: translate_sheet.csv:1615
+msgctxt ""
+"Rank Limit: Novice - Intermediate\n"
+"\\n4-player Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\n"
+"\\n3-player Order Bonus: 1st +15, 2nd +0, 3rd -15\n"
+"\\n\\nEast Round Match:\n"
+"\\nEntry Limit: N/A\n"
+"\\n4-player Rank Bonus: 1st +10, 2nd +5, 3rd +0, 4th - penalty based on current rank\n"
+"\\n3-player Rank Bonus: 1st +15, 2nd +0, 3rd - penalty based on current rank\n"
+"\\n\\nSouth Round Match:\n"
+"\\nEntry Limit: N/A\n"
+"\\n4-player Rank Bonus: 1st +20, 2nd +10, 3rd +0, 4th - penalty based on current rank\n"
+"\\n3-player Rank Bonus: 1st +30, 2nd +0, 3rd - penalty based on current rank"
+msgid "sheet|StrStr.csv|en|461cc3b8d5b997a3c4a05539f29757ad"
+msgstr ""
+"등급 제한: 초심자 - 작사\n"
+"\\n"
+"4인 우마: 1위 +15, 2위 +5, 3위 -5, 4위 -15\n"
+"\\n"
+"3인 우마: 1위 +15, 2위 +0, 3위 -15\n"
+"\\n"
+"\\n"
+"동풍전:\n"
+"\\n"
+"입장 제한: 없음\n"
+"\\n"
+"4인 등급 점수: 1위 +10, 2위 +5, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"3인 등급 점수: 1위 +15, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"\\n"
+"반장전:\n"
+"\\n"
+"입장 제한: 없음\n"
+"\\n"
+"4인 등급 점수: 1위 +20, 2위 +10, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"3인 등급 점수: 1위 +30, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여"
+
+#: translate_sheet.csv:1616
+msgctxt ""
+"Rank Limit: Intermediate - Expert\n"
+"\\n4-player Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\n"
+"\\n3-player Order Bonus: 1st +15, 2nd +0, 3rd -15\n"
+"\\n\\nEast Round Match:\n"
+"\\nEntry Limit: 2500 Coppers\n"
+"\\nExchange Rate: 1000 Points = 50 Coppers\n"
+"\\nEntry Fee: 500 Coppers\n"
+"\\n4-player Rank Bonus: 1st +20, 2nd +10, 3rd +0, 4th - penalty based on current rank\n"
+"\\n3-player Rank Bonus: 1st +30, 2nd +0, 3rd - penalty based on current rank\n"
+"\\n4-player Silver Chest Progress: 1st +260, 2nd +130, 3rd +95, 4th +60\n"
+"\\n3-player Silver Chest Progress: 1st +170, 2nd +100, 3rd +40\n"
+"\\n\\nSouth Round Match:\n"
+"\\nEntry Limit: 3500 Coppers\n"
+"\\nExchange Rate: 1000 Points = 70 Coppers\n"
+"\\nEntry Fee: 700 Coppers\n"
+"\\n4-player Rank Bonus: 1st +40, 2nd +20, 3rd +0, 4th - penalty based on current rank\n"
+"\\n3-player Rank Bonus: 1st +60, 2nd +0, 3rd - penalty based on current rank\n"
+"\\n4-player Silver Chest Progress: 1st +360, 2nd +180, 3rd +130, 4th +80\n"
+"\\n3-player Silver Chest Progress: 1st +240, 2nd +135, 3rd +50\n"
+"\\n\\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity"
+msgid "sheet|StrStr.csv|en|f2d3f76fc83a78e9954c122cd98f0780"
+msgstr ""
+"등급 제한: 작사 - 작걸\n"
+"\\n"
+"4인 우마 점수: 1위 +15, 2위 +5, 3위 -5, 4위 -15\n"
+"\\n"
+"3인 우마 점수: 1위 +15, 2위 +0, 3위 -15\n"
+"\\n"
+"\\n"
+"동풍전:\n"
+"\\n"
+"입장 제한: 2500 동전\n"
+"\\n"
+"교환비: 1000점 = 50 동전\n"
+"\\n"
+"입장료: 500 동전\n"
+"\\n"
+"4인 등급 점수: 1위 +20, 2위 +10, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"3인 등급 점수: 1위 +30, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"4인 은 상자 진행도: 1위 +260, 2위 +130, 3위 +95, 4위 +60\n"
+"\\n"
+"3인 은 상자 진행도: 1위 +170, 2위 +100, 3위 +40\n"
+"\\n"
+"\\n"
+"반장전:\n"
+"\\n"
+"입장 제한: 3500 동전\n"
+"\\n"
+"교환비: 1000점 = 70 동전\n"
+"\\n"
+"입장료: 700 동전\n"
+"\\n"
+"4인 등급 점수: 1위 +40, 2위 +20, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"3인 등급 점수: 1위 +60, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n"
+"\\n"
+"4인 은 상자 진행도: 1위 +360, 2위 +180, 3위 +130, 4위 +80\n"
+"\\n"
+"3인 은 상자 진행도: 1위 +240, 2위 +135, 3위 +50\n"
+"\\n"
+"\\n"
+"동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다"
+
+#: translate_sheet.csv:1614
+msgctxt ""
+"Starting Points: 25,000\\nExtension into West: At the end of 4th South game,"
+" if 1st place has less than 30,000 points\\nLength: Two-Wind Match\\nRed "
+"Five: 3\\nOpen Tanyao: On\\nWaiting Time: 5+20"
+msgid "sheet|StrStr.csv|en|33a64ac83c300bceb21c663f7f7e1fc8"
+msgstr ""
+"시작 점수: 25,000\\n"
+"서입:남4국 종료시 1위 점수가 30,000점 미만일 때\\n"
+"길이: 반장전\\n"
+"적도라: 3\\n"
+"쿠이탕: 허용\\n"
+"제한 시간:5+20"
+
+#: translate_sheet.csv:1613
+msgctxt ""
+"Starting Points: 25,000\\nExtension into South: At the end of 4th East game,"
+" if 1st place has less than 30,000 points\\nLength: East Round Match\\nRed "
+"Five: 3\\nOpen Tanyao: On\\nWaiting Time: 5+20"
+msgid "sheet|StrStr.csv|en|16968d8e31c6acb564f64a43b3c6a9c8"
+msgstr ""
+"시작 점수: 25,000\\n"
+"남입:동4국 종료시 1위 점수가 30,000점 미만일 때\\n"
+"길이: 동풍전\\n"
+"적도라: 3\\n"
+"쿠이탕: 허용\\n"
+"제한 시간:5+20"
+
+#: translate_sheet.csv:1612
+msgctxt ""
+"Starting Points: 25,000\\nBase Points: 30,000\\nLength: East (1 Game) "
+"Match\\nRed Five: 3\\nOpen Tanyao: On\\nWaiting Time: 5+20"
+msgid "sheet|StrStr.csv|en|f35c002cfc146888536ab7ff440a17a4"
+msgstr ""
+"시작 점수: 25,000\\n"
+"반환 점수: 30,000\\n"
+"길이: 동1국 (1 게임)\\n"
+"적도라: 3\\n"
+"쿠이탕: 허용\\n"
+"제한 시간:5+20"
+
+#: translate_sheet.csv:1599
+msgctxt "Normal Dress"
+msgid "sheet|ShopsZhpGoods.csv|name_en|09f75b3d49f21d370a24ecdf2c6a48b4"
+msgstr "평범한 옷"
+
+#: translate_sheet.csv:1598
+msgctxt "Simple Fanzine"
+msgid "sheet|ShopsZhpGoods.csv|name_en|61f571fa0d76ad2ad87c0b8f32c91359"
+msgstr "얇은 책"
+
+#: translate_sheet.csv:1597
+msgctxt "Teddy Bear L"
+msgid "sheet|ShopsZhpGoods.csv|name_en|b3a2ca34a0543b64e5c3113f71481157"
+msgstr "테디 베어 L"
+
+#: translate_sheet.csv:1596
+msgctxt "Large Diamond"
+msgid "sheet|ShopsZhpGoods.csv|name_en|1369a04fb03f917a287b8d132e35fed9"
+msgstr "큰 다이아몬드"
+
+#: translate_sheet.csv:1591
+msgctxt "Simple Dress"
+msgid "sheet|ShopsZhpGoods.csv|name_en|7789c0f9abc11bf7315cded1e59be69e"
+msgstr "단순한 옷"
+
+#: translate_sheet.csv:1590
+msgctxt "Fanzine Booklet"
+msgid "sheet|ShopsZhpGoods.csv|name_en|66dbff912d88cb44f44ec780e6620b4f"
+msgstr "동인 안내책자"
+
+#: translate_sheet.csv:1589
+msgctxt "Teddy Bear"
+msgid "sheet|ShopsZhpGoods.csv|name_en|434a2e61d6b548446fc52fa936fbf3ae"
+msgstr "테디 베어"
+
+#: translate_sheet.csv:1588
+msgctxt "Ordinary Diamond"
+msgid "sheet|ShopsZhpGoods.csv|name_en|50de4eb7277f01285e9de4af68f773da"
+msgstr "일반 다이아몬드"
+
+#: translate_sheet.csv:1583
+msgctxt "Background + all outfits"
+msgid "sheet|ShopsGoods.csv|desc_en|74acf7fc472e51946e9d2051c797f5cc"
+msgstr "배경 + 모든 의상"
+
+#: translate_sheet.csv:1582
+msgctxt "Beach Party Special Pack"
+msgid "sheet|ShopsGoods.csv|name_en|894aa3cc2fb02ee495b6471af943adb7"
+msgstr "비치 파티 스페셜 팩"
+
+#: translate_sheet.csv:1581
+msgctxt "Hana Ninomiya's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|2afd4f8f8ec36307342c46415221351f"
+msgstr "니노미야 하나의 의상"
+
+#: translate_sheet.csv:1580
+msgctxt "Miki Nikaidou's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|3d6453f7ce483f21673c4dd03a6d73f7"
+msgstr "니카이도 미키의 의상"
+
+#: translate_sheet.csv:1579
+msgctxt "Spring Celebration"
+msgid "sheet|ShopsGoods.csv|name_en|112cb35a28c6adc384f0026a21fe1827"
+msgstr "봄 축제"
+
+#: translate_sheet.csv:1578
+msgctxt "Sara's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|f29f66c21c3c6f82b7920845bc8edec0"
+msgstr "사라의 의상"
+
+#: translate_sheet.csv:1577
+msgctxt "New Year's First Visit"
+msgid "sheet|ShopsGoods.csv|name_en|93043c2bd4bf8905538f33a8a4fc93c7"
+msgstr "새해 첫 참배"
+
+#: translate_sheet.csv:1576
+msgctxt "Background's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|71467060a8e2dd6f5c9bc87634d50ed2"
+msgstr "배경 의상"
+
+#: translate_sheet.csv:1575
+msgctxt "Sora Ichinose's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|c4c5639cd9ef944a1564f72811b14fee"
+msgstr "이치노세 소라의 의상"
+
+#: translate_sheet.csv:1574
+msgctxt "Yui Yagi's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|8ab867f7bb4f11efc32b0eded37ffde4"
+msgstr "야기 유이의 의상"
+
+#: translate_sheet.csv:1573
+msgctxt "Chiori Mikami's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|53eae3c5b7a8e6ae4cb0c9b910721794"
+msgstr "미카미 치오리의 의상"
+
+#: translate_sheet.csv:1572
+msgctxt "Fujita Kana's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|6a883b23f4cfbb1e49d038bc3ff23ed8"
+msgstr "후지타 카나의 의상"
+
+#: translate_sheet.csv:1571
+msgctxt "Christmas Carnival"
+msgid "sheet|ShopsGoods.csv|name_en|fd3de4c64506f8a6b63046c4b4a18e5f"
+msgstr "크리스마스 축제"
+
+#: translate_sheet.csv:1570
+msgctxt "Wanjirou's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|4fd2c8eb3904f1b5bf2410b1fa142b93"
+msgstr "왕지로의 의상"
+
+#: translate_sheet.csv:1569
+msgctxt "Natsuki Shinomiya's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|80677740944278b67bf3bd72becc03c0"
+msgstr "시노미야 나츠키의 의상"
+
+#: translate_sheet.csv:1568
+msgctxt "Xenia's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|2354c73d5c3f5bf083af0bc46b51e979"
+msgstr "지니아의 의상"
+
+#: translate_sheet.csv:1567
+msgctxt "Nikaido Miki's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|ef7befed1cb693c978bf0463f9e016c5"
+msgstr "니카이도 미키의 의상"
+
+#: translate_sheet.csv:1566
+msgctxt "Halloween Party"
+msgid "sheet|ShopsGoods.csv|name_en|8abdb88b878147625d1497f2a582faf7"
+msgstr "할로윈 파티"
+
+#: translate_sheet.csv:1565
+msgctxt "Riu Kujou's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|cc35b6baf2510205538494f9a69c36f2"
+msgstr "쿠죠 리우의 의상"
+
+#: translate_sheet.csv:1564
+msgctxt "Nadeshiko's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|fa30725a26a9d0f73090316efbf06f55"
+msgstr "나데시코의 의상"
+
+#: translate_sheet.csv:1563
+msgctxt "Mai Aihara's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|ccb570610dffd7c1cbd138f2b26ee3cb"
+msgstr "아이하라 마이의 의상"
+
+#: translate_sheet.csv:1562
+msgctxt "Ichihime's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|7572dcf0812df5921214c5c0ef0a737c"
+msgstr "이치히메의 의상"
+
+#: translate_sheet.csv:1559
+msgctxt "Tablecloth - Christmas"
+msgid "sheet|ShopsGoods.csv|name_en|ee37e5640b2d0b8179937802fd18f8ff"
+msgstr "테이블보 - 크리스마스"
+
+#: translate_sheet.csv:1558
+msgctxt "Sage's Bag"
+msgid "sheet|ShopsGoods.csv|name_en|7752fdb437cdfb7118b5e145e4323e84"
+msgstr "성스러운 주머니"
+
+#: translate_sheet.csv:1557
+msgctxt "Fortune Bag"
+msgid "sheet|ShopsGoods.csv|name_en|48871c1eca968f7f93f162a0f56734e5"
+msgstr "복 주머니"
+
+#: translate_sheet.csv:1556
+msgctxt "Traveler's Bag"
+msgid "sheet|ShopsGoods.csv|name_en|9e6e5a10b6a7a9f06ca1f13c8386b65c"
+msgstr "여행자의 주머니"
+
+#: translate_sheet.csv:1555
+msgctxt "Shrine Yard · Midsummer"
+msgid "sheet|ShopsGoods.csv|name_en|359f9b156e915d4d466c4ff3c3f4c4e4"
+msgstr "신사 앞뜰 · 한여름"
+
+#: translate_sheet.csv:1554
+msgctxt "Background"
+msgid "sheet|ShopsGoods.csv|desc_en|a9ded1e5ce5d75814730bb4caaf49419"
+msgstr "배경"
+
+#: translate_sheet.csv:1553
+msgctxt "Beach Party"
+msgid "sheet|ShopsGoods.csv|name_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
+msgstr "비치 파티"
+
+#: translate_sheet.csv:1552
+msgctxt "Normal Dress"
+msgid "sheet|ShopsGoods.csv|name_en|09f75b3d49f21d370a24ecdf2c6a48b4"
+msgstr "평범한 옷"
+
+#: translate_sheet.csv:1551
+msgctxt "Simple Fanzine"
+msgid "sheet|ShopsGoods.csv|name_en|61f571fa0d76ad2ad87c0b8f32c91359"
+msgstr "얇은 책"
+
+#: translate_sheet.csv:1550
+msgctxt "Teddy Bear L"
+msgid "sheet|ShopsGoods.csv|name_en|b3a2ca34a0543b64e5c3113f71481157"
+msgstr "테디 베어 L"
+
+#: translate_sheet.csv:1549
+msgctxt "Large Diamond"
+msgid "sheet|ShopsGoods.csv|name_en|1369a04fb03f917a287b8d132e35fed9"
+msgstr "큰 다이아몬드"
+
+#: translate_sheet.csv:1548
+msgctxt "Exquisite Wine Glass"
+msgid "sheet|ShopsGoods.csv|name_en|e5d136725501aded4c15b96cf48e2b73"
+msgstr "정교한 와인잔"
+
+#: translate_sheet.csv:1547
+msgctxt "Wall Painting"
+msgid "sheet|ShopsGoods.csv|name_en|000d7308f1335c873a5bc202f8449bf8"
+msgstr "벽걸이 그림"
+
+#: translate_sheet.csv:1546
+msgctxt "Xwitch Console"
+msgid "sheet|ShopsGoods.csv|name_en|f0bf0b762ba33ad5a8f461e830fe2c03"
+msgstr "휴대용 게임기"
+
+#: translate_sheet.csv:1545
+msgctxt "Danish Cookie"
+msgid "sheet|ShopsGoods.csv|name_en|dc0222ec8cb1e2c74f649b1aea658d4d"
+msgstr "덴마크 쿠키"
+
+#: translate_sheet.csv:1544
+msgctxt "Blue Cat Paw"
+msgid "sheet|ShopsGoods.csv|name_en|b68c6172443b8987b3e72c047d262280"
+msgstr "파란 고양이 발"
+
+#: translate_sheet.csv:1543
+msgctxt "Riichi - Jadeite"
+msgid "sheet|ShopsGoods.csv|name_en|3f7ac06759be2436f91d97dbc7c19f31"
+msgstr "리치 - 경옥"
+
+#: translate_sheet.csv:1542
+msgctxt "Riichi - Evil Eye"
+msgid "sheet|ShopsGoods.csv|name_en|a5f28595b9b5edbf1893df84da6d8877"
+msgstr "리치 - 악마의 눈"
+
+#: translate_sheet.csv:1541
+msgctxt "Riichi - Chocolate"
+msgid "sheet|ShopsGoods.csv|name_en|1ae4240ec314be6fbd7a99c87c68406a"
+msgstr "리치 - 초콜릿"
+
+#: translate_sheet.csv:1540
+msgctxt "Sphere of Light"
+msgid "sheet|ShopsGoods.csv|name_en|39b278e5ecfb06511a69133b6c089850"
+msgstr "빛의 보옥"
+
+#: translate_sheet.csv:1539
+msgctxt "Sphere of Hope"
+msgid "sheet|ShopsGoods.csv|name_en|4684a4ba249dfc7ad18cb1f80476bd1a"
+msgstr "희망의 보옥"
+
+#: translate_sheet.csv:1538
+msgctxt "Sphere of Innocence"
+msgid "sheet|ShopsGoods.csv|name_en|8216aa7223d645d4bbfe4815f89178ec"
+msgstr "순수의 보옥"
+
+#: translate_sheet.csv:1537
+msgctxt "Sphere of Wisdom"
+msgid "sheet|ShopsGoods.csv|name_en|1e53cfe0ddfc873448e6ea137cb321ec"
+msgstr "지혜의 보옥"
+
+#: translate_sheet.csv:1536
+msgctxt "Sphere of Love"
+msgid "sheet|ShopsGoods.csv|name_en|b253c1e17a00971f27b3a01e4de24a05"
+msgstr "사랑의 보옥"
+
+#: translate_sheet.csv:1535
+msgctxt "Sphere of Honesty"
+msgid "sheet|ShopsGoods.csv|name_en|a53f23534875b6c211f247f9a516e008"
+msgstr "성실의 보옥"
+
+#: translate_sheet.csv:1534
+msgctxt "Sphere of Will"
+msgid "sheet|ShopsGoods.csv|name_en|d82c765172f29899dada89170b01da6a"
+msgstr "의지의 보옥"
+
+#: translate_sheet.csv:1533
+msgctxt "Sphere of Courage"
+msgid "sheet|ShopsGoods.csv|name_en|5f0f4ee79d7e9b07f282b762626845fb"
+msgstr "용기의 보옥"
+
+#: translate_sheet.csv:1532
+msgctxt "Gorgeous Dress"
+msgid "sheet|ShopsGoods.csv|name_en|b8c86e61dff0b367b7c19412f3fb24c3"
+msgstr "화려한 의상"
+
+#: translate_sheet.csv:1531
+msgctxt "Delicate Fanzine"
+msgid "sheet|ShopsGoods.csv|name_en|1badb464a5808d2fd78de3172cab071a"
+msgstr "훌륭한 동인지"
+
+#: translate_sheet.csv:1530
+msgctxt "Teddy Bear XXL"
+msgid "sheet|ShopsGoods.csv|name_en|a5b362c9cd38f391be18c19da76eebfb"
+msgstr "테디 베어 XXL"
+
+#: translate_sheet.csv:1529
+msgctxt "Heart of the Ocean"
+msgid "sheet|ShopsGoods.csv|name_en|2a6f460f58e1653cc7cf7a1e8bee5bc6"
+msgstr "바다의 심장"
+
+#: translate_sheet.csv:1498
+msgctxt "雀魂公認の選ばれしプレイヤーG"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|f2c07bd72645725b6ea304b4c471cad0"
+msgstr "雀魂公認の選ばれしプレイヤーG"
+
+#: translate_sheet.csv:1497
+msgctxt "雀魂公認の選ばれしプレイヤーG"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|f2c07bd72645725b6ea304b4c471cad0"
+msgstr "雀魂公認の選ばれしプレイヤーG"
+
+#: translate_sheet.csv:1496
+msgctxt "限时称号测试用"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|94ae1602d51a19aed87df8babb1c97e5"
+msgstr "限时称号测试用"
+
+#: translate_sheet.csv:1495
+msgctxt "限时称号测试用"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|94ae1602d51a19aed87df8babb1c97e5"
+msgstr "限时称号测试用"
+
+#: translate_sheet.csv:1493
+msgctxt ""
+"Awarded to the first player reaching the rank of Celestial（3-Player ）"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|4ccd55ebce6e5873733af91a45bac198"
+msgstr "혼천(3인) 등급에 도달한 최초의 플레이어에게 수여됨"
+
+#: translate_sheet.csv:1492
+msgctxt "Awarded to the first player reaching the rank of Saint（3-Player ）"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|73558c0691d3b28fd539f5861b5b679c"
+msgstr "작성(3인) 등급에 도달한 최초의 플레이어에게 수여됨"
+
+#: translate_sheet.csv:1491
+msgctxt "\"We shall protect all the cat food here! \""
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|0f8715fa7f1f9f85b8b94b19e3226e97"
+msgstr "\"우리는 여기 있는 모든 고양이 사료를 지킬 것입니다!\""
+
+#: translate_sheet.csv:1490
+msgctxt "Royal Cat Guard"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|5f49f2fbd92a56fb3539be724d5614f1"
+msgstr "고양이 왕국의 수호자"
+
+#: translate_sheet.csv:1489
+msgctxt "赠予育儿里打麻将最好的蓝毛"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|13787790ace6377ba5f759944ea4b4c8"
+msgstr "赠予育儿里打麻将最好的蓝毛"
+
+#: translate_sheet.csv:1488
+msgctxt "佐仓沙耶加"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|b643447a32ca399e863abba7a00f481a"
+msgstr "佐仓沙耶加"
+
+#: translate_sheet.csv:1487
+msgctxt "赠予为小杆菌努力拼搏的杆菌"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|143f46f2e7a06b57d4f680019933a2e7"
+msgstr "赠予为小杆菌努力拼搏的杆菌"
+
+#: translate_sheet.csv:1486
+msgctxt "杆菌无敌"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|ad8a6a9ecc266c95c06ba50f4419e444"
+msgstr "杆菌无敌"
+
+#: translate_sheet.csv:1485
+msgctxt "赠予与我们共经风雨的大当家"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|e678bec8a2ad5031335d24269570c339"
+msgstr "赠予与我们共经风雨的大当家"
+
+#: translate_sheet.csv:1484
+msgctxt "12Dora"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|957d66bb7cc3f329bf8536747d1a39d2"
+msgstr "12도라"
+
+#: translate_sheet.csv:1483
+msgctxt "A respected player certified by official Mahjong Soul."
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|b341106ed013b32568c1f219d774d86e"
+msgstr "작혼에 공식적으로 인증을 받은 유명 플레이어."
+
+#: translate_sheet.csv:1482
+msgctxt "Certifed Player"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|5ab09409ca64bf6d9eb980acc9ccac9d"
+msgstr "공인 플레이어"
+
+#: translate_sheet.csv:1481
+msgctxt ""
+"Awarded to the first player reaching the rank of Celestial（4-Player ）"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|93ab8e4aaf44ffbfa1e39b3f2dfd9f34"
+msgstr "혼천(4인) 등급에 도달한 최초의 플레이어에게 수여됨"
+
+#: translate_sheet.csv:1480
+msgctxt "The First Celestial"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|d100f42dd757a393ba5c6534d7627f52"
+msgstr "최초의 혼천"
+
+#: translate_sheet.csv:1479
+msgctxt "A primary cat food supplier for Cat Food Studio, meow~"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|226c06b59887d348dfb1d3580b293d84"
+msgstr "캣푸드 스튜디오의 주요 고양이 사료 공급자, 야옹~"
+
+#: translate_sheet.csv:1478
+msgctxt "Cat Food Supplier"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|4f025d786ab09daab57498d24f5785d1"
+msgstr "캣푸드 상인"
+
+#: translate_sheet.csv:1477
+msgctxt "Awarded to  who have made incredible contribution to Mahjong Soul"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|c1f7f21162ccc4bab0c3bbece3dea91d"
+msgstr "작혼에 놀라운 공헌을 한 사람에게 수여됨"
+
+#: translate_sheet.csv:1476
+msgctxt "Soul Excelsior"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|b39bf26a0820684a6183c72d96bd37c0"
+msgstr "혼의 초월자"
+
+#: translate_sheet.csv:1475
+msgctxt "A senior envoy of the Mahjong Soul universe"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|7b5d6ff68fa7594b0ff8c9ee575a007a"
+msgstr "작혼 유니버스의 상급 사자"
+
+#: translate_sheet.csv:1474
+msgctxt "Soul Creator - Senior"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|6841767037ea79816fbe7f8e73799147"
+msgstr "혼의 창조자 - 상급"
+
+#: translate_sheet.csv:1473
+msgctxt "An intermediate envoy of the Mahjong Soul universe"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|9eddff94271f1e594a599f86392e2690"
+msgstr "작혼 유니버스의 중급 사자"
+
+#: translate_sheet.csv:1472
+msgctxt "Soul Creator - Intermediate"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|ea11d50a6d854defd0bb9f8530e1ab6b"
+msgstr "혼의 창조자 - 중급"
+
+#: translate_sheet.csv:1471
+msgctxt "A basic envoy of the Mahjong Soul universe"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|b94572d361021c722095bf648aa1fedf"
+msgstr "작혼 유니버스의 초급 사자"
+
+#: translate_sheet.csv:1470
+msgctxt "Soul Creator - Beginner"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|3defdbc1b249ee56b5bf60df1d2ed36a"
+msgstr "혼의 창조자 - 초급"
+
+#: translate_sheet.csv:1469
+msgctxt "A senior Mahjong Soul instructor"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|0848c97a8fca1d8e5796615950049b0c"
+msgstr "고급 작혼 계몽자"
+
+#: translate_sheet.csv:1468
+msgctxt "Soul Enlightener - Senior"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|07d1f1b62210b95a238379ae0b2f4e6b"
+msgstr "혼의 계몽자 - 상급"
+
+#: translate_sheet.csv:1467
+msgctxt "An intermediate Mahjong Soul instructor"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|424dbe1fd61eb0ffba0345abe4673b9d"
+msgstr "중급 장혼 계몽자"
+
+#: translate_sheet.csv:1466
+msgctxt "Soul Enlightener - Intermediate"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|ee50a55b8c003db0dde44e639e3e55a0"
+msgstr "혼의 계몽자 - 중급"
+
+#: translate_sheet.csv:1465
+msgctxt "A basic Mahjong Soul instructor"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|359c3a8d3269f170cc1b2b6ee7ca3cd7"
+msgstr "초급 작혼 계몽자"
+
+#: translate_sheet.csv:1464
+msgctxt "Soul Enlightener - Beginner"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|bd8def1bbe460af0a6c0b80e484f5866"
+msgstr "혼의 계몽자 - 초급"
+
+#: translate_sheet.csv:1463
+msgctxt "A senior apprentice who has signed a contract with Mahjong Soul"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|8be3850bcb70c67e3496706ff3e19ec5"
+msgstr "작혼과 계약을 맺은 상급 견습생"
+
+#: translate_sheet.csv:1462
+msgctxt "Soul Contractor - Senior"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|c18beba7505ffa86c7a400209d4f9d2a"
+msgstr "혼의 계약자 - 상급"
+
+#: translate_sheet.csv:1461
+msgctxt ""
+"An intermediate apprentice who has signed a contract with Mahjong Soul"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|1bdddcbb4686b19c81e42b3e3515e648"
+msgstr "작혼과 계약을 맺은 중급 견습생"
+
+#: translate_sheet.csv:1460
+msgctxt "Soul Contractor - Intermediate"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|ab4b8aa6e5766df9cd74b0a37abf4dfe"
+msgstr "혼의 계약자 - 중급"
+
+#: translate_sheet.csv:1459
+msgctxt "A basic apprentice who has signed a contract with Mahjong Soul"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|497252d8ddf4381e856df702c20904ef"
+msgstr "작혼과 계약을 맺은 초급 견습생"
+
+#: translate_sheet.csv:1458
+msgctxt "Soul Contractor - Beginner"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|24251091ef6ab9deee2a10103a1cc26e"
+msgstr "혼의 계약자 - 초급"
+
+#: translate_sheet.csv:1457
+msgctxt "Awarded to the first player reaching the rank of Saint（4-Player ）"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|b8e077e4c826b9ec1b97271e9f2fdc2a"
+msgstr "작성(4인) 등급에 도달한 최초의 플레이어에게 수여됨"
+
+#: translate_sheet.csv:1456
+msgctxt "The First Saint"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|f1cffe77e2a5084373e8f86b472e4602"
+msgstr "최초의 작성"
+
+#: translate_sheet.csv:1455
+msgctxt "Awarded to lucky players in Shanghai Firefly Expo"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|2cf0efd7529166d13f4ce3dd5a5ca68f"
+msgstr "상하이 반딧불이 엑스포에서 행운의 플레이어에게 수여됨"
+
+#: translate_sheet.csv:1454
+msgctxt "Firefly"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|e344a4e3a128f4d2297fd379f7c2962d"
+msgstr "반딧불이"
+
+#: translate_sheet.csv:1453
+msgctxt ""
+"Awarded to all players that participated in the grand launch of Mahjong Soul"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|bf6498a4524177e5fa9401994fac6afb"
+msgstr "작혼 출시에 참여한 모든 플레이어에게 수여됨"
+
+#: translate_sheet.csv:1452
+msgctxt "Primal Fire"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|2e1a8b6d021ea5d8bd0722c523122e1c"
+msgstr "태초의 불"
+
+#: translate_sheet.csv:1450
+msgctxt "N/A"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|382b0f5185773fa0f67a8ed8056c7759"
+msgstr "없음"
+
+#: translate_sheet.csv:1449
+msgctxt ""
+"\"Hold on to my tail. Make sure you follow me! I'll be in great trouble if I"
+" lose you while hunting. But don't worry, even if you do get lost, I can "
+"always find you. Haha!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|86361e6a740d65f7e0bd9cd4c7d3ab98"
+msgstr ""
+"\"내 꼬리를 잡아. 꼭 붙어서 오라고! 사냥하다가 널 잃어버리면 큰일이라고. 그래도 걱정마, 네가 길을 잃더라도 나는 항상 널 찾을 수 "
+"있어. 하하!\""
+
+#: translate_sheet.csv:1448
+msgctxt ""
+"\"Summer's coming soon! I really look forward to it, because it's the first "
+"summer we spend together since I met you!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|d8f78b934466ca26d95d7d74211bd293"
+msgstr "\"여름이 오고있어! 정말 기대돼. 내가 널 만난 이후로 우리가 함께 보내는 첫 여름이니까!\""
+
+#: translate_sheet.csv:1447
+msgctxt ""
+"\"Like I said, you just have to be yourself in front of me. I like just the "
+"way you are.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|53b42f7b450eaf31bbb35008eaeff191"
+msgstr "\"제가 말했듯이, 당신은 당신으로서 제 앞에 있어주세요. 저는 있는 그대로의 당신이 좋아요.\""
+
+#: translate_sheet.csv:1446
+msgctxt "\"Yo, partner! I've found a new destination for us. Let's go!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|020787de672a0aac3bb2d11d8abc75fe"
+msgstr "\"야, 파트너! 새로운 목적지가 생겼어. 가자!\""
+
+#: translate_sheet.csv:1445
+msgctxt ""
+"\"Question: Why is KR-976 appearing more often in the life report of "
+"{name}?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|8624c3cf05c764626e43ee8027a955bf"
+msgstr "\"질문: KR-976이 {name}의 생활 보고서에 더 자주 등장하는데 이유가 있습니까?\""
+
+#: translate_sheet.csv:1444
+msgctxt ""
+"\"Ta-da! Haruna's stray-cat-cafe is now open. Dear customer, would you like "
+"an ice pop?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|fa5b73cb2fad06605f3c37a9dcde2552"
+msgstr "\"짜잔! 하루나의 길 잃은 고양이 카페가 드디어 개점합니다! 손님, 막대 아이스크림은 어떠십니까?\""
+
+#: translate_sheet.csv:1443
+msgctxt ""
+"An outfit acquired when your bond with Hinata Takanashi reaches maximum"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|d08179dedb4fd3c50e8de6b3a811987e"
+msgstr "타카나시 히나타와의 인연이 최대치에 도달했을 때 획득한 복장"
+
+#: translate_sheet.csv:1442
+msgctxt ""
+"An outfit acquired when your bond with Nana Shiraishi reaches maximum"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|6b1d5dc731f778ca07bcbaab85c0173b"
+msgstr "시라이시 나나와의 인연이 최대치에 도달했을 때 획득한 복장"
+
+#: translate_sheet.csv:1441
+msgctxt ""
+"Spring Celebration Exclusive\\n\"Here you are, I just finished this "
+"calligraphy. I wish you a prosperous and healthy year of Gengzi (2020). \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|e03fa07c193981ebde9f85834c29b9ba"
+msgstr ""
+"봄 축제 한정\\n"
+"\"여기있었네요, 방금 서예를 마쳤어요. 경자년 한해에도 번창하시고 건강하길 바래요.\""
+
+#: translate_sheet.csv:1440
+msgctxt ""
+"Available after making a Bonding Promise with Hana Ninomiya\\n\"It's my "
+"first time wearing something like this. How do I look? \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|13aaa2f15e95581f3bd019f9d6f972a1"
+msgstr ""
+"니노미야 하나와 계약을 맺은 뒤 사용 가능\\n"
+"\"이런 옷을 입어본 건 처음이에요. 어때요?\""
+
+#: translate_sheet.csv:1439
+msgctxt "\"Here's a dance that I learned specifically for the New Year.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|026467810fad3ea3092c2e2f82933899"
+msgstr "\"새해를 위해 특별히 배운 춤이에요.\""
+
+#: translate_sheet.csv:1438
+msgctxt ""
+"Available after making a Bonding Promise with Sara\\nThe dancer comes along "
+"with the scent of rosemary."
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|869f604cc3cc0377431f47f24e6188ff"
+msgstr ""
+"사라와 계약을 맺은 뒤 사용 가능\\n"
+"무용수는 로즈마리 향기와 함께 다가온다."
+
+#: translate_sheet.csv:1437
+msgctxt ""
+"Available after making a Bonding Promise with KeiKuMusume\\n\"Do you also "
+"like to read light novels? \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|04b2f573a6d955cd32d9432c14233edb"
+msgstr ""
+"케이쿠무스메와 계약을 맺은 뒤 사용 가능\\n"
+"\"라이트 노벨 읽는 것도 좋아하나요?\""
+
+#: translate_sheet.csv:1435
+msgctxt ""
+"Available after making a Bonding Promise with Hideki Akechi\\n\"Could you "
+"sit here for a while? Just stay with me for a moment. \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|1f7181b3cea5e9ed0f0900ab4f5860f8"
+msgstr ""
+"아케치 히데키와 계약을 맺은 뒤 사용 가능\\n"
+"\"잠시 여기 앉아 주시겠니까? 조금만 저와 함께 있어주세요.\""
+
+#: translate_sheet.csv:1434
+msgctxt "明智英树"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|54ef2abce32ab79da15717cb39c12a2b"
+msgstr "明智英树"
+
+#: translate_sheet.csv:1433
+msgctxt ""
+"Christmas Carnival Exclusive\\n\"This is my first Christmas with you... Can "
+"we celebrate it again in future together?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|a02a5a032173701e915e49bcf9b52415"
+msgstr ""
+"크리스마스 축제 한정\\n"
+"\"오늘은 당신과 보내는 첫 크리스마스에요... 앞으로도 함께 축하할 수 있을까요?\""
+
+#: translate_sheet.csv:1432
+msgctxt ""
+"Available after making a Bonding Promise with Sora Ichinose\\n\" I have many"
+" more things that I want to share with you.  \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|fa048cd71d5190a4c9105214bd2b2fc5"
+msgstr ""
+"이치노세 소라와 계약을 맺은 뒤 사용 가능\\n"
+"\"저는 당신과 더 많은 것을 공유하고 싶어요.\""
+
+#: translate_sheet.csv:1431
+msgctxt "一之濑空"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|3ffba18f4cfd36ba60502e8ddc8890b3"
+msgstr "一之濑空"
+
+#: translate_sheet.csv:1430
+msgctxt ""
+"Halloween Party Exclusive\\n“Sush… keep silent. Tonight, I am nothing but a "
+"quiet scarecrow.”"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|8ee81410497c68851aacc4a89a46a5c3"
+msgstr ""
+"할로윈 파티 한정\\n"
+"\"쉿... 조용히. 오늘밤, 나는 조용한 허수아비에 불과해.\""
+
+#: translate_sheet.csv:1429
+msgctxt ""
+"Available after making a Bonding Promise with Wanjirou\\n\" I was one of the"
+" ex-Mahjong players of Mahjong Soul Temple. \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|93f4750b7872429dfd75caba8cff68bf"
+msgstr ""
+"왕지로와 계약을 맺은 뒤 사용 가능\\n"
+"\"나는 혼천 신사의 전 작사중에 하나였다구.\""
+
+#: translate_sheet.csv:1428
+msgctxt "汪次郎"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|a522e5bb65f885573b0f151cc62bf3f3"
+msgstr "汪次郎"
+
+#: translate_sheet.csv:1427
+msgctxt ""
+"Halloween Party Exclusive\\n\"Haha, the dark red threads under the skin are "
+"so breathtaking. Tonight, you belong to me.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|ff469c401a0fb1adf403b8933b13b951"
+msgstr ""
+"할로윈 파티 한정\\n"
+"\"하하, 피부 아래의 검붉은 실이 참을 수 없게 만드는군. 오늘밤, 넌 나의 소유물이야.\""
+
+#: translate_sheet.csv:1426
+msgctxt ""
+"Available after making a Bonding Promise with Natsuki Shinomiya\\n\"Shh... "
+"You should call me White Night now. \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|7d149316b2433386d3565ed59773c4d3"
+msgstr ""
+"시노미야 나츠키와 계약을 맺은 뒤 사용 가능\\n"
+"\"쉿... 지금은 \"백야\"라고 불러줘.\""
+
+#: translate_sheet.csv:1425
+msgctxt "四宫 夏生"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|ad8cd293e48122bc1f94c300d1de922a"
+msgstr "四宫 夏生"
+
+#: translate_sheet.csv:1424
+msgctxt ""
+"Available after making a Bonding Promise with Kaavi\\n\"I’ll make an "
+"exception to give you a fortune telling.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|7c55355318fd6bbfd2a0eb3481606f26"
+msgstr ""
+"카비와 계약을 맺은 뒤 사용 가능\\n"
+"\"운세를 봐드리기 위한 예외를 만들어야겠어요.\""
+
+#: translate_sheet.csv:1423
+msgctxt "Kaavi’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|65b430bb38c1d8384d01afe7657a4cee"
+msgstr "카비의 기본 의상"
+
+#: translate_sheet.csv:1422
+msgctxt "Kaavi"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|52339dd60688ae405774073185678628"
+msgstr "카비"
+
+#: translate_sheet.csv:1421
+msgctxt ""
+"Halloween Party Exclusive\\n“This costume mimics a creature known as "
+"Succubus in my country. They are very skillful in seducing…"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|bb258cfbe44a55c3d3c204b2c14b4270"
+msgstr ""
+"할로윈 파티 한정\\n"
+"\"이 의상은 우리 나라에서 서큐버스라고 부르는 생물을 모방한거에요. 유혹에 아주 능숙하다고 하던데...\""
+
+#: translate_sheet.csv:1420
+msgctxt ""
+"Available after making a Bonding Promise with Xenia\\n\"You promised that "
+"one day we would travel together. \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|ea0ee84d48612527f819494b7ee40434"
+msgstr ""
+"지니아와 계약을 맺은 뒤 사용 가능\\n"
+"\"언젠가 우리가 함께 여행하겠다고 약속했었죠.\""
+
+#: translate_sheet.csv:1419
+msgctxt "Xenia’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|456a0049c90bc45c284a8eae0a7ab590"
+msgstr "지니아의 기본 의상"
+
+#: translate_sheet.csv:1418
+msgctxt "Xenia"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|7a7b024e18f36ea754da68c7900e6195"
+msgstr "지니아"
+
+#: translate_sheet.csv:1417
+msgctxt ""
+"Beach Party Exclusive\\n\"I won't show you any mercy even if you praise my "
+"looks.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|039078708e5a90da0d500ee77df83ae6"
+msgstr ""
+"비치 파티 한정\\n"
+"\"제 겉모습을 칭찬해봤자 자비는 없어요.\""
+
+#: translate_sheet.csv:1416
+msgctxt ""
+"Available after making a Bonding Promise with Riu Kujou\\n\"Would you like "
+"some tea?  I can remember your flavor. \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|b2b6d3ccc3ca95e13c677dbee89de001"
+msgstr ""
+"쿠죠 리우와 계약을 맺은 뒤 사용 가능\\n"
+"\"차 한잔 드실래요? 취향은 기억하고 있어요.\""
+
+#: translate_sheet.csv:1415
+msgctxt "Kujou Riu’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|91741e3a24ca1457ad516e2c5aa06f18"
+msgstr "쿠죠 리우의 기본 의상"
+
+#: translate_sheet.csv:1414
+msgctxt "Kujou Riu"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|9849f8919c643e8a6a8f76f831d67858"
+msgstr "쿠죠 리우"
+
+#: translate_sheet.csv:1413
+msgctxt ""
+"Christmas Carnival Exclusive\\n\"You have been staring at my legs. I knew "
+"you had a thing for girls' feet. \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|bc66033091b9c26d001dacf512ee6c11"
+msgstr ""
+"크리스마스 축제 한정\\n"
+"\"선배는 제 다리를 쳐다보고 있네요. 다리 패티쉬일줄 알았어요.\""
+
+#: translate_sheet.csv:1412
+msgctxt ""
+"Available after making a Bonding Promise with Yui Yagi\\n\"Senpai, would you"
+" like to take a sit on the swing?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|c8e88ca0124dbc2ec7eb0c1b62e83674"
+msgstr ""
+"야기 유이와 계약을 맺은 뒤 사용 가능\\n"
+"\"선배, 그네에 앉아보실래요?\""
+
+#: translate_sheet.csv:1411
+msgctxt "Yagi Yui’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|312c4eab66c37859ecfe29eb05202960"
+msgstr "야기 유이의 기본 의상"
+
+#: translate_sheet.csv:1410
+msgctxt "Yagi Yui"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|11167681a1924df4eac40f94b295e946"
+msgstr "야기 유이"
+
+#: translate_sheet.csv:1409
+msgctxt ""
+"Beach Party Exclusive\\n\"Sunlight, ocean waves and good wine are a great "
+"combination, don't you think so? \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|dd674e465dcae6956ded055c7399489d"
+msgstr ""
+"비치 파티 한정\\n"
+"\"햇빛, 파도, 좋은 와인은 완벽한 조합이야, 그렇게 생각하지 않아?\""
+
+#: translate_sheet.csv:1408
+msgctxt ""
+"Available after making a Bonding Promise with Nadeshiko\\n\"Pick one: go for"
+" a ride or have an 1-on-1 Mahjong with me? \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|0dce69db45afe4df222cb112d8d70417"
+msgstr ""
+"나데시코와 계약을 맺은 뒤 사용 가능\\n"
+"\"하나 골라봐. . 나랑 오토바이 타러 갈래, 1대 1 마작할래?\""
+
+#: translate_sheet.csv:1407
+msgctxt "Nadeshiko’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|4ccd85070be890dc7511b8e1e1d802bd"
+msgstr "나데시코의 기본 의상"
+
+#: translate_sheet.csv:1406
+msgctxt "Nadeshiko"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|2065e72611cb6e6c025bbd7ea8d37d1d"
+msgstr "나데시코"
+
+#: translate_sheet.csv:1405
+msgctxt ""
+"Beach Party Exclusive\\n\"I'm not particularly good at swimming... But I "
+"will try my best. \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|ba026adeb68820bbf3ab5d0bd83a97fb"
+msgstr ""
+"비치 파티 한정\\n"
+"\"수영은 잘 못하지만... 최선을 다할게요.\""
+
+#: translate_sheet.csv:1404
+msgctxt ""
+"Available after making a Bonding Promise with Mai Aihara\\n\"This dance, "
+"\"Kagura\", is dedicated to you only. \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|8351fcb4eb69734ed2ab857d5c9e5db9"
+msgstr ""
+"아이하라 마이와 계약을 맺은 뒤 사용 가능\\n"
+"\"이 춤, \"카구라\"는 오직 당신만을 위한 것이에요.\""
+
+#: translate_sheet.csv:1403
+msgctxt "Aihara Mai’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|117133344a2b852ee5272263ab37dec0"
+msgstr "아이하라 마이의 기본 의상"
+
+#: translate_sheet.csv:1402
+msgctxt "Aihara Mai"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|84836d63f21e6aa398a0cd16529df007"
+msgstr "아이하라 마이"
+
+#: translate_sheet.csv:1401
+msgctxt ""
+"Christmas Carnival Exclusive\\n\"C'mon... Every Christmas, my room is "
+"flooded with Christmas gifts.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|0fb77a3836665d6b7a8360834a728306"
+msgstr ""
+"크리스마스 축제 한정\\n"
+"\"이봐... 크리스마스 때마다 내 방은 크리스마스 선물로 넘쳐났다구.\""
+
+#: translate_sheet.csv:1400
+msgctxt ""
+"Available after making a Bonding Promise with Chiori Mikami\\nChiori is so "
+"cute ！"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|465f10655527c22f7928fd31183e36b9"
+msgstr ""
+"미카미 치오리와 계약을 맺은 뒤 사용 가능\\n"
+"치오리는 너무 귀여워!"
+
+#: translate_sheet.csv:1399
+msgctxt "Chiori’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|96e9e6ff589a5f382aee152fe5ab5953"
+msgstr "치오리의 기본 의상"
+
+#: translate_sheet.csv:1398
+msgctxt "Chiori"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|7b1991f2daa83e0996ab51ae75751591"
+msgstr "치오리"
+
+#: translate_sheet.csv:1397
+msgctxt "Christmas"
+msgid ""
+"sheet|ItemDefinitionSkin.csv|lock_tips_en|81b616fbff55b8698d44852f45c08630"
+msgstr "크리스마스"
+
+#: translate_sheet.csv:1396
+msgctxt ""
+"Christmas Carnival Exclusive\\n\"Hi everyone! Thanks for coming to Kana's "
+"Christmas Eve concert. \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|1b69f83ed05f560a3c96cc715258d232"
+msgstr ""
+"크리스마스 축제 한정\\n"
+"\"모두 안녕! 카나의 크리스마스 이브 콘서트에 와줘서 고마워.\""
+
+#: translate_sheet.csv:1395
+msgctxt "Christmas"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|81b616fbff55b8698d44852f45c08630"
+msgstr "크리스마스"
+
+#: translate_sheet.csv:1394
+msgctxt ""
+"Available after making a Bonding Promise with Kana Fujita\\n\"Let's go "
+"shopping together again next time. \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|e13751e1349510fa8034eb310eb3e782"
+msgstr ""
+"후지타 카나와 계약을 맺은 뒤 사용 가능\\n"
+"\"다음에 다시 쇼핑하러 가자.\""
+
+#: translate_sheet.csv:1393
+msgctxt "Fujita Kana’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|a74c1fee2e7fb1e2c2f6138471fae224"
+msgstr "후지타 카나의 기본 의상"
+
+#: translate_sheet.csv:1392
+msgctxt "Fujita Kana"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|d47d52e9617552647beb65058ffd92b0"
+msgstr "후지타 카나"
+
+#: translate_sheet.csv:1391
+msgctxt "Spring Celebration"
+msgid ""
+"sheet|ItemDefinitionSkin.csv|lock_tips_en|112cb35a28c6adc384f0026a21fe1827"
+msgstr "봄 축제"
+
+#: translate_sheet.csv:1390
+msgctxt ""
+"Spring Celebration Exclusive\\n\"You know, it's not nice to sneak peek while"
+" girls are putting on makeup! I want you to see me at my best today!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|6563219be706681f22246ab008f8fa52"
+msgstr ""
+"봄 축제 한정\\n"
+"\"여자들이 화장하는 걸 몰래 훔쳐보는건 좋지 않아요! 매일 최고의 모습으로 만나고 싶은걸요!\""
+
+#: translate_sheet.csv:1389
+msgctxt "Spring Celebration"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|112cb35a28c6adc384f0026a21fe1827"
+msgstr "봄 축제"
+
+#: translate_sheet.csv:1388
+msgctxt "Halloween Party"
+msgid ""
+"sheet|ItemDefinitionSkin.csv|lock_tips_en|8abdb88b878147625d1497f2a582faf7"
+msgstr "할로윈 파티"
+
+#: translate_sheet.csv:1387
+msgctxt ""
+"Halloween Party Exclusive\\n“If tonight’s ball cannot delight your mood, let"
+" me teach you something that will  make you happy."
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|ba0db8173a51a317dd1848cefc55a6db"
+msgstr ""
+"할로윈 파티 한정\\n"
+"\"오늘밤 무도회가 당신의 기분을 즐겁게 해줄 수 없다면, 내가 당신을 행복하게 해줄 무언가를 가르쳐 줄게.\""
+
+#: translate_sheet.csv:1386
+msgctxt "Halloween Party"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|8abdb88b878147625d1497f2a582faf7"
+msgstr "할로윈 파티"
+
+#: translate_sheet.csv:1385
+msgctxt ""
+"Available after making a Bonding Promise with Miki Nikaidou\\n\"Sure. I'm "
+"all-yours-today.  \""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|d63321d71206973478d1120573dfd3b4"
+msgstr ""
+"니카이도 미키와 계약을 맺은 뒤 사용 가능\\n"
+"\"난 오늘 당신의 것이에요.\""
+
+#: translate_sheet.csv:1384
+msgctxt "Nikaido Miki’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|62162edfcbd3fbbced8b385825f14bb8"
+msgstr "니카이도 미키의 기본 의상"
+
+#: translate_sheet.csv:1383
+msgctxt "Nikaido Miki"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|1f0921410f6b077a42758b073563ab23"
+msgstr "니카이도 미키"
+
+#: translate_sheet.csv:1382
+msgctxt "New Year"
+msgid ""
+"sheet|ItemDefinitionSkin.csv|lock_tips_en|6bfa6743c8624b3490f7735b24c60295"
+msgstr "새해"
+
+#: translate_sheet.csv:1381
+msgctxt ""
+"\" I'm busy trying out the food for everybody, of course. This is the most "
+"important task-nya!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|afd44f08133132a152cb03ca0f43e0b4"
+msgstr "\"당연히 모두를 위해 음식 맛을 보고 있다냐. 이게 가장 중요한 일이다냐!\""
+
+#: translate_sheet.csv:1380
+msgctxt "New Year"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|6bfa6743c8624b3490f7735b24c60295"
+msgstr "새해"
+
+#: translate_sheet.csv:1379
+msgctxt "Beach Party"
+msgid ""
+"sheet|ItemDefinitionSkin.csv|lock_tips_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
+msgstr "비치 파티"
+
+#: translate_sheet.csv:1378
+msgctxt ""
+"Beach Party Exclusive\\n\"Take this! Even it's you, master, Ichihime won't "
+"let you get an easy win-nya!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|f031146e6848701624c5d57a5712e495"
+msgstr ""
+"비치 파티 한정\\n"
+"\"받아라냥! 주인님이라도 이치히메에게는 쉽게 이길 수 없을거다냐!\""
