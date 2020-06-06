@@ -1612,3 +1612,327 @@ ItemDefinitionSkin.csv,name_en,Bond,인연
 ItemDefinitionSkin.csv,desc_en,Ichihime’s default look,이치히메의 기본 의상
 ItemDefinitionSkin.csv,name_en,Ichihime,이치히메
 ItemDefinitionSkin.csv,name_en,Default Look,기본 의상
+StrStr.csv,en,Follow,팔로우
+StrStr.csv,en,Followed,팔로우함
+StrStr.csv,en,Match has ended,경기 종료됨
+StrStr.csv,en,Prepare for match,경기 준비
+StrStr.csv,en,Waiting to start...,시작 대기 중...
+StrStr.csv,en,Match hasn't started,경기가 시작되지 않았습니다
+StrStr.csv,en,Last {0} Matches Total Hanchan Score:,최근 {0} 경기 총 정산 점수:
+StrStr.csv,en,Open Tanyao On,쿠이탕 있음
+StrStr.csv,en,Open Tanyao Off,쿠이탕 없음
+StrStr.csv,en,Points,점수
+StrStr.csv,en,Game End:,게임 종료:
+StrStr.csv,en,The game has begun!,게임이 시작되었습니다!
+StrStr.csv,en,AI,AI
+StrStr.csv,en,(System),(시스템)
+StrStr.csv,en,Failed to connect to chat room,채팅방에 연결하지 못함
+StrStr.csv,en,Enter link,링크 입력
+StrStr.csv,en,Copy,복사
+StrStr.csv,en,Mahjong Soul Game Log,작혼 게임 로그
+StrStr.csv,en,Successfully copied,성공적으로 복사됨
+StrStr.csv,en,Game Log Link,게임 로그 링크
+StrStr.csv,en,Extension to South/West,남/서입
+StrStr.csv,en,First Place All Last Dealer Win Ends Game,1위인 친이 최종국에서 승리로 게임 종료
+StrStr.csv,en,First Place All Last Dealer Tenpai Ends Game,1위인 친이 최종국에서 텐파이로 게임 종료
+StrStr.csv,en,Dealer Repeats if Tenpai,친 텐파이시 연짱
+StrStr.csv,en,Dealer Repeats on Win,친 화료시 연짱
+StrStr.csv,en,Head-Bump,아타마하네
+StrStr.csv,en,Triple-Ron Draw,트리플론
+StrStr.csv,en,Four-Player Riichi Draw,사가리치
+StrStr.csv,en,Four-Wind Discarded Draw,사풍연타
+StrStr.csv,en,Four-Kan Abortive Draw,사깡유국
+StrStr.csv,en,Reveal Dora immediately after calling Open Kan,명깡을 선언한 경우 즉시 도라 공개
+StrStr.csv,en,Kan-Ura Dora,깡뒷도라
+StrStr.csv,en,Ura Dora,뒷도라
+StrStr.csv,en,Kan Dora,깡도라
+StrStr.csv,en,Open Dora,도라
+StrStr.csv,en,Kiriage Mangan,키리아게 만관
+StrStr.csv,en,Uma,우마
+StrStr.csv,en,Goal,목표
+StrStr.csv,en,Noten Penalty,노텐 패널티
+StrStr.csv,en,Continuance Counters Points,연짱 점수
+StrStr.csv,en,Automatic Win,자동 승리
+StrStr.csv,en,Busting,버스팅
+StrStr.csv,en,Red Five,적도라
+StrStr.csv,en,No tournament info found,대회 정보를 찾을 수 없음
+StrStr.csv,en,You are not following any tournament info,어떠한 대회 정보도 팔로우하지 않았습니다
+StrStr.csv,en,Error loading new data. Please try again later,새 데이터를 로드하는 중 오류가 발생했습니다. 나중에 다시 시도해주세요
+StrStr.csv,en,Match ID not found:,경기 ID를 찾을 수 없음:
+StrStr.csv,en,Enter Tournament,대회 입장
+StrStr.csv,en,Choose one to Kan,깡 선언할 패 선택
+StrStr.csv,en,Final data unavailable,최종 데이터를 사용할 수 없음
+StrStr.csv,en,Sent,보냄
+StrStr.csv,en,Added,추가됨
+StrStr.csv,en,An error occurred while loading data {0},데이터 {0}을(를) 로드하는 중 오류가 발생했습니다
+StrStr.csv,en,Do you wish to delete your friend {0}?,친구 {0}을(를) 삭제 하시겠습니까?
+StrStr.csv,en,Online,온라인
+StrStr.csv,en,{0},{0}
+StrStr.csv,en,An unspecified error:,지정되지 않은 오류:
+StrStr.csv,en,Reason:,사유:
+StrStr.csv,en,Banned until:,다음 기간까지 정지됨:
+StrStr.csv,en,Permanently Banned,영구 정지됨
+StrStr.csv,en,Your account has been banned for violating the game rules,당신의 계정은 게임 규정을 위반하여 정지되었습니다
+StrStr.csv,en,Unknown Error,알 수 없는 오류
+StrStr.csv,en,Authentication Error,인증 오류
+StrStr.csv,en,Network Error,네트워크 오류
+StrStr.csv,en,Registration Error,등록 오류
+StrStr.csv,en,Connection Error,연결 오류
+StrStr.csv,en,You've already logged into an account on this device. Please do not repeatedly login.,이 기기에서 이미 로그인했습니다. 반복적으로 로그인하지 마세요.
+StrStr.csv,en,Enter your password,비밀번호 입력
+StrStr.csv,en,Enter your account,계정 입력
+StrStr.csv,en,Search Log,로그 검색
+StrStr.csv,en,Friends Room,친선전
+StrStr.csv,en,Reconnection successful,재접속 성공
+StrStr.csv,en,Unknown condition,알 수 없는 상태
+StrStr.csv,en,Disconnected. Trying to reconnect...,연결 끊김. 다시 연결하는 중...
+StrStr.csv,en,Connection lost. Please login again.,연결 끊김. 다시 로그인해주세요.
+StrStr.csv,en,Enter Game MD5 Code:,게임 MD5 코드 입력:
+StrStr.csv,en,Real name authentication: Incomplete,실명 인증: 미완료
+StrStr.csv,en,Real name authentication: Completed,실명 인증: 완료
+StrStr.csv,en,Choose one to Pon,퐁 선언할 패 선택
+StrStr.csv,en,Choose one to Chii,치 선언할 패 선택
+StrStr.csv,en,Donation Successful,기부 성공
+StrStr.csv,en,Do you wish to donate these gifts?,선물을 기부하시겠습니까?
+StrStr.csv,en,Use,사용하기
+StrStr.csv,en,Failed to retrieve reconnection information,재접속 정보를 받아올 수 없습니다
+StrStr.csv,en,Game has already ended,게임이 이미 종료되었습니다
+StrStr.csv,en,Unknown,알 수 없음
+StrStr.csv,en,System under maintenance,시스템 유지보수 중
+StrStr.csv,en,An error occurred when connecting to the Mahjong table,마작 테이블에 연결하는 동안 오류가 발생했습니다
+StrStr.csv,en,Auto Reconnect Failed,자동 재연결 실패
+StrStr.csv,en,"Connection error, please refresh and try again.","연결 오류, 새로고침한 후 다시 시도해주세요."
+StrStr.csv,en,Failed to download log data,로그 데이터 다운로드 실패
+StrStr.csv,en,Failed to retrieve version info. Please check your connection.,버전 정보를 가져올 수 없습니다. 연결 상태를 확인해주세요.
+StrStr.csv,en,New update available for iOS. Please download from the official website.,iOS에서 사용할 수 있는 새 업데이트가 있습니다. 공식 웹 사이트에서 다운로드하십시오.
+StrStr.csv,en,Tile Call Indicator,후로패 표시기
+StrStr.csv,en,Select your Tile Call Indicator style,후로패 표시기 스타일을 선택하세요
+StrStr.csv,en,Select a portrait frame,초상화 프레임을 선택하세요
+StrStr.csv,en,Select the music played after you declare Riichi,리치 음악을 선택하세요
+StrStr.csv,en,Select your hand style,손 스타일을 선택하세요
+StrStr.csv,en,Select your specific effect when declaring Riichi,리치 특수 효과를 선택하세요
+StrStr.csv,en,Select the special effect when you win a hand,화료 특수 효과를 선택하세요
+StrStr.csv,en,Select your Riichi Bet style,리치 봉 스타일을 선택해주세요
+StrStr.csv,en,You cannot perform this action while in matchmaking,경기를 찾는 중에는 이 작업을 수행할 수 없습니다
+StrStr.csv,en,"Shop closed, more items are coming.","상점이 문을 닫고, 더 많은 물건을 들여오고 있습니다."
+StrStr.csv,en,Your friends are on their way,친구들이 오고 있습니다
+StrStr.csv,en,"Preparing tournament, stay tuned!","대회 준비중입니다, 채널 고정!"
+StrStr.csv,en,"Oops, you cannot enter this room with your current rank. Please select a room appropriate to your rank.","이런, 지금 등급으로는 이 방에 들어갈 수 없습니다. 등급에 맞는 방을 선택해주세요."
+StrStr.csv,en,"Oops, you don't have enough coppers to enter this room. Please select a lower room level.","이런, 이 방에 입장하기 위한 동전이 부족합니다. 더 낮은 등급의 방을 선택해주세요."
+StrStr.csv,en,"Rank Limit: Saint and above\n\\n4-player Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\n\\n3-player Order Bonus: 1st +15, 2nd +0, 3rd -15\n\\nIn Throne Room, Dora tips, same tile tips and Tenpai tips are disabled\n\\n\\nEast Round Match:\n\\nEntry Limit: 10000 Coppers\n\\nExchange Rate: 1000 Points = 200 Coppers\n\\nEntry Fee: 2000 Coppers\n\\n4-player Rank Bonus: 1st +60, 2nd +30, 3rd +0, 4th - penalty based on current rank\n\\n3-player Rank Bonus: 1st +120, 2nd +0, 3rd - penalty based on current rank\n\\n4-player Throne Chest Progress: 1st +260, 2nd +130, 3rd +95, 4th +60\n\\n3-player Throne Chest Progress: 1st +170, 2nd +100, 3rd +40\n\\n\\nSouth Round Match:\n\\nEntry Limit: 14000 Coppers\n\\nExchange Rate: 1000 Points = 280 Coppers\n\\nEntry Fee: 2800 Coppers\n\\n4-player Rank Bonus: 1st +120, 2nd +60, 3rd +0, 4th - penalty based on current rank\n\\n3-player Rank Bonus: 1st +240, 2nd 0, 3rd - penalty based on current rank\n\\n4-player Throne Chest Progress: 1st +360, 2nd +180, 3rd +130, 4th +80\n\\n3-player Throne Chest Progress: 1st +240, 2nd +135, 3rd +50\n\\n\\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity.","등급 제한: 작성 이상\n\\n4인 우마 점수: 1위 +15, 2위 +5, 3위 -5, 4위 -15\n\\n3인 우마 점수: 1위 +15, 2위 +0, 3위 -15\n\\n왕좌탁에서는 도라 팁, 동일 패 팁, 대기패 팁은 비활성화됨\n\\n\\n동풍전:\n\\n입장 제한: 10000 동전\n\\n교환비: 1000점 = 200 동전\n\\n입장료: 2000 동전\n\\n4인 등급 점수: 1위 +60, 2위 +30, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n\\n3인 등급 점수: 1위 +120, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n\\n4인 왕의 상자 진행도: 1위 +260, 2위 +130, 3위 +95, 4위 +60\n\\n3인 왕의 상자 진행도: 1위 +170, 2위 +100, 3위 +40\n\\n\\n반장전:\n\\n입장 제한: 14000 동전\n\\n교환비: 1000점 = 280 동전\n\\n입장료: 2800 동전\n\\n4인 등급 점수: 1위 +120, 2위 +60, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n\\n3인 등급 점수: 1위 +240, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n\\n4인 왕의 상자 진행도: 1위 +360, 2위 +180, 3위 +130, 4위 +80\n\\n3인 왕의 상자 진행도: 1위 +240, 2위 +135, 3위 +50\n\\n\\n동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다."
+StrStr.csv,en,"“Tsumo Loss” is a rule that disregards the points that should be paid by the North player in a 3-Player Mahjong match. The points will still be calculated like a Tsumo game for 4-Player Mahjong. This makes the points won from Tsumo in a 3-Player game 1/3 or 1/4 lower than from the points won from Ron. \\nIf “Tsumo Loss” is turned off, the points that should be paid by the North player will be evenly distributed to the other two players. In this way, games won from both Tsumo and Ron will receive the same points.",“쯔모 손실”은 3인 마작 경기에서 북가가 지불해야 하는 점수를 무시하는 규칙입니다. 점수는 4인 마작에서 쯔모한 것과 동일하게 계산됩니다. 이것은 3인 마작에서 쯔모로 화료한 점수를 론으로 화료한 점수보다 1/3 또는 1/4 낮게 만듭니다.\\n“쯔모 손실”을 비활성화하면 북가가 지불해야 하는 점수를 다른 두 플레이어에게 고르게 분배합니다. 이렇게 하면 쯔모와 론으로 화료한 경우 같은 점수를 받게됩니다.
+StrStr.csv,en,Poor network connection. Please use VPN or switch your internet environment.,네트워크 연결 상태가 좋지 않습니다. VPN을 사용하거나 인터넷 환경을 변경하십시오.
+StrStr.csv,en,Match server list is empty. Unable to connect.,경기 서버 목록이 비어 있습니다. 연결할 수 없습니다.
+StrStr.csv,en,Failed to connect to match server. Please refresh and try again.,경기 서버에 연결하지 못했습니다. 새로고침한 후 다시 시도해주세요.
+StrStr.csv,en,Cannot find match list. Please refresh and try again.,경기 목록을 찾을 수 없습니다. 새로고침한 후 다시 시도해주세요.
+StrStr.csv,en,"3-Player Mahjong Rules:\\n - Order Bonus +15, 0, -15\\n - 8 Dead Wall tiles\\n - 2M-8M tiles not used\\n - “Chii” is not allowed\\n -“North Wind” can be melded and used as a Kita Dora. Upon calling Kita, the player can draw an extra tile from the Dead Wall.\\n - “Tsumo” after Kita is considered a Dead Wall Draw\\n - Kita is considered as a call (which disables Ippatsu/Miracle (Non-Dealer)/Nine Terminal Initial Draw/Double Riichi) but does not make Menzenchin invalid\\n - Players can declare a Ron when others are Kita, but this has no Yaku\\n - North Winds are considered as Useless Wind when in triplets\\n - You may turn “Tsumo Loss” on or off in the advanced settings.","3인 마작 규칙:\\n - 우마 점수 +15, 0, -15\\n - 왕패 8칸\\n - 2-8만패는 사용하지 않음\\n - “치”금지\\n - “북패”는 빼기 도라로 사용함. 북패를 울어서 왕패에서 쯔모할 수 있음.\\n - 북패를 울어 “쯔모”하는 것은 영상패로 취급\\n - 북패는 “후로”로 취급(일발/지화/인화/구종구패/더블리치를 할 수 없게 함)하지만 멘젠 상태를 변화시키지 않음\\n - 플레이어는 다른 사람이 북패를 울 때 론을 선헐할 수 있지만, 별도의 역으로 취급하지 않음\\n - 북패 커쯔는 역으로 취급하지 않음\\n - “쯔모 손실”을 세부 설정에서 켜고 끌 수 있음."
+StrStr.csv,en,"In the tournament lobby, players can create and manage different tournaments using customized rules. \\n Illegal activities, such as gambling, are strictly prohibited in Mahjong Soul and will face serious consequences once found. We hope all players can work together to ensure a healthy gaming environment. \\n\\nParticipant:\\n - Tournament matches will not involve coppers or PTs. \\n - Tournament match results will not be reflected in “Recent Trends”, “Style (stats)” or “Match Info”, but may appear in “Recent High Score”. \\n - Players can only prepare for tournaments marked as “In Progress”. \\n - Tournament matches can only be spectated in corresponding tournament rooms with a 300 seconds delay. \\n - Participants can view the match logs of a tournament within the tournament room. \\n\\nOrganizer:\\n - Organizers can enter the organizer center to create and manage tournaments via “Manage Tournament” on mahjongsoul.yo-star.com. \\n - Each account can create up to 1 tournament every 7 days. \\n - Creating a tournament will cost 60 Jade. \\n - A tournament room will exist for up to 90 days, starting from the day it was created. \\n - Tournament matches will use the same rules as the standard Ranked Match if “Advanced Rules” are disabled. \\n - Creators can add other players as admins to help manage the tournament. \\n - Tournament admins may use statistical tools in the organizer center to analyze participant scores and rankings. \\n - Tournament matches must be manually activated by admins. Participants will not be randomly matched.","대회 로비에서는 사용자 정의 규칙을 사용하여 다양한 대회를 만들고 관리할 수 있습니다. \\n 작혼에서는 도박과 같은 불법 행위를 엄격하게 금지하고 있으며, 발견될 경우 심각한 결과에 직면하게 될 것입니다. 건전한 게임 환경을 만들기 위해 모든 플레이어들이 함께 노력합시다. \\n\\n참가자:\\n - 대회전은 동전과 점수에 영향을 주지 않습니다. \\n = 대회전의 결과는 “최근 트렌드”, “스타일(스탯)” 및 “경기 정보”에 반영되지 않지만 “최근 고득점”에는 표시될 수 있습니다. \\n - 플레이어는 “진행중”으로 표시된 대회만 준비할 수 있습니다. \\n - 대회 관전은 300초 지연된 대회 방에서만 볼 수 있습니다. \\n - 참가자는 대회 방 내에서 대회의 경기 로그를 볼 수 있습니다. \\n\\n주최자:\\n - 주최자는 mahjongsoul.yo-star.com의 “대회 관리”를 통해 주최자 센터에 입장하여 대회를 만들고 관리할 수 있습니다. \\n - 각 계정은 7일마다 최대 1개의 대회를 만들 수 있습니다. \\n - 대회를 만들기 위해서는 60 휘옥이 필요합니다. \\n - 대화 방은 생성일로부터 90일까지 유지됩니다. \\n - 대회 경기는 ""세부 규칙""이 비활성화된 경우 일반 등급전과 동일한 규칙을 사용합니다. \\n - 대회 개최자는 다른 플레이어를 관리자로 추가하여 대회 관리를 돕게 할 수 있습니다. \\n - 대회 관리자는 주최자 센터에서 통계 도구를 사용하여 참가자의 점수 및 순위를 분석할 수 있습니다. \\n - 대회 경기는 관리자가 수동으로 활성화해야 합니다. 참가자는 임의로 경기를 치룰 수 없습니다."
+StrStr.csv,en,Players can get 1 Faith each time they summon. \\nClick the button on the left to enter Faith Shop. Rare items and characters can be purchased with Faith.,플레이어는 기원할 때마다 1 신앙을 얻습니다. \\n왼쪽에 있는 버튼을 클릭하여 신앙 상점에 입장합니다. 희귀한 아이템과 캐릭터를 신앙으로 교환할 수 있습니다.
+StrStr.csv,en,"Open Tanyao: \\nWhen “Open Tanyao” is on, “Tanyao” also counts as a Yaku when you have called for tiles \\nWhen “Open Tanyao” is off, “Tanyao” only counts as a Yaku when you have Menzenchin (no calls made).","쿠이탕: \\n“쿠이탕”이 허용되어 있으면, 울었을 때에도 “탕야오”가 역으로 인정됩니다 \\n“쿠이탕”이 허용되지 않으면, “탕야오”는 멘젠 상태(울지 않음)에만 역으로 인정됩니다."
+StrStr.csv,en,"Tips include: \\nSame Tile: When you select a tile, similar tiles in the discard pile will be highlighted \\nTenpai: Display the type and remaining quantity of tiles required to win when you achieve Tenpai \\nDora: Dora tiles will be highlighted.","팁에는 다음이 포함됩니다: \\n같은 패: 패를 선택하면, 버림패에서 동일한 패가 강조표시됩니다 \\n텐파이: 텐파이하면 대기패의 종류와 수량이 표시됩니다 \\n도라: 도라패가 강조표시됩니다."
+StrStr.csv,en,You have been removed from the room,방에서 강퇴당하셨습니다
+StrStr.csv,en,"ATK: This stat increases with your average points won in the last 100 games;\\nDEF: This stat increases as your deal-in rate over the last 100 games decreases;\\nSPD: This stat increases as your win rate over the last 100 games increases;\\nLUK: This stat is higher when you had more Dora-Yaku (Dora, Ura Dora, Red Five & Ippatsu) in the last 20 wins.","공격: 이 스탯은 최근 100게임에서 획득한 평균 점수에 따라 증가합니다;\\n수비: 이 스탯은 최근 100게임에서 방총당한 비율이 줄어들수록 증가합니다;\\n속도: 이 스탯은 최근 100게임에서 승률이 높이질수록 증가합니다;\\n행운: 이 스탯은 최근 20승에서 도라 역(도라, 뒷도라, 적도라, 일발)이 많을수록 증가합니다."
+StrStr.csv,en,"Starting Points: 35,000\\nExtension into West: At the end of 3rd South game, if 1st place has less than 40,000 points\\nLength: Two-Wind Match\\nRed Five: 2\\nOpen Tanyao: On\\nTsumo Loss： On\\nWaiting Time: 5+20\n\\n - 8 Dead Wall tiles;\n\\n - 2,3,4,5,6,7,8-Man tiles are not used;\n\\n - “Chii” is not allowed;\n\\n - “North Wind” can be melded and used as a Kita Dora. Upon calling Kita, the player can draw an extra tile from the Dead Wall.\n\\n - “Tsumo” after Kita is considered a Dead Wall Draw;\n\\n - Kita is considered as a call (which disables Ippatsu/Miracle (Non-Dealer)/Nine Terminal Initial Draw/Double Riichi) but does not make Menzenchin invalid;\n\\n - Players can declare a Ron when others are Kita, but this has no Yaku;\n\\n - North Wind triplets are not considered as Yaku;","시작 점수: 35,000\\n서입: 남3국 종료시 1위 점수가 40,000점 미만일 때\\n길이: 반장전\\n적도라: 2\\n쿠이탕: 허용\\n쯔모 손실： 있음\\n제한 시간: 5+20\n\\n - 왕패 8칸;\n\\n - 2,3,4,5,6,7,8만패는 사용하지 않음;\n\\n - “치”금지;\n\\n - “북패”는 빼기 도라로 사용함. 북패를 울어서 왕패에서 쯔모할 수 있음.\n\\n - 북패를 울어 “쯔모”하는 것은 영상패로 취급;\n\\n - 북패는 “후로”로 취급(일발/지화/인화/구종구패/더블리치를 할 수 없게 함)하지만 멘젠 상태를 변화시키지 않음;\n\\n - 플레이어는 다른 사람이 북패를 울 때 론을 선헐할 수 있지만, 별도의 역으로 취급하지 않음;\n\\n - 북패 커쯔는 역으로 취급하지 않음;"
+StrStr.csv,en,"Starting Points: 35,000\\nExtension into South: At the end of 3rd East game, if 1st place has less than 40,000 points\\nLength: East Round Match\\nRed Five: 2\\nOpen Tanyao: On\\nTsumo Loss： On\\nWaiting Time: 5+20\n\\n - 8 Dead Wall tiles;\n\\n - 2,3,4,5,6,7,8-Man tiles are not used;\n\\n - “Chii” is not allowed;\n\\n - “North Wind” can be melded and used as a Kita Dora. Upon calling Kita, the player can draw an extra tile from the Dead Wall.\n\\n - “Tsumo” after Kita is considered a Dead Wall Draw;\n\\n - Kita is considered as a call (which disables Ippatsu/Miracle (Non-Dealer)/Nine Terminal Initial Draw/Double Riichi) but does not make Menzenchin invalid;\n\\n - Players can declare a Ron when others are Kita, but this has no Yaku;\n\\n - North Wind triplets are not considered as Yaku;","시작 점수: 35,000\\n남입: 동3국 종료시 1위 점수가 40,000점 미만일 때\\n길이: 동풍전\\n적도라: 2\\n쿠이탕: 허용\\n쯔모 손실： 있음\\n제한 시간: 5+20\n\\n - 왕패 8칸;\n\\n - 2,3,4,5,6,7,8만패는 사용하지 않음;\n\\n - “치”금지;\n\\n - “북패”는 빼기 도라로 사용함. 북패를 울어서 왕패에서 쯔모할 수 있음.\n\\n - 북패를 울어 “쯔모”하는 것은 영상패로 취급;\n\\n - 북패는 “후로”로 취급(일발/지화/인화/구종구패/더블리치를 할 수 없게 함)하지만 멘젠 상태를 변화시키지 않음;\n\\n - 플레이어는 다른 사람이 북패를 울 때 론을 선헐할 수 있지만, 별도의 역으로 취급하지 않음;\n\\n - 북패 커쯔는 역으로 취급하지 않음;"
+StrStr.csv,en,You cannot change so frequently. Please wait 30 seconds before trying again.,너무 자주 변경하고 있습니다. 다시 시도하기 전에 30초 동안 기다려주세요.
+StrStr.csv,en,Do you wish to close the game?,게임을 종료하시겠습니까?
+StrStr.csv,en,Do you wish to leave this room?,이 방을 나가시겠습니까?
+StrStr.csv,en,You cannot send messages while in a match,게임 중에는 메시지를 전송할 수 없습니다
+StrStr.csv,en,Do you wish to delete this message?,이 메시지를 삭제하시겠습니까?
+StrStr.csv,en,This player only allows friends to leave messages,이 플레이어에게는 친구만 메시지를 전송할 수 있습니다
+StrStr.csv,en,This player has disabled messenger.,이 플레이어는 메신저 기능을 비활성화했습니다.
+StrStr.csv,en,This match has ended. Leaving spectate mode.,이 게임은 종료되었습니다. 관전 모드를 나갑니다.
+StrStr.csv,en,An error occurred while loading to spectate the match. Please exit and re-enter again.,경기를 관전하기 위해 로드하는 중 오류가 발생했습니다. 종료한 후 다시 입장해주세요.
+StrStr.csv,en,"Oops, something is wrong with the program. Please refresh and enter the game again.","이런, 뭔가 잘못됬습니다. 새로고침 후 다시 게임에 접속해주세요."
+StrStr.csv,en,Attempting to connect to server. Please try again later.,서버에 연결하려고 시도 중입니다. 나중에 다시 시도해주세요.
+StrStr.csv,en,Failed to connect to server,서버에 연결하지 못했습니다
+StrStr.csv,en,You have a poor connection. Please check your network proxy settings and try again.,연결이 불안정합니다. 네트워크 프록시 설정을 확인하고 다시 시도해주세요.
+StrStr.csv,en,Rank Limit: N/A\\nMinimum coppers: N/A\\nMaximum coppers: N/A\\nRank Points: N/A\\n\\nMatches played in Smash Room will involve no coppers or Rank Points. There will be no entry restrictions either. All players can enjoy Mahjong here!,등급 제한: 없음\\n최소 동전: 없음\\n최대 동전: 없음\\n등급 점수: 없음\\n\\n스매쉬 룸의 플레이는 동전과 등급 점수에 영향을 주지 않습니다. 입장 제한도 없습니다. 여기에서는 모든 플레이어가 마작을 즐길 수 있습니다!
+StrStr.csv,en,"Enter a room number, or tap the invitation link sent by a friend to join the corresponding room and start playing!\\nIn Friends Room, only game points are calculated. Rank Points and coppers will not be affected.",방 번호를 입력하거나 친구가 보낸 초대 링크를 눌러 방에 참여하시고 게임을 시작하세요!\\n친선전에서는 게임 우마만 계산됩니다. 등급 포인트와 동전은 변경되지 않습니다.
+StrStr.csv,en,"Mode:\\n4-Player: 4-Player Mahjong rules used\\n3-Player: 3-Player Mahjong rules used\\nLength:\\nVS AI: Practice with AI, only play 1 East Game\\nEast Wind Match: Play an East Wind round with other players or AI\\nTwo-Wind Match: Play a Two-Wind Match with other players or AI\\nIn Friends Room, only game points are calculated. Rank Points and coppers will not be affected.","모드:\\n4인: 4인 마작 규칙 사용\\n3인: 3인 마작 규칙 사용\\n길이:\\nVS AI: AI와 연습, 동1국만 플레이\\n동풍전: 다른 플레이어 또는 AI와 동풍전 플레이\\n반장전: 다른 플레이어 또는 AI와 반장전 플레이\\n친선전에서는 게임 우마만 계산됩니다. 등급 포인트와 동전은 변경되지 않습니다."
+StrStr.csv,en,"Rank Limit: Master - Saint\n\\n4-player Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\n\\n3-player Order Bonus: 1st +15, 2nd +0, 3rd -15\n\\n\\nEast Round Match:\n\\nEntry Limit: 10000 Coppers\n\\nExchange Rate: 1000 Points = 200 Coppers\n\\nEntry Fee: 2000 Coppers\n\\n4-player Rank Bonus: 1st +55, 2nd +30, 3rd +0, 4th - penalty based on current rank\n\\n3-player Rank Bonus: 1st +75, 2nd +0, 3rd - penalty based on current rank\n\\n4-player Jade Chest Progress: 1st +260, 2nd +130, 3rd +95, 4th +60\n\\n3-player Jade Chest Progress: 1st +160, 2nd +100, 3rd +40\n\\n\\nSouth Round Match:\n\\nEntry Limit: 14000 Coppers\n\\nExchange Rate: 1000 Points = 280 Coppers\n\\nEntry Fee: 2800 Coppers\n\\n4-player Rank Bonus: 1st +110, 2nd +55, 3rd +0, 4th - penalty based on current rank\n\\n3-player Rank Bonus: 1st +160, 2nd 0, 3rd - penalty based on current rank\n\\n4-player Jade Chest Progress: 1st +360, 2nd +180, 3rd +130, 4th +80\n\\n3-player Jade Chest Progress: 1st +240, 2nd +135, 3rd +50\n\\n\\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity.","등급 제한: 작호 - 작성\n\\n4인 우마 점수: 1위 +15, 2위 +5, 3위 -5, 4위 -15\n\\n3인 우마 점수: 1위 +15, 2위 +0, 3위 -15\n\\n\\n동풍전:\n\\n입장 제한: 10000 동전\n\\n교환비: 1000점 = 200 동전\n\\n입장료: 2000 동전\n\\n4인 등급 점수: 1위 +55, 2위 +30, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n\\n3인 등급 점수: 1위 +75, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n\\n4인 비취 상자 진행도: 1위 +260, 2위 +130, 3위 +95, 4위 +60\n\\n3인 비취 상자 진행도: 1위 +170, 2위 +100, 3위 +40\n\\n\\n반장전:\n\\n입장 제한: 14000 동전\n\\n교환비: 1000점 = 280 동전\n\\n입장료: 2800 동전\n\\n4인 등급 점수: 1위 +110, 2위 +55, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n\\n3인 등급 점수: 1위 +160, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n\\n4인 비취 상자 진행도: 1위 +360, 2위 +180, 3위 +130, 4위 +80\n\\n3인 비취 상자 진행도: 1위 +240, 2위 +135, 3위 +50\n\\n\\n동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다."
+StrStr.csv,en,"Rank Limit: Expert - Master\n\\n4-player Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\n\\n3-player Order Bonus: 1st +15, 2nd +0, 3rd -15\n\\n\\nEast Round Match:\n\\nEntry Limit: 5000 Coppers\n\\nExchange Rate: 1000 Points = 100 Coppers\n\\nEntry Fee: 1000 Coppers\n\\n4-player Rank Bonus: 1st +40, 2nd +20, 3rd +0, 4th - penalty based on current rank\n\\n3-player Rank Bonus: 1st +55, 2nd +0, 3rd - penalty based on current rank\n\\n4-player Gold Chest Progress: 1st +260, 2nd +130, 3rd +95, 4th +60\n\\n3-player Gold Chest Progress: 1st +170, 2nd +100, 3rd +40\n\\n\\nSouth Round Match:\n\\nEntry Limit: 7000 Coppers\n\\nExchange Rate: 1000 Points = 140 Coppers\n\\nEntry Fee: 1400 Coppers\n\\n4-player Rank Bonus: 1st +80, 2nd +40, 3rd +0, 4th - penalty based on current rank\n\\n3-player Rank Bonus: 1st +105, 2nd 0, 3rd - penalty based on current rank\n\\n4-player Gold Chest Progress: 1st +360, 2nd +180, 3rd +130, 4th +80\n\\n3-player Gold Chest Progress: 1st +240, 2nd +135, 3rd +50\n\\n\\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity.","등급 제한: 작걸 - 작호\n\\n4인 우마 점수: 1위 +15, 2위 +5, 3위 -5, 4위 -15\n\\n3인 우마 점수: 1위 +15, 2위 +0, 3위 -15\n\\n\\n동풍전:\n\\n입장 제한: 5000 동전\n\\n교환비: 1000점 = 100 동전\n\\n입장료: 1000 동전\n\\n4인 등급 점수: 1위 +40, 2위 +20, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n\\n3인 등급 점수: 1위 +55, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n\\n4인 금 상자 진행도: 1위 +260, 2위 +130, 3위 +95, 4위 +60\n\\n3인 금 상자 진행도: 1위 +170, 2위 +100, 3위 +40\n\\n\\n반장전:\n\\n입장 제한: 7000 동전\n\\n교환비: 1000점 = 140 동전\n\\n입장료: 1400 동전\n\\n4인 등급 점수: 1위 +80, 2위 +40, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n\\n3인 등급 점수: 1위 +105, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n\\n4인 금 상자 진행도: 1위 +360, 2위 +180, 3위 +130, 4위 +80\n\\n3인 금 상자 진행도: 1위 +240, 2위 +135, 3위 +50\n\\n\\n동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다."
+StrStr.csv,en,"Rank Limit: Novice - Intermediate\n\\n4-player Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\n\\n3-player Order Bonus: 1st +15, 2nd +0, 3rd -15\n\\n\\nEast Round Match:\n\\nEntry Limit: N/A\n\\n4-player Rank Bonus: 1st +10, 2nd +5, 3rd +0, 4th - penalty based on current rank\n\\n3-player Rank Bonus: 1st +15, 2nd +0, 3rd - penalty based on current rank\n\\n\\nSouth Round Match:\n\\nEntry Limit: N/A\n\\n4-player Rank Bonus: 1st +20, 2nd +10, 3rd +0, 4th - penalty based on current rank\n\\n3-player Rank Bonus: 1st +30, 2nd +0, 3rd - penalty based on current rank","등급 제한: 초심자 - 작사\n\\n4인 우마: 1위 +15, 2위 +5, 3위 -5, 4위 -15\n\\n3인 우마: 1위 +15, 2위 +0, 3위 -15\n\\n\\n동풍전:\n\\n입장 제한: 없음\n\\n4인 등급 점수: 1위 +10, 2위 +5, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n\\n3인 등급 점수: 1위 +15, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n\\n\\n반장전:\n\\n입장 제한: 없음\n\\n4인 등급 점수: 1위 +20, 2위 +10, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n\\n3인 등급 점수: 1위 +30, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여"
+StrStr.csv,en,"Rank Limit: Intermediate - Expert\n\\n4-player Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\n\\n3-player Order Bonus: 1st +15, 2nd +0, 3rd -15\n\\n\\nEast Round Match:\n\\nEntry Limit: 2500 Coppers\n\\nExchange Rate: 1000 Points = 50 Coppers\n\\nEntry Fee: 500 Coppers\n\\n4-player Rank Bonus: 1st +20, 2nd +10, 3rd +0, 4th - penalty based on current rank\n\\n3-player Rank Bonus: 1st +30, 2nd +0, 3rd - penalty based on current rank\n\\n4-player Silver Chest Progress: 1st +260, 2nd +130, 3rd +95, 4th +60\n\\n3-player Silver Chest Progress: 1st +170, 2nd +100, 3rd +40\n\\n\\nSouth Round Match:\n\\nEntry Limit: 3500 Coppers\n\\nExchange Rate: 1000 Points = 70 Coppers\n\\nEntry Fee: 700 Coppers\n\\n4-player Rank Bonus: 1st +40, 2nd +20, 3rd +0, 4th - penalty based on current rank\n\\n3-player Rank Bonus: 1st +60, 2nd +0, 3rd - penalty based on current rank\n\\n4-player Silver Chest Progress: 1st +360, 2nd +180, 3rd +130, 4th +80\n\\n3-player Silver Chest Progress: 1st +240, 2nd +135, 3rd +50\n\\n\\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity","등급 제한: 작사 - 작걸\n\\n4인 우마 점수: 1위 +15, 2위 +5, 3위 -5, 4위 -15\n\\n3인 우마 점수: 1위 +15, 2위 +0, 3위 -15\n\\n\\n동풍전:\n\\n입장 제한: 2500 동전\n\\n교환비: 1000점 = 50 동전\n\\n입장료: 500 동전\n\\n4인 등급 점수: 1위 +20, 2위 +10, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n\\n3인 등급 점수: 1위 +30, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n\\n4인 은 상자 진행도: 1위 +260, 2위 +130, 3위 +95, 4위 +60\n\\n3인 은 상자 진행도: 1위 +170, 2위 +100, 3위 +40\n\\n\\n반장전:\n\\n입장 제한: 3500 동전\n\\n교환비: 1000점 = 70 동전\n\\n입장료: 700 동전\n\\n4인 등급 점수: 1위 +40, 2위 +20, 3위 +0, 4위 - 현재 등급에 따라 패널티 부여\n\\n3인 등급 점수: 1위 +60, 2위 +0, 3위 - 현재 등급에 따라 패널티 부여\n\\n4인 은 상자 진행도: 1위 +360, 2위 +180, 3위 +130, 4위 +80\n\\n3인 은 상자 진행도: 1위 +240, 2위 +135, 3위 +50\n\\n\\n동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다"
+StrStr.csv,en,"Starting Points: 25,000\\nExtension into West: At the end of 4th South game, if 1st place has less than 30,000 points\\nLength: Two-Wind Match\\nRed Five: 3\\nOpen Tanyao: On\\nWaiting Time: 5+20","시작 점수: 25,000\\n서입:남4국 종료시 1위 점수가 30,000점 미만일 때\\n길이: 반장전\\n적도라: 3\\n쿠이탕: 허용\\n제한 시간:5+20"
+StrStr.csv,en,"Starting Points: 25,000\\nExtension into South: At the end of 4th East game, if 1st place has less than 30,000 points\\nLength: East Round Match\\nRed Five: 3\\nOpen Tanyao: On\\nWaiting Time: 5+20","시작 점수: 25,000\\n남입:동4국 종료시 1위 점수가 30,000점 미만일 때\\n길이: 동풍전\\n적도라: 3\\n쿠이탕: 허용\\n제한 시간:5+20"
+StrStr.csv,en,"Starting Points: 25,000\\nBase Points: 30,000\\nLength: East (1 Game) Match\\nRed Five: 3\\nOpen Tanyao: On\\nWaiting Time: 5+20","시작 점수: 25,000\\n반환 점수: 30,000\\n길이: 동1국 (1 게임)\\n적도라: 3\\n쿠이탕: 허용\\n제한 시간:5+20"
+ShopsZhpGoods.csv,name_en,Normal Dress,평범한 옷
+ShopsZhpGoods.csv,name_en,Simple Fanzine,얇은 책
+ShopsZhpGoods.csv,name_en,Teddy Bear L,테디 베어 L
+ShopsZhpGoods.csv,name_en,Large Diamond,큰 다이아몬드
+ShopsZhpGoods.csv,name_en,Simple Dress,단순한 옷
+ShopsZhpGoods.csv,name_en,Fanzine Booklet,동인 안내책자
+ShopsZhpGoods.csv,name_en,Teddy Bear,테디 베어
+ShopsZhpGoods.csv,name_en,Ordinary Diamond,일반 다이아몬드
+ShopsGoods.csv,desc_en,Background + all outfits,배경 + 모든 의상
+ShopsGoods.csv,name_en,Beach Party Special Pack,비치 파티 스페셜 팩
+ShopsGoods.csv,desc_en,Hana Ninomiya's outfit,니노미야 하나의 의상
+ShopsGoods.csv,desc_en,Miki Nikaidou's outfit,니카이도 미키의 의상
+ShopsGoods.csv,name_en,Spring Celebration,봄 축제
+ShopsGoods.csv,desc_en,Sara's outfit,사라의 의상
+ShopsGoods.csv,name_en,New Year's First Visit,새해 첫 참배
+ShopsGoods.csv,desc_en,Background's outfit,배경 의상
+ShopsGoods.csv,desc_en,Sora Ichinose's outfit,이치노세 소라의 의상
+ShopsGoods.csv,desc_en,Yui Yagi's outfit,야기 유이의 의상
+ShopsGoods.csv,desc_en,Chiori Mikami's outfit,미카미 치오리의 의상
+ShopsGoods.csv,desc_en,Fujita Kana's outfit,후지타 카나의 의상
+ShopsGoods.csv,name_en,Christmas Carnival,크리스마스 축제
+ShopsGoods.csv,desc_en,Wanjirou's outfit,왕지로의 의상
+ShopsGoods.csv,desc_en,Natsuki Shinomiya's outfit,시노미야 나츠키의 의상
+ShopsGoods.csv,desc_en,Xenia's outfit,지니아의 의상
+ShopsGoods.csv,desc_en,Nikaido Miki's outfit,니카이도 미키의 의상
+ShopsGoods.csv,name_en,Halloween Party,할로윈 파티
+ShopsGoods.csv,desc_en,Riu Kujou's outfit,쿠죠 리우의 의상
+ShopsGoods.csv,desc_en,Nadeshiko's outfit,나데시코의 의상
+ShopsGoods.csv,desc_en,Mai Aihara's outfit,아이하라 마이의 의상
+ShopsGoods.csv,desc_en,Ichihime's outfit,이치히메의 의상
+ShopsGoods.csv,name_en,Tablecloth - Christmas,테이블보 - 크리스마스
+ShopsGoods.csv,name_en,Sage's Bag,성스러운 주머니
+ShopsGoods.csv,name_en,Fortune Bag,복 주머니
+ShopsGoods.csv,name_en,Traveler's Bag,여행자의 주머니
+ShopsGoods.csv,name_en,Shrine Yard · Midsummer,신사 앞뜰 · 한여름
+ShopsGoods.csv,desc_en,Background,배경
+ShopsGoods.csv,name_en,Beach Party,비치 파티
+ShopsGoods.csv,name_en,Normal Dress,평범한 옷
+ShopsGoods.csv,name_en,Simple Fanzine,얇은 책
+ShopsGoods.csv,name_en,Teddy Bear L,테디 베어 L
+ShopsGoods.csv,name_en,Large Diamond,큰 다이아몬드
+ShopsGoods.csv,name_en,Exquisite Wine Glass,정교한 와인잔
+ShopsGoods.csv,name_en,Wall Painting,벽걸이 그림
+ShopsGoods.csv,name_en,Xwitch Console,휴대용 게임기
+ShopsGoods.csv,name_en,Danish Cookie,덴마크 쿠키
+ShopsGoods.csv,name_en,Blue Cat Paw,파란 고양이 발
+ShopsGoods.csv,name_en,Riichi - Jadeite,리치 - 경옥
+ShopsGoods.csv,name_en,Riichi - Evil Eye,리치 - 악마의 눈
+ShopsGoods.csv,name_en,Riichi - Chocolate,리치 - 초콜릿
+ShopsGoods.csv,name_en,Sphere of Light,빛의 보옥
+ShopsGoods.csv,name_en,Sphere of Hope,희망의 보옥
+ShopsGoods.csv,name_en,Sphere of Innocence,순수의 보옥
+ShopsGoods.csv,name_en,Sphere of Wisdom,지혜의 보옥
+ShopsGoods.csv,name_en,Sphere of Love,사랑의 보옥
+ShopsGoods.csv,name_en,Sphere of Honesty,성실의 보옥
+ShopsGoods.csv,name_en,Sphere of Will,의지의 보옥
+ShopsGoods.csv,name_en,Sphere of Courage,용기의 보옥
+ShopsGoods.csv,name_en,Gorgeous Dress,화려한 의상
+ShopsGoods.csv,name_en,Delicate Fanzine,훌륭한 동인지
+ShopsGoods.csv,name_en,Teddy Bear XXL,테디 베어 XXL
+ShopsGoods.csv,name_en,Heart of the Ocean,바다의 심장
+ItemDefinitionTitle.csv,desc_en,雀魂公認の選ばれしプレイヤーG,雀魂公認の選ばれしプレイヤーG
+ItemDefinitionTitle.csv,name_en,雀魂公認の選ばれしプレイヤーG,雀魂公認の選ばれしプレイヤーG
+ItemDefinitionTitle.csv,desc_en,限时称号测试用,限时称号测试用
+ItemDefinitionTitle.csv,name_en,限时称号测试用,限时称号测试用
+ItemDefinitionTitle.csv,desc_en,Awarded to the first player reaching the rank of Celestial（3-Player ）,혼천(3인) 등급에 도달한 최초의 플레이어에게 수여됨
+ItemDefinitionTitle.csv,desc_en,Awarded to the first player reaching the rank of Saint（3-Player ）,작성(3인) 등급에 도달한 최초의 플레이어에게 수여됨
+ItemDefinitionTitle.csv,desc_en,"""We shall protect all the cat food here! ""","""우리는 여기 있는 모든 고양이 사료를 지킬 것입니다!"""
+ItemDefinitionTitle.csv,name_en,Royal Cat Guard,고양이 왕국의 수호자
+ItemDefinitionTitle.csv,desc_en,赠予育儿里打麻将最好的蓝毛,赠予育儿里打麻将最好的蓝毛
+ItemDefinitionTitle.csv,name_en,佐仓沙耶加,佐仓沙耶加
+ItemDefinitionTitle.csv,desc_en,赠予为小杆菌努力拼搏的杆菌,赠予为小杆菌努力拼搏的杆菌
+ItemDefinitionTitle.csv,name_en,杆菌无敌,杆菌无敌
+ItemDefinitionTitle.csv,desc_en,赠予与我们共经风雨的大当家,赠予与我们共经风雨的大当家
+ItemDefinitionTitle.csv,name_en,12Dora,12도라
+ItemDefinitionTitle.csv,desc_en,A respected player certified by official Mahjong Soul.,작혼에 공식적으로 인증을 받은 유명 플레이어.
+ItemDefinitionTitle.csv,name_en,Certifed Player,공인 플레이어
+ItemDefinitionTitle.csv,desc_en,Awarded to the first player reaching the rank of Celestial（4-Player ）,혼천(4인) 등급에 도달한 최초의 플레이어에게 수여됨
+ItemDefinitionTitle.csv,name_en,The First Celestial,최초의 혼천
+ItemDefinitionTitle.csv,desc_en,"A primary cat food supplier for Cat Food Studio, meow~","캣푸드 스튜디오의 주요 고양이 사료 공급자, 야옹~"
+ItemDefinitionTitle.csv,name_en,Cat Food Supplier,캣푸드 상인
+ItemDefinitionTitle.csv,desc_en,Awarded to  who have made incredible contribution to Mahjong Soul,작혼에 놀라운 공헌을 한 사람에게 수여됨
+ItemDefinitionTitle.csv,name_en,Soul Excelsior,혼의 초월자
+ItemDefinitionTitle.csv,desc_en,A senior envoy of the Mahjong Soul universe,작혼 유니버스의 상급 사자
+ItemDefinitionTitle.csv,name_en,Soul Creator - Senior,혼의 창조자 - 상급
+ItemDefinitionTitle.csv,desc_en,An intermediate envoy of the Mahjong Soul universe,작혼 유니버스의 중급 사자
+ItemDefinitionTitle.csv,name_en,Soul Creator - Intermediate,혼의 창조자 - 중급
+ItemDefinitionTitle.csv,desc_en,A basic envoy of the Mahjong Soul universe,작혼 유니버스의 초급 사자
+ItemDefinitionTitle.csv,name_en,Soul Creator - Beginner,혼의 창조자 - 초급
+ItemDefinitionTitle.csv,desc_en,A senior Mahjong Soul instructor,고급 작혼 계몽자
+ItemDefinitionTitle.csv,name_en,Soul Enlightener - Senior,혼의 계몽자 - 상급
+ItemDefinitionTitle.csv,desc_en,An intermediate Mahjong Soul instructor,중급 장혼 계몽자
+ItemDefinitionTitle.csv,name_en,Soul Enlightener - Intermediate,혼의 계몽자 - 중급
+ItemDefinitionTitle.csv,desc_en,A basic Mahjong Soul instructor,초급 작혼 계몽자
+ItemDefinitionTitle.csv,name_en,Soul Enlightener - Beginner,혼의 계몽자 - 초급
+ItemDefinitionTitle.csv,desc_en,A senior apprentice who has signed a contract with Mahjong Soul,작혼과 계약을 맺은 상급 견습생
+ItemDefinitionTitle.csv,name_en,Soul Contractor - Senior,혼의 계약자 - 상급
+ItemDefinitionTitle.csv,desc_en,An intermediate apprentice who has signed a contract with Mahjong Soul,작혼과 계약을 맺은 중급 견습생
+ItemDefinitionTitle.csv,name_en,Soul Contractor - Intermediate,혼의 계약자 - 중급
+ItemDefinitionTitle.csv,desc_en,A basic apprentice who has signed a contract with Mahjong Soul,작혼과 계약을 맺은 초급 견습생
+ItemDefinitionTitle.csv,name_en,Soul Contractor - Beginner,혼의 계약자 - 초급
+ItemDefinitionTitle.csv,desc_en,Awarded to the first player reaching the rank of Saint（4-Player ）,작성(4인) 등급에 도달한 최초의 플레이어에게 수여됨
+ItemDefinitionTitle.csv,name_en,The First Saint,최초의 작성
+ItemDefinitionTitle.csv,desc_en,Awarded to lucky players in Shanghai Firefly Expo,상하이 반딧불이 엑스포에서 행운의 플레이어에게 수여됨
+ItemDefinitionTitle.csv,name_en,Firefly,반딧불이
+ItemDefinitionTitle.csv,desc_en,Awarded to all players that participated in the grand launch of Mahjong Soul,작혼 출시에 참여한 모든 플레이어에게 수여됨
+ItemDefinitionTitle.csv,name_en,Primal Fire,태초의 불
+ItemDefinitionTitle.csv,name_en,N/A,없음
+ItemDefinitionSkin.csv,desc_en,"""Hold on to my tail. Make sure you follow me! I'll be in great trouble if I lose you while hunting. But don't worry, even if you do get lost, I can always find you. Haha!""","""내 꼬리를 잡아. 꼭 붙어서 오라고! 사냥하다가 널 잃어버리면 큰일이라고. 그래도 걱정마, 네가 길을 잃더라도 나는 항상 널 찾을 수 있어. 하하!"""
+ItemDefinitionSkin.csv,desc_en,"""Summer's coming soon! I really look forward to it, because it's the first summer we spend together since I met you!""","""여름이 오고있어! 정말 기대돼. 내가 널 만난 이후로 우리가 함께 보내는 첫 여름이니까!"""
+ItemDefinitionSkin.csv,desc_en,"""Like I said, you just have to be yourself in front of me. I like just the way you are.""","""제가 말했듯이, 당신은 당신으로서 제 앞에 있어주세요. 저는 있는 그대로의 당신이 좋아요."""
+ItemDefinitionSkin.csv,desc_en,"""Yo, partner! I've found a new destination for us. Let's go!""","""야, 파트너! 새로운 목적지가 생겼어. 가자!"""
+ItemDefinitionSkin.csv,desc_en,"""Question: Why is KR-976 appearing more often in the life report of {name}?""","""질문: KR-976이 {name}의 생활 보고서에 더 자주 등장하는데 이유가 있습니까?"""
+ItemDefinitionSkin.csv,desc_en,"""Ta-da! Haruna's stray-cat-cafe is now open. Dear customer, would you like an ice pop?""","""짜잔! 하루나의 길 잃은 고양이 카페가 드디어 개점합니다! 손님, 막대 아이스크림은 어떠십니까?"""
+ItemDefinitionSkin.csv,desc_en,An outfit acquired when your bond with Hinata Takanashi reaches maximum,타카나시 히나타와의 인연이 최대치에 도달했을 때 획득한 복장
+ItemDefinitionSkin.csv,desc_en,An outfit acquired when your bond with Nana Shiraishi reaches maximum,시라이시 나나와의 인연이 최대치에 도달했을 때 획득한 복장
+ItemDefinitionSkin.csv,desc_en,"Spring Celebration Exclusive\\n""Here you are, I just finished this calligraphy. I wish you a prosperous and healthy year of Gengzi (2020). ""","봄 축제 한정\\n""여기있었네요, 방금 서예를 마쳤어요. 경자년 한해에도 번창하시고 건강하길 바래요."""
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with Hana Ninomiya\\n""It's my first time wearing something like this. How do I look? ""","니노미야 하나와 계약을 맺은 뒤 사용 가능\\n""이런 옷을 입어본 건 처음이에요. 어때요?"""
+ItemDefinitionSkin.csv,desc_en,"""Here's a dance that I learned specifically for the New Year.""","""새해를 위해 특별히 배운 춤이에요."""
+ItemDefinitionSkin.csv,desc_en,Available after making a Bonding Promise with Sara\\nThe dancer comes along with the scent of rosemary.,사라와 계약을 맺은 뒤 사용 가능\\n무용수는 로즈마리 향기와 함께 다가온다.
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with KeiKuMusume\\n""Do you also like to read light novels? ""","케이쿠무스메와 계약을 맺은 뒤 사용 가능\\n""라이트 노벨 읽는 것도 좋아하나요?"""
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with Hideki Akechi\\n""Could you sit here for a while? Just stay with me for a moment. ""","아케치 히데키와 계약을 맺은 뒤 사용 가능\\n""잠시 여기 앉아 주시겠니까? 조금만 저와 함께 있어주세요."""
+ItemDefinitionSkin.csv,name_en,明智英树,明智英树
+ItemDefinitionSkin.csv,desc_en,"Christmas Carnival Exclusive\\n""This is my first Christmas with you... Can we celebrate it again in future together?""","크리스마스 축제 한정\\n""오늘은 당신과 보내는 첫 크리스마스에요... 앞으로도 함께 축하할 수 있을까요?"""
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with Sora Ichinose\\n"" I have many more things that I want to share with you.  ""","이치노세 소라와 계약을 맺은 뒤 사용 가능\\n""저는 당신과 더 많은 것을 공유하고 싶어요."""
+ItemDefinitionSkin.csv,name_en,一之濑空,一之濑空
+ItemDefinitionSkin.csv,desc_en,"Halloween Party Exclusive\\n“Sush… keep silent. Tonight, I am nothing but a quiet scarecrow.”","할로윈 파티 한정\\n""쉿... 조용히. 오늘밤, 나는 조용한 허수아비에 불과해."""
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with Wanjirou\\n"" I was one of the ex-Mahjong players of Mahjong Soul Temple. ""","왕지로와 계약을 맺은 뒤 사용 가능\\n""나는 혼천 신사의 전 작사중에 하나였다구."""
+ItemDefinitionSkin.csv,name_en,汪次郎,汪次郎
+ItemDefinitionSkin.csv,desc_en,"Halloween Party Exclusive\\n""Haha, the dark red threads under the skin are so breathtaking. Tonight, you belong to me.""","할로윈 파티 한정\\n""하하, 피부 아래의 검붉은 실이 참을 수 없게 만드는군. 오늘밤, 넌 나의 소유물이야."""
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with Natsuki Shinomiya\\n""Shh... You should call me White Night now. ""","시노미야 나츠키와 계약을 맺은 뒤 사용 가능\\n""쉿... 지금은 ""백야""라고 불러줘."""
+ItemDefinitionSkin.csv,name_en,四宫 夏生,四宫 夏生
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with Kaavi\\n""I’ll make an exception to give you a fortune telling.""","카비와 계약을 맺은 뒤 사용 가능\\n""운세를 봐드리기 위한 예외를 만들어야겠어요."""
+ItemDefinitionSkin.csv,desc_en,Kaavi’s default look,카비의 기본 의상
+ItemDefinitionSkin.csv,name_en,Kaavi,카비
+ItemDefinitionSkin.csv,desc_en,Halloween Party Exclusive\\n“This costume mimics a creature known as Succubus in my country. They are very skillful in seducing…,"할로윈 파티 한정\\n""이 의상은 우리 나라에서 서큐버스라고 부르는 생물을 모방한거에요. 유혹에 아주 능숙하다고 하던데..."""
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with Xenia\\n""You promised that one day we would travel together. ""","지니아와 계약을 맺은 뒤 사용 가능\\n""언젠가 우리가 함께 여행하겠다고 약속했었죠."""
+ItemDefinitionSkin.csv,desc_en,Xenia’s default look,지니아의 기본 의상
+ItemDefinitionSkin.csv,name_en,Xenia,지니아
+ItemDefinitionSkin.csv,desc_en,"Beach Party Exclusive\\n""I won't show you any mercy even if you praise my looks.""","비치 파티 한정\\n""제 겉모습을 칭찬해봤자 자비는 없어요."""
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with Riu Kujou\\n""Would you like some tea?  I can remember your flavor. ""","쿠죠 리우와 계약을 맺은 뒤 사용 가능\\n""차 한잔 드실래요? 취향은 기억하고 있어요."""
+ItemDefinitionSkin.csv,desc_en,Kujou Riu’s default look,쿠죠 리우의 기본 의상
+ItemDefinitionSkin.csv,name_en,Kujou Riu,쿠죠 리우
+ItemDefinitionSkin.csv,desc_en,"Christmas Carnival Exclusive\\n""You have been staring at my legs. I knew you had a thing for girls' feet. ""","크리스마스 축제 한정\\n""선배는 제 다리를 쳐다보고 있네요. 다리 패티쉬일줄 알았어요."""
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with Yui Yagi\\n""Senpai, would you like to take a sit on the swing?""","야기 유이와 계약을 맺은 뒤 사용 가능\\n""선배, 그네에 앉아보실래요?"""
+ItemDefinitionSkin.csv,desc_en,Yagi Yui’s default look,야기 유이의 기본 의상
+ItemDefinitionSkin.csv,name_en,Yagi Yui,야기 유이
+ItemDefinitionSkin.csv,desc_en,"Beach Party Exclusive\\n""Sunlight, ocean waves and good wine are a great combination, don't you think so? ""","비치 파티 한정\\n""햇빛, 파도, 좋은 와인은 완벽한 조합이야, 그렇게 생각하지 않아?"""
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with Nadeshiko\\n""Pick one: go for a ride or have an 1-on-1 Mahjong with me? ""","나데시코와 계약을 맺은 뒤 사용 가능\\n""하나 골라봐. . 나랑 오토바이 타러 갈래, 1대 1 마작할래?"""
+ItemDefinitionSkin.csv,desc_en,Nadeshiko’s default look,나데시코의 기본 의상
+ItemDefinitionSkin.csv,name_en,Nadeshiko,나데시코
+ItemDefinitionSkin.csv,desc_en,"Beach Party Exclusive\\n""I'm not particularly good at swimming... But I will try my best. ""","비치 파티 한정\\n""수영은 잘 못하지만... 최선을 다할게요."""
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with Mai Aihara\\n""This dance, ""Kagura"", is dedicated to you only. ""","아이하라 마이와 계약을 맺은 뒤 사용 가능\\n""이 춤, ""카구라""는 오직 당신만을 위한 것이에요."""
+ItemDefinitionSkin.csv,desc_en,Aihara Mai’s default look,아이하라 마이의 기본 의상
+ItemDefinitionSkin.csv,name_en,Aihara Mai,아이하라 마이
+ItemDefinitionSkin.csv,desc_en,"Christmas Carnival Exclusive\\n""C'mon... Every Christmas, my room is flooded with Christmas gifts.""","크리스마스 축제 한정\\n""이봐... 크리스마스 때마다 내 방은 크리스마스 선물로 넘쳐났다구."""
+ItemDefinitionSkin.csv,desc_en,Available after making a Bonding Promise with Chiori Mikami\\nChiori is so cute ！,미카미 치오리와 계약을 맺은 뒤 사용 가능\\n치오리는 너무 귀여워!
+ItemDefinitionSkin.csv,desc_en,Chiori’s default look,치오리의 기본 의상
+ItemDefinitionSkin.csv,name_en,Chiori,치오리
+ItemDefinitionSkin.csv,lock_tips_en,Christmas,크리스마스
+ItemDefinitionSkin.csv,desc_en,"Christmas Carnival Exclusive\\n""Hi everyone! Thanks for coming to Kana's Christmas Eve concert. ""","크리스마스 축제 한정\\n""모두 안녕! 카나의 크리스마스 이브 콘서트에 와줘서 고마워."""
+ItemDefinitionSkin.csv,name_en,Christmas,크리스마스
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with Kana Fujita\\n""Let's go shopping together again next time. ""","후지타 카나와 계약을 맺은 뒤 사용 가능\\n""다음에 다시 쇼핑하러 가자."""
+ItemDefinitionSkin.csv,desc_en,Fujita Kana’s default look,후지타 카나의 기본 의상
+ItemDefinitionSkin.csv,name_en,Fujita Kana,후지타 카나
+ItemDefinitionSkin.csv,lock_tips_en,Spring Celebration,봄 축제
+ItemDefinitionSkin.csv,desc_en,"Spring Celebration Exclusive\\n""You know, it's not nice to sneak peek while girls are putting on makeup! I want you to see me at my best today!""","봄 축제 한정\\n""여자들이 화장하는 걸 몰래 훔쳐보는건 좋지 않아요! 매일 최고의 모습으로 만나고 싶은걸요!"""
+ItemDefinitionSkin.csv,name_en,Spring Celebration,봄 축제
+ItemDefinitionSkin.csv,lock_tips_en,Halloween Party,할로윈 파티
+ItemDefinitionSkin.csv,desc_en,"Halloween Party Exclusive\\n“If tonight’s ball cannot delight your mood, let me teach you something that will  make you happy.","할로윈 파티 한정\\n""오늘밤 무도회가 당신의 기분을 즐겁게 해줄 수 없다면, 내가 당신을 행복하게 해줄 무언가를 가르쳐 줄게."""
+ItemDefinitionSkin.csv,name_en,Halloween Party,할로윈 파티
+ItemDefinitionSkin.csv,desc_en,"Available after making a Bonding Promise with Miki Nikaidou\\n""Sure. I'm all-yours-today.  ""","니카이도 미키와 계약을 맺은 뒤 사용 가능\\n""난 오늘 당신의 것이에요."""
+ItemDefinitionSkin.csv,desc_en,Nikaido Miki’s default look,니카이도 미키의 기본 의상
+ItemDefinitionSkin.csv,name_en,Nikaido Miki,니카이도 미키
+ItemDefinitionSkin.csv,lock_tips_en,New Year,새해
+ItemDefinitionSkin.csv,desc_en,""" I'm busy trying out the food for everybody, of course. This is the most important task-nya!""","""당연히 모두를 위해 음식 맛을 보고 있다냐. 이게 가장 중요한 일이다냐!"""
+ItemDefinitionSkin.csv,name_en,New Year,새해
+ItemDefinitionSkin.csv,lock_tips_en,Beach Party,비치 파티
+ItemDefinitionSkin.csv,desc_en,"Beach Party Exclusive\\n""Take this! Even it's you, master, Ichihime won't let you get an easy win-nya!""","비치 파티 한정\\n""받아라냥! 주인님이라도 이치히메에게는 쉽게 이길 수 없을거다냐!"""
