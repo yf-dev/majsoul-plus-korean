@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-06 10:49+0000\n"
+"PO-Revision-Date: 2020-06-06 15:14+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -1956,7 +1956,7 @@ msgstr "이벤트 없음"
 msgctxt "coppers"
 msgid ""
 "json|lobby/activitys/activitybase|0|0|1|1|3|3646702fee6ab6f4a49ba7aa30fb82d1"
-msgstr "동전: "
+msgstr "동전:"
 
 #: translate_json.csv:398
 msgctxt "Revival Tokens"
@@ -2016,7 +2016,7 @@ msgstr "부활 토큰"
 msgctxt "coppers"
 msgid ""
 "json|lobby/activitys/activity_jiuji|0|1|1|3|3646702fee6ab6f4a49ba7aa30fb82d1"
-msgstr "동전: "
+msgstr "동전:"
 
 #: translate_json.csv:408
 msgctxt "Revival Tokens"
@@ -2795,7 +2795,7 @@ msgstr "휘옥이 부족합니다. 구매하시겠습니까?"
 #: translate_json.csv:640
 msgctxt "New updates detected, please try to restart your game"
 msgid "json|lobby/force_update|0|2|e7e849b35f75f02cc19a7494fd052597"
-msgstr "새로운 업데이트가 있습니다. 게임을 다시 시작해주세요."
+msgstr "새로운 업데이트가 있습니다. 게임을 다시 시작해주세요"
 
 #: translate_json.csv:641
 msgctxt "Confirm"
@@ -2925,7 +2925,7 @@ msgstr "작호 & 작성"
 #: translate_json.csv:666
 msgctxt "Saint & Above"
 msgid "json|lobby/lobby|3|1|0|0|4|0|3|3aaea4e72b1731de64365fb594d699ba"
-msgstr "작성 & 혼천"
+msgstr "작성 이상"
 
 #: translate_json.csv:667
 msgctxt "Free"
@@ -2990,7 +2990,7 @@ msgstr "정보"
 #: translate_json.csv:679
 msgctxt "Send"
 msgid "json|lobby/lobbychat|0|1|0|2|0|0|94966d90747b97d1f0f206c98a8b1ac3"
-msgstr "보내기"
+msgstr "전송"
 
 #: translate_json.csv:680
 msgctxt "Lobby"
@@ -3257,7 +3257,7 @@ msgctxt ""
 "You are not eligible to participate in this tournament. Unable to start "
 "match"
 msgid "json|lobby/match_room|4|0|3|0fd50ea6fa7f5f65de8b0130a8efd63a"
-msgstr "이 대회에 참가할 자격이 없습니다. 경기를 시작할 수 없습니다."
+msgstr "이 대회에 참가할 자격이 없습니다. 경기를 시작할 수 없습니다"
 
 #: translate_json.csv:737
 msgctxt "Close"
@@ -4433,12 +4433,12 @@ msgstr "잡화"
 #: translate_json.csv:1043
 msgctxt "Wishing"
 msgid "json|lobby/recharge|1|0|1|0|a8ca203fa7ca6821594becc9e31d6f5c"
-msgstr "기도의 소옥"
+msgstr "기도"
 
 #: translate_json.csv:1044
 msgctxt "Star"
 msgid "json|lobby/recharge|1|0|2|0|26f93e6e68e28a698377e941cb59f29a"
-msgstr "별의 소옥"
+msgstr "별"
 
 #: translate_json.csv:1045
 msgctxt "Summon Shop"
@@ -4528,7 +4528,7 @@ msgstr "중복된 캐릭터는 기도의 돌로 전환됩니다"
 #: translate_json.csv:1062
 msgctxt "Duplicate decorations will be converted into Star Stones"
 msgid "json|lobby/shop|0|1|3|2|47958c936f775228a1c5e1232d6f67b9"
-msgstr "중복된 장식은 별의 소옥으로 전환됩니다"
+msgstr "중복된 장식은 별의 돌로 전환됩니다"
 
 #: translate_json.csv:1063
 msgctxt "Star Dust can be acquired by donating Gifts"
@@ -4780,7 +4780,7 @@ msgstr "교환"
 #: translate_json.csv:1122
 msgctxt "Summon"
 msgid "json|lobby/treasure|1|0|efde9837421a1454da9ca1d72146c552"
-msgstr "기원 "
+msgstr "기원"
 
 #: translate_json.csv:1123
 msgctxt "Select the character/item you would like to redeem"
@@ -4845,7 +4845,7 @@ msgstr "당신은 1번 기원할 때 마다 1개의 신앙("
 #: translate_json.csv:1143
 msgctxt "(Faith), as well as all-new characters and decorations"
 msgid "json|lobby/treasure|4|2|2|2|1|47be30f42361f946252d782fa39f231f"
-msgstr ")과 새로운 캐릭터와 장식을 얻을 수 있습니다."
+msgstr ")과 새로운 캐릭터와 장식을 얻을 수 있습니다"
 
 #: translate_json.csv:1144
 msgctxt "Chance to get characters: 5%"
@@ -4855,7 +4855,7 @@ msgstr "캐릭터 획득 확률: 5%"
 #: translate_json.csv:1145
 msgctxt "Duplicate characters will be converted to Wishing Stones"
 msgid "json|lobby/treasure|4|2|2|2|2|0|737618c1f8cd09f9d4c1c6abf2721269"
-msgstr "중복된 캐릭터는 기도의 소옥으로 전환됩니다"
+msgstr "중복된 캐릭터는 기도의 돌로 전환됩니다"
 
 #: translate_json.csv:1146
 msgctxt "Chance to get decorations: 15%"
@@ -4865,7 +4865,7 @@ msgstr "장식 획득 확률: 15%"
 #: translate_json.csv:1147
 msgctxt "Duplicate decorations will be converted into Star Stones"
 msgid "json|lobby/treasure|4|2|2|2|3|0|47958c936f775228a1c5e1232d6f67b9"
-msgstr "중복된 장식은 별의 소옥으로 전환됩니다"
+msgstr "중복된 장식은 별의 돌로 전환됩니다"
 
 #: translate_json.csv:1148
 msgctxt "Chance to get green gift/blue gift/purple gift:  24%/51%/5%"
@@ -4886,7 +4886,7 @@ msgstr "당신은 1번 기원할 때 마다 1개의 신앙("
 #: translate_json.csv:1151
 msgctxt "(Faith), as well as all-new characters and decorations"
 msgid "json|lobby/treasure|4|2|2|3|1|47be30f42361f946252d782fa39f231f"
-msgstr ")과 새로운 캐릭터와 장식을 얻을 수 있습니다."
+msgstr ")과 새로운 캐릭터와 장식을 얻을 수 있습니다"
 
 #: translate_json.csv:1152
 msgctxt "Chance to get characters: 5%"
@@ -6135,7 +6135,7 @@ msgstr "도라도라라"
 msgctxt "Open Hand Match"
 msgid ""
 "sheet|DesktopMatchmode.csv|room_name_en|e62712de9e71ac91bf501ffdae692b0e"
-msgstr "손패 공개"
+msgstr "손패 공개전"
 
 #: translate_sheet.csv:149
 msgctxt "Chaotic Wall Break"
@@ -6656,7 +6656,7 @@ msgstr "3 게임을 삼원패로 화료"
 #: translate_sheet.csv:266
 msgctxt "Get 1st or 2nd 1 time in Open Hand Match"
 msgid "sheet|EventsBaseTask.csv|desc_en|7ae034b4ec273a7a15aa4818702d085e"
-msgstr "손패 공개 게임에서 1등 또는 2등 1회 달성"
+msgstr "손패 공개전에서 1등 또는 2등 1회 달성"
 
 #: translate_sheet.csv:267
 msgctxt "Win 2 games with at least a Ura Dora"
@@ -9236,7 +9236,7 @@ msgstr "이 방은 보수 공사(renovation) 중입니다. 다른 곳을 방문�
 #: translate_sheet.csv:744
 msgctxt "Invalid login information, please try to relog your game"
 msgid "sheet|InfoError.csv|en|6e57ddec903cbd6cb757c5017433be03"
-msgstr "잘못된 로그인 정보입니다. 다시 로그인해주세요."
+msgstr "잘못된 로그인 정보입니다. 다시 로그인해주세요"
 
 #: translate_sheet.csv:745
 msgctxt "You are not friends yet."
@@ -13433,7 +13433,7 @@ msgstr "이치히메의 아르바이트 대모험"
 #: translate_sheet.csv:23
 msgctxt "Open Hand Match"
 msgid "sheet|ActivityActivity.csv|name_en|e62712de9e71ac91bf501ffdae692b0e"
-msgstr "손패 공개"
+msgstr "손패 공개전"
 
 #: translate_sheet.csv:19
 msgctxt "DoraDorara"
@@ -18650,13 +18650,11 @@ msgid "sheet|StrStr.csv|en|69e8187a8af4c2ca3b95e6027ecfc9bf"
 msgstr "엔"
 
 #: translate_sheet.csv:1826
-#, fuzzy
 msgctxt "Successfully purchased {0}"
 msgid "sheet|StrStr.csv|en|afd9e0171fbea9e40c16b0c051c4525f"
 msgstr "{0} 구입 성공"
 
 #: translate_sheet.csv:1825
-#, fuzzy
 msgctxt "Failed to purchase {0}"
 msgid "sheet|StrStr.csv|en|a3517e6816f4daca5437ffdc35c974cb"
 msgstr "{0} 구입 실패"
@@ -18715,3 +18713,2956 @@ msgstr "경기를 찾는 중에는 관전할 수 없습니다."
 msgctxt "You are waiting for the match to start. Cannot view game logs."
 msgid "sheet|StrStr.csv|en|6c756ad0f1c63816c82d4b94f457c8a1"
 msgstr "경기 시작을 기다리고 있습니다. 게임 로그를 볼 수 없습니다."
+
+#: translate_sheet.csv:2177
+msgctxt "(Faith), as well as all-new characters and decorations"
+msgid "sheet|StrStr.csv|en|47be30f42361f946252d782fa39f231f"
+msgstr ")과 새로운 캐릭터와 장식을 얻을 수 있습니다"
+
+#: translate_sheet.csv:2545
+msgctxt "Ron"
+msgid "sheet|VoiceSound.csv|name_en|c297455c41f2193cfb3b281ec04277fa"
+msgstr "론"
+
+#: translate_sheet.csv:2544
+msgctxt "Riichi"
+msgid "sheet|VoiceSound.csv|words_en|a24a259048cb6a113d9eeba1d7647fce"
+msgstr "리치"
+
+#: translate_sheet.csv:2543
+msgctxt "Riichi"
+msgid "sheet|VoiceSound.csv|name_en|a24a259048cb6a113d9eeba1d7647fce"
+msgstr "리치"
+
+#: translate_sheet.csv:2542
+msgctxt "Double Riichi"
+msgid "sheet|VoiceSound.csv|words_en|bc1c334ae4cb115572c529ec16f3100c"
+msgstr "더블리치"
+
+#: translate_sheet.csv:2541
+msgctxt "Double Riichi"
+msgid "sheet|VoiceSound.csv|name_en|bc1c334ae4cb115572c529ec16f3100c"
+msgstr "더블리치"
+
+#: translate_sheet.csv:2540
+msgctxt "{10}Kita"
+msgid "sheet|VoiceSound.csv|words_en|82310e89dc5f6ee639b15358f03e5e91"
+msgstr "{10}북도라"
+
+#: translate_sheet.csv:2539
+msgctxt "Kita"
+msgid "sheet|VoiceSound.csv|name_en|aaa8bc3b73bb36e8638857dd41dbeaf3"
+msgstr "북도라"
+
+#: translate_sheet.csv:2538
+msgctxt "Pon (Call for Triplet)"
+msgid "sheet|VoiceSound.csv|words_en|57ac65abdeba550f2995f13d47260003"
+msgstr "펑"
+
+#: translate_sheet.csv:2537
+msgctxt "Pon"
+msgid "sheet|VoiceSound.csv|name_en|25ad9e28babad3e903a3aa64c7256147"
+msgstr "펑"
+
+#: translate_sheet.csv:2536
+msgctxt "Kan (Call for Quad)"
+msgid "sheet|VoiceSound.csv|words_en|b384c9005ff8117f11a0b729ace63e44"
+msgstr "깡"
+
+#: translate_sheet.csv:2535
+msgctxt "Kan"
+msgid "sheet|VoiceSound.csv|name_en|f60e8dbbc0c325f558c189cc9c7c3e06"
+msgstr "깡"
+
+#: translate_sheet.csv:2534
+msgctxt "Chii"
+msgid "sheet|VoiceSound.csv|words_en|833a570d827e784b2fd4a2eab63aff48"
+msgstr "치"
+
+#: translate_sheet.csv:2533
+msgctxt "Chii"
+msgid "sheet|VoiceSound.csv|name_en|833a570d827e784b2fd4a2eab63aff48"
+msgstr "치"
+
+#: translate_sheet.csv:2505
+msgctxt "Limited-time title Expiry date:"
+msgid "sheet|StrStr.csv|en|c1a6a7733876a71d89f7aca41b9b4dda"
+msgstr "기간 한정 타이틀 만료일:"
+
+#: translate_sheet.csv:2504
+msgctxt "Can be changed in the Settings"
+msgid "sheet|StrStr.csv|en|b9312b1ec69e350a86fe3e12150556db"
+msgstr "설정에서 변경할 수 있음"
+
+#: translate_sheet.csv:2503
+msgctxt "Expiry date:"
+msgid "sheet|StrStr.csv|en|a8393c173af1de7cb1eb4d839aecae18"
+msgstr "만료일:"
+
+#: translate_sheet.csv:2502
+msgctxt "Resummon"
+msgid "sheet|StrStr.csv|en|ff2cf091e2b27b9b537597dac8cc9513"
+msgstr "재기원"
+
+#: translate_sheet.csv:2501
+msgctxt "Do you wish to quit and check your annual report?"
+msgid "sheet|StrStr.csv|en|0e4b4a6499483cb88b2fd16a5306e756"
+msgstr "종료하시고 연간 보고서를 확인하시겠습니까?"
+
+#: translate_sheet.csv:2500
+msgctxt "Error occurred when getting the report, please try again"
+msgid "sheet|StrStr.csv|en|f37d3402c5f01077fba93e24b8d9cb6d"
+msgstr "보고서를 가져오는 동안 오류가 발생했습니다, 다시 시도해주세요"
+
+#: translate_sheet.csv:2499
+msgctxt "All"
+msgid "sheet|StrStr.csv|en|b1c94ca2fbc3e78fc30069c8d0f01680"
+msgstr "전체"
+
+#: translate_sheet.csv:2498
+msgctxt "Recently used"
+msgid "sheet|StrStr.csv|en|042be00d927cff11fd00361b3dda1817"
+msgstr "최근 사용"
+
+#: translate_sheet.csv:2497
+msgctxt "Reported successfully"
+msgid "sheet|StrStr.csv|en|47668ba0352fe2132871c2348812741a"
+msgstr "성공적으로 신고됨"
+
+#: translate_sheet.csv:2496
+msgctxt ""
+"We've received your report. Thank you for your contribution in making a "
+"better gaming environment!"
+msgid "sheet|StrStr.csv|en|7ded75e3252d75cd7a7b6482f8b8da6e"
+msgstr "신고가 접수되었습니다. 더 나은 게임 환경을 만드는데 기여해주셔서 감사합니다!"
+
+#: translate_sheet.csv:2495
+msgctxt "Report the nickname"
+msgid "sheet|StrStr.csv|en|e3126a127d9df648750e94bdb0f00114"
+msgstr "닉네임 신고"
+
+#: translate_sheet.csv:2494
+msgctxt "Report"
+msgid "sheet|StrStr.csv|en|4b1b4dc8cf38b3c64b1d657da8f5ac8c"
+msgstr "신고"
+
+#: translate_sheet.csv:2493
+msgctxt ""
+"If you have found any inappropriate information in the game, please contact "
+"our customer support."
+msgid "sheet|StrStr.csv|en|9b82bd321bcf7fbccdb0b54a27aa4396"
+msgstr "게임 중 부적절한 행위를 발견했을 경우, 고객 지원부에 문의해주세요."
+
+#: translate_sheet.csv:2492
+msgctxt "Please search friends with friend ID."
+msgid "sheet|StrStr.csv|en|0e151057bf80c065c994a7569e864894"
+msgstr "친구 ID로 친구를 검색하세요."
+
+#: translate_sheet.csv:2491
+msgctxt "SP Voice"
+msgid "sheet|StrStr.csv|en|f19e87fc2b7e7cde7011bf983aaa3492"
+msgstr "SP 음성"
+
+#: translate_sheet.csv:2490
+msgctxt "Back to log"
+msgid "sheet|StrStr.csv|en|e7c305b7e4c87c3bdc2016e7df5b03af"
+msgstr "로그로 돌아가기"
+
+#: translate_sheet.csv:2489
+msgctxt "Real-time spectating"
+msgid "sheet|StrStr.csv|en|3edddea5d9d2ebfd6ebac1d97a98fbce"
+msgstr "실시간 관전"
+
+#: translate_sheet.csv:2488
+msgctxt "Anonymous"
+msgid "sheet|StrStr.csv|en|7079c72c21415131774625ba1d64f4b0"
+msgstr "익명"
+
+#: translate_sheet.csv:2487
+msgctxt "Show Nickname"
+msgid "sheet|StrStr.csv|en|0c715192e48e7fd872cd1786efc82a82"
+msgstr "닉네임 표시"
+
+#: translate_sheet.csv:2486
+msgctxt "Effect Display"
+msgid "sheet|StrStr.csv|en|dfa6b9616f5d9f99fe9e5848a56a041d"
+msgstr "효과 표시"
+
+#: translate_sheet.csv:2485
+msgctxt "Working adventure Rewards"
+msgid "sheet|StrStr.csv|en|0ee159bf516a779a891026e7cd9d2be0"
+msgstr "아르바이트 대모험 보상"
+
+#: translate_sheet.csv:2482
+msgctxt "Ichihime's ability \"Lucky Cat\" has been activated!"
+msgid "sheet|StrStr.csv|en|5ced3c2c7fe705181cc8c0d84cca1dfb"
+msgstr "이치히메의 능력 \"행운의 고양이\"가 발동했다!"
+
+#: translate_sheet.csv:2481
+msgctxt "Ichihime's ability \"Best Employee\" has been activated!"
+msgid "sheet|StrStr.csv|en|d5cccdb80104b1c7ab92d723119a0e9b"
+msgstr "이치히메의 능력 \"베스트 직원\"이 발동했다!"
+
+#: translate_sheet.csv:2480
+msgctxt "Ichihime's ability \"Senior Expert\" has been activated!"
+msgid "sheet|StrStr.csv|en|e2d7b8e5fb14aad219dbf1cca9e29eef"
+msgstr "이치히메의 능력 \"숙련된 전문가\"가 발동했다!"
+
+#: translate_sheet.csv:2479
+msgctxt "Ichihime's ability \"Junior Intern\" has been activated!"
+msgid "sheet|StrStr.csv|en|0f62b28766bf84355687341b779bc0b1"
+msgstr "이치히메의 능력 \"신입 인턴\"이 발동했다!"
+
+#: translate_sheet.csv:2478
+msgctxt "Ichihime's ability \"Copper Hunter\" has been activated!"
+msgid "sheet|StrStr.csv|en|fd382e4af4a659e0815fae8ec2b697a1"
+msgstr "이치히메의 능력 \"동전 헌터\"가 발동했다!"
+
+#: translate_sheet.csv:2477
+msgctxt "Kaavi's Wheel of Fortune has been activated"
+msgid "sheet|StrStr.csv|en|6993e4c435f9d910d1d5783d8cebec4f"
+msgstr "카비의 행운의 바퀴가 활성화되었음"
+
+#: translate_sheet.csv:2476
+msgctxt "Ichihime's ability has been activated!"
+msgid "sheet|StrStr.csv|en|a09c7478d614565780381051ccf09e37"
+msgstr "이치히메의 능력이 발동했다!"
+
+#: translate_sheet.csv:2475
+msgctxt "Share the log"
+msgid "sheet|StrStr.csv|en|5ca7f47baad505849500bf0c00515674"
+msgstr "로그 공유"
+
+#: translate_sheet.csv:2474
+msgctxt "Opened a mysterious chest on the road. Wow, what's this...!"
+msgid "sheet|StrStr.csv|en|903394df98707e1e6e5d336ece161bdd"
+msgstr "길에서 신비한 상자를 열었다. 와, 이게 뭐야...!"
+
+#: translate_sheet.csv:2473
+msgctxt "Arrived at Mahjong Soul Bank and withdrew all the deposit!"
+msgid "sheet|StrStr.csv|en|cc6bcd543453b918918faf3e96e63a0a"
+msgstr "작혼 은행에 도착해서 예금을 모두 인출했다!"
+
+#: translate_sheet.csv:2472
+msgctxt "Working in a board game shop. Found a strange dice!"
+msgid "sheet|StrStr.csv|en|9ef390bb6d7a1e4ab0a3074754fcb7c2"
+msgstr "보드게임 가게에서 일하는 중. 이상한 주사위를 찾았다!"
+
+#: translate_sheet.csv:2471
+msgctxt "Helping out in Miki's jewelry shop. You have been praised!"
+msgid "sheet|StrStr.csv|en|12f3bb0b4d8b72896194941e1b3d6a4a"
+msgstr "미키의 보석 가게를 돕는 중. 칭찬받았다!"
+
+#: translate_sheet.csv:2470
+msgctxt "Ichihime is doing community service. What a good kid!"
+msgid "sheet|StrStr.csv|en|d9a7e0978774e554cce21a93c67a6c93"
+msgstr "이치히메는 지역 사회 봉사를 하고 있다. 좋은 아이야!"
+
+#: translate_sheet.csv:2469
+msgctxt "Working in a convenience store. Ichihime is feeling great!"
+msgid "sheet|StrStr.csv|en|9e51a543cba15f2473b9bb1c682401ae"
+msgstr "편의점에서 일하는 중. 이치히메는 기분이 좋다!"
+
+#: translate_sheet.csv:2466
+msgctxt ""
+"Working in a convenience store. Ichihime doesn't have a lot of energy..."
+msgid "sheet|StrStr.csv|en|075c1d5d12dd9a98bc827227f9a54501"
+msgstr "편의점에서 일하는 중. 이치히메는 기운이 별로 없다..."
+
+#: translate_sheet.csv:2468
+msgctxt "Working in a convenience store. Ichihime has a lot of energy."
+msgid "sheet|StrStr.csv|en|bd12df6b275fcbd1d22588540a016c7c"
+msgstr "편의점에서 일하는 중. 이치히메는 기운이 넘친다."
+
+#: translate_sheet.csv:2467
+msgctxt "Working in a convenience store. Ichihime is doing just fine."
+msgid "sheet|StrStr.csv|en|a4d268e17d0f97ba17af27235a19580f"
+msgstr "편의점에서 일하는 중. 이치히메는 잘 해내고 있다."
+
+#: translate_sheet.csv:2465
+msgctxt "Get {0}"
+msgid "sheet|StrStr.csv|en|6180b30d6745466e4c1056b87493a8eb"
+msgstr "{0} 받기"
+
+#: translate_sheet.csv:2464
+msgctxt "Jyanshi 4"
+msgid "sheet|StrStr.csv|en|7a8e9587ce5f946ff1978d23e56da417"
+msgstr "작사 4"
+
+#: translate_sheet.csv:2463
+msgctxt "Anonymously Share"
+msgid "sheet|StrStr.csv|en|ba7c7953bc95b44234abb36597d65c14"
+msgstr "익명 공유"
+
+#: translate_sheet.csv:2462
+msgctxt "Me"
+msgid "sheet|StrStr.csv|en|318b2739ddc2c16c97b33c9b04b79f3e"
+msgstr "나"
+
+#: translate_sheet.csv:2461
+msgctxt "Jyanshi 3"
+msgid "sheet|StrStr.csv|en|aad9abf72cd9ce15a7ea6e38ee675ccd"
+msgstr "작사 3"
+
+#: translate_sheet.csv:2460
+msgctxt "Jyanshi 2"
+msgid "sheet|StrStr.csv|en|c2785f796354a9e5cabae75f77502baf"
+msgstr "작사 2"
+
+#: translate_sheet.csv:2459
+msgctxt "Jyanshi 1"
+msgid "sheet|StrStr.csv|en|105b0f3121d8e92114c9a4f897696597"
+msgstr "작사 1"
+
+#: translate_sheet.csv:2458
+msgctxt "Bond to unlock"
+msgid "sheet|StrStr.csv|en|2b9db7c0591c706cd54bf173b708a2b5"
+msgstr "인연으로 해제"
+
+#: translate_sheet.csv:2457
+msgctxt "Copper on the map"
+msgid "sheet|StrStr.csv|en|6047433d66d5e02636dd0d7555e26470"
+msgstr "맵 위의 동전"
+
+#: translate_sheet.csv:2456
+msgctxt "Can be used in Dorm - Decoration"
+msgid "sheet|StrStr.csv|en|394c793cc21d5593f8ac259f26082f27"
+msgstr "숙소 - 장식에서 사용 가능"
+
+#: translate_sheet.csv:2455
+msgctxt "Halve the number of steps in the next move"
+msgid "sheet|StrStr.csv|en|6a5512ca135d7a5b64ee6ac2dcbc5f44"
+msgstr "다음 이동 거리 절반으로 감소"
+
+#: translate_sheet.csv:2454
+msgctxt "Double the number of steps in the next move"
+msgid "sheet|StrStr.csv|en|d8a48aad5866eae2360c5d25e4fb841f"
+msgstr "다음 이동 거리 두 배 증가"
+
+#: translate_sheet.csv:2453
+msgctxt "Earn half coppers in the next move"
+msgid "sheet|StrStr.csv|en|45b48f6ed01e6f89457446fda1668ea3"
+msgstr "다음 이동에서 동전을 절반 획득"
+
+#: translate_sheet.csv:2452
+msgctxt "Earn double coppers in the next move"
+msgid "sheet|StrStr.csv|en|7b541d4b5fb01ff7287105a4e6ee98dd"
+msgstr "다음 이동에서 동전을 두 배 획득"
+
+#: translate_sheet.csv:2451
+msgctxt "Freed Jyanshi"
+msgid "sheet|StrStr.csv|en|8e52f932d984fd740d231e5e97007a40"
+msgstr "방랑 작사"
+
+#: translate_sheet.csv:2450
+msgctxt ""
+"To save the shrine, a mysterious priestess with cat ears has decided to start working for coppers.\\nWhat fate awaits our naive Ichihime?\\n\n"
+"Event Period: 4/24 - 5/8 1:59 P.M. (UTC-7)\\n\n"
+"Complete daily quests (excluding games with AI) to get normal dice.\\nComplete the specified number of laps on the event map to collect event rewards.\\n\n"
+"Use the dice to accumulate experience to upgrade Ichihime's level!\\nAll the level of Ichihime:\\nCopper Hunter: no effect\\nJunior Intern: Get +5% more copper on the map\\nSenior Expert: Get +10% more copper on the map\\nBest Employee: Get +30% more copper on the map\\nLucky Cat: Get +50% more copper on the map\\n\n"
+"Mysterious chests are appearing on the map!\\nItems that can be inside the mysterious chest: random number of copper, random sphere, Fortune Bag, Sage's Bag.\\n\n"
+"All the types of blocks:\\nConvenience store: Get random number of copper when stopping on it.\\nBecoming Community Volunteer: Get a random green gift when stopping on it.\\nBoard game shop: Get a dice when stopping on it.\\nMiki's jewelry shop: Get a random sphere when stopping on it.\\nMahjong Soul bank: After using a dice or finish a lap on the map, copper will be deposited in the bank.\\n-All the copper will be withdrew when stopping on Mahjong Soul bank.\\nKaavi's fortune dial: Randomly select one of the following 6 effects.\\n- Earn double coppers in the next move\\n- Earn half coppers in the next move\\n- Double the number of steps in the next move\\n- Halve the number of steps in the next move\\n- Move on 1 step\\n- Refresh the location of mysterious chest\\n"
+msgid "sheet|StrStr.csv|en|622b087949f2d9008c197c6bd9f2a854"
+msgstr ""
+"신사를 구하기 위해 고양이 귀를 가진 신비한 무녀가 동전을 벌기 위해 일하기로 결심했습니다. \\n"
+"순진한 우리의 이치히메에게는 어떤 운명이 기다리고 있을까요?\\n"
+"\n"
+"이벤트 기간: 4/24 - 5/8 1:59 P.M. (UTC-7)\\n"
+"\n"
+"일일 퀘스트(AI가 포함된 게임 제외)를 완료하여 일반 주사위를 얻습니다.\\n"
+"이벤트 맵의 지정된 바퀴 수를 완주하여 이벤트 보상을 모으세요.\\n"
+"\n"
+"주사위를 사용하여 경험치를 쌓아 이치히메의 레벨을 업그레이드!\\n"
+"모든 레벨의 이치히메:\\n"
+"동전 헌터: 효과 없음\\n"
+"신입 인턴: 지도에 동전 +5% 더 얻기\\n"
+"숙련된 전문가: 지도에서 동전 10% 더 얻기\\n"
+"베스트 직원: 지도에서 동전 30% 더 얻기\\n"
+"행운의 고양이: 지도에서 동전 50% 더 얻기\\n"
+"\n"
+"신비한 상자들이 지도에 나타나고 있어요!\\n"
+"신비한 상자 안에 있을 수 있는 아이템: 랜덤 갯수의 동전, 랜덤 보옥, 복주머니, 성스러운 주머니.\\n"
+"\n"
+"모든 블록 유형:\\n"
+"편의점: 위에 멈추면 랜덤 갯수의 동전을 받음.\\n"
+"지역 사회 자원봉사: 위에 멈추면 랜덤 녹색 선물 받음 .\\n"
+"보드게임 가게: 위에 멈추면 주사위를 받음.\\n"
+"미키의 보석 가게: 위에 멈추면 랜덤 보옥을 받음.\\n"
+"작혼은행: 주사위를 사용하거나 한 바퀴를 완주할 때마다 동전이 은행에 입금됨\\n"
+"-작혼은행 위에 멈추면 입금된 모든 동전을 출금할 수 있음.\\n"
+"카비의 점괘: 다음 6가지 효과 중 하나를 랜덤하게 받음.\\n"
+"- 다음 이동 시 동전 두 배 획득\\n"
+"- 다음 이동 시 동전 절반 획득\\n"
+"- 다음 이동 시 이동 거리 두 배 증가\\n"
+"- 다음 이동 시 이동 거리 절반으로 감소\\n"
+"- 한 칸 이동\\n"
+"- 신비한 상자 위치 새로고침\\n"
+
+#: translate_sheet.csv:2449
+msgctxt "Next outing reward:"
+msgid "sheet|StrStr.csv|en|31d9ec2402b1c3ef28931a99cb85820c"
+msgstr "다음 바퀴 보상:"
+
+#: translate_sheet.csv:2448
+msgctxt "Event Period: 2/26-3/7 13:59 (UTC-7) Current outing:"
+msgid "sheet|StrStr.csv|en|e9ff4665b2c5de0560c5c05957c1d01c"
+msgstr "이벤트 기간: 2/26-3/7 13:59 (UTC-7) 현재 바퀴 수:"
+
+#: translate_sheet.csv:2447
+msgctxt "Best continuous {0} games ranks"
+msgid "sheet|StrStr.csv|en|5c7bb86776e4e10146a686214e4fba69"
+msgstr "연속 {0} 게임중 최고 등급"
+
+#: translate_sheet.csv:2446
+msgctxt "Best continuous {0} games points"
+msgid "sheet|StrStr.csv|en|99b21dc132a7c647aa628df312c9ef2b"
+msgstr "연속 {0} 게임중 최고 점수"
+
+#: translate_sheet.csv:2445
+msgctxt "Sign-in"
+msgid "sheet|StrStr.csv|en|e5b47edd743751a81819b7f421639303"
+msgstr "로그인"
+
+#: translate_sheet.csv:2443
+msgctxt ""
+"Starting Points: 40,000\\nExtension into West: At the end of 4th South game,"
+" if 1st place has less than 45,000 points\\nLength: Two-Wind Match\\nRed "
+"Five: 3\\nOpen Tanyao: On\\nWaiting Time: 5+20"
+msgid "sheet|StrStr.csv|en|ddebc85420b287965fd8e8a2c0dba234"
+msgstr ""
+"시작 점수: 40,000\\n"
+"서입:남4국 종료시 1위 점수가 45,000점 미만일 때\\n"
+"길이: 반장전\\n"
+"적도라: 3\\n"
+"쿠이탕: 허용\\n"
+"제한 시간:5+20"
+
+#: translate_sheet.csv:2442
+msgctxt ""
+"Limited-time Chaotic Wall Break room (1/20 - 2/9 1:59 P.M. UTC-7)\\n\n"
+"3 Dora indicators will be revealed at the beginning of the match. 5 Dora indicators can be revealed at most.\\n\n"
+"One player will receive the Wareme mark at the beginning of the match, and once the player has discarded 5 tiles in total, the Wareme mark will move to another player (or may not move).\\n\n"
+"The score of the marked player will be doubled after winning or losing (exclude the Riichi Bet, Round Bet and Draw Fee).\\n\n"
+"Rank Limit: N/A\\nOrder Bonus: 1st+15, 2nd+5, 3rd-5, 4th-15\\nEntry Limit: 7000 Coppers\\nExchange Rate: 1000 Points=140 Coppers\\nEntry Fee: 1400 Coppers\\nNo Rank Bonus\\nCasual Chest Progress: 1st+360, 2nd+180, 3rd+130, 4th+80\\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity."
+msgid "sheet|StrStr.csv|en|9e622d88ef6dcc24cda8f8363a4326d8"
+msgstr ""
+"기간 한정 혼돈의 패산파괴 방 (1/20 - 2/9 1:59 P.M. UTC-7)\\n"
+"\n"
+"각 게임은 3개의 도라표시패를 공개한 상태로 시작하고 최대 5개까지 도라표시패로 사용할 수 있습니다..\\n"
+"\n"
+"게임이 시작되면 한 플레이어는 와레메 표시를 받고, 5회 타패할 때마다 와레메 마크는 자신에게 남거나 다른 플레이어에게 이동합니다.\\n"
+"\n"
+"와레메 마크가 있는 플레이어는 주고 받는 점수가 두 배가 됩니다(리치봉, 본장봉, 노텐 벌금 제외).\\n"
+"\n"
+"등급 제한: 없음\\n"
+"우마 점수: 1위+15, 2위+5, 3위-5, 4위-15\\n"
+"입장 제한: 7000 동전\\n"
+"교환비: 1000점=140 동전\\n"
+"입장료: 1400 동전\\n"
+"등급 영향 없음\\n"
+"캐주얼 상자 진행도: 1위+360, 2위+180, 3위+130, 4위+80\\n"
+"동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다."
+
+#: translate_sheet.csv:2441
+msgctxt "Agreed"
+msgid "sheet|StrStr.csv|en|bc85ffbc3b4afe58d54d47749ab6b3b9"
+msgstr "동의함"
+
+#: translate_sheet.csv:2440
+msgctxt "Disagreed"
+msgid "sheet|StrStr.csv|en|ab9ee4385f87d3cabb66ba353cf7262b"
+msgstr "동의하지 않음"
+
+#: translate_sheet.csv:2439
+msgctxt "Disagree"
+msgid "sheet|StrStr.csv|en|0ecc08f9bca8d18fba3c972a0d972bb3"
+msgstr "동의하지 않음"
+
+#: translate_sheet.csv:2438
+msgctxt "Agree"
+msgid "sheet|StrStr.csv|en|1f4a3ca12b1c9b46ba2bc70747de0603"
+msgstr "동의"
+
+#: translate_sheet.csv:2437
+msgctxt "(The match will end once all players agree.)"
+msgid "sheet|StrStr.csv|en|168b32f886a9f70cce48870bb78d1c01"
+msgstr "(모든 플레이어가 동의하면 경기가 종료됩니다.)"
+
+#: translate_sheet.csv:2436
+msgctxt "Are you sure to vote to end the match?"
+msgid "sheet|StrStr.csv|en|09e65b7714de0e5d12a5dea723529a47"
+msgstr "경기 종료 투표를 하시겠습니까?"
+
+#: translate_sheet.csv:2435
+msgctxt ""
+"Last vote was not agreed by all the players, please start the next vote "
+"after 5 minutes."
+msgid "sheet|StrStr.csv|en|b0e7220abfc283251c7925e1c34761e7"
+msgstr "최근 투표에서 모든 플레이어가 동의하지 않았습니다. 5분 뒤에 다시 투표해주세요."
+
+#: translate_sheet.csv:2434
+msgctxt ""
+"Your account has been banned for your AFK actions until {0}. Please try to "
+"keep a quality game-play environment. Thank you for your understanding."
+msgid "sheet|StrStr.csv|en|61fa29daff926f935dad485ac94ba852"
+msgstr ""
+"APK 동작으로 인해 {0}까지 계정이 정지되었습니다. 좋은 게임 플레이 환경을 유지할 수 있도록 노력해주세요. 양해해주셔서 감사합니다."
+
+#: translate_sheet.csv:2433
+msgctxt "AFK Punishment Notice"
+msgid "sheet|StrStr.csv|en|14e98eb7cb9676f13985f6743464fe96"
+msgstr "AFK 처벌 통지"
+
+#: translate_sheet.csv:2432
+msgctxt ""
+"AFK actions have been detected.\\n\n"
+"Silver Chest & Bond Level & Quests Progress will not be counted in this match. If further AFK actions are detected, this account will be banned."
+msgid "sheet|StrStr.csv|en|86712ad385ab2a7730527f11994983fe"
+msgstr ""
+"AFK 동작이 감지되었습니다.\\n"
+"\n"
+"은 상자 & 인연 레벨 & 퀘스트 진행은 이번 경기에서 반영되지 않습니다. 더 이상의 AFK 동작이 감지되면, 계정이 차단됩니다."
+
+#: translate_sheet.csv:2431
+msgctxt "AFK Punishment Warning"
+msgid "sheet|StrStr.csv|en|8b88075a964d01ce7c633bbe0e4dd9b1"
+msgstr "AFK 처벌 경고"
+
+#: translate_sheet.csv:2430
+msgctxt "View log"
+msgid "sheet|StrStr.csv|en|c13abcf4f212ba9602fbce3d49d5e9e8"
+msgstr "로그 보기"
+
+#: translate_sheet.csv:2429
+msgctxt "In Progress"
+msgid "sheet|StrStr.csv|en|c9413dd7682a45da9ecc9efa8cea47d7"
+msgstr "진행중"
+
+#: translate_sheet.csv:2428
+msgctxt "In Use"
+msgid "sheet|StrStr.csv|en|62554d450e691783ae8a8b4cc2ed8ae6"
+msgstr "사용중"
+
+#: translate_sheet.csv:2427
+msgctxt "How to get"
+msgid "sheet|StrStr.csv|en|7a505129b448ed7f6d67399a118552c7"
+msgstr "획득 방법"
+
+#: translate_sheet.csv:2425
+msgctxt ""
+"Limited-time (12/11-12/26 1:59 P.M. UTC-7) Open Hand Match\\n\n"
+"All players will show their original Hands to the others. After discarding the first tile, your Draws will not be shown anymore.\\n\n"
+"Rank Limit: N/A\\nOrder Bonus: 1st+15, 2nd+5, 3rd-5, 4th-15\\nEntry Limit: 3500 Coppers\\nExchange Rate: 1000 Points=70 Coppers\\nEntry Fee: 700 Coppers\\nNo Rank Bonus\\nCasual Chest Progress: 1st+360, 2nd+180, 3rd+130, 4th+80\\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity."
+msgid "sheet|StrStr.csv|en|3d7114591adaef4e19e4e4653e41df4e"
+msgstr ""
+"기간 한정 (12/11-12/26 1:59 P.M. UTC-7) 손패 공개전\\n"
+"\n"
+"모든 플레이어는 배패를 다른 플레이어에게 공개합니다. 첫 타패 이후 쯔모한 패는 공개되지 않습니다.\\n"
+"\n"
+"등급 제한: 없음\\n"
+"우마 점수: 1위+15, 2위+5, 3위-5, 4위-15\\n"
+"입장 제한: 3500 동전\\n"
+"교환비: 1000점=70 동전\\n"
+"입장료: 700 동전\\n"
+"등급 영향 없음\\n"
+"캐주얼 상자 진행도: 1위+360, 2위+180, 3위+130, 4위+80\\n"
+"동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다."
+
+#: translate_sheet.csv:2423
+msgctxt "Duplicate characters will be converted to Wishing Stones."
+msgid "sheet|StrStr.csv|en|571a0331e34ad4c202fe984b7d024a31"
+msgstr "중복된 캐릭터는 기도의 돌로 전환됩니다."
+
+#: translate_sheet.csv:2422
+msgctxt "Donate gift"
+msgid "sheet|StrStr.csv|en|351ec8ca9c5f6a806c4ff21f2c96d92d"
+msgstr "선물 기부"
+
+#: translate_sheet.csv:2421
+msgctxt "Purchase in Wishing Shop"
+msgid "sheet|StrStr.csv|en|edbbf00dfb68025cf36642e068ed7862"
+msgstr "기도 상점에서 구매"
+
+#: translate_sheet.csv:2420
+msgctxt "Character"
+msgid "sheet|StrStr.csv|en|76a40e4f974fd895a0a2598c1cee28b4"
+msgstr "캐릭터"
+
+#: translate_sheet.csv:2419
+msgctxt "Change Decoration"
+msgid "sheet|StrStr.csv|en|c9a7875eb9df0a6566be5573836e16b9"
+msgstr "장식 변경"
+
+#: translate_sheet.csv:2418
+msgctxt "This decoration theme is not saved. Do you still wish to continue?"
+msgid "sheet|StrStr.csv|en|c636fbd2e1ee27b74d4bcf43ad07c914"
+msgstr "이 장식 테마가 저장되지 않았습니다. 계속하시겠습니까?"
+
+#: translate_sheet.csv:2417
+msgctxt "Save"
+msgid "sheet|StrStr.csv|en|c9cc8cce247e49bae79f15173ce97354"
+msgstr "저장"
+
+#: translate_sheet.csv:2416
+msgctxt "Select your Lobby background style"
+msgid "sheet|StrStr.csv|en|7a8849525a6266e48dd16e1c48a6395c"
+msgstr "로비 배경 스타일 선택"
+
+#: translate_sheet.csv:2415
+msgctxt "Select your Tile Back style"
+msgid "sheet|StrStr.csv|en|26d0e195ae9733294dd6a3859ed66ac3"
+msgstr "마작패 스타일 선택"
+
+#: translate_sheet.csv:2414
+msgctxt "Select your Tablecloth style"
+msgid "sheet|StrStr.csv|en|df82bfd3bc7bd60fb3976868065de105"
+msgstr "테이블보 스타일 선택"
+
+#: translate_sheet.csv:2413
+msgctxt "Parameter error"
+msgid "sheet|StrStr.csv|en|4fe093af429d1f1fc2198447a1025931"
+msgstr "매개변수 오류"
+
+#: translate_sheet.csv:2412
+msgctxt "Unable to unbind current account"
+msgid "sheet|StrStr.csv|en|4dbe0127539fcc25662a6912677216d7"
+msgstr "현재 계정을 연결 해제할 수 없습니다"
+
+#: translate_sheet.csv:2411
+msgctxt "Failed to verify the email"
+msgid "sheet|StrStr.csv|en|6abcaaf15be11fa227ed0cc221233f65"
+msgstr "이메일 인증 실패"
+
+#: translate_sheet.csv:2410
+msgctxt "This email has not been bound with Yostar account"
+msgid "sheet|StrStr.csv|en|35e509c82b2d4a8def74081f1f2c3a8f"
+msgstr "이 이메일은 Yostar 계정과 연결되지 않았습니다"
+
+#: translate_sheet.csv:2409
+msgctxt "Unbind Successfully"
+msgid "sheet|StrStr.csv|en|051beebec7c5534cdbb57ee029901e7e"
+msgstr "연결 해제 성공"
+
+#: translate_sheet.csv:2408
+msgctxt "Unbind"
+msgid "sheet|StrStr.csv|en|4bffa5083d48d52f00eb873b6e136d5f"
+msgstr "연결 해제"
+
+#: translate_sheet.csv:2407
+msgctxt "Unbind Email:{0}"
+msgid "sheet|StrStr.csv|en|af31b207dfce0d9e29918332d4018b1c"
+msgstr "이메일 {0} 연결 해제"
+
+#: translate_sheet.csv:2406
+msgctxt "Account Unbinding"
+msgid "sheet|StrStr.csv|en|653b837ad0ae8ff046c47c8929303789"
+msgstr "계정 연결 해제"
+
+#: translate_sheet.csv:2405
+msgctxt "You have reserved too many matches"
+msgid "sheet|StrStr.csv|en|f505e3997377cb4ae75edf7fa8b36bbc"
+msgstr "너무 많은 경기를 예약했습니다"
+
+#: translate_sheet.csv:2404
+msgctxt "(Tap to unbind)"
+msgid "sheet|StrStr.csv|en|c2aa8e8a7d8ef82dd576d55033ce9db7"
+msgstr "(탭하여 연결 해제)"
+
+#: translate_sheet.csv:2403
+msgctxt "Account Binding"
+msgid "sheet|StrStr.csv|en|6a3fd70a3b11d8f81081737d2752e6e4"
+msgstr "계정 연결"
+
+#: translate_sheet.csv:2402
+msgctxt "New updates detected, please try to restart your game"
+msgid "sheet|StrStr.csv|en|e7e849b35f75f02cc19a7494fd052597"
+msgstr "새로운 업데이트가 있습니다. 게임을 다시 시작해주세요"
+
+#: translate_sheet.csv:2393
+msgctxt "This email is already linked to an existing Mahjong Soul account"
+msgid "sheet|StrStr.csv|en|1734c1c6e435d6ab0931433e508f629e"
+msgstr "이 이메일은 이미 기존 작혼 계정에 연결되어 있습니다"
+
+#: translate_sheet.csv:2392
+msgctxt "Free:"
+msgid "sheet|StrStr.csv|en|418428b72ae7b9e222bf3c66c44172a9"
+msgstr "무료:"
+
+#: translate_sheet.csv:2391
+msgctxt "Premium:"
+msgid "sheet|StrStr.csv|en|22232056376b96411054bc09f0247ac1"
+msgstr "프리미엄:"
+
+#: translate_sheet.csv:2390
+msgctxt "Insufficient Outfit Voucher，Do you wish to Purchase ？"
+msgid "sheet|StrStr.csv|en|8f0f58c4efc8412b92725dd5d1280e18"
+msgstr "의상 교환권이 부족합니다. 구매하시겠습니까?"
+
+#: translate_sheet.csv:2389
+msgctxt "Insufficient Outfit Voucher"
+msgid "sheet|StrStr.csv|en|fb04780008603d5980cbb5b91b397d6b"
+msgstr "의상 교환권 부족"
+
+#: translate_sheet.csv:2388
+msgctxt "Current Outfit Voucher status"
+msgid "sheet|StrStr.csv|en|2b1e38e738fa1a37b5796d7891402239"
+msgstr "현재 의상 교환권 정보"
+
+#: translate_sheet.csv:2387
+msgctxt "Bind"
+msgid "sheet|StrStr.csv|en|0b172674284d79079624051d2ae11581"
+msgstr "연결"
+
+#: translate_sheet.csv:2386
+msgctxt "Outfit Voucher"
+msgid "sheet|StrStr.csv|en|f5cff35080413bc78d1da9c80f904e8d"
+msgstr "의상 교환권"
+
+#: translate_sheet.csv:2385
+msgctxt "Portrait Frame"
+msgid "sheet|StrStr.csv|en|84810dd176be4ffb4069af99383a3f4a"
+msgstr "초상화 프레임"
+
+#: translate_sheet.csv:2384
+msgctxt "Do you confirm to exit?"
+msgid "sheet|StrStr.csv|en|c752200b863e2bbebcb31120f69110d6"
+msgstr "종료 하시겠습니까?"
+
+#: translate_sheet.csv:2383
+msgctxt "Clear all missions on board to get bonus rewards"
+msgid "sheet|StrStr.csv|en|b7292e76ef2f93746b29c3a373976417"
+msgstr "보너스 보상을 받으려면 모든 미션을 클리어하세요"
+
+#: translate_sheet.csv:2382
+msgctxt "Clear current column to get bonus rewards"
+msgid "sheet|StrStr.csv|en|9d49440846480b2b6484ae129103c17b"
+msgstr "보너스 보상을 받으려면 현재 세로줄을 클리어하세요"
+
+#: translate_sheet.csv:2381
+msgctxt "Clear current row to get bonus rewards"
+msgid "sheet|StrStr.csv|en|1d40523dda1bc327ecfe8c96cc8a30e4"
+msgstr "보너스 보상을 받으려면 현재 가로줄을 클리어하세요"
+
+#: translate_sheet.csv:2380
+msgctxt ""
+"Starting Points: 35,000\\nExtension into West: At the end of 4th South game,"
+" if 1st place has less than 40,000 points\\nLength: Two-Wind Match\\nRed "
+"Five: 3\\nOpen Tanyao: On\\nWaiting Time: 5+20"
+msgid "sheet|StrStr.csv|en|1af620fbc913559d3ff29c8fbf31b872"
+msgstr ""
+"시작 점수: 35,000\\n"
+"서입:남4국 종료시 1위 점수가 40,000점 미만일 때\\n"
+"길이: 반장전\\n"
+"적도라: 3\\n"
+"쿠이탕: 허용\\n"
+"제한 시간:5+20"
+
+#: translate_sheet.csv:2379
+msgctxt ""
+"DoraDorara Mode is between 9/28 - 10/9 1:59 P.M.\\n\n"
+"4-player South limited. Each game starts with 3 Dora indicators already revealed and a maximum amount of Dora indicators at 5. The first 2 Kans called in a game will reveal 1 Dora indicator each, but any Kan called beyond the first 2 will no longer reveal any Dora indicator.\\n\n"
+"Rank Limit: Adept or above.\\n\n"
+"Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\\n\n"
+"Entry Limit: 3500 Coppers\\n\n"
+"Exchange Rate: 1000 Points = 70 Coppers\\n\n"
+"Entry Fee: 700 Coppers\\n\n"
+"Games played in this mode are not ranked.\\n\n"
+"Ichihime’s Gift Box Progress: 1st +360, 2nd +180, 3rd +130, 4th +80\\n\n"
+"You will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity."
+msgid "sheet|StrStr.csv|en|5595f6a97ef9371b6370be1a481445aa"
+msgstr ""
+"도라도라라 모드 (9/28 - 10/9 1:59 P.M.)\\n"
+"\n"
+"4인 반장전 한정. 각 게임은 3개의 도라표시패를 공개한 상태로 시작하고 최대 5개까지 도라표시패로 사용할 수 있습니다. 두번째 깡 "
+"까지는 도라표시패를 공개하지만, 3번째 부터는 도라표시패를 공개하지 않습니다.\\n"
+"\n"
+"등급 제한: 작사 이상.\\n"
+"\n"
+"우마 점수: 1위 +15, 2위 +5, 3위 -5, 4위 -15\\n"
+"\n"
+"입장 제한: 3500 동전\\n"
+"\n"
+"교환비: 1000점 = 70 동전\\n"
+"\n"
+"입장료: 700 동전\\n"
+"\n"
+"이 모드에서 플레이한 게임은 등급에 영향을 주지 않습니다.\\n"
+"\n"
+"이치히메의 선물 상자 진행률: 1위 +360, 2위 +180, 3위 +130, 4위 +80\\n"
+"\n"
+"동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다."
+
+#: translate_sheet.csv:2378
+msgctxt "Not enough attempts, please try again tomorrow"
+msgid "sheet|StrStr.csv|en|af22f3f86ad370996a40a6fee202a1f0"
+msgstr "시도 횟수 부족, 내일 다시 시도해주세요"
+
+#: translate_sheet.csv:2377
+msgctxt "Do you confirm to flip this block?"
+msgid "sheet|StrStr.csv|en|71cef65e0e0706d3620c2e9b3d6a67e8"
+msgstr "이 블록을 뒤집을까요?"
+
+#: translate_sheet.csv:2376
+msgctxt "Mission Details"
+msgid "sheet|StrStr.csv|en|858a9c6396d7b54fccf94ad0ea71465f"
+msgstr "임무 세부사항"
+
+#: translate_sheet.csv:2374
+msgctxt ""
+"Rank Limit: Adept or above\n"
+"\\n4-player Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\n"
+"\\n3-player Order Bonus: 1st +15, 2nd +0, 3rd -15\n"
+"\\nMatches played in this mode are not ranked"
+msgid "sheet|StrStr.csv|en|a5dc93a5f88be03fcc65cfcfaa25255f"
+msgstr ""
+"등급 제한: 작사 이상\n"
+"\\n"
+"4인 우마 점수: 1위 +15, 2위 +5, 3위 -5, 4위 -15\n"
+"\\n"
+"3인 우마 점수: 1위 +15, 2위 +0, 3위 -15\n"
+"\\n"
+"이 모드에서 플레이한 경기는 등급에 영향을 주지 않습니다"
+
+#: translate_sheet.csv:2373
+msgctxt "Days left {0}"
+msgid "sheet|StrStr.csv|en|67440e4be8a89f3fb7d16c3eab44c479"
+msgstr "{0}일 남음"
+
+#: translate_sheet.csv:2372
+msgctxt "Fortune Charm"
+msgid "sheet|StrStr.csv|en|b3135aaff535692b79b7732fa80222db"
+msgstr "행운 부적"
+
+#: translate_sheet.csv:2371
+msgctxt "Sold Out"
+msgid "sheet|StrStr.csv|en|826eadae3870bf9e64c7a7ff9b1cb181"
+msgstr "매진"
+
+#: translate_sheet.csv:2370
+msgctxt "Items contained in this pack"
+msgid "sheet|StrStr.csv|en|5b265906fb73f54f854b9b413b99e18a"
+msgstr "이 팩에 포함된 아이템"
+
+#: translate_sheet.csv:2369
+msgctxt "Final Price:"
+msgid "sheet|StrStr.csv|en|79dbc48829c804a7f59f08ad9039799f"
+msgstr "최종 가격:"
+
+#: translate_sheet.csv:2368
+msgctxt "Discount Rate:"
+msgid "sheet|StrStr.csv|en|a7f0e2f3b866e67b144584e08f7e5372"
+msgstr "할인율:"
+
+#: translate_sheet.csv:2367
+msgctxt "Original Price:"
+msgid "sheet|StrStr.csv|en|eb27a573fa958565e77ca7daf85c4979"
+msgstr "기존 가격:"
+
+#: translate_sheet.csv:2366
+msgctxt "Display All"
+msgid "sheet|StrStr.csv|en|8bb4f1c5f84430ed66b916345e8573b6"
+msgstr "모두 표시"
+
+#: translate_sheet.csv:2365
+msgctxt "Background"
+msgid "sheet|StrStr.csv|en|a9ded1e5ce5d75814730bb4caaf49419"
+msgstr "배경"
+
+#: translate_sheet.csv:2364
+msgctxt "Unlock at {0}"
+msgid "sheet|StrStr.csv|en|be91b714eeaaf4e0b0fe1e4a4c4bd22a"
+msgstr "{0}에 해제"
+
+#: translate_sheet.csv:2363
+msgctxt "Outfit"
+msgid "sheet|StrStr.csv|en|53b63018bfb47c8eaa82a16c8a07351e"
+msgstr "의상"
+
+#: translate_sheet.csv:2362
+msgctxt "Do you confirm to purchase {0}?"
+msgid "sheet|StrStr.csv|en|fb6ac5f7e06e68cb020b112fde260d5b"
+msgstr "{0}을(를) 구입하시겠습니까?"
+
+#: translate_sheet.csv:2361
+msgctxt "On Sale expires in {0}d"
+msgid "sheet|StrStr.csv|en|33749c39cafc1762190992bcc4c0d16b"
+msgstr "판매 종료까지 {0}일"
+
+#: translate_sheet.csv:2360
+msgctxt "On Sale expires in {0}h"
+msgid "sheet|StrStr.csv|en|9ba915179dea5349128c08652347155d"
+msgstr "판매 종료까지 {0}시간"
+
+#: translate_sheet.csv:2359
+msgctxt "On Sale expires in {0}m"
+msgid "sheet|StrStr.csv|en|4fe37479bcccaca14c6fe352fdae8288"
+msgstr "판매 종료까지 {0}분"
+
+#: translate_sheet.csv:2358
+msgctxt "On Sale expired"
+msgid "sheet|StrStr.csv|en|1ec61c7ed75f16e074175767dba47a49"
+msgstr "판매 종료"
+
+#: translate_sheet.csv:2357
+msgctxt "Random"
+msgid "sheet|StrStr.csv|en|64663f4646781c9c0110838b905daa23"
+msgstr "랜덤"
+
+#: translate_sheet.csv:2356
+msgctxt "Playlist loop"
+msgid "sheet|StrStr.csv|en|d73b19aafe7cc867a7dcfa1760db1950"
+msgstr "재생목록 반복"
+
+#: translate_sheet.csv:2355
+msgctxt "In-match BGM"
+msgid "sheet|StrStr.csv|en|37e902988aeacfef10e1e1a5b991cbc8"
+msgstr "게임중 BGM"
+
+#: translate_sheet.csv:2354
+msgctxt "Lobby BGM"
+msgid "sheet|StrStr.csv|en|b4dae55fa03e8cd86ce52b39938aa450"
+msgstr "로비 BGM"
+
+#: translate_sheet.csv:2353
+msgctxt "Achieve certain Yaku in a game to get {0}"
+msgid "sheet|StrStr.csv|en|34d079454b76a4841f1af62f6adcedc4"
+msgstr "게임에서 특정 역을 달성하여 {0}을(를) 획득"
+
+#: translate_sheet.csv:2352
+msgctxt "Acquired today"
+msgid "sheet|StrStr.csv|en|c78b4652fcba4e2a283ef90215752498"
+msgstr "오늘 획득"
+
+#: translate_sheet.csv:2351
+msgctxt "Collect {0}"
+msgid "sheet|StrStr.csv|en|c92333ee079e44ec6c2c6e102e93cbf0"
+msgstr "{0} 수집"
+
+#: translate_sheet.csv:2350
+msgctxt "Registration"
+msgid "sheet|StrStr.csv|en|0f98b7f230f3c91292f0de4c99e263f2"
+msgstr "등록"
+
+#: translate_sheet.csv:2349
+msgctxt "Open"
+msgid "sheet|StrStr.csv|en|c3bf447eabe632720a3aa1a7ce401274"
+msgstr "열기"
+
+#: translate_sheet.csv:2347
+msgctxt "Event Points："
+msgid "sheet|StrStr.csv|en|d94d347706a606db4631f74b97a379ef"
+msgstr "이벤트 점수："
+
+#: translate_sheet.csv:2346
+msgctxt "Choose one gift"
+msgid "sheet|StrStr.csv|en|9ad50fbadf5796c7f31a39c64709ada6"
+msgstr "선물 하나를 선택하세요"
+
+#: translate_sheet.csv:2345
+msgctxt "4-Player Room Restriction"
+msgid "sheet|StrStr.csv|en|eba1f0c260b624d47ca4cd790363a5bf"
+msgstr "4인 마작 방 제한"
+
+#: translate_sheet.csv:2344
+msgctxt "3-Player Room Restriction"
+msgid "sheet|StrStr.csv|en|568777def3721d2a4ee6056df84a0e2d"
+msgstr "3인 마작 방 제한"
+
+#: translate_sheet.csv:2343
+msgctxt "4-Player Ranking"
+msgid "sheet|StrStr.csv|en|015690a772bdfa9ad461bd9cef474a6a"
+msgstr "4인 마작 순위"
+
+#: translate_sheet.csv:2342
+msgctxt "3-Player Ranking"
+msgid "sheet|StrStr.csv|en|3c6387567f79c6a660d26d2fe9343053"
+msgstr "3인 마작 순위"
+
+#: translate_sheet.csv:2341
+msgctxt "4-Player Ranking Rules"
+msgid "sheet|StrStr.csv|en|beccbfc365ce85fb6b38c9ab588f9801"
+msgstr "4인 마작 순위 규칙"
+
+#: translate_sheet.csv:2340
+msgctxt "3-Player Ranking Rules"
+msgid "sheet|StrStr.csv|en|dd9ed0d2ce93ad9ca12b6829707515a0"
+msgstr "3인 마작 순위 규칙"
+
+#: translate_sheet.csv:2339
+msgctxt "Unable to connect the server, please try again later"
+msgid "sheet|StrStr.csv|en|11bd7c49b5b21188a1028683c737d9b4"
+msgstr "서버에 연결할 수 없습니다, 나중에 다시 시도해주세요"
+
+#: translate_sheet.csv:2338
+msgctxt "To be verified"
+msgid "sheet|StrStr.csv|en|b13e48cc98794d8bd9be7e7c5e278bdb"
+msgstr "미인증"
+
+#: translate_sheet.csv:2337
+msgctxt "Send code"
+msgid "sheet|StrStr.csv|en|8dab622763c6e4d607e1250d0c432dbd"
+msgstr "코드 전송"
+
+#: translate_sheet.csv:2336
+msgctxt "Incorrect format, please re-enter"
+msgid "sheet|StrStr.csv|en|0cb9e5762b71e32692dfa82eb5a40f55"
+msgstr "잘못된 형식, 다시 입력해주세요"
+
+#: translate_sheet.csv:2335
+msgctxt "Successfully bind account"
+msgid "sheet|StrStr.csv|en|a64827e03127c383237375ed5e3d6cee"
+msgstr "계정 연동 성공"
+
+#: translate_sheet.csv:2334
+msgctxt "Event Points"
+msgid "sheet|StrStr.csv|en|9fe0b5cd29a09149c4e5b3145c716852"
+msgstr "이벤트 점수"
+
+#: translate_sheet.csv:2332
+msgctxt "Get {0}x{1}"
+msgid "sheet|StrStr.csv|en|75384fcdad526f94f2995f1d576325f6"
+msgstr "{0}x{1} 받기"
+
+#: translate_sheet.csv:2331
+msgctxt "none"
+msgid "sheet|StrStr.csv|en|334c4a4c42fdb79d7ebc3e73b517e6f8"
+msgstr "없음"
+
+#: translate_sheet.csv:2333
+msgctxt "{0}分钟前更新"
+msgid "sheet|StrStr.csv|en|6d1494b4721f9fb981e62e7a0ef695df"
+msgstr "{0}分钟前更新"
+
+#: translate_sheet.csv:2330
+msgctxt "未到奖励领取时间"
+msgid "sheet|StrStr.csv|en|35d2ed25bbd0b5330a78cc9017e09cf5"
+msgstr "未到奖励领取时间"
+
+#: translate_sheet.csv:2329
+msgctxt "排名奖励内容"
+msgid "sheet|StrStr.csv|en|b6aba2c98a892e1fc6ee29c93c3f61b8"
+msgstr "排名奖励内容"
+
+#: translate_sheet.csv:2328
+msgctxt "排名奖励说明"
+msgid "sheet|StrStr.csv|en|59b5bf40aa0d05250e428f50064c39b3"
+msgstr "排名奖励说明"
+
+#: translate_sheet.csv:2327
+msgctxt ""
+"Local Yaku available for Limited-Time (10/30  - 11/10 2:00 P.M. PDT) :  \\n-"
+" Tsubame-gaeshi\\n- Kanburi\\n- Shiiaruraotai\\n- Uumensai\\n- Three Chained"
+" Triplets\\n- Pure Triple Chow\\n- Iipinmoyue\\n- Chuupinraoyui\\n- Hand of "
+"Man\\n- Big Wheels\\n- Bamboo Forest\\n- Numerous Neighbours\\n- "
+"Ishinouenimosannen\\n- Big Seven Stars\\nDetailed Yaku descriptions can be "
+"found in Yaku Overview\\nThe matches are unranked, and number of Yaku "
+"achieved will be recorded. No entry fee required."
+msgid "sheet|StrStr.csv|en|f84d66139865550df036d18c74854684"
+msgstr ""
+"로컬 역이 기간 한정으로 허용 ((10/30  - 11/10 2:00 P.M. PDT) :  \\n"
+"- 츠바메가에시\\n"
+"- 영상개론\\n"
+"- 십이낙태\\n"
+"- 오문제\\n"
+"- 삼련각\\n"
+"- 일색삼순\\n"
+"- 일통모월\\n"
+"- 구통로어\\n"
+"- 인화\\n"
+"- 대차륜\\n"
+"- 대죽림\\n"
+"- 대수린\\n"
+"- 돌 위에서 삼년\\n"
+"- 대칠성\\n"
+"상헤한 역 설명은 역 요약에서 찾을 수 있습니다\\n"
+"등급에 영향을 주지 않으며, 달성한 역은 기록됩니다. 입장료가 필요하지 않습니다."
+
+#: translate_sheet.csv:2326
+msgctxt "Limited-Time"
+msgid "sheet|StrStr.csv|en|4414b2df482f2696fc5dcff554850d6e"
+msgstr "기간 한정"
+
+#: translate_sheet.csv:2325
+msgctxt "Melee Room Log"
+msgid "sheet|StrStr.csv|en|04fdb0ae0152fb477b8e573a549beae9"
+msgstr "근접전 로그"
+
+#: translate_sheet.csv:2324
+msgctxt "Local Yaku Achieved"
+msgid "sheet|StrStr.csv|en|bf287837967c7c81eddd08da78f7d92f"
+msgstr "달성한 로컬역"
+
+#: translate_sheet.csv:2323
+msgctxt "No record"
+msgid "sheet|StrStr.csv|en|a98b79c2a7ba61109ab618e70e9e623f"
+msgstr "기록 없음"
+
+#: translate_sheet.csv:2322
+msgctxt "Character switching is disabled during matching making."
+msgid "sheet|StrStr.csv|en|3ac0814cb7fc985c3d9a1a16034a3346"
+msgstr "경기를 찾는 중에는 캐릭터를 변경할 수 없습니다."
+
+#: translate_sheet.csv:2321
+msgctxt "Add to Home"
+msgid "sheet|StrStr.csv|en|4f9e1d4ba61187d5fdac13b5a7eef177"
+msgstr "홈 화면에 추가"
+
+#: translate_sheet.csv:2320
+msgctxt "Upper limit of collection"
+msgid "sheet|StrStr.csv|en|087f7e0549f4eeb04291378b78da92a1"
+msgstr "수집 상한"
+
+#: translate_sheet.csv:2319
+msgctxt "Log Collection"
+msgid "sheet|StrStr.csv|en|870991bd7d77ced9c9b57ab85eb481ec"
+msgstr "로그 컬렉션"
+
+#: translate_sheet.csv:2318
+msgctxt "Remarks are too long"
+msgid "sheet|StrStr.csv|en|3446be27fb0b88e43b4f87b6bbf59801"
+msgstr "메모가 너무 깁니다"
+
+#: translate_sheet.csv:2316
+msgctxt "Friendly Match Log"
+msgid "sheet|StrStr.csv|en|a9e277cdd607d21046008fefcb656f7f"
+msgstr "친선전 로그"
+
+#: translate_sheet.csv:2315
+msgctxt "Tournament Log"
+msgid "sheet|StrStr.csv|en|335aa8f5fb6a4be2a04a847e7890d6c1"
+msgstr "대회전 로그"
+
+#: translate_sheet.csv:2314
+msgctxt "Ranked Log"
+msgid "sheet|StrStr.csv|en|b2110661cb6c0759f347a1692c7731fa"
+msgstr "등급전 로그"
+
+#: translate_sheet.csv:2313
+msgctxt "Collection Limit:"
+msgid "sheet|StrStr.csv|en|8414152ddff293c82de156cb9bbc3b80"
+msgstr "컬렉션 제한:"
+
+#: translate_sheet.csv:2312
+msgctxt "Collection"
+msgid "sheet|StrStr.csv|en|d15b505cce09406de9f918cb1f8c641c"
+msgstr "컬렉션"
+
+#: translate_sheet.csv:2311
+msgctxt "Match"
+msgid "sheet|StrStr.csv|en|6da89265a9a8b0b28eb4946bb2ec0c6d"
+msgstr "경기"
+
+#: translate_sheet.csv:2310
+msgctxt "※Enter the verification code sent to your email"
+msgid "sheet|StrStr.csv|en|256aebc88e723cf138ee45aa9a3f7d64"
+msgstr "※이메일로 전송된 인증 코드 입력"
+
+#: translate_sheet.csv:2309
+msgctxt "※Enter email address"
+msgid "sheet|StrStr.csv|en|19f2ffb7ec9922cbdf3579d568de1401"
+msgstr "※이메일 주소 입력"
+
+#: translate_sheet.csv:2308
+msgctxt "Name is too long"
+msgid "sheet|StrStr.csv|en|5965a3d0f70ea8682584bf446584d6dc"
+msgstr "이름이 너무 깁니다"
+
+#: translate_sheet.csv:2307
+msgctxt "Coming Soon"
+msgid "sheet|StrStr.csv|en|f2407056c089170d4df9dac66a284f38"
+msgstr "출시 예정"
+
+#: translate_sheet.csv:2306
+msgctxt "m"
+msgid "sheet|StrStr.csv|en|6f8f57715090da2632453988d9a1501b"
+msgstr "분"
+
+#: translate_sheet.csv:2305
+msgctxt "h"
+msgid "sheet|StrStr.csv|en|2510c39011c5be704182423e3a695e91"
+msgstr "시간"
+
+#: translate_sheet.csv:2304
+msgctxt "Insufficient Jade ，Do you wish to Purchase ？"
+msgid "sheet|StrStr.csv|en|9dcfd392f568bba3a473caf6bb8fa204"
+msgstr "휘옥이 부족합니다. 구매하시겠습니까?"
+
+#: translate_sheet.csv:2303
+msgctxt "Insufficient Jade"
+msgid "sheet|StrStr.csv|en|f384778be541036a6aec2eca58d953c9"
+msgstr "휘옥 부족"
+
+#: translate_sheet.csv:2302
+msgctxt "Agree to the PRIVACY POLICY"
+msgid "sheet|StrStr.csv|en|5bb4345f98a650cca27ab027be5a7d27"
+msgstr "개인정보취급방침에 동의"
+
+#: translate_sheet.csv:2298
+msgctxt "CVV2/CSC Code is a 3 or 4 digits number"
+msgid "sheet|StrStr.csv|en|6f3ccd3e55cbf165b5eca7187f9f3227"
+msgstr "CVV2/CSC 코드는 3자리 또는 4자리 숫자입니다"
+
+#: translate_sheet.csv:2295
+msgctxt "Please select the year of expriy date"
+msgid "sheet|StrStr.csv|en|4b94e5b8ed97002cc74e0a38945f6f13"
+msgstr "만료 연도를 선택해주세요"
+
+#: translate_sheet.csv:2294
+msgctxt "Please select the month of expriy date"
+msgid "sheet|StrStr.csv|en|4104af86b39afc8ddd8b452b6415edd1"
+msgstr "만료 월을 선택해주세요"
+
+#: translate_sheet.csv:2288
+msgctxt "Please enter 14 - 16 digits"
+msgid "sheet|StrStr.csv|en|0682d659cb6ca6fe5d72970124d32ed7"
+msgstr "14-16자리 숫자를 입력해주세요"
+
+#: translate_sheet.csv:2284
+msgctxt "VIP Point:"
+msgid "sheet|StrStr.csv|en|c0973598407d4024830180e713e871ff"
+msgstr "VIP 포인트:"
+
+#: translate_sheet.csv:2283
+msgctxt "verification code"
+msgid "sheet|StrStr.csv|en|3d6049a3b598510088cc75d1a0653f32"
+msgstr "인증 코드"
+
+#: translate_sheet.csv:2282
+msgctxt "your email address"
+msgid "sheet|StrStr.csv|en|31f6da7a30e7acf1f82451bfd1a7f8fa"
+msgstr "당신의 이메일 주소"
+
+#: translate_sheet.csv:2281
+msgctxt "Send Code"
+msgid "sheet|StrStr.csv|en|9fb79eedf41de365cce17e1732615aba"
+msgstr "코드 전송"
+
+#: translate_sheet.csv:2280
+msgctxt "Agree to the TERMS OF SERVICE"
+msgid "sheet|StrStr.csv|en|eee45d2bdc8b3a1c3926b83796c2aac1"
+msgstr "이용 약관에 동의"
+
+#: translate_sheet.csv:2279
+msgctxt "Do you wish to log out?"
+msgid "sheet|StrStr.csv|en|46a4612b3d6000462658e3e5bccefc20"
+msgstr "로그아웃 하시겠습니까?"
+
+#: translate_sheet.csv:2278
+msgctxt "Room"
+msgid "sheet|StrStr.csv|en|cc3abcf4426bff80257d22999d0eda8f"
+msgstr "방"
+
+#: translate_sheet.csv:2277
+msgctxt "Total:"
+msgid "sheet|StrStr.csv|en|66c4c5112f455a19afde47829df363fa"
+msgstr "합계:"
+
+#: translate_sheet.csv:2276
+msgctxt "Free Jade:"
+msgid "sheet|StrStr.csv|en|4a3c4a7cbfa4b5f35642c32586459846"
+msgstr "무료 휘옥:"
+
+#: translate_sheet.csv:2275
+msgctxt "Premium Jade:"
+msgid "sheet|StrStr.csv|en|b34a6417540162bd9bff2741d8c732d3"
+msgstr "프리미엄 휘옥:"
+
+#: translate_sheet.csv:2274
+msgctxt "Jade info"
+msgid "sheet|StrStr.csv|en|06d13503767ae4730e1b87a3c0f349ac"
+msgstr "휘옥 정보"
+
+#: translate_sheet.csv:2273
+msgctxt "General"
+msgid "sheet|StrStr.csv|en|0db377921f4ce762c62526131097968f"
+msgstr "일반"
+
+#: translate_sheet.csv:2272
+msgctxt "Mobile Verification"
+msgid "sheet|StrStr.csv|en|a6474a74d80cc03df38a2195dd865d0b"
+msgstr "휴대전화 인증"
+
+#: translate_sheet.csv:2271
+msgctxt "(Tap to bind)"
+msgid "sheet|StrStr.csv|en|3fed8ff4e0743f296af899770c9deec0"
+msgstr "(탭하여 연결)"
+
+#: translate_sheet.csv:2270
+msgctxt "Not Bound"
+msgid "sheet|StrStr.csv|en|b8d9493d13d84814ff4b79b6c47dcc3d"
+msgstr "연결되지 않음"
+
+#: translate_sheet.csv:2269
+msgctxt "Account Binding："
+msgid "sheet|StrStr.csv|en|792cebb31d508c08f476ef2c7bf1e3e7"
+msgstr "계정 연결："
+
+#: translate_sheet.csv:2268
+msgctxt "Personal Info Verification"
+msgid "sheet|StrStr.csv|en|51332cc52c435e57954747b821ac48cf"
+msgstr "개인정보 인증"
+
+#: translate_sheet.csv:2267
+msgctxt "(Tap to get verified)"
+msgid "sheet|StrStr.csv|en|64d136d0d516be01b483fc3c346e9ea0"
+msgstr "(탭하여 인증)"
+
+#: translate_sheet.csv:2266
+msgctxt "Not Verified"
+msgid "sheet|StrStr.csv|en|1e410e1b9903e7a99b93857f536b7e1d"
+msgstr "인증되지 않음"
+
+#: translate_sheet.csv:2265
+msgctxt "Other"
+msgid "sheet|StrStr.csv|en|6311ae17c1ee52b36e68aaf4ad066387"
+msgstr "기타"
+
+#: translate_sheet.csv:2264
+msgctxt "Playing Tiles"
+msgid "sheet|StrStr.csv|en|1b792f69cbd7cb44c43a8d251971b944"
+msgstr "타패"
+
+#: translate_sheet.csv:2263
+msgctxt "Control"
+msgid "sheet|StrStr.csv|en|a1595abbb4c3a326636dd178757cd6c1"
+msgstr "조작"
+
+#: translate_sheet.csv:2262
+msgctxt "(Changes will take effect after restarting the game)"
+msgid "sheet|StrStr.csv|en|c805182f266d1e91b4021b3534019b83"
+msgstr "(변경사항은 게임을 재시작한 뒤 에 적용됩니다)"
+
+#: translate_sheet.csv:2261
+msgctxt "Riichi BGM"
+msgid "sheet|StrStr.csv|en|c990bfb64c32170e5cd5412506c3bf91"
+msgstr "리치 BGM"
+
+#: translate_sheet.csv:2260
+msgctxt "Verification failed, please try again later"
+msgid "sheet|StrStr.csv|en|c96d78b28e1ff28e8ab1a92f107a6c57"
+msgstr "인증 실패, 나중에 다시 시도해주세요"
+
+#: translate_sheet.csv:2259
+msgctxt ""
+"Verification Code has been sent to your email, please use it before it is "
+"expired"
+msgid "sheet|StrStr.csv|en|9246dd1dd7beca21caab768f86320f2c"
+msgstr "인증 코드가 이메일로 전송되었습니다. 만료되기 전에 사용해주세요"
+
+#: translate_sheet.csv:2258
+msgctxt "Failed too many time, please try again later"
+msgid "sheet|StrStr.csv|en|567dc519ee07492044e187d674590828"
+msgstr "너무 많이 실패함, 나중에 다시 시도해주세요"
+
+#: translate_sheet.csv:2257
+msgctxt "Verification failed, the code is invalid or expired"
+msgid "sheet|StrStr.csv|en|d124d52fe44a63aa935c4722e5ef8eec"
+msgstr "인증 실패, 코드가 잘못되었거나 만료됨"
+
+#: translate_sheet.csv:2256
+msgctxt "Email address is Banned"
+msgid "sheet|StrStr.csv|en|071c6a3fdacb6efa8a4e069eb3435329"
+msgstr "이메일 주소가 금지됨"
+
+#: translate_sheet.csv:2255
+msgctxt "Request is too frequent"
+msgid "sheet|StrStr.csv|en|8c0931ba6802beb08cf8e6198de4d1d9"
+msgstr "너무 자주 요청했습니다"
+
+#: translate_sheet.csv:2254
+msgctxt "Failed to received Verification Code"
+msgid "sheet|StrStr.csv|en|79281704da434d395e43491bc944e130"
+msgstr "인증 코드를 받지 못했습니다"
+
+#: translate_sheet.csv:2253
+msgctxt "{0} Seconds"
+msgid "sheet|StrStr.csv|en|8224813b958669184252840e7f1fcefa"
+msgstr "{0}초"
+
+#: translate_sheet.csv:2252
+msgctxt "Tap to acquire a Verification Code"
+msgid "sheet|StrStr.csv|en|7ed2b9ab7aeedae7d8bdde4d50e3197b"
+msgstr "인증 코드를 받으려면 탭하세요"
+
+#: translate_sheet.csv:2251
+msgctxt "UID is banned"
+msgid "sheet|StrStr.csv|en|a8b9acbe4fd711e42724fbb42980e1f3"
+msgstr "UID가 금지됨"
+
+#: translate_sheet.csv:2250
+msgctxt "Device ID is banned"
+msgid "sheet|StrStr.csv|en|2ff48ef01a9758d2bcf4435edd223b20"
+msgstr "장치 ID가 금지됨"
+
+#: translate_sheet.csv:2249
+msgctxt "IP restricted"
+msgid "sheet|StrStr.csv|en|67b4fb5f2512d306b6b5c4e0f9ab8824"
+msgstr "IP 제한"
+
+#: translate_sheet.csv:2248
+msgctxt "Verification failed, Info do not match"
+msgid "sheet|StrStr.csv|en|af12bfd8008acbd761a10af7dd18e230"
+msgstr "검증 실패, 정보가 일치하지 않음"
+
+#: translate_sheet.csv:2247
+msgctxt "Verification failed"
+msgid "sheet|StrStr.csv|en|00d5ef7a9e107dd42de216656ab32c38"
+msgstr "검증 실패"
+
+#: translate_sheet.csv:2246
+msgctxt "Daily refresh in:{0}"
+msgid "sheet|StrStr.csv|en|1a882153a27db7fb910014f11ef12d5f"
+msgstr "매일 새로고침: {0}"
+
+#: translate_sheet.csv:2245
+msgctxt "Would you like to purchase some Jade?"
+msgid "sheet|StrStr.csv|en|5f1fc506b1559aa77f74d7ae9342e650"
+msgstr "휘옥을 구매하시겠습니까?"
+
+#: translate_sheet.csv:2244
+msgctxt "Not enough Jade"
+msgid "sheet|StrStr.csv|en|e658c5c3fee300b2a0b0dfcb86124011"
+msgstr "휘옥 부족"
+
+#: translate_sheet.csv:2243
+msgctxt "Remember me"
+msgid "sheet|StrStr.csv|en|878530871f0db73f004f5bd6591eeb76"
+msgstr "계정 기억"
+
+#: translate_sheet.csv:2242
+msgctxt "Login in other service ID"
+msgid "sheet|StrStr.csv|en|9caf00591ff69fed59489a097bac01c6"
+msgstr "다른 서비스 ID로 로그인"
+
+#: translate_sheet.csv:2241
+msgctxt "Yostar Login"
+msgid "sheet|StrStr.csv|en|aa99454f3d620e59275b015430e7a8cd"
+msgstr "Yostar 로그인"
+
+#: translate_sheet.csv:2240
+msgctxt "Enter the name of the tournament"
+msgid "sheet|StrStr.csv|en|2e71e22f21d6aa11cb002eef2667c8fd"
+msgstr "대회 이름을 입력하세요"
+
+#: translate_sheet.csv:2237
+msgctxt "Bond Gift"
+msgid "sheet|StrStr.csv|en|ce3f92861bc06b14a1db59f48ea61417"
+msgstr "인연 선물"
+
+#: translate_sheet.csv:2236
+msgctxt "Wall Code:"
+msgid "sheet|StrStr.csv|en|6e87884270e83ae015348f94fc3d026e"
+msgstr "패산 코드:"
+
+#: translate_sheet.csv:2232
+msgctxt "Deal-in Tile"
+msgid "sheet|StrStr.csv|en|07f864b6cbf31d468043c86575246901"
+msgstr "대기패"
+
+#: translate_sheet.csv:2231
+msgctxt "Show Hands"
+msgid "sheet|StrStr.csv|en|393f9f09cb62b9a1568fdd0b2d021023"
+msgstr "손패 보기"
+
+#: translate_sheet.csv:2230
+msgctxt ""
+"Majsoul promises all games are randomly generated. At the beginning of each "
+"match, the tile wall is already pre-determined, so the tiles issued in each "
+"game will not be changed, or influenced by any external factor. To support "
+"this statement, we have introduced a MD5 verification system. \\n The MD5 "
+"algorithm is a widely used cryptographic hash function. It converts the "
+"input bytes (tile wall sequence) into a series of hash value using an "
+"algorithm. MD5 is uni-directional, unique and chaotic. \\n Uni-directional: "
+"The MD5 code generated cannot be reversed. Therefore, the MD5 code we "
+"provide cannot be decrypted. No one can see your tile wall in advance. (PS: "
+"Most MD5 hacking tools are brute-force attack tools. It will take millions "
+"of years before anyone hacks a tile wall.) \\n Unique: Each input will only "
+"generate one unique MD5 code. \\n Chaotic: Two tile wall sequences will have"
+" completely different MD5 codes even if there is only one different tile "
+"between them. \\n The uniqueness and chaoticness ensure that tile walls "
+"cannot be modified. Otherwise, the MD5 code will significant change. \\n MD5"
+" verification steps:\\n 1.In every match, players can click the Dora "
+"Indicator on the top left corner to view and record the tile wall MD5 code. "
+"Each flush of tile wall generates one set of MD5 code. \\n 2.After a match, "
+"players can go to Log and verify if the MD5 code in each game (recorded in "
+"the Log) against the value recorded when the game was played. The MD5 code "
+"obtained during the game should be consistent with the MD5 code in the Log. "
+"\\n 3.Each tile has a unique code. “Man” tiles are represented by “m”, “Pin”"
+" tiles are represented by “p”, “Sou” tiles are represented by “s” and word "
+"tiles are represented by “z”. For example, 1 Man is 1m, 9 Pin is 9p, 5 Sou "
+"is 5s. East, South, West, North, White, Green and Red are 1z, 2z, 3z, 4z, "
+"5z, 6z and 7z accordingly. Special “Red” 5 Man is 0m, Red 5 Pin is 0p, Red 5"
+" Sou is 0s. As such, each tile wall can be represented by a unique series of"
+" codes. For a tile wall of “8 Pin - 7 Sou - East - Red 5 Man”, the code will"
+" be 8p7s1z0m. Players can view tile walls in Log. A tile wall refers to the "
+"sequence of remaining tiles after all hands are drawn. Each tile wall "
+"displayed can be represented by a unique sequence using the method above. "
+"The tile wall code displayed at the bottom is generated using this method. "
+"\\n 4.A common online MD5 encryption website can be accessed at "
+"http://tool.chinaz.com/tools/md5.aspx On the left box, enter the tile wall "
+"code obtained from step 3, then select “32 digit encryption (L)” in the "
+"center, you will find the corresponding MD5 code on the right. You can "
+"compare the MD5 code generated with the MD5 code provided in game. If they "
+"are the same, your tile wall was pre-determined from the moment it was "
+"generated. This is a proof that we have not modified it in any way. If the "
+"tile wall was tampered, the tiles issued would not match with the Log. The "
+"MD5 codes generated would not match either. \\n Thank you for supporting "
+"Majsoul. We hope you enjoy the game and improve your skills every day."
+msgid "sheet|StrStr.csv|en|e310f946c5032508229f4b37da6c2ebc"
+msgstr ""
+"작혼은 모든 게임이 무작위로 생성됨을 보장합니다. 각 경기가 시작될 때 패산이 미리 결정되어 있으므로 각 경기에서 쯔모하는 패는 변경되지 "
+"않으며, 어떠한 외부 요인에 의해서도 영향을 받지 않습니다. 이 진술을 뒷받침하기 위해 MD5 검증 시스템을 도입했습니다. \\n"
+" MD5 알고리즘은 널리 사용되는 암호화 해시 기능입니다. 알고리즘을 사용하여 입력 바이트(패산 순서)를 일련의 해시 값으로 변환합니다. "
+"MD5는 혼돈스럽고 고유하며 단방향으로 동작합니다. \\n"
+" 단방향: 생성된 MD5 코드는 복원할 수 없습니다. 따라서 작혼에서 제공하는 MD5 코드는 해독할 수 없으며 누구도 패산을 미리 볼 수 "
+"없습니다.(참고: 대부분의 MD5 해킹 도구는 무차별 대입 공격 도구입니다. 누군가가 패산을 해킹하려면 수백만 년이 걸릴 것입니다.) \\"
+"n"
+" 고유: 각 입력(패산)은 하나의 고유한 MD5 코드만 생성합니다. \\n"
+" 혼돈: 두 패산 순서는 서로 다른 패가 하나만 있어도 완전히 다른 MD5 코드를 갖습니다. \\n"
+" 고유성과 혼돈성에 의해 패산이 수정되지 않았다는 것을 보장하며, 만약 수정됬을 경우 MD5 코드가 크게 변경될 것입니다. \\n"
+" MD5 검증 단계: \\n"
+" 1. 매 경기마다 플레이어는 좌측 상단의 도라 표시기를 클릭하여 패산 MD5 코드를 보고 기록할 수 있습니다. 패산이 생성될 때 마다 "
+"하나의 MD5 코드 세트가 생성됩니다. \\n"
+" 2. 경기 후 플레이어는 로그로 이동하여 각 게임의 MD5 코드(로그에 기록됨)가 게임 플레이시 기록된 값과 일치하는지 비교할 수 "
+"있습니다. 게임 중에 얻은 MD5 코드는 로그의 MD5 코드와 일치해야 합니다. \\n"
+" 3. 각 패마다 고유한 코드가 있습니다. 만수패는 \"m\"으로, 통수패는 \"p\"로, 삭수패는 \"s\"로, 자패는 \"z\"로 "
+"나타냅니다. 예를 들어 1만은 1m, 9통은 9p, 5삭은 5s입니다. 동, 남, 서 ,북, 백, 발, 중은 1z, 2z, 3z, 4z, "
+"5z, 6z, 7z 입니다. 특수한 적5만은 0m, 적5통은 0p. 적5삭은 0s입니다. 이와 같이 각각의 패산은 고유한 일련의 코드로 "
+"표시될 수 있습니다. \"8통-7삭-동-적5만\" 패산의 코드는 8p7s1z0m 입니다. 플레이어는 로그에서 패산을 볼 수 있습니다. "
+"패산은 모든 모든 배패를 완료한 후 남은 패 순서를 말합니다. 표시되는 각 패는 위의 방법을 사용하여 고유한 시퀀스로 나타낼 수 "
+"있습니다. 하단에 표시되는 패산 코드는 이 방법으로 생성됩니다. \\n"
+" 4. 일반적인 온라인 MD5 암호화 웹 사이트는 http://tool.chinaz.com/tools/md5.aspx 로 접속할 수 "
+"있습니다. 왼쪽 입력 상자에 3단계에서 얻은 패산 코드를 입력한 다음 가운데에서 \"32자리 암호화(L)\"을 선택하면 오른쪽에 해당하는 "
+"MD5 코드가 표시됩니다. 생성된 MD5 코드를 게임에서 제공하는 MD5 코드와 비교할 수 있습니다. 만약 두 코드가 일치한다면 패산이 "
+"생성된 순간에 미리 결정되었다는 것입니다. 이것은 작혼이 어떤식으로든 패산을 수정하지 않았다는 증거입니다. 패산이 변조된 경우 쯔모한 "
+"패가 로그와 일치하지 않습니다. 생성된 MD5 코드도 일치하지 않습니다. \\n"
+" 작혼을 지지해주셔서 감사합니다. 우리는 당신이 매일 게임을 즐기고 실력이 향상되기를 바랍니다."
+
+#: translate_sheet.csv:2229
+msgctxt "I'm back"
+msgid "sheet|StrStr.csv|en|e2093f20363025404ad5f28150cb4f5d"
+msgstr "복귀"
+
+#: translate_sheet.csv:2228
+msgctxt "The system has detected you are AFK. Auto Draw & Discard enabled."
+msgid "sheet|StrStr.csv|en|677cf2644b744a198dfd0084bdddf1ab"
+msgstr "시스템이 AFK를 감지했습니다. 자동 쯔모기리가 활성화됩니다."
+
+#: translate_sheet.csv:2227
+msgctxt "Match paused. Please wait in patience"
+msgid "sheet|StrStr.csv|en|3f473d27532b55d6e01be510b4b83dc9"
+msgstr "경기가 일시정지됨. 잠시만 기다려주세요"
+
+#: translate_sheet.csv:2226
+msgctxt "Match End"
+msgid "sheet|StrStr.csv|en|0e6bca665699fdfb90b5bd64c35b5ded"
+msgstr "경기 종료"
+
+#: translate_sheet.csv:2225
+msgctxt "D"
+msgid "sheet|StrStr.csv|en|f623e75af30e62bbd73d6df5b50bb7b5"
+msgstr "쯔"
+
+#: translate_sheet.csv:2223
+msgctxt "C"
+msgid "sheet|StrStr.csv|en|0d61f8370cad1d412f80b84d143e1257"
+msgstr "울"
+
+#: translate_sheet.csv:2221
+msgctxt "R"
+msgid "sheet|StrStr.csv|en|e1e1d3d40573127e9ee0480caf1283d6"
+msgstr "화"
+
+#: translate_sheet.csv:2219
+msgctxt "A"
+msgid "sheet|StrStr.csv|en|7fc56270e7a70fa81a5935b72eacbe29"
+msgstr "정"
+
+#: translate_sheet.csv:2217
+msgctxt "Yaku Type"
+msgid "sheet|StrStr.csv|en|1c5229bd63bec3726a22d4184fe1d807"
+msgstr "역 종류"
+
+#: translate_sheet.csv:2215
+msgctxt "Starting in:"
+msgid "sheet|StrStr.csv|en|a01ae2c0c66a7b244bc2ddedac59d206"
+msgstr "시작까지 남은 시간:"
+
+#: translate_sheet.csv:2214
+msgctxt "There are no friends to invite"
+msgid "sheet|StrStr.csv|en|f5343e2cd4e50d59d710c397fdfe0ca7"
+msgstr "초대할 친구가 없습니다"
+
+#: translate_sheet.csv:2213
+msgctxt "In a match"
+msgid "sheet|StrStr.csv|en|a5cb7bb62d5116de62c6378cfe35ebd2"
+msgstr "경기중"
+
+#: translate_sheet.csv:2212
+msgctxt "Invited"
+msgid "sheet|StrStr.csv|en|aa3443ffdec7410e60018515486e1279"
+msgstr "초대함"
+
+#: translate_sheet.csv:2211
+msgctxt "Copy the room link and send it to your friends"
+msgid "sheet|StrStr.csv|en|fc5094a0256ebe43eb41b7e575af6fd9"
+msgstr "방 링크를 복사해서 친구에게 보내세요"
+
+#: translate_sheet.csv:2210
+msgctxt "Copy Link"
+msgid "sheet|StrStr.csv|en|78fc13f46174a57416493b60e99777c7"
+msgstr "링크 복사"
+
+#: translate_sheet.csv:2209
+msgctxt "Add AI"
+msgid "sheet|StrStr.csv|en|37a5c6ccbec941e0f7da8cb5e62ddefe"
+msgstr "AI 추가"
+
+#: translate_sheet.csv:2208
+msgctxt "Invite"
+msgid "sheet|StrStr.csv|en|c6a00f137b92ad22c007677fb2113a9f"
+msgstr "초대"
+
+#: translate_sheet.csv:2207
+msgctxt "Riichi Music"
+msgid "sheet|StrStr.csv|en|8ed76aecefc824cb21f9f4790ecaf53c"
+msgstr "리치 음악"
+
+#: translate_sheet.csv:2206
+msgctxt "Event"
+msgid "sheet|StrStr.csv|en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "이벤트"
+
+#: translate_sheet.csv:2205
+msgctxt "Change Outfit"
+msgid "sheet|StrStr.csv|en|da4ec73c94a592b2a1b0409efd9e1e8b"
+msgstr "의상 변경"
+
+#: translate_sheet.csv:2204
+msgctxt "Daily gift attempt:"
+msgid "sheet|StrStr.csv|en|d34cd390688d0c9038850e48d2e23e10"
+msgstr "일간 선물 잔여수:"
+
+#: translate_sheet.csv:2203
+msgctxt "Requires a 5-heart Bond"
+msgid "sheet|StrStr.csv|en|99c5a0029fd64b2be53456f911459c5b"
+msgstr "5하트 인연 필요"
+
+#: translate_sheet.csv:2202
+msgctxt "Bond"
+msgid "sheet|StrStr.csv|en|7a3b691731db2969498907b960183633"
+msgstr "인연"
+
+#: translate_sheet.csv:2201
+msgctxt "Emoji"
+msgid "sheet|StrStr.csv|en|68305e25f5788db069d06c54924af087"
+msgstr "이모티콘"
+
+#: translate_sheet.csv:2200
+msgctxt "Effect"
+msgid "sheet|StrStr.csv|en|a62d22910732d5343689f5117999abfa"
+msgstr "효과"
+
+#: translate_sheet.csv:2199
+msgctxt "Visit"
+msgid "sheet|StrStr.csv|en|5e706a9b7eb9b142a619e4331d6976e6"
+msgstr "방문"
+
+#: translate_sheet.csv:2198
+msgctxt "Summon Stones?"
+msgid "sheet|StrStr.csv|en|fd6e806beffb1c6cb29de4856a60bf04"
+msgstr "기원의 돌?"
+
+#: translate_sheet.csv:2197
+msgctxt "Purchase"
+msgid "sheet|StrStr.csv|en|76b6a47a02685d51794b9fdb095512e5"
+msgstr "구매"
+
+#: translate_sheet.csv:2196
+msgctxt "Do you wish to spend"
+msgid "sheet|StrStr.csv|en|f3e7db0aa0bc19a353990c6a65c1ba50"
+msgstr "사용하시겠습니까"
+
+#: translate_sheet.csv:2195
+msgctxt "Insufficient Summon Stones"
+msgid "sheet|StrStr.csv|en|89c7eb2a6511756493a3d54edb121f69"
+msgstr "기원의 돌 부족"
+
+#: translate_sheet.csv:2194
+msgctxt "Remaining"
+msgid "sheet|StrStr.csv|en|5a1119ecb764165f27cb37b6f50134f2"
+msgstr "잔여"
+
+#: translate_sheet.csv:2193
+msgctxt "Sample 3"
+msgid "sheet|StrStr.csv|en|9e8687c7b37f396e653ec9334d12e5ca"
+msgstr "샘플 3"
+
+#: translate_sheet.csv:2192
+msgctxt "Sample 2"
+msgid "sheet|StrStr.csv|en|786e1405617a0c76f9a9ab76d9858d9e"
+msgstr "샘플 2"
+
+#: translate_sheet.csv:2191
+msgctxt "Sample 1"
+msgid "sheet|StrStr.csv|en|9060b4569344c3f678516a751154ccec"
+msgstr "샘플 1"
+
+#: translate_sheet.csv:2190
+msgctxt "Biography:"
+msgid "sheet|StrStr.csv|en|4859bddf1003cb383bc6b220a07218aa"
+msgstr "약력:"
+
+#: translate_sheet.csv:2189
+msgctxt "Hobby:"
+msgid "sheet|StrStr.csv|en|bc94dc5a26d1a278aa125811045da9cc"
+msgstr "취미:"
+
+#: translate_sheet.csv:2188
+msgctxt "CV:"
+msgid "sheet|StrStr.csv|en|42d6dd398ca223a660996ed83d84dd8d"
+msgstr "CV:"
+
+#: translate_sheet.csv:2187
+msgctxt "Blood Type:"
+msgid "sheet|StrStr.csv|en|96fa3614d73d288f3e8a8d6dddff18e4"
+msgstr "혈액형:"
+
+#: translate_sheet.csv:2186
+msgctxt "Age:"
+msgid "sheet|StrStr.csv|en|25235196c2744e9050067d45587d6a8b"
+msgstr "나이:"
+
+#: translate_sheet.csv:2185
+msgctxt "Birthday:"
+msgid "sheet|StrStr.csv|en|39d595f1a4ce984b95e9b52821b62177"
+msgstr "생일:"
+
+#: translate_sheet.csv:2184
+msgctxt "Height:"
+msgid "sheet|StrStr.csv|en|e933dc24fb245d863a43b4fefe9b45f5"
+msgstr "신장:"
+
+#: translate_sheet.csv:2183
+msgctxt "Character Info"
+msgid "sheet|StrStr.csv|en|a4d02d0457516e98af7e84b5898de22a"
+msgstr "캐릭터 정보"
+
+#: translate_sheet.csv:2182
+msgctxt ""
+"You will get at least 1 purple gift when you perform a 10-time Summon."
+msgid "sheet|StrStr.csv|en|9394111c2f93ec93105e57bff93b7359"
+msgstr "10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다."
+
+#: translate_sheet.csv:2181
+msgctxt "Chance to get gifts: 80%"
+msgid "sheet|StrStr.csv|en|da3a98354cebddda1f45c5555eb2a640"
+msgstr "선물 획득 확률: 80%"
+
+#: translate_sheet.csv:2180
+msgctxt "Chance to get decorations: 15%"
+msgid "sheet|StrStr.csv|en|463f53cda2cd30800f4267383bca9311"
+msgstr "장식 획득 확률: 15%"
+
+#: translate_sheet.csv:2179
+msgctxt "Duplicate characters will be converted to Wishing Stones"
+msgid "sheet|StrStr.csv|en|737618c1f8cd09f9d4c1c6abf2721269"
+msgstr "중복된 캐릭터는 기도의 돌로 전환됩니다"
+
+#: translate_sheet.csv:2178
+msgctxt "Chance to get characters: 5%"
+msgid "sheet|StrStr.csv|en|533dd73919f0c6b513351628b8243cef"
+msgstr "캐릭터 획득 확률: 5%"
+
+#: translate_sheet.csv:2176
+msgctxt "Each time you summon, you can get 1"
+msgid "sheet|StrStr.csv|en|4bff031238548fac07b2443c6deba794"
+msgstr "당신은 1번 기원할 때 마다 1개의 신앙("
+
+#: translate_sheet.csv:2175
+msgctxt "Select the character/item you would like to redeem"
+msgid "sheet|StrStr.csv|en|19f3c26d730dccfc3cec60def81e119e"
+msgstr "교환할 캐릭터/아이템을 선택하세요"
+
+#: translate_sheet.csv:2174
+msgctxt "Overview"
+msgid "sheet|StrStr.csv|en|3b878279a04dc47d60932cb294d96259"
+msgstr "요약"
+
+#: translate_sheet.csv:2173
+msgctxt "Chance to get characters, decorations or gifts"
+msgid "sheet|StrStr.csv|en|c620150db889c75f43b8af67aedc642f"
+msgstr "캐릭터, 장식, 선물을 받을 수 있음"
+
+#: translate_sheet.csv:2172
+msgctxt "x10"
+msgid "sheet|StrStr.csv|en|2040a28d572e0889b2b34e9c66814f57"
+msgstr "x10"
+
+#: translate_sheet.csv:2171
+msgctxt "Summon Once"
+msgid "sheet|StrStr.csv|en|2a8ba22dd9ea4ed19216c8949d1e19a2"
+msgstr "1회 기원"
+
+#: translate_sheet.csv:2170
+msgctxt "Get"
+msgid "sheet|StrStr.csv|en|c55582518cba2c464f29f5bae1c68def"
+msgstr "받기"
+
+#: translate_sheet.csv:2169
+msgctxt "Summon 10 Times"
+msgid "sheet|StrStr.csv|en|a90a723e5e0a2a55af1842730b439df8"
+msgstr "10회 기원"
+
+#: translate_sheet.csv:2168
+msgctxt "Your Title Book is empty."
+msgid "sheet|StrStr.csv|en|729d312dbe323d4c32f3aaa22ca95fbf"
+msgstr "타이틀북이 비어있습니다."
+
+#: translate_sheet.csv:2167
+msgctxt "Dorm"
+msgid "sheet|StrStr.csv|en|a40462b485f8a3349866af9494b5066c"
+msgstr "숙소"
+
+#: translate_sheet.csv:2166
+msgctxt "Daily Prayer"
+msgid "sheet|StrStr.csv|en|d4f9f37f8a23091f6154929bd14cb922"
+msgstr "일간 기도"
+
+#: translate_sheet.csv:2165
+msgctxt "-1"
+msgid "sheet|StrStr.csv|en|6bb61e3b7bce0931da574d19d1d82c88"
+msgstr "-1"
+
+#: translate_sheet.csv:2164
+msgctxt "+1"
+msgid "sheet|StrStr.csv|en|7015440590904d38e35615ff0672d21c"
+msgstr "+1"
+
+#: translate_sheet.csv:2163
+msgctxt "+10"
+msgid "sheet|StrStr.csv|en|b10fd4fab1811c1a9430f4cc62210a81"
+msgstr "+10"
+
+#: translate_sheet.csv:2162
+msgctxt "-10"
+msgid "sheet|StrStr.csv|en|1b0fd9efa5279c4203b7c70233f86dbf"
+msgstr "-10"
+
+#: translate_sheet.csv:2161
+msgctxt "Refreshes once every month"
+msgid "sheet|StrStr.csv|en|d5126fa212bba8cda8b80bd7311a9ab8"
+msgstr "매달 한번 갱신됩니다"
+
+#: translate_sheet.csv:2160
+msgctxt "Price"
+msgid "sheet|StrStr.csv|en|3601146c4e948c32b6424d2c0a7f0118"
+msgstr "가격"
+
+#: translate_sheet.csv:2159
+msgctxt "Star Dust can be acquired by donating Gifts"
+msgid "sheet|StrStr.csv|en|26270c0a87f60e37b270d339df36e1c4"
+msgstr "별가루는 선물을 기부하여 얻을 수 있습니다"
+
+#: translate_sheet.csv:2158
+msgctxt "Duplicate decorations will be converted into Star Stones"
+msgid "sheet|StrStr.csv|en|47958c936f775228a1c5e1232d6f67b9"
+msgstr "중복된 장식은 별의 돌로 전환됩니다"
+
+#: translate_sheet.csv:2157
+msgctxt "Duplicate characters will be converted into Wishing Stones"
+msgid "sheet|StrStr.csv|en|4faad20f7a60e8f1f2abb6e0149672c4"
+msgstr "중복된 캐릭터는 기도의 돌로 전환됩니다"
+
+#: translate_sheet.csv:2156
+msgctxt "Can`t refresh anymore today"
+msgid "sheet|StrStr.csv|en|ca2ed4098e24e77076b063f0cca420a7"
+msgstr "오늘은 더 이상 새로고침 할 수 없습니다"
+
+#: translate_sheet.csv:2155
+msgctxt "Refreshes at 5 A.M."
+msgid "sheet|StrStr.csv|en|5a487e90a92f38c0c7e69ef2239ef900"
+msgstr "오전 5시에 새로고침."
+
+#: translate_sheet.csv:2154
+msgctxt "Fortune"
+msgid "sheet|StrStr.csv|en|07f3fb85953bf41d154cba88825ee748"
+msgstr "소원"
+
+#: translate_sheet.csv:2153
+msgctxt "Complete the payment by scanning the QR Code"
+msgid "sheet|StrStr.csv|en|2d18a9af489852fa5b4e44109d6b8652"
+msgstr "QR 코드를 스캔하여 결제 완료"
+
+#: translate_sheet.csv:2152
+msgctxt "Please open"
+msgid "sheet|StrStr.csv|en|41ba05317195ea7c18681cae6a3e94b7"
+msgstr "열어주세요"
+
+#: translate_sheet.csv:2151
+msgctxt "Alipay QR Code"
+msgid "sheet|StrStr.csv|en|bea734e34c3d945fabc13f3c0017b33f"
+msgstr "Alipay QR 코드"
+
+#: translate_sheet.csv:2150
+msgctxt ""
+"Should you have any payment-related questions, please contact QQ: 951307369"
+msgid "sheet|StrStr.csv|en|87ca009ff8e6668e9c5d4336c3cccadd"
+msgstr "결제 관련 질문이 있으신 경우, QQ: 951307369로 문의해주세요"
+
+#: translate_sheet.csv:2146
+msgctxt "Total Price"
+msgid "sheet|StrStr.csv|en|f3547ae5e06426d87312eff7dda775aa"
+msgstr "총 가격"
+
+#: translate_sheet.csv:2145
+msgctxt "Buy"
+msgid "sheet|StrStr.csv|en|831a28f1e8df07c553fcd59546465d13"
+msgstr "구매"
+
+#: translate_sheet.csv:2144
+msgctxt "Rewards"
+msgid "sheet|StrStr.csv|en|0d1c608c1498367815da8105e26b0a9e"
+msgstr "보상"
+
+#: translate_sheet.csv:2143
+msgctxt "Current"
+msgid "sheet|StrStr.csv|en|222a267cc5778206b253be35ee3ddab5"
+msgstr "현재"
+
+#: translate_sheet.csv:2142
+msgctxt "Title"
+msgid "sheet|StrStr.csv|en|b78a3223503896721cca1303f776159b"
+msgstr "타이틀"
+
+#: translate_sheet.csv:2141
+msgctxt "Summon Shop"
+msgid "sheet|StrStr.csv|en|fc8de1802e7c809e119d1fd235cf9f22"
+msgstr "기원 상점"
+
+#: translate_sheet.csv:2140
+msgctxt "Star"
+msgid "sheet|StrStr.csv|en|26f93e6e68e28a698377e941cb59f29a"
+msgstr "별"
+
+#: translate_sheet.csv:2139
+msgctxt "Wishing"
+msgid "sheet|StrStr.csv|en|a8ca203fa7ca6821594becc9e31d6f5c"
+msgstr "기도"
+
+#: translate_sheet.csv:2138
+msgctxt "Misc"
+msgid "sheet|StrStr.csv|en|74248c725e00bf9fe04df4e35b249a19"
+msgstr "잡화"
+
+#: translate_sheet.csv:2137
+msgctxt "Shop"
+msgid "sheet|StrStr.csv|en|9f82518d468b9fee614fcc92f76bb163"
+msgstr "상점"
+
+#: translate_sheet.csv:2136
+msgctxt "pt"
+msgid "sheet|StrStr.csv|en|fc9fdf084e290f26a270390dc49061a2"
+msgstr "pt"
+
+#: translate_sheet.csv:2135
+msgctxt "Title Book"
+msgid "sheet|StrStr.csv|en|7efb8809bf3fff186bc56fcf7363a1a8"
+msgstr "타이틀북"
+
+#: translate_sheet.csv:2134
+msgctxt "Matchmaking"
+msgid "sheet|StrStr.csv|en|829645bba6da17148d7951791eab72e9"
+msgstr "경기 찾는 중"
+
+#: translate_sheet.csv:2133
+msgctxt "Match is ready"
+msgid "sheet|StrStr.csv|en|56dcc00d2ff57c26e5a0457e92219803"
+msgstr "경기 준비됨"
+
+#: translate_sheet.csv:2132
+msgctxt "Show friends only"
+msgid "sheet|StrStr.csv|en|eed696c231d2c6ac2a3d12c940fb7038"
+msgstr "친구만 보기"
+
+#: translate_sheet.csv:2131
+msgctxt "No game info"
+msgid "sheet|StrStr.csv|en|1c96aa33d099b0774c5446ecdf3d8308"
+msgstr "게임 정보 없음"
+
+#: translate_sheet.csv:2128
+msgctxt "Do you want to start a tutorial of Riichi Mahjong?"
+msgid "sheet|StrStr.csv|en|58382c114cca482db6362df43bb5391f"
+msgstr "리치 마작 튜토리얼을 시작할까요?"
+
+#: translate_sheet.csv:2127
+msgctxt "Name"
+msgid "sheet|StrStr.csv|en|49ee3087348e8d44e1feda1917443987"
+msgstr "이름"
+
+#: translate_sheet.csv:2126
+msgctxt "Welcome to Mahjong Soul!"
+msgid "sheet|StrStr.csv|en|e1ae741d4f610a048f91b12f89889365"
+msgstr "작혼에 오신 것을 환영합니다!"
+
+#: translate_sheet.csv:2125
+msgctxt "Name Your Character"
+msgid "sheet|StrStr.csv|en|26251ddb3c388b48d794e88e4518e60b"
+msgstr "캐릭터 이름"
+
+#: translate_sheet.csv:2124
+msgctxt "Criteria not met"
+msgid "sheet|StrStr.csv|en|c3f166eea25dbccd101c8305a2464ab9"
+msgstr "기준 미달"
+
+#: translate_sheet.csv:2123
+msgctxt "Enter Log Number"
+msgid "sheet|StrStr.csv|en|cec8c7186aa3fc2419f6f0c8956fd991"
+msgstr "로그 번호 입력"
+
+#: translate_sheet.csv:2122
+msgctxt "Rule Details"
+msgid "sheet|StrStr.csv|en|f920c4f4bc316bbfc9acbe34355d0250"
+msgstr "상세 규칙"
+
+#: translate_sheet.csv:2121
+msgctxt "Other Logs"
+msgid "sheet|StrStr.csv|en|408ff26b8aee0792d1c4611369b00958"
+msgstr "기타 로그"
+
+#: translate_sheet.csv:2120
+msgctxt "Share"
+msgid "sheet|StrStr.csv|en|5a95a425f74314a96f13a2f136992178"
+msgstr "공유"
+
+#: translate_sheet.csv:2119
+msgctxt "Match Time"
+msgid "sheet|StrStr.csv|en|debe24fee87d46c99a61a0a030035cad"
+msgstr "경기 일시"
+
+#: translate_sheet.csv:2118
+msgctxt "Set as Focus"
+msgid "sheet|StrStr.csv|en|efd7c47754250f4f92505daf8bf5763a"
+msgstr "포커스 지정"
+
+#: translate_sheet.csv:2117
+msgctxt "Details"
+msgid "sheet|StrStr.csv|en|3ec365dd533ddb7ef3d1c111186ce872"
+msgstr "상세"
+
+#: translate_sheet.csv:2116
+msgctxt "Matches Played:"
+msgid "sheet|StrStr.csv|en|13b11bdca3f230dc9b9d1602d158ddc8"
+msgstr "플레이한 경기:"
+
+#: translate_sheet.csv:2115
+msgctxt "Last 5 Matches Ranks:"
+msgid "sheet|StrStr.csv|en|e6c1e577aab02fda69e2516ccae4e0bd"
+msgstr "최근 5경기:"
+
+#: translate_sheet.csv:2114
+msgctxt "My Ranking"
+msgid "sheet|StrStr.csv|en|10e97abc231e4aeaac0e79cb7a8afdea"
+msgstr "내 순위"
+
+#: translate_sheet.csv:2113
+msgctxt "Rules"
+msgid "sheet|StrStr.csv|en|1f4da964f8eab62e96e8cfe406e44364"
+msgstr "규칙"
+
+#: translate_sheet.csv:2112
+msgctxt "Time"
+msgid "sheet|StrStr.csv|en|a76d4ef5f3f6a672bbfab2865563e530"
+msgstr "일시"
+
+#: translate_sheet.csv:2111
+msgctxt "Notice"
+msgid "sheet|StrStr.csv|en|24efa7ee4511563b16144f39706d594f"
+msgstr "공지"
+
+#: translate_sheet.csv:2110
+msgctxt "Chat"
+msgid "sheet|StrStr.csv|en|55dcdf017b51fc96f7b5f9d63013b95d"
+msgstr "채팅"
+
+#: translate_sheet.csv:2109
+msgctxt "GM message"
+msgid "sheet|StrStr.csv|en|ae26ef4546f729b5dfea10439aca620a"
+msgstr "GM 메시지"
+
+#: translate_sheet.csv:2108
+msgctxt "Log"
+msgid "sheet|StrStr.csv|en|ce0be71e33226e4c1db2bcea5959f16b"
+msgstr "로그"
+
+#: translate_sheet.csv:2107
+msgctxt "Home"
+msgid "sheet|StrStr.csv|en|8cf04a9734132302f96da8e113e80ce5"
+msgstr "홈"
+
+#: translate_sheet.csv:2106
+msgctxt "Tournament"
+msgid "sheet|StrStr.csv|en|4f4dc29df9d29cbec61a725ff3ce6e72"
+msgstr "대회"
+
+#: translate_sheet.csv:2105
+msgctxt "Enter"
+msgid "sheet|StrStr.csv|en|f1851d5600eae616ee802a31ac74701b"
+msgstr "입장"
+
+#: translate_sheet.csv:2103
+msgctxt "No tournaments"
+msgid "sheet|StrStr.csv|en|0870892568966187c9529cbe50078400"
+msgstr "대회 없음"
+
+#: translate_sheet.csv:2102
+msgctxt "Enter Tournament ID"
+msgid "sheet|StrStr.csv|en|bb21f3b9e2da2a9f035b623d2437b606"
+msgstr "대회 ID 입력"
+
+#: translate_sheet.csv:2101
+msgctxt "Ended"
+msgid "sheet|StrStr.csv|en|0157fbb99be9622bdaa6e544270c0622"
+msgstr "종료됨"
+
+#: translate_sheet.csv:2100
+msgctxt "End time:"
+msgid "sheet|StrStr.csv|en|bb573f98749f6a3b2f7d6dea0fa37125"
+msgstr "종료 일시:"
+
+#: translate_sheet.csv:2099
+msgctxt "In progress"
+msgid "sheet|StrStr.csv|en|b6e0b0c90cfbddfe767f137f8066d1df"
+msgstr "진행중"
+
+#: translate_sheet.csv:2098
+msgctxt "Start time:"
+msgid "sheet|StrStr.csv|en|ac9e921f7afa253f51f103697ecead45"
+msgstr "시작 일시:"
+
+#: translate_sheet.csv:2097
+msgctxt "Not started"
+msgid "sheet|StrStr.csv|en|ace1d137a73af7e93d57d9896c1c4fbb"
+msgstr "시작되지 않음"
+
+#: translate_sheet.csv:2096
+msgctxt "Followed only"
+msgid "sheet|StrStr.csv|en|aecd848c41f76d9c73c1460981827b49"
+msgstr "팔로우 한정"
+
+#: translate_sheet.csv:2095
+msgctxt "Lobby"
+msgid "sheet|StrStr.csv|en|0d4c3d1b3f0c14e4aae9e9598ed745db"
+msgstr "로비"
+
+#: translate_sheet.csv:2094
+msgctxt "Tournaments"
+msgid "sheet|StrStr.csv|en|c50142c5fc8cb52854506e0d7cce438c"
+msgstr "대회"
+
+#: translate_sheet.csv:2093
+msgctxt "Hot"
+msgid "sheet|StrStr.csv|en|4194726ee334e1085d93e002837b73f0"
+msgstr "인기"
+
+#: translate_sheet.csv:2092
+msgctxt "Free"
+msgid "sheet|StrStr.csv|en|b24ce0cd392a5b0b8dedc66c25213594"
+msgstr "자유"
+
+#: translate_sheet.csv:2091
+msgctxt "Reserved"
+msgid "sheet|StrStr.csv|en|942d4e37dd5607ab68e54755540d4a47"
+msgstr "예약됨"
+
+#: translate_sheet.csv:2090
+msgctxt "Online:"
+msgid "sheet|StrStr.csv|en|e0e52e4f1269ccbdeb93c62d50660f1a"
+msgstr "온라인:"
+
+#: translate_sheet.csv:2089
+msgctxt "Saint & Above"
+msgid "sheet|StrStr.csv|en|3aaea4e72b1731de64365fb594d699ba"
+msgstr "작성 이상"
+
+#: translate_sheet.csv:2088
+msgctxt "Master & Saint"
+msgid "sheet|StrStr.csv|en|c843354e2009718fb74f16226aadbed0"
+msgstr "작호 & 작성"
+
+#: translate_sheet.csv:2087
+msgctxt "Expert & Master"
+msgid "sheet|StrStr.csv|en|e4b7d855e6bc66cc577775c269715869"
+msgstr "작걸 & 작호"
+
+#: translate_sheet.csv:2086
+msgctxt "Adept & Expert"
+msgid "sheet|StrStr.csv|en|9a2397b138a4424df9e9178e3772eef0"
+msgstr "작사 & 작걸"
+
+#: translate_sheet.csv:2085
+msgctxt "Novice & Adept"
+msgid "sheet|StrStr.csv|en|82b2fc012beca3315ec7c1a3858d8220"
+msgstr "초심자 & 작사"
+
+#: translate_sheet.csv:2084
+msgctxt "Rank Description"
+msgid "sheet|StrStr.csv|en|928af9b86f401310890d9a63ca0c5785"
+msgstr "등급 설명"
+
+#: translate_sheet.csv:2082
+msgctxt "My ID:"
+msgid "sheet|StrStr.csv|en|a9495de35a0a16e2f92581446083b67a"
+msgstr "내 ID:"
+
+#: translate_sheet.csv:2081
+msgctxt "No friend application"
+msgid "sheet|StrStr.csv|en|96973c1b0b1254ea89b39229426439b0"
+msgstr "친구 애플리케이션 없음"
+
+#: translate_sheet.csv:2080
+msgctxt "Reject"
+msgid "sheet|StrStr.csv|en|d98ac12774fca5c3cbaffe276840c55f"
+msgstr "거절"
+
+#: translate_sheet.csv:2079
+msgctxt "Friends:"
+msgid "sheet|StrStr.csv|en|7e3b8bd7153886244dffa6182c07f11e"
+msgstr "친구:"
+
+#: translate_sheet.csv:2078
+msgctxt "Your Friend List is Empty"
+msgid "sheet|StrStr.csv|en|27ffb87bb385b77fe7bb0bdaca0aca9b"
+msgstr "친구 목록 비어있음"
+
+#: translate_sheet.csv:2077
+msgctxt "Watch"
+msgid "sheet|StrStr.csv|en|f20658650d987d31063b593c05980397"
+msgstr "관전"
+
+#: translate_sheet.csv:2076
+msgctxt "View"
+msgid "sheet|StrStr.csv|en|4351cfebe4b61d8aa5efa1d020710005"
+msgstr "보기"
+
+#: translate_sheet.csv:2075
+msgctxt "Applied"
+msgid "sheet|StrStr.csv|en|733d43480c8589b1368e5def6b480415"
+msgstr "신청됨"
+
+#: translate_sheet.csv:2074
+msgctxt "Search"
+msgid "sheet|StrStr.csv|en|13348442cc6a27032d2b4aa28b75a5d3"
+msgstr "검색"
+
+#: translate_sheet.csv:2073
+msgctxt "Application"
+msgid "sheet|StrStr.csv|en|e498749f3c42246d50b15c81c101d988"
+msgstr "애플리케이션"
+
+#: translate_sheet.csv:2072
+msgctxt "Friend List"
+msgid "sheet|StrStr.csv|en|a6875f7a82df6bf18c4d84b5ae06f4db"
+msgstr "친구 목록"
+
+#: translate_sheet.csv:2071
+msgctxt "Friends"
+msgid "sheet|StrStr.csv|en|3d594614f445f6b00014e9b77730b833"
+msgstr "친구"
+
+#: translate_sheet.csv:2070
+msgctxt "Create Room"
+msgid "sheet|StrStr.csv|en|8836494af16cb5b2ca0f954197610e27"
+msgstr "방 만들기"
+
+#: translate_sheet.csv:2069
+msgctxt "Normal"
+msgid "sheet|StrStr.csv|en|960b44c579bc2f6818d2daaf9e4c16f0"
+msgstr "일반"
+
+#: translate_sheet.csv:2068
+msgctxt "Easy"
+msgid "sheet|StrStr.csv|en|7f943921724d63dc0ac9c6febf99fa88"
+msgstr "쉬움"
+
+#: translate_sheet.csv:2067
+msgctxt "On"
+msgid "sheet|StrStr.csv|en|521c36a31c2762741cf0f8890cbe05e3"
+msgstr "켜기"
+
+#: translate_sheet.csv:2066
+msgctxt "Off"
+msgid "sheet|StrStr.csv|en|d15305d7a4e34e02489c74a5ef542f36"
+msgstr "끄기"
+
+#: translate_sheet.csv:2065
+msgctxt ""
+"At ALL LAST, if the 1st-ranked player has less points than this value, the "
+"game will extend into South/West Round"
+msgid "sheet|StrStr.csv|en|a11aada911152ba9772ec78bdfc07fbf"
+msgstr "최종국에서 1위 플레이어가 이 값보다 점수가 적으면 경기는 남/서장으로 연장됩니다"
+
+#: translate_sheet.csv:2064
+msgctxt "Minimum points 100, maximum points 200000."
+msgid "sheet|StrStr.csv|en|d35089423b9ed0d7a800bff425534a0e"
+msgstr "최소 점수 100, 최대 점수 200000."
+
+#: translate_sheet.csv:2063
+msgctxt "Minimum points 100, maximum points 200000"
+msgid "sheet|StrStr.csv|en|c3b29743395432fd9d502b3e1a533472"
+msgstr "최소 점수 100, 최대 점수 200000"
+
+#: translate_sheet.csv:2062
+msgctxt "60+0s"
+msgid "sheet|StrStr.csv|en|40fb122fd5a980b15d1031b739d4c9d3"
+msgstr "60+0s"
+
+#: translate_sheet.csv:2061
+msgctxt "5+20s"
+msgid "sheet|StrStr.csv|en|5d1a8e4a0f045d819fec464acbf2b355"
+msgstr "5+20s"
+
+#: translate_sheet.csv:2060
+msgctxt "5+10s"
+msgid "sheet|StrStr.csv|en|63cf869ce2fafd725c8885914ef89ced"
+msgstr "5+10s"
+
+#: translate_sheet.csv:2059
+msgctxt "3+5s"
+msgid "sheet|StrStr.csv|en|ead53951331b9d5bfa3060af65b43eb4"
+msgstr "3+5s"
+
+#: translate_sheet.csv:2058
+msgctxt "Vs AI"
+msgid "sheet|StrStr.csv|en|89244afde7c6df6a36f1c11a3d00fd5e"
+msgstr "Vs AI"
+
+#: translate_sheet.csv:2057
+msgctxt "Two-Wind Match"
+msgid "sheet|StrStr.csv|en|c413631134051454f8ed23b802ddc5e9"
+msgstr "반장전"
+
+#: translate_sheet.csv:2056
+msgctxt "East Only"
+msgid "sheet|StrStr.csv|en|b2243a1a6c75339cf745e93838e6c4d0"
+msgstr "동풍전"
+
+#: translate_sheet.csv:2055
+msgctxt "1 Game"
+msgid "sheet|StrStr.csv|en|64741563cf82418d5b5f9d01c2848f28"
+msgstr "단판"
+
+#: translate_sheet.csv:2054
+msgctxt "day(s)"
+msgid "sheet|StrStr.csv|en|225e75c29d32392d311f5dc94c792384"
+msgstr "일"
+
+#: translate_sheet.csv:2053
+msgctxt "Your name can be changed after:"
+msgid "sheet|StrStr.csv|en|41ff90e432b4c02c510e845fbbebe329"
+msgstr "변경될 이름은 다음과 같습니다:"
+
+#: translate_sheet.csv:2052
+msgctxt "You can change your name once every 30 days."
+msgid "sheet|StrStr.csv|en|74f071fc1ef708958dbc6f49a1c4988c"
+msgstr "30일에 한번 이름을 변경할 수 있습니다."
+
+#: translate_sheet.csv:2051
+msgctxt "x1"
+msgid "sheet|StrStr.csv|en|6dbf9ac2da09ee1d3debf5a51873ec6d"
+msgstr "x1"
+
+#: translate_sheet.csv:2050
+msgctxt "Require"
+msgid "sheet|StrStr.csv|en|a942541eeaaaa1b2ab8cf0e43b5a03f9"
+msgstr "필요"
+
+#: translate_sheet.csv:2049
+msgctxt "Name (1-14 chars)"
+msgid "sheet|StrStr.csv|en|3f54971e0a61cfb7ac68a3af2cf7c3ae"
+msgstr "이름 (1-14자)"
+
+#: translate_sheet.csv:2048
+msgctxt "Change Name"
+msgid "sheet|StrStr.csv|en|23a0ca84a7fd64eee8248bd1dfc77185"
+msgstr "이름 변경"
+
+#: translate_sheet.csv:2047
+msgctxt "Inventory"
+msgid "sheet|StrStr.csv|en|4d604dd8f008145471dc845683399189"
+msgstr "창고"
+
+#: translate_sheet.csv:2046
+msgctxt "Preview"
+msgid "sheet|StrStr.csv|en|31fde7b05ac8952dacf4af8a704074ec"
+msgstr "미리보기"
+
+#: translate_sheet.csv:2045
+msgctxt "Tile Back"
+msgid "sheet|StrStr.csv|en|9c39b68c827792508acd00cf1505bd8f"
+msgstr "마작패"
+
+#: translate_sheet.csv:2044
+msgctxt "You can donate gifts to get Star Dust"
+msgid "sheet|StrStr.csv|en|d8447d60a21a8cf6b6140b389fd5a1f5"
+msgstr "선물 기부를 통해 별가루를 획득할 수 있습니다"
+
+#: translate_sheet.csv:2043
+msgctxt "Select the gift you would like to donate"
+msgid "sheet|StrStr.csv|en|9c01347e917bb526868c680f13275e78"
+msgstr "기부하고자 하는 선물을 선택하세요"
+
+#: translate_sheet.csv:2042
+msgctxt "Back"
+msgid "sheet|StrStr.csv|en|0557fa923dcee4d0f86b1409f5c2167f"
+msgstr "뒤로가기"
+
+#: translate_sheet.csv:2041
+msgctxt "Deselect All"
+msgid "sheet|StrStr.csv|en|ddda55b80f65cae4157306794a168c37"
+msgstr "모두 선택 해제"
+
+#: translate_sheet.csv:2040
+msgctxt "Donate"
+msgid "sheet|StrStr.csv|en|0584e445d656b83b431227bb80ff0c30"
+msgstr "기부"
+
+#: translate_sheet.csv:2039
+msgctxt "Tablecloth"
+msgid "sheet|StrStr.csv|en|33cc49b9c2884392d7cc81c76defa563"
+msgstr "테이블보"
+
+#: translate_sheet.csv:2038
+msgctxt "Decoration"
+msgid "sheet|StrStr.csv|en|24365794120e03b807acbd05c0a48db9"
+msgstr "장식"
+
+#: translate_sheet.csv:2037
+msgctxt "Gift"
+msgid "sheet|StrStr.csv|en|0d9175fe89fb80d815e7d03698b6e83a"
+msgstr "선물"
+
+#: translate_sheet.csv:2036
+msgctxt "Item"
+msgid "sheet|StrStr.csv|en|7d74f3b92b19da5e606d737d339a9679"
+msgstr "아이템"
+
+#: translate_sheet.csv:2034
+msgctxt "Clear"
+msgid "sheet|StrStr.csv|en|dc30bc0c7914db5918da4263fce93ad2"
+msgstr "삭제"
+
+#: translate_sheet.csv:2028
+msgctxt "Daily quest is updated at 5 A.M. everyday"
+msgid "sheet|StrStr.csv|en|89428d1ac3df98c14c6dcea83a84ecc0"
+msgstr "일일 퀘스트는 매일 오전 5시에 업데이트됩니다"
+
+#: translate_sheet.csv:2027
+msgctxt "Collect"
+msgid "sheet|StrStr.csv|en|e7ca851922b13f555127b04b70435ca9"
+msgstr "수집"
+
+#: translate_sheet.csv:2026
+msgctxt "You can earn Red Lanterns each time you compete a particular Yaku"
+msgid "sheet|StrStr.csv|en|05ad6351f0c7dc3a837b5ff4dddb5319"
+msgstr "특정 역을 완성할 때 마다 붉은 초롱을 얻을 수 있습니다"
+
+#: translate_sheet.csv:2025
+msgctxt "Redeem"
+msgid "sheet|StrStr.csv|en|81ed4dcb851fefbbbc791eeef4cd97a2"
+msgstr "교환"
+
+#: translate_sheet.csv:2024
+msgctxt "Claimed"
+msgid "sheet|StrStr.csv|en|9d8b15ef78357692564f5aced0c68eaf"
+msgstr "받음"
+
+#: translate_sheet.csv:2023
+msgctxt "coppers"
+msgid "sheet|StrStr.csv|en|3646702fee6ab6f4a49ba7aa30fb82d1"
+msgstr "동전"
+
+#: translate_sheet.csv:2022
+msgctxt "No Event"
+msgid "sheet|StrStr.csv|en|c02593f0568d2db4ad0d3ad3270115a6"
+msgstr "이벤트 없음"
+
+#: translate_sheet.csv:2021
+msgctxt "No Mail"
+msgid "sheet|StrStr.csv|en|9739016a72888dd18b3c32a2c703f456"
+msgstr "편지 없음"
+
+#: translate_sheet.csv:2020
+msgctxt "Delete"
+msgid "sheet|StrStr.csv|en|f2a6c498fb90ee345d997f888fce3b18"
+msgstr "삭제"
+
+#: translate_sheet.csv:2019
+msgctxt "Claim"
+msgid "sheet|StrStr.csv|en|803138044f8a43e9dcb5a76722ee06d0"
+msgstr "받기"
+
+#: translate_sheet.csv:2018
+msgctxt ""
+"New update available in iOS. Please download from the official website."
+msgid "sheet|StrStr.csv|en|1c71a8231a36a83ac77afa778ce07885"
+msgstr "iOS에서 사용할 수 있는 새 업데이트가 있습니다. 공식 웹 사이트에서 다운로드하십시오."
+
+#: translate_sheet.csv:2017
+msgctxt "OK"
+msgid "sheet|StrStr.csv|en|e0aa021e21dddbd6d8cecec71e9cf564"
+msgstr "OK"
+
+#: translate_sheet.csv:2016
+msgctxt "Connecting to server"
+msgid "sheet|StrStr.csv|en|b0f9aa1e436bfb153d799923ec1d792b"
+msgstr "서버에 연결하는 중"
+
+#: translate_sheet.csv:2015
+msgctxt "Please choose your server"
+msgid "sheet|StrStr.csv|en|d7bf281b4b3d8f321848fd9682b23a1f"
+msgstr "서버를 선택하세요"
+
+#: translate_sheet.csv:2014
+msgctxt "“Majsoul License & Service Agreement”"
+msgid "sheet|StrStr.csv|en|e518e41f0288328e2ef5f4e7b6bebc7e"
+msgstr "“작혼 라이센스 및 서비스 계약”"
+
+#: translate_sheet.csv:2013
+msgctxt "Enter password again"
+msgid "sheet|StrStr.csv|en|76638a966d332c9a873c0b70e6a3baa2"
+msgstr "비밀번호를 다시 입력하세요"
+
+#: translate_sheet.csv:2012
+msgctxt "Password (6-20 characters)"
+msgid "sheet|StrStr.csv|en|399fb59b12b0986a106dcb7cf929feb8"
+msgstr "비밀번호 (6-20자)"
+
+#: translate_sheet.csv:2011
+msgctxt "Available"
+msgid "sheet|StrStr.csv|en|78945de8de090e90045d299651a68a9b"
+msgstr "사용가능"
+
+#: translate_sheet.csv:2010
+msgctxt "Unavailable"
+msgid "sheet|StrStr.csv|en|453e6aa38d87b28ccae545967c53004f"
+msgstr "사용 불가"
+
+#: translate_sheet.csv:2009
+msgctxt "Register using social network account"
+msgid "sheet|StrStr.csv|en|18e47fa7322e6fc3f45a7dd2d25e7cb6"
+msgstr "소셜 네트워크 계정을 사용하여 등록"
+
+#: translate_sheet.csv:2008
+msgctxt "Register"
+msgid "sheet|StrStr.csv|en|0ba7583639a274c434bbe6ef797115a4"
+msgstr "등록"
+
+#: translate_sheet.csv:2007
+msgctxt "Logging in"
+msgid "sheet|StrStr.csv|en|6596e863cf1d0baa0dbccff0e9088e4a"
+msgstr "로그인 중"
+
+#: translate_sheet.csv:2006
+msgctxt "We recommend Chrome browser"
+msgid "sheet|StrStr.csv|en|cdfb84808879f9845ce441ceaed07ed7"
+msgstr "크롬 브라우저를 추천합니다"
+
+#: translate_sheet.csv:2005
+msgctxt "Switch"
+msgid "sheet|StrStr.csv|en|bbc155fb2b111bf61c4f5ff892915e6b"
+msgstr "전환"
+
+#: translate_sheet.csv:2004
+msgctxt "Forgot Password"
+msgid "sheet|StrStr.csv|en|9ec54ec336b65da6179cf750de33ecd7"
+msgstr "비밀번호를 잊어버림"
+
+#: translate_sheet.csv:2003
+msgctxt "Register Now"
+msgid "sheet|StrStr.csv|en|77096b231f99bf93ef4a09ad575adc59"
+msgstr "지금 등록"
+
+#: translate_sheet.csv:2002
+msgctxt "Login with:"
+msgid "sheet|StrStr.csv|en|65c6f152e51d208800f5149d5eaf6a4a"
+msgstr "로그인 :"
+
+#: translate_sheet.csv:2001
+msgctxt "Password"
+msgid "sheet|StrStr.csv|en|dc647eb65e6711e155375218212b3964"
+msgstr "비밀번호"
+
+#: translate_sheet.csv:2000
+msgctxt "Account (letters/numbers)"
+msgid "sheet|StrStr.csv|en|0427c2175e6b26862039b602379efca4"
+msgstr "계정 (문자/숫자)"
+
+#: translate_sheet.csv:1999
+msgctxt "Choose game server"
+msgid "sheet|StrStr.csv|en|f1d6e9137089ba7b908bbd25b6bcc6a2"
+msgstr "게임 서버 선택"
+
+#: translate_sheet.csv:1998
+msgctxt "Next page"
+msgid "sheet|StrStr.csv|en|374bea6cf8bd1e8fd64570b629cc6562"
+msgstr "다음 페이지"
+
+#: translate_sheet.csv:1997
+msgctxt "Previous page"
+msgid "sheet|StrStr.csv|en|16ded2dc32322d80ce2362a47f4d7ef4"
+msgstr "이전 페이지"
+
+#: translate_sheet.csv:1996
+msgctxt "Accept"
+msgid "sheet|StrStr.csv|en|c4408d335012a56ff58937d78050efad"
+msgstr "동의"
+
+#: translate_sheet.csv:1995
+msgctxt "User Agreement"
+msgid "sheet|StrStr.csv|en|5ac23f06000fafde2c8f7501a80ebbfe"
+msgstr "이용 약관"
+
+#: translate_sheet.csv:1994
+msgctxt "ID number:"
+msgid "sheet|StrStr.csv|en|123175614553312812baf70dbc92df72"
+msgstr "ID 번호:"
+
+#: translate_sheet.csv:1993
+msgctxt "Real name:"
+msgid "sheet|StrStr.csv|en|76d76b6218a0dc4e8e091d14ea7c9253"
+msgstr "실명:"
+
+#: translate_sheet.csv:1992
+msgctxt ""
+"3.IDs from mainland China, Hong Kong, Macao and Taiwan are supported."
+msgid "sheet|StrStr.csv|en|a4332625cd392bc61062e31e1e280a49"
+msgstr "3. 중국, 홍콩, 마카오, 대만의 ID가 지원됩니다."
+
+#: translate_sheet.csv:1991
+msgctxt ""
+"2.This info will only be used for real name authentication and will not be "
+"provided to any other third party."
+msgid "sheet|StrStr.csv|en|46e92002c37bc3cace8b81c6712c0f13"
+msgstr "2. 이 정보는 실명 인증에만 사용되며 제 3자에게는 제공되지 않습니다."
+
+#: translate_sheet.csv:1990
+msgctxt ""
+"1.The ID info can only be submitted once and cannot be changed. Please enter"
+" with care."
+msgid "sheet|StrStr.csv|en|849068eb943899d71ccb0c868f4db1b4"
+msgstr "1. ID 정보는 한 번만 제출할 수 있으며 변경할 수 없습니다. 주의해서 입력하십시오."
+
+#: translate_sheet.csv:1989
+msgctxt ""
+"Dear user, according to the “Interim Measures for the Administration of "
+"Online Games”, you must go through real name authentication before playing "
+"this game."
+msgid "sheet|StrStr.csv|en|6b1d3cf18334854a2da391a6524fa886"
+msgstr "\"온라인 게임 관리를 위한 임시 조치\"에 따라 게임을 플레이하시기 전 실명 인증이 필요합니다."
+
+#: translate_sheet.csv:1988
+msgctxt "Real Name Authentication"
+msgid "sheet|StrStr.csv|en|4c98c6d31393a3c43b96f384d1b09a68"
+msgstr "실명 인증"
+
+#: translate_sheet.csv:1987
+msgctxt "Reconnect"
+msgid "sheet|StrStr.csv|en|880b8461cba2e295e1828be8d6eedb0a"
+msgstr "재접속"
+
+#: translate_sheet.csv:1986
+msgctxt "You have a match in progress"
+msgid "sheet|StrStr.csv|en|ee0a65af5775bdb75345dd4ade86c42b"
+msgstr "진행중인 경기가 있습니다"
+
+#: translate_sheet.csv:1985
+msgctxt "Cumulative online time"
+msgid "sheet|StrStr.csv|en|b2a86fa4aa3e98a25247a1195055920f"
+msgstr "누적 온라인 시간"
+
+#: translate_sheet.csv:1984
+msgctxt ""
+"You have entered unhealthy game time. We suggest you log out immediately and"
+" take a break. You cannot earn any rewards from game. Unhealthy game status "
+"will be lifted after you are offline for 5 hours."
+msgid "sheet|StrStr.csv|en|65d8a9b3700e9bb08557ef29adf219c8"
+msgstr ""
+"\"건강에 해로운 시간\"에 도달하였습니다. 즉시 로그아웃하고 휴식을 취하는 것이 좋습니다. 지금부터 게임에서 어떠한 보상도 얻을 수 "
+"없으며, 5시간동안 오프라인 상태로 유지하면 이 상태가 해제됩니다."
+
+#: translate_sheet.csv:1983
+msgctxt ""
+"You have now entered fatigue time and can only earn 50% of rewards from "
+"game. For your wellbeing, we suggest you log out from game and do some "
+"exercise."
+msgid "sheet|StrStr.csv|en|b3af7fd8a18ed085f2db19d549eeea63"
+msgstr ""
+"\"피로 시간\"에 도달하여 이제 게임에서 50%의 보상만 받을 수 있습니다. 당신의 건강을 위해 게임에서 로그아웃하고 약간의 운동을 "
+"하는 것을 추천합니다."
+
+#: translate_sheet.csv:1982
+msgctxt "You have been AFK for a long time. The system has logged you out."
+msgid "sheet|StrStr.csv|en|02bb35b87af69edaf10e3fcb26a45959"
+msgstr "장시간 AFK 상태입니다. 시스템에서 로그아웃됩니다."
+
+#: translate_sheet.csv:1981
+msgctxt ""
+"Oops, something is wrong with the program. Please refresh and enter the game"
+" again"
+msgid "sheet|StrStr.csv|en|9621f0958afc32aa2cb35999c76a8bb3"
+msgstr "이런, 뭔가 잘못됬습니다. 새로고침 후 다시 게임에 접속해주세요"
+
+#: translate_sheet.csv:1980
+msgctxt "Connection lost. Trying to reconnect"
+msgid "sheet|StrStr.csv|en|290c02d9f3f9749639d9309c451757dc"
+msgstr "연결이 끊어졌습니다. 재접속을 시도하고 있습니다"
+
+#: translate_sheet.csv:1979
+msgctxt "Your account has been signed in on another location"
+msgid "sheet|StrStr.csv|en|01182f31a1ca830a0d1335747c6f8248"
+msgstr "계정이 다른 장소에서 로그인되었습니다"
+
+#: translate_sheet.csv:1978
+msgctxt "Tutorial"
+msgid "sheet|StrStr.csv|en|368fe771261fcb18f7988833c9294a20"
+msgstr "튜토리얼"
+
+#: translate_sheet.csv:1965
+msgctxt "Signature"
+msgid "sheet|StrStr.csv|en|8c09001c99ecb6fdd8d6023fcf039054"
+msgstr "서명"
+
+#: translate_sheet.csv:2401
+msgctxt "Failed to unlink, please try again"
+msgid "sheet|StrStr.csv|en|9cb03038fee3050ccc5bd633195343e9"
+msgstr "연결 해제 실패, 다시 시도해주세요"
+
+#: translate_sheet.csv:2400
+msgctxt "Unable to unlink the the last account"
+msgid "sheet|StrStr.csv|en|6325bc366f8865f480d55433361a84ba"
+msgstr "마지막 계정 연결은 해제할 수 없습니다"
+
+#: translate_sheet.csv:2399
+msgctxt "Unlink successful"
+msgid "sheet|StrStr.csv|en|29417ef87fcb4755ed6720cb2798dc42"
+msgstr "연결 해제 성공"
+
+#: translate_sheet.csv:2398
+msgctxt ""
+"Google Pay needs the permission of reading external storage to complete the "
+"payment"
+msgid "sheet|StrStr.csv|en|c16686e4daa71f8052c6cfb8b84b17de"
+msgstr "Google Pay 결제를 완료하려면 외부 저장소 읽기 권한이 필요합니다"
+
+#: translate_sheet.csv:2397
+msgctxt "Bound"
+msgid "sheet|StrStr.csv|en|685d1f2146dd079015e81918414e8971"
+msgstr "연결됨"
+
+#: translate_sheet.csv:2396
+msgctxt "Account settings"
+msgid "sheet|StrStr.csv|en|8af703b2bf59cc9742883ae7f4cb0e5b"
+msgstr "계정 설정"
+
+#: translate_sheet.csv:2395
+msgctxt "Account token error"
+msgid "sheet|StrStr.csv|en|378ff7a2a48a6a1ca20488a5026854f8"
+msgstr "계정 토큰 오류"
+
+#: translate_sheet.csv:2394
+msgctxt "Invalid email information"
+msgid "sheet|StrStr.csv|en|88f7d274c3a0d7b334f1c45ee00c340c"
+msgstr "잘못된 이메일 정보"
+
+#: translate_sheet.csv:1964
+msgctxt "No signature yet"
+msgid "sheet|StrStr.csv|en|92bc3e31fe25efb615f0fd161ab415c7"
+msgstr "서명 없음"
+
+#: translate_sheet.csv:1963
+msgctxt "Send"
+msgid "sheet|StrStr.csv|en|94966d90747b97d1f0f206c98a8b1ac3"
+msgstr "전송"
+
+#: translate_sheet.csv:1962
+msgctxt "Empty"
+msgid "sheet|StrStr.csv|en|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
+msgstr "비어있음"
+
+#: translate_sheet.csv:1961
+msgctxt "—————————————"
+msgid "sheet|StrStr.csv|en|1824947d1192f69b0f2a92897a23a0c7"
+msgstr "—————————————"
+
+#: translate_sheet.csv:1953
+msgctxt "Avg Turns"
+msgid "sheet|StrStr.csv|en|ad2192da9ca93ed2365636871922f796"
+msgstr "평균 화료순"
+
+#: translate_sheet.csv:1935
+msgctxt "Play Style"
+msgid "sheet|StrStr.csv|en|4c21dd25c08f117cd644b37484cb60a9"
+msgstr "플레이 경향"
+
+#: translate_sheet.csv:1934
+msgctxt "LUK"
+msgid "sheet|StrStr.csv|en|f88d79c11b5b643625fa1c5df243ccd5"
+msgstr "행운"
+
+#: translate_sheet.csv:1933
+msgctxt "SPD"
+msgid "sheet|StrStr.csv|en|ed504d8761c0f48e13d9d14e94a23627"
+msgstr "속도"
+
+#: translate_sheet.csv:1932
+msgctxt "DEF"
+msgid "sheet|StrStr.csv|en|822dd494b3e14a82aa76bd455e6b6f4b"
+msgstr "수비"
+
+#: translate_sheet.csv:1931
+msgctxt "ATK"
+msgid "sheet|StrStr.csv|en|96cc5c725ae8f5ccb76056b7d12ed095"
+msgstr "공격"
+
+#: translate_sheet.csv:1930
+msgctxt "No record available. Good luck!"
+msgid "sheet|StrStr.csv|en|2767cb7fc9c3dced54a3f30595125332"
+msgstr "기록이 없습니다. 행운을 빌어요!"
+
+#: translate_sheet.csv:1927
+msgctxt "/"
+msgid "sheet|StrStr.csv|en|6666cd76f96956469e7be39d750cc7d9"
+msgstr "/"
+
+#: translate_sheet.csv:1905
+msgctxt "Double to pass & discard"
+msgid "sheet|StrStr.csv|en|8657505d863cd4277178de2b62e37c12"
+msgstr "두번 탭하여 넘기기 및 버리기"
+
+#: translate_sheet.csv:1894
+msgctxt "Successfully claimed:"
+msgid "sheet|StrStr.csv|en|8c91cf10eb2c0f6ab1e393ed596a1ac7"
+msgstr "성공적으로 받음:"
+
+#: translate_sheet.csv:1893
+msgctxt "Data lost. Please refresh and try again"
+msgid "sheet|StrStr.csv|en|6a6038d126b66138cc078932bfcd31e8"
+msgstr "데이터 손실됨. 새로고침한 후 다시 시도해주세요"
+
+#: translate_sheet.csv:1892
+msgctxt "Revival Tokens"
+msgid "sheet|StrStr.csv|en|554090f0fb1da7541f87205a76252072"
+msgstr "부활 토큰"
+
+#: translate_sheet.csv:1891
+msgctxt "Successfully redeemed:{0}"
+msgid "sheet|StrStr.csv|en|f3d4c975bd7c15feb858046804f3a893"
+msgstr "성공적으로 교환됨:{0}"
+
+#: translate_sheet.csv:1890
+msgctxt "Insufficient {0}. Unable to redeem"
+msgid "sheet|StrStr.csv|en|5798e78632f920e0beccee7b5ab7d5e3"
+msgstr "{0} 부족. 교환 불가"
+
+#: translate_sheet.csv:1889
+msgctxt "Cannot find my location"
+msgid "sheet|StrStr.csv|en|2c7e0ba0162443a64b4e87fe24ba8c0a"
+msgstr "내 위치를 찾을 수 없음"
+
+#: translate_sheet.csv:1888
+msgctxt "Game closed. Return to lobby"
+msgid "sheet|StrStr.csv|en|906765d83003269235ed724840c18790"
+msgstr "게임 종료됨. 로비로 돌아가기"
+
+#: translate_sheet.csv:1887
+msgctxt "Purchase failed. You already have this item"
+msgid "sheet|StrStr.csv|en|25fc5ab6320ad9459599786bb493c764"
+msgstr "구매 실패. 이미 이 아이템을 가지고 있습니다"
+
+#: translate_sheet.csv:1886
+msgctxt "Error occurred during operation"
+msgid "sheet|StrStr.csv|en|478a52d8a8bf3bd9bb1cea92b3cd5563"
+msgstr "작동 중에 오류가 발생했습니다"
+
+#: translate_sheet.csv:1885
+msgctxt "This item is temporarily unavailable"
+msgid "sheet|StrStr.csv|en|308a613977283a4413e5e859c6dfc271"
+msgstr "이 아이템은 일시적으로 사용할 수 없습니다"
+
+#: translate_sheet.csv:1884
+msgctxt "The request type does not support Billing API version"
+msgid "sheet|StrStr.csv|en|a15b08d669d12531ecdccf818a6754ee"
+msgstr "요청 유형이 Billing API 버전을 지원하지 않습니다"
+
+#: translate_sheet.csv:1883
+msgctxt "Network disconnected during payment"
+msgid "sheet|StrStr.csv|en|e10255d82788db52c6264b1acb453faa"
+msgstr "결제 중 네트워크 연결 끊김"
+
+#: translate_sheet.csv:1882
+msgctxt "Majsoul Friends Room {0}"
+msgid "sheet|StrStr.csv|en|832825409fd83f3395956ad382deeda8"
+msgstr "작혼 친선전 {0}"
+
+#: translate_sheet.csv:1881
+msgctxt "Watch Available"
+msgid "sheet|StrStr.csv|en|fc4af615afd682b266ee91f30e313e38"
+msgstr "관전 가능"
+
+#: translate_sheet.csv:1880
+msgctxt "Registration Error. Error code {0}"
+msgid "sheet|StrStr.csv|en|cc9d1f08d48cff4b7d3c8466a27ded20"
+msgstr "등록 오류. 오류 코드 {0}"
+
+#: translate_sheet.csv:1879
+msgctxt "Game server:"
+msgid "sheet|StrStr.csv|en|95a02e3c390a223466a6f486645010be"
+msgstr "게임 서버:"
+
+#: translate_sheet.csv:1878
+msgctxt "Domestic route"
+msgid "sheet|StrStr.csv|en|0b83a67e2c0ebdc9aa05a2eaa23e975f"
+msgstr "국내 서버"
+
+#: translate_sheet.csv:1877
+msgctxt "Overseas route"
+msgid "sheet|StrStr.csv|en|d54a9aea1a2f2a45d22c7e81ea5e9e87"
+msgstr "해외 서버"
+
+#: translate_sheet.csv:1876
+msgctxt "Download server:"
+msgid "sheet|StrStr.csv|en|18bea24068980413a4382b97950e5886"
+msgstr "다운로드 서버:"
+
+#: translate_sheet.csv:1875
+msgctxt "Hand"
+msgid "sheet|StrStr.csv|en|a78b1ac16c0cd02168097fc9a9bd7604"
+msgstr "손"
+
+#: translate_sheet.csv:1874
+msgctxt "You cannot give any more gifts for today. Come back tomorrow!"
+msgid "sheet|StrStr.csv|en|1f7a41a92a5b82bd4c6dd44b9a4188ec"
+msgstr "오늘은 더 이상 선물을 줄 수 없습니다. 내일 다시 오세요!"
+
+#: translate_sheet.csv:1873
+msgctxt "Owned:{0}"
+msgid "sheet|StrStr.csv|en|9af94f18f1531c4026f60bdf2f67c4ac"
+msgstr "소유중: {0}"
+
+#: translate_sheet.csv:1872
+msgctxt "Successfully claimed"
+msgid "sheet|StrStr.csv|en|4cfcfd94a926f152ac8597d8d9c2f9c2"
+msgstr "성공적으로 받음"
+
+#: translate_sheet.csv:1871
+msgctxt "Yakuman Stacking Disabled"
+msgid "sheet|StrStr.csv|en|18870479f24ec83474f39cee83f5b91d"
+msgstr "역만 중첩 비활성화됨"
+
+#: translate_sheet.csv:1870
+msgctxt ""
+"Each player can only join the match {0} time(s) during the tournament. You "
+"have run out of your chance(s)."
+msgid "sheet|StrStr.csv|en|da04487d5808ef3030e74d0033a6a52d"
+msgstr "각 플레이어는 대회 중 {0}번만 게임에 참가할 수 있습니다. 당신은 이미 참가 횟수를 모두 사용했습니다."
