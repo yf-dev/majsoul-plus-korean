@@ -23,12 +23,8 @@ jobs:
     - name: Login to Github Package Registry
       run: echo ${{ secrets.GITHUB_TOKEN }} | docker login docker.pkg.github.com -u $GITHUB_ACTOR --password-stdin
 
-    - name: Pull image from Github Package Registry
-      run: docker-compose pull || true
-      working-directory: ./data
-
-    - name: Build docker image
-      run: docker-compose build --force-rm
+    - name: Pull image from Github Package Registry or Build image
+      run: docker-compose pull || docker-compose build --force-rm
       working-directory: ./data
 
     - name: Push image to Github Package Registry
