@@ -64,7 +64,7 @@ DesktopMatchmode.csv,room_name_en,Melee Room,근접탁
 DesktopMatchmode.csv,room_name_en,Throne Room,왕좌탁
 DesktopMatchmode.csv,room_name_en,Casual Match,캐주얼
 DesktopMatchmode.csv,room_name_en,DoraDorara,도라도라라
-DesktopMatchmode.csv,room_name_en,Open Hand Match,손패 공개
+DesktopMatchmode.csv,room_name_en,Open Hand Match,손패 공개전
 DesktopMatchmode.csv,room_name_en,Chaotic Wall Break,혼돈의 패산파괴
 EventsBaseTask.csv,desc_en,Win a game with Ron,론으로 화료
 EventsBaseTask.csv,desc_en,Avoid dealing into others' in 6 games,6번 방총 회피하기
@@ -168,7 +168,7 @@ EventsBaseTask.csv,desc_en,Win 20 games with at least a Dora,20 게임을 도라
 EventsBaseTask.csv,desc_en,Win 6 games with Riichi,6 게임을 리치로 화료
 EventsBaseTask.csv,desc_en,Win 3 games with Fully Concealed Hand,3 게임을 멘젠쯔모로 화료
 EventsBaseTask.csv,desc_en,Win 3 games with Yaku: Dragon,3 게임을 삼원패로 화료
-EventsBaseTask.csv,desc_en,Get 1st or 2nd 1 time in Open Hand Match,손패 공개 게임에서 1등 또는 2등 1회 달성
+EventsBaseTask.csv,desc_en,Get 1st or 2nd 1 time in Open Hand Match,손패 공개전에서 1등 또는 2등 1회 달성
 EventsBaseTask.csv,desc_en,Win 2 games with at least a Ura Dora,2 게임을 뒷도라를 하나 이상 포함하여 화료
 EventsBaseTask.csv,desc_en,Win 33 games with Ron and Tsumo,33 게임을 화료
 EventsBaseTask.csv,desc_en,Ron 10 times,10회 론 화료
@@ -643,7 +643,7 @@ InfoError.csv,en,A strange error happened. Please try a different way.,이상한
 InfoError.csv,en,You don’t have enough Coins to enter this room. You can claim Revival Tokens in “Event” once per day.,이 방에 입장하기 위한 동전이 충분하지 않습니다. “이벤트”에서 부활 토큰을 하루에 한 번 받을 수 있습니다.
 InfoError.csv,en,Unable to enter this room with your current rank. Please try another room.,현재 등급으로는 방에 입장할 수 없습니다. 다른 방으로 시도하십시오.
 InfoError.csv,en,This room is under renovation. Please visit somewhere else.,이 방은 보수 공사(renovation) 중입니다. 다른 곳을 방문하십시오.
-InfoError.csv,en,"Invalid login information, please try to relog your game",잘못된 로그인 정보입니다. 다시 로그인해주세요.
+InfoError.csv,en,"Invalid login information, please try to relog your game",잘못된 로그인 정보입니다. 다시 로그인해주세요
 InfoError.csv,en,You are not friends yet.,아직 친구가 아닙니다.
 InfoError.csv,en,You are already friends.,이미 친구입니다.
 InfoError.csv,en,A strange problem happened while searching. Please try a different way.,검색하는 동안 이상한(strange) 문제가 발생했습니다. 다른 방식으로 다시 시도해주세요.
@@ -1361,7 +1361,7 @@ ChestChestShop.csv,name_en,Kana Fujita,후지타 카나
 ChestChestShop.csv,name_en,Chiori Mikami,미카미 치오리
 ActivityActivity.csv,name_en,Working Adventure Quest,아르바이트 대모험 퀘스트
 ActivityActivity.csv,name_en,Ichihime's Working Adventure,이치히메의 아르바이트 대모험
-ActivityActivity.csv,name_en,Open Hand Match,손패 공개
+ActivityActivity.csv,name_en,Open Hand Match,손패 공개전
 ActivityActivity.csv,name_en,DoraDorara,도라도라라
 ActivityActivity.csv,name_en,Beach Party,비치 파티
 ItemDefinitionItem.csv,desc_en,"A gorgeous, elegant-looking dress. Give it to a character to increase your Bond with him/her by 5000 points. Characters who love dresses will receive bonus Bond points.",화려하고 우아한 옷입니다. 캐릭터에게 선물하면 인연 포인트가 5000점 증가합니다. 옷을 좋아하는 캐릭터에게는 추가 인연 포인트가 주어집니다.
@@ -1971,6 +1971,8 @@ StrStr.csv,en,Jade,휘옥
 StrStr.csv,en,Alipay,Alipay
 StrStr.csv,en,WeChat,WeChat
 StrStr.csv,en,Yen,엔
+StrStr.csv,en,Successfully purchased {0},{0} 구입 성공
+StrStr.csv,en,Failed to purchase {0},{0} 구입 실패
 StrStr.csv,en,Condition: Gain {0} VIP Point,조건: {0} VIP 포인트 획득
 StrStr.csv,en,Gain {0} VIP Point or more to upgrade,업그레이드하기 위해 {0} VIP 포인트 이상 획득하기
 StrStr.csv,en,You've played a total of {0} hours,총 {0} 시간을 플레이했습니다
@@ -1982,3 +1984,539 @@ StrStr.csv,en,Yi,억
 StrStr.csv,en,Wan,만
 StrStr.csv,en,"You are in matchmaking, unable to spectate.",경기를 찾는 중에는 관전할 수 없습니다.
 StrStr.csv,en,You are waiting for the match to start. Cannot view game logs.,경기 시작을 기다리고 있습니다. 게임 로그를 볼 수 없습니다.
+StrStr.csv,en,"(Faith), as well as all-new characters and decorations",)과 새로운 캐릭터와 장식을 얻을 수 있습니다
+VoiceSound.csv,name_en,Ron,론
+VoiceSound.csv,words_en,Riichi,리치
+VoiceSound.csv,name_en,Riichi,리치
+VoiceSound.csv,words_en,Double Riichi,더블리치
+VoiceSound.csv,name_en,Double Riichi,더블리치
+VoiceSound.csv,words_en,{10}Kita,{10}북도라
+VoiceSound.csv,name_en,Kita,북도라
+VoiceSound.csv,words_en,Pon (Call for Triplet),펑
+VoiceSound.csv,name_en,Pon,펑
+VoiceSound.csv,words_en,Kan (Call for Quad),깡
+VoiceSound.csv,name_en,Kan,깡
+VoiceSound.csv,words_en,Chii,치
+VoiceSound.csv,name_en,Chii,치
+StrStr.csv,en,Limited-time title Expiry date:,기간 한정 타이틀 만료일:
+StrStr.csv,en,Can be changed in the Settings,설정에서 변경할 수 있음
+StrStr.csv,en,Expiry date:,만료일:
+StrStr.csv,en,Resummon,재기원
+StrStr.csv,en,Do you wish to quit and check your annual report?,종료하시고 연간 보고서를 확인하시겠습니까?
+StrStr.csv,en,"Error occurred when getting the report, please try again","보고서를 가져오는 동안 오류가 발생했습니다, 다시 시도해주세요"
+StrStr.csv,en,All,전체
+StrStr.csv,en,Recently used,최근 사용
+StrStr.csv,en,Reported successfully,성공적으로 신고됨
+StrStr.csv,en,We've received your report. Thank you for your contribution in making a better gaming environment!,신고가 접수되었습니다. 더 나은 게임 환경을 만드는데 기여해주셔서 감사합니다!
+StrStr.csv,en,Report the nickname,닉네임 신고
+StrStr.csv,en,Report,신고
+StrStr.csv,en,"If you have found any inappropriate information in the game, please contact our customer support.","게임 중 부적절한 행위를 발견했을 경우, 고객 지원부에 문의해주세요."
+StrStr.csv,en,Please search friends with friend ID.,친구 ID로 친구를 검색하세요.
+StrStr.csv,en,SP Voice,SP 음성
+StrStr.csv,en,Back to log,로그로 돌아가기
+StrStr.csv,en,Real-time spectating,실시간 관전
+StrStr.csv,en,Anonymous,익명
+StrStr.csv,en,Show Nickname,닉네임 표시
+StrStr.csv,en,Effect Display,효과 표시
+StrStr.csv,en,Working adventure Rewards,아르바이트 대모험 보상
+StrStr.csv,en,"Ichihime's ability ""Lucky Cat"" has been activated!","이치히메의 능력 ""행운의 고양이""가 발동했다!"
+StrStr.csv,en,"Ichihime's ability ""Best Employee"" has been activated!","이치히메의 능력 ""베스트 직원""이 발동했다!"
+StrStr.csv,en,"Ichihime's ability ""Senior Expert"" has been activated!","이치히메의 능력 ""숙련된 전문가""가 발동했다!"
+StrStr.csv,en,"Ichihime's ability ""Junior Intern"" has been activated!","이치히메의 능력 ""신입 인턴""이 발동했다!"
+StrStr.csv,en,"Ichihime's ability ""Copper Hunter"" has been activated!","이치히메의 능력 ""동전 헌터""가 발동했다!"
+StrStr.csv,en,Kaavi's Wheel of Fortune has been activated,카비의 행운의 바퀴가 활성화되었음
+StrStr.csv,en,Ichihime's ability has been activated!,이치히메의 능력이 발동했다!
+StrStr.csv,en,Share the log,로그 공유
+StrStr.csv,en,"Opened a mysterious chest on the road. Wow, what's this...!","길에서 신비한 상자를 열었다. 와, 이게 뭐야...!"
+StrStr.csv,en,Arrived at Mahjong Soul Bank and withdrew all the deposit!,작혼 은행에 도착해서 예금을 모두 인출했다!
+StrStr.csv,en,Working in a board game shop. Found a strange dice!,보드게임 가게에서 일하는 중. 이상한 주사위를 찾았다!
+StrStr.csv,en,Helping out in Miki's jewelry shop. You have been praised!,미키의 보석 가게를 돕는 중. 칭찬받았다!
+StrStr.csv,en,Ichihime is doing community service. What a good kid!,이치히메는 지역 사회 봉사를 하고 있다. 좋은 아이야!
+StrStr.csv,en,Working in a convenience store. Ichihime is feeling great!,편의점에서 일하는 중. 이치히메는 기분이 좋다!
+StrStr.csv,en,Working in a convenience store. Ichihime doesn't have a lot of energy...,편의점에서 일하는 중. 이치히메는 기운이 별로 없다...
+StrStr.csv,en,Working in a convenience store. Ichihime has a lot of energy.,편의점에서 일하는 중. 이치히메는 기운이 넘친다.
+StrStr.csv,en,Working in a convenience store. Ichihime is doing just fine.,편의점에서 일하는 중. 이치히메는 잘 해내고 있다.
+StrStr.csv,en,Get {0},{0} 받기
+StrStr.csv,en,Jyanshi 4,작사 4
+StrStr.csv,en,Anonymously Share,익명 공유
+StrStr.csv,en,Me,나
+StrStr.csv,en,Jyanshi 3,작사 3
+StrStr.csv,en,Jyanshi 2,작사 2
+StrStr.csv,en,Jyanshi 1,작사 1
+StrStr.csv,en,Bond to unlock,인연으로 해제
+StrStr.csv,en,Copper on the map,맵 위의 동전
+StrStr.csv,en,Can be used in Dorm - Decoration,숙소 - 장식에서 사용 가능
+StrStr.csv,en,Halve the number of steps in the next move,다음 이동 거리 절반으로 감소
+StrStr.csv,en,Double the number of steps in the next move,다음 이동 거리 두 배 증가
+StrStr.csv,en,Earn half coppers in the next move,다음 이동에서 동전을 절반 획득
+StrStr.csv,en,Earn double coppers in the next move,다음 이동에서 동전을 두 배 획득
+StrStr.csv,en,Freed Jyanshi,방랑 작사
+StrStr.csv,en,"To save the shrine, a mysterious priestess with cat ears has decided to start working for coppers.\\nWhat fate awaits our naive Ichihime?\\n\nEvent Period: 4/24 - 5/8 1:59 P.M. (UTC-7)\\n\nComplete daily quests (excluding games with AI) to get normal dice.\\nComplete the specified number of laps on the event map to collect event rewards.\\n\nUse the dice to accumulate experience to upgrade Ichihime's level!\\nAll the level of Ichihime:\\nCopper Hunter: no effect\\nJunior Intern: Get +5% more copper on the map\\nSenior Expert: Get +10% more copper on the map\\nBest Employee: Get +30% more copper on the map\\nLucky Cat: Get +50% more copper on the map\\n\nMysterious chests are appearing on the map!\\nItems that can be inside the mysterious chest: random number of copper, random sphere, Fortune Bag, Sage's Bag.\\n\nAll the types of blocks:\\nConvenience store: Get random number of copper when stopping on it.\\nBecoming Community Volunteer: Get a random green gift when stopping on it.\\nBoard game shop: Get a dice when stopping on it.\\nMiki's jewelry shop: Get a random sphere when stopping on it.\\nMahjong Soul bank: After using a dice or finish a lap on the map, copper will be deposited in the bank.\\n-All the copper will be withdrew when stopping on Mahjong Soul bank.\\nKaavi's fortune dial: Randomly select one of the following 6 effects.\\n- Earn double coppers in the next move\\n- Earn half coppers in the next move\\n- Double the number of steps in the next move\\n- Halve the number of steps in the next move\\n- Move on 1 step\\n- Refresh the location of mysterious chest\\n","신사를 구하기 위해 고양이 귀를 가진 신비한 무녀가 동전을 벌기 위해 일하기로 결심했습니다. \\n순진한 우리의 이치히메에게는 어떤 운명이 기다리고 있을까요?\\n\n이벤트 기간: 4/24 - 5/8 1:59 P.M. (UTC-7)\\n\n일일 퀘스트(AI가 포함된 게임 제외)를 완료하여 일반 주사위를 얻습니다.\\n이벤트 맵의 지정된 바퀴 수를 완주하여 이벤트 보상을 모으세요.\\n\n주사위를 사용하여 경험치를 쌓아 이치히메의 레벨을 업그레이드!\\n모든 레벨의 이치히메:\\n동전 헌터: 효과 없음\\n신입 인턴: 지도에 동전 +5% 더 얻기\\n숙련된 전문가: 지도에서 동전 10% 더 얻기\\n베스트 직원: 지도에서 동전 30% 더 얻기\\n행운의 고양이: 지도에서 동전 50% 더 얻기\\n\n신비한 상자들이 지도에 나타나고 있어요!\\n신비한 상자 안에 있을 수 있는 아이템: 랜덤 갯수의 동전, 랜덤 보옥, 복주머니, 성스러운 주머니.\\n\n모든 블록 유형:\\n편의점: 위에 멈추면 랜덤 갯수의 동전을 받음.\\n지역 사회 자원봉사: 위에 멈추면 랜덤 녹색 선물 받음 .\\n보드게임 가게: 위에 멈추면 주사위를 받음.\\n미키의 보석 가게: 위에 멈추면 랜덤 보옥을 받음.\\n작혼은행: 주사위를 사용하거나 한 바퀴를 완주할 때마다 동전이 은행에 입금됨\\n-작혼은행 위에 멈추면 입금된 모든 동전을 출금할 수 있음.\\n카비의 점괘: 다음 6가지 효과 중 하나를 랜덤하게 받음.\\n- 다음 이동 시 동전 두 배 획득\\n- 다음 이동 시 동전 절반 획득\\n- 다음 이동 시 이동 거리 두 배 증가\\n- 다음 이동 시 이동 거리 절반으로 감소\\n- 한 칸 이동\\n- 신비한 상자 위치 새로고침\\n"
+StrStr.csv,en,Next outing reward:,다음 바퀴 보상:
+StrStr.csv,en,Event Period: 2/26-3/7 13:59 (UTC-7) Current outing:,이벤트 기간: 2/26-3/7 13:59 (UTC-7) 현재 바퀴 수:
+StrStr.csv,en,Best continuous {0} games ranks,연속 {0} 게임중 최고 등급
+StrStr.csv,en,Best continuous {0} games points,연속 {0} 게임중 최고 점수
+StrStr.csv,en,Sign-in,로그인
+StrStr.csv,en,"Starting Points: 40,000\\nExtension into West: At the end of 4th South game, if 1st place has less than 45,000 points\\nLength: Two-Wind Match\\nRed Five: 3\\nOpen Tanyao: On\\nWaiting Time: 5+20","시작 점수: 40,000\\n서입:남4국 종료시 1위 점수가 45,000점 미만일 때\\n길이: 반장전\\n적도라: 3\\n쿠이탕: 허용\\n제한 시간:5+20"
+StrStr.csv,en,"Limited-time Chaotic Wall Break room (1/20 - 2/9 1:59 P.M. UTC-7)\\n\n3 Dora indicators will be revealed at the beginning of the match. 5 Dora indicators can be revealed at most.\\n\nOne player will receive the Wareme mark at the beginning of the match, and once the player has discarded 5 tiles in total, the Wareme mark will move to another player (or may not move).\\n\nThe score of the marked player will be doubled after winning or losing (exclude the Riichi Bet, Round Bet and Draw Fee).\\n\nRank Limit: N/A\\nOrder Bonus: 1st+15, 2nd+5, 3rd-5, 4th-15\\nEntry Limit: 7000 Coppers\\nExchange Rate: 1000 Points=140 Coppers\\nEntry Fee: 1400 Coppers\\nNo Rank Bonus\\nCasual Chest Progress: 1st+360, 2nd+180, 3rd+130, 4th+80\\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity.","기간 한정 혼돈의 패산파괴 방 (1/20 - 2/9 1:59 P.M. UTC-7)\\n\n각 게임은 3개의 도라표시패를 공개한 상태로 시작하고 최대 5개까지 도라표시패로 사용할 수 있습니다..\\n\n게임이 시작되면 한 플레이어는 와레메 표시를 받고, 5회 타패할 때마다 와레메 마크는 자신에게 남거나 다른 플레이어에게 이동합니다.\\n\n와레메 마크가 있는 플레이어는 주고 받는 점수가 두 배가 됩니다(리치봉, 본장봉, 노텐 벌금 제외).\\n\n등급 제한: 없음\\n우마 점수: 1위+15, 2위+5, 3위-5, 4위-15\\n입장 제한: 7000 동전\\n교환비: 1000점=140 동전\\n입장료: 1400 동전\\n등급 영향 없음\\n캐주얼 상자 진행도: 1위+360, 2위+180, 3위+130, 4위+80\\n동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다."
+StrStr.csv,en,Agreed,동의함
+StrStr.csv,en,Disagreed,동의하지 않음
+StrStr.csv,en,Disagree,동의하지 않음
+StrStr.csv,en,Agree,동의
+StrStr.csv,en,(The match will end once all players agree.),(모든 플레이어가 동의하면 경기가 종료됩니다.)
+StrStr.csv,en,Are you sure to vote to end the match?,경기 종료 투표를 하시겠습니까?
+StrStr.csv,en,"Last vote was not agreed by all the players, please start the next vote after 5 minutes.",최근 투표에서 모든 플레이어가 동의하지 않았습니다. 5분 뒤에 다시 투표해주세요.
+StrStr.csv,en,Your account has been banned for your AFK actions until {0}. Please try to keep a quality game-play environment. Thank you for your understanding.,APK 동작으로 인해 {0}까지 계정이 정지되었습니다. 좋은 게임 플레이 환경을 유지할 수 있도록 노력해주세요. 양해해주셔서 감사합니다.
+StrStr.csv,en,AFK Punishment Notice,AFK 처벌 통지
+StrStr.csv,en,"AFK actions have been detected.\\n\nSilver Chest & Bond Level & Quests Progress will not be counted in this match. If further AFK actions are detected, this account will be banned.","AFK 동작이 감지되었습니다.\\n\n은 상자 & 인연 레벨 & 퀘스트 진행은 이번 경기에서 반영되지 않습니다. 더 이상의 AFK 동작이 감지되면, 계정이 차단됩니다."
+StrStr.csv,en,AFK Punishment Warning,AFK 처벌 경고
+StrStr.csv,en,View log,로그 보기
+StrStr.csv,en,In Progress,진행중
+StrStr.csv,en,In Use,사용중
+StrStr.csv,en,How to get,획득 방법
+StrStr.csv,en,"Limited-time (12/11-12/26 1:59 P.M. UTC-7) Open Hand Match\\n\nAll players will show their original Hands to the others. After discarding the first tile, your Draws will not be shown anymore.\\n\nRank Limit: N/A\\nOrder Bonus: 1st+15, 2nd+5, 3rd-5, 4th-15\\nEntry Limit: 3500 Coppers\\nExchange Rate: 1000 Points=70 Coppers\\nEntry Fee: 700 Coppers\\nNo Rank Bonus\\nCasual Chest Progress: 1st+360, 2nd+180, 3rd+130, 4th+80\\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity.","기간 한정 (12/11-12/26 1:59 P.M. UTC-7) 손패 공개전\\n\n모든 플레이어는 배패를 다른 플레이어에게 공개합니다. 첫 타패 이후 쯔모한 패는 공개되지 않습니다.\\n\n등급 제한: 없음\\n우마 점수: 1위+15, 2위+5, 3위-5, 4위-15\\n입장 제한: 3500 동전\\n교환비: 1000점=70 동전\\n입장료: 700 동전\\n등급 영향 없음\\n캐주얼 상자 진행도: 1위+360, 2위+180, 3위+130, 4위+80\\n동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다."
+StrStr.csv,en,Duplicate characters will be converted to Wishing Stones.,중복된 캐릭터는 기도의 돌로 전환됩니다.
+StrStr.csv,en,Donate gift,선물 기부
+StrStr.csv,en,Purchase in Wishing Shop,기도 상점에서 구매
+StrStr.csv,en,Character,캐릭터
+StrStr.csv,en,Change Decoration,장식 변경
+StrStr.csv,en,This decoration theme is not saved. Do you still wish to continue?,이 장식 테마가 저장되지 않았습니다. 계속하시겠습니까?
+StrStr.csv,en,Save,저장
+StrStr.csv,en,Select your Lobby background style,로비 배경 스타일 선택
+StrStr.csv,en,Select your Tile Back style,마작패 스타일 선택
+StrStr.csv,en,Select your Tablecloth style,테이블보 스타일 선택
+StrStr.csv,en,Parameter error,매개변수 오류
+StrStr.csv,en,Unable to unbind current account,현재 계정을 연결 해제할 수 없습니다
+StrStr.csv,en,Failed to verify the email,이메일 인증 실패
+StrStr.csv,en,This email has not been bound with Yostar account,이 이메일은 Yostar 계정과 연결되지 않았습니다
+StrStr.csv,en,Unbind Successfully,연결 해제 성공
+StrStr.csv,en,Unbind,연결 해제
+StrStr.csv,en,Unbind Email:{0},이메일 {0} 연결 해제
+StrStr.csv,en,Account Unbinding,계정 연결 해제
+StrStr.csv,en,You have reserved too many matches,너무 많은 경기를 예약했습니다
+StrStr.csv,en,(Tap to unbind),(탭하여 연결 해제)
+StrStr.csv,en,Account Binding,계정 연결
+StrStr.csv,en,"New updates detected, please try to restart your game",새로운 업데이트가 있습니다. 게임을 다시 시작해주세요
+StrStr.csv,en,This email is already linked to an existing Mahjong Soul account,이 이메일은 이미 기존 작혼 계정에 연결되어 있습니다
+StrStr.csv,en,Free:,무료:
+StrStr.csv,en,Premium:,프리미엄:
+StrStr.csv,en,Insufficient Outfit Voucher，Do you wish to Purchase ？,의상 교환권이 부족합니다. 구매하시겠습니까?
+StrStr.csv,en,Insufficient Outfit Voucher,의상 교환권 부족
+StrStr.csv,en,Current Outfit Voucher status,현재 의상 교환권 정보
+StrStr.csv,en,Bind,연결
+StrStr.csv,en,Outfit Voucher,의상 교환권
+StrStr.csv,en,Portrait Frame,초상화 프레임
+StrStr.csv,en,Do you confirm to exit?,종료 하시겠습니까?
+StrStr.csv,en,Clear all missions on board to get bonus rewards,보너스 보상을 받으려면 모든 미션을 클리어하세요
+StrStr.csv,en,Clear current column to get bonus rewards,보너스 보상을 받으려면 현재 세로줄을 클리어하세요
+StrStr.csv,en,Clear current row to get bonus rewards,보너스 보상을 받으려면 현재 가로줄을 클리어하세요
+StrStr.csv,en,"Starting Points: 35,000\\nExtension into West: At the end of 4th South game, if 1st place has less than 40,000 points\\nLength: Two-Wind Match\\nRed Five: 3\\nOpen Tanyao: On\\nWaiting Time: 5+20","시작 점수: 35,000\\n서입:남4국 종료시 1위 점수가 40,000점 미만일 때\\n길이: 반장전\\n적도라: 3\\n쿠이탕: 허용\\n제한 시간:5+20"
+StrStr.csv,en,"DoraDorara Mode is between 9/28 - 10/9 1:59 P.M.\\n\n4-player South limited. Each game starts with 3 Dora indicators already revealed and a maximum amount of Dora indicators at 5. The first 2 Kans called in a game will reveal 1 Dora indicator each, but any Kan called beyond the first 2 will no longer reveal any Dora indicator.\\n\nRank Limit: Adept or above.\\n\nOrder Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\\n\nEntry Limit: 3500 Coppers\\n\nExchange Rate: 1000 Points = 70 Coppers\\n\nEntry Fee: 700 Coppers\\n\nGames played in this mode are not ranked.\\n\nIchihime’s Gift Box Progress: 1st +360, 2nd +180, 3rd +130, 4th +80\\n\nYou will receive Coppers if you finish with positive match points, or lose Coppers if you finish in negativity.","도라도라라 모드 (9/28 - 10/9 1:59 P.M.)\\n\n4인 반장전 한정. 각 게임은 3개의 도라표시패를 공개한 상태로 시작하고 최대 5개까지 도라표시패로 사용할 수 있습니다. 두번째 깡 까지는 도라표시패를 공개하지만, 3번째 부터는 도라표시패를 공개하지 않습니다.\\n\n등급 제한: 작사 이상.\\n\n우마 점수: 1위 +15, 2위 +5, 3위 -5, 4위 -15\\n\n입장 제한: 3500 동전\\n\n교환비: 1000점 = 70 동전\\n\n입장료: 700 동전\\n\n이 모드에서 플레이한 게임은 등급에 영향을 주지 않습니다.\\n\n이치히메의 선물 상자 진행률: 1위 +360, 2위 +180, 3위 +130, 4위 +80\\n\n동전 게임 종료 후 우마가 양수이면 동전을 받고, 음수이면 동전을 잃습니다."
+StrStr.csv,en,"Not enough attempts, please try again tomorrow","시도 횟수 부족, 내일 다시 시도해주세요"
+StrStr.csv,en,Do you confirm to flip this block?,이 블록을 뒤집을까요?
+StrStr.csv,en,Mission Details,임무 세부사항
+StrStr.csv,en,"Rank Limit: Adept or above\n\\n4-player Order Bonus: 1st +15, 2nd +5, 3rd -5, 4th -15\n\\n3-player Order Bonus: 1st +15, 2nd +0, 3rd -15\n\\nMatches played in this mode are not ranked","등급 제한: 작사 이상\n\\n4인 우마 점수: 1위 +15, 2위 +5, 3위 -5, 4위 -15\n\\n3인 우마 점수: 1위 +15, 2위 +0, 3위 -15\n\\n이 모드에서 플레이한 경기는 등급에 영향을 주지 않습니다"
+StrStr.csv,en,Days left {0},{0}일 남음
+StrStr.csv,en,Fortune Charm,행운 부적
+StrStr.csv,en,Sold Out,매진
+StrStr.csv,en,Items contained in this pack,이 팩에 포함된 아이템
+StrStr.csv,en,Final Price:,최종 가격:
+StrStr.csv,en,Discount Rate:,할인율:
+StrStr.csv,en,Original Price:,기존 가격:
+StrStr.csv,en,Display All,모두 표시
+StrStr.csv,en,Background,배경
+StrStr.csv,en,Unlock at {0},{0}에 해제
+StrStr.csv,en,Outfit,의상
+StrStr.csv,en,Do you confirm to purchase {0}?,{0}을(를) 구입하시겠습니까?
+StrStr.csv,en,On Sale expires in {0}d,판매 종료까지 {0}일
+StrStr.csv,en,On Sale expires in {0}h,판매 종료까지 {0}시간
+StrStr.csv,en,On Sale expires in {0}m,판매 종료까지 {0}분
+StrStr.csv,en,On Sale expired,판매 종료
+StrStr.csv,en,Random,랜덤
+StrStr.csv,en,Playlist loop,재생목록 반복
+StrStr.csv,en,In-match BGM,게임중 BGM
+StrStr.csv,en,Lobby BGM,로비 BGM
+StrStr.csv,en,Achieve certain Yaku in a game to get {0},게임에서 특정 역을 달성하여 {0}을(를) 획득
+StrStr.csv,en,Acquired today,오늘 획득
+StrStr.csv,en,Collect {0},{0} 수집
+StrStr.csv,en,Registration,등록
+StrStr.csv,en,Open,열기
+StrStr.csv,en,Event Points：,이벤트 점수：
+StrStr.csv,en,Choose one gift,선물 하나를 선택하세요
+StrStr.csv,en,4-Player Room Restriction,4인 마작 방 제한
+StrStr.csv,en,3-Player Room Restriction,3인 마작 방 제한
+StrStr.csv,en,4-Player Ranking,4인 마작 순위
+StrStr.csv,en,3-Player Ranking,3인 마작 순위
+StrStr.csv,en,4-Player Ranking Rules,4인 마작 순위 규칙
+StrStr.csv,en,3-Player Ranking Rules,3인 마작 순위 규칙
+StrStr.csv,en,"Unable to connect the server, please try again later","서버에 연결할 수 없습니다, 나중에 다시 시도해주세요"
+StrStr.csv,en,To be verified,미인증
+StrStr.csv,en,Send code,코드 전송
+StrStr.csv,en,"Incorrect format, please re-enter","잘못된 형식, 다시 입력해주세요"
+StrStr.csv,en,Successfully bind account,계정 연동 성공
+StrStr.csv,en,Event Points,이벤트 점수
+StrStr.csv,en,Get {0}x{1},{0}x{1} 받기
+StrStr.csv,en,none,없음
+StrStr.csv,en,{0}分钟前更新,{0}分钟前更新
+StrStr.csv,en,未到奖励领取时间,未到奖励领取时间
+StrStr.csv,en,排名奖励内容,排名奖励内容
+StrStr.csv,en,排名奖励说明,排名奖励说明
+StrStr.csv,en,"Local Yaku available for Limited-Time (10/30  - 11/10 2:00 P.M. PDT) :  \\n- Tsubame-gaeshi\\n- Kanburi\\n- Shiiaruraotai\\n- Uumensai\\n- Three Chained Triplets\\n- Pure Triple Chow\\n- Iipinmoyue\\n- Chuupinraoyui\\n- Hand of Man\\n- Big Wheels\\n- Bamboo Forest\\n- Numerous Neighbours\\n- Ishinouenimosannen\\n- Big Seven Stars\\nDetailed Yaku descriptions can be found in Yaku Overview\\nThe matches are unranked, and number of Yaku achieved will be recorded. No entry fee required.","로컬 역이 기간 한정으로 허용 ((10/30  - 11/10 2:00 P.M. PDT) :  \\n- 츠바메가에시\\n- 영상개론\\n- 십이낙태\\n- 오문제\\n- 삼련각\\n- 일색삼순\\n- 일통모월\\n- 구통로어\\n- 인화\\n- 대차륜\\n- 대죽림\\n- 대수린\\n- 돌 위에서 삼년\\n- 대칠성\\n상헤한 역 설명은 역 요약에서 찾을 수 있습니다\\n등급에 영향을 주지 않으며, 달성한 역은 기록됩니다. 입장료가 필요하지 않습니다."
+StrStr.csv,en,Limited-Time,기간 한정
+StrStr.csv,en,Melee Room Log,근접전 로그
+StrStr.csv,en,Local Yaku Achieved,달성한 로컬역
+StrStr.csv,en,No record,기록 없음
+StrStr.csv,en,Character switching is disabled during matching making.,경기를 찾는 중에는 캐릭터를 변경할 수 없습니다.
+StrStr.csv,en,Add to Home,홈 화면에 추가
+StrStr.csv,en,Upper limit of collection,수집 상한
+StrStr.csv,en,Log Collection,로그 컬렉션
+StrStr.csv,en,Remarks are too long,메모가 너무 깁니다
+StrStr.csv,en,Friendly Match Log,친선전 로그
+StrStr.csv,en,Tournament Log,대회전 로그
+StrStr.csv,en,Ranked Log,등급전 로그
+StrStr.csv,en,Collection Limit:,컬렉션 제한:
+StrStr.csv,en,Collection,컬렉션
+StrStr.csv,en,Match,경기
+StrStr.csv,en,※Enter the verification code sent to your email,※이메일로 전송된 인증 코드 입력
+StrStr.csv,en,※Enter email address,※이메일 주소 입력
+StrStr.csv,en,Name is too long,이름이 너무 깁니다
+StrStr.csv,en,Coming Soon,출시 예정
+StrStr.csv,en,m,분
+StrStr.csv,en,h,시간
+StrStr.csv,en,Insufficient Jade ，Do you wish to Purchase ？,휘옥이 부족합니다. 구매하시겠습니까?
+StrStr.csv,en,Insufficient Jade,휘옥 부족
+StrStr.csv,en,Agree to the PRIVACY POLICY,개인정보취급방침에 동의
+StrStr.csv,en,CVV2/CSC Code is a 3 or 4 digits number,CVV2/CSC 코드는 3자리 또는 4자리 숫자입니다
+StrStr.csv,en,Please select the year of expriy date,만료 연도를 선택해주세요
+StrStr.csv,en,Please select the month of expriy date,만료 월을 선택해주세요
+StrStr.csv,en,Please enter 14 - 16 digits,14-16자리 숫자를 입력해주세요
+StrStr.csv,en,VIP Point:,VIP 포인트:
+StrStr.csv,en,verification code,인증 코드
+StrStr.csv,en,your email address,당신의 이메일 주소
+StrStr.csv,en,Send Code,코드 전송
+StrStr.csv,en,Agree to the TERMS OF SERVICE,이용 약관에 동의
+StrStr.csv,en,Do you wish to log out?,로그아웃 하시겠습니까?
+StrStr.csv,en,Room,방
+StrStr.csv,en,Total:,합계:
+StrStr.csv,en,Free Jade:,무료 휘옥:
+StrStr.csv,en,Premium Jade:,프리미엄 휘옥:
+StrStr.csv,en,Jade info,휘옥 정보
+StrStr.csv,en,General,일반
+StrStr.csv,en,Mobile Verification,휴대전화 인증
+StrStr.csv,en,(Tap to bind),(탭하여 연결)
+StrStr.csv,en,Not Bound,연결되지 않음
+StrStr.csv,en,Account Binding：,계정 연결：
+StrStr.csv,en,Personal Info Verification,개인정보 인증
+StrStr.csv,en,(Tap to get verified),(탭하여 인증)
+StrStr.csv,en,Not Verified,인증되지 않음
+StrStr.csv,en,Other,기타
+StrStr.csv,en,Playing Tiles,타패
+StrStr.csv,en,Control,조작
+StrStr.csv,en,(Changes will take effect after restarting the game),(변경사항은 게임을 재시작한 뒤 에 적용됩니다)
+StrStr.csv,en,Riichi BGM,리치 BGM
+StrStr.csv,en,"Verification failed, please try again later","인증 실패, 나중에 다시 시도해주세요"
+StrStr.csv,en,"Verification Code has been sent to your email, please use it before it is expired",인증 코드가 이메일로 전송되었습니다. 만료되기 전에 사용해주세요
+StrStr.csv,en,"Failed too many time, please try again later","너무 많이 실패함, 나중에 다시 시도해주세요"
+StrStr.csv,en,"Verification failed, the code is invalid or expired","인증 실패, 코드가 잘못되었거나 만료됨"
+StrStr.csv,en,Email address is Banned,이메일 주소가 금지됨
+StrStr.csv,en,Request is too frequent,너무 자주 요청했습니다
+StrStr.csv,en,Failed to received Verification Code,인증 코드를 받지 못했습니다
+StrStr.csv,en,{0} Seconds,{0}초
+StrStr.csv,en,Tap to acquire a Verification Code,인증 코드를 받으려면 탭하세요
+StrStr.csv,en,UID is banned,UID가 금지됨
+StrStr.csv,en,Device ID is banned,장치 ID가 금지됨
+StrStr.csv,en,IP restricted,IP 제한
+StrStr.csv,en,"Verification failed, Info do not match","검증 실패, 정보가 일치하지 않음"
+StrStr.csv,en,Verification failed,검증 실패
+StrStr.csv,en,Daily refresh in:{0},매일 새로고침: {0}
+StrStr.csv,en,Would you like to purchase some Jade?,휘옥을 구매하시겠습니까?
+StrStr.csv,en,Not enough Jade,휘옥 부족
+StrStr.csv,en,Remember me,계정 기억
+StrStr.csv,en,Login in other service ID,다른 서비스 ID로 로그인
+StrStr.csv,en,Yostar Login,Yostar 로그인
+StrStr.csv,en,Enter the name of the tournament,대회 이름을 입력하세요
+StrStr.csv,en,Bond Gift,인연 선물
+StrStr.csv,en,Wall Code:,패산 코드:
+StrStr.csv,en,Deal-in Tile,대기패
+StrStr.csv,en,Show Hands,손패 보기
+StrStr.csv,en,"Majsoul promises all games are randomly generated. At the beginning of each match, the tile wall is already pre-determined, so the tiles issued in each game will not be changed, or influenced by any external factor. To support this statement, we have introduced a MD5 verification system. \\n The MD5 algorithm is a widely used cryptographic hash function. It converts the input bytes (tile wall sequence) into a series of hash value using an algorithm. MD5 is uni-directional, unique and chaotic. \\n Uni-directional: The MD5 code generated cannot be reversed. Therefore, the MD5 code we provide cannot be decrypted. No one can see your tile wall in advance. (PS: Most MD5 hacking tools are brute-force attack tools. It will take millions of years before anyone hacks a tile wall.) \\n Unique: Each input will only generate one unique MD5 code. \\n Chaotic: Two tile wall sequences will have completely different MD5 codes even if there is only one different tile between them. \\n The uniqueness and chaoticness ensure that tile walls cannot be modified. Otherwise, the MD5 code will significant change. \\n MD5 verification steps:\\n 1.In every match, players can click the Dora Indicator on the top left corner to view and record the tile wall MD5 code. Each flush of tile wall generates one set of MD5 code. \\n 2.After a match, players can go to Log and verify if the MD5 code in each game (recorded in the Log) against the value recorded when the game was played. The MD5 code obtained during the game should be consistent with the MD5 code in the Log. \\n 3.Each tile has a unique code. “Man” tiles are represented by “m”, “Pin” tiles are represented by “p”, “Sou” tiles are represented by “s” and word tiles are represented by “z”. For example, 1 Man is 1m, 9 Pin is 9p, 5 Sou is 5s. East, South, West, North, White, Green and Red are 1z, 2z, 3z, 4z, 5z, 6z and 7z accordingly. Special “Red” 5 Man is 0m, Red 5 Pin is 0p, Red 5 Sou is 0s. As such, each tile wall can be represented by a unique series of codes. For a tile wall of “8 Pin - 7 Sou - East - Red 5 Man”, the code will be 8p7s1z0m. Players can view tile walls in Log. A tile wall refers to the sequence of remaining tiles after all hands are drawn. Each tile wall displayed can be represented by a unique sequence using the method above. The tile wall code displayed at the bottom is generated using this method. \\n 4.A common online MD5 encryption website can be accessed at http://tool.chinaz.com/tools/md5.aspx On the left box, enter the tile wall code obtained from step 3, then select “32 digit encryption (L)” in the center, you will find the corresponding MD5 code on the right. You can compare the MD5 code generated with the MD5 code provided in game. If they are the same, your tile wall was pre-determined from the moment it was generated. This is a proof that we have not modified it in any way. If the tile wall was tampered, the tiles issued would not match with the Log. The MD5 codes generated would not match either. \\n Thank you for supporting Majsoul. We hope you enjoy the game and improve your skills every day.","작혼은 모든 게임이 무작위로 생성됨을 보장합니다. 각 경기가 시작될 때 패산이 미리 결정되어 있으므로 각 경기에서 쯔모하는 패는 변경되지 않으며, 어떠한 외부 요인에 의해서도 영향을 받지 않습니다. 이 진술을 뒷받침하기 위해 MD5 검증 시스템을 도입했습니다. \\n MD5 알고리즘은 널리 사용되는 암호화 해시 기능입니다. 알고리즘을 사용하여 입력 바이트(패산 순서)를 일련의 해시 값으로 변환합니다. MD5는 혼돈스럽고 고유하며 단방향으로 동작합니다. \\n 단방향: 생성된 MD5 코드는 복원할 수 없습니다. 따라서 작혼에서 제공하는 MD5 코드는 해독할 수 없으며 누구도 패산을 미리 볼 수 없습니다.(참고: 대부분의 MD5 해킹 도구는 무차별 대입 공격 도구입니다. 누군가가 패산을 해킹하려면 수백만 년이 걸릴 것입니다.) \\n 고유: 각 입력(패산)은 하나의 고유한 MD5 코드만 생성합니다. \\n 혼돈: 두 패산 순서는 서로 다른 패가 하나만 있어도 완전히 다른 MD5 코드를 갖습니다. \\n 고유성과 혼돈성에 의해 패산이 수정되지 않았다는 것을 보장하며, 만약 수정됬을 경우 MD5 코드가 크게 변경될 것입니다. \\n MD5 검증 단계: \\n 1. 매 경기마다 플레이어는 좌측 상단의 도라 표시기를 클릭하여 패산 MD5 코드를 보고 기록할 수 있습니다. 패산이 생성될 때 마다 하나의 MD5 코드 세트가 생성됩니다. \\n 2. 경기 후 플레이어는 로그로 이동하여 각 게임의 MD5 코드(로그에 기록됨)가 게임 플레이시 기록된 값과 일치하는지 비교할 수 있습니다. 게임 중에 얻은 MD5 코드는 로그의 MD5 코드와 일치해야 합니다. \\n 3. 각 패마다 고유한 코드가 있습니다. 만수패는 ""m""으로, 통수패는 ""p""로, 삭수패는 ""s""로, 자패는 ""z""로 나타냅니다. 예를 들어 1만은 1m, 9통은 9p, 5삭은 5s입니다. 동, 남, 서 ,북, 백, 발, 중은 1z, 2z, 3z, 4z, 5z, 6z, 7z 입니다. 특수한 적5만은 0m, 적5통은 0p. 적5삭은 0s입니다. 이와 같이 각각의 패산은 고유한 일련의 코드로 표시될 수 있습니다. ""8통-7삭-동-적5만"" 패산의 코드는 8p7s1z0m 입니다. 플레이어는 로그에서 패산을 볼 수 있습니다. 패산은 모든 모든 배패를 완료한 후 남은 패 순서를 말합니다. 표시되는 각 패는 위의 방법을 사용하여 고유한 시퀀스로 나타낼 수 있습니다. 하단에 표시되는 패산 코드는 이 방법으로 생성됩니다. \\n 4. 일반적인 온라인 MD5 암호화 웹 사이트는 http://tool.chinaz.com/tools/md5.aspx 로 접속할 수 있습니다. 왼쪽 입력 상자에 3단계에서 얻은 패산 코드를 입력한 다음 가운데에서 ""32자리 암호화(L)""을 선택하면 오른쪽에 해당하는 MD5 코드가 표시됩니다. 생성된 MD5 코드를 게임에서 제공하는 MD5 코드와 비교할 수 있습니다. 만약 두 코드가 일치한다면 패산이 생성된 순간에 미리 결정되었다는 것입니다. 이것은 작혼이 어떤식으로든 패산을 수정하지 않았다는 증거입니다. 패산이 변조된 경우 쯔모한 패가 로그와 일치하지 않습니다. 생성된 MD5 코드도 일치하지 않습니다. \\n 작혼을 지지해주셔서 감사합니다. 우리는 당신이 매일 게임을 즐기고 실력이 향상되기를 바랍니다."
+StrStr.csv,en,I'm back,복귀
+StrStr.csv,en,The system has detected you are AFK. Auto Draw & Discard enabled.,시스템이 AFK를 감지했습니다. 자동 쯔모기리가 활성화됩니다.
+StrStr.csv,en,Match paused. Please wait in patience,경기가 일시정지됨. 잠시만 기다려주세요
+StrStr.csv,en,Match End,경기 종료
+StrStr.csv,en,D,쯔
+StrStr.csv,en,C,울
+StrStr.csv,en,R,화
+StrStr.csv,en,A,정
+StrStr.csv,en,Yaku Type,역 종류
+StrStr.csv,en,Starting in:,시작까지 남은 시간:
+StrStr.csv,en,There are no friends to invite,초대할 친구가 없습니다
+StrStr.csv,en,In a match,경기중
+StrStr.csv,en,Invited,초대함
+StrStr.csv,en,Copy the room link and send it to your friends,방 링크를 복사해서 친구에게 보내세요
+StrStr.csv,en,Copy Link,링크 복사
+StrStr.csv,en,Add AI,AI 추가
+StrStr.csv,en,Invite,초대
+StrStr.csv,en,Riichi Music,리치 음악
+StrStr.csv,en,Event,이벤트
+StrStr.csv,en,Change Outfit,의상 변경
+StrStr.csv,en,Daily gift attempt:,일간 선물 잔여수:
+StrStr.csv,en,Requires a 5-heart Bond,5하트 인연 필요
+StrStr.csv,en,Bond,인연
+StrStr.csv,en,Emoji,이모티콘
+StrStr.csv,en,Effect,효과
+StrStr.csv,en,Visit,방문
+StrStr.csv,en,Summon Stones?,기원의 돌?
+StrStr.csv,en,Purchase,구매
+StrStr.csv,en,Do you wish to spend,사용하시겠습니까
+StrStr.csv,en,Insufficient Summon Stones,기원의 돌 부족
+StrStr.csv,en,Remaining,잔여
+StrStr.csv,en,Sample 3,샘플 3
+StrStr.csv,en,Sample 2,샘플 2
+StrStr.csv,en,Sample 1,샘플 1
+StrStr.csv,en,Biography:,약력:
+StrStr.csv,en,Hobby:,취미:
+StrStr.csv,en,CV:,CV:
+StrStr.csv,en,Blood Type:,혈액형:
+StrStr.csv,en,Age:,나이:
+StrStr.csv,en,Birthday:,생일:
+StrStr.csv,en,Height:,신장:
+StrStr.csv,en,Character Info,캐릭터 정보
+StrStr.csv,en,You will get at least 1 purple gift when you perform a 10-time Summon.,10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다.
+StrStr.csv,en,Chance to get gifts: 80%,선물 획득 확률: 80%
+StrStr.csv,en,Chance to get decorations: 15%,장식 획득 확률: 15%
+StrStr.csv,en,Duplicate characters will be converted to Wishing Stones,중복된 캐릭터는 기도의 돌로 전환됩니다
+StrStr.csv,en,Chance to get characters: 5%,캐릭터 획득 확률: 5%
+StrStr.csv,en,"Each time you summon, you can get 1",당신은 1번 기원할 때 마다 1개의 신앙(
+StrStr.csv,en,Select the character/item you would like to redeem,교환할 캐릭터/아이템을 선택하세요
+StrStr.csv,en,Overview,요약
+StrStr.csv,en,"Chance to get characters, decorations or gifts","캐릭터, 장식, 선물을 받을 수 있음"
+StrStr.csv,en,x10,x10
+StrStr.csv,en,Summon Once,1회 기원
+StrStr.csv,en,Get,받기
+StrStr.csv,en,Summon 10 Times,10회 기원
+StrStr.csv,en,Your Title Book is empty.,타이틀북이 비어있습니다.
+StrStr.csv,en,Dorm,숙소
+StrStr.csv,en,Daily Prayer,일간 기도
+StrStr.csv,en,-1,-1
+StrStr.csv,en,+1,+1
+StrStr.csv,en,+10,+10
+StrStr.csv,en,-10,-10
+StrStr.csv,en,Refreshes once every month,매달 한번 갱신됩니다
+StrStr.csv,en,Price,가격
+StrStr.csv,en,Star Dust can be acquired by donating Gifts,별가루는 선물을 기부하여 얻을 수 있습니다
+StrStr.csv,en,Duplicate decorations will be converted into Star Stones,중복된 장식은 별의 돌로 전환됩니다
+StrStr.csv,en,Duplicate characters will be converted into Wishing Stones,중복된 캐릭터는 기도의 돌로 전환됩니다
+StrStr.csv,en,Can`t refresh anymore today,오늘은 더 이상 새로고침 할 수 없습니다
+StrStr.csv,en,Refreshes at 5 A.M.,오전 5시에 새로고침.
+StrStr.csv,en,Fortune,소원
+StrStr.csv,en,Complete the payment by scanning the QR Code,QR 코드를 스캔하여 결제 완료
+StrStr.csv,en,Please open,열어주세요
+StrStr.csv,en,Alipay QR Code,Alipay QR 코드
+StrStr.csv,en,"Should you have any payment-related questions, please contact QQ: 951307369","결제 관련 질문이 있으신 경우, QQ: 951307369로 문의해주세요"
+StrStr.csv,en,Total Price,총 가격
+StrStr.csv,en,Buy,구매
+StrStr.csv,en,Rewards,보상
+StrStr.csv,en,Current,현재
+StrStr.csv,en,Title,타이틀
+StrStr.csv,en,Summon Shop,기원 상점
+StrStr.csv,en,Star,별
+StrStr.csv,en,Wishing,기도
+StrStr.csv,en,Misc,잡화
+StrStr.csv,en,Shop,상점
+StrStr.csv,en,pt,pt
+StrStr.csv,en,Title Book,타이틀북
+StrStr.csv,en,Matchmaking,경기 찾는 중
+StrStr.csv,en,Match is ready,경기 준비됨
+StrStr.csv,en,Show friends only,친구만 보기
+StrStr.csv,en,No game info,게임 정보 없음
+StrStr.csv,en,Do you want to start a tutorial of Riichi Mahjong?,리치 마작 튜토리얼을 시작할까요?
+StrStr.csv,en,Name,이름
+StrStr.csv,en,Welcome to Mahjong Soul!,작혼에 오신 것을 환영합니다!
+StrStr.csv,en,Name Your Character,캐릭터 이름
+StrStr.csv,en,Criteria not met,기준 미달
+StrStr.csv,en,Enter Log Number,로그 번호 입력
+StrStr.csv,en,Rule Details,상세 규칙
+StrStr.csv,en,Other Logs,기타 로그
+StrStr.csv,en,Share,공유
+StrStr.csv,en,Match Time,경기 일시
+StrStr.csv,en,Set as Focus,포커스 지정
+StrStr.csv,en,Details,상세
+StrStr.csv,en,Matches Played:,플레이한 경기:
+StrStr.csv,en,Last 5 Matches Ranks:,최근 5경기:
+StrStr.csv,en,My Ranking,내 순위
+StrStr.csv,en,Rules,규칙
+StrStr.csv,en,Time,일시
+StrStr.csv,en,Notice,공지
+StrStr.csv,en,Chat,채팅
+StrStr.csv,en,GM message,GM 메시지
+StrStr.csv,en,Log,로그
+StrStr.csv,en,Home,홈
+StrStr.csv,en,Tournament,대회
+StrStr.csv,en,Enter,입장
+StrStr.csv,en,No tournaments,대회 없음
+StrStr.csv,en,Enter Tournament ID,대회 ID 입력
+StrStr.csv,en,Ended,종료됨
+StrStr.csv,en,End time:,종료 일시:
+StrStr.csv,en,In progress,진행중
+StrStr.csv,en,Start time:,시작 일시:
+StrStr.csv,en,Not started,시작되지 않음
+StrStr.csv,en,Followed only,팔로우 한정
+StrStr.csv,en,Lobby,로비
+StrStr.csv,en,Tournaments,대회
+StrStr.csv,en,Hot,인기
+StrStr.csv,en,Free,자유
+StrStr.csv,en,Reserved,예약됨
+StrStr.csv,en,Online:,온라인:
+StrStr.csv,en,Saint & Above,작성 이상
+StrStr.csv,en,Master & Saint,작호 & 작성
+StrStr.csv,en,Expert & Master,작걸 & 작호
+StrStr.csv,en,Adept & Expert,작사 & 작걸
+StrStr.csv,en,Novice & Adept,초심자 & 작사
+StrStr.csv,en,Rank Description,등급 설명
+StrStr.csv,en,My ID:,내 ID:
+StrStr.csv,en,No friend application,친구 애플리케이션 없음
+StrStr.csv,en,Reject,거절
+StrStr.csv,en,Friends:,친구:
+StrStr.csv,en,Your Friend List is Empty,친구 목록 비어있음
+StrStr.csv,en,Watch,관전
+StrStr.csv,en,View,보기
+StrStr.csv,en,Applied,신청됨
+StrStr.csv,en,Search,검색
+StrStr.csv,en,Application,애플리케이션
+StrStr.csv,en,Friend List,친구 목록
+StrStr.csv,en,Friends,친구
+StrStr.csv,en,Create Room,방 만들기
+StrStr.csv,en,Normal,일반
+StrStr.csv,en,Easy,쉬움
+StrStr.csv,en,On,켜기
+StrStr.csv,en,Off,끄기
+StrStr.csv,en,"At ALL LAST, if the 1st-ranked player has less points than this value, the game will extend into South/West Round",최종국에서 1위 플레이어가 이 값보다 점수가 적으면 경기는 남/서장으로 연장됩니다
+StrStr.csv,en,"Minimum points 100, maximum points 200000.","최소 점수 100, 최대 점수 200000."
+StrStr.csv,en,"Minimum points 100, maximum points 200000","최소 점수 100, 최대 점수 200000"
+StrStr.csv,en,60+0s,60+0s
+StrStr.csv,en,5+20s,5+20s
+StrStr.csv,en,5+10s,5+10s
+StrStr.csv,en,3+5s,3+5s
+StrStr.csv,en,Vs AI,Vs AI
+StrStr.csv,en,Two-Wind Match,반장전
+StrStr.csv,en,East Only,동풍전
+StrStr.csv,en,1 Game,단판
+StrStr.csv,en,day(s),일
+StrStr.csv,en,Your name can be changed after:,변경될 이름은 다음과 같습니다:
+StrStr.csv,en,You can change your name once every 30 days.,30일에 한번 이름을 변경할 수 있습니다.
+StrStr.csv,en,x1,x1
+StrStr.csv,en,Require,필요
+StrStr.csv,en,Name (1-14 chars),이름 (1-14자)
+StrStr.csv,en,Change Name,이름 변경
+StrStr.csv,en,Inventory,창고
+StrStr.csv,en,Preview,미리보기
+StrStr.csv,en,Tile Back,마작패
+StrStr.csv,en,You can donate gifts to get Star Dust,선물 기부를 통해 별가루를 획득할 수 있습니다
+StrStr.csv,en,Select the gift you would like to donate,기부하고자 하는 선물을 선택하세요
+StrStr.csv,en,Back,뒤로가기
+StrStr.csv,en,Deselect All,모두 선택 해제
+StrStr.csv,en,Donate,기부
+StrStr.csv,en,Tablecloth,테이블보
+StrStr.csv,en,Decoration,장식
+StrStr.csv,en,Gift,선물
+StrStr.csv,en,Item,아이템
+StrStr.csv,en,Clear,삭제
+StrStr.csv,en,Daily quest is updated at 5 A.M. everyday,일일 퀘스트는 매일 오전 5시에 업데이트됩니다
+StrStr.csv,en,Collect,수집
+StrStr.csv,en,You can earn Red Lanterns each time you compete a particular Yaku,특정 역을 완성할 때 마다 붉은 초롱을 얻을 수 있습니다
+StrStr.csv,en,Redeem,교환
+StrStr.csv,en,Claimed,받음
+StrStr.csv,en,coppers,동전
+StrStr.csv,en,No Event,이벤트 없음
+StrStr.csv,en,No Mail,편지 없음
+StrStr.csv,en,Delete,삭제
+StrStr.csv,en,Claim,받기
+StrStr.csv,en,New update available in iOS. Please download from the official website.,iOS에서 사용할 수 있는 새 업데이트가 있습니다. 공식 웹 사이트에서 다운로드하십시오.
+StrStr.csv,en,OK,OK
+StrStr.csv,en,Connecting to server,서버에 연결하는 중
+StrStr.csv,en,Please choose your server,서버를 선택하세요
+StrStr.csv,en,“Majsoul License & Service Agreement”,“작혼 라이센스 및 서비스 계약”
+StrStr.csv,en,Enter password again,비밀번호를 다시 입력하세요
+StrStr.csv,en,Password (6-20 characters),비밀번호 (6-20자)
+StrStr.csv,en,Available,사용가능
+StrStr.csv,en,Unavailable,사용 불가
+StrStr.csv,en,Register using social network account,소셜 네트워크 계정을 사용하여 등록
+StrStr.csv,en,Register,등록
+StrStr.csv,en,Logging in,로그인 중
+StrStr.csv,en,We recommend Chrome browser,크롬 브라우저를 추천합니다
+StrStr.csv,en,Switch,전환
+StrStr.csv,en,Forgot Password,비밀번호를 잊어버림
+StrStr.csv,en,Register Now,지금 등록
+StrStr.csv,en,Login with:,로그인 :
+StrStr.csv,en,Password,비밀번호
+StrStr.csv,en,Account (letters/numbers),계정 (문자/숫자)
+StrStr.csv,en,Choose game server,게임 서버 선택
+StrStr.csv,en,Next page,다음 페이지
+StrStr.csv,en,Previous page,이전 페이지
+StrStr.csv,en,Accept,동의
+StrStr.csv,en,User Agreement,이용 약관
+StrStr.csv,en,ID number:,ID 번호:
+StrStr.csv,en,Real name:,실명:
+StrStr.csv,en,"3.IDs from mainland China, Hong Kong, Macao and Taiwan are supported.","3. 중국, 홍콩, 마카오, 대만의 ID가 지원됩니다."
+StrStr.csv,en,2.This info will only be used for real name authentication and will not be provided to any other third party.,2. 이 정보는 실명 인증에만 사용되며 제 3자에게는 제공되지 않습니다.
+StrStr.csv,en,1.The ID info can only be submitted once and cannot be changed. Please enter with care.,1. ID 정보는 한 번만 제출할 수 있으며 변경할 수 없습니다. 주의해서 입력하십시오.
+StrStr.csv,en,"Dear user, according to the “Interim Measures for the Administration of Online Games”, you must go through real name authentication before playing this game.","""온라인 게임 관리를 위한 임시 조치""에 따라 게임을 플레이하시기 전 실명 인증이 필요합니다."
+StrStr.csv,en,Real Name Authentication,실명 인증
+StrStr.csv,en,Reconnect,재접속
+StrStr.csv,en,You have a match in progress,진행중인 경기가 있습니다
+StrStr.csv,en,Cumulative online time,누적 온라인 시간
+StrStr.csv,en,You have entered unhealthy game time. We suggest you log out immediately and take a break. You cannot earn any rewards from game. Unhealthy game status will be lifted after you are offline for 5 hours.,"""건강에 해로운 시간""에 도달하였습니다. 즉시 로그아웃하고 휴식을 취하는 것이 좋습니다. 지금부터 게임에서 어떠한 보상도 얻을 수 없으며, 5시간동안 오프라인 상태로 유지하면 이 상태가 해제됩니다."
+StrStr.csv,en,"You have now entered fatigue time and can only earn 50% of rewards from game. For your wellbeing, we suggest you log out from game and do some exercise.","""피로 시간""에 도달하여 이제 게임에서 50%의 보상만 받을 수 있습니다. 당신의 건강을 위해 게임에서 로그아웃하고 약간의 운동을 하는 것을 추천합니다."
+StrStr.csv,en,You have been AFK for a long time. The system has logged you out.,장시간 AFK 상태입니다. 시스템에서 로그아웃됩니다.
+StrStr.csv,en,"Oops, something is wrong with the program. Please refresh and enter the game again","이런, 뭔가 잘못됬습니다. 새로고침 후 다시 게임에 접속해주세요"
+StrStr.csv,en,Connection lost. Trying to reconnect,연결이 끊어졌습니다. 재접속을 시도하고 있습니다
+StrStr.csv,en,Your account has been signed in on another location,계정이 다른 장소에서 로그인되었습니다
+StrStr.csv,en,Tutorial,튜토리얼
+StrStr.csv,en,Signature,서명
+StrStr.csv,en,"Failed to unlink, please try again","연결 해제 실패, 다시 시도해주세요"
+StrStr.csv,en,Unable to unlink the the last account,마지막 계정 연결은 해제할 수 없습니다
+StrStr.csv,en,Unlink successful,연결 해제 성공
+StrStr.csv,en,Google Pay needs the permission of reading external storage to complete the payment,Google Pay 결제를 완료하려면 외부 저장소 읽기 권한이 필요합니다
+StrStr.csv,en,Bound,연결됨
+StrStr.csv,en,Account settings,계정 설정
+StrStr.csv,en,Account token error,계정 토큰 오류
+StrStr.csv,en,Invalid email information,잘못된 이메일 정보
+StrStr.csv,en,No signature yet,서명 없음
+StrStr.csv,en,Send,전송
+StrStr.csv,en,Empty,비어있음
+StrStr.csv,en,—————————————,—————————————
+StrStr.csv,en,Avg Turns,평균 화료순
+StrStr.csv,en,Play Style,플레이 경향
+StrStr.csv,en,LUK,행운
+StrStr.csv,en,SPD,속도
+StrStr.csv,en,DEF,수비
+StrStr.csv,en,ATK,공격
+StrStr.csv,en,No record available. Good luck!,기록이 없습니다. 행운을 빌어요!
+StrStr.csv,en,/,/
+StrStr.csv,en,Double to pass & discard,두번 탭하여 넘기기 및 버리기
+StrStr.csv,en,Successfully claimed:,성공적으로 받음:
+StrStr.csv,en,Data lost. Please refresh and try again,데이터 손실됨. 새로고침한 후 다시 시도해주세요
+StrStr.csv,en,Revival Tokens,부활 토큰
+StrStr.csv,en,Successfully redeemed:{0},성공적으로 교환됨:{0}
+StrStr.csv,en,Insufficient {0}. Unable to redeem,{0} 부족. 교환 불가
+StrStr.csv,en,Cannot find my location,내 위치를 찾을 수 없음
+StrStr.csv,en,Game closed. Return to lobby,게임 종료됨. 로비로 돌아가기
+StrStr.csv,en,Purchase failed. You already have this item,구매 실패. 이미 이 아이템을 가지고 있습니다
+StrStr.csv,en,Error occurred during operation,작동 중에 오류가 발생했습니다
+StrStr.csv,en,This item is temporarily unavailable,이 아이템은 일시적으로 사용할 수 없습니다
+StrStr.csv,en,The request type does not support Billing API version,요청 유형이 Billing API 버전을 지원하지 않습니다
+StrStr.csv,en,Network disconnected during payment,결제 중 네트워크 연결 끊김
+StrStr.csv,en,Majsoul Friends Room {0},작혼 친선전 {0}
+StrStr.csv,en,Watch Available,관전 가능
+StrStr.csv,en,Registration Error. Error code {0},등록 오류. 오류 코드 {0}
+StrStr.csv,en,Game server:,게임 서버:
+StrStr.csv,en,Domestic route,국내 서버
+StrStr.csv,en,Overseas route,해외 서버
+StrStr.csv,en,Download server:,다운로드 서버:
+StrStr.csv,en,Hand,손
+StrStr.csv,en,You cannot give any more gifts for today. Come back tomorrow!,오늘은 더 이상 선물을 줄 수 없습니다. 내일 다시 오세요!
+StrStr.csv,en,Owned:{0},소유중: {0}
+StrStr.csv,en,Successfully claimed,성공적으로 받음
+StrStr.csv,en,Yakuman Stacking Disabled,역만 중첩 비활성화됨
+StrStr.csv,en,Each player can only join the match {0} time(s) during the tournament. You have run out of your chance(s).,각 플레이어는 대회 중 {0}번만 게임에 참가할 수 있습니다. 당신은 이미 참가 횟수를 모두 사용했습니다.
