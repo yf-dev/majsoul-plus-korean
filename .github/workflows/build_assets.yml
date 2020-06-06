@@ -28,7 +28,7 @@ jobs:
       working-directory: ./data
 
     - name: Build docker image
-      run: docker-compose build --force-rm --no-cache
+      run: docker-compose build --force-rm
       working-directory: ./data
 
     - name: Push image to Github Package Registry
