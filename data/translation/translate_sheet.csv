@@ -1660,6 +1660,7 @@ StrStr.csv,en,You are not following any tournament info,어떠한 대회 정보�
 StrStr.csv,en,Error loading new data. Please try again later,새 데이터를 로드하는 중 오류가 발생했습니다. 나중에 다시 시도해주세요
 StrStr.csv,en,Match ID not found:,경기 ID를 찾을 수 없음:
 StrStr.csv,en,Enter Tournament,대회 입장
+StrStr.csv,en,To,~
 StrStr.csv,en,Choose one to Kan,깡 선언할 패 선택
 StrStr.csv,en,Final data unavailable,최종 데이터를 사용할 수 없음
 StrStr.csv,en,Sent,보냄
@@ -1936,3 +1937,48 @@ ItemDefinitionSkin.csv,desc_en,""" I'm busy trying out the food for everybody, o
 ItemDefinitionSkin.csv,name_en,New Year,새해
 ItemDefinitionSkin.csv,lock_tips_en,Beach Party,비치 파티
 ItemDefinitionSkin.csv,desc_en,"Beach Party Exclusive\\n""Take this! Even it's you, master, Ichihime won't let you get an easy win-nya!""","비치 파티 한정\\n""받아라냥! 주인님이라도 이치히메에게는 쉽게 이길 수 없을거다냐!"""
+StrStr.csv,en,You must have a rank of {0} or higher to join the match.,경기에 참가하려면 등급이 {0} 이상이어야 합니다.
+StrStr.csv,en,Requirements not met,요구사항이 충족되지 않음
+StrStr.csv,en,You are not eligible to participate in this tournament. Unable to start match,이 대회에 참가할 자격이 없습니다. 경기를 시작할 수 없습니다
+StrStr.csv,en,Not eligible,자격 없음
+StrStr.csv,en,Do you wish to refresh the Misc Shop?,잡화점을 새로고침 하시겠습니까?
+StrStr.csv,en,Tips Off,팁 비활성화
+StrStr.csv,en,Turn Tsumo Loss Off,쯔모 손실 비활성화
+StrStr.csv,en,Turn Tsumo Loss On,쯔모 손실 활성화
+StrStr.csv,en,Summon,기원
+StrStr.csv,en,From:,시작 점수:
+StrStr.csv,en,Loading page...,페이지 로드 중...
+StrStr.csv,en,Left,개
+StrStr.csv,en,New look received\\nNew emoji received,새 의상 획득\\n새 이모티콘 획득
+StrStr.csv,en,Riichi Bet,리치 봉
+StrStr.csv,en,Unlock at Bond lv{0},인연 lv{0}에서 해제
+StrStr.csv,en,Purchase successful,구매 성공
+StrStr.csv,en,Remaining:,잔여:
+StrStr.csv,en,Refresh chance:,새로고침 기회:
+StrStr.csv,en,Refresh,새로고침
+StrStr.csv,en,VIP Refresh:,VIP 새로고침:
+StrStr.csv,en,Refresh Now,지금 새로고침
+StrStr.csv,en,Invalid ID,잘못된 ID
+StrStr.csv,en,Authentication successful,인증 성공
+StrStr.csv,en,Incorrect legal name entered,잘못된 법적 이름 임력됨
+StrStr.csv,en,Waiting for other players to confirm,다른 플레이어가 확인하기를 기다리는 중
+StrStr.csv,en,Invalid tile wall information,잘못된 패산 정보
+StrStr.csv,en,Unable to make purchases on iOS version at this time,현재 iOS 버전에서는 구매할 수 없음
+StrStr.csv,en,Recovering your last order,마지막 주문 복구
+StrStr.csv,en,VIP,VIP
+StrStr.csv,en,Coppers,동전
+StrStr.csv,en,Jade,휘옥
+StrStr.csv,en,Alipay,Alipay
+StrStr.csv,en,WeChat,WeChat
+StrStr.csv,en,Yen,엔
+StrStr.csv,en,Condition: Gain {0} VIP Point,조건: {0} VIP 포인트 획득
+StrStr.csv,en,Gain {0} VIP Point or more to upgrade,업그레이드하기 위해 {0} VIP 포인트 이상 획득하기
+StrStr.csv,en,You've played a total of {0} hours,총 {0} 시간을 플레이했습니다
+StrStr.csv,en,"Display error, exceeded border","표시 오류, 경계 침범"
+StrStr.csv,en,My Profile,내 프로필
+StrStr.csv,en,Unable to find opponents. Please try again later,상대를 찾을 수 없습니다. 나중에 다시 시도해주세요
+StrStr.csv,en,Master,주인
+StrStr.csv,en,Yi,억
+StrStr.csv,en,Wan,만
+StrStr.csv,en,"You are in matchmaking, unable to spectate.",경기를 찾는 중에는 관전할 수 없습니다.
+StrStr.csv,en,You are waiting for the match to start. Cannot view game logs.,경기 시작을 기다리고 있습니다. 게임 로그를 볼 수 없습니다.
