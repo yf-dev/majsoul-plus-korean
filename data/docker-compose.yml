@@ -2,6 +2,7 @@ version: "3"
 services:
     mpk:
         build: .
+        image: docker.pkg.github.com/yf-dev/majsoul-plus-korean/majsoul-plus-korean:v2
         network_mode: "host"
         volumes:
             - ..:/majsoul-plus-korean

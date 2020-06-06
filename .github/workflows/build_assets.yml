@@ -20,9 +20,19 @@ jobs:
         path: ./data/assets-original
         key: ${{ runner.os }}-${{ steps.get-majsoul-version.outputs.json }}
 
+    - name: Login to Github Package Registry
+      run: echo ${{ secrets.GITHUB_TOKEN }} | docker login docker.pkg.github.com -u $GITHUB_ACTOR --password-stdin
+
+    - name: Pull image from Github Package Registry
+      run: docker-compose pull || true
+      working-directory: ./data
+
     - name: Build docker image
       run: docker-compose build --force-rm --no-cache
       working-directory: ./data
+
+    - name: Push image to Github Package Registry
+      run: docker-compose push || true
     
     - name: Run docker image to build
       run: docker-compose run --rm mpk all
