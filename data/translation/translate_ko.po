@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-07 02:05+0000\n"
+"PO-Revision-Date: 2020-06-07 05:31+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -9108,7 +9108,7 @@ msgstr "이 플레이어는 더 이상 방에 없습니다. 이 메시지가 계
 #: translate_sheet.csv:718
 msgctxt "Unable to perform this action as you are not the room host."
 msgid "sheet|InfoError.csv|en|173c278409b933d5937e8eb0203d1211"
-msgstr "당신이 방 호스트 아니기 때문에 이 작업을 수행 할 수 없습니다."
+msgstr "당신이 방장이 아니기 때문에 이 작업을 수행 할 수 없습니다."
 
 #: translate_sheet.csv:719
 msgctxt "One or more players are not ready yet. Please wait."
