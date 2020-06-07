@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-07 05:31+0000\n"
+"PO-Revision-Date: 2020-06-07 13:02+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -18722,7 +18722,7 @@ msgstr ")과 새로운 캐릭터와 장식을 얻을 수 있습니다"
 #: translate_sheet.csv:2545
 msgctxt "Ron"
 msgid "sheet|VoiceSound.csv|name_en|c297455c41f2193cfb3b281ec04277fa"
-msgstr "Ron"
+msgstr "론"
 
 #: translate_sheet.csv:2544
 msgctxt "Riichi"
@@ -18732,7 +18732,7 @@ msgstr "리치"
 #: translate_sheet.csv:2543
 msgctxt "Riichi"
 msgid "sheet|VoiceSound.csv|name_en|a24a259048cb6a113d9eeba1d7647fce"
-msgstr "Riichi"
+msgstr "리치"
 
 #: translate_sheet.csv:2542
 msgctxt "Double Riichi"
@@ -18742,7 +18742,7 @@ msgstr "더블리치"
 #: translate_sheet.csv:2541
 msgctxt "Double Riichi"
 msgid "sheet|VoiceSound.csv|name_en|bc1c334ae4cb115572c529ec16f3100c"
-msgstr "Double Riichi"
+msgstr "더블 리치"
 
 #: translate_sheet.csv:2540
 msgctxt "{10}Kita"
@@ -18752,7 +18752,7 @@ msgstr "{10}북도라"
 #: translate_sheet.csv:2539
 msgctxt "Kita"
 msgid "sheet|VoiceSound.csv|name_en|aaa8bc3b73bb36e8638857dd41dbeaf3"
-msgstr "Kita"
+msgstr "북도라"
 
 #: translate_sheet.csv:2538
 msgctxt "Pon (Call for Triplet)"
@@ -18762,7 +18762,7 @@ msgstr "펑"
 #: translate_sheet.csv:2537
 msgctxt "Pon"
 msgid "sheet|VoiceSound.csv|name_en|25ad9e28babad3e903a3aa64c7256147"
-msgstr "Pon"
+msgstr "펑"
 
 #: translate_sheet.csv:2536
 msgctxt "Kan (Call for Quad)"
@@ -18772,7 +18772,7 @@ msgstr "깡"
 #: translate_sheet.csv:2535
 msgctxt "Kan"
 msgid "sheet|VoiceSound.csv|name_en|f60e8dbbc0c325f558c189cc9c7c3e06"
-msgstr "Kan"
+msgstr "깡"
 
 #: translate_sheet.csv:2534
 msgctxt "Chii"
@@ -18782,7 +18782,7 @@ msgstr "치"
 #: translate_sheet.csv:2533
 msgctxt "Chii"
 msgid "sheet|VoiceSound.csv|name_en|833a570d827e784b2fd4a2eab63aff48"
-msgstr "Chii"
+msgstr "치"
 
 #: translate_sheet.csv:2505
 msgctxt "Limited-time title Expiry date:"
@@ -19681,12 +19681,12 @@ msgstr "3인 마작 순위"
 #: translate_sheet.csv:2341
 msgctxt "4-Player Ranking Rules"
 msgid "sheet|StrStr.csv|en|beccbfc365ce85fb6b38c9ab588f9801"
-msgstr "4인 마작 순위 규칙"
+msgstr "4인 마작 등급 규칙"
 
 #: translate_sheet.csv:2340
 msgctxt "3-Player Ranking Rules"
 msgid "sheet|StrStr.csv|en|dd9ed0d2ce93ad9ca12b6829707515a0"
-msgstr "3인 마작 순위 규칙"
+msgstr "3인 마작 등급 규칙"
 
 #: translate_sheet.csv:2339
 msgctxt "Unable to connect the server, please try again later"
@@ -21670,377 +21670,377 @@ msgstr "각 플레이어는 대회 중 {0}번만 게임에 참가할 수 있습�
 #: translate_sheet.csv:2816
 msgctxt "SP - Tenpai with Baiman/Sanbaiman"
 msgid "sheet|VoiceSound.csv|name_en|ab0c8ec1fb7755d900cf63b962f1ab7d"
-msgstr "SP - Tenpai with Baiman/Sanbaiman"
+msgstr "SP - 배만/삼배만 텐파이"
 
 #: translate_sheet.csv:2814
 msgctxt "SP - Tenpai with Yakuman"
 msgid "sheet|VoiceSound.csv|name_en|53c007cac30974bb34344efd3bc04176"
-msgstr "SP - Tenpai with Yakuman"
+msgstr "SP - 역만 텐파이"
 
 #: translate_sheet.csv:2812
 msgctxt "SP - Less than 10 tiles remaining"
 msgid "sheet|VoiceSound.csv|name_en|661ec9acf96cacd6c4a3bf21fa6e608b"
-msgstr "SP - Less than 10 tiles remaining"
+msgstr "SP - 남은 패가 10개 미만일 때"
 
 #: translate_sheet.csv:2810
 msgctxt "SP - When discarding a Dora"
 msgid "sheet|VoiceSound.csv|name_en|f209f9c38b43594276da3a7c2ade42f7"
-msgstr "SP - When discarding a Dora"
+msgstr "SP - 도라를 버릴 때"
 
 #: translate_sheet.csv:2808
 msgctxt "SP - When discarding multiple identical tiles in a row"
 msgid "sheet|VoiceSound.csv|name_en|fc2fc94ef3294a89d9ae8996c1e2a120"
-msgstr "SP - When discarding multiple identical tiles in a row"
+msgstr "SP - 동일한 패를 연속으로 버릴 때"
 
 #: translate_sheet.csv:2804
 msgctxt "Bond Level Up Voice 5"
 msgid "sheet|VoiceSound.csv|name_en|15e811ff292e59d56e525f1cebe1a2a5"
-msgstr "Bond Level Up Voice 5"
+msgstr "인연 레벨 상승 음성 5"
 
 #: translate_sheet.csv:2743
 msgctxt "Pon (Call for Triplet)"
 msgid "sheet|VoiceSound.csv|name_en|57ac65abdeba550f2995f13d47260003"
-msgstr "Pon (Call for Triplet)"
+msgstr "펑"
 
 #: translate_sheet.csv:2742
 msgctxt "Kan (Call for Quad)"
 msgid "sheet|VoiceSound.csv|name_en|b384c9005ff8117f11a0b729ace63e44"
-msgstr "Kan (Call for Quad)"
+msgstr "깡"
 
 #: translate_sheet.csv:2740
 msgctxt "Nine Different Terminals and Honors"
 msgid "sheet|VoiceSound.csv|name_en|bb3d6e3480dc2645a6398dbb59ea7b71"
-msgstr "Nine Different Terminals and Honors"
+msgstr "구종구패"
 
 #: translate_sheet.csv:2738
 msgctxt "Four-Wind Discarded"
 msgid "sheet|VoiceSound.csv|name_en|f73da72a5bcfd81a63e4d6e2102b51c6"
-msgstr "Four-Wind Discarded"
+msgstr "사풍연타"
 
 #: translate_sheet.csv:2736
 msgctxt "Four-kan Abortion"
 msgid "sheet|VoiceSound.csv|name_en|fd152c15f126b6ae7bcb1ce448748e56"
-msgstr "Four-kan Abortion"
+msgstr "사깡유국"
 
 #: translate_sheet.csv:2734
 msgctxt "No-ten (No Ready Hand)"
 msgid "sheet|VoiceSound.csv|name_en|8be626bc36e9dbfd92b156b345630946"
-msgstr "No-ten (No Ready Hand)"
+msgstr "노텐"
 
 #: translate_sheet.csv:2732
 msgctxt "Tenpai (Ready Hand)"
 msgid "sheet|VoiceSound.csv|name_en|8c719d344cddb4b055a7bb140625bab2"
-msgstr "Tenpai (Ready Hand)"
+msgstr "텐파이"
 
 #: translate_sheet.csv:2730
 msgctxt "Sextuple Yakuman"
 msgid "sheet|VoiceSound.csv|name_en|7c8d0d03f064015a41e03744a65a9f1e"
-msgstr "Sextuple Yakuman"
+msgstr "6배 역만"
 
 #: translate_sheet.csv:2728
 msgctxt "Quintuple Yakuman"
 msgid "sheet|VoiceSound.csv|name_en|17d8567aadee21059bed246e731ae6f8"
-msgstr "Quintuple Yakuman"
+msgstr "5배 역만"
 
 #: translate_sheet.csv:2726
 msgctxt "Quadruple Yakuman"
 msgid "sheet|VoiceSound.csv|name_en|1c67878e85269553c17a432191386ec6"
-msgstr "Quadruple Yakuman"
+msgstr "4배 역만"
 
 #: translate_sheet.csv:2724
 msgctxt "Triple Yakuman"
 msgid "sheet|VoiceSound.csv|name_en|dcbb26a4a2225b7f9016210ada4043c0"
-msgstr "Triple Yakuman"
+msgstr "3배 역만"
 
 #: translate_sheet.csv:2722
 msgctxt "Double Yakuman"
 msgid "sheet|VoiceSound.csv|name_en|1dc5a6d60ccc09bcfaa67f8ecbb79bdc"
-msgstr "Double Yakuman"
+msgstr "더블 역만"
 
 #: translate_sheet.csv:2720
 msgctxt "Yakuman"
 msgid "sheet|VoiceSound.csv|name_en|6bf8ce9f4b0cadf8f93f314d0489606b"
-msgstr "Yakuman"
+msgstr "역만"
 
 #: translate_sheet.csv:2718
 msgctxt "Counted Yakuman"
 msgid "sheet|VoiceSound.csv|name_en|69c39bbdbf1b5c22e1e26f6b5ac5e3ef"
-msgstr "Counted Yakuman"
+msgstr "헤아림 역만"
 
 #: translate_sheet.csv:2716
 msgctxt "Sanbaiman"
 msgid "sheet|VoiceSound.csv|name_en|ec408107eb0d81651bef4e2e3b9ec0e4"
-msgstr "Sanbaiman"
+msgstr "삼배만"
 
 #: translate_sheet.csv:2714
 msgctxt "Baiman"
 msgid "sheet|VoiceSound.csv|name_en|671d162e9774348b3d4c316b8a41ea63"
-msgstr "Baiman"
+msgstr "배만"
 
 #: translate_sheet.csv:2712
 msgctxt "Haneman"
 msgid "sheet|VoiceSound.csv|name_en|1235b01f21057d97a5bcd020c6d1cfe1"
-msgstr "Haneman"
+msgstr "하네만"
 
 #: translate_sheet.csv:2710
 msgctxt "Mangan"
 msgid "sheet|VoiceSound.csv|name_en|aac1ed2ce3d22d76b339959c6f41590c"
-msgstr "Mangan"
+msgstr "만관"
 
 #: translate_sheet.csv:2708
 msgctxt "Mangan at Draw"
 msgid "sheet|VoiceSound.csv|name_en|6a7c8af2962c108638943650fe72ab41"
-msgstr "Mangan at Draw"
+msgstr "유국만관"
 
 #: translate_sheet.csv:2706
 msgctxt "True Nine Gates"
 msgid "sheet|VoiceSound.csv|name_en|b47dd8c8c410edb21c957d9886ae23e8"
-msgstr "True Nine Gates"
+msgstr "순정구련보등"
 
 #: translate_sheet.csv:2704
 msgctxt "Nine Gates"
 msgid "sheet|VoiceSound.csv|name_en|3a59640b863e44ff9ad87dd9e040f8c0"
-msgstr "Nine Gates"
+msgstr "구련보등"
 
 #: translate_sheet.csv:2702
 msgctxt "Four Quads"
 msgid "sheet|VoiceSound.csv|name_en|1daa5b709e3e375e7b20bb74315c6b20"
-msgstr "Four Quads"
+msgstr "스깡즈"
 
 #: translate_sheet.csv:2700
 msgctxt "Four Big Winds"
 msgid "sheet|VoiceSound.csv|name_en|163bbb75949a92890783fc6a4a62206d"
-msgstr "Four Big Winds"
+msgstr "대사희"
 
 #: translate_sheet.csv:2698
 msgctxt "Four Little Winds"
 msgid "sheet|VoiceSound.csv|name_en|420a3838274b338f321fa1eff733f48a"
-msgstr "Four Little Winds"
+msgstr "소사희"
 
 #: translate_sheet.csv:2696
 msgctxt "Thirteen-wait Thirteen Orphans"
 msgid "sheet|VoiceSound.csv|name_en|e538c2a56b6a2c79b3538b9dae2b981d"
-msgstr "Thirteen-wait Thirteen Orphans"
+msgstr "국사무쌍 13면대기"
 
 #: translate_sheet.csv:2694
 msgctxt "Thirteen Orphans"
 msgid "sheet|VoiceSound.csv|name_en|5f405ede71c2b239712185d073731b35"
-msgstr "Thirteen Orphans"
+msgstr "국사무쌍"
 
 #: translate_sheet.csv:2692
 msgctxt "All Terminals"
 msgid "sheet|VoiceSound.csv|name_en|275d3f144c90d510465ea365db46ec6c"
-msgstr "All Terminals"
+msgstr "청노두"
 
 #: translate_sheet.csv:2690
 msgctxt "All Green"
 msgid "sheet|VoiceSound.csv|name_en|1db76ab4c9191367a7561bb9cd3a2e8a"
-msgstr "All Green"
+msgstr "녹일색"
 
 #: translate_sheet.csv:2688
 msgctxt "All Honors"
 msgid "sheet|VoiceSound.csv|name_en|12cba6c6571f732033ca793a69df8fee"
-msgstr "All Honors"
+msgstr "자일색"
 
 #: translate_sheet.csv:2686
 msgctxt "Single-wait Four Concealed Triplets"
 msgid "sheet|VoiceSound.csv|name_en|6d67ade4c4a6edaf8346f89af279ca44"
-msgstr "Single-wait Four Concealed Triplets"
+msgstr "스안커 단기"
 
 #: translate_sheet.csv:2684
 msgctxt "Four Concealed Triplets"
 msgid "sheet|VoiceSound.csv|name_en|4482f1b451646649d7cf3f258d084ea8"
-msgstr "Four Concealed Triplets"
+msgstr "스안커"
 
 #: translate_sheet.csv:2682
 msgctxt "Big Three Dragons"
 msgid "sheet|VoiceSound.csv|name_en|dee8855e5d89fe6bd4d1651286f494e2"
-msgstr "Big Three Dragons"
+msgstr "대삼원"
 
 #: translate_sheet.csv:2680
 msgctxt "Blessing of Earth"
 msgid "sheet|VoiceSound.csv|name_en|aa63d3e8b649e70633eb6257dcf81add"
-msgstr "Blessing of Earth"
+msgstr "지화"
 
 #: translate_sheet.csv:2678
 msgctxt "Blessing of Heaven"
 msgid "sheet|VoiceSound.csv|name_en|8711ea7c6db0a617b885ff61bcd4d6d2"
-msgstr "Blessing of Heaven"
+msgstr "천화"
 
 #: translate_sheet.csv:2676
 msgctxt "Lots of Dora"
 msgid "sheet|VoiceSound.csv|name_en|3ed4a84589ba20b3be412561597b5d6c"
-msgstr "Lots of Dora"
+msgstr "많은 도라"
 
 #: translate_sheet.csv:2650
 msgctxt "Ippatsu"
 msgid "sheet|VoiceSound.csv|name_en|fcee07e57a15ee5f7905089efa0d0d62"
-msgstr "Ippatsu"
+msgstr "일발"
 
 #: translate_sheet.csv:2647
 msgctxt "Full Flush"
 msgid "sheet|VoiceSound.csv|name_en|b2dd4ef6541a9e0eef6aeceaca908432"
-msgstr "Full Flush"
+msgstr "청일색"
 
 #: translate_sheet.csv:2645
 msgctxt "Twice Pure Double Sequence"
 msgid "sheet|VoiceSound.csv|name_en|e7de1112a2e2996f2f4831a3401ab0f9"
-msgstr "Twice Pure Double Sequence"
+msgstr "량페코"
 
 #: translate_sheet.csv:2643
 msgctxt "Half Flush"
 msgid "sheet|VoiceSound.csv|name_en|2b5bc529522b051554e64ef81935574d"
-msgstr "Half Flush"
+msgstr "혼일색"
 
 #: translate_sheet.csv:2641
 msgctxt "Fully Outside Hand"
 msgid "sheet|VoiceSound.csv|name_en|34f8424f055d1c5f86f3ddfccdfc8843"
-msgstr "Fully Outside Hand"
+msgstr "준찬타"
 
 #: translate_sheet.csv:2639
 msgctxt "Seven Pairs"
 msgid "sheet|VoiceSound.csv|name_en|0bd8b72120e5c893f2b46bac43454e66"
-msgstr "Seven Pairs"
+msgstr "치또이츠"
 
 #: translate_sheet.csv:2637
 msgctxt "All Terminals and Honors"
 msgid "sheet|VoiceSound.csv|name_en|940c876c46f9c9fea15a564786478760"
-msgstr "All Terminals and Honors"
+msgstr "혼노두"
 
 #: translate_sheet.csv:2635
 msgctxt "Little Three Dragons"
 msgid "sheet|VoiceSound.csv|name_en|5cd64e16a6bd3e399c1d8717e8fbd0eb"
-msgstr "Little Three Dragons"
+msgstr "소삼원"
 
 #: translate_sheet.csv:2633
 msgctxt "Three Concealed Triplets"
 msgid "sheet|VoiceSound.csv|name_en|c59012eaa0bf83134fcfaa7f70f36814"
-msgstr "Three Concealed Triplets"
+msgstr "산안커"
 
 #: translate_sheet.csv:2631
 msgctxt "All Triplets"
 msgid "sheet|VoiceSound.csv|name_en|2b4a67c206a998f9023c1d5d797d339e"
-msgstr "All Triplets"
+msgstr "또이또이"
 
 #: translate_sheet.csv:2629
 msgctxt "Three Quads"
 msgid "sheet|VoiceSound.csv|name_en|812f5e9f1dcf1a39a54e55984ed72bfe"
-msgstr "Three Quads"
+msgstr "산깡즈"
 
 #: translate_sheet.csv:2627
 msgctxt "Triple Triplets"
 msgid "sheet|VoiceSound.csv|name_en|cbdc9caec675b8c016a21e2c82af6da2"
-msgstr "Triple Triplets"
+msgstr "삼색동각"
 
 #: translate_sheet.csv:2625
 msgctxt "Mixed Triple Sequence"
 msgid "sheet|VoiceSound.csv|name_en|3ea2915191c4bc107565b665945d8339"
-msgstr "Mixed Triple Sequence"
+msgstr "삼색동순"
 
 #: translate_sheet.csv:2623
 msgctxt "Pure Straight"
 msgid "sheet|VoiceSound.csv|name_en|c2a175e22af987a5c90392f962104566"
-msgstr "Pure Straight"
+msgstr "일기통관"
 
 #: translate_sheet.csv:2621
 msgctxt "Half Outside Hand"
 msgid "sheet|VoiceSound.csv|name_en|ae123760457f211f1836f318e6342240"
-msgstr "Half Outside Hand"
+msgstr "찬타"
 
 #: translate_sheet.csv:2619
 msgctxt "Pinfu"
 msgid "sheet|VoiceSound.csv|name_en|6386b202840c4e438939d8a9bb3fe36c"
-msgstr "Pinfu"
+msgstr "핑후"
 
 #: translate_sheet.csv:2617
 msgctxt "Pure Double Sequence"
 msgid "sheet|VoiceSound.csv|name_en|0bdf161567ea7bf013c3e4f0bf2597d2"
-msgstr "Pure Double Sequence"
+msgstr "이페코"
 
 #: translate_sheet.csv:2615
 msgctxt "All Simples"
 msgid "sheet|VoiceSound.csv|name_en|0f7e1b03698f14bf4120ceda8bb70af4"
-msgstr "All Simples"
+msgstr "탕야오"
 
 #: translate_sheet.csv:2613
 msgctxt "North Repeat"
 msgid "sheet|VoiceSound.csv|name_en|a22974b095520551e883c0ced0841b19"
-msgstr "North Repeat"
+msgstr "더블북"
 
 #: translate_sheet.csv:2611
 msgctxt "West Repeat"
 msgid "sheet|VoiceSound.csv|name_en|c2a6648c7b67a48dea1a10b97a99e68e"
-msgstr "West Repeat"
+msgstr "더블서"
 
 #: translate_sheet.csv:2609
 msgctxt "South Repeat"
 msgid "sheet|VoiceSound.csv|name_en|0f000d7d87cba25acd2ec952f4fa59c9"
-msgstr "South Repeat"
+msgstr "더블남"
 
 #: translate_sheet.csv:2607
 msgctxt "East Repeat"
 msgid "sheet|VoiceSound.csv|name_en|168c2ed6e22ddeb40f0cae0e321b2c40"
-msgstr "East Repeat"
+msgstr "더블동"
 
 #: translate_sheet.csv:2599
 msgctxt "North"
 msgid "sheet|VoiceSound.csv|name_en|601560b94fbb188919dd1d36c8ab70a4"
-msgstr "North"
+msgstr "북"
 
 #: translate_sheet.csv:2597
 msgctxt "West"
 msgid "sheet|VoiceSound.csv|name_en|bf495fc048d8d44b7f32536df5cf3930"
-msgstr "West"
+msgstr "서"
 
 #: translate_sheet.csv:2595
 msgctxt "South"
 msgid "sheet|VoiceSound.csv|name_en|263d7b2cf53802c9ed127b718c0bf9fd"
-msgstr "South"
+msgstr "남"
 
 #: translate_sheet.csv:2593
 msgctxt "East"
 msgid "sheet|VoiceSound.csv|name_en|a99dc62d017d04cf67266593f9c3761e"
-msgstr "East"
+msgstr "동"
 
 #: translate_sheet.csv:2587
 msgctxt "After a Kan"
 msgid "sheet|VoiceSound.csv|name_en|8d1e2f6f5f26455a18916a4771dba2d8"
-msgstr "After a Kan"
+msgstr "영상개화"
 
 #: translate_sheet.csv:2585
 msgctxt "Robbing a Kan"
 msgid "sheet|VoiceSound.csv|name_en|ed51bd96928fac2b94f12b757b6553a6"
-msgstr "Robbing a Kan"
+msgstr "창깡"
 
 #: translate_sheet.csv:2583
 msgctxt "Bond Level Up Voice 4"
 msgid "sheet|VoiceSound.csv|name_en|9cfed6f58550f8be48c346cf26960446"
-msgstr "Bond Level Up Voice 4"
+msgstr "인연 레벨 상승 음성 4"
 
 #: translate_sheet.csv:2581
 msgctxt "Bond Level Up Voice 3"
 msgid "sheet|VoiceSound.csv|name_en|6530dca8e29b0342327f926ac4bfa07d"
-msgstr "Bond Level Up Voice 3"
+msgstr "인연 레벨 상승 음성 3"
 
 #: translate_sheet.csv:2579
 msgctxt "Bond Level Up Voice 2"
 msgid "sheet|VoiceSound.csv|name_en|44075d0c56160934972cf4cae04a0bff"
-msgstr "Bond Level Up Voice 2"
+msgstr "인연 레벨 상승 음성 2"
 
 #: translate_sheet.csv:2577
 msgctxt "Bond Level Up Voice 1"
 msgid "sheet|VoiceSound.csv|name_en|97a22832686ec0952a63b3e617f7d0a4"
-msgstr "Bond Level Up Voice 1"
+msgstr "인연 레벨 상승 음성 1"
 
 #: translate_sheet.csv:2575
 msgctxt "Receiving Gift - Preferred"
 msgid "sheet|VoiceSound.csv|name_en|b1357964262a259bd2e759e1fdf6c2f9"
-msgstr "Receiving Gift - Preferred"
+msgstr "선물을 받을 때 - 선호"
 
 #: translate_sheet.csv:2573
 msgctxt "Receiving Gift - Normal"
 msgid "sheet|VoiceSound.csv|name_en|a70375a8d76c77b25ec5b5f10c986e0b"
-msgstr "Receiving Gift - Normal"
+msgstr "선물을 받을 때 - 일반"
 
 #: translate_sheet.csv:2571
 msgctxt "Lobby Interactive Voice 8"
@@ -22085,114 +22085,1227 @@ msgstr "로비 상호작용 음성 1"
 #: translate_sheet.csv:2555
 msgctxt "Login Voice - Max Bond"
 msgid "sheet|VoiceSound.csv|name_en|4a2c9a8771f0d461511439a28b8b8bb4"
-msgstr "Login Voice - Max Bond"
+msgstr "로그인 음성 - 최대 인연"
 
 #: translate_sheet.csv:2553
 msgctxt "Login Voice - Normal"
 msgid "sheet|VoiceSound.csv|name_en|b95e81e396a7cf682369244eb2af3590"
-msgstr "Login Voice - Normal"
+msgstr "로그인 음성 - 일반"
 
 #: translate_sheet.csv:2551
 msgctxt "Voice when obtained"
 msgid "sheet|VoiceSound.csv|name_en|75d83fdedcf9faff8db96efa0b981a05"
-msgstr "Voice when obtained"
+msgstr "획득시 음성"
 
 #: translate_sheet.csv:2549
 msgctxt "Finishing a game at 1st place"
 msgid "sheet|VoiceSound.csv|name_en|6f5ccf5b6fcbfda863221b9243b1e312"
-msgstr "Finishing a game at 1st place"
+msgstr "1위로 게임 종료"
 
 #: translate_sheet.csv:2547
 msgctxt "Tsumo"
 msgid "sheet|VoiceSound.csv|name_en|4a9a44674169dda05397df16a02fac8f"
-msgstr "Tsumo"
+msgstr "쯔모"
 
 #: translate_sheet.csv:2806
 msgctxt "Bond"
 msgid "sheet|VoiceSound.csv|name_en|7a3b691731db2969498907b960183633"
-msgstr "Bond"
+msgstr "인연"
 
 #: translate_sheet.csv:2674
 msgctxt "Dora 12"
 msgid "sheet|VoiceSound.csv|name_en|9e7ed3ab453345e9d8f068612482e93e"
-msgstr "Dora 12"
+msgstr "도라 12"
 
 #: translate_sheet.csv:2672
 msgctxt "Dora 11"
 msgid "sheet|VoiceSound.csv|name_en|04cdfe64334d580929ae2847eba2783c"
-msgstr "Dora 11"
+msgstr "도라 11"
 
 #: translate_sheet.csv:2670
 msgctxt "Dora 10"
 msgid "sheet|VoiceSound.csv|name_en|8b1ccb1d4ac1325032c19b0596ee335b"
-msgstr "Dora 10"
+msgstr "도라 10"
 
 #: translate_sheet.csv:2668
 msgctxt "Dora 9"
 msgid "sheet|VoiceSound.csv|name_en|7d2d4655ff4f8dfc26f4e006ebd2d2a2"
-msgstr "Dora 9"
+msgstr "도라 9"
 
 #: translate_sheet.csv:2666
 msgctxt "Dora 8"
 msgid "sheet|VoiceSound.csv|name_en|f84743988904d81f035d7926d7020556"
-msgstr "Dora 8"
+msgstr "도라 8"
 
 #: translate_sheet.csv:2664
 msgctxt "Dora 7"
 msgid "sheet|VoiceSound.csv|name_en|93c4a337de3640f6e7372ea5ad286006"
-msgstr "Dora 7"
+msgstr "도라 7"
 
 #: translate_sheet.csv:2662
 msgctxt "Dora 6"
 msgid "sheet|VoiceSound.csv|name_en|da181a97c9a54229210ce749c949b5f8"
-msgstr "Dora 6"
+msgstr "도라 6"
 
 #: translate_sheet.csv:2660
 msgctxt "Dora 5"
 msgid "sheet|VoiceSound.csv|name_en|c44e0c13868f9a5fc276aa647141c25c"
-msgstr "Dora 5"
+msgstr "도라 5"
 
 #: translate_sheet.csv:2658
 msgctxt "Dora 4"
 msgid "sheet|VoiceSound.csv|name_en|83d515177d9f317f8f853f1204f85680"
-msgstr "Dora 4"
+msgstr "도라 4"
 
 #: translate_sheet.csv:2656
 msgctxt "Dora 3"
 msgid "sheet|VoiceSound.csv|name_en|9f25cdf3bcd81c071cf6653ddb2046bf"
-msgstr "Dora 3"
+msgstr "도라 3"
 
 #: translate_sheet.csv:2654
 msgctxt "Dora 2"
 msgid "sheet|VoiceSound.csv|name_en|890e355121c061a7a02baaebbd88694d"
-msgstr "Dora 2"
+msgstr "도라 2"
 
 #: translate_sheet.csv:2652
 msgctxt "Dora"
 msgid "sheet|VoiceSound.csv|name_en|affa5249363911dd655e5a7cfacb49e6"
-msgstr "Dora"
+msgstr "도라"
 
 #: translate_sheet.csv:2605
 msgctxt "Green"
 msgid "sheet|VoiceSound.csv|name_en|d382816a3cbeed082c9e216e7392eed1"
-msgstr "Green"
+msgstr "발"
 
 #: translate_sheet.csv:2603
 msgctxt "White"
 msgid "sheet|VoiceSound.csv|name_en|25a81701fbfa4a1efdf660a950c1d006"
-msgstr "White"
+msgstr "백"
 
 #: translate_sheet.csv:2601
 msgctxt "Red"
 msgid "sheet|VoiceSound.csv|name_en|ee38e4d5dd68c4e440825018d549cb47"
-msgstr "Red"
+msgstr "중"
 
 #: translate_sheet.csv:2591
 msgctxt "Under the River"
 msgid "sheet|VoiceSound.csv|name_en|ecf2460302f6d703c297fd0ab1702603"
-msgstr "Under the River"
+msgstr "하저로어"
 
 #: translate_sheet.csv:2589
 msgctxt "Under the Sea"
 msgid "sheet|VoiceSound.csv|name_en|41fd01ff85357984bc66c12be95d24f6"
-msgstr "Under the Sea"
+msgstr "해저로월"
+
+#: translate_sheet.csv:2843
+msgctxt "I feel really sorry to you all if I win this hand..."
+msgid "sheet|VoiceSound.csv|words_en|0fd94f53de61ead5541b039e70fde248"
+msgstr "이렇게 화료하면, 상대분들께 죄송스럽네요..."
+
+#: translate_sheet.csv:2842
+msgctxt "The God has blessed me!"
+msgid "sheet|VoiceSound.csv|words_en|6f4dab46b16f6a09e4eb2eecd6f897b9"
+msgstr "신의 가호가 있기를, 이네요."
+
+#: translate_sheet.csv:2841
+msgctxt "Mai will keep fighting till the end!"
+msgid "sheet|VoiceSound.csv|words_en|c3ee95b224152fd0c4309df79f67b0b9"
+msgstr "마이, 끝까지 노력하겠습니다. 자!"
+
+#: translate_sheet.csv:2840
+msgctxt "Aw! That's a Dora!"
+msgid "sheet|VoiceSound.csv|words_en|df01e2d92340023ffbec95ebe1268874"
+msgstr "꺄, 도라가...!"
+
+#: translate_sheet.csv:2839
+msgctxt "Hmm..."
+msgid "sheet|VoiceSound.csv|words_en|de0f1abf9bb5237cb3eac6d75f864d51"
+msgstr "으으..."
+
+#: translate_sheet.csv:2838
+msgctxt ""
+"These two pieces of ceremonial attire are called maetengan (crown) and "
+"chihaya (robe). Apart from rituals, t-they are only worn at wedding "
+"ceremonies... Um... Master, you really don't get it. *Sobbing* ...Eh? Do you"
+" think Mai looks beautiful tonight? Master... you always do this to me. "
+"That's why Mai... Ahehe..."
+msgid "sheet|VoiceSound.csv|words_en|02dcc43ebc32d961de9e3854d79178e5"
+msgstr ""
+"이것은... 면류관과 치하야라는 것입니다. 신사 제례 때와... 겨, 결혼식 때밖에 못 입는 거라서... 하으... 주인님, 정말 전혀 "
+"모르고 계시네요. 훌쩍... 예? 오늘 밤의 마이는 예쁘다고, 그렇게 생각해 주시는 건가요? 주인님... 당신은 항상 그렇죠. 그래서 "
+"마이는... 후후..."
+
+#: translate_sheet.csv:2837
+msgctxt ""
+"Master, can I call your name directly in future? Just occasionally..."
+msgid "sheet|VoiceSound.csv|words_en|982b8c76b9b7cb784937125e0052a613"
+msgstr "주인님, 주인님을 그... 성함으로 불러도... 괜찮을까요? ...아, 아뇨, 가끔... 가끔씩 말이에요..."
+
+#: translate_sheet.csv:2836
+msgctxt ""
+"I heard that taking a priestess’ personal accessories can increase your "
+"chance to get Ura Dora... Please, accept mine..."
+msgid "sheet|VoiceSound.csv|words_en|d6f511ed928c41523349965d48bf0173"
+msgstr "무녀가 지닌 물건을 가지고 있으면, 도라가 붙기 쉬워진다고 들었습니다... 그러니까, 주인님, 마이의... 받아주세요..."
+
+#: translate_sheet.csv:2835
+msgctxt "Master, I have prayed for you to God again today."
+msgid "sheet|VoiceSound.csv|words_en|42182124d1e89ead6f088ceecae7250d"
+msgstr "주인님, 마이는 오늘도 주인님을 위해 기원을 드렸다구요?"
+
+#: translate_sheet.csv:2834
+msgctxt ""
+"Master, you are different from others. Each time I see you, I feel very "
+"happy."
+msgid "sheet|VoiceSound.csv|words_en|0e834f1d9b9f756ad58b3cbcb5ae5edf"
+msgstr "주인님은 다른 사람들하고 느낌이 달라요... 주인님의 얼굴을 볼 때마다... 왠지 가슴이 두근두근 거립니다."
+
+#: translate_sheet.csv:2833
+msgctxt ""
+"Ah—! Master, you cannot read that b-book! I-it's only an ordinary gardening "
+"book, I don't think you will be interested... No-no, please don't, I can't "
+"show you the book, no way... U-unless you promise Mai that you will never "
+"hate Mai for it."
+msgid "sheet|VoiceSound.csv|words_en|e1ceb5353ecde7e3dba7047d37e98673"
+msgstr ""
+"아아! 안돼요! 이 책은 보여드릴 수... 아뇨, 이건 별로 수상한게 아니라, 그, 그냥 원예책이에요. 주인님께는 재미 없을 거라고 "
+"생각합니... 아, 안돼안돼안돼, 절대로 안돼요! ...으으, 어떻게 해서든 보시겠다면... 절대로 마이를 싫어하지 않겠다고 "
+"약속해주세요..."
+
+#: translate_sheet.csv:2832
+msgctxt "Thanks for taking your time to pick me a gift. I love it."
+msgid "sheet|VoiceSound.csv|words_en|36760fb88b73cda6935f8f75de3b6a50"
+msgstr "주인님이 마이를 위해 골라 주신 선물, 정말 마음에 들어요."
+
+#: translate_sheet.csv:2831
+msgctxt "Thank you very much!"
+msgid "sheet|VoiceSound.csv|words_en|9fb9feae82444220e3c1765fca701813"
+msgstr "대단히 감사합니다!"
+
+#: translate_sheet.csv:2830
+msgctxt ""
+"Please hold my hands while you’re praying this time... Hmm... (expresses "
+"happiness)... (suddenly snaps out of it) Oops, sorry, I forgot my lines!"
+msgid "sheet|VoiceSound.csv|words_en|9ed79fa596e3b98ef99ee71277d36493"
+msgstr ""
+"오늘의 기원은... 마이가 주인님의 손을 잡고 하는군요... 음... 응? 아... 어라? 으으... 죄송합니다... 축문을 깜빡 "
+"잊어버렸어요!"
+
+#: translate_sheet.csv:2829
+msgctxt ""
+"You don’t look very well today, master. Are you feeling sick? Having a bad "
+"mood? If you need to let yourself out, feel free to come to me."
+msgid "sheet|VoiceSound.csv|words_en|8b1d0ed045a7e225fe6546b9ab86fffe"
+msgstr ""
+"저... 오늘 주인님, 왠지 기운이 없어 보이네요. 몸이 안 좋으세요? 아니면 기분이 언짢으신가요? 만약 스트레스를 풀고 싶다면, 마이가 "
+"언제든지 상대해 드릴게요."
+
+#: translate_sheet.csv:2828
+msgctxt "Ah, master... Please don’t stare at me, I am shy..."
+msgid "sheet|VoiceSound.csv|words_en|7897af6d6b4410d8ba08142a9cf71a35"
+msgstr "저기... 주인님, 너무... 보지 말아주세요... 부끄러워요..."
+
+#: translate_sheet.csv:2827
+msgctxt ""
+"Spirits have their ups and downs, just like the luck of Mahjong. So, if you "
+"are too tired, don’t force yourself to play."
+msgid "sheet|VoiceSound.csv|words_en|690475efc641134c2bc5c70d507130c6"
+msgstr ""
+"영력은 일정하지 않습니다. 영력의 힘에 의해 운도 오르내리기 때문에... 피곤하실 때에는 마작을 쉬시는 편이 좋다고 생각한다구요?"
+
+#: translate_sheet.csv:2826
+msgctxt "Oops... I just scored another Ippatsu on you..."
+msgid "sheet|VoiceSound.csv|words_en|f14ef54e9d4e7d1de38d3409209b67fb"
+msgstr "음... 또 주인님의 일발을 뺏어 버렸어요..."
+
+#: translate_sheet.csv:2825
+msgctxt "Ah, that one! Don’t touch it! ..."
+msgid "sheet|VoiceSound.csv|words_en|2eb6e0ba1fbea9582b4b1a7cdaa0baf4"
+msgstr "아, 거긴! 거긴 만지면 안됩니다!..."
+
+#: translate_sheet.csv:2824
+msgctxt ""
+"Magic Mahjong? I have only heard of spiritual Mahjong... If you would like "
+"to replenish your spirits... Maybe I can help..."
+msgid "sheet|VoiceSound.csv|words_en|84debfc31e65fc6642b4769609b7c5ab"
+msgstr "마법 마작? 영력 마작 밖에 들어본 적이 없지만... 만약 영력을 보충하고 싶은 손님이 계시다면, 저 마이가 도와드릴..."
+
+#: translate_sheet.csv:2823
+msgctxt "Oh... sorry! I didn’t mean to win from you..."
+msgid "sheet|VoiceSound.csv|words_en|50f71277ececbcde3404357180959d04"
+msgstr "죄, 죄송합니다! 일부러 주인님의 패를 노린 것은 아닙니다..."
+
+#: translate_sheet.csv:2822
+msgctxt "I am very happy to see you here again today..."
+msgid "sheet|VoiceSound.csv|words_en|7657044806d6b8e9ebd02029d9b842f1"
+msgstr "오늘도 주인님을 만날 수 있어서 마이는 무척 기쁘답니다..."
+
+#: translate_sheet.csv:2821
+msgctxt "Master...have you come to accept my cleansing again today?"
+msgid "sheet|VoiceSound.csv|words_en|436ebfd2afbd7b5a79326b72ae898731"
+msgstr "주인님, 오늘도... 오늘도 마이가 액막이 해드릴까요?"
+
+#: translate_sheet.csv:2820
+msgctxt "Nice...to...meet you."
+msgid "sheet|VoiceSound.csv|words_en|ddbc6da3804b0912fade772f248c2d91"
+msgstr "마, 만나서 반갑습니...다. 아무쪼록 잘 부탁드립니다..."
+
+#: translate_sheet.csv:2819
+msgctxt "I couldn’t win without you all."
+msgid "sheet|VoiceSound.csv|words_en|198ad8bafd3a5542cc6b80bef512725b"
+msgstr "덕분에 이길 수 있었습니다."
+
+#: translate_sheet.csv:2818
+msgctxt "Oops, Tsumo..."
+msgid "sheet|VoiceSound.csv|words_en|ebf6c26985328fbffe7341709adc761b"
+msgstr "앗, 쯔모에요..."
+
+#: translate_sheet.csv:2817
+msgctxt "Chiori's the best!"
+msgid "sheet|VoiceSound.csv|words_en|f9453f9a5c7b111e09ecb781a5ae36d9"
+msgstr "역시 치오리님이야!"
+
+#: translate_sheet.csv:2815
+msgctxt "Hohoho, I wonder who will be the lucky one?"
+msgid "sheet|VoiceSound.csv|words_en|4fc44de51f3cae8ce698ab773dbe9100"
+msgstr "후후후... 누가 운이 좋은지 두고 보자고."
+
+#: translate_sheet.csv:2813
+msgctxt ""
+"Hoho, even if it's late game, Chiori will still go all out! That's Chiori's "
+"style!"
+msgid "sheet|VoiceSound.csv|words_en|45f90e457c39de287221e8feeaa5306f"
+msgstr "흐흥, 마지막까지 최선을 다해서! 이게 치오리의 작법이니까!"
+
+#: translate_sheet.csv:2811
+msgctxt "Tsk... What a pity."
+msgid "sheet|VoiceSound.csv|words_en|4f7d7ee47109603e8e20967811d87ac3"
+msgstr "쳇... 아쉽네."
+
+#: translate_sheet.csv:2809
+msgctxt "Ouch!! I'm so angry!"
+msgid "sheet|VoiceSound.csv|words_en|608228bbacba42f1a8c08ae95ace91ef"
+msgstr "우~~! 짜증나!"
+
+#: translate_sheet.csv:2807
+msgctxt ""
+"D-don't look! Even if you won, you are not allowed to look! Idiot! Pervert! "
+"Fool! Who, who told you it would be fine to just praise Chiori's dress!? "
+"Chiori's cuteness is unquestioned! Your approval is not needed at all... "
+"What did you say? \"I will never see any girl more adorable than Chiori, so "
+"I want to admire as much as possible\"...? ...Hmph! Fine, C-Chiori is very "
+"kind, you can appreciate me just a little longer."
+msgid "sheet|VoiceSound.csv|words_en|f60ff29e185cc2cda19f6b0bf4d6d635"
+msgstr ""
+"보, 보면 안돼! 노름에서 이겨도 보는 건 안돼! 바보! 변태! 멍청이! 누, 누가 치오리의 이 모습을 귀엽다고 평가해도 된다고 했어!? "
+"치오리가 귀여운건 당연하잖아. 별로 그쪽한테 인정받지 못한다고 해도... 뭐야? \"어차피 앞으로 치오리보다 귀여운 아이를 만날 일은 "
+"없을 테고, 지금 많이 보고 본전은 찾고 싶다\"고...? ...흥! 치, 치오리는 상냥하니까 조금은 봐도 좋아."
+
+#: translate_sheet.csv:2805
+msgctxt ""
+"You picked Chiori such a beautiful new dress. That’s very bold. Well, but as"
+" a mature girl, Chiori doesn't mind it at all, you know?"
+msgid "sheet|VoiceSound.csv|words_en|8745eba74d8b7d2041421b5724d87289"
+msgstr "치오리에게 이런 멋진 옷을 선물하다니, 꽤 건방지네! 뭐... 치오리는 어른이니까, 세세한건 눈감아 주겠지만 말이야."
+
+#: translate_sheet.csv:2803
+msgctxt ""
+"Hmpf... Your Mahjong skills are improving quickly. It is not surprised, "
+"since you have been with Chiori for a long time. Still, you are nowhere near"
+" Chiori's level, so keep working on it~"
+msgid "sheet|VoiceSound.csv|words_en|1a7dd71b8f6edf4a41702c771d9cd3f9"
+msgstr ""
+"흥... 상당히 능숙해진 것 같네? 뭐, 이 치오리님과 계속 함께 있으니까 당연한 거이만. 그래도 아직 내 발밑에도 못 미치니까 더 "
+"열심히 하라구?"
+
+#: translate_sheet.csv:2802
+msgctxt ""
+"It bothers that you are trying to appeal to Chiori everyday. Anyway, I can "
+"accept your kindness for now."
+msgid "sheet|VoiceSound.csv|words_en|73c93382c119f7042e69bdd60f6d851b"
+msgstr "매일 치오리님의 비위를 맞추는 거... 확실히 귀찮지만! 뭐, 어쩔 수 없으니~ 받아 줄게."
+
+#: translate_sheet.csv:2801
+msgctxt ""
+"Has anyone ever told you how bad your skills are? How pathetic. They must "
+"think you are hopeless... All right, let \"ME\" give you a special lesson~"
+msgid "sheet|VoiceSound.csv|words_en|3fcc1ff0e794a2504a546badf56231a2"
+msgstr ""
+"그쪽 말이야, 마작 풋내기라고 불렸지? ...뭐, 구제불능 바보니까 그렇게 불려도 당연한거지만... 조금은 어율려 줄게. ...어쩔 수 "
+"없네, 이 치오리님이 그쪽을 특훈시켜 줄게!"
+
+#: translate_sheet.csv:2800
+msgctxt ""
+"Hmph, only an arrogant fool would want to challenge Chiori with this \"game "
+"theory\" thing... Huh!? Scared? No way! No matter what challenges you "
+"propose, Chiori will accept all of them! It's too late to regret now! "
+"Hmph... Speaking of it, what does \"game theory\" mean anyway?"
+msgid "sheet|VoiceSound.csv|words_en|82eba6a4a44f8ebde734c61b7152a321"
+msgstr ""
+"우후후, 바보라서 두려워하지도 않나 보네. 치오리에게 노름 승부라니... 뭐!? 무섭다니, 말도 안 돼! 어떤 승부라도 치오리는 "
+"받아줄게! 후회해도 늦었으니까! 흐흥... 그런데, 노름이란게 뭐야?"
+
+#: translate_sheet.csv:2799
+msgctxt ""
+"You have a good taste in gifts. But that doesn’t mean Chiori will like you."
+msgid "sheet|VoiceSound.csv|words_en|059caea1fa991ddefe4dc2c1eeb71868"
+msgstr "꽤 센스가 좋잖아. 그래도, 이정도로 치오리와 친해질 수 있다고 생각하지는 마?"
+
+#: translate_sheet.csv:2798
+msgctxt "What is it? Is this for Chiori? Thanks!"
+msgid "sheet|VoiceSound.csv|words_en|ea9f31c90715888b3dffb31dd977cc29"
+msgstr "뭐야 뭐야? 주는거야~? 고마워!"
+
+#: translate_sheet.csv:2797
+msgctxt ""
+"Why do you keep looking at Chiori's pudding? Do you want to eat it? Really? "
+"What a pervert. Fine, open your mouth... You can have a small bite~"
+msgid "sheet|VoiceSound.csv|words_en|cb308745b2e6ad4e7addf326d49862b7"
+msgstr ""
+"누구 푸딩을 빤히 보고 있는 거야! 혹시... 먹고싶은거야? 흐응~ 치오리가 먹던걸 먹고싶다니, 변태네~ ...자, 아~ 해봐. 어쩔 수 "
+"없으니까 한 입만 나눠줄게."
+
+#: translate_sheet.csv:2796
+msgctxt ""
+"Wow, this cafe is quite unique, let’s go... You look pretty familiar with "
+"this kind of place. You are allowed to bring Chiori there, just for today "
+"only. Let’s go, hurry up~"
+msgid "sheet|VoiceSound.csv|words_en|de11069fed81ef0d316b30badca7b4f3"
+msgstr ""
+"와~ 세련된 카페... 그쪽, 이런 곳에 익숙해 보이니까 오늘은 특별히 치오리를 에스코트하는 역할을 맡게 해줄게. 자, 빨리 들어가자!"
+
+#: translate_sheet.csv:2795
+msgctxt ""
+"You don’t look too annoying. Well, Chiori is very kind, she can let you win "
+"this one."
+msgid "sheet|VoiceSound.csv|words_en|76cd39ec382f5dd89b258674f5670253"
+msgstr "그 쪽, 그렇게까지 싫어할 녀석은 아닌것 같네. 뭐, 치오리님은 상냥하니까, 한 번 정도는 이기게 해줘도 괜찮을까 싶네."
+
+#: translate_sheet.csv:2794
+msgctxt ""
+"Hey, check this out! This dress and that dress, which one suits Chiori "
+"better?"
+msgid "sheet|VoiceSound.csv|words_en|3cfbe75ef7c54d81b26222ecf9c0704c"
+msgstr "저기 저기 봐봐! 이 옷이랑 이 옷, 어느 쪽이 더 어울린다고 생각해?"
+
+#: translate_sheet.csv:2793
+msgctxt ""
+"Those who play Mahjong better than Chiori aren’t as cute. Those who are "
+"cuter than Chiori... Tsk, they don’t exist!"
+msgid "sheet|VoiceSound.csv|words_en|ab55a76559efac4cef303765b5efffdc"
+msgstr ""
+"만약 치오리보다 마작을 더 잘한다고 해도, 귀여운건 치오리쪽이 더 귀여운걸. 만약 치오리보다 귀엾다고 해도... 라니, 그런 사람이 있을 "
+"리 없지!"
+
+#: translate_sheet.csv:2792
+msgctxt ""
+"Idiot! Pervert! Fool! ...Um, aren’t you mad at all? What a strange person."
+msgid "sheet|VoiceSound.csv|words_en|8b703444177b6604b329e08597032d33"
+msgstr "바보! 변태! 멍청이! ...으, 화내지 않는거야? 이상한 사람이네."
+
+#: translate_sheet.csv:2791
+msgctxt ""
+"Why are you looking at Chiori like that? Are you thinking of something "
+"dirty?"
+msgid "sheet|VoiceSound.csv|words_en|f3d06e270cb01fa0e69eef20aa40ec18"
+msgstr "뭐야, 빤히 보고. 야한 생각이라도 하고 있는거야?"
+
+#: translate_sheet.csv:2790
+msgctxt "Do you think this tile is safe? What a simple-minded fool."
+msgid "sheet|VoiceSound.csv|words_en|977d1d096ab7187e39eb0954cde846f0"
+msgstr "이・근・처・가... 안전패라고 생각해? 후훗~ 단순한 녀석이네."
+
+#: translate_sheet.csv:2789
+msgctxt "Why are you so late? Hmpf! You must be doing something bad."
+msgid "sheet|VoiceSound.csv|words_en|cde7015c29db9cbf8f36c56c85ec369a"
+msgstr "오는게 늦어! 흥! 어차피 이상한 짓이라도 했겠지!"
+
+#: translate_sheet.csv:2788
+msgctxt "Why are you here again?"
+msgid "sheet|VoiceSound.csv|words_en|4317f1d500162caff82e6fc3258ef622"
+msgstr "응? 왜 또 왔어?"
+
+#: translate_sheet.csv:2787
+msgctxt ""
+"Huh? Are you the new Mahjong player? You look terrible. Don’t hold Chiori "
+"back."
+msgid "sheet|VoiceSound.csv|words_en|54c031f9b02f74069ea6816fe4062087"
+msgstr "흐응? 그쪽이 새로운 작사야? 궁상스러운 얼굴이네. 뭐, 치오리의 발목만 잡지 말라고."
+
+#: translate_sheet.csv:2786
+msgctxt "It’s such a pleasure to play Mahjong with everyone!"
+msgid "sheet|VoiceSound.csv|words_en|ac598b93383474890479ec38a780296f"
+msgstr "모두와 함께 마작 치는건 재밌어!"
+
+#: translate_sheet.csv:2785
+msgctxt "Hohoho, Tsumo!"
+msgid "sheet|VoiceSound.csv|words_en|c6d8a2856df164389426b41d9b4e992e"
+msgstr "흐흥, 쯔모!"
+
+#: translate_sheet.csv:2784
+msgctxt "Ron"
+msgid "sheet|VoiceSound.csv|words_en|c297455c41f2193cfb3b281ec04277fa"
+msgstr "론"
+
+#: translate_sheet.csv:2783
+msgctxt "From now on, I will be a fan of yours. You must also shine for me~"
+msgid "sheet|VoiceSound.csv|words_en|b0252904124a1b738d3c2fb8d1956934"
+msgstr "오늘부터 카나짱은 너의 팬이야! 팬님도 카나짱을 위해 빛나야 해!"
+
+#: translate_sheet.csv:2782
+msgctxt ""
+"Hey, if I’m no longer an idol, will you still support me as you always? "
+"...Haha, just kidding!"
+msgid "sheet|VoiceSound.csv|words_en|d621435712aed7b7c295676c3306e764"
+msgstr "저기, 만약 카나짱이 아이돌을 그만두더라도, 지금까지처럼 나를 응원해줄래...? ...하하, 농담이야~!"
+
+#: translate_sheet.csv:2781
+msgctxt ""
+"You are always cheering for me whenever I feel tired. I will work hard, for "
+"you!"
+msgid "sheet|VoiceSound.csv|words_en|396419d1b061b347cb67207fa44c1323"
+msgstr "팬님은 언제나 카나짱이 지쳤을 때 격려해줬으니까... 나도! 팬님을 응원할게!"
+
+#: translate_sheet.csv:2780
+msgctxt "I will work twice as hard today!"
+msgid "sheet|VoiceSound.csv|words_en|362b8f8fcc24872edc52928fc29a9e1e"
+msgstr "카나짱, 오늘도 힘낼거야!"
+
+#: translate_sheet.csv:2779
+msgctxt "Wow! ~~~~~~~This is great!!!!!! Thank you!"
+msgid "sheet|VoiceSound.csv|words_en|23010bfc11bc331f8828786d35b04ab8"
+msgstr "와아! 이거 너무 멋져! 고마워!"
+
+#: translate_sheet.csv:2778
+msgctxt "Thank you for your support!"
+msgid "sheet|VoiceSound.csv|words_en|e10d9b166db79806e43a4ffe4e63d997"
+msgstr "잔뜩 응원해줘서 고마워!"
+
+#: translate_sheet.csv:2777
+msgctxt ""
+"Here’s a special sleep therapy voice for you. One sheep, two sheep, three "
+"sheep, four... ZZZZZ..."
+msgid "sheet|VoiceSound.csv|words_en|4786edddba5b1a2ea6e660030b543b2e"
+msgstr "카나짱이 팬님을 잠들게 해줄게요. 네, 양 한 마리, 양 두 마리, 양 세 마리, 양... 네마... 리... zzz..."
+
+#: translate_sheet.csv:2776
+msgctxt ""
+"I didn't expect you to be so charming when you’re playing Mahjong~ For a "
+"second there I was attracted to you! But it was just for a moment only! "
+"Haha~"
+msgid "sheet|VoiceSound.csv|words_en|5aa89dc4348d0fc5357c2f6fa055f21c"
+msgstr "마작을 하고 있는 팬님 모습이 정말 멋있네요~ 카나짱, 조금 반해버렸을지도~ 아, 그 순간 뿐이야! 순간 뿐... 하하~"
+
+#: translate_sheet.csv:2775
+msgctxt "Sometimes, I want to have a break too. Let’s sing Karaoke together!"
+msgid "sheet|VoiceSound.csv|words_en|20dc83b5d2a10929e66ab01771399ffa"
+msgstr "가끔은 쉬고 싶어. 저기, 같이 노래방 가자. 노래방~!"
+
+#: translate_sheet.csv:2774
+msgctxt ""
+"Hey, if you want my signed photo, please wait for the next signing session!"
+msgid "sheet|VoiceSound.csv|words_en|f296a9a80f5d43e48434cc719a1cf0ef"
+msgstr "아, 사인과 기념사진이 필요하다면, 다음 사인회에 와줘!"
+
+#: translate_sheet.csv:2773
+msgctxt ""
+"What’s the trouble of being an idol? Work has taken too much game time away "
+"from me, I guess!"
+msgid "sheet|VoiceSound.csv|words_en|64004759e4139110162ca58c9be42f34"
+msgstr "아이돌의 고민? 음... 일 때문에 게임할 시간이 없어지는 것 정도일까?"
+
+#: translate_sheet.csv:2772
+msgctxt "(Sighs)Is today’s event over yet? I really want to go home..."
+msgid "sheet|VoiceSound.csv|words_en|8c73753f225a55cdbca924a6916c2419"
+msgstr "하아... 오늘 행사 아직도 안 끝났어? 빨리 돌아가고 싶어..."
+
+#: translate_sheet.csv:2771
+msgctxt ""
+"What a beautiful day! It’s a perfect day to stay at home...Oops...to work!"
+msgid "sheet|VoiceSound.csv|words_en|dd2b6574329a00f33d706d7d2d7b4b00"
+msgstr "오늘 날씨 좋네! 방구석... 이 아니라, 일하러 가기 좋은 날씨야!"
+
+#: translate_sheet.csv:2770
+msgctxt ""
+"Hmm...The “efficiency” you mentioned sounds so troublesome...I just want to "
+"play All Simples, that’s enough."
+msgid "sheet|VoiceSound.csv|words_en|5157c7f16dd23dfa460b14b29e416a2d"
+msgstr "으음... 역이라던가 뭐라던가 귀찮을 것 같네... 그래, 나는 탕야오만으로 충분해."
+
+#: translate_sheet.csv:2769
+msgctxt "Ah, you are finally here. What shall we play today?"
+msgid "sheet|VoiceSound.csv|words_en|3cfc50b739c003662c3c07a7d5d899a7"
+msgstr "아, 드디어 왔다! 오늘은 뭐하고 놀까?"
+
+#: translate_sheet.csv:2768
+msgctxt "HELLO! Everyone! Please continue supporting me!"
+msgid "sheet|VoiceSound.csv|words_en|55bb95411fda946d29851007c3a36936"
+msgstr "헬로! 여러분, 오늘도 카나짱을 응원해줘!"
+
+#: translate_sheet.csv:2767
+msgctxt "Thank you for choosing me. I will keep working hard in future!"
+msgid "sheet|VoiceSound.csv|words_en|70aee825b8da2e0228e62cdbcb2b75ae"
+msgstr "선택해줘서 고마워! 앞으로 많이 노력할게!"
+
+#: translate_sheet.csv:2766
+msgctxt "Yay! Kana-chan here. I’m the TOP1 idol!"
+msgid "sheet|VoiceSound.csv|words_en|d435bc28903e6e2a7576cf9610d8113d"
+msgstr "야호! 대세 아이돌, 카나짱이야!"
+
+#: translate_sheet.csv:2765
+msgctxt "Tsumo!"
+msgid "sheet|VoiceSound.csv|words_en|e42a11abacb2812d34ebb1047ef319e5"
+msgstr "쯔모!"
+
+#: translate_sheet.csv:2764
+msgctxt "Ron!"
+msgid "sheet|VoiceSound.csv|words_en|bae8c97c25112f24ab302db8084620c6"
+msgstr "론!"
+
+#: translate_sheet.csv:2763
+msgctxt ""
+"[0]I have become more fabulous. [3200](Smiles)[4800]Don't worry, [6800]my "
+"beauty will belong to you only [9900]from now onward."
+msgid "sheet|VoiceSound.csv|words_en|461436856f1d5bfddcde1e7fdbff5d38"
+msgstr ""
+"[0]제가 한층 더 빛나 보인다구요? [3200]후후후... [4800]안심해요, [6800]이 아름다움은 언제나 [9900]당신만의 "
+"것이니까요."
+
+#: translate_sheet.csv:2762
+msgctxt ""
+"[0]Mahjong is amazing. [2200]No matter how good I am, I still may lose; "
+"[6300]no matter how bad I play, I may still win. [12000]This mixed feeling "
+"of both uncertainty and anticipation, [17200]is exactly like what I see from"
+" you when you stand in front of me~"
+msgid "sheet|VoiceSound.csv|words_en|f3e30db8dfd033e6b9597f3b50bc9b45"
+msgstr ""
+"[0]마작이란 신기하네요. [2200]아무리 잘하는 사람이라도 질 때는 지고... [6300]그런가 하면 초보자가 베테랑을 이길 수도 "
+"있고... [12000]이 기대와 불안이 뒤섞인 감각이란, [17200]당신과 함께 있을 때와 비슷하네요."
+
+#: translate_sheet.csv:2761
+msgctxt ""
+"[0]Ever since I started playing Mahjong, [1800]I have enjoyed every single "
+"day. [4400]Of course, you are also one of the reasons~"
+msgid "sheet|VoiceSound.csv|words_en|6b302fda33034c31b3d55be808f905fd"
+msgstr "[0]마작을 시작한 이후로, [1800]매일이 즐겁네요. [4400]당신이 있어준 덕분이에요."
+
+#: translate_sheet.csv:2760
+msgctxt ""
+"[0](Smiles)[1500]Do you really want to get close to me so badly? [4800]No - "
+"way. [6300]You need to work harder."
+msgid "sheet|VoiceSound.csv|words_en|acb9cb2a5038aa1891dd25dba4055c08"
+msgstr "[0]후후후...[1500]그렇게나 저와 가까워지고 싶나요? [4800]안 돼요. [6300]아직은 안 돼요 ."
+
+#: translate_sheet.csv:2759
+msgctxt "[0]As long as it’s from you, [1900]I love it."
+msgid "sheet|VoiceSound.csv|words_en|51553c231849340c3be7e4c4fd38a79f"
+msgstr "[0]당신이 주는 것이라면, [1900]그 무엇이든 보물이에요."
+
+#: translate_sheet.csv:2758
+msgctxt "[0]Thank you! [900]I will take good care of it~"
+msgid "sheet|VoiceSound.csv|words_en|f48e72ecf563eece5fa9cd00087bc52e"
+msgstr "[0]고마워요! [900]소중히 간직할게요~"
+
+#: translate_sheet.csv:2757
+msgctxt "[0]The Moon [500]looks...[2400]so beautiful..."
+msgid "sheet|VoiceSound.csv|words_en|171518e8362d3496e8e8f24df61d0c49"
+msgstr "[0]오늘 밤 [500]달님은...[2400]정말 아름답네요..."
+
+#: translate_sheet.csv:2756
+msgctxt ""
+"[0]Ah...[700]You look a little sleepy. [3900]Do you want to lie on my "
+"knees...? [7500]Oops? [8900]Why are you suddenly so awake?"
+msgid "sheet|VoiceSound.csv|words_en|442511389d100f7573a93547531792f8"
+msgstr ""
+"[0]어머...[700]꽤나 졸려 보이시네요. [3900]언니가 무릎 베개 해 드릴까요...? [7500]어머? [8900]갑자기 "
+"건강해지셨네요?"
+
+#: translate_sheet.csv:2755
+msgctxt ""
+"[0]Make sure you train hard today~ [2100]I'm waiting for you to beat me."
+msgid "sheet|VoiceSound.csv|words_en|fcf012506fb997b0187b2c3310643a7d"
+msgstr "[0]오늘도 힘내서, [2100]나를 넘어뜨려주세요."
+
+#: translate_sheet.csv:2754
+msgctxt ""
+"[0]Hmm~? [1100]Did you say you don’t know where to look? "
+"[3500](laughter)[3700]What shall I say. [6500]You can look at anywhere~ "
+"[8500]that~ [9000]you~ [9600]like~ [10200]to~"
+msgid "sheet|VoiceSound.csv|words_en|5118f279f9ded1fc2ccc95d2aca22650"
+msgstr ""
+"[0]응~? [1100]눈을 둘 곳이 없다구요? [3500]후후...[3700]어쩔 수 없네요~ [6500]어디든지 보셔도~ [8500]"
+"괜 [9000]찮 [9600]아 [10200]요~"
+
+#: translate_sheet.csv:2753
+msgctxt ""
+"[0]That’s it? So soon? [2500]I haven’t had enough yet...[6100]Hmm~? [7600]I "
+"mean the Mahjong game [10500]just now."
+msgid "sheet|VoiceSound.csv|words_en|cd72f720aee00147a50b9dda64ce3f13"
+msgstr ""
+"[0]아앙, 벌써 끝이야? [2500]저는 아직 만족하지 못했는걸요...[6100]응~? [7600]물론 아까 마작 얘기에요 "
+"[10500]그렇죠?"
+
+#: translate_sheet.csv:2752
+msgctxt ""
+"[0]Mahjong is fun. [2000]But...[2900]If I can play with someone I "
+"like...[4500]That’s even better~"
+msgid "sheet|VoiceSound.csv|words_en|ce358f6cc1ad8ca538239b8b5b5887dc"
+msgstr "[0]마작은 재미있죠. [2000]하지만...[2900]좋아하는 사람과 치면...[4500]더 즐거워져요~"
+
+#: translate_sheet.csv:2751
+msgctxt ""
+"[0]If you can win over me on the Mahjong table, [2500]I will give you a "
+"little surprise."
+msgid "sheet|VoiceSound.csv|words_en|623602c3203140a22a9adbc50ec2903c"
+msgstr "[0]마작으로 저를 이길 수 있다면, [2500]조금 서프라이즈한 포상... 줄까나~"
+
+#: translate_sheet.csv:2750
+msgctxt "[0]Riichi! [800]Ippatsu! [2300]Haha~ just kidding~"
+msgid "sheet|VoiceSound.csv|words_en|a6d125f34d8340e7dba12c482772e332"
+msgstr "[0]리치! [800]일발! [2300]농담이에요~"
+
+#: translate_sheet.csv:2749
+msgctxt "[0]Ah, [600]here you are. [2200]I was thinking of you~"
+msgid "sheet|VoiceSound.csv|words_en|389abad701bb0a0bf8b1424c001ff25b"
+msgstr "[0]어머, [600]오셨네요. [2200]저도 마침 당신 생각을 하고 있었어요~"
+
+#: translate_sheet.csv:2748
+msgctxt "[0]Welcome back~ [1600]What are you going to do today?"
+msgid "sheet|VoiceSound.csv|words_en|4dad65bbdbd1638e27748236bc5fdc7d"
+msgstr "[0]어서 오세요~ [1600]오늘은 무엇을 하실까요?"
+
+#: translate_sheet.csv:2747
+msgctxt "[0]I am Miki Nikaido. [2000]Glad to meet you~"
+msgid "sheet|VoiceSound.csv|words_en|c44b55829c31983a3d6b995ba15a5a70"
+msgstr "[0]니카이도 미키입니다. [2000]잘 부탁드려요~"
+
+#: translate_sheet.csv:2746
+msgctxt "It's my victory."
+msgid "sheet|VoiceSound.csv|words_en|38c0acd6bbf6116984a8578326a80f9c"
+msgstr "저의 승리군요."
+
+#: translate_sheet.csv:2745
+msgctxt "Tsumo. Oops, sorry~"
+msgid "sheet|VoiceSound.csv|words_en|8760fcbdc449eecb14765d3cb529df7a"
+msgstr "쯔모. 미안해요~"
+
+#: translate_sheet.csv:2744
+msgctxt "Ron, hehehe~"
+msgid "sheet|VoiceSound.csv|words_en|f30a9463d1f403586c243bc9c551dfbd"
+msgstr "론, 후후후~"
+
+#: translate_sheet.csv:2741
+msgctxt "{5}nine different terminals and honors"
+msgid "sheet|VoiceSound.csv|words_en|3fd11dac637eae52b253c0b7c5157447"
+msgstr "{5}구종구패냐"
+
+#: translate_sheet.csv:2739
+msgctxt "Four-Wind Discarded"
+msgid "sheet|VoiceSound.csv|words_en|f73da72a5bcfd81a63e4d6e2102b51c6"
+msgstr "사풍냥타"
+
+#: translate_sheet.csv:2737
+msgctxt "Four-kan Abortion"
+msgid "sheet|VoiceSound.csv|words_en|fd152c15f126b6ae7bcb1ce448748e56"
+msgstr "사깡냥국"
+
+#: translate_sheet.csv:2735
+msgctxt "No-ten (No Ready Hand)"
+msgid "sheet|VoiceSound.csv|words_en|8be626bc36e9dbfd92b156b345630946"
+msgstr "노텐냐"
+
+#: translate_sheet.csv:2733
+msgctxt "Tenpai (Ready Hand)"
+msgid "sheet|VoiceSound.csv|words_en|8c719d344cddb4b055a7bb140625bab2"
+msgstr "냥파이"
+
+#: translate_sheet.csv:2731
+msgctxt "Sextuple Yakuman"
+msgid "sheet|VoiceSound.csv|words_en|7c8d0d03f064015a41e03744a65a9f1e"
+msgstr "6배 ㅐ역냥"
+
+#: translate_sheet.csv:2729
+msgctxt "Quintuple Yakuman"
+msgid "sheet|VoiceSound.csv|words_en|17d8567aadee21059bed246e731ae6f8"
+msgstr "5배 역냥"
+
+#: translate_sheet.csv:2727
+msgctxt "Quadruple Yakuman"
+msgid "sheet|VoiceSound.csv|words_en|1c67878e85269553c17a432191386ec6"
+msgstr "4배 역냥"
+
+#: translate_sheet.csv:2725
+msgctxt "Triple Yakuman"
+msgid "sheet|VoiceSound.csv|words_en|dcbb26a4a2225b7f9016210ada4043c0"
+msgstr "트리플 역냥"
+
+#: translate_sheet.csv:2723
+msgctxt "Double Yakuman"
+msgid "sheet|VoiceSound.csv|words_en|1dc5a6d60ccc09bcfaa67f8ecbb79bdc"
+msgstr "더블 역냥"
+
+#: translate_sheet.csv:2721
+msgctxt "Yakuman"
+msgid "sheet|VoiceSound.csv|words_en|6bf8ce9f4b0cadf8f93f314d0489606b"
+msgstr "역냥"
+
+#: translate_sheet.csv:2719
+msgctxt "Counted Yakuman"
+msgid "sheet|VoiceSound.csv|words_en|69c39bbdbf1b5c22e1e26f6b5ac5e3ef"
+msgstr "헤아림 역냥"
+
+#: translate_sheet.csv:2717
+msgctxt "Sanbaiman"
+msgid "sheet|VoiceSound.csv|words_en|ec408107eb0d81651bef4e2e3b9ec0e4"
+msgstr "삼배냥"
+
+#: translate_sheet.csv:2715
+msgctxt "Baiman"
+msgid "sheet|VoiceSound.csv|words_en|671d162e9774348b3d4c316b8a41ea63"
+msgstr "배냥"
+
+#: translate_sheet.csv:2713
+msgctxt "Haneman"
+msgid "sheet|VoiceSound.csv|words_en|1235b01f21057d97a5bcd020c6d1cfe1"
+msgstr "하네냥"
+
+#: translate_sheet.csv:2711
+msgctxt "Mangan"
+msgid "sheet|VoiceSound.csv|words_en|aac1ed2ce3d22d76b339959c6f41590c"
+msgstr "냥간"
+
+#: translate_sheet.csv:2709
+msgctxt "Mangan at Draw"
+msgid "sheet|VoiceSound.csv|words_en|6a7c8af2962c108638943650fe72ab41"
+msgstr "유국만냥"
+
+#: translate_sheet.csv:2707
+msgctxt "True Nine Gates"
+msgid "sheet|VoiceSound.csv|words_en|b47dd8c8c410edb21c957d9886ae23e8"
+msgstr "순정구냥보등"
+
+#: translate_sheet.csv:2705
+msgctxt "Nine Gates"
+msgid "sheet|VoiceSound.csv|words_en|3a59640b863e44ff9ad87dd9e040f8c0"
+msgstr "구냥보등"
+
+#: translate_sheet.csv:2703
+msgctxt "Four Quads"
+msgid "sheet|VoiceSound.csv|words_en|1daa5b709e3e375e7b20bb74315c6b20"
+msgstr "스깡즈"
+
+#: translate_sheet.csv:2701
+msgctxt "Four Big Winds"
+msgid "sheet|VoiceSound.csv|words_en|163bbb75949a92890783fc6a4a62206d"
+msgstr "대사희"
+
+#: translate_sheet.csv:2699
+msgctxt "Four Little Winds"
+msgid "sheet|VoiceSound.csv|words_en|420a3838274b338f321fa1eff733f48a"
+msgstr "소사희"
+
+#: translate_sheet.csv:2697
+msgctxt "Thirteen-wait Thirteen Orphans"
+msgid "sheet|VoiceSound.csv|words_en|e538c2a56b6a2c79b3538b9dae2b981d"
+msgstr "국사무쌍 13냥대기"
+
+#: translate_sheet.csv:2695
+msgctxt "Thirteen Orphans"
+msgid "sheet|VoiceSound.csv|words_en|5f405ede71c2b239712185d073731b35"
+msgstr "국사무쌍"
+
+#: translate_sheet.csv:2693
+msgctxt "All Terminals"
+msgid "sheet|VoiceSound.csv|words_en|275d3f144c90d510465ea365db46ec6c"
+msgstr "청노두"
+
+#: translate_sheet.csv:2691
+msgctxt "All Green"
+msgid "sheet|VoiceSound.csv|words_en|1db76ab4c9191367a7561bb9cd3a2e8a"
+msgstr "녹일색"
+
+#: translate_sheet.csv:2689
+msgctxt "All Honors"
+msgid "sheet|VoiceSound.csv|words_en|12cba6c6571f732033ca793a69df8fee"
+msgstr "자일색"
+
+#: translate_sheet.csv:2687
+msgctxt "{5}single-wait four concealed triplets"
+msgid "sheet|VoiceSound.csv|words_en|9756c4e58e4f56950559252777c2eba7"
+msgstr "{5}스냥커 단기"
+
+#: translate_sheet.csv:2685
+msgctxt "Four Concealed Triplets"
+msgid "sheet|VoiceSound.csv|words_en|4482f1b451646649d7cf3f258d084ea8"
+msgstr "스냥커"
+
+#: translate_sheet.csv:2683
+msgctxt "Big Three Dragons"
+msgid "sheet|VoiceSound.csv|words_en|dee8855e5d89fe6bd4d1651286f494e2"
+msgstr "대냥원"
+
+#: translate_sheet.csv:2681
+msgctxt "{5}blessing of earth"
+msgid "sheet|VoiceSound.csv|words_en|3e31f3ac7a5295949480f76f44090bba"
+msgstr "{5}지화"
+
+#: translate_sheet.csv:2679
+msgctxt "{5}blessing of heaven"
+msgid "sheet|VoiceSound.csv|words_en|d8fb7c3e597da9c9d663564ae437c059"
+msgstr "{5}천화"
+
+#: translate_sheet.csv:2677
+msgctxt "Lots of Dora"
+msgid "sheet|VoiceSound.csv|words_en|3ed4a84589ba20b3be412561597b5d6c"
+msgstr "도라냥이 축제다냐"
+
+#: translate_sheet.csv:2675
+msgctxt "Dora 12"
+msgid "sheet|VoiceSound.csv|words_en|9e7ed3ab453345e9d8f068612482e93e"
+msgstr "도라냥이 12"
+
+#: translate_sheet.csv:2673
+msgctxt "Dora 11"
+msgid "sheet|VoiceSound.csv|words_en|04cdfe64334d580929ae2847eba2783c"
+msgstr "도라냥이 11"
+
+#: translate_sheet.csv:2671
+msgctxt "Dora 10"
+msgid "sheet|VoiceSound.csv|words_en|8b1ccb1d4ac1325032c19b0596ee335b"
+msgstr "도라냥이 10"
+
+#: translate_sheet.csv:2669
+msgctxt "Dora 9"
+msgid "sheet|VoiceSound.csv|words_en|7d2d4655ff4f8dfc26f4e006ebd2d2a2"
+msgstr "도라냥이 9"
+
+#: translate_sheet.csv:2667
+msgctxt "Dora 8"
+msgid "sheet|VoiceSound.csv|words_en|f84743988904d81f035d7926d7020556"
+msgstr "도라냥이 8"
+
+#: translate_sheet.csv:2665
+msgctxt "Dora 7"
+msgid "sheet|VoiceSound.csv|words_en|93c4a337de3640f6e7372ea5ad286006"
+msgstr "도라냥이 7"
+
+#: translate_sheet.csv:2663
+msgctxt "Dora 6"
+msgid "sheet|VoiceSound.csv|words_en|da181a97c9a54229210ce749c949b5f8"
+msgstr "도라냥이 6"
+
+#: translate_sheet.csv:2661
+msgctxt "Dora 5"
+msgid "sheet|VoiceSound.csv|words_en|c44e0c13868f9a5fc276aa647141c25c"
+msgstr "도라냥이 5"
+
+#: translate_sheet.csv:2659
+msgctxt "Dora 4"
+msgid "sheet|VoiceSound.csv|words_en|83d515177d9f317f8f853f1204f85680"
+msgstr "도라냥이 4"
+
+#: translate_sheet.csv:2657
+msgctxt "Dora 3"
+msgid "sheet|VoiceSound.csv|words_en|9f25cdf3bcd81c071cf6653ddb2046bf"
+msgstr "도라냥이 3"
+
+#: translate_sheet.csv:2655
+msgctxt "Dora 2"
+msgid "sheet|VoiceSound.csv|words_en|890e355121c061a7a02baaebbd88694d"
+msgstr "도라냥이 2"
+
+#: translate_sheet.csv:2653
+msgctxt "Dora"
+msgid "sheet|VoiceSound.csv|words_en|affa5249363911dd655e5a7cfacb49e6"
+msgstr "도라냥이"
+
+#: translate_sheet.csv:2651
+msgctxt "Ippatsu"
+msgid "sheet|VoiceSound.csv|words_en|fcee07e57a15ee5f7905089efa0d0d62"
+msgstr "일발"
+
+#: translate_sheet.csv:2649
+msgctxt "Tsumo"
+msgid "sheet|VoiceSound.csv|words_en|4a9a44674169dda05397df16a02fac8f"
+msgstr "쯔모"
+
+#: translate_sheet.csv:2648
+msgctxt "Full Flush"
+msgid "sheet|VoiceSound.csv|words_en|b2dd4ef6541a9e0eef6aeceaca908432"
+msgstr "청일색"
+
+#: translate_sheet.csv:2646
+msgctxt "{5}twice pure double sequence"
+msgid "sheet|VoiceSound.csv|words_en|4ab69a50e3f2b5241b12c71d081482d0"
+msgstr "{5}냥페코"
+
+#: translate_sheet.csv:2644
+msgctxt "Half Flush"
+msgid "sheet|VoiceSound.csv|words_en|2b5bc529522b051554e64ef81935574d"
+msgstr "혼일색"
+
+#: translate_sheet.csv:2642
+msgctxt "{5}fully outside hand"
+msgid "sheet|VoiceSound.csv|words_en|f786de98133777199c8c68a5736565e9"
+msgstr "{5}준냥"
+
+#: translate_sheet.csv:2640
+msgctxt "Seven Pairs"
+msgid "sheet|VoiceSound.csv|words_en|0bd8b72120e5c893f2b46bac43454e66"
+msgstr "치또이츠"
+
+#: translate_sheet.csv:2638
+msgctxt "All Terminals and Honors"
+msgid "sheet|VoiceSound.csv|words_en|940c876c46f9c9fea15a564786478760"
+msgstr "혼노두"
+
+#: translate_sheet.csv:2636
+msgctxt "Little Three Dragons"
+msgid "sheet|VoiceSound.csv|words_en|5cd64e16a6bd3e399c1d8717e8fbd0eb"
+msgstr "소냥원"
+
+#: translate_sheet.csv:2634
+msgctxt "{5}three concealed triplets"
+msgid "sheet|VoiceSound.csv|words_en|fae3cc94e954a48ab3da45f99b3bcf66"
+msgstr "{5}냥안커"
+
+#: translate_sheet.csv:2632
+msgctxt "All Triplets"
+msgid "sheet|VoiceSound.csv|words_en|2b4a67c206a998f9023c1d5d797d339e"
+msgstr "또이또이"
+
+#: translate_sheet.csv:2630
+msgctxt "Three Quads"
+msgid "sheet|VoiceSound.csv|words_en|812f5e9f1dcf1a39a54e55984ed72bfe"
+msgstr "냥깡즈"
+
+#: translate_sheet.csv:2628
+msgctxt "Triple Triplets"
+msgid "sheet|VoiceSound.csv|words_en|cbdc9caec675b8c016a21e2c82af6da2"
+msgstr "냥색동각"
+
+#: translate_sheet.csv:2626
+msgctxt "Mixed Triple Sequence"
+msgid "sheet|VoiceSound.csv|words_en|3ea2915191c4bc107565b665945d8339"
+msgstr "냥색동순"
+
+#: translate_sheet.csv:2624
+msgctxt "Pure Straight"
+msgid "sheet|VoiceSound.csv|words_en|c2a175e22af987a5c90392f962104566"
+msgstr "일통"
+
+#: translate_sheet.csv:2622
+msgctxt "{5}half outside hand"
+msgid "sheet|VoiceSound.csv|words_en|bb700288a9b520601d6922e7095c36e7"
+msgstr "{5}냥타"
+
+#: translate_sheet.csv:2620
+msgctxt "Pinfu"
+msgid "sheet|VoiceSound.csv|words_en|6386b202840c4e438939d8a9bb3fe36c"
+msgstr "냥후"
+
+#: translate_sheet.csv:2618
+msgctxt "Pure Double Sequence"
+msgid "sheet|VoiceSound.csv|words_en|0bdf161567ea7bf013c3e4f0bf2597d2"
+msgstr "이페코"
+
+#: translate_sheet.csv:2616
+msgctxt "All Simples"
+msgid "sheet|VoiceSound.csv|words_en|0f7e1b03698f14bf4120ceda8bb70af4"
+msgstr "탕냐오"
+
+#: translate_sheet.csv:2614
+msgctxt "North Repeat"
+msgid "sheet|VoiceSound.csv|words_en|a22974b095520551e883c0ced0841b19"
+msgstr "더블북"
+
+#: translate_sheet.csv:2612
+msgctxt "West Repeat"
+msgid "sheet|VoiceSound.csv|words_en|c2a6648c7b67a48dea1a10b97a99e68e"
+msgstr "더블서"
+
+#: translate_sheet.csv:2610
+msgctxt "{5}south repeat"
+msgid "sheet|VoiceSound.csv|words_en|3aef0733e3474ffbaa34ff57e8810fe4"
+msgstr "더블냠"
+
+#: translate_sheet.csv:2608
+msgctxt "East Repeat"
+msgid "sheet|VoiceSound.csv|words_en|168c2ed6e22ddeb40f0cae0e321b2c40"
+msgstr "더블동"
+
+#: translate_sheet.csv:2606
+msgctxt "Green"
+msgid "sheet|VoiceSound.csv|words_en|d382816a3cbeed082c9e216e7392eed1"
+msgstr "발"
+
+#: translate_sheet.csv:2604
+msgctxt "White"
+msgid "sheet|VoiceSound.csv|words_en|25a81701fbfa4a1efdf660a950c1d006"
+msgstr "백"
+
+#: translate_sheet.csv:2602
+msgctxt "Red"
+msgid "sheet|VoiceSound.csv|words_en|ee38e4d5dd68c4e440825018d549cb47"
+msgstr "중"
+
+#: translate_sheet.csv:2600
+msgctxt "North"
+msgid "sheet|VoiceSound.csv|words_en|601560b94fbb188919dd1d36c8ab70a4"
+msgstr "북"
+
+#: translate_sheet.csv:2598
+msgctxt "West"
+msgid "sheet|VoiceSound.csv|words_en|bf495fc048d8d44b7f32536df5cf3930"
+msgstr "서"
+
+#: translate_sheet.csv:2596
+msgctxt "South"
+msgid "sheet|VoiceSound.csv|words_en|263d7b2cf53802c9ed127b718c0bf9fd"
+msgstr "냠"
+
+#: translate_sheet.csv:2594
+msgctxt "East"
+msgid "sheet|VoiceSound.csv|words_en|a99dc62d017d04cf67266593f9c3761e"
+msgstr "동"
+
+#: translate_sheet.csv:2592
+msgctxt "{5}under the river"
+msgid "sheet|VoiceSound.csv|words_en|dcd57b9fadeb2e893248099dbde8b38b"
+msgstr "{5}하저"
+
+#: translate_sheet.csv:2590
+msgctxt "Under the Sea"
+msgid "sheet|VoiceSound.csv|words_en|41fd01ff85357984bc66c12be95d24f6"
+msgstr "해저"
+
+#: translate_sheet.csv:2588
+msgctxt "After a Kan"
+msgid "sheet|VoiceSound.csv|words_en|8d1e2f6f5f26455a18916a4771dba2d8"
+msgstr "영냥"
+
+#: translate_sheet.csv:2586
+msgctxt "{5}Robbing a Kan"
+msgid "sheet|VoiceSound.csv|words_en|f3e5258bb3335b7f92ccd5cf8a554cf9"
+msgstr "{5}냥깡"
+
+#: translate_sheet.csv:2584
+msgctxt ""
+"I am very rebellious, so make sure you keep a close eye on me. Otherwise, I "
+"may run away from you anytime-nyaa."
+msgid "sheet|VoiceSound.csv|words_en|359102814e390d43b9b2c918eda6d37a"
+msgstr "나는 변덕스러운 고양이다냐, 내가 도망치지 않도록 주인님은 쭉 나를 지켜봐달라냥."
+
+#: translate_sheet.csv:2582
+msgctxt ""
+"Master, let's always play Mahjong together! Today, tomorrow, and forever "
+"hereafter-nyaa!"
+msgid "sheet|VoiceSound.csv|words_en|2da891f0cdecda78ca85a5faacd96674"
+msgstr "주인님, 오늘도 내일도 내일내일도, 나랑 같이 마작하자냐!"
+
+#: translate_sheet.csv:2580
+msgctxt ""
+"Defensive Mahjong? That’s so boring, master. Mahjong is all about attacking."
+" Come, let’s go forward together!"
+msgid "sheet|VoiceSound.csv|words_en|163e083745bdcbf7c8ffeb2501e130d6"
+msgstr ""
+"베타오리냐? 방어만 하는 마작은 재미없다냐! 알겠냥? 주인님, 마작은 앞으로 나아가는 거다냐! 그럼~ 함께 공격하고 공격하고 "
+"공격하는거다냐!"
+
+#: translate_sheet.csv:2578
+msgctxt ""
+"Master, you have been very active today. I will make sure I become better to"
+" repay your favor-nyaa."
+msgid "sheet|VoiceSound.csv|words_en|1ca9edbde0401bc5df3631c06456b6bf"
+msgstr "주인님, 오늘도 힘차게 있었다냐. 나도 열심히 마작을 연습해서 주인님께 받은 은혜를 갚겠다냐!"
+
+#: translate_sheet.csv:2576
+msgctxt "A gift? Is it something yummy?"
+msgid "sheet|VoiceSound.csv|words_en|45c6ec7dada107a666059d7b6b982c09"
+msgstr "선물? 맛있는거냥?"
+
+#: translate_sheet.csv:2574
+msgctxt "Nyaa? Is this for me? You are so kind!"
+msgid "sheet|VoiceSound.csv|words_en|b067048187938126dcaeed32c88e31a7"
+msgstr "냐냐냐? 주는거냥? 주인님 좋은 사람이다냐!"
+
+#: translate_sheet.csv:2572
+msgctxt "My favorite toys are - Mahjong and master!"
+msgid "sheet|VoiceSound.csv|words_en|022ebd39410d6fb2426741bccabbd98c"
+msgstr "내가 가장 좋아하는 장난감은, 마작하고... 주인님이다냐!"
+
+#: translate_sheet.csv:2570
+msgctxt ""
+"Cat ears are very sensitive and fragile. They can’t be touched by random, "
+"ordinary people! Speaking of them, master, would you like to touch them-"
+"nyaa?"
+msgid "sheet|VoiceSound.csv|words_en|e8844de1f9f1447816d51bfe7fb4abbe"
+msgstr "고양이 귀는 매우 민감하다냐! 아무나 가볍게 만질만한 것이 아니다냐! 에헴, 그래서, 주인님? 좀 만져보고 싶지 않냥?"
+
+#: translate_sheet.csv:2568
+msgctxt ""
+"My favorite foods are chestnut and baked sweet potatoes. Have you "
+"remembered? See what they are selling over there? That’s it-nyaa."
+msgid "sheet|VoiceSound.csv|words_en|51b55735cf73c6dca4e6e6c9970e5239"
+msgstr "내가 좋아하는 음식은 군고구마랑 단밤이다냐. 기억했냥? 그래, 바로 저기서 파는 거다냐!"
+
+#: translate_sheet.csv:2566
+msgctxt ""
+"Nyaa~...Snacks always taste better when they are given to me by someone "
+"else. I want more!"
+msgid "sheet|VoiceSound.csv|words_en|4803bafbf9b0a8241ce49a7052f8b9e8"
+msgstr "냐~ㅁ냠... 과자는, 왠지 다른 사람에게 받아 먹는게 더 맛있다냐. 더 먹고 싶다냐!"
+
+#: translate_sheet.csv:2564
+msgctxt ""
+"Wow, that smells good. You’ve got some goodies in your pocket? Let me see! "
+"...Hmm? Why are you blushing, Master?"
+msgid "sheet|VoiceSound.csv|words_en|4d1cc5e9c464b7a3514c098c6e6a2361"
+msgstr ""
+"으음~ 좋은 냄새다냐. 주인님 주머니에 맛있는 거 숨기고 있는거냐? 숨기는 건 좋지 않다냐! ...냐냐? 주인님 얼굴... 왜 빨개지고 "
+"있는거냐!"
+
+#: translate_sheet.csv:2562
+msgctxt "What’s Yaku? I only play by feel-nyaa."
+msgid "sheet|VoiceSound.csv|words_en|fe8a709d58105fa7056afff8e6416e81"
+msgstr "역이 뭐냥? 나는 언제나 직감으로 치고 있다냐."
+
+#: translate_sheet.csv:2560
+msgctxt "Declare Riichi as soon as possible. Fast attack for the win!"
+msgid "sheet|VoiceSound.csv|words_en|1f37fc38b2aa6ce6b4ef44617a04f2a6"
+msgstr "텐파이 즉시 리치, 속공이다냐 속공!"
+
+#: translate_sheet.csv:2558
+msgctxt "Master, where is my lunch?"
+msgid "sheet|VoiceSound.csv|words_en|bdf45badd7d757d70c4f430e7923ba46"
+msgstr "주인님, 내 점심은?"
+
+#: translate_sheet.csv:2556
+msgctxt "Master, I have been a good girl today-nyaa."
+msgid "sheet|VoiceSound.csv|words_en|b7876993a702c5d367dfade5d499a563"
+msgstr "주인님, 오늘도 착한 아이로 지냈다냐!"
+
+#: translate_sheet.csv:2554
+msgctxt "Master, welcome back-nyaa!"
+msgid "sheet|VoiceSound.csv|words_en|de07f748dea26555e450b00d6fec8c75"
+msgstr "주인님, 어서와냥!"
+
+#: translate_sheet.csv:2552
+msgctxt "Hello! My name is Ichihime. Glad to meet you-nya!"
+msgid "sheet|VoiceSound.csv|words_en|8f53448dcadb8aa33ed3d3d2c45d9516"
+msgstr "안녕! 나는 이치히메냥! 잘 부탁한다냥!"
+
+#: translate_sheet.csv:2550
+msgctxt "I’m Invincible nyaa!"
+msgid "sheet|VoiceSound.csv|words_en|12cc3ccd25cc831660135fabc55d33da"
+msgstr "천하무적이다냐!"
+
+#: translate_sheet.csv:2548
+msgctxt "Tsumo! !!"
+msgid "sheet|VoiceSound.csv|words_en|d588917be48832ded9ec541dfe6f2d47"
+msgstr "쯔모냐!"
+
+#: translate_sheet.csv:2546
+msgctxt "Ron! !!"
+msgid "sheet|VoiceSound.csv|words_en|3c4bc31e187b97fe09dea50f62587331"
+msgstr "론냐!"
