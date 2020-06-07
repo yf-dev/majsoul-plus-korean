@@ -618,7 +618,7 @@ InfoError.csv,en,Your character name is too long.,캐릭터 이름이 너무 깁
 InfoError.csv,en,"Can`t find this room, please check the room number","방을 찾을 수 없습니다, 방 번호를 확인하십시오"
 InfoError.csv,en,"Oops, room is full.","이런, 방이 가득 찼습니다."
 InfoError.csv,en,This player is no longer in the room. Try refreshing this page if you keep seeing this message.,이 플레이어는 더 이상 방에 없습니다. 이 메시지가 계속 나타나면 이 페이지를 새로고침 해주세요.
-InfoError.csv,en,Unable to perform this action as you are not the room host.,당신이 방 호스트 아니기 때문에 이 작업을 수행 할 수 없습니다.
+InfoError.csv,en,Unable to perform this action as you are not the room host.,당신이 방장이 아니기 때문에 이 작업을 수행 할 수 없습니다.
 InfoError.csv,en,One or more players are not ready yet. Please wait.,한 명 이상의 플레이어가 아직 준비되지 않았습니다. 기다려주세요.
 InfoError.csv,en,You have already joined this room.,이미 이 방에 참여했습니다.
 InfoError.csv,en,You have not joined any room.,어떤 방에도 참여하지 않았습니다.
