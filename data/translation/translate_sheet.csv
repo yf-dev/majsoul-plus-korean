@@ -1985,19 +1985,19 @@ StrStr.csv,en,Wan,만
 StrStr.csv,en,"You are in matchmaking, unable to spectate.",경기를 찾는 중에는 관전할 수 없습니다.
 StrStr.csv,en,You are waiting for the match to start. Cannot view game logs.,경기 시작을 기다리고 있습니다. 게임 로그를 볼 수 없습니다.
 StrStr.csv,en,"(Faith), as well as all-new characters and decorations",)과 새로운 캐릭터와 장식을 얻을 수 있습니다
-VoiceSound.csv,name_en,Ron,Ron
+VoiceSound.csv,name_en,Ron,론
 VoiceSound.csv,words_en,Riichi,리치
-VoiceSound.csv,name_en,Riichi,Riichi
+VoiceSound.csv,name_en,Riichi,리치
 VoiceSound.csv,words_en,Double Riichi,더블리치
-VoiceSound.csv,name_en,Double Riichi,Double Riichi
+VoiceSound.csv,name_en,Double Riichi,더블 리치
 VoiceSound.csv,words_en,{10}Kita,{10}북도라
-VoiceSound.csv,name_en,Kita,Kita
+VoiceSound.csv,name_en,Kita,북도라
 VoiceSound.csv,words_en,Pon (Call for Triplet),펑
-VoiceSound.csv,name_en,Pon,Pon
+VoiceSound.csv,name_en,Pon,펑
 VoiceSound.csv,words_en,Kan (Call for Quad),깡
-VoiceSound.csv,name_en,Kan,Kan
+VoiceSound.csv,name_en,Kan,깡
 VoiceSound.csv,words_en,Chii,치
-VoiceSound.csv,name_en,Chii,Chii
+VoiceSound.csv,name_en,Chii,치
 StrStr.csv,en,Limited-time title Expiry date:,기간 한정 타이틀 만료일:
 StrStr.csv,en,Can be changed in the Settings,설정에서 변경할 수 있음
 StrStr.csv,en,Expiry date:,만료일:
@@ -2147,8 +2147,8 @@ StrStr.csv,en,4-Player Room Restriction,4인 마작 방 제한
 StrStr.csv,en,3-Player Room Restriction,3인 마작 방 제한
 StrStr.csv,en,4-Player Ranking,4인 마작 순위
 StrStr.csv,en,3-Player Ranking,3인 마작 순위
-StrStr.csv,en,4-Player Ranking Rules,4인 마작 순위 규칙
-StrStr.csv,en,3-Player Ranking Rules,3인 마작 순위 규칙
+StrStr.csv,en,4-Player Ranking Rules,4인 마작 등급 규칙
+StrStr.csv,en,3-Player Ranking Rules,3인 마작 등급 규칙
 StrStr.csv,en,"Unable to connect the server, please try again later","서버에 연결할 수 없습니다, 나중에 다시 시도해주세요"
 StrStr.csv,en,To be verified,미인증
 StrStr.csv,en,Send code,코드 전송
@@ -2520,81 +2520,81 @@ StrStr.csv,en,Owned:{0},소유중: {0}
 StrStr.csv,en,Successfully claimed,성공적으로 받음
 StrStr.csv,en,Yakuman Stacking Disabled,역만 중첩 비활성화됨
 StrStr.csv,en,Each player can only join the match {0} time(s) during the tournament. You have run out of your chance(s).,각 플레이어는 대회 중 {0}번만 게임에 참가할 수 있습니다. 당신은 이미 참가 횟수를 모두 사용했습니다.
-VoiceSound.csv,name_en,SP - Tenpai with Baiman/Sanbaiman,SP - Tenpai with Baiman/Sanbaiman
-VoiceSound.csv,name_en,SP - Tenpai with Yakuman,SP - Tenpai with Yakuman
-VoiceSound.csv,name_en,SP - Less than 10 tiles remaining,SP - Less than 10 tiles remaining
-VoiceSound.csv,name_en,SP - When discarding a Dora,SP - When discarding a Dora
-VoiceSound.csv,name_en,SP - When discarding multiple identical tiles in a row,SP - When discarding multiple identical tiles in a row
-VoiceSound.csv,name_en,Bond Level Up Voice 5,Bond Level Up Voice 5
-VoiceSound.csv,name_en,Pon (Call for Triplet),Pon (Call for Triplet)
-VoiceSound.csv,name_en,Kan (Call for Quad),Kan (Call for Quad)
-VoiceSound.csv,name_en,Nine Different Terminals and Honors,Nine Different Terminals and Honors
-VoiceSound.csv,name_en,Four-Wind Discarded,Four-Wind Discarded
-VoiceSound.csv,name_en,Four-kan Abortion,Four-kan Abortion
-VoiceSound.csv,name_en,No-ten (No Ready Hand),No-ten (No Ready Hand)
-VoiceSound.csv,name_en,Tenpai (Ready Hand),Tenpai (Ready Hand)
-VoiceSound.csv,name_en,Sextuple Yakuman,Sextuple Yakuman
-VoiceSound.csv,name_en,Quintuple Yakuman,Quintuple Yakuman
-VoiceSound.csv,name_en,Quadruple Yakuman,Quadruple Yakuman
-VoiceSound.csv,name_en,Triple Yakuman,Triple Yakuman
-VoiceSound.csv,name_en,Double Yakuman,Double Yakuman
-VoiceSound.csv,name_en,Yakuman,Yakuman
-VoiceSound.csv,name_en,Counted Yakuman,Counted Yakuman
-VoiceSound.csv,name_en,Sanbaiman,Sanbaiman
-VoiceSound.csv,name_en,Baiman,Baiman
-VoiceSound.csv,name_en,Haneman,Haneman
-VoiceSound.csv,name_en,Mangan,Mangan
-VoiceSound.csv,name_en,Mangan at Draw,Mangan at Draw
-VoiceSound.csv,name_en,True Nine Gates,True Nine Gates
-VoiceSound.csv,name_en,Nine Gates,Nine Gates
-VoiceSound.csv,name_en,Four Quads,Four Quads
-VoiceSound.csv,name_en,Four Big Winds,Four Big Winds
-VoiceSound.csv,name_en,Four Little Winds,Four Little Winds
-VoiceSound.csv,name_en,Thirteen-wait Thirteen Orphans,Thirteen-wait Thirteen Orphans
-VoiceSound.csv,name_en,Thirteen Orphans,Thirteen Orphans
-VoiceSound.csv,name_en,All Terminals,All Terminals
-VoiceSound.csv,name_en,All Green,All Green
-VoiceSound.csv,name_en,All Honors,All Honors
-VoiceSound.csv,name_en,Single-wait Four Concealed Triplets,Single-wait Four Concealed Triplets
-VoiceSound.csv,name_en,Four Concealed Triplets,Four Concealed Triplets
-VoiceSound.csv,name_en,Big Three Dragons,Big Three Dragons
-VoiceSound.csv,name_en,Blessing of Earth,Blessing of Earth
-VoiceSound.csv,name_en,Blessing of Heaven,Blessing of Heaven
-VoiceSound.csv,name_en,Lots of Dora,Lots of Dora
-VoiceSound.csv,name_en,Ippatsu,Ippatsu
-VoiceSound.csv,name_en,Full Flush,Full Flush
-VoiceSound.csv,name_en,Twice Pure Double Sequence,Twice Pure Double Sequence
-VoiceSound.csv,name_en,Half Flush,Half Flush
-VoiceSound.csv,name_en,Fully Outside Hand,Fully Outside Hand
-VoiceSound.csv,name_en,Seven Pairs,Seven Pairs
-VoiceSound.csv,name_en,All Terminals and Honors,All Terminals and Honors
-VoiceSound.csv,name_en,Little Three Dragons,Little Three Dragons
-VoiceSound.csv,name_en,Three Concealed Triplets,Three Concealed Triplets
-VoiceSound.csv,name_en,All Triplets,All Triplets
-VoiceSound.csv,name_en,Three Quads,Three Quads
-VoiceSound.csv,name_en,Triple Triplets,Triple Triplets
-VoiceSound.csv,name_en,Mixed Triple Sequence,Mixed Triple Sequence
-VoiceSound.csv,name_en,Pure Straight,Pure Straight
-VoiceSound.csv,name_en,Half Outside Hand,Half Outside Hand
-VoiceSound.csv,name_en,Pinfu,Pinfu
-VoiceSound.csv,name_en,Pure Double Sequence,Pure Double Sequence
-VoiceSound.csv,name_en,All Simples,All Simples
-VoiceSound.csv,name_en,North Repeat,North Repeat
-VoiceSound.csv,name_en,West Repeat,West Repeat
-VoiceSound.csv,name_en,South Repeat,South Repeat
-VoiceSound.csv,name_en,East Repeat,East Repeat
-VoiceSound.csv,name_en,North,North
-VoiceSound.csv,name_en,West,West
-VoiceSound.csv,name_en,South,South
-VoiceSound.csv,name_en,East,East
-VoiceSound.csv,name_en,After a Kan,After a Kan
-VoiceSound.csv,name_en,Robbing a Kan,Robbing a Kan
-VoiceSound.csv,name_en,Bond Level Up Voice 4,Bond Level Up Voice 4
-VoiceSound.csv,name_en,Bond Level Up Voice 3,Bond Level Up Voice 3
-VoiceSound.csv,name_en,Bond Level Up Voice 2,Bond Level Up Voice 2
-VoiceSound.csv,name_en,Bond Level Up Voice 1,Bond Level Up Voice 1
-VoiceSound.csv,name_en,Receiving Gift - Preferred,Receiving Gift - Preferred
-VoiceSound.csv,name_en,Receiving Gift - Normal,Receiving Gift - Normal
+VoiceSound.csv,name_en,SP - Tenpai with Baiman/Sanbaiman,SP - 배만/삼배만 텐파이
+VoiceSound.csv,name_en,SP - Tenpai with Yakuman,SP - 역만 텐파이
+VoiceSound.csv,name_en,SP - Less than 10 tiles remaining,SP - 남은 패가 10개 미만일 때
+VoiceSound.csv,name_en,SP - When discarding a Dora,SP - 도라를 버릴 때
+VoiceSound.csv,name_en,SP - When discarding multiple identical tiles in a row,SP - 동일한 패를 연속으로 버릴 때
+VoiceSound.csv,name_en,Bond Level Up Voice 5,인연 레벨 상승 음성 5
+VoiceSound.csv,name_en,Pon (Call for Triplet),펑
+VoiceSound.csv,name_en,Kan (Call for Quad),깡
+VoiceSound.csv,name_en,Nine Different Terminals and Honors,구종구패
+VoiceSound.csv,name_en,Four-Wind Discarded,사풍연타
+VoiceSound.csv,name_en,Four-kan Abortion,사깡유국
+VoiceSound.csv,name_en,No-ten (No Ready Hand),노텐
+VoiceSound.csv,name_en,Tenpai (Ready Hand),텐파이
+VoiceSound.csv,name_en,Sextuple Yakuman,6배 역만
+VoiceSound.csv,name_en,Quintuple Yakuman,5배 역만
+VoiceSound.csv,name_en,Quadruple Yakuman,4배 역만
+VoiceSound.csv,name_en,Triple Yakuman,3배 역만
+VoiceSound.csv,name_en,Double Yakuman,더블 역만
+VoiceSound.csv,name_en,Yakuman,역만
+VoiceSound.csv,name_en,Counted Yakuman,헤아림 역만
+VoiceSound.csv,name_en,Sanbaiman,삼배만
+VoiceSound.csv,name_en,Baiman,배만
+VoiceSound.csv,name_en,Haneman,하네만
+VoiceSound.csv,name_en,Mangan,만관
+VoiceSound.csv,name_en,Mangan at Draw,유국만관
+VoiceSound.csv,name_en,True Nine Gates,순정구련보등
+VoiceSound.csv,name_en,Nine Gates,구련보등
+VoiceSound.csv,name_en,Four Quads,스깡즈
+VoiceSound.csv,name_en,Four Big Winds,대사희
+VoiceSound.csv,name_en,Four Little Winds,소사희
+VoiceSound.csv,name_en,Thirteen-wait Thirteen Orphans,국사무쌍 13면대기
+VoiceSound.csv,name_en,Thirteen Orphans,국사무쌍
+VoiceSound.csv,name_en,All Terminals,청노두
+VoiceSound.csv,name_en,All Green,녹일색
+VoiceSound.csv,name_en,All Honors,자일색
+VoiceSound.csv,name_en,Single-wait Four Concealed Triplets,스안커 단기
+VoiceSound.csv,name_en,Four Concealed Triplets,스안커
+VoiceSound.csv,name_en,Big Three Dragons,대삼원
+VoiceSound.csv,name_en,Blessing of Earth,지화
+VoiceSound.csv,name_en,Blessing of Heaven,천화
+VoiceSound.csv,name_en,Lots of Dora,많은 도라
+VoiceSound.csv,name_en,Ippatsu,일발
+VoiceSound.csv,name_en,Full Flush,청일색
+VoiceSound.csv,name_en,Twice Pure Double Sequence,량페코
+VoiceSound.csv,name_en,Half Flush,혼일색
+VoiceSound.csv,name_en,Fully Outside Hand,준찬타
+VoiceSound.csv,name_en,Seven Pairs,치또이츠
+VoiceSound.csv,name_en,All Terminals and Honors,혼노두
+VoiceSound.csv,name_en,Little Three Dragons,소삼원
+VoiceSound.csv,name_en,Three Concealed Triplets,산안커
+VoiceSound.csv,name_en,All Triplets,또이또이
+VoiceSound.csv,name_en,Three Quads,산깡즈
+VoiceSound.csv,name_en,Triple Triplets,삼색동각
+VoiceSound.csv,name_en,Mixed Triple Sequence,삼색동순
+VoiceSound.csv,name_en,Pure Straight,일기통관
+VoiceSound.csv,name_en,Half Outside Hand,찬타
+VoiceSound.csv,name_en,Pinfu,핑후
+VoiceSound.csv,name_en,Pure Double Sequence,이페코
+VoiceSound.csv,name_en,All Simples,탕야오
+VoiceSound.csv,name_en,North Repeat,더블북
+VoiceSound.csv,name_en,West Repeat,더블서
+VoiceSound.csv,name_en,South Repeat,더블남
+VoiceSound.csv,name_en,East Repeat,더블동
+VoiceSound.csv,name_en,North,북
+VoiceSound.csv,name_en,West,서
+VoiceSound.csv,name_en,South,남
+VoiceSound.csv,name_en,East,동
+VoiceSound.csv,name_en,After a Kan,영상개화
+VoiceSound.csv,name_en,Robbing a Kan,창깡
+VoiceSound.csv,name_en,Bond Level Up Voice 4,인연 레벨 상승 음성 4
+VoiceSound.csv,name_en,Bond Level Up Voice 3,인연 레벨 상승 음성 3
+VoiceSound.csv,name_en,Bond Level Up Voice 2,인연 레벨 상승 음성 2
+VoiceSound.csv,name_en,Bond Level Up Voice 1,인연 레벨 상승 음성 1
+VoiceSound.csv,name_en,Receiving Gift - Preferred,선물을 받을 때 - 선호
+VoiceSound.csv,name_en,Receiving Gift - Normal,선물을 받을 때 - 일반
 VoiceSound.csv,name_en,Lobby Interactive Voice 8,로비 상호작용 음성 8
 VoiceSound.csv,name_en,Lobby Interactive Voice 7,로비 상호작용 음성 7
 VoiceSound.csv,name_en,Lobby Interactive Voice 6,로비 상호작용 음성 6
@@ -2603,26 +2603,218 @@ VoiceSound.csv,name_en,Lobby Interactive Voice 4,로비 상호작용 음성 4
 VoiceSound.csv,name_en,Lobby Interactive Voice 3,로비 상호작용 음성 3
 VoiceSound.csv,name_en,Lobby Interactive Voice 2,로비 상호작용 음성 2
 VoiceSound.csv,name_en,Lobby Interactive Voice 1,로비 상호작용 음성 1
-VoiceSound.csv,name_en,Login Voice - Max Bond,Login Voice - Max Bond
-VoiceSound.csv,name_en,Login Voice - Normal,Login Voice - Normal
-VoiceSound.csv,name_en,Voice when obtained,Voice when obtained
-VoiceSound.csv,name_en,Finishing a game at 1st place,Finishing a game at 1st place
-VoiceSound.csv,name_en,Tsumo,Tsumo
-VoiceSound.csv,name_en,Bond,Bond
-VoiceSound.csv,name_en,Dora 12,Dora 12
-VoiceSound.csv,name_en,Dora 11,Dora 11
-VoiceSound.csv,name_en,Dora 10,Dora 10
-VoiceSound.csv,name_en,Dora 9,Dora 9
-VoiceSound.csv,name_en,Dora 8,Dora 8
-VoiceSound.csv,name_en,Dora 7,Dora 7
-VoiceSound.csv,name_en,Dora 6,Dora 6
-VoiceSound.csv,name_en,Dora 5,Dora 5
-VoiceSound.csv,name_en,Dora 4,Dora 4
-VoiceSound.csv,name_en,Dora 3,Dora 3
-VoiceSound.csv,name_en,Dora 2,Dora 2
-VoiceSound.csv,name_en,Dora,Dora
-VoiceSound.csv,name_en,Green,Green
-VoiceSound.csv,name_en,White,White
-VoiceSound.csv,name_en,Red,Red
-VoiceSound.csv,name_en,Under the River,Under the River
-VoiceSound.csv,name_en,Under the Sea,Under the Sea
+VoiceSound.csv,name_en,Login Voice - Max Bond,로그인 음성 - 최대 인연
+VoiceSound.csv,name_en,Login Voice - Normal,로그인 음성 - 일반
+VoiceSound.csv,name_en,Voice when obtained,획득시 음성
+VoiceSound.csv,name_en,Finishing a game at 1st place,1위로 게임 종료
+VoiceSound.csv,name_en,Tsumo,쯔모
+VoiceSound.csv,name_en,Bond,인연
+VoiceSound.csv,name_en,Dora 12,도라 12
+VoiceSound.csv,name_en,Dora 11,도라 11
+VoiceSound.csv,name_en,Dora 10,도라 10
+VoiceSound.csv,name_en,Dora 9,도라 9
+VoiceSound.csv,name_en,Dora 8,도라 8
+VoiceSound.csv,name_en,Dora 7,도라 7
+VoiceSound.csv,name_en,Dora 6,도라 6
+VoiceSound.csv,name_en,Dora 5,도라 5
+VoiceSound.csv,name_en,Dora 4,도라 4
+VoiceSound.csv,name_en,Dora 3,도라 3
+VoiceSound.csv,name_en,Dora 2,도라 2
+VoiceSound.csv,name_en,Dora,도라
+VoiceSound.csv,name_en,Green,발
+VoiceSound.csv,name_en,White,백
+VoiceSound.csv,name_en,Red,중
+VoiceSound.csv,name_en,Under the River,하저로어
+VoiceSound.csv,name_en,Under the Sea,해저로월
+VoiceSound.csv,words_en,I feel really sorry to you all if I win this hand...,"이렇게 화료하면, 상대분들께 죄송스럽네요..."
+VoiceSound.csv,words_en,The God has blessed me!,"신의 가호가 있기를, 이네요."
+VoiceSound.csv,words_en,Mai will keep fighting till the end!,"마이, 끝까지 노력하겠습니다. 자!"
+VoiceSound.csv,words_en,Aw! That's a Dora!,"꺄, 도라가...!"
+VoiceSound.csv,words_en,Hmm...,으으...
+VoiceSound.csv,words_en,"These two pieces of ceremonial attire are called maetengan (crown) and chihaya (robe). Apart from rituals, t-they are only worn at wedding ceremonies... Um... Master, you really don't get it. *Sobbing* ...Eh? Do you think Mai looks beautiful tonight? Master... you always do this to me. That's why Mai... Ahehe...","이것은... 면류관과 치하야라는 것입니다. 신사 제례 때와... 겨, 결혼식 때밖에 못 입는 거라서... 하으... 주인님, 정말 전혀 모르고 계시네요. 훌쩍... 예? 오늘 밤의 마이는 예쁘다고, 그렇게 생각해 주시는 건가요? 주인님... 당신은 항상 그렇죠. 그래서 마이는... 후후..."
+VoiceSound.csv,words_en,"Master, can I call your name directly in future? Just occasionally...","주인님, 주인님을 그... 성함으로 불러도... 괜찮을까요? ...아, 아뇨, 가끔... 가끔씩 말이에요..."
+VoiceSound.csv,words_en,"I heard that taking a priestess’ personal accessories can increase your chance to get Ura Dora... Please, accept mine...","무녀가 지닌 물건을 가지고 있으면, 도라가 붙기 쉬워진다고 들었습니다... 그러니까, 주인님, 마이의... 받아주세요..."
+VoiceSound.csv,words_en,"Master, I have prayed for you to God again today.","주인님, 마이는 오늘도 주인님을 위해 기원을 드렸다구요?"
+VoiceSound.csv,words_en,"Master, you are different from others. Each time I see you, I feel very happy.",주인님은 다른 사람들하고 느낌이 달라요... 주인님의 얼굴을 볼 때마다... 왠지 가슴이 두근두근 거립니다.
+VoiceSound.csv,words_en,"Ah—! Master, you cannot read that b-book! I-it's only an ordinary gardening book, I don't think you will be interested... No-no, please don't, I can't show you the book, no way... U-unless you promise Mai that you will never hate Mai for it.","아아! 안돼요! 이 책은 보여드릴 수... 아뇨, 이건 별로 수상한게 아니라, 그, 그냥 원예책이에요. 주인님께는 재미 없을 거라고 생각합니... 아, 안돼안돼안돼, 절대로 안돼요! ...으으, 어떻게 해서든 보시겠다면... 절대로 마이를 싫어하지 않겠다고 약속해주세요..."
+VoiceSound.csv,words_en,Thanks for taking your time to pick me a gift. I love it.,"주인님이 마이를 위해 골라 주신 선물, 정말 마음에 들어요."
+VoiceSound.csv,words_en,Thank you very much!,대단히 감사합니다!
+VoiceSound.csv,words_en,"Please hold my hands while you’re praying this time... Hmm... (expresses happiness)... (suddenly snaps out of it) Oops, sorry, I forgot my lines!",오늘의 기원은... 마이가 주인님의 손을 잡고 하는군요... 음... 응? 아... 어라? 으으... 죄송합니다... 축문을 깜빡 잊어버렸어요!
+VoiceSound.csv,words_en,"You don’t look very well today, master. Are you feeling sick? Having a bad mood? If you need to let yourself out, feel free to come to me.","저... 오늘 주인님, 왠지 기운이 없어 보이네요. 몸이 안 좋으세요? 아니면 기분이 언짢으신가요? 만약 스트레스를 풀고 싶다면, 마이가 언제든지 상대해 드릴게요."
+VoiceSound.csv,words_en,"Ah, master... Please don’t stare at me, I am shy...","저기... 주인님, 너무... 보지 말아주세요... 부끄러워요..."
+VoiceSound.csv,words_en,"Spirits have their ups and downs, just like the luck of Mahjong. So, if you are too tired, don’t force yourself to play.",영력은 일정하지 않습니다. 영력의 힘에 의해 운도 오르내리기 때문에... 피곤하실 때에는 마작을 쉬시는 편이 좋다고 생각한다구요?
+VoiceSound.csv,words_en,Oops... I just scored another Ippatsu on you...,음... 또 주인님의 일발을 뺏어 버렸어요...
+VoiceSound.csv,words_en,"Ah, that one! Don’t touch it! ...","아, 거긴! 거긴 만지면 안됩니다!..."
+VoiceSound.csv,words_en,Magic Mahjong? I have only heard of spiritual Mahjong... If you would like to replenish your spirits... Maybe I can help...,"마법 마작? 영력 마작 밖에 들어본 적이 없지만... 만약 영력을 보충하고 싶은 손님이 계시다면, 저 마이가 도와드릴..."
+VoiceSound.csv,words_en,Oh... sorry! I didn’t mean to win from you...,"죄, 죄송합니다! 일부러 주인님의 패를 노린 것은 아닙니다..."
+VoiceSound.csv,words_en,I am very happy to see you here again today...,오늘도 주인님을 만날 수 있어서 마이는 무척 기쁘답니다...
+VoiceSound.csv,words_en,Master...have you come to accept my cleansing again today?,"주인님, 오늘도... 오늘도 마이가 액막이 해드릴까요?"
+VoiceSound.csv,words_en,Nice...to...meet you.,"마, 만나서 반갑습니...다. 아무쪼록 잘 부탁드립니다..."
+VoiceSound.csv,words_en,I couldn’t win without you all.,덕분에 이길 수 있었습니다.
+VoiceSound.csv,words_en,"Oops, Tsumo...","앗, 쯔모에요..."
+VoiceSound.csv,words_en,Chiori's the best!,역시 치오리님이야!
+VoiceSound.csv,words_en,"Hohoho, I wonder who will be the lucky one?",후후후... 누가 운이 좋은지 두고 보자고.
+VoiceSound.csv,words_en,"Hoho, even if it's late game, Chiori will still go all out! That's Chiori's style!","흐흥, 마지막까지 최선을 다해서! 이게 치오리의 작법이니까!"
+VoiceSound.csv,words_en,Tsk... What a pity.,쳇... 아쉽네.
+VoiceSound.csv,words_en,Ouch!! I'm so angry!,우~~! 짜증나!
+VoiceSound.csv,words_en,"D-don't look! Even if you won, you are not allowed to look! Idiot! Pervert! Fool! Who, who told you it would be fine to just praise Chiori's dress!? Chiori's cuteness is unquestioned! Your approval is not needed at all... What did you say? ""I will never see any girl more adorable than Chiori, so I want to admire as much as possible""...? ...Hmph! Fine, C-Chiori is very kind, you can appreciate me just a little longer.","보, 보면 안돼! 노름에서 이겨도 보는 건 안돼! 바보! 변태! 멍청이! 누, 누가 치오리의 이 모습을 귀엽다고 평가해도 된다고 했어!? 치오리가 귀여운건 당연하잖아. 별로 그쪽한테 인정받지 못한다고 해도... 뭐야? ""어차피 앞으로 치오리보다 귀여운 아이를 만날 일은 없을 테고, 지금 많이 보고 본전은 찾고 싶다""고...? ...흥! 치, 치오리는 상냥하니까 조금은 봐도 좋아."
+VoiceSound.csv,words_en,"You picked Chiori such a beautiful new dress. That’s very bold. Well, but as a mature girl, Chiori doesn't mind it at all, you know?","치오리에게 이런 멋진 옷을 선물하다니, 꽤 건방지네! 뭐... 치오리는 어른이니까, 세세한건 눈감아 주겠지만 말이야."
+VoiceSound.csv,words_en,"Hmpf... Your Mahjong skills are improving quickly. It is not surprised, since you have been with Chiori for a long time. Still, you are nowhere near Chiori's level, so keep working on it~","흥... 상당히 능숙해진 것 같네? 뭐, 이 치오리님과 계속 함께 있으니까 당연한 거이만. 그래도 아직 내 발밑에도 못 미치니까 더 열심히 하라구?"
+VoiceSound.csv,words_en,"It bothers that you are trying to appeal to Chiori everyday. Anyway, I can accept your kindness for now.","매일 치오리님의 비위를 맞추는 거... 확실히 귀찮지만! 뭐, 어쩔 수 없으니~ 받아 줄게."
+VoiceSound.csv,words_en,"Has anyone ever told you how bad your skills are? How pathetic. They must think you are hopeless... All right, let ""ME"" give you a special lesson~","그쪽 말이야, 마작 풋내기라고 불렸지? ...뭐, 구제불능 바보니까 그렇게 불려도 당연한거지만... 조금은 어율려 줄게. ...어쩔 수 없네, 이 치오리님이 그쪽을 특훈시켜 줄게!"
+VoiceSound.csv,words_en,"Hmph, only an arrogant fool would want to challenge Chiori with this ""game theory"" thing... Huh!? Scared? No way! No matter what challenges you propose, Chiori will accept all of them! It's too late to regret now! Hmph... Speaking of it, what does ""game theory"" mean anyway?","우후후, 바보라서 두려워하지도 않나 보네. 치오리에게 노름 승부라니... 뭐!? 무섭다니, 말도 안 돼! 어떤 승부라도 치오리는 받아줄게! 후회해도 늦었으니까! 흐흥... 그런데, 노름이란게 뭐야?"
+VoiceSound.csv,words_en,You have a good taste in gifts. But that doesn’t mean Chiori will like you.,"꽤 센스가 좋잖아. 그래도, 이정도로 치오리와 친해질 수 있다고 생각하지는 마?"
+VoiceSound.csv,words_en,What is it? Is this for Chiori? Thanks!,뭐야 뭐야? 주는거야~? 고마워!
+VoiceSound.csv,words_en,"Why do you keep looking at Chiori's pudding? Do you want to eat it? Really? What a pervert. Fine, open your mouth... You can have a small bite~","누구 푸딩을 빤히 보고 있는 거야! 혹시... 먹고싶은거야? 흐응~ 치오리가 먹던걸 먹고싶다니, 변태네~ ...자, 아~ 해봐. 어쩔 수 없으니까 한 입만 나눠줄게."
+VoiceSound.csv,words_en,"Wow, this cafe is quite unique, let’s go... You look pretty familiar with this kind of place. You are allowed to bring Chiori there, just for today only. Let’s go, hurry up~","와~ 세련된 카페... 그쪽, 이런 곳에 익숙해 보이니까 오늘은 특별히 치오리를 에스코트하는 역할을 맡게 해줄게. 자, 빨리 들어가자!"
+VoiceSound.csv,words_en,"You don’t look too annoying. Well, Chiori is very kind, she can let you win this one.","그 쪽, 그렇게까지 싫어할 녀석은 아닌것 같네. 뭐, 치오리님은 상냥하니까, 한 번 정도는 이기게 해줘도 괜찮을까 싶네."
+VoiceSound.csv,words_en,"Hey, check this out! This dress and that dress, which one suits Chiori better?","저기 저기 봐봐! 이 옷이랑 이 옷, 어느 쪽이 더 어울린다고 생각해?"
+VoiceSound.csv,words_en,"Those who play Mahjong better than Chiori aren’t as cute. Those who are cuter than Chiori... Tsk, they don’t exist!","만약 치오리보다 마작을 더 잘한다고 해도, 귀여운건 치오리쪽이 더 귀여운걸. 만약 치오리보다 귀엾다고 해도... 라니, 그런 사람이 있을 리 없지!"
+VoiceSound.csv,words_en,"Idiot! Pervert! Fool! ...Um, aren’t you mad at all? What a strange person.","바보! 변태! 멍청이! ...으, 화내지 않는거야? 이상한 사람이네."
+VoiceSound.csv,words_en,Why are you looking at Chiori like that? Are you thinking of something dirty?,"뭐야, 빤히 보고. 야한 생각이라도 하고 있는거야?"
+VoiceSound.csv,words_en,Do you think this tile is safe? What a simple-minded fool.,이・근・처・가... 안전패라고 생각해? 후훗~ 단순한 녀석이네.
+VoiceSound.csv,words_en,Why are you so late? Hmpf! You must be doing something bad.,오는게 늦어! 흥! 어차피 이상한 짓이라도 했겠지!
+VoiceSound.csv,words_en,Why are you here again?,응? 왜 또 왔어?
+VoiceSound.csv,words_en,Huh? Are you the new Mahjong player? You look terrible. Don’t hold Chiori back.,"흐응? 그쪽이 새로운 작사야? 궁상스러운 얼굴이네. 뭐, 치오리의 발목만 잡지 말라고."
+VoiceSound.csv,words_en,It’s such a pleasure to play Mahjong with everyone!,모두와 함께 마작 치는건 재밌어!
+VoiceSound.csv,words_en,"Hohoho, Tsumo!","흐흥, 쯔모!"
+VoiceSound.csv,words_en,Ron,론
+VoiceSound.csv,words_en,"From now on, I will be a fan of yours. You must also shine for me~",오늘부터 카나짱은 너의 팬이야! 팬님도 카나짱을 위해 빛나야 해!
+VoiceSound.csv,words_en,"Hey, if I’m no longer an idol, will you still support me as you always? ...Haha, just kidding!","저기, 만약 카나짱이 아이돌을 그만두더라도, 지금까지처럼 나를 응원해줄래...? ...하하, 농담이야~!"
+VoiceSound.csv,words_en,"You are always cheering for me whenever I feel tired. I will work hard, for you!",팬님은 언제나 카나짱이 지쳤을 때 격려해줬으니까... 나도! 팬님을 응원할게!
+VoiceSound.csv,words_en,I will work twice as hard today!,"카나짱, 오늘도 힘낼거야!"
+VoiceSound.csv,words_en,Wow! ~~~~~~~This is great!!!!!! Thank you!,와아! 이거 너무 멋져! 고마워!
+VoiceSound.csv,words_en,Thank you for your support!,잔뜩 응원해줘서 고마워!
+VoiceSound.csv,words_en,"Here’s a special sleep therapy voice for you. One sheep, two sheep, three sheep, four... ZZZZZ...","카나짱이 팬님을 잠들게 해줄게요. 네, 양 한 마리, 양 두 마리, 양 세 마리, 양... 네마... 리... zzz..."
+VoiceSound.csv,words_en,I didn't expect you to be so charming when you’re playing Mahjong~ For a second there I was attracted to you! But it was just for a moment only! Haha~,"마작을 하고 있는 팬님 모습이 정말 멋있네요~ 카나짱, 조금 반해버렸을지도~ 아, 그 순간 뿐이야! 순간 뿐... 하하~"
+VoiceSound.csv,words_en,"Sometimes, I want to have a break too. Let’s sing Karaoke together!","가끔은 쉬고 싶어. 저기, 같이 노래방 가자. 노래방~!"
+VoiceSound.csv,words_en,"Hey, if you want my signed photo, please wait for the next signing session!","아, 사인과 기념사진이 필요하다면, 다음 사인회에 와줘!"
+VoiceSound.csv,words_en,"What’s the trouble of being an idol? Work has taken too much game time away from me, I guess!",아이돌의 고민? 음... 일 때문에 게임할 시간이 없어지는 것 정도일까?
+VoiceSound.csv,words_en,(Sighs)Is today’s event over yet? I really want to go home...,하아... 오늘 행사 아직도 안 끝났어? 빨리 돌아가고 싶어...
+VoiceSound.csv,words_en,What a beautiful day! It’s a perfect day to stay at home...Oops...to work!,"오늘 날씨 좋네! 방구석... 이 아니라, 일하러 가기 좋은 날씨야!"
+VoiceSound.csv,words_en,"Hmm...The “efficiency” you mentioned sounds so troublesome...I just want to play All Simples, that’s enough.","으음... 역이라던가 뭐라던가 귀찮을 것 같네... 그래, 나는 탕야오만으로 충분해."
+VoiceSound.csv,words_en,"Ah, you are finally here. What shall we play today?","아, 드디어 왔다! 오늘은 뭐하고 놀까?"
+VoiceSound.csv,words_en,HELLO! Everyone! Please continue supporting me!,"헬로! 여러분, 오늘도 카나짱을 응원해줘!"
+VoiceSound.csv,words_en,Thank you for choosing me. I will keep working hard in future!,선택해줘서 고마워! 앞으로 많이 노력할게!
+VoiceSound.csv,words_en,Yay! Kana-chan here. I’m the TOP1 idol!,"야호! 대세 아이돌, 카나짱이야!"
+VoiceSound.csv,words_en,Tsumo!,쯔모!
+VoiceSound.csv,words_en,Ron!,론!
+VoiceSound.csv,words_en,"[0]I have become more fabulous. [3200](Smiles)[4800]Don't worry, [6800]my beauty will belong to you only [9900]from now onward.","[0]제가 한층 더 빛나 보인다구요? [3200]후후후... [4800]안심해요, [6800]이 아름다움은 언제나 [9900]당신만의 것이니까요."
+VoiceSound.csv,words_en,"[0]Mahjong is amazing. [2200]No matter how good I am, I still may lose; [6300]no matter how bad I play, I may still win. [12000]This mixed feeling of both uncertainty and anticipation, [17200]is exactly like what I see from you when you stand in front of me~","[0]마작이란 신기하네요. [2200]아무리 잘하는 사람이라도 질 때는 지고... [6300]그런가 하면 초보자가 베테랑을 이길 수도 있고... [12000]이 기대와 불안이 뒤섞인 감각이란, [17200]당신과 함께 있을 때와 비슷하네요."
+VoiceSound.csv,words_en,"[0]Ever since I started playing Mahjong, [1800]I have enjoyed every single day. [4400]Of course, you are also one of the reasons~","[0]마작을 시작한 이후로, [1800]매일이 즐겁네요. [4400]당신이 있어준 덕분이에요."
+VoiceSound.csv,words_en,[0](Smiles)[1500]Do you really want to get close to me so badly? [4800]No - way. [6300]You need to work harder.,[0]후후후...[1500]그렇게나 저와 가까워지고 싶나요? [4800]안 돼요. [6300]아직은 안 돼요 .
+VoiceSound.csv,words_en,"[0]As long as it’s from you, [1900]I love it.","[0]당신이 주는 것이라면, [1900]그 무엇이든 보물이에요."
+VoiceSound.csv,words_en,[0]Thank you! [900]I will take good care of it~,[0]고마워요! [900]소중히 간직할게요~
+VoiceSound.csv,words_en,[0]The Moon [500]looks...[2400]so beautiful...,[0]오늘 밤 [500]달님은...[2400]정말 아름답네요...
+VoiceSound.csv,words_en,[0]Ah...[700]You look a little sleepy. [3900]Do you want to lie on my knees...? [7500]Oops? [8900]Why are you suddenly so awake?,[0]어머...[700]꽤나 졸려 보이시네요. [3900]언니가 무릎 베개 해 드릴까요...? [7500]어머? [8900]갑자기 건강해지셨네요?
+VoiceSound.csv,words_en,[0]Make sure you train hard today~ [2100]I'm waiting for you to beat me.,"[0]오늘도 힘내서, [2100]나를 넘어뜨려주세요."
+VoiceSound.csv,words_en,[0]Hmm~? [1100]Did you say you don’t know where to look? [3500](laughter)[3700]What shall I say. [6500]You can look at anywhere~ [8500]that~ [9000]you~ [9600]like~ [10200]to~,[0]응~? [1100]눈을 둘 곳이 없다구요? [3500]후후...[3700]어쩔 수 없네요~ [6500]어디든지 보셔도~ [8500]괜 [9000]찮 [9600]아 [10200]요~
+VoiceSound.csv,words_en,[0]That’s it? So soon? [2500]I haven’t had enough yet...[6100]Hmm~? [7600]I mean the Mahjong game [10500]just now.,"[0]아앙, 벌써 끝이야? [2500]저는 아직 만족하지 못했는걸요...[6100]응~? [7600]물론 아까 마작 얘기에요 [10500]그렇죠?"
+VoiceSound.csv,words_en,[0]Mahjong is fun. [2000]But...[2900]If I can play with someone I like...[4500]That’s even better~,[0]마작은 재미있죠. [2000]하지만...[2900]좋아하는 사람과 치면...[4500]더 즐거워져요~
+VoiceSound.csv,words_en,"[0]If you can win over me on the Mahjong table, [2500]I will give you a little surprise.","[0]마작으로 저를 이길 수 있다면, [2500]조금 서프라이즈한 포상... 줄까나~"
+VoiceSound.csv,words_en,[0]Riichi! [800]Ippatsu! [2300]Haha~ just kidding~,[0]리치! [800]일발! [2300]농담이에요~
+VoiceSound.csv,words_en,"[0]Ah, [600]here you are. [2200]I was thinking of you~","[0]어머, [600]오셨네요. [2200]저도 마침 당신 생각을 하고 있었어요~"
+VoiceSound.csv,words_en,[0]Welcome back~ [1600]What are you going to do today?,[0]어서 오세요~ [1600]오늘은 무엇을 하실까요?
+VoiceSound.csv,words_en,[0]I am Miki Nikaido. [2000]Glad to meet you~,[0]니카이도 미키입니다. [2000]잘 부탁드려요~
+VoiceSound.csv,words_en,It's my victory.,저의 승리군요.
+VoiceSound.csv,words_en,"Tsumo. Oops, sorry~",쯔모. 미안해요~
+VoiceSound.csv,words_en,"Ron, hehehe~","론, 후후후~"
+VoiceSound.csv,words_en,{5}nine different terminals and honors,{5}구종구패냐
+VoiceSound.csv,words_en,Four-Wind Discarded,사풍냥타
+VoiceSound.csv,words_en,Four-kan Abortion,사깡냥국
+VoiceSound.csv,words_en,No-ten (No Ready Hand),노텐냐
+VoiceSound.csv,words_en,Tenpai (Ready Hand),냥파이
+VoiceSound.csv,words_en,Sextuple Yakuman,6배 ㅐ역냥
+VoiceSound.csv,words_en,Quintuple Yakuman,5배 역냥
+VoiceSound.csv,words_en,Quadruple Yakuman,4배 역냥
+VoiceSound.csv,words_en,Triple Yakuman,트리플 역냥
+VoiceSound.csv,words_en,Double Yakuman,더블 역냥
+VoiceSound.csv,words_en,Yakuman,역냥
+VoiceSound.csv,words_en,Counted Yakuman,헤아림 역냥
+VoiceSound.csv,words_en,Sanbaiman,삼배냥
+VoiceSound.csv,words_en,Baiman,배냥
+VoiceSound.csv,words_en,Haneman,하네냥
+VoiceSound.csv,words_en,Mangan,냥간
+VoiceSound.csv,words_en,Mangan at Draw,유국만냥
+VoiceSound.csv,words_en,True Nine Gates,순정구냥보등
+VoiceSound.csv,words_en,Nine Gates,구냥보등
+VoiceSound.csv,words_en,Four Quads,스깡즈
+VoiceSound.csv,words_en,Four Big Winds,대사희
+VoiceSound.csv,words_en,Four Little Winds,소사희
+VoiceSound.csv,words_en,Thirteen-wait Thirteen Orphans,국사무쌍 13냥대기
+VoiceSound.csv,words_en,Thirteen Orphans,국사무쌍
+VoiceSound.csv,words_en,All Terminals,청노두
+VoiceSound.csv,words_en,All Green,녹일색
+VoiceSound.csv,words_en,All Honors,자일색
+VoiceSound.csv,words_en,{5}single-wait four concealed triplets,{5}스냥커 단기
+VoiceSound.csv,words_en,Four Concealed Triplets,스냥커
+VoiceSound.csv,words_en,Big Three Dragons,대냥원
+VoiceSound.csv,words_en,{5}blessing of earth,{5}지화
+VoiceSound.csv,words_en,{5}blessing of heaven,{5}천화
+VoiceSound.csv,words_en,Lots of Dora,도라냥이 축제다냐
+VoiceSound.csv,words_en,Dora 12,도라냥이 12
+VoiceSound.csv,words_en,Dora 11,도라냥이 11
+VoiceSound.csv,words_en,Dora 10,도라냥이 10
+VoiceSound.csv,words_en,Dora 9,도라냥이 9
+VoiceSound.csv,words_en,Dora 8,도라냥이 8
+VoiceSound.csv,words_en,Dora 7,도라냥이 7
+VoiceSound.csv,words_en,Dora 6,도라냥이 6
+VoiceSound.csv,words_en,Dora 5,도라냥이 5
+VoiceSound.csv,words_en,Dora 4,도라냥이 4
+VoiceSound.csv,words_en,Dora 3,도라냥이 3
+VoiceSound.csv,words_en,Dora 2,도라냥이 2
+VoiceSound.csv,words_en,Dora,도라냥이
+VoiceSound.csv,words_en,Ippatsu,일발
+VoiceSound.csv,words_en,Tsumo,쯔모
+VoiceSound.csv,words_en,Full Flush,청일색
+VoiceSound.csv,words_en,{5}twice pure double sequence,{5}냥페코
+VoiceSound.csv,words_en,Half Flush,혼일색
+VoiceSound.csv,words_en,{5}fully outside hand,{5}준냥
+VoiceSound.csv,words_en,Seven Pairs,치또이츠
+VoiceSound.csv,words_en,All Terminals and Honors,혼노두
+VoiceSound.csv,words_en,Little Three Dragons,소냥원
+VoiceSound.csv,words_en,{5}three concealed triplets,{5}냥안커
+VoiceSound.csv,words_en,All Triplets,또이또이
+VoiceSound.csv,words_en,Three Quads,냥깡즈
+VoiceSound.csv,words_en,Triple Triplets,냥색동각
+VoiceSound.csv,words_en,Mixed Triple Sequence,냥색동순
+VoiceSound.csv,words_en,Pure Straight,일통
+VoiceSound.csv,words_en,{5}half outside hand,{5}냥타
+VoiceSound.csv,words_en,Pinfu,냥후
+VoiceSound.csv,words_en,Pure Double Sequence,이페코
+VoiceSound.csv,words_en,All Simples,탕냐오
+VoiceSound.csv,words_en,North Repeat,더블북
+VoiceSound.csv,words_en,West Repeat,더블서
+VoiceSound.csv,words_en,{5}south repeat,더블냠
+VoiceSound.csv,words_en,East Repeat,더블동
+VoiceSound.csv,words_en,Green,발
+VoiceSound.csv,words_en,White,백
+VoiceSound.csv,words_en,Red,중
+VoiceSound.csv,words_en,North,북
+VoiceSound.csv,words_en,West,서
+VoiceSound.csv,words_en,South,냠
+VoiceSound.csv,words_en,East,동
+VoiceSound.csv,words_en,{5}under the river,{5}하저
+VoiceSound.csv,words_en,Under the Sea,해저
+VoiceSound.csv,words_en,After a Kan,영냥
+VoiceSound.csv,words_en,{5}Robbing a Kan,{5}냥깡
+VoiceSound.csv,words_en,"I am very rebellious, so make sure you keep a close eye on me. Otherwise, I may run away from you anytime-nyaa.","나는 변덕스러운 고양이다냐, 내가 도망치지 않도록 주인님은 쭉 나를 지켜봐달라냥."
+VoiceSound.csv,words_en,"Master, let's always play Mahjong together! Today, tomorrow, and forever hereafter-nyaa!","주인님, 오늘도 내일도 내일내일도, 나랑 같이 마작하자냐!"
+VoiceSound.csv,words_en,"Defensive Mahjong? That’s so boring, master. Mahjong is all about attacking. Come, let’s go forward together!","베타오리냐? 방어만 하는 마작은 재미없다냐! 알겠냥? 주인님, 마작은 앞으로 나아가는 거다냐! 그럼~ 함께 공격하고 공격하고 공격하는거다냐!"
+VoiceSound.csv,words_en,"Master, you have been very active today. I will make sure I become better to repay your favor-nyaa.","주인님, 오늘도 힘차게 있었다냐. 나도 열심히 마작을 연습해서 주인님께 받은 은혜를 갚겠다냐!"
+VoiceSound.csv,words_en,A gift? Is it something yummy?,선물? 맛있는거냥?
+VoiceSound.csv,words_en,Nyaa? Is this for me? You are so kind!,냐냐냐? 주는거냥? 주인님 좋은 사람이다냐!
+VoiceSound.csv,words_en,My favorite toys are - Mahjong and master!,"내가 가장 좋아하는 장난감은, 마작하고... 주인님이다냐!"
+VoiceSound.csv,words_en,"Cat ears are very sensitive and fragile. They can’t be touched by random, ordinary people! Speaking of them, master, would you like to touch them-nyaa?","고양이 귀는 매우 민감하다냐! 아무나 가볍게 만질만한 것이 아니다냐! 에헴, 그래서, 주인님? 좀 만져보고 싶지 않냥?"
+VoiceSound.csv,words_en,My favorite foods are chestnut and baked sweet potatoes. Have you remembered? See what they are selling over there? That’s it-nyaa.,"내가 좋아하는 음식은 군고구마랑 단밤이다냐. 기억했냥? 그래, 바로 저기서 파는 거다냐!"
+VoiceSound.csv,words_en,Nyaa~...Snacks always taste better when they are given to me by someone else. I want more!,"냐~ㅁ냠... 과자는, 왠지 다른 사람에게 받아 먹는게 더 맛있다냐. 더 먹고 싶다냐!"
+VoiceSound.csv,words_en,"Wow, that smells good. You’ve got some goodies in your pocket? Let me see! ...Hmm? Why are you blushing, Master?",으음~ 좋은 냄새다냐. 주인님 주머니에 맛있는 거 숨기고 있는거냐? 숨기는 건 좋지 않다냐! ...냐냐? 주인님 얼굴... 왜 빨개지고 있는거냐!
+VoiceSound.csv,words_en,What’s Yaku? I only play by feel-nyaa.,역이 뭐냥? 나는 언제나 직감으로 치고 있다냐.
+VoiceSound.csv,words_en,Declare Riichi as soon as possible. Fast attack for the win!,"텐파이 즉시 리치, 속공이다냐 속공!"
+VoiceSound.csv,words_en,"Master, where is my lunch?","주인님, 내 점심은?"
+VoiceSound.csv,words_en,"Master, I have been a good girl today-nyaa.","주인님, 오늘도 착한 아이로 지냈다냐!"
+VoiceSound.csv,words_en,"Master, welcome back-nyaa!","주인님, 어서와냥!"
+VoiceSound.csv,words_en,Hello! My name is Ichihime. Glad to meet you-nya!,안녕! 나는 이치히메냥! 잘 부탁한다냥!
+VoiceSound.csv,words_en,I’m Invincible nyaa!,천하무적이다냐!
+VoiceSound.csv,words_en,Tsumo! !!,쯔모냐!
+VoiceSound.csv,words_en,Ron! !!,론냐!
