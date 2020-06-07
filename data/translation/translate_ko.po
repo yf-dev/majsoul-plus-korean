@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-06 16:00+0000\n"
+"PO-Revision-Date: 2020-06-07 02:05+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -20112,7 +20112,7 @@ msgstr "검증 실패"
 #: translate_sheet.csv:2246
 msgctxt "Daily refresh in:{0}"
 msgid "sheet|StrStr.csv|en|1a882153a27db7fb910014f11ef12d5f"
-msgstr "매일 새로고침: {0}"
+msgstr "일간 새로고침까지 남은 시간: {0}"
 
 #: translate_sheet.csv:2245
 msgctxt "Would you like to purchase some Jade?"
@@ -22045,42 +22045,42 @@ msgstr "Receiving Gift - Normal"
 #: translate_sheet.csv:2571
 msgctxt "Lobby Interactive Voice 8"
 msgid "sheet|VoiceSound.csv|name_en|d0d66b4e35814781c772bd69cecea5bb"
-msgstr "Lobby Interactive Voice 8"
+msgstr "로비 상호작용 음성 8"
 
 #: translate_sheet.csv:2569
 msgctxt "Lobby Interactive Voice 7"
 msgid "sheet|VoiceSound.csv|name_en|a2ae6153fb93a00015dc7940c71f71b7"
-msgstr "Lobby Interactive Voice 7"
+msgstr "로비 상호작용 음성 7"
 
 #: translate_sheet.csv:2567
 msgctxt "Lobby Interactive Voice 6"
 msgid "sheet|VoiceSound.csv|name_en|edf13298b84ec2a69f10130fdaac82bd"
-msgstr "Lobby Interactive Voice 6"
+msgstr "로비 상호작용 음성 6"
 
 #: translate_sheet.csv:2565
 msgctxt "Lobby Interactive Voice 5"
 msgid "sheet|VoiceSound.csv|name_en|3cb0c32274c89a4ace6fda617f65f9f3"
-msgstr "Lobby Interactive Voice 5"
+msgstr "로비 상호작용 음성 5"
 
 #: translate_sheet.csv:2563
 msgctxt "Lobby Interactive Voice 4"
 msgid "sheet|VoiceSound.csv|name_en|e3178497426143c4423fb7d2a4739423"
-msgstr "Lobby Interactive Voice 4"
+msgstr "로비 상호작용 음성 4"
 
 #: translate_sheet.csv:2561
 msgctxt "Lobby Interactive Voice 3"
 msgid "sheet|VoiceSound.csv|name_en|c51744a0291846aa4bc7a4911900b99c"
-msgstr "Lobby Interactive Voice 3"
+msgstr "로비 상호작용 음성 3"
 
 #: translate_sheet.csv:2559
 msgctxt "Lobby Interactive Voice 2"
 msgid "sheet|VoiceSound.csv|name_en|16727188070022d86f38e2460ffb3613"
-msgstr "Lobby Interactive Voice 2"
+msgstr "로비 상호작용 음성 2"
 
 #: translate_sheet.csv:2557
 msgctxt "Lobby Interactive Voice 1"
 msgid "sheet|VoiceSound.csv|name_en|efc23c735df288e9615be5973a33172a"
-msgstr "Lobby Interactive Voice 1"
+msgstr "로비 상호작용 음성 1"
 
 #: translate_sheet.csv:2555
 msgctxt "Login Voice - Max Bond"
