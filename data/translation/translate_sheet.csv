@@ -2228,7 +2228,7 @@ StrStr.csv,en,Device ID is banned,장치 ID가 금지됨
 StrStr.csv,en,IP restricted,IP 제한
 StrStr.csv,en,"Verification failed, Info do not match","검증 실패, 정보가 일치하지 않음"
 StrStr.csv,en,Verification failed,검증 실패
-StrStr.csv,en,Daily refresh in:{0},매일 새로고침: {0}
+StrStr.csv,en,Daily refresh in:{0},일간 새로고침까지 남은 시간: {0}
 StrStr.csv,en,Would you like to purchase some Jade?,휘옥을 구매하시겠습니까?
 StrStr.csv,en,Not enough Jade,휘옥 부족
 StrStr.csv,en,Remember me,계정 기억
@@ -2595,14 +2595,14 @@ VoiceSound.csv,name_en,Bond Level Up Voice 2,Bond Level Up Voice 2
 VoiceSound.csv,name_en,Bond Level Up Voice 1,Bond Level Up Voice 1
 VoiceSound.csv,name_en,Receiving Gift - Preferred,Receiving Gift - Preferred
 VoiceSound.csv,name_en,Receiving Gift - Normal,Receiving Gift - Normal
-VoiceSound.csv,name_en,Lobby Interactive Voice 8,Lobby Interactive Voice 8
-VoiceSound.csv,name_en,Lobby Interactive Voice 7,Lobby Interactive Voice 7
-VoiceSound.csv,name_en,Lobby Interactive Voice 6,Lobby Interactive Voice 6
-VoiceSound.csv,name_en,Lobby Interactive Voice 5,Lobby Interactive Voice 5
-VoiceSound.csv,name_en,Lobby Interactive Voice 4,Lobby Interactive Voice 4
-VoiceSound.csv,name_en,Lobby Interactive Voice 3,Lobby Interactive Voice 3
-VoiceSound.csv,name_en,Lobby Interactive Voice 2,Lobby Interactive Voice 2
-VoiceSound.csv,name_en,Lobby Interactive Voice 1,Lobby Interactive Voice 1
+VoiceSound.csv,name_en,Lobby Interactive Voice 8,로비 상호작용 음성 8
+VoiceSound.csv,name_en,Lobby Interactive Voice 7,로비 상호작용 음성 7
+VoiceSound.csv,name_en,Lobby Interactive Voice 6,로비 상호작용 음성 6
+VoiceSound.csv,name_en,Lobby Interactive Voice 5,로비 상호작용 음성 5
+VoiceSound.csv,name_en,Lobby Interactive Voice 4,로비 상호작용 음성 4
+VoiceSound.csv,name_en,Lobby Interactive Voice 3,로비 상호작용 음성 3
+VoiceSound.csv,name_en,Lobby Interactive Voice 2,로비 상호작용 음성 2
+VoiceSound.csv,name_en,Lobby Interactive Voice 1,로비 상호작용 음성 1
 VoiceSound.csv,name_en,Login Voice - Max Bond,Login Voice - Max Bond
 VoiceSound.csv,name_en,Login Voice - Normal,Login Voice - Normal
 VoiceSound.csv,name_en,Voice when obtained,Voice when obtained
