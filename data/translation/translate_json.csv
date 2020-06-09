@@ -1325,3 +1325,15 @@ both_ui/bind_mail0|0|10,邮箱地址:,邮箱地址:
 both_ui/bind_mail0|0|8|0,绑定,绑定
 both_ui/bind_mail0|0|7|0,发送验证码,发送验证码
 both_ui/bind_mail0|0|2,绑定邮箱,绑定邮箱
+both_ui/unbind_phone|0|2,解除绑定,解除绑定
+both_ui/dmm_kefu|0|3,お問い合わせ,お問い合わせ
+both_ui/dmm_kefu|0|2,サポート窓口：https://mahjongsoul.com/feedback,サポート窓口：https://mahjongsoul.com/feedback
+both_ui/config|0|7|3|2|3|2|3,解除绑定,解除绑定
+both_ui/config|0|7|3|2|3|2|0,非登陆凭证,非登陆凭证
+both_ui/config|0|7|3|0|6|1,お問い合わせ,お問い合わせ
+both_ui/bind_mail1|0|8,your email address:,당신의 이메일 주소:
+both_ui/bind_mail1|0|6|0,Bind,연결
+both_ui/bind_mail1|0|5|0,Send code,코드 전송
+both_ui/bind_mail0|0|10,your email address:,당신의 이메일 주소:
+both_ui/bind_mail0|0|8|0,Bind,연결
+both_ui/bind_mail0|0|7|0,Send code,코드 전송
