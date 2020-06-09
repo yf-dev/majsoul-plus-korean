@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-07 13:02+0000\n"
+"PO-Revision-Date: 2020-06-09 08:32+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -23309,3 +23309,63 @@ msgstr "쯔모냐!"
 msgctxt "Ron! !!"
 msgid "sheet|VoiceSound.csv|words_en|3c4bc31e187b97fe09dea50f62587331"
 msgstr "론냐!"
+
+#: translate_json.csv:272
+msgctxt "解除绑定"
+msgid "json|both_ui/unbind_phone|0|2|c7b01a47bb996a938ac0c96ed5d618c1"
+msgstr "解除绑定"
+
+#: translate_json.csv:78
+msgctxt "お問い合わせ"
+msgid "json|both_ui/dmm_kefu|0|3|e3daaddaff30447edea8c6b14def12a9"
+msgstr "お問い合わせ"
+
+#: translate_json.csv:77
+msgctxt "サポート窓口：https://mahjongsoul.com/feedback"
+msgid "json|both_ui/dmm_kefu|0|2|97e1bc2e64db5b2205460f4037abdcea"
+msgstr "サポート窓口：https://mahjongsoul.com/feedback"
+
+#: translate_json.csv:65
+msgctxt "解除绑定"
+msgid "json|both_ui/config|0|7|3|2|3|2|3|c7b01a47bb996a938ac0c96ed5d618c1"
+msgstr "解除绑定"
+
+#: translate_json.csv:63
+msgctxt "非登陆凭证"
+msgid "json|both_ui/config|0|7|3|2|3|2|0|ad7f5fc682469c459d4a78590a940e34"
+msgstr "非登陆凭证"
+
+#: translate_json.csv:51
+msgctxt "お問い合わせ"
+msgid "json|both_ui/config|0|7|3|0|6|1|e3daaddaff30447edea8c6b14def12a9"
+msgstr "お問い合わせ"
+
+#: translate_json.csv:7
+msgctxt "your email address:"
+msgid "json|both_ui/bind_mail1|0|8|68c631b212a1f8521e1a49c2cf448532"
+msgstr "당신의 이메일 주소:"
+
+#: translate_json.csv:6
+msgctxt "Bind"
+msgid "json|both_ui/bind_mail1|0|6|0|0b172674284d79079624051d2ae11581"
+msgstr "연결"
+
+#: translate_json.csv:5
+msgctxt "Send code"
+msgid "json|both_ui/bind_mail1|0|5|0|8dab622763c6e4d607e1250d0c432dbd"
+msgstr "코드 전송"
+
+#: translate_json.csv:4
+msgctxt "your email address:"
+msgid "json|both_ui/bind_mail0|0|10|68c631b212a1f8521e1a49c2cf448532"
+msgstr "당신의 이메일 주소:"
+
+#: translate_json.csv:3
+msgctxt "Bind"
+msgid "json|both_ui/bind_mail0|0|8|0|0b172674284d79079624051d2ae11581"
+msgstr "연결"
+
+#: translate_json.csv:2
+msgctxt "Send code"
+msgid "json|both_ui/bind_mail0|0|7|0|8dab622763c6e4d607e1250d0c432dbd"
+msgstr "코드 전송"
