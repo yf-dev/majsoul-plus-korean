@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-09 11:24+0000\n"
+"PO-Revision-Date: 2020-06-09 13:11+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -23374,3 +23374,552 @@ msgstr "코드 전송"
 msgctxt "User Agreement"
 msgid "json|both_ui/config|0|7|3|0|7|0|1|5ac23f06000fafde2c8f7501a80ebbfe"
 msgstr "이용 약관"
+
+#: translate_json.csv:1217
+msgctxt "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
+msgid "json|lobby/treasure|4|2|2|7|7|12c6b2a733d418c8181614719a7d3558"
+msgstr "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
+
+#: translate_json.csv:1216
+msgctxt "禮物概率：80%"
+msgid "json|lobby/treasure|4|2|2|7|6|4b00df9933d62ef84bad21e912d3b2c6"
+msgstr "禮物概率：80%"
+
+#: translate_json.csv:1214
+msgctxt "重複獲取的裝扮將轉換為星之石"
+msgid "json|lobby/treasure|4|2|2|7|4|0|7a94167b93d000c521a8acfea5d2ddaa"
+msgstr "重複獲取的裝扮將轉換為星之石"
+
+#: translate_json.csv:1213
+msgctxt "裝扮概率：15%"
+msgid "json|lobby/treasure|4|2|2|7|4|b299f6de87bda3f0ce7e6fc4c8fbcc87"
+msgstr "裝扮概率：15%"
+
+#: translate_json.csv:1211
+msgctxt "重複獲取的雀士將轉換為許願石"
+msgid "json|lobby/treasure|4|2|2|7|2|0|ebddb8d60708511717c57d9af4c2aec4"
+msgstr "重複獲取的雀士將轉換為許願石"
+
+#: translate_json.csv:1210
+msgctxt "雀士概率：5%"
+msgid "json|lobby/treasure|4|2|2|7|2|11e4ba4a8cb176be1acb80978b571cdb"
+msgstr "雀士概率：5%"
+
+#: translate_json.csv:1209
+msgctxt "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
+msgid "json|lobby/treasure|4|2|2|7|1|518cd0681eefe0af1e62abf9ffc7d236"
+msgstr "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
+
+#: translate_json.csv:1208
+msgctxt "每次尋覓都可以獲得1點"
+msgid "json|lobby/treasure|4|2|2|7|0|c8a45e1d2afe4fc915d87276d700a0c7"
+msgstr "每次尋覓都可以獲得1點"
+
+#: translate_json.csv:1202
+msgctxt "雀士概率：5%"
+msgid "json|lobby/treasure|4|2|2|6|2|11e4ba4a8cb176be1acb80978b571cdb"
+msgstr "雀士概率：5%"
+
+#: translate_json.csv:316
+msgctxt "创建手机通行证"
+msgid "json|common/create_phone_account|0|2|821c2066c74f48566fd82bddf5474f47"
+msgstr "创建手机通行证"
+
+#: translate_json.csv:305
+msgctxt "手机号码："
+msgid "json|common/bind_phone2|0|5|67d939e68162e8a472ea9e4847aa81de"
+msgstr "手机号码："
+
+#: translate_json.csv:303
+msgctxt "登出账号"
+msgid "json|common/bind_phone1|0|11|0|29dcfc66dd1f38b11215b0237f010ec5"
+msgstr "登出账号"
+
+#: translate_json.csv:302
+msgctxt "暂无昵称"
+msgid "json|common/bind_phone1|0|10|55afec20df2af72e0390d30d5292700d"
+msgstr "暂无昵称"
+
+#: translate_json.csv:301
+msgctxt "当前账号昵称:"
+msgid "json|common/bind_phone1|0|9|673cd46a7d069fbd9df9778844f1827e"
+msgstr "当前账号昵称:"
+
+#: translate_json.csv:290
+msgctxt "根据网络游戏实名制的相关规定要求，请绑定手机完成认证。"
+msgid "json|common/bind_phone0|0|9|50043ce41cb38fb521fb96feb0f52ec3"
+msgstr "根据网络游戏实名制的相关规定要求，请绑定手机完成认证。"
+
+#: translate_json.csv:288
+msgctxt "手机号码："
+msgid "json|common/bind_phone0|0|8|67d939e68162e8a472ea9e4847aa81de"
+msgstr "手机号码："
+
+#: translate_json.csv:287
+msgctxt "发送验证码"
+msgid "json|common/bind_phone0|0|7|0|c5c3583bfcc51de4ee921b5679a092cc"
+msgstr "发送验证码"
+
+#: translate_json.csv:286
+msgctxt "绑定手机"
+msgid "json|common/bind_phone0|0|2|8dd066208f7f2b12d2f56501dccab177"
+msgstr "绑定手机"
+
+#: translate_json.csv:274
+msgctxt "解除绑定"
+msgid "json|both_ui/unbind_phone|0|6|0|c7b01a47bb996a938ac0c96ed5d618c1"
+msgstr "解除绑定"
+
+#: translate_json.csv:273
+msgctxt "发送验证码"
+msgid "json|both_ui/unbind_phone|0|5|0|c5c3583bfcc51de4ee921b5679a092cc"
+msgstr "发送验证码"
+
+#: translate_sheet.csv:2518
+msgctxt "your email address:"
+msgid "sheet|StrStr.csv|en|68c631b212a1f8521e1a49c2cf448532"
+msgstr "당신의 이메일 주소:"
+
+#: translate_sheet.csv:2126
+msgctxt "Last 5 matches Ranks:"
+msgid "sheet|StrStr.csv|en|886938389ab40cb7abafd64d59a0ac35"
+msgstr "최근 5경기:"
+
+#: translate_sheet.csv:1816
+msgctxt "Last {0} matches Total hanchan score:"
+msgid "sheet|StrStr.csv|en|7d07ccd448bc5b6a0b80cb2acfaad9f0"
+msgstr "최근 {0} 경기 총 정산 점수:"
+
+#: translate_sheet.csv:1538
+msgctxt ""
+"Obtain 300 Jade immediately\\nObtain 60 Jade per day for 30(d)\\nCan accept "
+"an extra Daily Quest \\nCan store upto 6 Daily Quests"
+msgid ""
+"sheet|MallMonthTicket.csv|desc_detail2_en|a3cc3e5e3f4922cdf81c098a3e019b9c"
+msgstr ""
+"즉시 300 휘옥 획득\\n"
+"30일동안 매일 60 휘옥 획득\\n"
+"추가 일일 퀘스트 획득\\n"
+"최대 6개의 일일 퀘스트 저장 가능"
+
+#: translate_sheet.csv:1537
+msgctxt ""
+"Obtain 300 Jade immediately\\nObtain 60 Jade per day for 30(d)\\nCan accept "
+"an extra Daily Quest \\nCan store upto 6 Daily Quests"
+msgid ""
+"sheet|MallMonthTicket.csv|desc_detail_en|a3cc3e5e3f4922cdf81c098a3e019b9c"
+msgstr ""
+"즉시 300 휘옥 획득\\n"
+"30일동안 매일 60 휘옥 획득\\n"
+"추가 일일 퀘스트 획득\\n"
+"최대 6개의 일일 퀘스트 저장 가능"
+
+#: translate_sheet.csv:1536
+msgctxt ""
+"Obtain 340 Jade immediately\\nObtain 60 Jade per day for 30(d)\\nCan accept "
+"an extra Daily Quest \\nCan store upto 6 Daily Quests"
+msgid ""
+"sheet|MallMonthTicket.csv|desc_detail2_en|0aa46271ebd3b2cd236b9acb0829106e"
+msgstr ""
+"즉시 340 휘옥 획득\\n"
+"30일동안 매일 60 휘옥 획득\\n"
+"추가 일일 퀘스트 획득\\n"
+"최대 6개의 일일 퀘스트 저장 가능"
+
+#: translate_sheet.csv:1535
+msgctxt ""
+"Obtain 340 Jade immediately\\nObtain 60 Jade per day for 30(d)\\nCan accept "
+"an extra Daily Quest \\nCan store upto 6 Daily Quests"
+msgid ""
+"sheet|MallMonthTicket.csv|desc_detail_en|0aa46271ebd3b2cd236b9acb0829106e"
+msgstr ""
+"즉시 340 휘옥 획득\\n"
+"30일동안 매일 60 휘옥 획득\\n"
+"추가 일일 퀘스트 획득\\n"
+"최대 6개의 일일 퀘스트 저장 가능"
+
+#: translate_sheet.csv:1533
+msgctxt "Fortune Charm (30d)"
+msgid "sheet|MallMonthTicket.csv|name_en|66cb2aad89b68f760bf04b11abf47836"
+msgstr "행운 부적(30일)"
+
+#: translate_sheet.csv:1507
+msgctxt "萬象更新"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|de117257e8ccc9a90e348a861356e651"
+msgstr "萬象更新"
+
+#: translate_sheet.csv:1407
+msgctxt "Mikami Chiori’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|bb2c9fa472bc959f0fb48673fc9c306d"
+msgstr "미카미 치오리의 기본 의상"
+
+#: translate_sheet.csv:745
+msgctxt "You aren't allowed to real-time spectate"
+msgid "sheet|InfoError.csv|en|ee7e23601f7ee3bf51506bc2824239ee"
+msgstr "실시간 관전은 허용되지 않습니다"
+
+#: translate_sheet.csv:744
+msgctxt "You aren't allowed for this type of real-time spectating"
+msgid "sheet|InfoError.csv|en|1e9ed26a9981568e026b2106f90b1cfd"
+msgstr "이 유형의 실시간 관전은 허용되지 않습니다"
+
+#: translate_sheet.csv:743
+msgctxt "Amount of spectators in this room has reached the limit"
+msgid "sheet|InfoError.csv|en|7f4ef2e1e89ec2738f4937ada8154369"
+msgstr "이 방의 관전자 수가 한도에 도달했습니다"
+
+#: translate_sheet.csv:742
+msgctxt "You can only quit the match in the Friendly Match room"
+msgid "sheet|InfoError.csv|en|18b3a2b5d77c1076d78cbb1c54b93a1e"
+msgstr "친선전에서만 경기를 종료할 수 있습니다"
+
+#: translate_sheet.csv:741
+msgctxt "The voting has already ended"
+msgid "sheet|InfoError.csv|en|9188881c19c73191e425df5bf8a73f1e"
+msgstr "투표가 이미 종료됬습니다"
+
+#: translate_sheet.csv:740
+msgctxt "You have voted too frequently"
+msgid "sheet|InfoError.csv|en|ea61a40f8143caaa2397a017d330e1c1"
+msgstr "너무 자주 투표하셨습니다"
+
+#: translate_sheet.csv:188
+msgctxt "四暗刻单骑"
+msgid "sheet|EventsBaseTask.csv|desc_en|59712a670f7ad495f042b32062b8a075"
+msgstr "四暗刻单骑"
+
+#: translate_json.csv:1215
+msgctxt "(UP裝扮占49%、其他裝扮占51%)"
+msgid "json|lobby/treasure|4|2|2|7|5|b4cc67a1824d6db16ad0fbfefef583ef"
+msgstr "(UP裝扮占49%、其他裝扮占51%)"
+
+#: translate_json.csv:1212
+msgctxt "(UP雀士占59%、其他雀士占41%)"
+msgid "json|lobby/treasure|4|2|2|7|3|e571ef2163101e87f50d31d486befbb2"
+msgstr "(UP雀士占59%、其他雀士占41%)"
+
+#: translate_json.csv:1207
+msgctxt "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
+msgid "json|lobby/treasure|4|2|2|6|5|12c6b2a733d418c8181614719a7d3558"
+msgstr "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
+
+#: translate_json.csv:1206
+msgctxt "禮物概率：80%"
+msgid "json|lobby/treasure|4|2|2|6|4|4b00df9933d62ef84bad21e912d3b2c6"
+msgstr "禮物概率：80%"
+
+#: translate_json.csv:1205
+msgctxt "重複獲取的裝扮將轉換為星之石"
+msgid "json|lobby/treasure|4|2|2|6|3|0|7a94167b93d000c521a8acfea5d2ddaa"
+msgstr "重複獲取的裝扮將轉換為星之石"
+
+#: translate_json.csv:1204
+msgctxt "裝扮概率：15%"
+msgid "json|lobby/treasure|4|2|2|6|3|b299f6de87bda3f0ce7e6fc4c8fbcc87"
+msgstr "裝扮概率：15%"
+
+#: translate_json.csv:1203
+msgctxt "重複獲取的雀士將轉換為許願石"
+msgid "json|lobby/treasure|4|2|2|6|2|0|ebddb8d60708511717c57d9af4c2aec4"
+msgstr "重複獲取的雀士將轉換為許願石"
+
+#: translate_json.csv:1201
+msgctxt "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
+msgid "json|lobby/treasure|4|2|2|6|1|518cd0681eefe0af1e62abf9ffc7d236"
+msgstr "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
+
+#: translate_json.csv:1200
+msgctxt "每次尋覓都可以獲得1點"
+msgid "json|lobby/treasure|4|2|2|6|0|c8a45e1d2afe4fc915d87276d700a0c7"
+msgstr "每次尋覓都可以獲得1點"
+
+#: translate_json.csv:1129
+msgctxt "Resummon"
+msgid "json|lobby/tangfang1|6|4|0|ff2cf091e2b27b9b537597dac8cc9513"
+msgstr "재기원"
+
+#: translate_json.csv:879
+msgctxt "Price:"
+msgid ""
+"json|lobby/payment/choose_method_chs_t|0|6|f2c12ae14393ffc83551d56f32bb03cc"
+msgstr "가격:"
+
+#: translate_json.csv:878
+msgctxt "Item:"
+msgid ""
+"json|lobby/payment/choose_method_chs_t|0|4|931252272b1ce0bf555e4a605a89f102"
+msgstr "아이템:"
+
+#: translate_json.csv:877
+msgctxt "Choose a payment method"
+msgid ""
+"json|lobby/payment/choose_method_chs_t|0|3|8ecef15452f0d5cab69ac0439b88443c"
+msgstr "결제 방법을 선택해주세요"
+
+#: translate_json.csv:820
+msgctxt "Sign-in"
+msgid "json|lobby/page_sign_chs_t|1|2|1|e5b47edd743751a81819b7f421639303"
+msgstr "로그인"
+
+#: translate_json.csv:819
+msgctxt "Confirm"
+msgid "json|lobby/page_sign_chs_t|1|1|1|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
+
+#: translate_json.csv:725
+msgctxt "Last 5 matches Ranks:"
+msgid "json|lobby/match_room|1|1|1|8|886938389ab40cb7abafd64d59a0ac35"
+msgstr "최근 5경기:"
+
+#: translate_json.csv:407
+msgctxt "Send code"
+msgid ""
+"json|entrance/reset_password_phone2|0|10|0|8dab622763c6e4d607e1250d0c432dbd"
+msgstr "코드 전송"
+
+#: translate_json.csv:406
+msgctxt "Confirm"
+msgid ""
+"json|entrance/reset_password_phone2|0|2|0|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
+
+#: translate_json.csv:405
+msgctxt "Confirm"
+msgid ""
+"json|entrance/reset_password|0|0|2|0|0|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
+
+#: translate_json.csv:404
+msgctxt "Send"
+msgid ""
+"json|entrance/reset_password|0|0|1|0|0|94966d90747b97d1f0f206c98a8b1ac3"
+msgstr "전송"
+
+#: translate_json.csv:390
+msgctxt "Connecting to server"
+msgid "json|entrance/mail_regist|1|1|1|b0f9aa1e436bfb153d799923ec1d792b"
+msgstr "서버에 연결하는 중"
+
+#: translate_json.csv:389
+msgctxt "Send code"
+msgid "json|entrance/mail_regist|0|0|11|0|8dab622763c6e4d607e1250d0c432dbd"
+msgstr "코드 전송"
+
+#: translate_json.csv:388
+msgctxt "《創魂遊戲註冊用戶隱私條款》"
+msgid "json|entrance/mail_regist|0|0|10|6|4288d962898453ece0ae05891943c6ad"
+msgstr "《創魂遊戲註冊用戶隱私條款》"
+
+#: translate_json.csv:387
+msgctxt "、"
+msgid "json|entrance/mail_regist|0|0|10|5|b505660a97c0ddf7d7209d22bc498ed1"
+msgstr "、"
+
+#: translate_json.csv:386
+msgctxt "《創魂遊戲許可及服務協議》"
+msgid "json|entrance/mail_regist|0|0|10|3|a270174e7a16b8c7c39082b1f8d707a4"
+msgstr "《創魂遊戲許可及服務協議》"
+
+#: translate_json.csv:385
+msgctxt "“Majsoul License & Service Agreement”"
+msgid "json|entrance/mail_regist|0|0|9|3|e518e41f0288328e2ef5f4e7b6bebc7e"
+msgstr "“작혼 라이센스 및 서비스 계약”"
+
+#: translate_json.csv:384
+msgctxt "Register using social network account"
+msgid "json|entrance/mail_regist|0|0|2|0|18e47fa7322e6fc3f45a7dd2d25e7cb6"
+msgstr "소셜 네트워크 계정을 사용하여 등록"
+
+#: translate_json.csv:383
+msgctxt "Registration"
+msgid "json|entrance/mail_regist|0|0|1|0f98b7f230f3c91292f0de4c99e263f2"
+msgstr "등록"
+
+#: translate_json.csv:363
+msgctxt "Remember me"
+msgid "json|entrance/entrance|1|2|3|1|3|878530871f0db73f004f5bd6591eeb76"
+msgstr "계정 기억"
+
+#: translate_json.csv:360
+msgctxt "Forgot Password"
+msgid "json|entrance/entrance|1|2|0|5|0|9ec54ec336b65da6179cf750de33ecd7"
+msgstr "비밀번호를 잊어버림"
+
+#: translate_json.csv:359
+msgctxt "Register Now"
+msgid "json|entrance/entrance|1|2|0|4|0|77096b231f99bf93ef4a09ad575adc59"
+msgstr "지금 등록"
+
+#: translate_json.csv:358
+msgctxt "Password"
+msgid "json|entrance/entrance|1|2|0|3|2|dc647eb65e6711e155375218212b3964"
+msgstr "비밀번호"
+
+#: translate_json.csv:349
+msgctxt "Reject"
+msgid "json|common/user_xieyi_dmm|0|5|1|d98ac12774fca5c3cbaffe276840c55f"
+msgstr "거절"
+
+#: translate_json.csv:348
+msgctxt "Accept"
+msgid "json|common/user_xieyi_dmm|0|4|1|c4408d335012a56ff58937d78050efad"
+msgstr "동의"
+
+#: translate_json.csv:323
+msgctxt "(密码与账号/邮箱通行证的密码一致)"
+msgid ""
+"json|common/create_phone_account_success|0|5|259c74dcea2ea4b1a035c7db00f5f7f7"
+msgstr "(密码与账号/邮箱通行证的密码一致)"
+
+#: translate_json.csv:322
+msgctxt "创建手机号通行证成功。"
+msgid ""
+"json|common/create_phone_account_success|0|4|0120abcd5bb2342ff3373aa18f397740"
+msgstr "创建手机号通行证成功。"
+
+#: translate_json.csv:321
+msgctxt "好的"
+msgid ""
+"json|common/create_phone_account_success|0|3|0|375ec8858f2e8ec21295958624199520"
+msgstr "好的"
+
+#: translate_json.csv:320
+msgctxt "成功"
+msgid ""
+"json|common/create_phone_account_success|0|2|330363dfc524cff2488f2ebde0500896"
+msgstr "成功"
+
+#: translate_json.csv:319
+msgctxt "不用了"
+msgid ""
+"json|common/create_phone_account|0|5|0|cfe05627c42653dd49d52db8d759aa2e"
+msgstr "不用了"
+
+#: translate_json.csv:318
+msgctxt ""
+"是否使用该手机号创建一个通行证?\\n创建成功后您可以使用手机号和密码来登陆游戏，也可以通过该手机号来找回该账号。\\n每个手机号只能创建一个通行证。"
+msgid "json|common/create_phone_account|0|4|0227ccbb2061de3dc261567992a45bb8"
+msgstr ""
+"是否使用该手机号创建一个通行证?\\n"
+"创建成功后您可以使用手机号和密码来登陆游戏，也可以通过该手机号来找回该账号。\\n"
+"每个手机号只能创建一个通行证。"
+
+#: translate_json.csv:317
+msgctxt "创建"
+msgid ""
+"json|common/create_phone_account|0|3|0|d9ac9228e8564657bbe9ca5359f95806"
+msgstr "创建"
+
+#: translate_json.csv:312
+msgctxt "您无法使用该手机号来登录或找回账号。"
+msgid ""
+"json|common/canot_create_phone_account|0|5|44fade50ed4040cd34c3c5981390eb52"
+msgstr "您无法使用该手机号来登录或找回账号。"
+
+#: translate_json.csv:311
+msgctxt "该手机号已经创建过通行证，无法为本账号创建通行证，仅作为手机实名信息使用。"
+msgid ""
+"json|common/canot_create_phone_account|0|4|0f2df21d17934e364e8d03d4b583514d"
+msgstr "该手机号已经创建过通行证，无法为本账号创建通行证，仅作为手机实名信息使用。"
+
+#: translate_json.csv:310
+msgctxt "了解了"
+msgid ""
+"json|common/canot_create_phone_account|0|3|0|b11a6f4cfbc74ab3e81ad85a52285d78"
+msgstr "了解了"
+
+#: translate_json.csv:309
+msgctxt "信息"
+msgid ""
+"json|common/canot_create_phone_account|0|2|d8c7e04c8e2be23dd3b81a31db6e04f1"
+msgstr "信息"
+
+#: translate_json.csv:308
+msgctxt "取消"
+msgid "json|common/bind_phone2|0|7|0|625fb26b4b3340f7872b411f401e754c"
+msgstr "取消"
+
+#: translate_json.csv:307
+msgctxt "创建"
+msgid "json|common/bind_phone2|0|6|0|d9ac9228e8564657bbe9ca5359f95806"
+msgstr "创建"
+
+#: translate_json.csv:306
+msgctxt "1"
+msgid "json|common/bind_phone2|0|5|0|c4ca4238a0b923820dcc509a6f75849b"
+msgstr "1"
+
+#: translate_json.csv:304
+msgctxt "创建手机通行证"
+msgid "json|common/bind_phone2|0|2|821c2066c74f48566fd82bddf5474f47"
+msgstr "创建手机通行证"
+
+#: translate_json.csv:294
+msgctxt "登出账号"
+msgid "json|common/bind_phone0|0|13|0|29dcfc66dd1f38b11215b0237f010ec5"
+msgstr "登出账号"
+
+#: translate_json.csv:293
+msgctxt "绑定"
+msgid "json|common/bind_phone0|0|12|0|f4f12c7a2c38440ac06aae42cce36673"
+msgstr "绑定"
+
+#: translate_json.csv:292
+msgctxt "暂无昵称"
+msgid "json|common/bind_phone0|0|11|55afec20df2af72e0390d30d5292700d"
+msgstr "暂无昵称"
+
+#: translate_json.csv:291
+msgctxt "当前账号昵称:"
+msgid "json|common/bind_phone0|0|10|673cd46a7d069fbd9df9778844f1827e"
+msgstr "当前账号昵称:"
+
+#: translate_json.csv:289
+msgctxt "1"
+msgid "json|common/bind_phone0|0|8|0|c4ca4238a0b923820dcc509a6f75849b"
+msgstr "1"
+
+#: translate_json.csv:275
+msgctxt "注意！解除手机绑定以后该账号将永久冻结，无法登录和使用，请确认以后再进行操作！该操作不可撤销！"
+msgid "json|both_ui/unbind_phone|0|9|356f90c0bc571afb6d27729da89c3633"
+msgstr "注意！解除手机绑定以后该账号将永久冻结，无法登录和使用，请确认以后再进行操作！该操作不可撤销！"
+
+#: translate_json.csv:98
+msgctxt "Confirm"
+msgid "json|both_ui/mycard_pay_info|0|3|0|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
+
+#: translate_json.csv:76
+msgctxt "Cancel"
+msgid "json|both_ui/dmm_buy_pop|0|4|0|ea4788705e6873b424c65e91c2846b19"
+msgstr "취소"
+
+#: translate_json.csv:75
+msgctxt "Confirm"
+msgid "json|both_ui/dmm_buy_pop|0|3|0|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
+
+#: translate_json.csv:59
+msgctxt "Bound"
+msgid "json|both_ui/config|0|7|3|2|2|2|0|685d1f2146dd079015e81918414e8971"
+msgstr "연결됨"
+
+#: translate_json.csv:58
+msgctxt "(Tap to bind)"
+msgid "json|both_ui/config|0|7|3|2|2|1|1|3fed8ff4e0743f296af899770c9deec0"
+msgstr "(탭하여 연결)"
+
+#: translate_json.csv:57
+msgctxt "To be verified"
+msgid "json|both_ui/config|0|7|3|2|2|1|0|0|b13e48cc98794d8bd9be7e7c5e278bdb"
+msgstr "미인증"
+
+#: translate_json.csv:56
+msgctxt "Account Binding："
+msgid "json|both_ui/config|0|7|3|2|2|0|792cebb31d508c08f476ef2c7bf1e3e7"
+msgstr "계정 연결："
+
+#: translate_json.csv:55
+msgctxt "Account settings"
+msgid "json|both_ui/config|0|7|3|2|0|8af703b2bf59cc9742883ae7f4cb0e5b"
+msgstr "계정 설정"

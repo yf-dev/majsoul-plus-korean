@@ -2818,3 +2818,20 @@ VoiceSound.csv,words_en,Hello! My name is Ichihime. Glad to meet you-nya!,안녕
 VoiceSound.csv,words_en,I’m Invincible nyaa!,천하무적이다냐!
 VoiceSound.csv,words_en,Tsumo! !!,쯔모냐!
 VoiceSound.csv,words_en,Ron! !!,론냐!
+StrStr.csv,en,your email address:,당신의 이메일 주소:
+StrStr.csv,en,Last 5 matches Ranks:,최근 5경기:
+StrStr.csv,en,Last {0} matches Total hanchan score:,최근 {0} 경기 총 정산 점수:
+MallMonthTicket.csv,desc_detail2_en,Obtain 300 Jade immediately\\nObtain 60 Jade per day for 30(d)\\nCan accept an extra Daily Quest \\nCan store upto 6 Daily Quests,즉시 300 휘옥 획득\\n30일동안 매일 60 휘옥 획득\\n추가 일일 퀘스트 획득\\n최대 6개의 일일 퀘스트 저장 가능
+MallMonthTicket.csv,desc_detail_en,Obtain 300 Jade immediately\\nObtain 60 Jade per day for 30(d)\\nCan accept an extra Daily Quest \\nCan store upto 6 Daily Quests,즉시 300 휘옥 획득\\n30일동안 매일 60 휘옥 획득\\n추가 일일 퀘스트 획득\\n최대 6개의 일일 퀘스트 저장 가능
+MallMonthTicket.csv,desc_detail2_en,Obtain 340 Jade immediately\\nObtain 60 Jade per day for 30(d)\\nCan accept an extra Daily Quest \\nCan store upto 6 Daily Quests,즉시 340 휘옥 획득\\n30일동안 매일 60 휘옥 획득\\n추가 일일 퀘스트 획득\\n최대 6개의 일일 퀘스트 저장 가능
+MallMonthTicket.csv,desc_detail_en,Obtain 340 Jade immediately\\nObtain 60 Jade per day for 30(d)\\nCan accept an extra Daily Quest \\nCan store upto 6 Daily Quests,즉시 340 휘옥 획득\\n30일동안 매일 60 휘옥 획득\\n추가 일일 퀘스트 획득\\n최대 6개의 일일 퀘스트 저장 가능
+MallMonthTicket.csv,name_en,Fortune Charm (30d),행운 부적(30일)
+ItemDefinitionTitle.csv,name_en,萬象更新,萬象更新
+ItemDefinitionSkin.csv,desc_en,Mikami Chiori’s default look,미카미 치오리의 기본 의상
+InfoError.csv,en,You aren't allowed to real-time spectate,실시간 관전은 허용되지 않습니다
+InfoError.csv,en,You aren't allowed for this type of real-time spectating,이 유형의 실시간 관전은 허용되지 않습니다
+InfoError.csv,en,Amount of spectators in this room has reached the limit,이 방의 관전자 수가 한도에 도달했습니다
+InfoError.csv,en,You can only quit the match in the Friendly Match room,친선전에서만 경기를 종료할 수 있습니다
+InfoError.csv,en,The voting has already ended,투표가 이미 종료됬습니다
+InfoError.csv,en,You have voted too frequently,너무 자주 투표하셨습니다
+EventsBaseTask.csv,desc_en,四暗刻单骑,四暗刻单骑

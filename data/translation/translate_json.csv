@@ -1338,3 +1338,86 @@ both_ui/bind_mail0|0|10,your email address:,당신의 이메일 주소:
 both_ui/bind_mail0|0|8|0,Bind,연결
 both_ui/bind_mail0|0|7|0,Send code,코드 전송
 both_ui/config|0|7|3|0|7|0|1,User Agreement,이용 약관
+lobby/treasure|4|2|2|7|7,使用輝玉10連尋覓，至少會獲得一個紫色禮物,使用輝玉10連尋覓，至少會獲得一個紫色禮物
+lobby/treasure|4|2|2|7|6,禮物概率：80%,禮物概率：80%
+lobby/treasure|4|2|2|7|4|0,重複獲取的裝扮將轉換為星之石,重複獲取的裝扮將轉換為星之石
+lobby/treasure|4|2|2|7|4,裝扮概率：15%,裝扮概率：15%
+lobby/treasure|4|2|2|7|2|0,重複獲取的雀士將轉換為許願石,重複獲取的雀士將轉換為許願石
+lobby/treasure|4|2|2|7|2,雀士概率：5%,雀士概率：5%
+lobby/treasure|4|2|2|7|1,(信仰)，同時有可能獲得全新的雀士及各種裝扮,(信仰)，同時有可能獲得全新的雀士及各種裝扮
+lobby/treasure|4|2|2|7|0,每次尋覓都可以獲得1點,每次尋覓都可以獲得1點
+lobby/treasure|4|2|2|6|2,雀士概率：5%,雀士概率：5%
+common/create_phone_account|0|2,创建手机通行证,创建手机通行证
+common/bind_phone2|0|5,手机号码：,手机号码：
+common/bind_phone1|0|11|0,登出账号,登出账号
+common/bind_phone1|0|10,暂无昵称,暂无昵称
+common/bind_phone1|0|9,当前账号昵称:,当前账号昵称:
+common/bind_phone0|0|9,根据网络游戏实名制的相关规定要求，请绑定手机完成认证。,根据网络游戏实名制的相关规定要求，请绑定手机完成认证。
+common/bind_phone0|0|8,手机号码：,手机号码：
+common/bind_phone0|0|7|0,发送验证码,发送验证码
+common/bind_phone0|0|2,绑定手机,绑定手机
+both_ui/unbind_phone|0|6|0,解除绑定,解除绑定
+both_ui/unbind_phone|0|5|0,发送验证码,发送验证码
+lobby/treasure|4|2|2|7|5,(UP裝扮占49%、其他裝扮占51%),(UP裝扮占49%、其他裝扮占51%)
+lobby/treasure|4|2|2|7|3,(UP雀士占59%、其他雀士占41%),(UP雀士占59%、其他雀士占41%)
+lobby/treasure|4|2|2|6|5,使用輝玉10連尋覓，至少會獲得一個紫色禮物,使用輝玉10連尋覓，至少會獲得一個紫色禮物
+lobby/treasure|4|2|2|6|4,禮物概率：80%,禮物概率：80%
+lobby/treasure|4|2|2|6|3|0,重複獲取的裝扮將轉換為星之石,重複獲取的裝扮將轉換為星之石
+lobby/treasure|4|2|2|6|3,裝扮概率：15%,裝扮概率：15%
+lobby/treasure|4|2|2|6|2|0,重複獲取的雀士將轉換為許願石,重複獲取的雀士將轉換為許願石
+lobby/treasure|4|2|2|6|1,(信仰)，同時有可能獲得全新的雀士及各種裝扮,(信仰)，同時有可能獲得全新的雀士及各種裝扮
+lobby/treasure|4|2|2|6|0,每次尋覓都可以獲得1點,每次尋覓都可以獲得1點
+lobby/tangfang1|6|4|0,Resummon,재기원
+lobby/payment/choose_method_chs_t|0|6,Price:,가격:
+lobby/payment/choose_method_chs_t|0|4,Item:,아이템:
+lobby/payment/choose_method_chs_t|0|3,Choose a payment method,결제 방법을 선택해주세요
+lobby/page_sign_chs_t|1|2|1,Sign-in,로그인
+lobby/page_sign_chs_t|1|1|1,Confirm,확인
+lobby/match_room|1|1|1|8,Last 5 matches Ranks:,최근 5경기:
+entrance/reset_password_phone2|0|10|0,Send code,코드 전송
+entrance/reset_password_phone2|0|2|0,Confirm,확인
+entrance/reset_password|0|0|2|0|0,Confirm,확인
+entrance/reset_password|0|0|1|0|0,Send,전송
+entrance/mail_regist|1|1|1,Connecting to server,서버에 연결하는 중
+entrance/mail_regist|0|0|11|0,Send code,코드 전송
+entrance/mail_regist|0|0|10|6,《創魂遊戲註冊用戶隱私條款》,《創魂遊戲註冊用戶隱私條款》
+entrance/mail_regist|0|0|10|5,、,、
+entrance/mail_regist|0|0|10|3,《創魂遊戲許可及服務協議》,《創魂遊戲許可及服務協議》
+entrance/mail_regist|0|0|9|3,“Majsoul License & Service Agreement”,“작혼 라이센스 및 서비스 계약”
+entrance/mail_regist|0|0|2|0,Register using social network account,소셜 네트워크 계정을 사용하여 등록
+entrance/mail_regist|0|0|1,Registration,등록
+entrance/entrance|1|2|3|1|3,Remember me,계정 기억
+entrance/entrance|1|2|0|5|0,Forgot Password,비밀번호를 잊어버림
+entrance/entrance|1|2|0|4|0,Register Now,지금 등록
+entrance/entrance|1|2|0|3|2,Password,비밀번호
+common/user_xieyi_dmm|0|5|1,Reject,거절
+common/user_xieyi_dmm|0|4|1,Accept,동의
+common/create_phone_account_success|0|5,(密码与账号/邮箱通行证的密码一致),(密码与账号/邮箱通行证的密码一致)
+common/create_phone_account_success|0|4,创建手机号通行证成功。,创建手机号通行证成功。
+common/create_phone_account_success|0|3|0,好的,好的
+common/create_phone_account_success|0|2,成功,成功
+common/create_phone_account|0|5|0,不用了,不用了
+common/create_phone_account|0|4,是否使用该手机号创建一个通行证?\\n创建成功后您可以使用手机号和密码来登陆游戏，也可以通过该手机号来找回该账号。\\n每个手机号只能创建一个通行证。,是否使用该手机号创建一个通行证?\\n创建成功后您可以使用手机号和密码来登陆游戏，也可以通过该手机号来找回该账号。\\n每个手机号只能创建一个通行证。
+common/create_phone_account|0|3|0,创建,创建
+common/canot_create_phone_account|0|5,您无法使用该手机号来登录或找回账号。,您无法使用该手机号来登录或找回账号。
+common/canot_create_phone_account|0|4,该手机号已经创建过通行证，无法为本账号创建通行证，仅作为手机实名信息使用。,该手机号已经创建过通行证，无法为本账号创建通行证，仅作为手机实名信息使用。
+common/canot_create_phone_account|0|3|0,了解了,了解了
+common/canot_create_phone_account|0|2,信息,信息
+common/bind_phone2|0|7|0,取消,取消
+common/bind_phone2|0|6|0,创建,创建
+common/bind_phone2|0|5|0,1,1
+common/bind_phone2|0|2,创建手机通行证,创建手机通行证
+common/bind_phone0|0|13|0,登出账号,登出账号
+common/bind_phone0|0|12|0,绑定,绑定
+common/bind_phone0|0|11,暂无昵称,暂无昵称
+common/bind_phone0|0|10,当前账号昵称:,当前账号昵称:
+common/bind_phone0|0|8|0,1,1
+both_ui/unbind_phone|0|9,注意！解除手机绑定以后该账号将永久冻结，无法登录和使用，请确认以后再进行操作！该操作不可撤销！,注意！解除手机绑定以后该账号将永久冻结，无法登录和使用，请确认以后再进行操作！该操作不可撤销！
+both_ui/mycard_pay_info|0|3|0,Confirm,확인
+both_ui/dmm_buy_pop|0|4|0,Cancel,취소
+both_ui/dmm_buy_pop|0|3|0,Confirm,확인
+both_ui/config|0|7|3|2|2|2|0,Bound,연결됨
+both_ui/config|0|7|3|2|2|1|1,(Tap to bind),(탭하여 연결)
+both_ui/config|0|7|3|2|2|1|0|0,To be verified,미인증
+both_ui/config|0|7|3|2|2|0,Account Binding：,계정 연결：
+both_ui/config|0|7|3|2|0,Account settings,계정 설정
