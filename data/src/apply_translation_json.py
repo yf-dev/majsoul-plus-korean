@@ -47,8 +47,11 @@ def main(original_assets_path, translation_path, dist_path):
             except Exception as e:
                 print(f'Cannot access {path}')
                 continue
-
-            if node['props']['text'] != target:
+            
+            if 'text' not in node['props']:
+                print(f"Node has not text on {path}: '{target}'")
+                continue
+            elif node['props']['text'] != target:
                 print(f"Target is not matched on {path}: '{node['props']['text']}' != '{target}'")
                 continue
             
