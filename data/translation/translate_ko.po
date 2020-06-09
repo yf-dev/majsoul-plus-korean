@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-09 08:32+0000\n"
+"PO-Revision-Date: 2020-06-09 11:24+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -23369,3 +23369,8 @@ msgstr "연결"
 msgctxt "Send code"
 msgid "json|both_ui/bind_mail0|0|7|0|8dab622763c6e4d607e1250d0c432dbd"
 msgstr "코드 전송"
+
+#: translate_json.csv:52
+msgctxt "User Agreement"
+msgid "json|both_ui/config|0|7|3|0|7|0|1|5ac23f06000fafde2c8f7501a80ebbfe"
+msgstr "이용 약관"
