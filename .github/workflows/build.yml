@@ -19,12 +19,6 @@ jobs:
 
       - name: Set PIPENV_VENV_IN_PROJECT
         run: echo '::set-env name=PIPENV_VENV_IN_PROJECT::true'
-        
-#       - name: Cache venv
-#         uses: actions/cache@v2
-#         with:
-#           path: ./data/.venv
-#           key: ${{ runner.os }}-${{ hashFiles('./data/Pipfile.lock') }}
       
       - name: Install dependencies
         run: pipenv install --dev --deploy
@@ -84,15 +78,6 @@ jobs:
         with:
           name: translation_files
           path: ./data/translation/*
-          
-#       - name: Commit changes
-#         uses: EndBug/add-and-commit@v4
-#         with:
-#           author_name: Github Action
-#           author_email: github-action@nothing.local
-#           message: "Build Assets"
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   release:
     name: Release
@@ -127,15 +112,18 @@ jobs:
         run: cp -R ./majsoul-plus-korean ./korean && zip -r korean.zip ./korean
         working-directory: ../
         
+      - name: Set version code env
+        run: echo '::set-env name=VERSION_CODE::$(jq -r .version ./resourcepack.json)'
+        
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: true
+          tag_name: ${{ env.VERSION_CODE }}
+          release_name: Release ${{ env.VERSION_CODE }}
+          draft: false
           prerelease: true
 
       - name: Upload Release Asset
