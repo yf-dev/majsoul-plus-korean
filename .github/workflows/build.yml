@@ -121,8 +121,7 @@ jobs:
         run: rm -rf .git
       
       - name: Zip files
-        run: cp -R ./majsoul-plus-korean ./korean && zip -r korean.zip ./korean
-        working-directory: ../
+        run: zip -r korean.zip ./*
         
       - name: Set VERSION_CODE env
         run: |
