@@ -78,6 +78,12 @@ jobs:
         with:
           name: translation_files
           path: ./data/translation/*
+          
+      - name: Upload resourcepack json
+        uses: actions/upload-artifact@v2
+        with:
+          name: resourcepack_json
+          path: ./resourcepack.json
 
   release:
     name: Release
@@ -104,6 +110,12 @@ jobs:
         with:
           name: exe_files
           path: ./data/translation
+          
+      - name: Download resourcepack json
+        uses: actions/download-artifact@v2
+        with:
+          name: resourcepack_json
+          path: ./
           
       - name: Remove .git file
         run: rm -rf .git
