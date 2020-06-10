@@ -97,6 +97,7 @@ jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
+    needs: [build_exe, build_assets]
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
