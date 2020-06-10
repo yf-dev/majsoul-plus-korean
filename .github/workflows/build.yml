@@ -27,7 +27,7 @@ jobs:
           key: ${{ runner.os }}-${{ hashFiles('./data/Pipfile.lock') }}
       
       - name: Install dependencies
-        run: pipenv install --dev --system --deploy
+        run: pipenv install --dev --deploy
         working-directory: ./data
       
       - name: Build exe files
