@@ -19,7 +19,7 @@
 
 ### 1. 요구사양
 
-- [작혼 Plus](https://github.com/MajsoulPlus/majsoul-plus) Version 2.0.0-beta.8 이상
+- [작혼 Plus](https://github.com/MajsoulPlus/majsoul-plus) Version 2.0.0 이상
 - 작혼 글로벌 서버 환경(작혼 Plus의 Settings에서 User Data의 Server to play 값을 2로 설정)
 
 
@@ -27,11 +27,11 @@
 
 1. 작혼 Plus 런처를 실행하고, 좌측 Resource Packs 메뉴를 선택합니다.
 2. 우상단의 폴더 열기 아이콘을 클릭하여 리소스 팩 폴더를 엽니다.
-3. [다운로드 링크](https://github.com/yf-dev/majsoul-plus-korean/archive/master.zip)를 클릭하여 `작혼 Plus: 한국어 리소스 팩`을 다운로드합니다.
-4. 다운로드한 `작혼 Plus: 한국어 리소스 팩`을 리소스 팩 폴더에 압축 해제합니다.
-5. 압축 해제한 폴더의 이름을 `majsoul-plus-korean-master`에서 `korean`으로 변경합니다.
-6. 작혼 Plus 런쳐 상단의 새로고침 아이콘을 클릭합니다.
-7. 나타난 한국어 리소스 팩을 활성화합니다.
+3. [릴리즈 페이지](https://github.com/yf-dev/majsoul-plus-korean/releases/latest)에서 `korean.zip
+`을 클릭하여 `작혼 Plus: 한국어 리소스 팩`을 다운로드합니다.
+4. 다운로드한 `작혼 Plus: 한국어 리소스 팩`을 리소스 팩 폴더에 압축 해제합니다. (압축 해제된 폴더의 이름이 `korean`이어야합니다.)
+5. 작혼 Plus 런쳐 상단의 새로고침 아이콘을 클릭합니다.
+6. 나타난 한국어 리소스 팩을 활성화합니다.
 
 
 ### 3. Asset 갱신
@@ -88,7 +88,7 @@
 
 #### 5.1. 요구사양
 
-- Python 3.7 이상
+- Python 3.7
 - [Pipenv](https://github.com/pypa/pipenv)
 
 #### 5.2. 라이브러리 다운로드
