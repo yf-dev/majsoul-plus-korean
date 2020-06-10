@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-09 13:11+0000\n"
+"PO-Revision-Date: 2020-06-10 11:30+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -23923,3 +23923,23 @@ msgstr "계정 연결："
 msgctxt "Account settings"
 msgid "json|both_ui/config|0|7|3|2|0|8af703b2bf59cc9742883ae7f4cb0e5b"
 msgstr "계정 설정"
+
+#: translate_sheet.csv:2519
+msgctxt "Invalid game log"
+msgid "sheet|StrStr.csv|en|316ffeaf3bc77c4eb79c8b66865def63"
+msgstr "잘못된 게임 로그"
+
+#: translate_json.csv:389
+msgctxt "《雀魂麻將註冊用戶隱私條款》"
+msgid "json|entrance/mail_regist|0|0|10|6|285a523cee488e122cbf72ba8f1c9366"
+msgstr "《雀魂麻將註冊用戶隱私條款》"
+
+#: translate_json.csv:387
+msgctxt "同意《雀魂麻將遊戲許可及服務協議》"
+msgid "json|entrance/mail_regist|0|0|10|3|81de4973f4bc3104045ae949ac1a5069"
+msgstr "同意《雀魂麻將遊戲許可及服務協議》"
+
+#: translate_json.csv:5
+msgctxt "為了您的賬號安全，請先綁定信箱"
+msgid "json|both_ui/bind_mail0|0|11|ae21ad3fce9a5f3c4ae5108bbced93ec"
+msgstr "為了您的賬號安全，請先綁定信箱"
