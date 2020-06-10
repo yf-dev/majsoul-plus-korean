@@ -124,8 +124,10 @@ jobs:
         run: cp -R ./majsoul-plus-korean ./korean && zip -r korean.zip ./korean
         working-directory: ../
         
-      - name: Set version code env
-        run: echo '::set-env name=VERSION_CODE::$(jq -r .version ./resourcepack.json)'
+      - name: Set VERSION_CODE env
+        run: |
+          export VERSION="$(jq -r .version ./resourcepack.json)"
+          echo "::set-env name=VERSION_CODE::$VERSION"
         
       - name: Create Release
         id: create_release
