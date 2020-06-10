@@ -85,12 +85,67 @@ jobs:
           name: translation_files
           path: ./data/translation/*
           
+#       - name: Commit changes
+#         uses: EndBug/add-and-commit@v4
+#         with:
+#           author_name: Github Action
+#           author_email: github-action@nothing.local
+#           message: "Build Assets"
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  #     - name: Commit changes
-  #       uses: EndBug/add-and-commit@v4
-  #       with:
-  #         author_name: Github Action
-  #         author_email: github-action@nothing.local
-  #         message: "Build Assets"
-  #       env:
-  #         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        
+      - name: Download exe files
+        uses: actions/download-artifact@v2
+        with:
+          name: exe_files
+          path: ./
+          
+      - name: Download asset files
+        uses: actions/download-artifact@v2
+        with:
+          name: asset_files
+          path: ./assets
+          
+      - name: Download translation files
+        uses: actions/download-artifact@v2
+        with:
+          name: exe_files
+          path: ./data/translation
+          
+      - name: Remove .git file
+        run: rm -rf .git
+      
+      - name: Zip files
+        run: cp -R ./majsoul-plus-korean ./korean && zip -r korean.zip ./korean
+        working-directory: ../
+        
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: true
+          prerelease: true
+
+      - name: Upload Release Asset
+        id: upload-release-asset 
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ../korean.zip
+          asset_name: korean.zip
+          asset_content_type: application/zip
+
+
