@@ -4,9 +4,18 @@ on:
     types: [started]
 
 jobs:
+  authorize: 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: octokit/request-action@v2.0.0
+        with:
+          route: GET /repos/:repository/collaborators/${{ github.actor }}
+          repository: ${{ github.repository }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   update:
     runs-on: ubuntu-latest
-    if: github.actor == github.event.repository.owner.login
+    needs: [authorize]
     steps:
       - name: Get majsoul version
         id: get-majsoul-version
