@@ -1,0 +1,51 @@
+name: Update original translation
+on:
+  watch:
+    types: [started]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    if: github.actor == github.event.repository.owner.login
+    steps:
+      - name: Get majsoul version
+        id: get-majsoul-version
+        run: |
+          echo "::set-output name=json::$(curl https://mahjongsoul.game.yo-star.com/version.json | md5sum)"
+
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Cache data
+        uses: actions/cache@v2
+        with:
+          path: ./data/assets-original
+          key: ${{ runner.os }}-${{ steps.get-majsoul-version.outputs.json }}
+
+      - name: Login to Github Package Registry
+        run: echo ${{ secrets.GITHUB_TOKEN }} | docker login docker.pkg.github.com -u $GITHUB_ACTOR --password-stdin
+
+      - name: Pull image from Github Package Registry or Build image
+        run: docker-compose pull || docker-compose build --force-rm
+        working-directory: ./data
+
+      - name: Push image to Github Package Registry
+        run: docker-compose push mpk || true
+        working-directory: ./data
+
+      - name: Run docker image to download
+        run: docker-compose run --rm mpk download
+        working-directory: ./data
+
+      - name: Run docker image to generate translation templates
+        run: docker-compose run --rm mpk template
+        working-directory: ./data
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Github Action
+          author_email: github-action@nothing.local
+          message: "Update original translation"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
