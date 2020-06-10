@@ -9,3 +9,7 @@ data/assets-original
 data/build/
 data/temp/
 data/translation/templates
+assets/*
+!assets/.gitkeep 
+resourcepack.json
+majsoul-plus-korean.exe
