@@ -137,7 +137,7 @@ jobs:
           tag_name: ${{ env.VERSION_CODE }}
           release_name: Release ${{ env.VERSION_CODE }}
           draft: false
-          prerelease: true
+          prerelease: false
 
       - name: Upload Release Asset
         id: upload-release-asset 
