@@ -20,11 +20,11 @@ jobs:
       - name: Set PIPENV_VENV_IN_PROJECT
         run: echo '::set-env name=PIPENV_VENV_IN_PROJECT::true'
         
-      - name: Cache venv
-        uses: actions/cache@v2
-        with:
-          path: ./data/.venv
-          key: ${{ runner.os }}-${{ hashFiles('./data/Pipfile.lock') }}
+#       - name: Cache venv
+#         uses: actions/cache@v2
+#         with:
+#           path: ./data/.venv
+#           key: ${{ runner.os }}-${{ hashFiles('./data/Pipfile.lock') }}
       
       - name: Install dependencies
         run: pipenv install --dev --deploy
