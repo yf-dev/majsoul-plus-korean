@@ -35,7 +35,7 @@ jobs:
         working-directory: ./data
       
       - name: Upload exe files
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v2
         with:
           name: exe_files
           path: ./*.exe
@@ -73,11 +73,18 @@ jobs:
         run: docker-compose run --rm mpk all
         working-directory: ./data
 
-      - name: Upload built result
-        uses: actions/upload-artifact@v1
+      - name: Upload asset files
+        uses: actions/upload-artifact@v2
         with:
           name: asset_files
-          path: ./
+          path: ./assets
+
+      - name: Upload translation files
+        uses: actions/upload-artifact@v2
+        with:
+          name: translation_files
+          path: ./data/translation/*
+          
 
   #     - name: Commit changes
   #       uses: EndBug/add-and-commit@v4
