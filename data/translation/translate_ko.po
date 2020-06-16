@@ -22235,18 +22235,3 @@ msgstr "同意《雀魂麻將遊戲許可及服務協議》"
 msgctxt "為了您的賬號安全，請先綁定信箱"
 msgid "json|both_ui/bind_mail0|0|11|ae21ad3fce9a5f3c4ae5108bbced93ec"
 msgstr "為了您的賬號安全，請先綁定信箱"
-
-#: translate_sheet.csv:3053
-msgctxt "Ron. I've got this!"
-msgid "sheet|VoiceSound.csv|words_en|1d62483bb2be4433eeed109dde068528"
-msgstr "론! 잘 먹을게!"
-
-#: translate_sheet.csv:3052
-msgctxt "Double Riichi, woof!"
-msgid "sheet|VoiceSound.csv|words_en|8ff85235494f3c8f5e1574d072d8bd98"
-msgstr "더블리치다멍!"
-
-#: translate_sheet.csv:3051
-msgctxt "Riichi!"
-msgid "sheet|VoiceSound.csv|words_en|5abc95d8eb097a569c2aadbe33b76f86"
-msgstr "리치!"
