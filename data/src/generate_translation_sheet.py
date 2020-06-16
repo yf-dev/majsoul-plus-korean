@@ -14,21 +14,27 @@ def main(translation_path, temp_path):
             is_header = True
             header = []
             header_to_translate = []
+            voice_path_idx = None
             for row in csv_reader:
                 if is_header:
                     header = row
                     for i, col in enumerate(header):
                         if col == lang or col.endswith(f'_{lang}'):
                             header_to_translate.append(i)
+                        if csv_path.name == 'VoiceSound.csv' and col == 'path':
+                            voice_path_idx = i
                     if not header_to_translate:
                         break
                     is_header = False
                     continue
                 
                 for col_index in header_to_translate:
+                    context = header[col_index]
+                    if csv_path.name == 'VoiceSound.csv':
+                        context = f'{context}({row[voice_path_idx]})'
                     translate_sheet_rows.append('|'.join([
                         csv_path.name,
-                        header[col_index],
+                        context,
                         row[col_index].replace('\\', '\\\\').replace('\n', '\\n')
                     ]))
 

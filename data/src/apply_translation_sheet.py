@@ -21,12 +21,21 @@ def main(translation_path, temp_path):
                 translated = re.sub(r'([^\\])\\n', r'\1\n', row[3]).replace('\\\\', '\\')
                 sheet_data = []
                 fieldnames = []
+                has_voice_path = sheet_path == 'VoiceSound.csv' and '(' in header
                 with open(temp_path / 'csv' / sheet_path, 'r', encoding='utf-8-sig') as sheetfile:
                     sheet_reader = csv.DictReader(sheetfile)
                     fieldnames = sheet_reader.fieldnames
+                    if has_voice_path:
+                        header, voice_path = header.split('(')
+                        voice_path = voice_path[:-1]
+                    
                     for sheet_row in sheet_reader:
-                        if sheet_row[header] == target:
-                            sheet_row[header] = translated
+                        if has_voice_path:
+                            if sheet_row[header] == target and sheet_row['path'] == voice_path:
+                                sheet_row[header] = translated
+                        else:
+                            if sheet_row[header] == target:
+                                sheet_row[header] = translated
                         sheet_data.append(sheet_row)
                 with open(temp_path / 'csv' / sheet_path, 'w', encoding='utf-8-sig', newline='') as sheetfile:
                     sheet_writer = csv.DictWriter(sheetfile, fieldnames=fieldnames)

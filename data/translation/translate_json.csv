@@ -1421,3 +1421,6 @@ both_ui/config|0|7|3|2|2|1|1,(Tap to bind),(탭하여 연결)
 both_ui/config|0|7|3|2|2|1|0|0,To be verified,미인증
 both_ui/config|0|7|3|2|2|0,Account Binding：,계정 연결：
 both_ui/config|0|7|3|2|0,Account settings,계정 설정
+entrance/mail_regist|0|0|10|6,《雀魂麻將註冊用戶隱私條款》,《雀魂麻將註冊用戶隱私條款》
+entrance/mail_regist|0|0|10|3,同意《雀魂麻將遊戲許可及服務協議》,同意《雀魂麻將遊戲許可及服務協議》
+both_ui/bind_mail0|0|11,為了您的賬號安全，請先綁定信箱,為了您的賬號安全，請先綁定信箱
