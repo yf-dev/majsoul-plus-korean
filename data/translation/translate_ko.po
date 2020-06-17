@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-16 15:00+0000\n"
+"PO-Revision-Date: 2020-06-18 16:56+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -18000,7 +18000,7 @@ msgctxt ""
 "\"Like I said, you just have to be yourself in front of me. I like just the "
 "way you are.\""
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|53b42f7b450eaf31bbb35008eaeff191"
-msgstr "\"제가 말했듯이, 당신은 당신으로서 제 앞에 있어주세요. 저는 있는 그대로의 당신이 좋아요.\""
+msgstr "\"말했다시피, 그대는 그대로서 내 앞에 있어 주게. 나는 있는 그대로의 그대가 좋다네.\""
 
 #: translate_sheet.csv:1446
 msgctxt "\"Yo, partner! I've found a new destination for us. Let's go!\""
@@ -18081,7 +18081,7 @@ msgctxt ""
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|1f7181b3cea5e9ed0f0900ab4f5860f8"
 msgstr ""
 "아케치 히데키와 계약을 맺은 뒤 사용 가능\\n"
-"\"잠시 여기 앉아 주시겠니까? 조금만 저와 함께 있어주세요.\""
+"\"잠시 여기 앉아 주시겠습니까? 조금만 저와 함께 있어주세요.\""
 
 #: translate_sheet.csv:1434
 msgctxt "明智英树"
@@ -44712,3 +44712,727 @@ msgctxt "A decision must be made."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/jiutiao/ingame_baopai)|fd2c3d0659816a8bed08dfb0ced8d153"
 msgstr "버릴 때는 버려야합니다"
+
+#: translate_sheet.csv:4545
+msgctxt "This will be a perfect victory!"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/ingame_beiman)|0b0ce6bf3c813f21c5a1295371559a24"
+msgstr "완벽한 승리의 예감이 들어요!"
+
+#: translate_sheet.csv:4543
+msgctxt "Here we go!"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/ingame_yiman)|2afe596473c537a867ab734afa00b0fe"
+msgstr "화려하게 가보죠!"
+
+#: translate_sheet.csv:4541
+msgctxt "There's not many tiles left. It’s getting close to match point."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/ingame_remain10)|e2204ec36eaf2cc43d2e030636fae1f6"
+msgstr "남은 패수가 적어졌어요. 여기서부터가 승부예요."
+
+#: translate_sheet.csv:4539
+msgctxt ""
+"Give up my Dora? No, I think you misunderstood. This is a declaration of "
+"war!"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/ingame_baopai)|3b9bf75a7a55b32ba6e6d9e2a54ddd70"
+msgstr "타점을 낮췄다고요? 큰 착각이네요. 이건 선전포고에요!"
+
+#: translate_sheet.csv:4537
+msgctxt "Emmm... what a surprise, but this is the fun of playing mahjong."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/ingame_lianda)|2b976deffdb435bae295022469f5a29f"
+msgstr "이건... 의외네요. 그러나 이런 일도 있기 때문에 마작은 재미있는거에요."
+
+#: translate_sheet.csv:4535
+msgctxt "Tut, {5}nine different terminals and honors."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_jiuzhongjiupai)|5aa562d3192e55f23d43702731c2bfad"
+msgstr "음... {5}구종구패네요."
+
+#: translate_sheet.csv:4533
+msgctxt "Tut, Four-kan Abortion."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_sigangliuju)|4627bc2b092f931e9d08a5f835cbcaa5"
+msgstr "흥, 사깡유국이네요."
+
+#: translate_sheet.csv:4531
+msgctxt "Tut, Four-Wind Discarded."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_sifenglianda)|ab18c851e767f5d69eab4addb7f4eb78"
+msgstr "칫, 사풍연타인가요."
+
+#: translate_sheet.csv:4529
+msgctxt "Sigh... what an immature mistake."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_noting)|222bb5bfb0e98ba502679ccb4d0e3d1f"
+msgstr "큭... 제가 무른 탓이에요."
+
+#: translate_sheet.csv:4527
+msgctxt "Ahahaha, that was a little regrettable."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_tingpai)|c8a77e58653fb9b9bdda67f19d4470f9"
+msgstr "어머, 유감이에요."
+
+#: translate_sheet.csv:4525
+msgctxt "Sextuple Yakuman"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_yiman6)|7c8d0d03f064015a41e03744a65a9f1e"
+msgstr "6배 역만"
+
+#: translate_sheet.csv:4523
+msgctxt "Quintuple Yakuman"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_yiman5)|17d8567aadee21059bed246e731ae6f8"
+msgstr "5배 역만"
+
+#: translate_sheet.csv:4521
+msgctxt "Quadruple Yakuman"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_yiman4)|1c67878e85269553c17a432191386ec6"
+msgstr "4배 역만"
+
+#: translate_sheet.csv:4519
+msgctxt "Triple Yakuman"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_yiman3)|dcbb26a4a2225b7f9016210ada4043c0"
+msgstr "트리플 역만"
+
+#: translate_sheet.csv:4517
+msgctxt "Double Yakuman"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_yiman2)|1dc5a6d60ccc09bcfaa67f8ecbb79bdc"
+msgstr "더블 역만"
+
+#: translate_sheet.csv:4515
+msgctxt "Yakuman"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_yiman1)|6bf8ce9f4b0cadf8f93f314d0489606b"
+msgstr "역만"
+
+#: translate_sheet.csv:4513
+msgctxt "Sanbaiman"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_sanbeiman)|ec408107eb0d81651bef4e2e3b9ec0e4"
+msgstr "삼배만"
+
+#: translate_sheet.csv:4511
+msgctxt "Baiman"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_beiman)|671d162e9774348b3d4c316b8a41ea63"
+msgstr "배만"
+
+#: translate_sheet.csv:4509
+msgctxt "Haneman"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_tiaoman)|1235b01f21057d97a5bcd020c6d1cfe1"
+msgstr "하네만"
+
+#: translate_sheet.csv:4507
+msgctxt "Mangan"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_manguan)|aac1ed2ce3d22d76b339959c6f41590c"
+msgstr "만관"
+
+#: translate_sheet.csv:4505
+msgctxt "Counted Yakuman"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/gameend_leijiyiman)|69c39bbdbf1b5c22e1e26f6b5ac5e3ef"
+msgstr "헤아림 역만"
+
+#: translate_sheet.csv:4503
+msgctxt "Mangan at Draw"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_liujumanguan)|6a7c8af2962c108638943650fe72ab41"
+msgstr "유국만관"
+
+#: translate_sheet.csv:4501
+msgctxt "True Nine Gates"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_chunzhengjiulianbaodeng)|b47dd8c8c410edb21c957d9886ae23e8"
+msgstr "구련보등 9면대기"
+
+#: translate_sheet.csv:4499
+msgctxt "Nine Gates"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_jiulianbaodeng)|3a59640b863e44ff9ad87dd9e040f8c0"
+msgstr "구련보등"
+
+#: translate_sheet.csv:4497
+msgctxt "Four Quads"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_sigangzi)|1daa5b709e3e375e7b20bb74315c6b20"
+msgstr "스깡즈"
+
+#: translate_sheet.csv:4495
+msgctxt "Big Four Winds"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dasixi)|f73c1c64d4b98d33130f5703994c481f"
+msgstr "대사희"
+
+#: translate_sheet.csv:4493
+msgctxt "Little Four Winds"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_xiaosixi)|46643764e5dff4129a5f17a355f58565"
+msgstr "소사희"
+
+#: translate_sheet.csv:4491
+msgctxt "Thirteen Orphans (Thirteen Waits)"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_guoshishisanmian)|519fe1073ba2588d47227c268d037ca3"
+msgstr "국사무쌍 13면대기"
+
+#: translate_sheet.csv:4489
+msgctxt "Thirteen Orphans"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_guoshiwushuang)|5f405ede71c2b239712185d073731b35"
+msgstr "국사무쌍"
+
+#: translate_sheet.csv:4487
+msgctxt "All Terminals"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_qinglaotou)|275d3f144c90d510465ea365db46ec6c"
+msgstr "청노두"
+
+#: translate_sheet.csv:4485
+msgctxt "All Green"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_lvyise)|1db76ab4c9191367a7561bb9cd3a2e8a"
+msgstr "녹일색"
+
+#: translate_sheet.csv:4483
+msgctxt "All Honor Tiles"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_ziyise)|bb4025e821d9ddb75a47cbfc4e740aa7"
+msgstr "자일색"
+
+#: translate_sheet.csv:4481
+msgctxt "{5}Single-wait Four Concealed Triplets"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_siankedanqi)|4f3f29715f93a9c8674f76bababf9afe"
+msgstr "{5}스안커, 단기"
+
+#: translate_sheet.csv:4479
+msgctxt "Four Concealed Triplets"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_sianke)|4482f1b451646649d7cf3f258d084ea8"
+msgstr "스안커"
+
+#: translate_sheet.csv:4477
+msgctxt "Big Three Dragons"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dasanyuan)|dee8855e5d89fe6bd4d1651286f494e2"
+msgstr "대삼원"
+
+#: translate_sheet.csv:4475
+msgctxt "{5}blessing of earth"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dihu)|3e31f3ac7a5295949480f76f44090bba"
+msgstr "{5}지화"
+
+#: translate_sheet.csv:4473
+msgctxt "{5}blessing of heaven"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_tianhu)|d8fb7c3e597da9c9d663564ae437c059"
+msgstr "{5}천화"
+
+#: translate_sheet.csv:4471
+msgctxt "Lots of Dora"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dora13)|3ed4a84589ba20b3be412561597b5d6c"
+msgstr "도라 가득"
+
+#: translate_sheet.csv:4469
+msgctxt "Dora 12"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dora12)|9e7ed3ab453345e9d8f068612482e93e"
+msgstr "도라 12"
+
+#: translate_sheet.csv:4467
+msgctxt "Dora 11"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dora11)|04cdfe64334d580929ae2847eba2783c"
+msgstr "도라 11"
+
+#: translate_sheet.csv:4465
+msgctxt "Dora 10"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dora10)|8b1ccb1d4ac1325032c19b0596ee335b"
+msgstr "도라 10"
+
+#: translate_sheet.csv:4463
+msgctxt "Dora 9"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dora9)|7d2d4655ff4f8dfc26f4e006ebd2d2a2"
+msgstr "도라 9"
+
+#: translate_sheet.csv:4461
+msgctxt "Dora 8"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dora8)|f84743988904d81f035d7926d7020556"
+msgstr "도라 8"
+
+#: translate_sheet.csv:4459
+msgctxt "Dora 7"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dora7)|93c4a337de3640f6e7372ea5ad286006"
+msgstr "도라 7"
+
+#: translate_sheet.csv:4457
+msgctxt "Dora 6"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dora6)|da181a97c9a54229210ce749c949b5f8"
+msgstr "도라 6"
+
+#: translate_sheet.csv:4455
+msgctxt "Dora 5"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dora5)|c44e0c13868f9a5fc276aa647141c25c"
+msgstr "도라 5"
+
+#: translate_sheet.csv:4453
+msgctxt "Dora 4"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dora4)|83d515177d9f317f8f853f1204f85680"
+msgstr "도라 4"
+
+#: translate_sheet.csv:4451
+msgctxt "Dora 3"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dora3)|9f25cdf3bcd81c071cf6653ddb2046bf"
+msgstr "도라 3"
+
+#: translate_sheet.csv:4449
+msgctxt "Dora 2"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dora2)|890e355121c061a7a02baaebbd88694d"
+msgstr "도라 2"
+
+#: translate_sheet.csv:4447
+msgctxt "Dora"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dora1)|affa5249363911dd655e5a7cfacb49e6"
+msgstr "도라"
+
+#: translate_sheet.csv:4445
+msgctxt "Ippatsu"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_yifa)|fcee07e57a15ee5f7905089efa0d0d62"
+msgstr "일발"
+
+#: translate_sheet.csv:4443
+msgctxt "Tsumo"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_zimo)|4a9a44674169dda05397df16a02fac8f"
+msgstr "쯔모"
+
+#: translate_sheet.csv:4441
+msgctxt "Double Riichi"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dliqi)|bc1c334ae4cb115572c529ec16f3100c"
+msgstr "더블리"
+
+#: translate_sheet.csv:4439
+msgctxt "Riichi"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_liqi)|a24a259048cb6a113d9eeba1d7647fce"
+msgstr "리치"
+
+#: translate_sheet.csv:4437
+msgctxt "Full Flush"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_qingyise)|b2dd4ef6541a9e0eef6aeceaca908432"
+msgstr "청일"
+
+#: translate_sheet.csv:4435
+msgctxt "{5}twice pure double sequence"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_erbeikou)|4ab69a50e3f2b5241b12c71d081482d0"
+msgstr "{5}량페코"
+
+#: translate_sheet.csv:4433
+msgctxt "Half Flush"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_hunyise)|2b5bc529522b051554e64ef81935574d"
+msgstr "혼일"
+
+#: translate_sheet.csv:4431
+msgctxt "{5}fully outside hand"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_chunquandaiyaojiu)|f786de98133777199c8c68a5736565e9"
+msgstr "{5}준찬"
+
+#: translate_sheet.csv:4429
+msgctxt "Seven Pairs"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_qiduizi)|0bd8b72120e5c893f2b46bac43454e66"
+msgstr "치또이"
+
+#: translate_sheet.csv:4427
+msgctxt "All Terminals and Honors"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_hunlaotou)|940c876c46f9c9fea15a564786478760"
+msgstr "혼노두"
+
+#: translate_sheet.csv:4425
+msgctxt "Little Three Dragons"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_xiaosanyuan)|5cd64e16a6bd3e399c1d8717e8fbd0eb"
+msgstr "소삼원"
+
+#: translate_sheet.csv:4423
+msgctxt "{5}three concealed triplets"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_sananke)|fae3cc94e954a48ab3da45f99b3bcf66"
+msgstr "{5}산안커"
+
+#: translate_sheet.csv:4421
+msgctxt "All Triplets"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_duiduihu)|2b4a67c206a998f9023c1d5d797d339e"
+msgstr "또이또이"
+
+#: translate_sheet.csv:4419
+msgctxt "Three Quads"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_sangangzi)|812f5e9f1dcf1a39a54e55984ed72bfe"
+msgstr "산깡즈"
+
+#: translate_sheet.csv:4417
+msgctxt "Triple Triplets"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_sansetongke)|cbdc9caec675b8c016a21e2c82af6da2"
+msgstr "삼색동각"
+
+#: translate_sheet.csv:4415
+msgctxt "Mixed Triple Sequence"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_sansetongshun)|3ea2915191c4bc107565b665945d8339"
+msgstr "삼색동순"
+
+#: translate_sheet.csv:4413
+msgctxt "Pure Straight"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_yiqitongguan)|c2a175e22af987a5c90392f962104566"
+msgstr "일통"
+
+#: translate_sheet.csv:4411
+msgctxt "{5}half outside hand"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_hunquandaiyaojiu)|bb700288a9b520601d6922e7095c36e7"
+msgstr "{5}찬타"
+
+#: translate_sheet.csv:4409
+msgctxt "Pinfu"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_pinghu)|6386b202840c4e438939d8a9bb3fe36c"
+msgstr "핑후"
+
+#: translate_sheet.csv:4407
+msgctxt "Pure Double Sequence"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_yibeikou)|0bdf161567ea7bf013c3e4f0bf2597d2"
+msgstr "이페코"
+
+#: translate_sheet.csv:4405
+msgctxt "Tanyao"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_duanyao)|0582b0c016f1626a652d276b35f650a3"
+msgstr "탕야오"
+
+#: translate_sheet.csv:4403
+msgctxt "North Repeat"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_doublebei)|a22974b095520551e883c0ced0841b19"
+msgstr "더블북"
+
+#: translate_sheet.csv:4401
+msgctxt "West Repeat"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_doublexi)|c2a6648c7b67a48dea1a10b97a99e68e"
+msgstr "더블서"
+
+#: translate_sheet.csv:4399
+msgctxt "{5}south repeat"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_doublenan)|3aef0733e3474ffbaa34ff57e8810fe4"
+msgstr "{5}더블남"
+
+#: translate_sheet.csv:4397
+msgctxt "East Repeat"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_doubledong)|168c2ed6e22ddeb40f0cae0e321b2c40"
+msgstr "더블동"
+
+#: translate_sheet.csv:4395
+msgctxt "Green"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_fa)|d382816a3cbeed082c9e216e7392eed1"
+msgstr "발"
+
+#: translate_sheet.csv:4393
+msgctxt "White"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_bai)|25a81701fbfa4a1efdf660a950c1d006"
+msgstr "백"
+
+#: translate_sheet.csv:4391
+msgctxt "Red"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_zhong)|ee38e4d5dd68c4e440825018d549cb47"
+msgstr "중"
+
+#: translate_sheet.csv:4389
+msgctxt "North"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_bei)|601560b94fbb188919dd1d36c8ab70a4"
+msgstr "북"
+
+#: translate_sheet.csv:4387
+msgctxt "West"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_xi)|bf495fc048d8d44b7f32536df5cf3930"
+msgstr "서"
+
+#: translate_sheet.csv:4385
+msgctxt "South"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_nan)|263d7b2cf53802c9ed127b718c0bf9fd"
+msgstr "남"
+
+#: translate_sheet.csv:4383
+msgctxt "East"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_dong)|a99dc62d017d04cf67266593f9c3761e"
+msgstr "동"
+
+#: translate_sheet.csv:4381
+msgctxt "{5}under the river"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_hedi)|dcd57b9fadeb2e893248099dbde8b38b"
+msgstr "{5}하저"
+
+#: translate_sheet.csv:4379
+msgctxt "Under the Sea"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_haidi)|41fd01ff85357984bc66c12be95d24f6"
+msgstr "해저"
+
+#: translate_sheet.csv:4377
+msgctxt "After a Kan"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_lingshang)|8d1e2f6f5f26455a18916a4771dba2d8"
+msgstr "영상"
+
+#: translate_sheet.csv:4375
+msgctxt "{5}Robbing a Kan"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/fan_qianggang)|f3e5258bb3335b7f92ccd5cf8a554cf9"
+msgstr "{5}창깡"
+
+#: translate_sheet.csv:4373
+msgctxt "What do you think? Do I look good in this dress? Stunned?"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_qiyue)|b3d520525a5b9c199133db1a48a1f75d"
+msgstr "어떠신가요? 제 새 의상에 반하셨나요?"
+
+#: translate_sheet.csv:4371
+msgctxt ""
+"I wanna see things, all the beautiful and wonderful things in this world. "
+"And I wanna see them all with you. Because you can show me such a would. "
+"Would you like to go on a journey with me?"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_manjiban)|d19900743124639c22ffc5e2f8ed31b7"
+msgstr ""
+"저는 이 세상의 모든 아름다운 것들을 보고 싶어요. ...당신과 함께. 당신이라면 분명 그런 세상에 데려가 줄거라 생각해요. 괜찮으시다면 "
+"저와 함께 여행을 하지 않으실래요?"
+
+#: translate_sheet.csv:4369
+msgctxt ""
+"Those days when I stayed behind those high walls would certainly have been "
+"more colorful if I met you earlier."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_levelmax)|aa47d93cce05e93dd7d1641458c66410"
+msgstr "빨리 당신과 만났더라면, 저택에 갇혀 있던 그 빛바랜 날들도 더 선명했을까요?"
+
+#: translate_sheet.csv:4367
+msgctxt ""
+"You are the first person who has brought me so much happiness. I wish to "
+"continue to be happy with you."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_levelup3)|dd642c01964ff1924ab83724a3ae9970"
+msgstr "이렇게 즐겁게 해준건 당신이 처음이예요. 계속... 계속 이대로 있었으면 좋겠네요."
+
+#: translate_sheet.csv:4365
+msgctxt "It truly is better to be accompanied with someone than to be alone."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_levelup2)|f6e6fb2812ca6a9e07e3c3a5914a56ee"
+msgstr "여행을 할 때 누군가가 함께 있어 주는게, 혼자 있는 것보다는 나을지도 모르겠네요."
+
+#: translate_sheet.csv:4363
+msgctxt ""
+"I'm not interested in boring stuff or boring people, but you haven’t "
+"disappointed me so far."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_levelup1)|5b26ea32f4527d6727db35966c94e9fa"
+msgstr "하찮은 물건이나 사람에게는 관심도 없지만, 당신이라면 이 나를 실망시키지 않을 것 같네요."
+
+#: translate_sheet.csv:4361
+msgctxt "Ah! You have a good taste, I like it!"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_gift_favor)|bcd72e67b5491b54aa3eb5f6e1c6d190"
+msgstr "당신, 센스가 좋네요. 마음에 들어요!"
+
+#: translate_sheet.csv:4359
+msgctxt "Ha... This gift really suits the taste of of the people."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_gift)|15fd3b732d337246565456bbc9b3512e"
+msgstr "하... 정말 서민들이 좋아할만한 선물이네요."
+
+#: translate_sheet.csv:4357
+msgctxt ""
+"You want to spend time at home instead of going out? Haha, that’s good from "
+"time to time, a quiet world between the two of us... How about doing "
+"something special together?"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_normalmax3)|af2d6f12dfd8723d03a8e1c03d9300a6"
+msgstr "오늘은 집에서 보내고 싶다고요? 후후, 가끔은 좋지 않을까요? 모처럼 단둘이서만 있고... 뭔가 특·별·한 일을 해보실까요?"
+
+#: translate_sheet.csv:4355
+msgctxt ""
+"In their recent letter, my parents told me that they started to play mahjong"
+" from time to time, and it seem they are enjoying the game. My parents "
+"wouldn’t have changed so much had you not come along with me last time. "
+"Thank you."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_normalmax2)|b4a714597ec1c134f6f9e7555d86620f"
+msgstr ""
+"최근 양친께서 문자를 보내주셨어요. 그 후로 양친께서도 가끔 마작을 즐기시는 것 같아요. 이것도 당신이 함께 가주신 덕분이네요. 감사를 "
+"표합니다."
+
+#: translate_sheet.csv:4353
+msgctxt ""
+"Let's go hike a mountain. Let’s watch the sunrise together and enjoy it "
+"between us!"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_normalmax1)|d44369ce6c24a4741645e0edd5403a29"
+msgstr "가실까요? 어딘가의 산꼭대기로... 우리만의 일출을 찾으러."
+
+#: translate_sheet.csv:4351
+msgctxt ""
+"It’s quite interesting to attend exhibitions on cultural relics and "
+"artifacts. Looking at these relics, I feel as if I can reach out and touch "
+"the unknown past."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_normal5)|6a2364a124ca175f55789bef6b899a71"
+msgstr "박물관을 둘러보는 것은 아주 재미있어요. 소장품들을 보면 왠지 과거의 세계에 닿는 듯한 느낌이 드는 걸요."
+
+#: translate_sheet.csv:4349
+msgctxt ""
+"This compass is very helpful. No matter where I go throughout my life "
+"journey, this compass will always give me a sense of peace. Or so I was told"
+" by the adventurer who gifted me this compass."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_normal4)|31933379f51e2a2fecca85509dd044cb"
+msgstr ""
+"나침반은 좋은 거예요. 어떤 여행이라도 나침반을 가지고 있으면 안심할 수 있어요. 설령 그것이 인생이라는 여행이라도... 라고, 나침반을 "
+"준 탐험가 분이 그렇게 말씀해 주셨어요."
+
+#: translate_sheet.csv:4347
+msgctxt ""
+"Someone said that the reason I won was because of my name. Honestly... It's "
+"really inappropriate to make excuses for failure!"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_normal3)|f6c752da67951628c9922f9785390499"
+msgstr "제가 이기는 것은 이름 덕분이라니!? ...정말, 스스로의 실패를 남의 탓으로 돌리다니 꼴불견이네요!"
+
+#: translate_sheet.csv:4345
+msgctxt ""
+"Whenever I go traveling, I get to see all kinds of different villages and "
+"interact with different people. I get to truly feel the vastness of this "
+"beautiful world in front of me."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_normal2)|b8ea77767c77aeface857e7f53ea6efe"
+msgstr "여행 도중에 여러 마장, 여러 사람과 사건을 보고 왔어요. 모두 저에게 세상이 넓다는 것을 실감시켜 주었네요."
+
+#: translate_sheet.csv:4343
+msgctxt ""
+"Sigh... our school vacation is coming. By then, I’ll be taken to that boring"
+" house again and I’ll be trapped in it for days and days... so sad..."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_normal1)|6e9b188e31eec161280a0e7d57622277"
+msgstr "하아... 곧 방학이 시작되네요. 또 그 따분한 저택에 며칠씩이나 갇혀있어야 한다고 생각하니 왠지 슬퍼지네요."
+
+#: translate_sheet.csv:4341
+msgctxt "Today’s a good day. Would you like some afternoon tea?"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_playerlogin_max)|446a7eda4fcbdd28fa2b9f995e838959"
+msgstr "날씨가 정말로 좋네요! 잠시 차라도 한 잔 하실까요?"
+
+#: translate_sheet.csv:4339
+msgctxt ""
+"Huh? You’re here. It's a little boring. Would you like to go out with me?"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_playerlogin)|4ec5f4f05eb249a5dcb038bfffdba4da"
+msgstr "와주셨군요. 마침 한가한 참이었으니, 함께 어디 산책이라도 가실까요?"
+
+#: translate_sheet.csv:4337
+msgctxt "Good game. If you don't mind, would you like to go another round?"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/game_top)|e0c3f1c369fa5eea4f999c41179a944f"
+msgstr "이기게 해 주셔서 감사합니다. 괜찮으시다면 또 한판 어떠신지요?"
+
+#: translate_sheet.csv:4335
+msgctxt "Xenia. It's a lucky name in Oriental languages. Nice to meet you."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/lobby_selfintro)|add17493f989273392d07c9117890b01"
+msgstr "지니아라고 합니다. 라틴어로 저의 이름은 운수가 좋은 이름이라고 하네요. 앞으로 잘 부탁드려요."
+
+#: translate_sheet.csv:4333
+msgctxt "Tsumo! Just like I expected."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/act_tumo)|a221f9b0475bf70ae4e625f5ce728d4a"
+msgstr "쯔모에요! 계산대로에요."
+
+#: translate_sheet.csv:4331
+msgctxt "Ron! You have my apology."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/act_ron)|e3022985d498102c39fa29becc61b7d2"
+msgstr "론이에요, 미안하군요."
+
+#: translate_sheet.csv:4329
+msgctxt "{10}Kita"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/act_babei)|82310e89dc5f6ee639b15358f03e5e91"
+msgstr "{10}북"
+
+#: translate_sheet.csv:4327
+msgctxt "Kan"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/act_kan)|f60e8dbbc0c325f558c189cc9c7c3e06"
+msgstr "그거, 깡이에요"
+
+#: translate_sheet.csv:4325
+msgctxt "Pon"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/act_pon)|25ad9e28babad3e903a3aa64c7256147"
+msgstr "펑이에요"
+
+#: translate_sheet.csv:4323
+msgctxt "Chii"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/act_chi)|833a570d827e784b2fd4a2eab63aff48"
+msgstr "치-에요"
+
+#: translate_sheet.csv:4321
+msgctxt "Double Riichi"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/act_drich)|bc1c334ae4cb115572c529ec16f3100c"
+msgstr "더블리치에요"
+
+#: translate_sheet.csv:4319
+msgctxt "Riichi"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/zeniya/act_rich)|a24a259048cb6a113d9eeba1d7647fce"
+msgstr "리치에요"
