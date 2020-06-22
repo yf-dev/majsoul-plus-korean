@@ -2,7 +2,7 @@
 ========================
 
 [![번역 현황](https://weblate.update.sh/widgets/majsoul-plus-korean-resource-pack/ko/master/svg-badge.svg)](https://weblate.update.sh/engage/majsoul-plus-korean-resource-pack/ko/?utm_source=widget)
-![Build assets](https://github.com/yf-dev/majsoul-plus-korean/workflows/Build%20assets/badge.svg?branch=master)
+![Build](https://github.com/yf-dev/majsoul-plus-korean/workflows/Build/badge.svg?branch=master)
 
 ![리소스 팩 썸네일](/data/translation/assets/en/extendRes/emo/e200005/4.png)
 
@@ -27,20 +27,23 @@
 
 1. 작혼 Plus 런처를 실행하고, 좌측 Resource Packs 메뉴를 선택합니다.
 2. 우상단의 폴더 열기 아이콘을 클릭하여 리소스 팩 폴더를 엽니다.
-3. [릴리즈 페이지](https://github.com/yf-dev/majsoul-plus-korean/releases/latest)에서 `korean.zip
-`을 클릭하여 `작혼 Plus: 한국어 리소스 팩`을 다운로드합니다.
-4. 다운로드한 `작혼 Plus: 한국어 리소스 팩`을 리소스 팩 폴더에 압축 해제합니다. (압축 해제된 폴더의 이름이 `korean`이어야합니다.)
+3. [릴리즈 페이지](https://github.com/yf-dev/majsoul-plus-korean/releases/latest)에서 `korean.zip`을 클릭하여 `작혼 Plus: 한국어 리소스 팩`을 다운로드합니다.
+4. 다운로드한 `korean.zip`을 리소스 팩 폴더에 압축 해제합니다. (압축 해제된 폴더의 이름이 `korean`이어야합니다.)
 5. 작혼 Plus 런쳐 상단의 새로고침 아이콘을 클릭합니다.
 6. 나타난 한국어 리소스 팩을 활성화합니다.
 
 
 ### 3. Asset 갱신
 
-작혼의 버전이 업데이트되어 `ui_en.json` 파일과 `lqc.lqbin` 파일의 구조가 변경될 경우 게임이 정상적으로 구동되지 않을 수 있습니다.
+작혼의 버전이 업데이트되어 `ui_en.json`, `lqc.lqbin` 등의 파일의 구조가 변경될 경우 게임이 정상적으로 구동되지 않을 수 있습니다.
+
+게임 로딩 화면에서 넘어가지 않거나, 검은 화면만 표시되는 증상이 나타날 경우 Asset을 갱신하여 문제가 해결될 가능성이 높습니다.
 
 이러한 경우에는 다음과 같은 절차에 따라 파일을 갱신을 시도하세요.  
 (현재는 64비트 환경만을 지원합니다.)
 
+0. **먼저, [릴리즈 페이지](https://github.com/yf-dev/majsoul-plus-korean/releases/latest)에서 최신 버전의 리소스 팩을 내려받아 적용해봅니다.**
+문제가 해결되지 않았을 경우 다음 절차를 진행해주세요.
 1. 작혼 Plus 런처를 실행하고, 좌측 Resource Packs 메뉴를 선택합니다.
 2. 우상단의 폴더 열기 아이콘을 클릭하여 리소스 팩 폴더를 엽니다.
 3. 열린 리소스 팩 폴더에서 `majsoul-plus-korean.bat` 을 실행합니다.
@@ -98,13 +101,26 @@ cd data
 pipenv install --dev
 ```
 
+도커 환경에서 작업하시고자 하는 경우, 다음 명령어로 이미지를 빌드합니다.
+
+```
+cd data
+docker-compose build
+```
+
+만약 도커 환경에서 다음 과정을 진행하시는 경우에는, 다음 명령어로 mpk를 실행할 수 있습니다.
+
+```
+docker-compose run --rm mpk <args>
+```
+
 #### 5.3. 원본 Asset 다운로드
 
 ```
 pipenv run mpk download
 ```
 
-병합된 Asset은 `data\assets-original`에 저장됩니다.
+다운로드한 Asset은 `data\assets-original`에 저장됩니다.
 
 
 #### 5.4. 문장 번역 템플릿 생성
@@ -117,17 +133,13 @@ pipenv run mpk template
 
 - `data\translation\templates\translate_sheet.csv`
 - `data\translation\templates\translate_json.csv`
+- `data\translation\translate_en.po`
 
 #### 5.5. 문장 번역 작업 진행
 
-먼저 템플릿 파일을 복사하여 번역용 파일 경로에 붙여넣습니다.
+원문 문장 데이터 파일인 `data\translation\translate_en.po`을 복사한 후 같은 폴더에 이름을 `translate_ko.po`로 변경하여 붙여넣습니다.
 
-아래와 같이 경로를 변경하여 붙여넣어주세요.
-
-- `data\translation\templates\translate_sheet.csv` => `data\translation\translate_sheet.csv`
-- `data\translation\templates\translate_json.csv` => `data\translation\translate_json.csv`
-
-복사한 파일을 열어 필요없는 문장(단순 공백, 숫자, 번역하지 않을 문장 등)을 삭제한 후, 적절히 번역하여 저장합니다.
+이후 `data\translation\translate_ko.po` 파일을 [Poedit](https://poedit.net/)과 같은 적절한 편집기로 열어 번역합니다.
 
 #### 5.6. 이미지 리소스 번역
 
@@ -187,16 +199,19 @@ filename[20,0,-30,0].png
 
 #### 5.8. 번역 적용
 
+위와 같이 수정한 번역 내용을 적용하기 위해 리소스 팩을 생성하려면 다음 명령어를 사용합니다.
+
 ```
 pipenv run mpk build
 ```
 
 #### 5.9. `majsoul-plus-korean.exe` 파일 갱신
 
+사용자를 위한 `majsoul-plus-korean.exe` 파일을 빌드하려면 다음 명령어를 사용합니다.
+
 ```
 pipenv run build
 ```
-
 
 ### 6. 일본 서버용 작업
 
