@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-24 12:43+0000\n"
+"PO-Revision-Date: 2020-06-25 11:20+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -53856,3 +53856,107 @@ msgstr "전부 다 먹을래!"
 msgctxt "Sweet Rice Dumpling? Meat Rice Dumpling?"
 msgid "sheet|ActivityActivity.csv|name_en|1cd047dcc7408aec3e8a486ce0da8d80"
 msgstr "단맛파? 짠맛파?"
+
+#: translate_sheet.csv:2998
+msgctxt "Bond Level Up Voice 5"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/erjietang/lobby_manjiban)|15e811ff292e59d56e525f1cebe1a2a5"
+msgstr "인연 레벨 상승 음성 5"
+
+#: translate_sheet.csv:2973
+msgctxt ""
+"[0]If you can win me over on the Mahjong table, [2500] I will give you a "
+"little surprise."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/erjietang/lobby_normal3)|55bf8372b1183cd3cee17adc241e1db0"
+msgstr "[0]마작으로 저를 이길 수 있다면, [2500]조금 서프라이즈한 포상... 줄까나~"
+
+#: translate_sheet.csv:2945
+msgctxt "Ichihime must tell master, nyaa!"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/yiji/ingame_beiman)|b7869f2620740edf446d446bec065c86"
+msgstr "이건 주인님에게 알려야한다냐!"
+
+#: translate_sheet.csv:2944
+msgctxt "SP - Tenpai with Baiman/Sanbaiman"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/yiji/ingame_beiman)|ab0c8ec1fb7755d900cf63b962f1ab7d"
+msgstr "SP - 배만/삼배만 텐파이"
+
+#: translate_sheet.csv:2943
+msgctxt "Woah—Ichihime's mega victory, nyaa!"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/yiji/ingame_yiman)|3d28da55ece7bdcb02659cfcf48ad4c8"
+msgstr "냐~핫핫하! 대승리가 코앞이다냐!"
+
+#: translate_sheet.csv:2942
+msgctxt "SP - Tenpai with Yakuman"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/yiji/ingame_yiman)|53c007cac30974bb34344efd3bc04176"
+msgstr "SP - 역만 텐파이"
+
+#: translate_sheet.csv:2941
+msgctxt "1, 2, 3, 4... Nyaa? Only 10 tiles left?"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/yiji/ingame_remain10)|285f0b1ce5d2e8bdb33722dc5eae8b87"
+msgstr "하냐, 둘, 셋... 냐? 앞으로 10개 뿐이냐?"
+
+#: translate_sheet.csv:2940
+msgctxt "SP - Less than 10 tiles remaining"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/yiji/ingame_remain10)|661ec9acf96cacd6c4a3bf21fa6e608b"
+msgstr "SP - 남은 패가 10개 미만일 때"
+
+#: translate_sheet.csv:2939
+msgctxt "Nyaa! Ichihime's Dora!"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/yiji/ingame_baopai)|c51b5a001a6248d5c35b7e36d5e7c610"
+msgstr "냐! 못가냐! 도라냥이~!"
+
+#: translate_sheet.csv:2938
+msgctxt "SP - When discarding a Dora"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/yiji/ingame_baopai)|f209f9c38b43594276da3a7c2ade42f7"
+msgstr "SP - 도라를 버릴 때"
+
+#: translate_sheet.csv:2937
+msgctxt "Ichihime wants to take the tile back, nyaa..."
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/yiji/ingame_lianda)|f8f3a3047f27546779bc9b3a94786031"
+msgstr "아까 버린 녀석, 바꿔도 될까냐...?"
+
+#: translate_sheet.csv:2936
+msgctxt "SP - When discarding multiple identical tiles in a row"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/yiji/ingame_lianda)|fc2fc94ef3294a89d9ae8996c1e2a120"
+msgstr "SP - 동일한 패를 연속으로 버릴 때"
+
+#: translate_sheet.csv:2773
+msgctxt ""
+"Miki said once we made a bonding promise, master would buy unlimited snacks "
+"for Ichihime-nyaa! But wasn't master already Ichihime's master long ago? If "
+"that's the case, what does this bonding promise really do, nyaa?"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/yiji/lobby_qiyue)|cd5c5f7fbb877b9184ad481857143cf8"
+msgstr ""
+"주인님과 계약하면, 간식을 무한히 사줄거라고 미키가 말했다냐! 그러니까 그러니까, 주인님은 언제나 이치히메의 곁에 있어줘냐! 신의 권속이 "
+"인간에게 부탁하는 건 이상할지도 모르지만, 그래도 주인님! 이치히메랑 계약해줘냐! 이치히메는, 언제나 언제나 주인님의 곁에 있고 싶다냐!"
+
+#: translate_sheet.csv:2772
+msgctxt "Bond"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/yiji/lobby_qiyue)|7a3b691731db2969498907b960183633"
+msgstr "인연"
+
+#: translate_sheet.csv:2771
+msgctxt ""
+"Master, is Ichihime sick-nyaa? Recently, whenever master is not around, "
+"Ichihime would become very restless and want to scratch all the cardboards "
+"into pieces. But as soon as master appears, all the problems seem to go "
+"away. Hey, master, do you know the reason? Otherwise, Ichihime would have to"
+" make a doll of master and carry it like Chiori does, nyaa!"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/yiji/lobby_manjiban)|a730e30927e3a83a8dbb50993a59c7d8"
+msgstr ""
+"나, 요즘 주인님이 없으면 왠지 짜증나고, 너무 짜증나서, 근처에 있는 골판지를 닥치는대로 찢고 싶어진다냐... 그래도 주인님을 보면 "
+"금방 멀쩡해진다냐. 우냐냐~, 주인님, 이건 대체 뭘까냐? 설마 아픈건가냐!?"
