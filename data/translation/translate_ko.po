@@ -1,7 +1,7 @@
-#
+# Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-23 15:58+0000\n"
+"PO-Revision-Date: 2020-06-24 11:15+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -52747,3 +52747,126 @@ msgctxt "Riichi"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/baishinainai/act_rich)|a24a259048cb6a113d9eeba1d7647fce"
 msgstr "리치!"
+
+#: translate_sheet.csv:1688
+msgctxt "首儲另贈6480輝玉"
+msgid "sheet|MallGoods.csv|first_desc_en|fe8ba7643e2030492eed1807a68bbd5c"
+msgstr "首儲另贈6480輝玉"
+
+#: translate_sheet.csv:1686
+msgctxt "首儲另贈3600輝玉"
+msgid "sheet|MallGoods.csv|first_desc_en|5669ae3939e505e9a0c0113c2830d06d"
+msgstr "首儲另贈3600輝玉"
+
+#: translate_sheet.csv:1683
+msgctxt "首儲另贈2800輝玉"
+msgid "sheet|MallGoods.csv|first_desc_en|3e6005112970aa8f4256943471f99165"
+msgstr "首儲另贈2800輝玉"
+
+#: translate_sheet.csv:1680
+msgctxt "首儲另贈2100輝玉"
+msgid "sheet|MallGoods.csv|first_desc_en|1f0a3e01dd3e5bf1858901b6b8718359"
+msgstr "首儲另贈2100輝玉"
+
+#: translate_sheet.csv:1677
+msgctxt "首儲另贈1200輝玉"
+msgid "sheet|MallGoods.csv|first_desc_en|94b7b08f8c883d7cfc4d44e7be90e922"
+msgstr "首儲另贈1200輝玉"
+
+#: translate_sheet.csv:1675
+msgctxt "首儲另贈660輝玉"
+msgid "sheet|MallGoods.csv|first_desc_en|1fed6d51086477b23ffe1946e634e203"
+msgstr "首儲另贈660輝玉"
+
+#: translate_sheet.csv:1344
+msgctxt "测试用骰子，未实装"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|b8b0b5e406c5a6c03f156d35694fef91"
+msgstr "测试用骰子，未实装"
+
+#: translate_sheet.csv:1343
+msgctxt "测试骰子"
+msgid "sheet|ItemDefinitionItem.csv|name_en|4090287f29e8f04be72099c73127e4d5"
+msgstr "测试骰子"
+
+#: translate_sheet.csv:1019
+msgctxt "33"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_age_en|182be0c5cdcd5072bb1864cdee4d3d6e"
+msgstr "33"
+
+#: translate_sheet.csv:1017
+msgctxt "187cm"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_stature_en|64da4a0190ce44a254f7f05d0eed53fd"
+msgstr "187cm"
+
+#: translate_sheet.csv:1011
+msgctxt "133cm"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_stature_en|02abcd30a9b8c810db0970790d739a93"
+msgstr "133cm"
+
+#: translate_json.csv:1160
+msgctxt "使用辉玉10连寻觅，至少会获得一个紫色礼物"
+msgid "json|lobby/treasure|4|2|2|0|5|37c79d331e6564f6826cbf3d332d854b"
+msgstr "使用辉玉10连寻觅，至少会获得一个紫色礼物"
+
+#: translate_json.csv:1170
+msgctxt "使用辉玉10连寻觅，至少会获得一个紫色礼物"
+msgid "json|lobby/treasure|4|2|2|1|7|37c79d331e6564f6826cbf3d332d854b"
+msgstr "使用辉玉10连寻觅，至少会获得一个紫色礼物"
+
+#: translate_json.csv:391
+msgctxt "简体中文"
+msgid "json|entrance/entrance|4|1|0|d688a3a4d07d16ac647e799e472bff2e"
+msgstr "简体中文"
+
+#: translate_json.csv:367
+msgctxt "123ms"
+msgid "json|entrance/choose_route|0|0|7|2|2dfa8b16d3144a8e36413a6d9511d624"
+msgstr "123ms"
+
+#: translate_json.csv:366
+msgctxt "线路1"
+msgid "json|entrance/choose_route|0|0|7|0|773e2bf3bfefd5a360ea8dbfcd9d96ec"
+msgstr "线路1"
+
+#: translate_json.csv:359
+msgctxt "正在切换..."
+msgid "json|entrance/change_language|0|5|4296f57adb1cdc59c70d87af58d92ed9"
+msgstr "正在切换..."
+
+#: translate_json.csv:358
+msgctxt "中文(繁體)"
+msgid "json|entrance/change_language|0|4|1|3|c040f768a0d2a77ae0c73df58c528099"
+msgstr "中文(繁體)"
+
+#: translate_json.csv:357
+msgctxt "中文(简体)"
+msgid "json|entrance/change_language|0|4|0|3|d22748fa34bd3664f7229d106476b79f"
+msgstr "中文(简体)"
+
+#: translate_json.csv:356
+msgctxt "Cancel"
+msgid "json|entrance/change_language|0|3|0|ea4788705e6873b424c65e91c2846b19"
+msgstr "취소"
+
+#: translate_json.csv:355
+msgctxt "Confirm"
+msgid "json|entrance/change_language|0|2|0|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
+
+#: translate_json.csv:31
+msgctxt "(Changes will take effect after restarting the game)"
+msgid "json|both_ui/config|0|7|0|2|4|c805182f266d1e91b4021b3534019b83"
+msgstr "(변경사항은 게임을 재시작한 뒤 에 적용됩니다)"
+
+#: translate_json.csv:30
+msgctxt "中文(繁體)"
+msgid "json|both_ui/config|0|7|0|2|1|0|3|c040f768a0d2a77ae0c73df58c528099"
+msgstr "中文(繁體)"
+
+#: translate_json.csv:29
+msgctxt "中文(简体)"
+msgid "json|both_ui/config|0|7|0|2|0|0|3|d22748fa34bd3664f7229d106476b79f"
+msgstr "中文(简体)"
