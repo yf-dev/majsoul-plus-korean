@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-24 11:15+0000\n"
+"PO-Revision-Date: 2020-06-24 12:43+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -52870,3 +52870,989 @@ msgstr "中文(繁體)"
 msgctxt "中文(简体)"
 msgid "json|both_ui/config|0|7|0|2|0|0|3|d22748fa34bd3664f7229d106476b79f"
 msgstr "中文(简体)"
+
+#: translate_sheet.csv:2770
+msgctxt "Bond Level Up Voice 5"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/yiji/lobby_manjiban)|15e811ff292e59d56e525f1cebe1a2a5"
+msgstr "인연 레벨 상승 음성 5"
+
+#: translate_sheet.csv:2691
+msgctxt "Choice"
+msgid "sheet|StrStr.csv|en|458b9dcc0921f46b1192427426d59c10"
+msgstr "선택"
+
+#: translate_sheet.csv:2690
+msgctxt "Narration"
+msgid "sheet|StrStr.csv|en|6bd54a3d83cae0cf1325a6611f61c5c5"
+msgstr "나레이션"
+
+#: translate_sheet.csv:2626
+msgctxt "Story"
+msgid "sheet|StrStr.csv|en|dfba89a600b608b2b724efe1f06f599a"
+msgstr "줄거리"
+
+#: translate_sheet.csv:1787
+msgctxt "string"
+msgid "sheet|SpotRewards.csv|content_en|b45cffe084dd3d20d928bee85e7b0f21"
+msgstr "string"
+
+#: translate_sheet.csv:1695
+msgctxt "3660 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|eecbcbbe2cf7b493b83fff79a621491b"
+msgstr "3660 의상 교환권"
+
+#: translate_sheet.csv:1694
+msgctxt "2800 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|b4e5d44a1ea51f74fb40cbbc88a98719"
+msgstr "2800 의상 교환권"
+
+#: translate_sheet.csv:1693
+msgctxt "2100 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|d15f7fcaae960440bdfca2928d228879"
+msgstr "2100 의상 교환권"
+
+#: translate_sheet.csv:1692
+msgctxt "660 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|972a62a4550144747138444f7fc72f8e"
+msgstr "660 의상 교환권"
+
+#: translate_sheet.csv:1691
+msgctxt "340 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|fa9b1f383a2d8a4de086ab38ee541c03"
+msgstr "340 의상 교환권"
+
+#: translate_sheet.csv:1690
+msgctxt "65 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|524e550cd74f431777d8496886d50627"
+msgstr "65 의상 교환권"
+
+#: translate_sheet.csv:1689
+msgctxt "6480+Bonus1600"
+msgid "sheet|MallGoods.csv|normal_desc_en|b4d7d3a7b1a48ef382d98c5ee4ad057d"
+msgstr "6480+보너스1600"
+
+#: translate_sheet.csv:1687
+msgctxt "3660+Bonus500"
+msgid "sheet|MallGoods.csv|normal_desc_en|c6939f5bd09a35dff9f3c57c02af938b"
+msgstr "3660+보너스500"
+
+#: translate_sheet.csv:1685
+msgctxt "3660Jade"
+msgid "sheet|MallGoods.csv|name_en|faa5e803695b3175d81f3be6724ad0c8"
+msgstr "3660 휘옥"
+
+#: translate_sheet.csv:1684
+msgctxt "2800+Bonus310"
+msgid "sheet|MallGoods.csv|normal_desc_en|188bcaca7a83474a00a9ed4597b1978f"
+msgstr "2800+보너스310"
+
+#: translate_sheet.csv:1682
+msgctxt "2800Jade"
+msgid "sheet|MallGoods.csv|name_en|56515fbda0d6bcd79cd4e75c4a51407a"
+msgstr "2800 휘옥"
+
+#: translate_sheet.csv:1681
+msgctxt "2100+Bonus220"
+msgid "sheet|MallGoods.csv|normal_desc_en|036ab7196a6f8b77d62242f688c47662"
+msgstr "2100+보너스220"
+
+#: translate_sheet.csv:1679
+msgctxt "2100Jade"
+msgid "sheet|MallGoods.csv|name_en|2cfc9b2c7908585c886462e85acd0aa3"
+msgstr "2100 휘옥"
+
+#: translate_sheet.csv:1678
+msgctxt "1200+Bonus120"
+msgid "sheet|MallGoods.csv|normal_desc_en|ba061074f57987ddfc9a86cc9d0cd434"
+msgstr "1200+보너스120"
+
+#: translate_sheet.csv:1676
+msgctxt "660+Bonus60"
+msgid "sheet|MallGoods.csv|normal_desc_en|21d36d486fbb71c357eb120d7a85bb17"
+msgstr "660+보너스60"
+
+#: translate_sheet.csv:1674
+msgctxt "660Jade"
+msgid "sheet|MallGoods.csv|name_en|24972b35fc11446cea043f4c31827956"
+msgstr "660 휘옥"
+
+#: translate_sheet.csv:1673
+msgctxt "340+Bonus10"
+msgid "sheet|MallGoods.csv|normal_desc_en|53f892d502c7bc4ec94f4de7adf128b8"
+msgstr "340+보너스10"
+
+#: translate_sheet.csv:1672
+msgctxt "首儲另贈340輝玉"
+msgid "sheet|MallGoods.csv|first_desc_en|2631d9efb191c1432bc01e3da9f96278"
+msgstr "首儲另贈340輝玉"
+
+#: translate_sheet.csv:1671
+msgctxt "340Jade"
+msgid "sheet|MallGoods.csv|name_en|3c279bb3a5b7821a18e6814776a38549"
+msgstr "340 휘옥"
+
+#: translate_sheet.csv:1670
+msgctxt "首儲另贈65輝玉"
+msgid "sheet|MallGoods.csv|first_desc_en|7958bba9b1c2d2e0cbedb63627e82374"
+msgstr "首儲另贈65輝玉"
+
+#: translate_sheet.csv:1669
+msgctxt "65Jade"
+msgid "sheet|MallGoods.csv|name_en|22eaefe62d09847edf131681f32eb741"
+msgstr "65 휘옥"
+
+#: translate_sheet.csv:1668
+msgctxt "4900 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|c8f3eac50d5f6d36a1e1771c53b6a9fc"
+msgstr "4900 의상 교환권"
+
+#: translate_sheet.csv:1667
+msgctxt "2400 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|9bd23c432645fbd9933ca2ef0ee1becf"
+msgstr "2400 의상 교환권"
+
+#: translate_sheet.csv:1666
+msgctxt "1800 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|d86037471ae913452a2715b315cf58af"
+msgstr "1800 의상 교환권"
+
+#: translate_sheet.csv:1665
+msgctxt "1200 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|914584cc2e836c7b119a57248a0ff4da"
+msgstr "1200 의상 교환권"
+
+#: translate_sheet.csv:1664
+msgctxt "900 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|605c07efaf11fcfad69a2bf96e9bd887"
+msgstr "900 의상 교환권"
+
+#: translate_sheet.csv:1663
+msgctxt "480 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|71b029619b86db922555b5af91141004"
+msgstr "480 의상 교환권"
+
+#: translate_sheet.csv:1662
+msgctxt "5050 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|b0cf9e798e19942c1e7c986a6dfd4125"
+msgstr "5050 의상 교환권"
+
+#: translate_sheet.csv:1661
+msgctxt "2470 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|38ab04562a015b8c59282ccd99adecff"
+msgstr "2470 의상 교환권"
+
+#: translate_sheet.csv:1660
+msgctxt "1850 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|6d3c72156a4c4a36ef0a18f7f678c752"
+msgstr "1850 의상 교환권"
+
+#: translate_sheet.csv:1659
+msgctxt "1226 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|f600379ead6d24151f374c72a1907c04"
+msgstr "1226 의상 교환권"
+
+#: translate_sheet.csv:1658
+msgctxt "924 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|0ea222f163066a8b3ea6c9f233ce4576"
+msgstr "924 의상 교환권"
+
+#: translate_sheet.csv:1657
+msgctxt "492 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|a749dff501ba35c229415517148617ed"
+msgstr "492 의상 교환권"
+
+#: translate_sheet.csv:1656
+msgctxt "306 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|b84abca4ea6d5d140772a294e993ec47"
+msgstr "306 의상 교환권"
+
+#: translate_sheet.csv:1655
+msgctxt "60 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|792e0860fa93dc2d45404e99d748658b"
+msgstr "60 의상 교환권"
+
+#: translate_sheet.csv:1654
+msgctxt "4900+Bonus1400"
+msgid "sheet|MallGoods.csv|normal_desc_en|c14a084bc05de6b91d8e50e2f1a0934f"
+msgstr "4900+보너스1400"
+
+#: translate_sheet.csv:1653
+msgctxt "4900+Bonus4900"
+msgid "sheet|MallGoods.csv|first_desc_en|c9ed632c899ec3ba730a1ea17589b199"
+msgstr "4900+보너스4900"
+
+#: translate_sheet.csv:1652
+msgctxt "4900Jade"
+msgid "sheet|MallGoods.csv|name_en|e3a787b1b4404fae48773a40ba251721"
+msgstr "4900 휘옥"
+
+#: translate_sheet.csv:1651
+msgctxt "2400+Bonus600"
+msgid "sheet|MallGoods.csv|normal_desc_en|117482cc497f24d8c84d12563d221ee6"
+msgstr "2400+보너스600"
+
+#: translate_sheet.csv:1650
+msgctxt "2400+Bonus2400"
+msgid "sheet|MallGoods.csv|first_desc_en|f143aa41e8526c7dd9c8cd2018e800e9"
+msgstr "2400+보너스2400"
+
+#: translate_sheet.csv:1649
+msgctxt "2400Jade"
+msgid "sheet|MallGoods.csv|name_en|27dce722aaf7a7483dd6405c7450b769"
+msgstr "2400 휘옥"
+
+#: translate_sheet.csv:1648
+msgctxt "1800+Bonus300"
+msgid "sheet|MallGoods.csv|normal_desc_en|abae92848f659d54810d1ee03aca064a"
+msgstr "1800+보너스300"
+
+#: translate_sheet.csv:1647
+msgctxt "1800+Bonus1800"
+msgid "sheet|MallGoods.csv|first_desc_en|2b35a856745f7189b6ec7a0d59ba8655"
+msgstr "1800+보너스1800"
+
+#: translate_sheet.csv:1646
+msgctxt "1800Jade"
+msgid "sheet|MallGoods.csv|name_en|ac6623c74e731c23cd05c09904db7616"
+msgstr "1800 휘옥"
+
+#: translate_sheet.csv:1645
+msgctxt "1200+Bonus150"
+msgid "sheet|MallGoods.csv|normal_desc_en|d8eeabbef739bd48865897e88b94eb2d"
+msgstr "1200+보너스150"
+
+#: translate_sheet.csv:1644
+msgctxt "1200+Bonus1200"
+msgid "sheet|MallGoods.csv|first_desc_en|00b5aa1642eced1d9512ffa76f55cfcc"
+msgstr "1200+보너스1200"
+
+#: translate_sheet.csv:1643
+msgctxt "1200Jade"
+msgid "sheet|MallGoods.csv|name_en|4376ead360b4138719ad2e1507bc9182"
+msgstr "1200 휘옥"
+
+#: translate_sheet.csv:1642
+msgctxt "900+Bonus100"
+msgid "sheet|MallGoods.csv|normal_desc_en|6e2bfcae3f4b4c82e91773797d834c1c"
+msgstr "900+보너스100"
+
+#: translate_sheet.csv:1641
+msgctxt "900+Bonus900"
+msgid "sheet|MallGoods.csv|first_desc_en|d48123937c5d5d5617224983d789f28a"
+msgstr "900+보너스900"
+
+#: translate_sheet.csv:1640
+msgctxt "900Jade"
+msgid "sheet|MallGoods.csv|name_en|4d8be72062b8b57ef0e59ad26dd9d097"
+msgstr "900 휘옥"
+
+#: translate_sheet.csv:1639
+msgctxt "480+Bonus30"
+msgid "sheet|MallGoods.csv|normal_desc_en|6d7e340c1b7c5d6d648d3ea6017ed577"
+msgstr "480+보너스30"
+
+#: translate_sheet.csv:1638
+msgctxt "480+Bonus480"
+msgid "sheet|MallGoods.csv|first_desc_en|bcf5affdd33c2bd216b57188aba80ea1"
+msgstr "480+보너스480"
+
+#: translate_sheet.csv:1637
+msgctxt "480Jade"
+msgid "sheet|MallGoods.csv|name_en|4ee8c11fbaa3ea79145d9e5c020a7156"
+msgstr "480 휘옥"
+
+#: translate_sheet.csv:1636
+msgctxt "60+Bonus60"
+msgid "sheet|MallGoods.csv|first_desc_en|96f3536871b3d4244e3d5e951f02668b"
+msgstr "60+보너스60"
+
+#: translate_sheet.csv:1635
+msgctxt "60Jade"
+msgid "sheet|MallGoods.csv|name_en|68db72152bdab53c69e8555e04b1f284"
+msgstr "60 휘옥"
+
+#: translate_sheet.csv:1634
+msgctxt "6480 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|ecc8d08b10be2d485a4baed808b3026b"
+msgstr "6480 의상 교환권"
+
+#: translate_sheet.csv:1633
+msgctxt "3280 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|04c44c17f0e40525a43dcd01a1d2218e"
+msgstr "3280 의상 교환권"
+
+#: translate_sheet.csv:1632
+msgctxt "1980 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|3a807e35293277b007617af2b6a82ffb"
+msgstr "1980 의상 교환권"
+
+#: translate_sheet.csv:1631
+msgctxt "1280 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|4cfb5533ddf971ad7fd4f8899b9c0d20"
+msgstr "1280 의상 교환권"
+
+#: translate_sheet.csv:1630
+msgctxt "980 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|d9945e5675b7ba73ef5ee3a7f3d2e7fa"
+msgstr "980 의상 교환권"
+
+#: translate_sheet.csv:1629
+msgctxt "600 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|13a244518171e9fc2def6935dc97bd02"
+msgstr "600 의상 교환권"
+
+#: translate_sheet.csv:1628
+msgctxt "300 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|dd93f70fe3889de62820e0ee75f83ccb"
+msgstr "300 의상 교환권"
+
+#: translate_sheet.csv:1626
+msgctxt "A currency used to purchase outfits"
+msgid "sheet|MallGoods.csv|desc_en|130562b250a41584c527f1595e035482"
+msgstr "의상을 구입하는데 사용되는 화폐입니다"
+
+#: translate_sheet.csv:1625
+msgctxt "120 Outfit Voucher"
+msgid "sheet|MallGoods.csv|name_en|ed3a57f63454b6050c4579f490f604d0"
+msgstr "120 의상 교환권"
+
+#: translate_sheet.csv:1624
+msgctxt "6480+Bonus1800"
+msgid "sheet|MallGoods.csv|normal_desc_en|81577ef5397690b0333cbcf11c2e78a5"
+msgstr "6480+보너스1800"
+
+#: translate_sheet.csv:1623
+msgctxt "6480+Bonus6480"
+msgid "sheet|MallGoods.csv|first_desc_en|30ebb7cd924e03b1f1d058c1541d864a"
+msgstr "6480+보너스6480"
+
+#: translate_sheet.csv:1622
+msgctxt "6480Jade"
+msgid "sheet|MallGoods.csv|name_en|0c14e22bb53710e35e71e45f5643aaae"
+msgstr "6480 휘옥"
+
+#: translate_sheet.csv:1621
+msgctxt "3280+Bonus600"
+msgid "sheet|MallGoods.csv|normal_desc_en|e65f05b7c293a827eac517660f147306"
+msgstr "3280+보너스600"
+
+#: translate_sheet.csv:1620
+msgctxt "3280+Bonus3280"
+msgid "sheet|MallGoods.csv|first_desc_en|771362c461d6dee676937a90ac2d584e"
+msgstr "3280+보너스3280"
+
+#: translate_sheet.csv:1619
+msgctxt "3280Jade"
+msgid "sheet|MallGoods.csv|name_en|fd1034de58461d1c53713a8cbcafc83e"
+msgstr "3280 휘옥"
+
+#: translate_sheet.csv:1618
+msgctxt "1980+Bonus240"
+msgid "sheet|MallGoods.csv|normal_desc_en|835ad2445bd903958fd261c6b40fcb70"
+msgstr "1980+보너스240"
+
+#: translate_sheet.csv:1617
+msgctxt "1980+Bonus1980"
+msgid "sheet|MallGoods.csv|first_desc_en|cf90aa8d37cb0e1e2b984eeec4da9eed"
+msgstr "1980+보너스1980"
+
+#: translate_sheet.csv:1616
+msgctxt "1980Jade"
+msgid "sheet|MallGoods.csv|name_en|409807784796c2c1c34530ba4b4c3a5d"
+msgstr "1980 휘옥"
+
+#: translate_sheet.csv:1615
+msgctxt "1280+Bonus120"
+msgid "sheet|MallGoods.csv|normal_desc_en|d6c3d331f8a322535204d133ed11b5a4"
+msgstr "1280+보너스120"
+
+#: translate_sheet.csv:1614
+msgctxt "1280+Bonus1280"
+msgid "sheet|MallGoods.csv|first_desc_en|94a68217b6f9a3dcec021f6f5704d94d"
+msgstr "1280+보너스1280"
+
+#: translate_sheet.csv:1613
+msgctxt "1280Jade"
+msgid "sheet|MallGoods.csv|name_en|8dad7f3cd9fa01a60c4d8e0dd355432e"
+msgstr "1280 휘옥"
+
+#: translate_sheet.csv:1612
+msgctxt "980+Bonus80"
+msgid "sheet|MallGoods.csv|normal_desc_en|2e848eb95b9f4cc5ca31997e17193eae"
+msgstr "980+보너스80"
+
+#: translate_sheet.csv:1611
+msgctxt "980+Bonus980"
+msgid "sheet|MallGoods.csv|first_desc_en|c124ee7e3f3c056b8c7390ddfe581cc4"
+msgstr "980+보너스980"
+
+#: translate_sheet.csv:1610
+msgctxt "980Jade"
+msgid "sheet|MallGoods.csv|name_en|bf62777f73afaf9be1ccd2e979b8877c"
+msgstr "980 휘옥"
+
+#: translate_sheet.csv:1609
+msgctxt "600+Bonus30"
+msgid "sheet|MallGoods.csv|normal_desc_en|9e6a0328e341575276406a7fc0e100ee"
+msgstr "600+보너스30"
+
+#: translate_sheet.csv:1608
+msgctxt "600+Bonus600"
+msgid "sheet|MallGoods.csv|first_desc_en|3bb518bc99ac6f80806fbc3a9a831125"
+msgstr "600+보너스600"
+
+#: translate_sheet.csv:1607
+msgctxt "600Jade"
+msgid "sheet|MallGoods.csv|name_en|afaf63a0e61c875fd9f10551fae8cf88"
+msgstr "600 휘옥"
+
+#: translate_sheet.csv:1606
+msgctxt "300+Bonus10"
+msgid "sheet|MallGoods.csv|normal_desc_en|ce0d34d9e07174734c47c307d7892d40"
+msgstr "300+보너스10"
+
+#: translate_sheet.csv:1605
+msgctxt "300+Bonus300"
+msgid "sheet|MallGoods.csv|first_desc_en|336e5529b383391a7c3e252c393c131c"
+msgstr "300+보너스300"
+
+#: translate_sheet.csv:1604
+msgctxt "300Jade"
+msgid "sheet|MallGoods.csv|name_en|ce64182c40f2a3dc83ce87ffffc01b4a"
+msgstr "300 휘옥"
+
+#: translate_sheet.csv:1602
+msgctxt "120+Bonus120"
+msgid "sheet|MallGoods.csv|first_desc_en|99a6e8bbd4d4037c5deed5a3a73765f6"
+msgstr "120+보너스120"
+
+#: translate_sheet.csv:1601
+msgctxt "Can be used to buy props."
+msgid "sheet|MallGoods.csv|desc_en|29c71e028dc4a624d938025627b60fc4"
+msgstr "소품(props)을 구입하는데 사용할 수 있습니다."
+
+#: translate_sheet.csv:1600
+msgctxt "120Jade"
+msgid "sheet|MallGoods.csv|name_en|3c8b62a37488249bda6fbc0daee1465c"
+msgstr "120 휘옥"
+
+#: translate_sheet.csv:1524
+msgctxt ""
+"\"Although today is just a regular day like any other, shall we make it our "
+"secret anniversary?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|c154d45ece7acc830cd8a7c01d3bfa26"
+msgstr "\"다른 날들과 다름없는 평범한 날이지만, 우리만의 비밀 기념일로 삼을까?\""
+
+#: translate_sheet.csv:1523
+msgctxt "Zan Tsukimi’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|2ffcaafe4a4e5df52a15549979596916"
+msgstr "츠키미 잔의 기본 의상"
+
+#: translate_sheet.csv:1522
+msgctxt "Zan Tsukimi"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|048f34af0dab6c9c4f8f29d94a148d20"
+msgstr "츠키미 잔"
+
+#: translate_sheet.csv:1521
+msgctxt ""
+"\"Wow, what to do, I'm late for the tea party! Mr. Rabbit, what should I "
+"do?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|fc639af7a27643e3156353064c0f9c18"
+msgstr "\"와, 어떡해, 다과회에 늦었어! 토끼 씨, 어떻게 하면 좋죠?\""
+
+#: translate_sheet.csv:1520
+msgctxt "Momo Hina’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|8899d8fb9b28f83a4067c2ba1c2a0f51"
+msgstr "히나 모모의 기본 의상"
+
+#: translate_sheet.csv:1519
+msgctxt "Momo Hina"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|0fea285e212519578bff69471813e718"
+msgstr "히나 모모"
+
+#: translate_sheet.csv:1517
+msgctxt "Ein’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|1df7ff96cd433395ca208d5b7725f69a"
+msgstr "에인의 기본 의상"
+
+#: translate_sheet.csv:1516
+msgctxt "Ein"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|86ef6ab5abf5d34602e179a1c3ce7309"
+msgstr "에인"
+
+#: translate_sheet.csv:1515
+msgctxt ""
+"\"Summer's coming soon! I'm really looking forward to it, because it's the "
+"first summer we will spend together since I met you!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|68ffda5645a58eee9d148b87ceb8341d"
+msgstr "\"여름이 오고있어! 정말 기대돼. 내가 널 만난 이후로 우리가 함께 보내는 첫 여름이니까!\""
+
+#: translate_sheet.csv:1514
+msgctxt "Sawako Kitami’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|0bb06c1553e68bbb0168b835040b2bd9"
+msgstr "키타미 사와코의 기본 의상"
+
+#: translate_sheet.csv:1513
+msgctxt "Sawako Kitami"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|63a1f1f5e351e38c101802c6f6d22189"
+msgstr "키타미 사와코"
+
+#: translate_sheet.csv:1511
+msgctxt "Osamu Saitou’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|8c5833a2a2f459c46a40adb4b562b1a5"
+msgstr "사이토 오사무의 기본 의상"
+
+#: translate_sheet.csv:1510
+msgctxt "Osamu Saitou"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|e42a4519a75518546f59ff1301d53acd"
+msgstr "사이토 오사무"
+
+#: translate_sheet.csv:1508
+msgctxt "Joseph’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|b6cd0752e286017347111095582364ea"
+msgstr "조셉의 기본 의상"
+
+#: translate_sheet.csv:1507
+msgctxt "Joseph"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|6a1a376d8169cfc1835f59ac934edbb7"
+msgstr "조셉"
+
+#: translate_sheet.csv:1505
+msgctxt "Anju Suzumiya’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|7beb58bb6969dd2bbcadb88e07100e50"
+msgstr "스즈미야 안즈의 기본 의상"
+
+#: translate_sheet.csv:1504
+msgctxt "Anju Suzumiya"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|54a8c7a71e8b310cada53392c01e4765"
+msgstr "스즈미야 안즈"
+
+#: translate_sheet.csv:1502
+msgctxt "Haruna Igarashi’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|a11be1440a3a0fe756530f24585e7683"
+msgstr "이가라시 하루나의 기본 의상"
+
+#: translate_sheet.csv:1501
+msgctxt "Haruna Igarashi"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|1015546ceb4b0c8a6b57f2d0a17cfd4b"
+msgstr "이가라시 하루나"
+
+#: translate_sheet.csv:1499
+msgctxt "Hinata Takanashi’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|337b40bd942e3fdd3bff00be4e9fc5a5"
+msgstr "타카나시 히나타의 기본 의상"
+
+#: translate_sheet.csv:1498
+msgctxt "Hinata Takanashi"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|d59f0b29f74176d59e80380013916f90"
+msgstr "타카나시 히나타"
+
+#: translate_sheet.csv:1496
+msgctxt "Nana Shiraishi’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|7e400a7d282271cfe4b1eb30cd074f12"
+msgstr "시라이시 나나의 기본 의상"
+
+#: translate_sheet.csv:1495
+msgctxt "Nana Shiraishi"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|b75305e9cc7f97f895ca6a558bc80869"
+msgstr "시라이시 나나"
+
+#: translate_sheet.csv:1492
+msgctxt "Hana Ninomiya’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|47e1b083c0a4f15c4ec97f27216c9f45"
+msgstr "니노미야 하나의 기본 의상"
+
+#: translate_sheet.csv:1491
+msgctxt "Hana Ninomiya"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|f6367b5eb55d5e575dc597e8bff7392a"
+msgstr "니노미야 하나"
+
+#: translate_sheet.csv:1488
+msgctxt "Sara’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|fd83de12d4ae17368e07f8c1a8093a66"
+msgstr "사라의 기본 의상"
+
+#: translate_sheet.csv:1487
+msgctxt "Sara"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|4733a44073c81970cccbca6e1ede188b"
+msgstr "사라"
+
+#: translate_sheet.csv:1486
+msgctxt ""
+"Available after making a Bonding Promise with Keikumusume\\n \"Do you also "
+"like to read light novels?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|042621a6d693d08e4238816c12c31206"
+msgstr ""
+"케이쿠무스메와 계약을 맺은 뒤 사용 가능\\n"
+"\"라이트 노벨 읽는 것도 좋아하나요?\""
+
+#: translate_sheet.csv:1485
+msgctxt "Keikumusume’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|3319ff7151f1c458620ff575bdc22ef0"
+msgstr "케이쿠무스메의 기본 의상"
+
+#: translate_sheet.csv:1484
+msgctxt "Keikumusume"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|f7aa7d3e8347224d57d1f63bbfb8a85b"
+msgstr "케이쿠무스메"
+
+#: translate_sheet.csv:1482
+msgctxt "Hideki Akechi’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|e6fc8a2bf1f19d727d350a1672b99ed3"
+msgstr "아케치 히데키의 기본 의상"
+
+#: translate_sheet.csv:1481
+msgctxt "Hideki Akechi"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|c71ed70434c10fc1b9c861b0113d611a"
+msgstr "아케치 히데키"
+
+#: translate_sheet.csv:1480
+msgctxt ""
+"Christmas Carnival Exclusive\\n \"This is my first Christmas with you... Can"
+" we celebrate it again in the future together?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|fcdeb2ea02afc77f12501df4c85ecc88"
+msgstr ""
+"크리스마스 축제 한정\\n"
+"\"오늘은 당신과 보내는 첫 크리스마스에요... 앞으로도 함께 축하할 수 있을까요?\""
+
+#: translate_sheet.csv:1478
+msgctxt "Sora Ichinose’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|5c82706c082b2451cf31fe184c2ed890"
+msgstr "이치노세 소라의 기본 의상"
+
+#: translate_sheet.csv:1477
+msgctxt "Sora Ichinose"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|9546242e575cc40c98293eb006c3e29e"
+msgstr "이치노세 소라"
+
+#: translate_sheet.csv:1474
+msgctxt "Wanjirou’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|4eff4493d81204804b79b1e9ae2c8740"
+msgstr "왕지로의 기본 의상"
+
+#: translate_sheet.csv:1473
+msgctxt "Wanjirou"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|df84e7164a96c2d4943ca3c29a9a3fda"
+msgstr "왕지로"
+
+#: translate_sheet.csv:1470
+msgctxt "Natsuki Shinomiya’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|e2755920c385d0a169b67a33edd14b2c"
+msgstr "시노미야 나츠키의 기본 의상"
+
+#: translate_sheet.csv:1469
+msgctxt "Natsuki Shinomiya"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|0b45e930eee5e4a7ef2e153e2e060aee"
+msgstr "시노미야 나츠키"
+
+#: translate_sheet.csv:1465
+msgctxt ""
+"Halloween Party Exclusive\\n \"This costume mimics a creature known as a "
+"succubus in my country. They are very skillful at seduction...\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|ba0aacecf0f9260f3525db18319fb86a"
+msgstr ""
+"할로윈 파티 한정\\n"
+"\"이 의상은 우리 나라에서 서큐버스라고 부르는 생물을 모방한거에요. 유혹에 아주 능숙하다고 하던데...\""
+
+#: translate_sheet.csv:1452
+msgctxt ""
+"Available after making a Bonding Promise with Nadeshiko\\n \"Pick one: go "
+"for a ride or have a one-on-one Mahjong match with me?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|e61ec7ea55daea81f10c5a4764ade3b9"
+msgstr ""
+"나데시코와 계약을 맺은 뒤 사용 가능\\n"
+"\"하나 골라봐. . 나랑 오토바이 타러 갈래, 1대 1 마작할래?\""
+
+#: translate_sheet.csv:1434
+msgctxt ""
+"Spring Celebration Exclusive\\n \"You know, it's not nice to sneak a peek "
+"while girls are putting on makeup! I want you to see me at my best today!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|d872effdd4f377c15ae1fb748b7e9c14"
+msgstr ""
+"봄 축제 한정\\n"
+"\"여자들이 화장하는 걸 몰래 훔쳐보는건 좋지 않아요! 매일 최고의 모습으로 만나고 싶은걸요!\""
+
+#: translate_sheet.csv:1431
+msgctxt ""
+"Halloween Party Exclusive\\n \"If tonight's ball doesn't delight you, let me"
+" teach you something that will make you happy.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|f7778861c1b1f8838de5222289896247"
+msgstr ""
+"할로윈 파티 한정\\n"
+"\"오늘밤 무도회가 당신의 기분을 즐겁게 해줄 수 없다면, 내가 당신을 행복하게 해줄 무언가를 가르쳐 줄게.\""
+
+#: translate_sheet.csv:1429
+msgctxt ""
+"Available after making a Bonding Promise with Miki Nikaidou\\n\"Sure. I'm "
+"all~ yours~ today.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|91139d99a382a29947ad3fbb5aafe54d"
+msgstr ""
+"니카이도 미키와 계약을 맺은 뒤 사용 가능\\n"
+"\"난 오늘 당신의 것이에요.\""
+
+#: translate_sheet.csv:1422
+msgctxt ""
+"Beach Party Exclusive\\n\"Take this! Even if it's you, Master, Ichihime "
+"won't let you get an easy win-nya!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|3d724d9d068cbef44606c31d8490602f"
+msgstr ""
+"비치 파티 한정\\n"
+"\"받아라냥! 주인님이라도 이치히메에게는 쉽게 이길 수 없을거다냐!\""
+
+#: translate_sheet.csv:1360
+msgctxt "Delicious egg yolk rice dumpling, yummy!"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|ac9e84ce8c3f60c368ac5c97f9d3a31d"
+msgstr "농후한 맛의 고기 치마키. 맛있어보여-!"
+
+#: translate_sheet.csv:1359
+msgctxt "Vitellus rice dumpling"
+msgid "sheet|ItemDefinitionItem.csv|name_en|6371b13b1497c7077ed4771a8a332829"
+msgstr "고기 치마키"
+
+#: translate_sheet.csv:1358
+msgctxt "Healthy multi-grain rice dumpling, yummy!"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|29c42ce8e05a875e5cbd6087d51f91f6"
+msgstr "영양이 풍부한 잡곡 치마키. 맛있어보여-!"
+
+#: translate_sheet.csv:1357
+msgctxt "Multi-grain rice dumpling"
+msgid "sheet|ItemDefinitionItem.csv|name_en|5bba8a03cd8d3301d4ea70692745f341"
+msgstr "잡곡 치마키"
+
+#: translate_sheet.csv:1356
+msgctxt "Sweet red bean rice dumpling, yummy!"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|7bd8e7d980cdc09a09b269ad0b04eaed"
+msgstr "달콤한 팥 치마키. 맛있어보여-!"
+
+#: translate_sheet.csv:1355
+msgctxt "Red bean rice dumpling"
+msgid "sheet|ItemDefinitionItem.csv|name_en|28dedc1804098625154d00debc465f6e"
+msgstr "팥 치마키"
+
+#: translate_sheet.csv:1290
+msgctxt ""
+"Grrr~ I... I am t-the scariest one! Y-you're supposed to run, aren't you?"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|84aae356b37cf7de2815043c85fdcb31"
+msgstr "으르렁~ 나... 난 가장 무..무서운 유령이야! 너...너는 도망가야 하는거... 맞지?"
+
+#: translate_sheet.csv:1280
+msgctxt ""
+"A reward for Mahjong Soul official tournament winner. (Expires in 1 year)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|d263ca1a9e7c0ee1bc30ca36f102c0cd"
+msgstr "작혼 공식 대회 우승자를 위한 보상. (1년 후 만료)"
+
+#: translate_sheet.csv:1279
+msgctxt "Limited Portrait Frame"
+msgid "sheet|ItemDefinitionItem.csv|name_en|df367db07175a73d1846fafa647ca9ed"
+msgstr "한정 초상화 프레임"
+
+#: translate_sheet.csv:1275
+msgctxt ""
+"The witch's charming words linger in your mind like butterflies. She "
+"said…(Event limited, will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|a4022f3f507cb614e2ef6a870b959fe0"
+msgstr "마녀의 말은 머릿속에서 떠나지 않는다, 그 매혹의 말의 정체는...(이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1274
+msgctxt "Riichi - Butterfly's Charm"
+msgid "sheet|ItemDefinitionItem.csv|name_en|aee0a7c6009418012967ca459a313249"
+msgstr "리치 - 매혹의 나비"
+
+#: translate_sheet.csv:1273
+msgctxt ""
+"Justice may be late, but it will always come in the end.(Event limited, will"
+" be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|da703c5b2d181daca8801b7dcc61ae08"
+msgstr "정의는 늦을지언정 반드시 이뤄질 것이다.(이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1272
+msgctxt "Riichi - Judgement"
+msgid "sheet|ItemDefinitionItem.csv|name_en|2276a07916d38be6fc698530d923ad15"
+msgstr "리치 - 단죄"
+
+#: translate_sheet.csv:1259
+msgctxt ""
+"Those who witness the golden butterfly could be favored by the witch.(Event "
+"limited, will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|541b6c2856230d34c158556aa4895c70"
+msgstr "황금 나비를 본 사람은 마녀의 총애를 받았다고 한다.(이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1258
+msgctxt "Winning - Golden Butterfly"
+msgid "sheet|ItemDefinitionItem.csv|name_en|0db3279c5a280a3b3e5c23561c249a78"
+msgstr "승리 - 황금 나비"
+
+#: translate_sheet.csv:1257
+msgctxt ""
+"Justice falls from above!(Event limited, will be unobtainable after the end "
+"of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|998bf9bb4cbec22f2fcf46fb823a1036"
+msgstr "정의의 심판이 내려온다!(이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1256
+msgctxt "Winning - Justice From Above"
+msgid "sheet|ItemDefinitionItem.csv|name_en|b363e0579cb95c8b063ecb0d2d6c64b0"
+msgstr "승리 - 춤추는 정의"
+
+#: translate_sheet.csv:1245
+msgctxt ""
+"A tombstone covered under vines, whose is it? Shush, not every secret needs "
+"to be revealed on this night."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|9f91dfc5bffb6703490e45b703c2fe8a"
+msgstr "덩굴로 뒤덮인 묘비는 누구의 묘비일까요? 쉿, 오늘 밤 모든 비밀을 밝힐 필요는 없습니다."
+
+#: translate_sheet.csv:1243
+msgctxt ""
+"Riichi music \"On the Edge.\" Change the background music when you declare "
+"Riichi. (You may activate it in Dorm - Decoration.)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|7136578da0c31002c4aef272acf802d1"
+msgstr "리치 음악 “일촉즉발”. 리치를 선언할 때 배경 음악이 변경됩니다. (숙소 - 장식에서 활성화해야 합니다.)"
+
+#: translate_sheet.csv:1241
+msgctxt ""
+"Riichi music \"Charge.\" Change the background music when you declare "
+"Riichi. (You may activate it in Dorm - Decoration.)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|8af3e4ac4ed798c07521d2a0b9b9e7f3"
+msgstr "리치 음악 “출전”. 리치를 선언할 때 배경 음악이 변경됩니다. (숙소 - 장식에서 활성화해야 합니다.)"
+
+#: translate_sheet.csv:1224
+msgctxt "Winning - K.O."
+msgid "sheet|ItemDefinitionItem.csv|name_en|125e7d03a3cd391fd7eaca14cd2068fd"
+msgstr "승리 - K.O."
+
+#: translate_sheet.csv:1199
+msgctxt ""
+"Riichi music \"Intensive Battle.\" Change the background music when you "
+"declare Riichi. (You may activate it in Dorm - Decoration.)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|97c1f7bd658c3a214f82fd289ebf469e"
+msgstr "리치 음악 “격투”. 리치를 선언할 때 배경 음악이 변경됩니다. (숙소 - 장식에서 활성화해야 합니다.)"
+
+#: translate_sheet.csv:1197
+msgctxt ""
+"Riichi music \"Serious Game.\" Change the background music when you declare "
+"Riichi. (You may activate it in Dorm - Decoration.)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|d880e2cb89f3a0c8bd4e83b7061c6f0b"
+msgstr "리치 음악 “진검승부”. 리치를 선언할 때 배경 음악이 변경됩니다. (숙소 - 장식에서 활성화해야 합니다.)"
+
+#: translate_sheet.csv:1022
+msgctxt ""
+"Zan Tsukimi isn't his real name, but the name of a desolate kendo gym. He picked this name only to remind himself the past that he was bearing. But when others asked him about it, he always responded with \"it's been too long to remember\".\n"
+"To him, Mahjong is only a habit, not a hobby, so he never gets addicted and stops playing after making a profit. He often uses this income to buy wine for himself, and buy candies for kids if he sees them hanging around. Unfortunately, kids are often wary of a middle-aged man like him and seldom come close."
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|fa8c6f3979d87abaa5af1d3227893a9d"
+msgstr ""
+"사실 \"츠키미 잔\"은 그의 본명이 아니라, 어느 황량한 도장의 이름이다. 그가 이름을 츠키미 잔으로 바꾼 것은 자신의 과거를 잊지 "
+"않기 위한 것이라고 한다.\n"
+"술을 좋아하고 아이를 돌보는 것도 좋아한다. 동네 아이들에게 사탕을 사 주기도 하지만, 불행히도 아이들은 겁을 먹을 뿐 가까이 다가가지 "
+"않는다."
+
+#: translate_sheet.csv:1021
+msgctxt "Liquor, taking care of kids"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_hobby_en|465c525b98ea0ba99050b2b2895a30a1"
+msgstr "술, 아이 돌보기"
+
+#: translate_sheet.csv:1020
+msgctxt "Tomoaki Maeno"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_cv_en|fca1fcfcff2071d84e797b71dc6fde8a"
+msgstr "마에노 토모아키"
+
+#: translate_sheet.csv:1018
+msgctxt "2nd July"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|5f02f08310da4e330fe646263fd5e7b6"
+msgstr "7월 2일"
+
+#: translate_sheet.csv:1016
+msgctxt "Zan Tsukimi"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|048f34af0dab6c9c4f8f29d94a148d20"
+msgstr "츠키미 잔"
+
+#: translate_sheet.csv:1015
+msgctxt ""
+"She firmly believes Mr. Rabbit is real and is always looking for the "
+"legendary \"wonderland\". Her friend, Haruna, encouraged her to learn "
+"Mahjong using the excuse of \"winning Mahjong Soul Shrine's Mahjong contest "
+"can open the road to the wonderland\". Despite being a beginner, she is "
+"quite famous in the Mahjong club because of her god-blessed luck."
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|ddf02810ab4e54a7c19e259abc3d234f"
+msgstr ""
+"\"토끼 씨\"가 존재한다고 믿고 있는 꿈꾸는 소녀. 항상 \"이상한 나라\"의 입구를 찾고있다. 친구인 하루나가 \"혼천신사의 "
+"마작대회에서 우승하면, 이상한 나라에 갈 수 있을지도?\"라고 들어, 현재 마작을 열심히 공부 중. 아직 초보지만, 신들린듯한 강운으로 "
+"마작계에서는 조금 유명인."
+
+#: translate_sheet.csv:1014
+msgctxt "Fairy tale, fantasy, toys"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_hobby_en|8958a7b7b5193d35a15f5e69a95d5afc"
+msgstr "동화, 판타지, 장난감"
+
+#: translate_sheet.csv:1013
+msgctxt "Mariya Ise"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_cv_en|6cbebf7e933cf0dc9dfeef49bbc1225b"
+msgstr "이세 마리야"
+
+#: translate_sheet.csv:1012
+msgctxt "6th June"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|9da1c8b84a36edc5130b6d0099dd5fdb"
+msgstr "6월 6일"
+
+#: translate_sheet.csv:1010
+msgctxt "Momo Hina"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|0fea285e212519578bff69471813e718"
+msgstr "히나 모모"
+
+#: translate_sheet.csv:991
+msgctxt ""
+"\"As the host of an adventure channel, Joseph has loved animals and the nature since his childhood. Despite his young age, he has almost traveled all around the globe. Under the suggestion of his friends, he started adventuring as a career. His humorous speech and bold actions brought the adventure show back to life. \n"
+"Sometimes, you can see him in a Mahjong club sitting in door for the entire afternoon.\""
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|4fe1759cf406ee53e64f90ee8a1abfe6"
+msgstr ""
+"\"탐험방송의 젊은 진행자. 어릴때부터 자연이나 동물을 좋아했고, 모험심이 넘쳐나 젊은 시절에 전세계를 누비고 다녔다.\n"
+"본래 탐험을 단순한 취미로만 생각했지만, 친한 친구의 어드바이스로 취미를 직업으로 삼기로했다. 자신의 유머와 대담한 행동으로 종영 "
+"직전이었던 탐험방송을 다시 태어나게 했다.\n"
+"이런 대자연의 사나이라도 가끔은 마작회관에 출몰할 때도 있다. 인도어의 의외의 행동도 보인다.\""
+
+#: translate_sheet.csv:864
+msgctxt ""
+"One of the first characters to appear in the Mahjong Soul Temple. She is the"
+" current priestess of the temple who claims to be human, despite her cat "
+"ears. To Ichihime, nothing is more important than eating and napping."
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|f7bd300fcb7e90decdc832f06de37585"
+msgstr ""
+"혼천 신사에 나타난 최초의 작사 중 한 명으로 혼천 신사의 현역 무녀. 고양이귀를 달고 있으며 자신이 인간이라 강력히 주장한다. 그녀에겐 "
+"밥과 잠이 무엇보다 중요하다."
+
+#: translate_sheet.csv:793
+msgctxt "An Email must be linked before making any purchase"
+msgid "sheet|InfoError.csv|en|abfc67efef53fefbfd20ce4f723dcef9"
+msgstr "구입하기 전에 이메일을 연동해야 합니다"
+
+#: translate_sheet.csv:733
+msgctxt "Cannot change decoration when you are ready for a game"
+msgid "sheet|InfoError.csv|en|664cb957f9590720c310c8d581f72b03"
+msgstr "게임 준비중에는 장식을 변경할 수 없습니다"
+
+#: translate_sheet.csv:719
+msgctxt "Multiple login attempts. Please try to quit the game and enter again"
+msgid "sheet|InfoError.csv|en|351fbe4359e919289196da2f31d309e2"
+msgstr "다중 로그인 시도. 게임을 종료하고 다시 입력해주세요"
+
+#: translate_sheet.csv:35
+msgctxt "I Want Them All!"
+msgid "sheet|ActivityActivity.csv|name_en|eba3624aa122f6d1f75b89efc086b271"
+msgstr "전부 다 먹을래!"
+
+#: translate_sheet.csv:34
+msgctxt "Sweet Rice Dumpling? Meat Rice Dumpling?"
+msgid "sheet|ActivityActivity.csv|name_en|1cd047dcc7408aec3e8a486ce0da8d80"
+msgstr "단맛파? 짠맛파?"
