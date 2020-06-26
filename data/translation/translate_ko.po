@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-25 11:20+0000\n"
+"PO-Revision-Date: 2020-06-26 13:08+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2905,7 +2905,7 @@ msgstr "정보"
 #: translate_json.csv:662
 msgctxt "Novice & Adept"
 msgid "json|lobby/lobby|3|1|0|0|0|0|3|82b2fc012beca3315ec7c1a3858d8220"
-msgstr "초심자 & 작사"
+msgstr "초심 & 작사"
 
 #: translate_json.csv:663
 msgctxt "Adept & Expert"
@@ -17302,7 +17302,7 @@ msgctxt ""
 "\\n3-player Rank Bonus: 1st +30, 2nd +0, 3rd - penalty based on current rank"
 msgid "sheet|StrStr.csv|en|461cc3b8d5b997a3c4a05539f29757ad"
 msgstr ""
-"등급 제한: 초심자 - 작사\n"
+"등급 제한: 초심 - 작사\n"
 "\\n"
 "4인 우마: 1위 +15, 2위 +5, 3위 -5, 4위 -15\n"
 "\\n"
@@ -20838,7 +20838,7 @@ msgstr "작사 & 작걸"
 #: translate_sheet.csv:2085
 msgctxt "Novice & Adept"
 msgid "sheet|StrStr.csv|en|82b2fc012beca3315ec7c1a3858d8220"
-msgstr "초심자 & 작사"
+msgstr "초심 & 작사"
 
 #: translate_sheet.csv:2084
 msgctxt "Rank Description"
