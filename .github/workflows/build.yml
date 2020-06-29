@@ -125,10 +125,10 @@ jobs:
           echo "::set-env name=VERSION_CODE::$VERSION"
           
       - name: Remove .git file
-        run: rm -rf .git
+        run: rm -rf ./korean/.git
       
       - name: Zip files
-        run: zip -r korean-${{ secrets.GITHUB_TOKEN }}.mspr ./*
+        run: zip -r korean-${{ env.VERSION_CODE }}.mspr ./*
         
       - name: Create Release
         id: create_release
@@ -148,8 +148,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./korean-${{ secrets.VERSION_CODE }}.mspr
-          asset_name: korean-${{ secrets.VERSION_CODE }}.mspr
+          asset_path: ./korean-${{ env.VERSION_CODE }}.mspr
+          asset_name: korean-${{ env.VERSION_CODE }}.mspr
           asset_content_type: application/zip
 
 
