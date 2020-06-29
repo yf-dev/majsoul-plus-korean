@@ -97,36 +97,36 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: exe_files
-          path: ./
+          path: ./korean
           
       - name: Download asset files
         uses: actions/download-artifact@v2
         with:
           name: asset_files
-          path: ./assets
+          path: ./korean/assets
           
       - name: Download translation files
         uses: actions/download-artifact@v2
         with:
           name: translation_files
-          path: ./data/translation
+          path: ./korean/data/translation
           
       - name: Download resourcepack json
         uses: actions/download-artifact@v2
         with:
           name: resourcepack_json
-          path: ./
+          path: ./korean/
+
+      - name: Set VERSION_CODE env
+          run: |
+            export VERSION="$(jq -r .version ./korean/resourcepack.json)"
+            echo "::set-env name=VERSION_CODE::$VERSION"
           
       - name: Remove .git file
         run: rm -rf .git
       
       - name: Zip files
-        run: zip -r korean.zip ./*
-        
-      - name: Set VERSION_CODE env
-        run: |
-          export VERSION="$(jq -r .version ./resourcepack.json)"
-          echo "::set-env name=VERSION_CODE::$VERSION"
+        run: zip -r korean-${{ secrets.GITHUB_TOKEN }}.mspr ./*
         
       - name: Create Release
         id: create_release
@@ -146,8 +146,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./korean.zip
-          asset_name: korean.zip
+          asset_path: ./korean-${{ secrets.GITHUB_TOKEN }}.mspr
+          asset_name: korean-${{ secrets.GITHUB_TOKEN }}.mspr
           asset_content_type: application/zip
 
 
