@@ -118,9 +118,9 @@ jobs:
           path: ./korean/
 
       - name: Set VERSION_CODE env
-          run: |
-            export VERSION="$(jq -r .version ./korean/resourcepack.json)"
-            echo "::set-env name=VERSION_CODE::$VERSION"
+        run: |
+          export VERSION="$(jq -r .version ./korean/resourcepack.json)"
+          echo "::set-env name=VERSION_CODE::$VERSION"
           
       - name: Remove .git file
         run: rm -rf .git

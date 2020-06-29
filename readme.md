@@ -25,12 +25,10 @@
 
 ### 2. 적용방법
 
-1. 작혼 Plus 런처를 실행하고, 좌측 Resource Packs 메뉴를 선택합니다.
-2. 우상단의 폴더 열기 아이콘을 클릭하여 리소스 팩 폴더를 엽니다.
-3. [릴리즈 페이지](https://github.com/yf-dev/majsoul-plus-korean/releases/latest)에서 `korean.zip`을 클릭하여 `작혼 Plus: 한국어 리소스 팩`을 다운로드합니다.
-4. 다운로드한 `korean.zip`을 리소스 팩 폴더에 압축 해제합니다. (압축 해제된 폴더의 이름이 `korean`이어야합니다.)
-5. 작혼 Plus 런쳐 상단의 새로고침 아이콘을 클릭합니다.
-6. 나타난 한국어 리소스 팩을 활성화합니다.
+1. [릴리즈 페이지](https://github.com/yf-dev/majsoul-plus-korean/releases/latest)에서 `korean-<버전>.mspr`을 클릭하여 `작혼 Plus: 한국어 리소스 팩`을 다운로드합니다.
+2. 작혼 Plus 런처를 실행하고, 좌측 Resource Packs 메뉴를 선택합니다.
+3. 다운로드한 `korean-<버전>.mspr`을 작혼 Plus 런처 위로 끌어서 놓습니다.
+4. 나타난 한국어 리소스 팩을 활성화합니다.
 
 
 ### 3. Asset 갱신
