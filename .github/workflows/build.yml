@@ -92,6 +92,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
+        with:
+          path: ./korean
         
       - name: Download exe files
         uses: actions/download-artifact@v2
@@ -146,8 +148,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./korean-${{ secrets.GITHUB_TOKEN }}.mspr
-          asset_name: korean-${{ secrets.GITHUB_TOKEN }}.mspr
+          asset_path: ./korean-${{ secrets.VERSION_CODE }}.mspr
+          asset_name: korean-${{ secrets.VERSION_CODE }}.mspr
           asset_content_type: application/zip
 
 
