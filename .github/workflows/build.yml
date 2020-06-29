@@ -108,7 +108,7 @@ jobs:
       - name: Download translation files
         uses: actions/download-artifact@v2
         with:
-          name: exe_files
+          name: translation_files
           path: ./data/translation
           
       - name: Download resourcepack json
