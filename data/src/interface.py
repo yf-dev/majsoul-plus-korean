@@ -4,7 +4,7 @@ import sys
 import os
 import shutil
 from pathlib import Path
-from common import run_cmd
+from common import run_cmd, log_normal, log_debug
 
 DEFAULT_PATHS = {}
 
@@ -31,10 +31,16 @@ else:
 
 def action_download(args):
     if hasattr(args, 'clear') and args.clear:
+        log_normal('Remove downloaded files...', args.verbose)
         shutil.rmtree(args.original_assets_path, ignore_errors=True)
+        log_debug('Remove complete', args.verbose)
     if hasattr(args, 'copy') and args.copy:
         from copy_cached_asset import main as copy_cached_asset
+        log_normal('Copy cached static files...', args.verbose)
         copy_cached_asset(args.original_assets_path, args.cached_static_path)
+        log_debug('Copy complete', args.verbose)
+
+    log_normal('Download assets...', args.verbose)
 
     if not hasattr(args, 'skip_exist'):
         setattr(args, 'skip_exist', False)
@@ -47,27 +53,37 @@ def action_download(args):
     from download_assets import main as download_assets
     download_assets(not args.skip_exist, args.force_update, args.original_assets_path, args.max_tries)
 
+    log_debug('Download complete', args.verbose)
+
 def action_template(args):
+    log_normal('Generate templates...', args.verbose)
+
+    log_normal('Generate config_pb2.py file from config.proto...', args.verbose)
     proto_temp = Path(args.temp_path) / "proto"
     proto_temp.mkdir(parents=True, exist_ok=True)
 
-    if not run_cmd([
+    config_cmd = [
         args.protoc_path,
         f'--proto_path={Path(args.original_assets_path) / "res" / "proto"}',
         f'--python_out={proto_temp}',
         'config.proto'
-    ]):
+    ]
+    log_debug(' '.join(config_cmd), args.verbose)
+    if not run_cmd(config_cmd):
         sys.exit(-1)
 
     from generate_sheet_proto import main as generate_sheet_proto
     generate_sheet_proto(args.original_assets_path, args.temp_path)
 
-    if not run_cmd([
+    log_normal('Generate sheets_pb2.py file from sheets.proto...', args.verbose)
+    sheets_cmd = [
         args.protoc_path,
         f'--proto_path={proto_temp}',
         f'--python_out={proto_temp}',
         'sheets.proto'
-    ]):
+    ]
+    log_debug(' '.join(sheets_cmd), args.verbose)
+    if not run_cmd(sheets_cmd):
         sys.exit(-1)
 
     from export_sheets import main as export_sheets
@@ -81,6 +97,8 @@ def action_template(args):
 
     from generate_translation_po import main as generate_translation_po
     generate_translation_po(args.translation_path)
+
+    log_debug('Generate complete', args.verbose)
 
 
 def action_atlas(args):
@@ -99,6 +117,7 @@ def action_atlas(args):
 
 
 def action_build(args):
+    log_normal('Build...', args.verbose)
     from export_sheets import main as export_sheets
     export_sheets(args.original_assets_path, args.temp_path)
 
@@ -133,11 +152,14 @@ def action_build(args):
     from generate_resourcepack import main as generate_resourcepack
     generate_resourcepack(args.dist_path)
 
+    log_debug('Build complete', args.verbose)
+
 if __name__ == '__main__':
     orig_env = dict(os.environ)
     try:
         parser = argparse.ArgumentParser()
         parser.add_argument('--lang', help='language to translate', type=str, choices=('en', 'jp'))
+        parser.add_argument('--verbose', help='verbose result', action='store_true', default=False)
         parser.add_argument('--dist-path', help=f'path to save built data (default={DEFAULT_PATHS["dist"]})', type=str, default=DEFAULT_PATHS['dist'])
         parser.add_argument('--cached-static-path', help=f'path of cached static files (default={DEFAULT_PATHS["cached_static"]})', type=str, default=DEFAULT_PATHS['cached_static'])
         parser.add_argument('--original-assets-path', help=f'path to save downloaded original assets (default={DEFAULT_PATHS["original_assets"]})', type=str, default=DEFAULT_PATHS['original_assets'])
@@ -183,6 +205,9 @@ if __name__ == '__main__':
 
         if args.lang:
             os.environ['MAJSOUL_LANG'] = args.lang
+
+        if args.verbose:
+            os.environ['MAJSOUL_VERBOSE'] = '1'
 
         if args.action == 'download':
             action_download(args)

@@ -1,16 +1,17 @@
 #! /usr/bin/python
 import os
 from pathlib import Path
-from common import run_cmd
+from common import run_cmd, log_normal, log_debug, log_warn, log_info, log_error
 from shutil import copyfile
 import json
 
 lang = os.getenv('MAJSOUL_LANG', 'en')
+verbose = int(os.getenv('MAJSOUL_VERBOSE', 0)) == 1
 
 def call_fontbm(font_file, font_name, font_size, fontbm_path, fonts_path, temp_path):
     texture_size = 2 ** 10
     while True:
-        result = run_cmd([
+        cmd = [
             str(fontbm_path),
             f'--font-file={fonts_path / font_file}',
             f'--output={temp_path / "fonts" / font_name}',
@@ -22,22 +23,28 @@ def call_fontbm(font_file, font_name, font_size, fontbm_path, fonts_path, temp_p
             f'--texture-width={texture_size}',
             f'--texture-height={texture_size}',
             f'--font-size={font_size}'
-        ], False)
+        ]
+        log_debug(f'Call {" ".join(cmd)}', verbose)
+        result = run_cmd(cmd, False)
         if result:
             break
         texture_size *= 2
 
 def main(dist_path, fonts_path, temp_path, fontbm_path):
+    log_normal('Generate font images...', verbose)
+
     dist_path = Path(dist_path)
     fonts_path = Path(fonts_path)
     temp_path = Path(temp_path)
     fontbm_path = Path(fontbm_path)
     (temp_path / 'fonts').mkdir(parents=True, exist_ok=True)
 
+    log_info('Read fontmap.json...', verbose)
     with open(fonts_path / 'fontmap.json', 'r', encoding='utf-8') as fontmap:
         fonts = json.load(fontmap)
 
     for font_name in fonts[lang]:
+        log_info(f'Generate font image for {font_name}...', verbose)
         font_data = fonts[lang][font_name]
         call_fontbm(
             font_data[0],
@@ -55,10 +62,13 @@ def main(dist_path, fonts_path, temp_path, fontbm_path):
         str(temp_path)
     )
 
+    log_info(f'Copy fnt files...', verbose)
     dist_font_path = dist_path / 'assets' / 'bitmapfont' / lang
     dist_font_path.mkdir(parents=True, exist_ok=True)
     for font_name in fonts[lang]:
         copyfile(temp_path / 'fonts' / f'{font_name}.fnt', dist_font_path / f'{font_name}.fnt')
+
+    log_info('Generate comlete', verbose)
 
 
 if __name__ == '__main__':

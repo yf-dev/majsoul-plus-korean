@@ -3,11 +3,17 @@ import csv
 import json
 from pathlib import Path
 import os
+from common import log_normal, log_debug, log_warn, log_info, log_error
 lang = os.getenv('MAJSOUL_LANG', 'en')
+verbose = int(os.getenv('MAJSOUL_VERBOSE', 0)) == 1
 
 def main(translation_path, dist_path, temp_path):
+    log_normal('Extract characters from assets...', verbose)
+
+    log_info('Add defualt ASCII characters...', verbose)
     chars = set(chr(x) for x in range(32, 127))
 
+    log_info('Read characters from csv files...', verbose)
     for csv_path in sorted((Path(temp_path) / 'csv').glob('*.csv')):
         with open(csv_path, 'r', encoding='utf-8-sig') as csvfile:
             csv_reader = csv.reader(csvfile)
@@ -42,15 +48,18 @@ def main(translation_path, dist_path, temp_path):
             for i, child in enumerate(node['child']):
                 parse_node(child, f'{path}|{i}')
 
+    log_info(f'Read characters from ui_{lang}.json...', verbose)
     with open(Path(dist_path) / 'assets' / 'uiconfig' / f'ui_{lang}.json', 'r', encoding='utf-8') as jsonfile:
         ui_en = json.load(jsonfile)
         for node_key in ui_en:
             parse_node(ui_en[node_key], node_key)
 
+    log_info('Write characters to chars.txt...', verbose)
     sorted_chars = sorted(chars)
     with open(Path(temp_path) / 'chars.txt', 'w', encoding='utf-8') as charsfile:
         for char in sorted_chars:
             charsfile.write(char)
+    log_info('Extract complete', verbose)
 
 if __name__ == '__main__':
     main(

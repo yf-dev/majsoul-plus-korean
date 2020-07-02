@@ -2,13 +2,18 @@
 import csv
 from pathlib import Path
 import os
+from common import log_normal, log_debug, log_warn, log_info, log_error
 lang = os.getenv('MAJSOUL_LANG', 'en')
+verbose = int(os.getenv('MAJSOUL_VERBOSE', 0)) == 1
 
 def main(translation_path, temp_path):
+    log_normal('Generate translate_sheet.csv...', verbose)
     translate_sheet_rows = []
 
+    log_info('Read csv files...', verbose)
     csv_dir_path = Path(temp_path) / 'csv'
     for csv_path in sorted(csv_dir_path.glob('*.csv')):
+        log_info(f'Read {csv_path}...', verbose)
         with open(csv_path, 'r', encoding='utf-8-sig') as csvfile:
             csv_reader = csv.reader(csvfile)
             is_header = True
@@ -41,6 +46,7 @@ def main(translation_path, temp_path):
     # unique element
     translate_sheet_rows = list(dict.fromkeys(translate_sheet_rows))
 
+    log_info('Write translate_sheet.csv...', verbose)
     templates_path = Path(translation_path) / 'templates'
     templates_path.mkdir(parents=True, exist_ok=True)
 
@@ -50,6 +56,8 @@ def main(translation_path, temp_path):
         for row in translate_sheet_rows:
             r = row.split('|')
             csv_writer.writerow(r + [r[2]])
+    
+    log_info('Generate complete', verbose)
 
 if __name__ == '__main__':
     main(
