@@ -1,5 +1,8 @@
 name: Build
-on: push
+on:
+  push:
+  repository_dispatch:
+    types: [update-original-translation]
 
 jobs:
   build_exe:
