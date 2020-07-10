@@ -146,6 +146,9 @@ def action_build(args):
     from generate_fonts import main as generate_fonts
     generate_fonts(args.dist_path, args.fonts_path, args.temp_path, args.fontbm_path)
 
+    from generate_scene import main as generate_scene
+    generate_scene(args.original_assets_path, args.dist_path)
+
     from copy_translated_asset import main as copy_translated_asset
     copy_translated_asset(args.translation_path, args.dist_path)
 
