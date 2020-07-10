@@ -13,3 +13,4 @@ assets/*
 !assets/.gitkeep 
 resourcepack.json
 majsoul-plus-korean.exe
+data/.env
