@@ -6,13 +6,15 @@ from datetime import datetime
 from common import log_normal, log_debug, log_warn, log_info, log_error
 lang = os.getenv('MAJSOUL_LANG', 'en')
 verbose = int(os.getenv('MAJSOUL_VERBOSE', 0)) == 1
+resourcepack_id = os.getenv('MAJSOUL_RESOURCEPACK_ID', 'korean')
+resourcepack_name = os.getenv('MAJSOUL_RESOURCEPACK_NAME', '한국어(글로벌 서버)')
 
 def main(dist_path):
     log_normal('Generate resourcepack.json...', verbose)
     resourcepack_data = {
-        'id': 'korean',
+        'id': resourcepack_id,
         'version': f'3.0.{datetime.now().strftime("%Y%m%d%H%M%S")}',
-        'name': '한국어(글로벌 서버)',
+        'name': resourcepack_name,
         'author': 'Nesswit',
         'description': '인터페이스를 한국어로 표시합니다.',
         'preview': 'preview.png',
