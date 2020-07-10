@@ -12,4 +12,4 @@ def main(original_assets_path):
     log_info('Unpack complete', verbose)
 
 if __name__ == '__main__':
-    main(str(Path('./dev-resources/assets-latest')))
+    main(str(Path('./assets-original')))

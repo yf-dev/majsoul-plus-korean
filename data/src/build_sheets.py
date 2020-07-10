@@ -109,7 +109,7 @@ def main(original_assets_path, translation_path, dist_path, temp_path):
 
 if __name__ == '__main__':
     main(
-        str(Path('./dev-resources/assets-latest')),
+        str(Path('./assets-original')),
         str(Path('./translation')),
         str(Path('./dist/korean')),
         str(Path('./temp'))

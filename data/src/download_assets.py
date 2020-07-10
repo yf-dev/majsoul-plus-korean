@@ -132,4 +132,4 @@ def main(overwrite_exist, force_update, original_assets_path, max_tries):
     log_info('Download complete', verbose)
 
 if __name__ == '__main__':
-    main(True, False, str(Path('./dev-resources/assets-latest')), 10)
+    main(True, False, str(Path('./assets-original')), 10)
