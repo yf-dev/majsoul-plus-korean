@@ -1,6 +1,7 @@
 name: Build
 on:
   push:
+  workflow_dispatch:
   repository_dispatch:
     types: [update-original-translation]
 
