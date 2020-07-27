@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-27 11:09+0000\n"
+"PO-Revision-Date: 2020-07-28 02:23+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -60311,3 +60311,407 @@ msgctxt "Path of Trial"
 msgid ""
 "json|both_ui/otherplayerinfo|0|2|5|3|0|c018f58f4c2074df948bc2e872faa998"
 msgstr "시련의 길"
+
+#: translate_sheet.csv:2898
+msgctxt ""
+"Trial Points\\n\n"
+"in the Path of Trial\n"
+"Achieve 1st place+16\n"
+"Achieve 2nd place+10\n"
+"Achieve 3rd place+6\n"
+"Achieve 4th place+3\n"
+"Winning(below Mangan)+1\n"
+"Winning(Mangan)+2\n"
+"Winning(Haneman)+3\n"
+"Winning(Baiman)+4\n"
+"Winning(Sanbaiman)+6\n"
+"Winning(Yakuman and above)+8\\n\n"
+"When Trial Points are full, you can use the Stamp button.\\nDuring a challenge, you can use the Stamp to mark an uncompleted goal as successfully completed.\\nStamps cannot be used if the challenge is already successful or failed.\\n"
+msgid "sheet|StrStr.csv|en|b6b5f3ab17c114f7d5c4a1f2a7b53973"
+msgstr ""
+"시련 포인트\\n"
+"\n"
+"시련의 길에서\n"
+"1위 달성: +16\n"
+"2위 달성: +10\n"
+"3위 달성: +6\n"
+"4위 달성: +3\n"
+"화료(만관 미만): +1\n"
+"화료(만관): +2\n"
+"화료(하네만): +3\n"
+"화료(배만): +4\n"
+"화료(삼배만): +6\n"
+"화료(역만 이상): +8\\n"
+"\n"
+"시련 포인트를 채우면 도장 버튼을 사용할 수 있습니다.\\n"
+"도전 중 도장을 써서 아직 달성하지 못한 과제를 달성한 것처럼 만들 수 있습니다.\\n"
+"이미 성공이나 실패가 확정된 경우에는 도장을 사용할 수 없습니다.\\n"
+
+#: translate_sheet.csv:2896
+msgctxt "Reward:"
+msgid "sheet|StrStr.csv|en|9dc18cdd11b4973ecee8ea9d4ed30b63"
+msgstr "보상:"
+
+#: translate_sheet.csv:2895
+msgctxt "Remaining Challenges:"
+msgid "sheet|StrStr.csv|en|ab0d5a26f182e04992cb968448890668"
+msgstr "남은 도전:"
+
+#: translate_sheet.csv:2894
+msgctxt "Weekly rewards"
+msgid "sheet|StrStr.csv|en|a0a2ca7163df8930c11f3c1a45dd04d3"
+msgstr "주간 보상"
+
+#: translate_sheet.csv:2893
+msgctxt ""
+"You have finished all the challenges on the ticket and reach the limit of "
+"re-publishing. Please try tomorrow."
+msgid "sheet|StrStr.csv|en|78ad3a0cd093f4e5bf54a1dae76b6315"
+msgstr "티켓의 도전 과제를 전부 달성하였습니다. 티켓 재발행 횟수도 모두 사용하였습니다. 내일 도전해주세요."
+
+#: translate_sheet.csv:2892
+msgctxt ""
+"You have finished all the challenges on the ticket. Please click the \"Re-"
+"publish\" button to get new challenges."
+msgid "sheet|StrStr.csv|en|d8305e8a48f2519026611d8a019058b0"
+msgstr "티켓의 도전 과제를 전부 달성하였습니다. \"재발행\" 버튼을 눌러서 새 도전 과제를 받으세요."
+
+#: translate_sheet.csv:2891
+msgctxt ""
+"The stamp is unavailble after finishing all the challenges on the ticket."
+msgid "sheet|StrStr.csv|en|31c0d49fed5d4ff8b0d116c2264461bb"
+msgstr "티켓의 도전 과제를 모두 달성한 이후에는 도장을 사용할 수 없습니다."
+
+#: translate_sheet.csv:2890
+msgctxt "Receive the Trial Rank reward"
+msgid "sheet|StrStr.csv|en|1d851332688f329f6df00c7a917301cd"
+msgstr "시련 등급 보상 받기"
+
+#: translate_sheet.csv:2889
+msgctxt "Ranking of Trial Rank"
+msgid "sheet|StrStr.csv|en|b3ee1bdb9f8a44546bec54ba4735ec55"
+msgstr "시련 등급 순위"
+
+#: translate_sheet.csv:2888
+msgctxt "Friends' Ranking"
+msgid "sheet|StrStr.csv|en|fb2fd76f1acb1fcd6566b68da25717fd"
+msgstr "친구 순위"
+
+#: translate_sheet.csv:2886
+msgctxt "You have reached the max number of re-publishing today"
+msgid "sheet|StrStr.csv|en|4670daa3022baf6c38088f966bb38710"
+msgstr "오늘의 티켓 재발행 횟수를 전부 사용하였습니다"
+
+#: translate_sheet.csv:2885
+msgctxt ""
+"Certified and published by Mahjong Soul Shrine. All rights reserved. Expiry "
+"Date: 2020/10/24 1:59 P.M. (UTC-7)."
+msgid "sheet|StrStr.csv|en|a42811a6e8e28af56f079c4aa11510e6"
+msgstr "혼천신사에서 발행 및 인증됨. 모든 권리는 혼천신사에 있습니다. 만료일: 2020/10/24 1:59 P.M. (UTC-7)."
+
+#: translate_sheet.csv:2884
+msgctxt "Complete all the goals on this ticket to upgrade to Lv{0}."
+msgid "sheet|StrStr.csv|en|aba209b901a8d9d253024d4a6927236e"
+msgstr "Lv{0}(으)로 업그레이드하려면 이 티켓의 모든 목표를 완료하세요."
+
+#: translate_sheet.csv:2883
+msgctxt ""
+"Please select a goal in progress and stamp \"Trial Succeeded\". Click the "
+"blank to cancel it."
+msgid "sheet|StrStr.csv|en|22cb03a876ddef5e957ca62b28b6cdd8"
+msgstr "진행 중인 목표를 선택하고 \"시련 통과\" 도장을 찍으세요. 취소하려면 빈 칸을 클릭하세요."
+
+#: translate_sheet.csv:2882
+msgctxt ""
+"Would you like to use {0} Coppers to reset the progress and get a new Goal "
+"Ticket? You can re-publish the ticket {1} more time(s) today."
+msgid "sheet|StrStr.csv|en|f745f06edca966d6ff9a62545dcd4a63"
+msgstr ""
+"{0} 동전을 사용해서 현재 티켓을 포기하고 새 목표 티켓을 받으시겠습니까? 오늘의 티켓 재발행 가능 횟수는 {1}회 남았습니다."
+
+#: translate_sheet.csv:2880
+msgctxt "Path of Trial"
+msgid "sheet|StrStr.csv|en|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
+
+#: translate_sheet.csv:1975
+msgctxt "Experience"
+msgid "sheet|SpotSpot.csv|name_en|4038d5a85906029f46137a4164c51073"
+msgstr "경험"
+
+#: translate_sheet.csv:1974
+msgctxt "Date"
+msgid "sheet|SpotSpot.csv|name_en|44749712dbec183e983dcd78a7736c41"
+msgstr "날짜"
+
+#: translate_sheet.csv:1973
+msgctxt "Dinner"
+msgid "sheet|SpotSpot.csv|name_en|6aa545ff0b2a89f8257d5a003b4635a8"
+msgstr "저녁식사"
+
+#: translate_sheet.csv:1971
+msgctxt "Mahjong competition"
+msgid "sheet|SpotSpot.csv|name_en|3408c2f8b2a719a7dbc985590c75fa1c"
+msgstr "마작대회"
+
+#: translate_sheet.csv:1969
+msgctxt "Agate"
+msgid "sheet|SpotSpot.csv|name_en|d5591e26b8fd12d6e7668234893fe9d9"
+msgstr "마노"
+
+#: translate_sheet.csv:1967
+msgctxt "Tenhoukaku"
+msgid "sheet|SpotSpot.csv|name_en|0634f213ba53f7b2b155e5ef0c3af787"
+msgstr "천화각"
+
+#: translate_sheet.csv:1966
+msgctxt "Bond to unlock"
+msgid "sheet|SpotSpot.csv|lock_tips_en|2b9db7c0591c706cd54bf173b708a2b5"
+msgstr "인연으로 해제"
+
+#: translate_sheet.csv:1965
+msgctxt "A Cat's Memory"
+msgid "sheet|SpotSpot.csv|name_en|959ff71a3f1b262c8a003aed2a21b7aa"
+msgstr "고양이의 기억"
+
+#: translate_sheet.csv:1963
+msgctxt "Strange Rumors"
+msgid "sheet|SpotSpot.csv|name_en|3fceda87c4010ce3e29fd40b90d317b1"
+msgstr "이상한 소문"
+
+#: translate_sheet.csv:1964
+msgctxt "Unlock at Bond Lv5"
+msgid "sheet|SpotSpot.csv|lock_tips_en|e3aeb536a04cdc092f6e7cc96b7d04d3"
+msgstr "인연 Lv5에서 해제"
+
+#: translate_sheet.csv:1961
+msgctxt "Unlock at Bond Lv4"
+msgid "sheet|SpotSpot.csv|lock_tips_en|d5ef967ebacea2b196a3b8d3e1cf9610"
+msgstr "인연 Lv4에서 해제"
+
+#: translate_sheet.csv:1958
+msgctxt "Unlock at Bond Lv3"
+msgid "sheet|SpotSpot.csv|lock_tips_en|f33d691445a5c1e48a97a7d7bd1ad274"
+msgstr "인연 Lv3에서 해제"
+
+#: translate_sheet.csv:1955
+msgctxt "Unlock at Bond Lv2"
+msgid "sheet|SpotSpot.csv|lock_tips_en|423acefb489ebcd9116860b13f57426c"
+msgstr "인연 Lv2에서 해제"
+
+#: translate_sheet.csv:1952
+msgctxt "Unlock at Bond Lv1"
+msgid "sheet|SpotSpot.csv|lock_tips_en|4828f1e5284a983280ad2bd484b7baae"
+msgstr "인연 Lv1에서 해제"
+
+#: translate_sheet.csv:1960
+msgctxt "Ichihime Gone Missing"
+msgid "sheet|SpotSpot.csv|name_en|5dea8ee6c30e0ae7dc37f7570c44150d"
+msgstr "이치히메 실종사건"
+
+#: translate_sheet.csv:1957
+msgctxt "Nekomata - Confusion"
+msgid "sheet|SpotSpot.csv|name_en|dda9469b99724d38d94370f90d12c76c"
+msgstr "네코마타 - 당황"
+
+#: translate_sheet.csv:1954
+msgctxt "Nekomata - Encounter"
+msgid "sheet|SpotSpot.csv|name_en|83c416984872af8b7e4f98ebfa3fc2a0"
+msgstr "네코마타 - 만남"
+
+#: translate_sheet.csv:1951
+msgctxt "Nekomata - Rumor"
+msgid "sheet|SpotSpot.csv|name_en|22282f330f3c325ba28b6ae82bf36e01"
+msgstr "네코마타 - 소문"
+
+#: translate_sheet.csv:1953
+msgctxt ""
+"\"There are human-eating monsters in the forest nearby.\"\n"
+"Nobody knew when this rumor started to spread around the villagers, but it somehow developed into many versions.\n"
+"A young traveler quietly listened to a young boy and a young girl arguing about this rumor as he blew away the hot steam on his tea.\n"
+"\"It's a female monster cheated by a man. I heard she loved to dig out men's eye balls and eat them.\"\n"
+"\"Huh? You girls are so much trouble. You just can't have any story without love or relationship. It was nothing but an aggressive monster. I'm sure the adults will get monks to cleanse it sooner or later.\"\n"
+"\"You are bluffing, Tarou. 'Nothing but a monster'? You don't even dare to enter the forest.\"\n"
+"\"Shut, shut up!\"\n"
+"The young traveler slowly finished the last bite of his food and interrupted them as the two almost started a fight. \"Excuse me. I'd like to enter the forest, but which way should I take?\"\n"
+"\"Are you going to the forest?!\"\n"
+"\"Wow, you are going to the forest!\"\n"
+"Both the boy and the girl were shocked.\n"
+"\"I am the master of the Shrine. Just like the 'monks' this young fella mentioned, I also have the ability to cleanse monsters.\"\n"
+"\"Are you serious?\" The boy looked at him in doubt. There's no way that this somewhat handsome man can be a monster fighter.\n"
+"Seeing their reaction, the younger traveler let out a little sigh and gave up asking. Nobody ever believed in his identity, but he had no clue what went wrong.\n"
+"\"Wait a sec,\" The boy stopped the traveler as he picked up his hat and prepared to leave. \"I… I will take you there.\"\n"
+"The girl looked at him in shock, but the boy headed straight toward a small path full of weeds. He didn't even look back to check if the traveler was following.\n"
+"The forest was right at the end of the path. There were weeds everywhere – ever since the rumor of the monster started, no one had ever dared to enter.\n"
+"At the entrance of the forest, the boy stopped and asked the traveler again. \"Are you sure you are going in?\"\n"
+"\"Yes.\"\n"
+"\"But, there is a… man-eating monster!\"\n"
+"\"Have you seen it?\"\n"
+"\"No…\"\n"
+"\"Has somebody you know got eaten?\"\n"
+"\"N-no…\"\n"
+"\"Then why are you so sure about this man-eating monster?\"\n"
+"\"Because all the adults said so… And how can there be a monster that doesn't eat humans?!\"\n"
+"\"There's an old proverb that says 'the only difference between a buddha and a demon is the thought'. Put it in layman's terms, whether you are a good or a bad person has nothing to do with your origin. It depends on what you want to do. And the same applies to monsters... Aye— You don't understand, do you...\" The traveler looked at the boy and smiled with resignation. No matter how many times he repeated this, humans only believed in what they wanted to believe.\n"
+"Prejudice isn't something that can be removed with just a few conversations."
+msgid "sheet|SpotSpot.csv|content_en|be474475d0d3466de7f5c5fe28010fe0"
+msgstr ""
+"\"이 근처 숲에 사람을 잡아먹는 요괴가 산다.\"\n"
+"언제부터인지 모르겠지만, 사람들 사이에 이런 소문이 퍼지기 시작했다. 소문이라곤 하지만 여러 종류가 있어서 전체적인 맥락이나 세부적인 "
+"사항은 조금씩 달랐다.\n"
+"젊은 여행객은 차에 입김을 불며 두 아이가 말싸움하는 것을 가만히 지켜봤다.\n"
+"\"남자한테 속은 것에 원한을 품고 요괴가 된 여자야! 그래서 남자만 집요하게 노려서 눈알을 파먹는다고!\"\n"
+"\"뭐? 말도 안 되는 얘기야. 여자들은 뭐든지 사랑 얘기로 만든다니까. 날뛰고 다녀봤자 어차피 요괴잖아? 어른들이 곧 스님을 불러 "
+"퇴치해줄 거라고!\"\n"
+"\"타로는 언제나 허세를 부린다니까! 숲에 들어가지도 못하면서!\"\n"
+"\"누, 누가 못 들어간다고 그래!\"\n"
+"여행객은 새빨간 얼굴을 하고 말다툼을 하는 둘을 보며 마지막 경단을 먹고선 아이들에게 말을 걸었다. \"얘들아, 숲에 들어가 보려 하는데 "
+"어느 길로 가야 하는지 아니?\"\n"
+"\"아저씨, 숲에 가려고요!?\"\n"
+"\"아저씨, 숲에 간다고!?\"\n"
+"아이들이 동시에 대답했다.\n"
+"\"이래 봬도 신사에서 일하는 몸이라서. 거기 오빠 말대로 요괴를 퇴치하러 왔단다.\"\n"
+"\"아저씨가? 신사?\" 소년은 반신반의한 기색으로 여행객을 뚫어지게 쳐다봤다.\n"
+"늠름하고 젊어 보이는 여행객은 어딜 봐도 요괴를 퇴치할만한 사람으론 보이지 않았다.\n"
+"여행객은 한숨을 쉬더니 길을 묻는 것을 포기했다. 몇 년간 그가 신주라는 걸 믿어준 사람은 아무도 없었다. 이거 참, 뭐 때문에 그런 "
+"걸까.\n"
+"\"기, 기다려봐\" 소년은 옆에 두었던 모자를 쓰고 길을 나서려던 여행객을 불러 세웠다. \"내가 데려다줄게. 이쪽이야.\"\n"
+"소녀가 놀란 표정으로 지켜보는 가운데, 소년은 여행객이 잘 따라오고 있는지 아닌지도 확인하지 않고 산속으로 이어지는 좁은 길을 쪼르르 "
+"걸어갔다.\n"
+"여행객은 그 발자국을 묵묵히 뒤따라갔다.\n"
+"좁은 길의 끝에는 울창한 숲이 있었다. 벌초한 흔적도 없이 풀이 무성하게 나 있는 것을 보면, 요괴 소문이 퍼진 이후로는 아무도 안에 "
+"들어가지 않은 모양이다.\n"
+"숲의 입구에 도착하니, 소년은 발을 멈추고 떨리는 목소리로 \"아저씨, 진짜 갈 거야?\"라며 다시 물었다.\n"
+"\"어, 들어갈 거야.\"\n"
+"\"하, 하지만 사람을 잡아먹는 요괴라고!\"\n"
+"\"본 적은 있니?\"\n"
+"\"없, 없긴 한데.\"\n"
+"\"그러면 아는 사람 중에 잡아먹힌 사람이 있니?\"\n"
+"\"잡아먹힌 사람도 없어\"\n"
+"\"그러면 왜 그 요괴가 사람을 잡아먹는다는 소문을 믿는 거야?\"\n"
+"\"어른들이 다들 그렇게 말하잖아! 사람을 잡아먹지 않는 요괴가 어디에 있어!\"\n"
+"\"도적이 되는 것도, 부처가 되는 것도 마음이라 하는 말이 있단다.\" 여행객은 천천히 설교를 시작했다. \"그 사람이 선한지 악한지는 "
+"그 사람의 출신이나 지위랑은 관계가 없단다. 모든 건 그 사람의 마음에 달린 것이지. 그건 요괴도 마찬가지란다.\"\n"
+"무언가를 떠올린 듯 한 여행객이 말을 끊고, 곤혹스러워하는 소년을 보며 다시 말을 꺼내며 웃었다. \"뭐, 너에겐 아직 어려운 "
+"이야기겠구나.\"\n"
+"요즘 세상에 이런 말을 해도 아무도 믿어주지 않겠지. 사람들은 모두 자기가 믿으려고 하는 것만 믿는다. 요괴에 대한 편견을 한두 번 "
+"대화로 깨버린다는 것은 야무진 꿈이다."
+
+#: translate_sheet.csv:1950
+msgctxt "Unlock Ending - A secret between just the two of us"
+msgid "sheet|SpotRewards.csv|content_en|4e964d848a9db4a3b8e1058bbf120200"
+msgstr "엔딩 잠금 해제 - 우리 둘만의 비밀"
+
+#: translate_sheet.csv:1949
+msgctxt "Unlock Ending - I like you"
+msgid "sheet|SpotRewards.csv|content_en|9a5773bc3b782f0ab746bfaeeecdb65a"
+msgstr "엔딩 잠금 해제 - 너를 좋아해"
+
+#: translate_sheet.csv:1948
+msgctxt "Unlock Ending - The sunset and the sweetness"
+msgid "sheet|SpotRewards.csv|content_en|20c8825533d7dd9a6c5d1476afcca49b"
+msgstr "엔딩 잠금 해제 - 해질녘과 달콤함"
+
+#: translate_sheet.csv:1947
+msgctxt "Unlock Ending - I feel like I've lost something..."
+msgid "sheet|SpotRewards.csv|content_en|48fdae49a9c3b270cd6ea425b9ace628"
+msgstr "엔딩 잠금 해제 - 무언가를 잊어버린 기분이 들어..."
+
+#: translate_sheet.csv:1946
+msgctxt "Unlock Ending - The meal was... toxic..."
+msgid "sheet|SpotRewards.csv|content_en|31e922f17e06427c34cfdaa10a6b4eae"
+msgstr "엔딩 잠금 해제 - 식사에... 독이..."
+
+#: translate_sheet.csv:1945
+msgctxt "Unlock Ending - I will do anything for you!"
+msgid "sheet|SpotRewards.csv|content_en|01ce5423dcaf5f721f2885cafc188e75"
+msgstr "엔딩 잠금 해제 - 널 위해서라면 뭐든지 할 수 있어!"
+
+#: translate_sheet.csv:1944
+msgctxt "Unlock the Ending - Fighting fire with fire"
+msgid "sheet|SpotRewards.csv|content_en|f8c8140c6b2626496f96d21fa12c638d"
+msgstr "엔딩 잠금 해제 - 이열치열"
+
+#: translate_sheet.csv:1943
+msgctxt "Unlock the Ending - Unforgettable memories"
+msgid "sheet|SpotRewards.csv|content_en|abe36215c32d4c2628f0247614382587"
+msgstr "엔딩 잠금 해제 - 잊을 수 없는 기억"
+
+#: translate_sheet.csv:1942
+msgctxt "Unlock the Ending - A new challenge & protect the priestess"
+msgid "sheet|SpotRewards.csv|content_en|75e10310949b2cd3f539de0dd8617510"
+msgstr "엔딩 잠금 해제 - 새로운 도전 & 무녀 보호하기"
+
+#: translate_sheet.csv:1941
+msgctxt "Unlock the Ending - How to resolve a crisis properly"
+msgid "sheet|SpotRewards.csv|content_en|18e8b358a4ad02fddbc42ca1b4f3b1d8"
+msgstr "엔딩 잠금 해제 - 위기를 적절하게 해결하는 법"
+
+#: translate_sheet.csv:939
+msgctxt "You have already received the story reward."
+msgid "sheet|InfoError.csv|en|44a66f1a9e88edab954a32e7baa503f9"
+msgstr "스토리 보상을 이미 받았습니다."
+
+#: translate_sheet.csv:938
+msgctxt "Please finish watching the story to receive the reward."
+msgid "sheet|InfoError.csv|en|b4e1f071c0e59dc4036f1f9cd1384aba"
+msgstr "보상을 받기 위해 스토리를 모두 읽어주세요."
+
+#: translate_sheet.csv:937
+msgctxt "You have not bonded with this Jyanshi."
+msgid "sheet|InfoError.csv|en|1d274c23457eea742d0f2ab1762bcead"
+msgstr "이 작사와 계약하지 않은 상태입니다."
+
+#: translate_sheet.csv:936
+msgctxt "This outfit doesn't match the correct Jyanshi."
+msgid "sheet|InfoError.csv|en|cb59e27ad997be9bfd84b5720e1b468e"
+msgstr "이 의상은 작사에게 맞지 않습니다."
+
+#: translate_json.csv:330
+msgctxt "Restart Now"
+msgid "json|common/disconnect|1|4|0|2d9c2140c53daf05855033aaceeaa8fd"
+msgstr "지금 재시작"
+
+#: translate_sheet.csv:1939
+msgctxt "Unlock the Ending - A day wasted"
+msgid "sheet|SpotRewards.csv|content_en|76d4a0c1f63c6688e4e015cc6bb1df8c"
+msgstr "엔딩 잠금 해제 - 낭비된 하루"
+
+#: translate_sheet.csv:1938
+msgctxt "Unlock the Ending - Ichihime's thoughts"
+msgid "sheet|SpotRewards.csv|content_en|5dc507eeb1d5e702d46f13f5d90eb07e"
+msgstr "엔딩 잠금 해제 - 이치히메의 생각"
+
+#: translate_sheet.csv:1853
+msgctxt "Season 1"
+msgid "sheet|SeasonSeason.csv|desc_en|236effcca20b66ba4d6fb260d1995bd1"
+msgstr "시즌 1"
+
+#: translate_sheet.csv:1725
+msgctxt "Memorial of Path of Trial Season 1"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|1adeec37402be58fc9f0fabb9331e16a"
+msgstr "시련의 길 시즌 1 기념"
+
+#: translate_sheet.csv:1724
+msgctxt "Memorial of Path of Trial Season 1"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|1adeec37402be58fc9f0fabb9331e16a"
+msgstr "시련의 길 시즌 1 기념"
+
+#: translate_sheet.csv:1509
+msgctxt ""
+"A Sports Day event token. This pom-pom flies around in the hands of "
+"cheerleaders."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|6dc7cf883f64eb37e1d6ab14dee27a4c"
+msgstr "운동회 이벤트 토큰. 이 붐비나는 치어리더의 손에서 날아다닙니다."
+
+#: translate_sheet.csv:1508
+msgctxt "Pom-pom"
+msgid "sheet|ItemDefinitionItem.csv|name_en|c2326b58ae243a1a0135449bb2c29275"
+msgstr "붐비나"
+
+#: translate_sheet.csv:1507
+msgctxt ""
+"A Sports Day event token. When cheerleaders blow this trumpet together, the "
+"sound can be very loud."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|7be182e6fe3bf3c53ce8efd2bd0a51b9"
+msgstr "운동회 이벤트 토큰. 치어리더가 이 트럼펫을 함께 불면 소리가 매우 커질겁니다."
