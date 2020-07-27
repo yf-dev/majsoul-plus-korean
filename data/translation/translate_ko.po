@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-08 07:09+0000\n"
+"PO-Revision-Date: 2020-07-27 11:09+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -2154,7 +2154,7 @@ msgstr "받음"
 msgctxt "Claimed"
 msgid ""
 "json|lobby/activitys/activity_wuyi_task|0|0|1|1|8|9d8b15ef78357692564f5aced0c68eaf"
-msgstr "반듬"
+msgstr "받음"
 
 #: translate_json.csv:467
 msgctxt "Copper on the map"
@@ -5480,28 +5480,33 @@ msgctxt ""
 "Majsoul. We hope you enjoy the game and improve your skills every day."
 msgid "json|mj/info_md5|0|2|0|e310f946c5032508229f4b37da6c2ebc"
 msgstr ""
-"작혼은 모든 게임이 무작위로 생성됨을 보장합니다. 각 경기가 시작될 때 패산이 미리 결정되어 있으므로 각 경기에서 쯔모하는 패는 변경되지"
-" 않으며, 어떠한 외부 요인에 의해서도 영향을 받지 않습니다. 이 진술을 뒷받침하기 위해 MD5 검증 시스템을 도입했습니다. \\n "
-"MD5 알고리즘은 널리 사용되는 암호화 해시 기능입니다. 알고리즘을 사용하여 입력 바이트(패산 순서)를 일련의 해시 값으로 변환합니다. "
-"MD5는 혼돈스럽고 고유하며 단방향으로 동작합니다. \\n 단방향: 생성된 MD5 코드는 복원할 수 없습니다. 따라서 작혼에서 제공하는 "
-"MD5 코드는 해독할 수 없으며 누구도 패산을 미리 볼 수 없습니다.(참고: 대부분의 MD5 해킹 도구는 무차별 대입 공격 도구입니다. "
-"누군가가 패산을 해킹하려면 수백만 년이 걸릴 것입니다.) \\n 고유: 각 입력(패산)은 하나의 고유한 MD5 코드만 생성합니다. \\n"
-" 혼돈: 두 패산 순서는 서로 다른 패가 하나만 있어도 완전히 다른 MD5 코드를 갖습니다. \\n 고유성과 혼돈성에 의해 패산이 "
-"수정되지 않았다는 것을 보장하며, 만약 수정됬을 경우 MD5 코드가 크게 변경될 것입니다. \\n MD5 검증 단계: \\n 1. 매 "
-"경기마다 플레이어는 좌측 상단의 도라 표시기를 클릭하여 패산 MD5 코드를 보고 기록할 수 있습니다. 패산이 생성될 때 마다 하나의 "
-"MD5 코드 세트가 생성됩니다. \\n 2. 경기 후 플레이어는 로그로 이동하여 각 게임의 MD5 코드(로그에 기록됨)가 게임 플레이시 "
-"기록된 값과 일치하는지 비교할 수 있습니다. 게임 중에 얻은 MD5 코드는 로그의 MD5 코드와 일치해야 합니다. \\n 3. 각 패마다"
-" 고유한 코드가 있습니다. 만수패는 \"m\"으로, 통수패는 \"p\"로, 삭수패는 \"s\"로, 자패는 \"z\"로 나타냅니다. 예를 "
-"들어 1만은 1m, 9통은 9p, 5삭은 5s입니다. 동, 남, 서 ,북, 백, 발, 중은 1z, 2z, 3z, 4z, 5z, 6z, "
-"7z 입니다. 특수한 적5만은 0m, 적5통은 0p. 적5삭은 0s입니다. 이와 같이 각각의 패산은 고유한 일련의 코드로 표시될 수 "
-"있습니다. \"8통-7삭-동-적5만\" 패산의 코드는 8p7s1z0m 입니다. 플레이어는 로그에서 패산을 볼 수 있습니다. 패산은 모든 "
-"모든 배패를 완료한 후 남은 패 순서를 말합니다. 표시되는 각 패는 위의 방법을 사용하여 고유한 시퀀스로 나타낼 수 있습니다. 하단에 "
-"표시되는 패산 코드는 이 방법으로 생성됩니다. \\n 4. 일반적인 온라인 MD5 암호화 웹 사이트는 "
-"http://tool.chinaz.com/tools/md5.aspx 로 접속할 수 있습니다. 왼쪽 입력 상자에 3단계에서 얻은 패산 "
-"코드를 입력한 다음 가운데에서 \"32자리 암호화(L)\"을 선택하면 오른쪽에 해당하는 MD5 코드가 표시됩니다. 생성된 MD5 코드를 "
-"게임에서 제공하는 MD5 코드와 비교할 수 있습니다. 만약 두 코드가 일치한다면 패산이 생성된 순간에 미리 결정되었다는 것입니다. 이것은"
-" 작혼이 어떤식으로든 패산을 수정하지 않았다는 증거입니다. 패산이 변조된 경우 쯔모한 패가 로그와 일치하지 않습니다. 생성된 MD5 "
-"코드도 일치하지 않습니다. \\n 작혼을 지지해주셔서 감사합니다. 우리는 당신이 매일 게임을 즐기고 실력이 향상되기를 바랍니다."
+"작혼은 모든 게임이 무작위로 생성됨을 보장합니다. 각 경기가 시작될 때 패산이 미리 결정되어 있으므로 각 경기에서 쯔모하는 패는 변경되지 "
+"않으며, 어떠한 외부 요인에 의해서도 영향을 받지 않습니다. 이 진술을 뒷받침하기 위해 MD5 검증 시스템을 도입했습니다. \\n"
+" MD5 알고리즘은 널리 사용되는 암호화 해시 기능입니다. 알고리즘을 사용하여 입력 바이트(패산 순서)를 일련의 해시 값으로 변환합니다. "
+"MD5는 혼돈스럽고 고유하며 단방향으로 동작합니다. \\n"
+" 단방향: 생성된 MD5 코드는 복원할 수 없습니다. 따라서 작혼에서 제공하는 MD5 코드는 해독할 수 없으며 누구도 패산을 미리 볼 수 "
+"없습니다.(참고: 대부분의 MD5 해킹 도구는 무차별 대입 공격 도구입니다. 누군가가 패산을 해킹하려면 수백만 년이 걸릴 것입니다.) "
+"\\n"
+" 고유: 각 입력(패산)은 하나의 고유한 MD5 코드만 생성합니다. \\n"
+" 혼돈: 두 패산 순서는 서로 다른 패가 하나만 있어도 완전히 다른 MD5 코드를 갖습니다. \\n"
+" 고유성과 혼돈성에 의해 패산이 수정되지 않았다는 것을 보장하며, 만약 수정됬을 경우 MD5 코드가 크게 변경될 것입니다. \\n"
+" MD5 검증 단계: \\n"
+" 1. 매 경기마다 플레이어는 좌측 상단의 도라 표시기를 클릭하여 패산 MD5 코드를 보고 기록할 수 있습니다. 패산이 생성될 때 마다 "
+"하나의 MD5 코드 세트가 생성됩니다. \\n"
+" 2. 경기 후 플레이어는 로그로 이동하여 각 게임의 MD5 코드(로그에 기록됨)가 게임 플레이시 기록된 값과 일치하는지 비교할 수 "
+"있습니다. 게임 중에 얻은 MD5 코드는 로그의 MD5 코드와 일치해야 합니다. \\n"
+" 3. 각 패마다 고유한 코드가 있습니다. 만수패는 \"m\"으로, 통수패는 \"p\"로, 삭수패는 \"s\"로, 자패는 \"z\"로 "
+"나타냅니다. 예를 들어 1만은 1m, 9통은 9p, 5삭은 5s입니다. 동, 남, 서 ,북, 백, 발, 중은 1z, 2z, 3z, 4z, "
+"5z, 6z, 7z 입니다. 특수한 적5만은 0m, 적5통은 0p. 적5삭은 0s입니다. 이와 같이 각각의 패산은 고유한 일련의 코드로 "
+"표시될 수 있습니다. \"8통-7삭-동-적5만\" 패산의 코드는 8p7s1z0m 입니다. 플레이어는 로그에서 패산을 볼 수 있습니다. "
+"패산은 모든 배패를 완료한 후 남은 패 순서를 말합니다. 표시되는 각 패는 위의 방법을 사용하여 고유한 시퀀스로 나타낼 수 있습니다. "
+"하단에 표시되는 패산 코드는 이 방법으로 생성됩니다. \\n"
+" 4. 일반적인 온라인 MD5 암호화 웹 사이트는 http://tool.chinaz.com/tools/md5.aspx 로 접속할 수 "
+"있습니다. 왼쪽 입력 상자에 3단계에서 얻은 패산 코드를 입력한 다음 가운데에서 \"32자리 암호화(L)\"을 선택하면 오른쪽에 해당하는 "
+"MD5 코드가 표시됩니다. 생성된 MD5 코드를 게임에서 제공하는 MD5 코드와 비교할 수 있습니다. 만약 두 코드가 일치한다면 패산이 "
+"생성된 순간에 미리 결정되었다는 것입니다. 이것은 작혼이 어떤식으로든 패산을 수정하지 않았다는 증거입니다. 패산이 변조된 경우 쯔모한 "
+"패가 로그와 일치하지 않습니다. 생성된 MD5 코드도 일치하지 않습니다. \\n"
+" 작혼을 지지해주셔서 감사합니다. 우리는 당신이 매일 게임을 즐기고 실력이 향상되기를 바랍니다."
 
 #: translate_json.csv:1273
 msgctxt "Watch"
@@ -20150,8 +20155,8 @@ msgstr ""
 " MD5 알고리즘은 널리 사용되는 암호화 해시 기능입니다. 알고리즘을 사용하여 입력 바이트(패산 순서)를 일련의 해시 값으로 변환합니다. "
 "MD5는 혼돈스럽고 고유하며 단방향으로 동작합니다. \\n"
 " 단방향: 생성된 MD5 코드는 복원할 수 없습니다. 따라서 작혼에서 제공하는 MD5 코드는 해독할 수 없으며 누구도 패산을 미리 볼 수 "
-"없습니다.(참고: 대부분의 MD5 해킹 도구는 무차별 대입 공격 도구입니다. 누군가가 패산을 해킹하려면 수백만 년이 걸릴 것입니다.) \\"
-"n"
+"없습니다.(참고: 대부분의 MD5 해킹 도구는 무차별 대입 공격 도구입니다. 누군가가 패산을 해킹하려면 수백만 년이 걸릴 것입니다.) "
+"\\n"
 " 고유: 각 입력(패산)은 하나의 고유한 MD5 코드만 생성합니다. \\n"
 " 혼돈: 두 패산 순서는 서로 다른 패가 하나만 있어도 완전히 다른 MD5 코드를 갖습니다. \\n"
 " 고유성과 혼돈성에 의해 패산이 수정되지 않았다는 것을 보장하며, 만약 수정됬을 경우 MD5 코드가 크게 변경될 것입니다. \\n"
@@ -20164,8 +20169,8 @@ msgstr ""
 "나타냅니다. 예를 들어 1만은 1m, 9통은 9p, 5삭은 5s입니다. 동, 남, 서 ,북, 백, 발, 중은 1z, 2z, 3z, 4z, "
 "5z, 6z, 7z 입니다. 특수한 적5만은 0m, 적5통은 0p. 적5삭은 0s입니다. 이와 같이 각각의 패산은 고유한 일련의 코드로 "
 "표시될 수 있습니다. \"8통-7삭-동-적5만\" 패산의 코드는 8p7s1z0m 입니다. 플레이어는 로그에서 패산을 볼 수 있습니다. "
-"패산은 모든 모든 배패를 완료한 후 남은 패 순서를 말합니다. 표시되는 각 패는 위의 방법을 사용하여 고유한 시퀀스로 나타낼 수 "
-"있습니다. 하단에 표시되는 패산 코드는 이 방법으로 생성됩니다. \\n"
+"패산은 모든 배패를 완료한 후 남은 패 순서를 말합니다. 표시되는 각 패는 위의 방법을 사용하여 고유한 시퀀스로 나타낼 수 있습니다. "
+"하단에 표시되는 패산 코드는 이 방법으로 생성됩니다. \\n"
 " 4. 일반적인 온라인 MD5 암호화 웹 사이트는 http://tool.chinaz.com/tools/md5.aspx 로 접속할 수 "
 "있습니다. 왼쪽 입력 상자에 3단계에서 얻은 패산 코드를 입력한 다음 가운데에서 \"32자리 암호화(L)\"을 선택하면 오른쪽에 해당하는 "
 "MD5 코드가 표시됩니다. 생성된 MD5 코드를 게임에서 제공하는 MD5 코드와 비교할 수 있습니다. 만약 두 코드가 일치한다면 패산이 "
@@ -59377,3 +59382,932 @@ msgctxt "Riichi"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/chutao/act_rich)|a24a259048cb6a113d9eeba1d7647fce"
 msgstr "리치"
+
+#: translate_sheet.csv:1502
+msgctxt "Trumpet"
+msgid "sheet|ItemDefinitionItem.csv|name_en|142e3acd3610d6c670ac3f74b36347c6"
+msgstr "트럼펫"
+
+#: translate_sheet.csv:1493
+msgctxt "（版本增加后就不再通用）"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|231073ff7d55b3d704da44e9ade3dab3"
+msgstr "（版本增加后就不再通用）"
+
+#: translate_sheet.csv:1450
+msgctxt "Trial PT"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|70b4611a215a3f3dfdb68101655f1b07"
+msgstr "시련 PT"
+
+#: translate_sheet.csv:1449
+msgctxt "Trial PT"
+msgid "sheet|ItemDefinitionItem.csv|name_en|70b4611a215a3f3dfdb68101655f1b07"
+msgstr "시련 PT"
+
+#: translate_sheet.csv:1418
+msgctxt "A certificate of unparalleled grandmaster on Path of Trial"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|88c4d4293007a74dae2c155f2a1cf490"
+msgstr "시련의 길에서 비교할 수 없는 그랜드마스터의 증명서"
+
+#: translate_sheet.csv:1417
+msgctxt "Portrait Frame - Conqueror of Trials"
+msgid "sheet|ItemDefinitionItem.csv|name_en|ab55f6c72b71869f4c8ce91e275ffc8a"
+msgstr "초상화 프레임 - 시련의 정복자"
+
+#: translate_sheet.csv:1416
+msgctxt "A certificate of outstanding performer on Path of Trial"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|7656530264710c6fe94fff9860720d70"
+msgstr "시련의 길에서 뛰어난 능력을 보인 자의 증명서"
+
+#: translate_sheet.csv:1415
+msgctxt "Portrait Frame - Master of Trials"
+msgid "sheet|ItemDefinitionItem.csv|name_en|e2b5c33176d1dc041ab4c5a61114af99"
+msgstr "초상화 프레임 - 시련의 마스터"
+
+#: translate_sheet.csv:1414
+msgctxt "Expiry Date: 2021/2/21 1:59 P.M. (UTC-7)"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|26c7b3b4908a36fc9b031974a7e82535"
+msgstr "만료일: 2021/2/21 1:59 P.M. (UTC-7)"
+
+#: translate_sheet.csv:1413
+msgctxt "A certificate of excellent performer on Path of Trial"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|201073848d6b1f443648793865d303ef"
+msgstr "시련의 길에서 우수한 능력을 보인 자의 증명서"
+
+#: translate_sheet.csv:1412
+msgctxt "Portrait Frame - Expert of Trials"
+msgid "sheet|ItemDefinitionItem.csv|name_en|24f31f6e1e697747175b6d2f14b8930d"
+msgstr "초상화 프레임 - 시련의 전문가"
+
+#: translate_sheet.csv:1411
+msgctxt "2021/7/31 1:59 P.M. (UTC-7)"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|5f06e7aa6826a85f4d4e51037b58e8c2"
+msgstr "2021/7/31 1:59 P.M. (UTC-7)"
+
+#: translate_sheet.csv:1410
+msgctxt "2021年7月1日5時59分まで"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|306975bc9189f4878d14c4c5b0a51e34"
+msgstr "2021年7月1日5時59分まで"
+
+#: translate_sheet.csv:985
+msgctxt "The record of this season is not found."
+msgid "sheet|InfoError.csv|en|154bd6128289e3b60f9f340e384583eb"
+msgstr "이번 시즌의 기록을 찾을 수 없습니다."
+
+#: translate_sheet.csv:984
+msgctxt ""
+"Please wait until the ranking of the current season of Path of Trial is finalized."
+msgid "sheet|InfoError.csv|en|b87712624eb18f25b52be8634a081e1e"
+msgstr "현재 진행중인 시련의 길 시즌 순위가 결정될 때까지 기다려주세요."
+
+#: translate_sheet.csv:983
+msgctxt "Current season of Path of Trial has not ended yet."
+msgid "sheet|InfoError.csv|en|521db4ed3f29f2c536146625e1a84061"
+msgstr "시련의 길 현재 시즌이 아직 종료되지 않았습니다."
+
+#: translate_sheet.csv:982
+msgctxt ""
+"This Goal Ticket has been completed. Please refresh to see the result."
+msgid "sheet|InfoError.csv|en|40696d433787b94f965ce7f2adff0147"
+msgstr "이 목표 티켓이 완료되었습니다. 결과를 보려면 새로고침 해주세요."
+
+#: translate_sheet.csv:981
+msgctxt "There is no Path of Trial event in progress."
+msgid "sheet|InfoError.csv|en|1ba05ef5bcd812c4b82614fdf0ad3476"
+msgstr "진행 중인 시련의 길 이벤트가 없습니다."
+
+#: translate_sheet.csv:980
+msgctxt ""
+"You have reached the max number of Goal Ticket re-publishing today. Please "
+"try again tomorrow"
+msgid "sheet|InfoError.csv|en|d1f78bf711305727dc446a6282c7949d"
+msgstr "오늘 목표 티켓 재발행 최대 갯수에 도달했습니다. 내일 다시 시도해주세요"
+
+#: translate_sheet.csv:979
+msgctxt "You have uncompleted quests on the Goal Ticket."
+msgid "sheet|InfoError.csv|en|cd8c01d6af67dcdc198857b87435aa54"
+msgstr "목표 티켓에 완료되지 않은 퀘스트가 있습니다."
+
+#: translate_sheet.csv:876
+msgctxt "Matching failed. Please try again later."
+msgid "sheet|InfoError.csv|en|90b27408d2b255ceb8175ca40e602883"
+msgstr "경기 찾기 실패. 나중에 다시 시도해주세요."
+
+#: translate_sheet.csv:875
+msgctxt "Matching successful. Game starting soon."
+msgid "sheet|InfoError.csv|en|4e399b765867d2fe9d8ad1f9e432b102"
+msgstr "경기 찾기 성공. 게임이 곧 시작됩니다."
+
+#: translate_sheet.csv:417
+msgctxt "Complete a game with at least 20000 points 5 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|1ca9ae1faf5aea6c7818888ee908c0a2"
+msgstr "20000점 이상으로 경기 5회 완료"
+
+#: translate_sheet.csv:416
+msgctxt "Complete a game with at least 20000 points 4 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|505fe1cdddffefdcfcaa983f2537326f"
+msgstr "20000점 이상으로 경기 4회 완료"
+
+#: translate_sheet.csv:415
+msgctxt "Complete a game with at least 20000 points 3 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|16566fd49e364ece4d5544ffadb56cd2"
+msgstr "20000점 이상으로 경기 3회 완료"
+
+#: translate_sheet.csv:414
+msgctxt "Complete a game with at least 20000 points 2 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|f0bf5fb7fed74a6a51b11552ffa921a2"
+msgstr "20000점 이상으로 경기 2회 완료"
+
+#: translate_sheet.csv:413
+msgctxt "Complete a game with at least 20000 points 1 time"
+msgid "sheet|EventsBaseTask.csv|desc_en|6a54f5e161bd63e352aa283595ebc0c2"
+msgstr "20000점 이상으로 경기 1회 완료"
+
+#: translate_sheet.csv:412
+msgctxt "Complete a game with at least 15000 points 5 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|1d6969eedde856cbb5ac2b9bdf098dd6"
+msgstr "15000점 이상으로 경기 5회 완료"
+
+#: translate_sheet.csv:411
+msgctxt "Complete a game with at least 15000 points 4 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|5fb7fcc24eaaee72e35d4cee511bb28f"
+msgstr "15000점 이상으로 경기 4회 완료"
+
+#: translate_sheet.csv:410
+msgctxt "Complete a game with at least 15000 points 3 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|c20014a0a9e69de182a4a0fa9003ba9d"
+msgstr "15000점 이상으로 경기 3회 완료"
+
+#: translate_sheet.csv:409
+msgctxt "Complete a game with at least 15000 points 2 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|3873c6ce0e053ab8724d5babd8a19904"
+msgstr "15000점 이상으로 경기 2회 완료"
+
+#: translate_sheet.csv:408
+msgctxt "Complete a game with at least 15000 points 1 time"
+msgid "sheet|EventsBaseTask.csv|desc_en|8f24a90489a8d16d56d18b0a81f34c1c"
+msgstr "15000점 이상으로 경기 1회 완료"
+
+#: translate_sheet.csv:407
+msgctxt "Complete a game with at least 10000 points 5 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|859ef77867e9dd2f8b59cc3a131c5e47"
+msgstr "10000점 이상으로 경기 5회 완료"
+
+#: translate_sheet.csv:406
+msgctxt "Complete a game with at least 10000 points 4 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|d389c39e35786414c3d0025b5b891b01"
+msgstr "10000점 이상으로 경기 4회 완료"
+
+#: translate_sheet.csv:405
+msgctxt "Complete a game with at least 10000 points 3 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|127887c0fb64560f5a00e5aa5ca67c7d"
+msgstr "10000점 이상으로 경기 3회 완료"
+
+#: translate_sheet.csv:404
+msgctxt "Complete a game with at least 10000 points 2 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|88d0c6e5dcbbe7d50dda586a61639e5b"
+msgstr "10000점 이상으로 경기 2회 완료"
+
+#: translate_sheet.csv:403
+msgctxt "Complete a game with at least 10000 points 1 time"
+msgid "sheet|EventsBaseTask.csv|desc_en|e0ff3c177cca958a02a0b1b1c81af20d"
+msgstr "10000점 이상으로 경기 1회 완료"
+
+#: translate_sheet.csv:402
+msgctxt "Make other player negative points once"
+msgid "sheet|EventsBaseTask.csv|desc_en|bdd44ffc8167e0371c557ae2933a1bb5"
+msgstr "다른 플레이어 들통내기 한번"
+
+#: translate_sheet.csv:401
+msgctxt "Ron with Baiman or above once"
+msgid "sheet|EventsBaseTask.csv|desc_en|62372fdc5d947b6c3e18ec990d5dd8c7"
+msgstr "배만 이상으로 론 한번"
+
+#: translate_sheet.csv:400
+msgctxt "Ron with Haneman or above once"
+msgid "sheet|EventsBaseTask.csv|desc_en|460b5fd88921943df31010006fd43ce8"
+msgstr "하네만 이상으로 론 한번"
+
+#: translate_sheet.csv:399
+msgctxt "Ron with Mangan or above once"
+msgid "sheet|EventsBaseTask.csv|desc_en|e59fb7d8328dc94675a0578770ef57bf"
+msgstr "만관 이상으로 론 한번"
+
+#: translate_sheet.csv:398
+msgctxt "Winning with at least 10 Dora in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|4a26480eda20e1e616c53b89c0f709eb"
+msgstr "10개 이상의 도라를 포함하여 화료"
+
+#: translate_sheet.csv:397
+msgctxt "Winning with at least 9 Dora in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|fb0fc8981943bfa4d414f181edf51819"
+msgstr "9개 이상의 도라를 포함하여 화료"
+
+#: translate_sheet.csv:396
+msgctxt "Winning with at least 8 Dora in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|ba1729723b527837e133d28f68d80c63"
+msgstr "8개 이상의 도라를 포함하여 화료"
+
+#: translate_sheet.csv:395
+msgctxt "Winning with at least 7 Dora in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|5a6831e3f67dc7f7982a4c16f83ade5d"
+msgstr "7개 이상의 도라를 포함하여 화료"
+
+#: translate_sheet.csv:394
+msgctxt "Winning with at least 6 Dora in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|7fb495ca3c1999f5600479c6f537bef0"
+msgstr "6개 이상의 도라를 포함하여 화료"
+
+#: translate_sheet.csv:393
+msgctxt "Winning with at least 5 Dora in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|6652c7975b289486e80f41754b07440b"
+msgstr "5개 이상의 도라를 포함하여 화료"
+
+#: translate_sheet.csv:392
+msgctxt "Winning with at least 4 Dora in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|31ea2a3cd6bf3c60e5ff904af0663975"
+msgstr "4개 이상의 도라를 포함하여 화료"
+
+#: translate_sheet.csv:391
+msgctxt "Winning with at least 3 Dora in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|68c509a79a156738b7e5baa1773e1f1a"
+msgstr "3개 이상의 도라를 포함하여 화료"
+
+#: translate_sheet.csv:390
+msgctxt "Winning with at least 2 Dora in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|d3655cc3b5c758c9a4a2d8f1dd112849"
+msgstr "2개 이상의 도라를 포함하여 화료"
+
+#: translate_sheet.csv:328
+msgctxt "Winning(Yakuman and above)"
+msgid "sheet|EventsBaseTask.csv|desc_en|54f52fbef5e8ac662ef897e29e336116"
+msgstr "화료(역만 이상)"
+
+#: translate_sheet.csv:327
+msgctxt "Winning(Sanbaiman)"
+msgid "sheet|EventsBaseTask.csv|desc_en|a6db16848d24a2433a0da55f9f596097"
+msgstr "화료(삼배만)"
+
+#: translate_sheet.csv:326
+msgctxt "Winning(Baiman)"
+msgid "sheet|EventsBaseTask.csv|desc_en|cd05d08d8558abad42a03fcd20fdd4a9"
+msgstr "화료(배만)"
+
+#: translate_sheet.csv:325
+msgctxt "Winning(Haneman)"
+msgid "sheet|EventsBaseTask.csv|desc_en|c9d8b4a2a15200575eefcc821c25934f"
+msgstr "화료(하네만)"
+
+#: translate_sheet.csv:324
+msgctxt "Winning(Mangan)"
+msgid "sheet|EventsBaseTask.csv|desc_en|c4fe8cb42ae3fbfb363cf5eab8be864a"
+msgstr "화료(만관)"
+
+#: translate_sheet.csv:323
+msgctxt "Winning(below Mangan)"
+msgid "sheet|EventsBaseTask.csv|desc_en|b088d5cf591cbad0f6ebe14496ef9160"
+msgstr "화료(만관 미만)"
+
+#: translate_sheet.csv:389
+msgctxt "Winning with at least 1 Dora in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|7a0066fafd5dd67d8fbe459047a562af"
+msgstr "1개 이상의 도라를 포함하여 화료"
+
+#: translate_sheet.csv:388
+msgctxt "Ron 10 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|8f5f908075749492c397ffa1e10c381f"
+msgstr "론 총 10회"
+
+#: translate_sheet.csv:387
+msgctxt "Ron 9 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|8c35eccd4eefec5302312dbef7cebcfb"
+msgstr "론 총 9회"
+
+#: translate_sheet.csv:386
+msgctxt "Ron 8 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|8f49a8fc46ae9635c8d6c2f2f30d4620"
+msgstr "론 총 8회"
+
+#: translate_sheet.csv:385
+msgctxt "Ron 7 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|6999fd1691da7763db61cb8d33be2c90"
+msgstr "론 총 7회"
+
+#: translate_sheet.csv:384
+msgctxt "Ron 6 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|eecfccf99dc9212414304cfdd1726f49"
+msgstr "론 총 6회"
+
+#: translate_sheet.csv:383
+msgctxt "Ron 5 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|055b08907631dc2a943336dc20965c91"
+msgstr "론 총 5회"
+
+#: translate_sheet.csv:382
+msgctxt "Ron 4 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|211f036d6de0adc01d83d300c556013b"
+msgstr "론 총 4회"
+
+#: translate_sheet.csv:381
+msgctxt "Ron 3 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|a5ae847570f473f89e1cf587869b5724"
+msgstr "론 총 3회"
+
+#: translate_sheet.csv:380
+msgctxt "Ron 2 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|4bd2ad11014c1101cbb277c00e8bf799"
+msgstr "론 총 2회"
+
+#: translate_sheet.csv:379
+msgctxt "Ron 1 time in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|764f05c847f6adcb76c1332067877ac9"
+msgstr "론 총 1회"
+
+#: translate_sheet.csv:378
+msgctxt "Deal into others hands less than 10 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|6031041616922b3985fb50f42be55fd9"
+msgstr "방총 10회 미만"
+
+#: translate_sheet.csv:377
+msgctxt "Deal into others hands less than 9 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|60fe5e2f241ccb9a26b0b03025b790da"
+msgstr "방총 9회 미만"
+
+#: translate_sheet.csv:376
+msgctxt "Deal into others hands less than 8 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|2b9e5ffe7380432ab700458cb6717e8d"
+msgstr "방총 8회 미만"
+
+#: translate_sheet.csv:375
+msgctxt "Deal into others hands less than 7 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|14509e8071d467d3882daba7ad7a5d93"
+msgstr "방총 7회 미만"
+
+#: translate_sheet.csv:374
+msgctxt "Deal into others hands less than 6 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|b5b3e6bbf6e446f6a14cc63415d59638"
+msgstr "방총 6회 미만"
+
+#: translate_sheet.csv:373
+msgctxt "Deal into others hands less than 5 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|fd4d6e786824fac57318f907cdc3b76c"
+msgstr "방총 5회 미만"
+
+#: translate_sheet.csv:372
+msgctxt "Deal into others hands less than 4 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|ed9d0ff7bdee861e7c722e22fd9870b5"
+msgstr "방총 4회 미만"
+
+#: translate_sheet.csv:371
+msgctxt "Deal into others hands less than 3 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|d16c419007c29797aa646040ecec1106"
+msgstr "방총 3회 미만"
+
+#: translate_sheet.csv:370
+msgctxt "Deal into others hands less than 2 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|2cc2b83a9f20f2c463e31fb357d57cfb"
+msgstr "방총 2회 미만"
+
+#: translate_sheet.csv:369
+msgctxt "Deal into others hands less than 1 time"
+msgid "sheet|EventsBaseTask.csv|desc_en|a815234978c5c5a0fb7c61015f1b0adc"
+msgstr "방총 1회 미만"
+
+#: translate_sheet.csv:368
+msgctxt "-"
+msgid "sheet|EventsBaseTask.csv|desc_en|336d5ebc5436534e61d16e63ddfca327"
+msgstr "-"
+
+#: translate_sheet.csv:367
+msgctxt "Complete a game without Deal-in 3 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|1454848a1b6636f755bcebcfe66933d7"
+msgstr "방총 없이 경기 3회 완료"
+
+#: translate_sheet.csv:366
+msgctxt "Complete a game without Deal-in 2 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|c707ac9c1cb9bf47cb8a66ae6f78a26a"
+msgstr "방총 없이 경기 2회 완료"
+
+#: translate_sheet.csv:365
+msgctxt "Complete a game without Deal-in 1 time"
+msgid "sheet|EventsBaseTask.csv|desc_en|b3aba653bd54e61b7821072b90a08fdb"
+msgstr "방총 없이 경기 1회 완료"
+
+#: translate_sheet.csv:364
+msgctxt "Complete a game with at least 50000 points 1 time"
+msgid "sheet|EventsBaseTask.csv|desc_en|7618df52bd24b896c6af9caf452541c0"
+msgstr "50000점 이상으로 경기 1회 완료"
+
+#: translate_sheet.csv:363
+msgctxt "Complete a game with at least 40000 points 2 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|d9e1e95dbae78f09e48cb9110c09081f"
+msgstr "40000점 이상으로 경기 2회 완료"
+
+#: translate_sheet.csv:362
+msgctxt "Complete a game with at least 40000 points 1 time"
+msgid "sheet|EventsBaseTask.csv|desc_en|a0a76fdb45e5ebce23fe1a4a2a46e328"
+msgstr "40000점 이상으로 경기 1회 완료"
+
+#: translate_sheet.csv:361
+msgctxt "Complete a game with at least 35000 points 3 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|8bf1677bdebb6022617d7fb9b6f64e61"
+msgstr "35000점 이상으로 경기 3회 완료"
+
+#: translate_sheet.csv:360
+msgctxt "Complete a game with at least 35000 points 2 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|bc61b4181689b426837eabcc4695fbc8"
+msgstr "35000점 이상으로 경기 2회 완료"
+
+#: translate_sheet.csv:359
+msgctxt "Complete a game with at least 35000 points 1 time"
+msgid "sheet|EventsBaseTask.csv|desc_en|91889b14d01da53adbae0884dddfa58c"
+msgstr "35000점 이상으로 경기 1회 완료"
+
+#: translate_sheet.csv:358
+msgctxt "Complete a game with at least 30000 points 5 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|ebaf833b1704fda46e3debac3db5337e"
+msgstr "30000점 이상으로 경기 5회 완료"
+
+#: translate_sheet.csv:357
+msgctxt "Complete a game with at least 30000 points 4 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|38df176c2bfea86cb9b6ebbb95bd88ed"
+msgstr "30000점 이상으로 경기 4회 완료"
+
+#: translate_sheet.csv:356
+msgctxt "Complete a game with at least 30000 points 3 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|0495c74b5813efd8d597e73ef4916e42"
+msgstr "30000점 이상으로 경기 3회 완료"
+
+#: translate_sheet.csv:355
+msgctxt "Complete a game with at least 30000 points 2 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|e83296c4c9d6a8192cfd5866f46bf25d"
+msgstr "30000점 이상으로 경기 2회 완료"
+
+#: translate_sheet.csv:354
+msgctxt "Complete a game with at least 30000 points 1 time"
+msgid "sheet|EventsBaseTask.csv|desc_en|70deab365adcfbfd5f93ae0d9db35990"
+msgstr "30000점 이상으로 경기 1회 완료"
+
+#: translate_sheet.csv:353
+msgctxt "Complete a game with at least 25000 points 5 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|1f05c2495b9ceec230aa2f453c29c142"
+msgstr "25000점 이상으로 경기 5회 완료"
+
+#: translate_sheet.csv:352
+msgctxt "Complete a game with at least 25000 points 4 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|01290157cc8894360abb961cf9ff0f2c"
+msgstr "25000점 이상으로 경기 4회 완료"
+
+#: translate_sheet.csv:351
+msgctxt "Complete a game with at least 25000 points 3 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|a35f7dc235e7b59d9e8f8862501dd9e1"
+msgstr "25000점 이상으로 경기 3회 완료"
+
+#: translate_sheet.csv:350
+msgctxt "Complete a game with at least 25000 points 2 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|2992bae196bf04db8af6a0aac0f88a4c"
+msgstr "25000점 이상으로 경기 2회 완료"
+
+#: translate_sheet.csv:349
+msgctxt "Complete a game with at least 25000 points 1 time"
+msgid "sheet|EventsBaseTask.csv|desc_en|c57f29e63b2aa4d89eb63e0581956809"
+msgstr "25000점 이상으로 경기 1회 완료"
+
+#: translate_sheet.csv:348
+msgctxt "Achieve 1st place 3 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|a0d83f2490586a177a952bfd3f73f9ae"
+msgstr "1위 3회 달성"
+
+#: translate_sheet.csv:347
+msgctxt "Achieve 1st place 2 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|b95820139e80cd1497055978cf509437"
+msgstr "1위 2회 달성"
+
+#: translate_sheet.csv:346
+msgctxt "Achieve 1st place 1 time"
+msgid "sheet|EventsBaseTask.csv|desc_en|e0a8b5daca764089e5129356e388dc3e"
+msgstr "1위 1회 달성"
+
+#: translate_sheet.csv:345
+msgctxt "Achieve top 2 places 5 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|4aa353c0cc4b385a44d2c93a0554a9c5"
+msgstr "2위 이상 5회 달성"
+
+#: translate_sheet.csv:344
+msgctxt "Achieve top 2 places 4 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|8f39061c86ae3fea38aac66b3f473104"
+msgstr "2위 이상 4회 달성"
+
+#: translate_sheet.csv:343
+msgctxt "Achieve top 2 places 3 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|6e4eabbed7ef41c0d1aa4affeb6081b5"
+msgstr "2위 이상 3회 달성"
+
+#: translate_sheet.csv:342
+msgctxt "Achieve top 2 places 2 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|542363ab7c08867dfcd64d151fc5c45c"
+msgstr "2위 이상 2회 달성"
+
+#: translate_sheet.csv:341
+msgctxt "Achieve top 2 places 1 time"
+msgid "sheet|EventsBaseTask.csv|desc_en|966b6c17e53f8a097876e62188c6fd29"
+msgstr "2위 이상 1회 달성"
+
+#: translate_sheet.csv:340
+msgctxt "Achieve top 3 places 5 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|ee0d9cad8d1715ff8a39aa84ea07d1c1"
+msgstr "3위 이상 5회 달성"
+
+#: translate_sheet.csv:339
+msgctxt "Achieve top 3 places 4 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|e76f83b5127fdde2e8880b55f9263f8a"
+msgstr "3위 이상 4회 달성"
+
+#: translate_sheet.csv:338
+msgctxt "Achieve top 3 places 3 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|64f108a186a8fdbb321a6eba5d39dd57"
+msgstr "3위 이상 3회 달성"
+
+#: translate_sheet.csv:337
+msgctxt "Achieve top 3 places 2 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|aacc783105d5b1a4f1218bea5d68708f"
+msgstr "3위 이상 2회 달성"
+
+#: translate_sheet.csv:336
+msgctxt "Achieve top 3 places 1 time"
+msgid "sheet|EventsBaseTask.csv|desc_en|34004c818d74d384ef007ee95f953e48"
+msgstr "3위 이상 1회 달성"
+
+#: translate_sheet.csv:335
+msgctxt "Play 5 matches"
+msgid "sheet|EventsBaseTask.csv|desc_en|f95225bc62a8042fdb703cc403fa6458"
+msgstr "5경기 플레이"
+
+#: translate_sheet.csv:334
+msgctxt "Play 4 matches"
+msgid "sheet|EventsBaseTask.csv|desc_en|84d99240d8be69be1f21bc7e2ebe0917"
+msgstr "4경기 플레이"
+
+#: translate_sheet.csv:333
+msgctxt "Play 3 matches"
+msgid "sheet|EventsBaseTask.csv|desc_en|eecd45a7217496ba4d197c1e3bd94f25"
+msgstr "3경기 플레이"
+
+#: translate_sheet.csv:332
+msgctxt "Play 2 matches"
+msgid "sheet|EventsBaseTask.csv|desc_en|8148d3fb05f71caaba5c463b228a0319"
+msgstr "2경기 플레이"
+
+#: translate_sheet.csv:331
+msgctxt "Play 1 match"
+msgid "sheet|EventsBaseTask.csv|desc_en|d43bd13f23799812473acd0021abd694"
+msgstr "1경기 플레이"
+
+#: translate_sheet.csv:329
+msgctxt "Challenges this week"
+msgid "sheet|EventsBaseTask.csv|desc_en|915bec0df39a64a4c1e3c216bb8caf76"
+msgstr "이번주 도전"
+
+#: translate_sheet.csv:322
+msgctxt "Achieve 4th place in the Path of Trial"
+msgid "sheet|EventsBaseTask.csv|desc_en|8a200f9d58106a588eb1c7796343229b"
+msgstr "시련의 길에서 4위 달성"
+
+#: translate_sheet.csv:321
+msgctxt "Achieve 3rd place in the Path of Trial"
+msgid "sheet|EventsBaseTask.csv|desc_en|b307aec7ea27b85a0c71db1518417d55"
+msgstr "시련의 길에서 3위 달성"
+
+#: translate_sheet.csv:320
+msgctxt "Achieve 2nd place in the Path of Trial"
+msgid "sheet|EventsBaseTask.csv|desc_en|023de22ff5a940c19296d3bb10981e03"
+msgstr "시련의 길에서 2위 달성"
+
+#: translate_sheet.csv:319
+msgctxt "Achieve 1st place in the Path of Trial"
+msgid "sheet|EventsBaseTask.csv|desc_en|4712eff7fc5d256fd66a6f1cd4a176c8"
+msgstr "시련의 길에서 1위 달성"
+
+#: translate_sheet.csv:318
+msgctxt "Trial Rank achieve Lv60"
+msgid "sheet|EventsBaseTask.csv|desc_en|198956c800444cbe9dca06b4375e9f3c"
+msgstr "시련 등급 Lv60 달성"
+
+#: translate_sheet.csv:317
+msgctxt "Trial Rank achieve Lv55"
+msgid "sheet|EventsBaseTask.csv|desc_en|e3675dced60a371ac0948fb644660534"
+msgstr "시련 등급 Lv55 달성"
+
+#: translate_sheet.csv:316
+msgctxt "Trial Rank achieve Lv50"
+msgid "sheet|EventsBaseTask.csv|desc_en|d7aff018bb66ad6de8361c51b2877d09"
+msgstr "시련 등급 Lv50 달성"
+
+#: translate_sheet.csv:315
+msgctxt "Trial Rank achieve Lv45"
+msgid "sheet|EventsBaseTask.csv|desc_en|e000525ef5dff2c21c3472f220a02025"
+msgstr "시련 등급 Lv45 달성"
+
+#: translate_sheet.csv:314
+msgctxt "Trial Rank achieve Lv40"
+msgid "sheet|EventsBaseTask.csv|desc_en|fdcebf821399be6eca537440e333a117"
+msgstr "시련 등급 Lv40 달성"
+
+#: translate_sheet.csv:313
+msgctxt "Trial Rank achieve Lv35"
+msgid "sheet|EventsBaseTask.csv|desc_en|1c23d69f6b0c8a9734802fd6c612d271"
+msgstr "시련 등급 Lv35 달성"
+
+#: translate_sheet.csv:312
+msgctxt "Trial Rank achieve Lv30"
+msgid "sheet|EventsBaseTask.csv|desc_en|8c92c63e073c2eaf5a06dd88a79cf0aa"
+msgstr "시련 등급 Lv30 달성"
+
+#: translate_sheet.csv:311
+msgctxt "Trial Rank achieve Lv25"
+msgid "sheet|EventsBaseTask.csv|desc_en|4abfdd056ddb8e8c1a20b5e9c75284bd"
+msgstr "시련 등급 Lv25 달성"
+
+#: translate_sheet.csv:310
+msgctxt "Trial Rank achieve Lv20"
+msgid "sheet|EventsBaseTask.csv|desc_en|30b464f8c7887f3e18095bfb40663a38"
+msgstr "시련 등급 Lv20 달성"
+
+#: translate_sheet.csv:309
+msgctxt "Trial Rank achieve Lv15"
+msgid "sheet|EventsBaseTask.csv|desc_en|c084936479b24367c64de6281f1165d0"
+msgstr "시련 등급 Lv15 달성"
+
+#: translate_sheet.csv:308
+msgctxt "Trial Rank achieve Lv10"
+msgid "sheet|EventsBaseTask.csv|desc_en|70f3007b80b99b38ff6f5daa23ef5111"
+msgstr "시련 등급 Lv10 달성"
+
+#: translate_sheet.csv:307
+msgctxt "Trial Rank achieve Lv8"
+msgid "sheet|EventsBaseTask.csv|desc_en|aa03ae4c548ec3ab437268a699b78e23"
+msgstr "시련 등급 Lv8 달성"
+
+#: translate_sheet.csv:306
+msgctxt "Trial Rank achieve Lv6"
+msgid "sheet|EventsBaseTask.csv|desc_en|309366e1ffc68884e40952e63687dce5"
+msgstr "시련 등급 Lv6 달성"
+
+#: translate_sheet.csv:305
+msgctxt "Trial Rank achieve Lv5"
+msgid "sheet|EventsBaseTask.csv|desc_en|7f1e3aeefd6f3f38ebf1bf40c77a5f80"
+msgstr "시련 등급 Lv5 달성"
+
+#: translate_sheet.csv:304
+msgctxt "Trial Rank achieve Lv4"
+msgid "sheet|EventsBaseTask.csv|desc_en|08f11cd013381adb6c3bcc18749c1d1f"
+msgstr "시련 등급 Lv4 달성"
+
+#: translate_sheet.csv:303
+msgctxt "Trial Rank achieve Lv3"
+msgid "sheet|EventsBaseTask.csv|desc_en|c270ba8456ebea93fee3006713bdb081"
+msgstr "시련 등급 Lv3 달성"
+
+#: translate_sheet.csv:302
+msgctxt "Trial Rank achieve Lv2"
+msgid "sheet|EventsBaseTask.csv|desc_en|e6a424fb9e62a0340b642f1426ab1765"
+msgstr "시련 등급 Lv2 달성"
+
+#: translate_sheet.csv:155
+msgctxt "Path of Trial"
+msgid ""
+"sheet|DesktopMatchmode.csv|room_name_en|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
+
+#: translate_sheet.csv:38
+msgctxt "Path of Trial Season One"
+msgid "sheet|ActivityActivity.csv|name_en|1ee5613c38a1e894181d11e539fcabd5"
+msgstr "시련의 길 시즌 1"
+
+#: translate_sheet.csv:37
+msgctxt "Asaha High School's\\nCanteen"
+msgid "sheet|ActivityActivity.csv|name_en|c571466521822fa908a856e0d4a3cef7"
+msgstr ""
+"아사하 고등학교\\n"
+"급식실"
+
+#: translate_sheet.csv:36
+msgctxt "Asaha High School's\\nSports Festival"
+msgid "sheet|ActivityActivity.csv|name_en|591267f833924dddff91bf200ba7a86b"
+msgstr ""
+"아사하 고등학교\\n"
+"운동회"
+
+#: translate_json.csv:1287
+msgctxt "Story"
+msgid "json|lobby/visit|2|11|0|dfba89a600b608b2b724efe1f06f599a"
+msgstr "줄거리"
+
+#: translate_json.csv:1286
+msgctxt "Voice"
+msgid "json|lobby/visit|2|10|0|d7a3fdf1351b72249a47454751549deb"
+msgstr "음성"
+
+#: translate_json.csv:1285
+msgctxt "Info"
+msgid "json|lobby/visit|2|9|0|4059b0251f66a18cb56f544728796875"
+msgstr "정보"
+
+#: translate_json.csv:1284
+msgctxt "Story"
+msgid "json|lobby/visit|2|8|0|dfba89a600b608b2b724efe1f06f599a"
+msgstr "줄거리"
+
+#: translate_json.csv:1283
+msgctxt "Voice"
+msgid "json|lobby/visit|2|7|0|d7a3fdf1351b72249a47454751549deb"
+msgstr "음성"
+
+#: translate_json.csv:1282
+msgctxt "Info"
+msgid "json|lobby/visit|2|6|0|4059b0251f66a18cb56f544728796875"
+msgstr "정보"
+
+#: translate_json.csv:1281
+msgctxt "Voice"
+msgid "json|lobby/visit|2|4|0|0|d7a3fdf1351b72249a47454751549deb"
+msgstr "음성"
+
+#: translate_json.csv:1280
+msgctxt "Gift"
+msgid "json|lobby/visit|2|3|3|1|1|0d9175fe89fb80d815e7d03698b6e83a"
+msgstr "선물"
+
+#: translate_json.csv:1279
+msgctxt "Bond"
+msgid "json|lobby/visit|2|3|3|0|1|7a3b691731db2969498907b960183633"
+msgstr "인연"
+
+#: translate_json.csv:1278
+msgctxt "Daily gift attempt:"
+msgid "json|lobby/visit|2|3|1|2|1|d34cd390688d0c9038850e48d2e23e10"
+msgstr "일간 선물 잔여수:"
+
+#: translate_json.csv:1277
+msgctxt "Gift"
+msgid "json|lobby/visit|2|3|1|2|0|0|0d9175fe89fb80d815e7d03698b6e83a"
+msgstr "선물"
+
+#: translate_json.csv:1276
+msgctxt "Gift"
+msgid "json|lobby/visit|2|3|1|1|1|0|0|0d9175fe89fb80d815e7d03698b6e83a"
+msgstr "선물"
+
+#: translate_json.csv:1275
+msgctxt "Requires a 5-heart Bond"
+msgid "json|lobby/visit|2|3|1|1|0|99c5a0029fd64b2be53456f911459c5b"
+msgstr "5하트 인연 필요"
+
+#: translate_json.csv:1274
+msgctxt "Bond"
+msgid "json|lobby/visit|2|3|0|0|3|1|0|1|0|7a3b691731db2969498907b960183633"
+msgstr "인연"
+
+#: translate_json.csv:1273
+msgctxt "Emoji"
+msgid "json|lobby/visit|2|3|0|0|3|0|0|68305e25f5788db069d06c54924af087"
+msgstr "이모티콘"
+
+#: translate_json.csv:1272
+msgctxt "Biography:"
+msgid "json|lobby/visit|2|3|0|0|1|12|4859bddf1003cb383bc6b220a07218aa"
+msgstr "약력:"
+
+#: translate_json.csv:1271
+msgctxt "Hobby:"
+msgid "json|lobby/visit|2|3|0|0|1|10|bc94dc5a26d1a278aa125811045da9cc"
+msgstr "취미:"
+
+#: translate_json.csv:1270
+msgctxt "CV:"
+msgid "json|lobby/visit|2|3|0|0|1|8|42d6dd398ca223a660996ed83d84dd8d"
+msgstr "CV:"
+
+#: translate_json.csv:1269
+msgctxt "Blood Type:"
+msgid "json|lobby/visit|2|3|0|0|1|6|96fa3614d73d288f3e8a8d6dddff18e4"
+msgstr "혈액형:"
+
+#: translate_json.csv:1268
+msgctxt "Age:"
+msgid "json|lobby/visit|2|3|0|0|1|4|25235196c2744e9050067d45587d6a8b"
+msgstr "나이:"
+
+#: translate_json.csv:1267
+msgctxt "Birthday:"
+msgid "json|lobby/visit|2|3|0|0|1|2|39d595f1a4ce984b95e9b52821b62177"
+msgstr "생일:"
+
+#: translate_json.csv:1266
+msgctxt "Height:"
+msgid "json|lobby/visit|2|3|0|0|1|0|e933dc24fb245d863a43b4fefe9b45f5"
+msgstr "신장:"
+
+#: translate_json.csv:1265
+msgctxt "Character Info"
+msgid "json|lobby/visit|2|3|0|0|0|0|a4d02d0457516e98af7e84b5898de22a"
+msgstr "캐릭터 정보"
+
+#: translate_json.csv:1096
+msgctxt "Claimed"
+msgid ""
+"json|lobby/shilian/shilian_reward|0|4|0|0|2|1|4|9d8b15ef78357692564f5aced0c68eaf"
+msgstr "받음"
+
+#: translate_json.csv:1095
+msgctxt "Receive the Trial Rank reward"
+msgid "json|lobby/shilian/shilian_reward|0|2|1d851332688f329f6df00c7a917301cd"
+msgstr "시련 등급 보상 받기"
+
+#: translate_json.csv:1094
+msgctxt "Friends' Ranking"
+msgid "json|lobby/shilian/shilian_rank|0|5|1|fb2fd76f1acb1fcd6566b68da25717fd"
+msgstr "친구 순위"
+
+#: translate_json.csv:1093
+msgctxt "Ranking of Trial Rank"
+msgid "json|lobby/shilian/shilian_rank|0|1|b3ee1bdb9f8a44546bec54ba4735ec55"
+msgstr "시련 등급 순위"
+
+#: translate_json.csv:1092
+msgctxt "Trial Rank Description"
+msgid ""
+"json|lobby/shilian/shilian_level_info|0|2|40b04635066236fc8608c708081443e9"
+msgstr "시련 등급 설명"
+
+#: translate_json.csv:1091
+msgctxt "Click to continue"
+msgid "json|lobby/shilian/shilian|4|2|7c3310321ea03c9ad2d30754ab6c8415"
+msgstr "클릭하여 계속"
+
+#: translate_json.csv:1090
+msgctxt ""
+"Please select a goal in progress and stamp \"Trial Succeeded\". Click the "
+"blank to cancel it."
+msgid "json|lobby/shilian/shilian|3|3|6|22cb03a876ddef5e957ca62b28b6cdd8"
+msgstr "진행 중인 목표를 선택하고 \"시련 통과\" 도장을 찍으세요. 취소하려면 빈 칸을 클릭하세요."
+
+#: translate_json.csv:1089
+msgctxt "Weekly rewards"
+msgid "json|lobby/shilian/shilian|3|2|4|1|a0a2ca7163df8930c11f3c1a45dd04d3"
+msgstr "주간 보상"
+
+#: translate_json.csv:1088
+msgctxt "Remaining Challenges:"
+msgid "json|lobby/shilian/shilian|3|0|2|1|4|ab0d5a26f182e04992cb968448890668"
+msgstr "남은 도전:"
+
+#: translate_json.csv:1087
+msgctxt "Reward:"
+msgid "json|lobby/shilian/shilian|3|0|2|1|3|9dc18cdd11b4973ecee8ea9d4ed30b63"
+msgstr "보상:"
+
+#: translate_json.csv:1086
+msgctxt "Remaining Challenges:"
+msgid "json|lobby/shilian/shilian|3|0|2|0|4|ab0d5a26f182e04992cb968448890668"
+msgstr "남은 도전:"
+
+#: translate_json.csv:1085
+msgctxt "Reward:"
+msgid "json|lobby/shilian/shilian|3|0|2|0|3|9dc18cdd11b4973ecee8ea9d4ed30b63"
+msgstr "보상:"
+
+#: translate_json.csv:1084
+msgctxt "Path of Trial"
+msgid "json|lobby/shilian/shilian|2|2|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
+
+#: translate_json.csv:1005
+msgctxt "Path of Trial"
+msgid "json|lobby/playerinfo_en|1|5|6|3|0|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
+
+#: translate_json.csv:937
+msgctxt "Path of Trial"
+msgid "json|lobby/playerinfo|1|5|6|3|0|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
+
+#: translate_json.csv:330
+msgctxt "立即重启"
+msgid "json|common/disconnect|1|4|0|f774147e1c2dedffa253ea9e4f10df41"
+msgstr "立即重启"
+
+#: translate_json.csv:178
+msgctxt "Path of Trial"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|3|0|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
+
+#: translate_json.csv:108
+msgctxt "Path of Trial"
+msgid ""
+"json|both_ui/otherplayerinfo|0|2|5|3|0|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
