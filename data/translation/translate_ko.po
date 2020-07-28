@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-28 02:23+0000\n"
+"PO-Revision-Date: 2020-07-28 06:04+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -60715,3 +60715,13 @@ msgctxt ""
 "sound can be very loud."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|7be182e6fe3bf3c53ce8efd2bd0a51b9"
 msgstr "운동회 이벤트 토큰. 치어리더가 이 트럼펫을 함께 불면 소리가 매우 커질겁니다."
+
+#: translate_sheet.csv:2887
+msgctxt "Click to continue"
+msgid "sheet|StrStr.csv|en|7c3310321ea03c9ad2d30754ab6c8415"
+msgstr "클릭하여 계속"
+
+#: translate_sheet.csv:1940
+msgctxt "Unlock the Ending - Gain & loss?"
+msgid "sheet|SpotRewards.csv|content_en|23cb6d24cdd5e4a4b59c834f7f056263"
+msgstr "엔딩 잠금 해제 - 득과 실?"
