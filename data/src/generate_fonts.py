@@ -8,7 +8,7 @@ import json
 lang = os.getenv('MAJSOUL_LANG', 'en')
 verbose = int(os.getenv('MAJSOUL_VERBOSE', 0)) == 1
 
-def call_fontbm(font_file, font_name, font_size, fontbm_path, fonts_path, temp_path):
+def call_fontbm(font_file, font_name, font_size, fontbm_path, fonts_path, temp_path, num_of_font):
     texture_size = 2 ** 10
     while True:
         cmd = [
@@ -20,7 +20,7 @@ def call_fontbm(font_file, font_name, font_size, fontbm_path, fonts_path, temp_p
             '--spacing-vert=1',
             '--spacing-horiz=1',
             '--max-texture-count=1',
-            f'--texture-width={texture_size}',
+            f'--texture-width={int(texture_size / num_of_font)}',
             f'--texture-height={texture_size}',
             f'--font-size={font_size}'
         ]
@@ -52,7 +52,8 @@ def main(dist_path, fonts_path, temp_path, fontbm_path):
             font_data[1],
             fontbm_path,
             fonts_path,
-            temp_path
+            temp_path,
+            len(fonts[lang])
         )
     
     from combine_bitmapfont import main as combine_bitmapfont

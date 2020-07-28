@@ -22,12 +22,12 @@ def main(dist_path, fonts_path, temp_path):
         log_info(f'Read {font_image_path}...', verbose)
         font_images.append(Image.open(font_image_path))
 
-    total_width = sum(font_image.size[0] for font_image in font_images)
     total_height = max(font_image.size[1] for font_image in font_images)
+    image_size = total_height
 
 
     log_info('Generate new font image...', verbose)
-    new_image = Image.new('RGBA', (total_width, total_height), (0, 0, 0, 0))
+    new_image = Image.new('RGBA', (image_size, image_size), (0, 0, 0, 0))
 
     x_pos = 0
     for font_image in font_images:
