@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-28 06:04:26\n"
+"PO-Revision-Date: 2020-07-29 09:04:23\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1803,11 +1803,6 @@ msgid "json|common/disconnect|1|2|290c02d9f3f9749639d9309c451757dc"
 msgstr "Connection lost. Trying to reconnect"
 
 #: translate_json.csv:330
-msgctxt "Restart Now"
-msgid "json|common/disconnect|1|4|0|2d9c2140c53daf05855033aaceeaa8fd"
-msgstr "Restart Now"
-
-#: translate_json.csv:331
 msgctxt ""
 "Oops, something is wrong with the program. Please refresh and enter the game"
 " again"
@@ -1816,32 +1811,32 @@ msgstr ""
 "Oops, something is wrong with the program. Please refresh and enter the game"
 " again"
 
-#: translate_json.csv:332
+#: translate_json.csv:331
 msgctxt "Restart Now"
 msgid "json|common/errorinfo|1|4|1|2d9c2140c53daf05855033aaceeaa8fd"
 msgstr "Restart Now"
 
-#: translate_json.csv:333
+#: translate_json.csv:332
 msgctxt "Confirm"
 msgid "json|common/guajichenfa|0|2|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:334
+#: translate_json.csv:333
 msgctxt "Confirm"
 msgid "json|common/hangup_logout|0|2|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:335
+#: translate_json.csv:334
 msgctxt "You have been AFK for a long time. The system has logged you out."
 msgid "json|common/hangup_logout|0|3|02bb35b87af69edaf10e3fcb26a45959"
 msgstr "You have been AFK for a long time. The system has logged you out."
 
-#: translate_json.csv:336
+#: translate_json.csv:335
 msgctxt "/"
 msgid "json|common/loading|5|1|6666cd76f96956469e7be39d750cc7d9"
 msgstr "/"
 
-#: translate_json.csv:337
+#: translate_json.csv:336
 msgctxt ""
 "You have now entered fatigue time and can only earn 50% of rewards from "
 "game. For your wellbeing, we suggest you log out from game and do some "
@@ -1852,7 +1847,7 @@ msgstr ""
 "game. For your wellbeing, we suggest you log out from game and do some "
 "exercise."
 
-#: translate_json.csv:338
+#: translate_json.csv:337
 msgctxt ""
 "You have entered unhealthy game time. We suggest you log out immediately and"
 " take a break. You cannot earn any rewards from game. Unhealthy game status "
@@ -1863,32 +1858,32 @@ msgstr ""
 " take a break. You cannot earn any rewards from game. Unhealthy game status "
 "will be lifted after you are offline for 5 hours."
 
-#: translate_json.csv:339
+#: translate_json.csv:338
 msgctxt "Cumulative online time"
 msgid "json|common/preventaddiction|1|0|b2a86fa4aa3e98a25247a1195055920f"
 msgstr "Cumulative online time"
 
-#: translate_json.csv:340
+#: translate_json.csv:339
 msgctxt "You have a match in progress"
 msgid "json|common/reconnect|2|ee0a65af5775bdb75345dd4ade86c42b"
 msgstr "You have a match in progress"
 
-#: translate_json.csv:341
+#: translate_json.csv:340
 msgctxt "Reconnect"
 msgid "json|common/reconnect|3|0|880b8461cba2e295e1828be8d6eedb0a"
 msgstr "Reconnect"
 
-#: translate_json.csv:342
+#: translate_json.csv:341
 msgctxt "Real Name Authentication"
 msgid "json|common/shimingrenzheng|0|0|2|4c98c6d31393a3c43b96f384d1b09a68"
 msgstr "Real Name Authentication"
 
-#: translate_json.csv:343
+#: translate_json.csv:342
 msgctxt "Authentication"
 msgid "json|common/shimingrenzheng|0|1|1|c75f7811d70d17dbcd88e9d03752cbed"
 msgstr "Authentication"
 
-#: translate_json.csv:344
+#: translate_json.csv:343
 msgctxt ""
 "Dear user, according to the “Interim Measures for the Administration of "
 "Online Games”, you must go through real name authentication before playing "
@@ -1899,7 +1894,7 @@ msgstr ""
 "Online Games”, you must go through real name authentication before playing "
 "this game."
 
-#: translate_json.csv:345
+#: translate_json.csv:344
 msgctxt ""
 "1.The ID info can only be submitted once and cannot be changed. Please enter"
 " with care."
@@ -1908,7 +1903,7 @@ msgstr ""
 "1.The ID info can only be submitted once and cannot be changed. Please enter"
 " with care."
 
-#: translate_json.csv:346
+#: translate_json.csv:345
 msgctxt ""
 "2.This info will only be used for real name authentication and will not be "
 "provided to any other third party."
@@ -1917,1144 +1912,1144 @@ msgstr ""
 "2.This info will only be used for real name authentication and will not be "
 "provided to any other third party."
 
-#: translate_json.csv:347
+#: translate_json.csv:346
 msgctxt ""
 "3.IDs from mainland China, Hong Kong, Macao and Taiwan are supported."
 msgid "json|common/shimingrenzheng|0|5|a4332625cd392bc61062e31e1e280a49"
 msgstr "3.IDs from mainland China, Hong Kong, Macao and Taiwan are supported."
 
-#: translate_json.csv:348
+#: translate_json.csv:347
 msgctxt "Real name:"
 msgid "json|common/shimingrenzheng|0|6|76d76b6218a0dc4e8e091d14ea7c9253"
 msgstr "Real name:"
 
-#: translate_json.csv:349
+#: translate_json.csv:348
 msgctxt "ID number:"
 msgid "json|common/shimingrenzheng|0|7|123175614553312812baf70dbc92df72"
 msgstr "ID number:"
 
-#: translate_json.csv:350
+#: translate_json.csv:349
 msgctxt "User Agreement"
 msgid "json|common/user_xieyi|0|0|2|5ac23f06000fafde2c8f7501a80ebbfe"
 msgstr "User Agreement"
 
-#: translate_json.csv:351
+#: translate_json.csv:350
 msgctxt "Accept"
 msgid "json|common/user_xieyi|0|1|1|c4408d335012a56ff58937d78050efad"
 msgstr "Accept"
 
-#: translate_json.csv:352
+#: translate_json.csv:351
 msgctxt "Previous page"
 msgid "json|common/user_xieyi|0|3|1|16ded2dc32322d80ce2362a47f4d7ef4"
 msgstr "Previous page"
 
-#: translate_json.csv:353
+#: translate_json.csv:352
 msgctxt "Next page"
 msgid "json|common/user_xieyi|0|4|1|374bea6cf8bd1e8fd64570b629cc6562"
 msgstr "Next page"
 
-#: translate_json.csv:354
+#: translate_json.csv:353
 msgctxt "Accept"
 msgid "json|common/user_xieyi_dmm|0|4|1|c4408d335012a56ff58937d78050efad"
 msgstr "Accept"
 
-#: translate_json.csv:355
+#: translate_json.csv:354
 msgctxt "Reject"
 msgid "json|common/user_xieyi_dmm|0|5|1|d98ac12774fca5c3cbaffe276840c55f"
 msgstr "Reject"
 
-#: translate_json.csv:356
+#: translate_json.csv:355
 msgctxt "用户协议"
 msgid "json|common/user_xieyi_enjp|0|1|c96e43e93ba8ed1c5e066099244febdb"
 msgstr "用户协议"
 
-#: translate_json.csv:357
+#: translate_json.csv:356
 msgctxt "Confirm"
 msgid ""
 "json|entrance/account_prohibition|0|0|2|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:358
+#: translate_json.csv:357
 msgctxt "Confirm"
 msgid "json|entrance/change_language|0|2|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:359
+#: translate_json.csv:358
 msgctxt "Cancel"
 msgid "json|entrance/change_language|0|3|0|ea4788705e6873b424c65e91c2846b19"
 msgstr "Cancel"
 
-#: translate_json.csv:360
+#: translate_json.csv:359
 msgctxt "中文(简体)"
 msgid "json|entrance/change_language|0|4|0|3|d22748fa34bd3664f7229d106476b79f"
 msgstr "中文(简体)"
 
-#: translate_json.csv:361
+#: translate_json.csv:360
 msgctxt "中文(繁體)"
 msgid "json|entrance/change_language|0|4|1|3|c040f768a0d2a77ae0c73df58c528099"
 msgstr "中文(繁體)"
 
-#: translate_json.csv:362
+#: translate_json.csv:361
 msgctxt "选择服务器"
 msgid "json|entrance/chooseserver|0|2|030235d148bee294ad6bf9e4fb0225c2"
 msgstr "选择服务器"
 
-#: translate_json.csv:363
+#: translate_json.csv:362
 msgctxt "输入服务器地址："
 msgid "json|entrance/chooseserver|0|4|4ce384149d55f0d73663fca442778faa"
 msgstr "输入服务器地址："
 
-#: translate_json.csv:364
+#: translate_json.csv:363
 msgctxt "47.245.59.187:7891"
 msgid "json|entrance/chooseserver|0|5|846807519f52866170747bb3f6957ac8"
 msgstr "47.245.59.187:7891"
 
-#: translate_json.csv:365
+#: translate_json.csv:364
 msgctxt "更改语言:"
 msgid "json|entrance/choose_language|0|0|5876f3f893280836c417b28ea52aaff8"
 msgstr "更改语言:"
 
-#: translate_json.csv:366
+#: translate_json.csv:365
 msgctxt "当前语言：简体中文"
 msgid "json|entrance/choose_language|2|65b3c55cae1294e947c292113e580537"
 msgstr "当前语言：简体中文"
 
-#: translate_json.csv:367
+#: translate_json.csv:366
 msgctxt "Please choose your server"
 msgid "json|entrance/choose_route|0|0|2|d7bf281b4b3d8f321848fd9682b23a1f"
 msgstr "Please choose your server"
 
-#: translate_json.csv:368
+#: translate_json.csv:367
 msgctxt "Password"
 msgid "json|entrance/entrance|1|2|0|3|2|dc647eb65e6711e155375218212b3964"
 msgstr "Password"
 
-#: translate_json.csv:369
+#: translate_json.csv:368
 msgctxt "Register Now"
 msgid "json|entrance/entrance|1|2|0|4|0|77096b231f99bf93ef4a09ad575adc59"
 msgstr "Register Now"
 
-#: translate_json.csv:370
+#: translate_json.csv:369
 msgctxt "Forgot Password"
 msgid "json|entrance/entrance|1|2|0|5|0|9ec54ec336b65da6179cf750de33ecd7"
 msgstr "Forgot Password"
 
-#: translate_json.csv:371
+#: translate_json.csv:370
 msgctxt "Remember me"
 msgid "json|entrance/entrance|1|2|1|1|3|878530871f0db73f004f5bd6591eeb76"
 msgstr "Remember me"
 
-#: translate_json.csv:372
+#: translate_json.csv:371
 msgctxt "Login with:"
 msgid "json|entrance/entrance|1|2|2|0|65c6f152e51d208800f5149d5eaf6a4a"
 msgstr "Login with:"
 
-#: translate_json.csv:373
+#: translate_json.csv:372
 msgctxt "Remember me"
 msgid "json|entrance/entrance|1|2|3|1|3|878530871f0db73f004f5bd6591eeb76"
 msgstr "Remember me"
 
-#: translate_json.csv:374
+#: translate_json.csv:373
 msgctxt "We recommend Chrome browser"
 msgid "json|entrance/entrance|1|3|cdfb84808879f9845ce441ceaed07ed7"
 msgstr "We recommend Chrome browser"
 
-#: translate_json.csv:375
+#: translate_json.csv:374
 msgctxt "Logging in"
 msgid "json|entrance/entrance|1|4|1|6596e863cf1d0baa0dbccff0e9088e4a"
 msgstr "Logging in"
 
-#: translate_json.csv:376
+#: translate_json.csv:375
 msgctxt "Log Out"
 msgid "json|entrance/entrance|1|4|3|1|b0c2b25b3312c7a32d7aa9d701b6ae1d"
 msgstr "Log Out"
 
-#: translate_json.csv:377
+#: translate_json.csv:376
 msgctxt "Add to Home"
 msgid "json|entrance/entrance|1|5|1|4f9e1d4ba61187d5fdac13b5a7eef177"
 msgstr "Add to Home"
 
-#: translate_json.csv:378
+#: translate_json.csv:377
 msgctxt "Yostar Login"
 msgid "json|entrance/entrance|2|0|0|2|aa99454f3d620e59275b015430e7a8cd"
 msgstr "Yostar Login"
 
-#: translate_json.csv:379
+#: translate_json.csv:378
 msgctxt "Unavailable"
 msgid "json|entrance/entrance|2|0|2|2|453e6aa38d87b28ccae545967c53004f"
 msgstr "Unavailable"
 
-#: translate_json.csv:380
+#: translate_json.csv:379
 msgctxt "Send Code"
 msgid "json|entrance/entrance|2|0|4|2|9fb79eedf41de365cce17e1732615aba"
 msgstr "Send Code"
 
-#: translate_json.csv:381
+#: translate_json.csv:380
 msgctxt "《雀魂利用規約》"
 msgid "json|entrance/entrance|2|0|5|3|0|7ee2d464c14ba332332d20629ddc7ec9"
 msgstr "《雀魂利用規約》"
 
-#: translate_json.csv:382
+#: translate_json.csv:381
 msgctxt "、"
 msgid "json|entrance/entrance|2|0|5|3|1|b505660a97c0ddf7d7209d22bc498ed1"
 msgstr "、"
 
-#: translate_json.csv:383
+#: translate_json.csv:382
 msgctxt "《プライバシーポリシー》"
 msgid "json|entrance/entrance|2|0|5|3|2|9b764454b0fc9a56a71c625c84935ec3"
 msgstr "《プライバシーポリシー》"
 
-#: translate_json.csv:384
+#: translate_json.csv:383
 msgctxt "に同意する"
 msgid "json|entrance/entrance|2|0|5|3|3|a2fa520fc3c0f914e6c8e135f06c52c2"
 msgstr "に同意する"
 
-#: translate_json.csv:385
+#: translate_json.csv:384
 msgctxt "Agree to the"
 msgid "json|entrance/entrance|2|0|5|4|0|4fd9087a780672e0d3e43aba93086c55"
 msgstr "Agree to the"
 
-#: translate_json.csv:386
+#: translate_json.csv:385
 msgctxt "TERMS OF SERVICE"
 msgid "json|entrance/entrance|2|0|5|4|1|b17a121c64be59a85d9674b674dd1671"
 msgstr "TERMS OF SERVICE"
 
-#: translate_json.csv:387
+#: translate_json.csv:386
 msgctxt "and"
 msgid "json|entrance/entrance|2|0|5|4|2|be5d5d37542d75f93a87094459f76678"
 msgstr "and"
 
-#: translate_json.csv:388
+#: translate_json.csv:387
 msgctxt "PRIVACY POLICY"
 msgid "json|entrance/entrance|2|0|5|4|3|3ffc56d55d14ee690ec1b18d1fa45b81"
 msgstr "PRIVACY POLICY"
 
-#: translate_json.csv:389
+#: translate_json.csv:388
 msgctxt "※Enter email address"
 msgid "json|entrance/entrance|2|0|7|19f2ffb7ec9922cbdf3579d568de1401"
 msgstr "※Enter email address"
 
-#: translate_json.csv:390
+#: translate_json.csv:389
 msgctxt "※Enter the verification code sent to your email"
 msgid "json|entrance/entrance|2|0|8|256aebc88e723cf138ee45aa9a3f7d64"
 msgstr "※Enter the verification code sent to your email"
 
-#: translate_json.csv:391
+#: translate_json.csv:390
 msgctxt "简体中文"
 msgid "json|entrance/entrance|4|1|0|d688a3a4d07d16ac647e799e472bff2e"
 msgstr "简体中文"
 
-#: translate_json.csv:392
+#: translate_json.csv:391
 msgctxt "Confirm"
 msgid "json|entrance/error_info|0|0|2|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:393
+#: translate_json.csv:392
 msgctxt ""
 "New update available in iOS. Please download from the official website."
 msgid "json|entrance/ios_webview_update|0|1|1c71a8231a36a83ac77afa778ce07885"
 msgstr ""
 "New update available in iOS. Please download from the official website."
 
-#: translate_json.csv:394
+#: translate_json.csv:393
 msgctxt "Registration"
 msgid "json|entrance/mail_regist|0|0|1|0f98b7f230f3c91292f0de4c99e263f2"
 msgstr "Registration"
 
-#: translate_json.csv:395
+#: translate_json.csv:394
 msgctxt "Register using social network account"
 msgid "json|entrance/mail_regist|0|0|2|0|18e47fa7322e6fc3f45a7dd2d25e7cb6"
 msgstr "Register using social network account"
 
-#: translate_json.csv:396
+#: translate_json.csv:395
 msgctxt "“Majsoul License & Service Agreement”"
 msgid "json|entrance/mail_regist|0|0|9|3|e518e41f0288328e2ef5f4e7b6bebc7e"
 msgstr "“Majsoul License & Service Agreement”"
 
-#: translate_json.csv:397
+#: translate_json.csv:396
 msgctxt "、"
 msgid "json|entrance/mail_regist|0|0|10|5|b505660a97c0ddf7d7209d22bc498ed1"
 msgstr "、"
 
-#: translate_json.csv:398
+#: translate_json.csv:397
 msgctxt "Send code"
 msgid "json|entrance/mail_regist|0|0|11|0|8dab622763c6e4d607e1250d0c432dbd"
 msgstr "Send code"
 
-#: translate_json.csv:399
+#: translate_json.csv:398
 msgctxt "Connecting to server"
 msgid "json|entrance/mail_regist|1|1|1|b0f9aa1e436bfb153d799923ec1d792b"
 msgstr "Connecting to server"
 
-#: translate_json.csv:400
+#: translate_json.csv:399
 msgctxt "OK"
 msgid "json|entrance/maintenance|0|0|2|0|e0aa021e21dddbd6d8cecec71e9cf564"
 msgstr "OK"
 
-#: translate_json.csv:401
+#: translate_json.csv:400
 msgctxt "健康游戏公告"
 msgid "json|entrance/remind|0|2ebfb34ae28f17c0bcf68f5544f92741"
 msgstr "健康游戏公告"
 
-#: translate_json.csv:402
+#: translate_json.csv:401
 msgctxt "抵制不良游戏，拒绝盗版游戏"
 msgid "json|entrance/remind|0|0|d891aebff7539bc8360d3195f7a20159"
 msgstr "抵制不良游戏，拒绝盗版游戏"
 
-#: translate_json.csv:403
+#: translate_json.csv:402
 msgctxt "注意自我保护，谨防上当受骗"
 msgid "json|entrance/remind|0|1|e8964989d0be6fa61c517f9497e17ad9"
 msgstr "注意自我保护，谨防上当受骗"
 
-#: translate_json.csv:404
+#: translate_json.csv:403
 msgctxt "适度游戏益脑，沉迷游戏伤身"
 msgid "json|entrance/remind|0|2|e121ff4a3c771dc82993d293f645ad54"
 msgstr "适度游戏益脑，沉迷游戏伤身"
 
-#: translate_json.csv:405
+#: translate_json.csv:404
 msgctxt "合理安排时间，享受健康生活"
 msgid "json|entrance/remind|0|3|c8a9a77c9e7c51b31f8c54442bbfa188"
 msgstr "合理安排时间，享受健康生活"
 
-#: translate_json.csv:406
+#: translate_json.csv:405
 msgctxt "区区 立直棒 就送给你了"
 msgid "json|entrance/remind|1|104d9330bd6bda1cd5cb2d630cd78150"
 msgstr "区区 立直棒 就送给你了"
 
-#: translate_json.csv:407
+#: translate_json.csv:406
 msgctxt "——--"
 msgid "json|entrance/remind|2|f14267b88c82e2ef7eece040ef8c95e9"
 msgstr "——--"
 
-#: translate_json.csv:408
+#: translate_json.csv:407
 msgctxt "满贯"
 msgid "json|entrance/remind|3|0d294317d462018c9d9036340f048072"
 msgstr "满贯"
 
-#: translate_json.csv:409
+#: translate_json.csv:408
 msgctxt "跳满"
 msgid "json|entrance/remind|4|3afd32cf919475b4d7d21e7dc9fe09b7"
 msgstr "跳满"
 
-#: translate_json.csv:410
+#: translate_json.csv:409
 msgctxt "倍满"
 msgid "json|entrance/remind|5|c2e40626056dbfc1a56ab9984a0963c3"
 msgstr "倍满"
 
-#: translate_json.csv:411
+#: translate_json.csv:410
 msgctxt "役满"
 msgid "json|entrance/remind|6|92607c2e1891d8930c6c90edd0554d72"
 msgstr "役满"
 
-#: translate_json.csv:412
+#: translate_json.csv:411
 msgctxt "2/10"
 msgid "json|entrance/remind|7|0d8444667e1eb46855d3e2022ac49e0d"
 msgstr "2/10"
 
-#: translate_json.csv:413
+#: translate_json.csv:412
 msgctxt "Send"
 msgid ""
 "json|entrance/reset_password|0|0|1|0|0|94966d90747b97d1f0f206c98a8b1ac3"
 msgstr "Send"
 
-#: translate_json.csv:414
+#: translate_json.csv:413
 msgctxt "Confirm"
 msgid ""
 "json|entrance/reset_password|0|0|2|0|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:415
+#: translate_json.csv:414
 msgctxt "Confirm"
 msgid ""
 "json|entrance/reset_password_phone2|0|2|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:416
+#: translate_json.csv:415
 msgctxt "Send code"
 msgid ""
 "json|entrance/reset_password_phone2|0|10|0|8dab622763c6e4d607e1250d0c432dbd"
 msgstr "Send code"
 
-#: translate_json.csv:417
+#: translate_json.csv:416
 msgctxt "Claim"
 msgid "json|lobby/activity|0|3|1|1|0|0|803138044f8a43e9dcb5a76722ee06d0"
 msgstr "Claim"
 
-#: translate_json.csv:418
+#: translate_json.csv:417
 msgctxt "Delete"
 msgid "json|lobby/activity|0|3|1|2|0|0|f2a6c498fb90ee345d997f888fce3b18"
 msgstr "Delete"
 
-#: translate_json.csv:419
+#: translate_json.csv:418
 msgctxt "No Mail"
 msgid "json|lobby/activity|0|3|2|9739016a72888dd18b3c32a2c703f456"
 msgstr "No Mail"
 
-#: translate_json.csv:420
+#: translate_json.csv:419
 msgctxt "No Event"
 msgid "json|lobby/activity|0|4|2|c02593f0568d2db4ad0d3ad3270115a6"
 msgstr "No Event"
 
-#: translate_json.csv:421
+#: translate_json.csv:420
 msgctxt "coppers"
 msgid ""
 "json|lobby/activitys/activitybase|0|0|1|1|3|3646702fee6ab6f4a49ba7aa30fb82d1"
 msgstr "coppers"
 
-#: translate_json.csv:422
+#: translate_json.csv:421
 msgctxt "Revival Tokens"
 msgid ""
 "json|lobby/activitys/activitybase|0|0|1|1|4|554090f0fb1da7541f87205a76252072"
 msgstr "Revival Tokens"
 
-#: translate_json.csv:423
+#: translate_json.csv:422
 msgctxt "Claimed"
 msgid ""
 "json|lobby/activitys/activitybase|0|0|1|1|9|9d8b15ef78357692564f5aced0c68eaf"
 msgstr "Claimed"
 
-#: translate_json.csv:424
+#: translate_json.csv:423
 msgctxt "Claimed"
 msgid ""
 "json|lobby/activitys/activity_duanwu_rank|0|0|4|9d8b15ef78357692564f5aced0c68eaf"
 msgstr "Claimed"
 
-#: translate_json.csv:425
+#: translate_json.csv:424
 msgctxt "Redeem"
 msgid ""
 "json|lobby/activitys/activity_exchange|0|0|1|1|5|0|0|81ed4dcb851fefbbbc791eeef4cd97a2"
 msgstr "Redeem"
 
-#: translate_json.csv:426
+#: translate_json.csv:425
 msgctxt "Claimed"
 msgid ""
 "json|lobby/activitys/activity_exchange|0|0|1|1|8|9d8b15ef78357692564f5aced0c68eaf"
 msgstr "Claimed"
 
-#: translate_json.csv:427
+#: translate_json.csv:426
 msgctxt "Redeem"
 msgid ""
 "json|lobby/activitys/activity_exchange_zhongxia|0|0|1|1|5|0|0|81ed4dcb851fefbbbc791eeef4cd97a2"
 msgstr "Redeem"
 
-#: translate_json.csv:428
+#: translate_json.csv:427
 msgctxt "Claimed"
 msgid ""
 "json|lobby/activitys/activity_exchange_zhongxia|0|0|1|1|8|9d8b15ef78357692564f5aced0c68eaf"
 msgstr "Claimed"
 
-#: translate_json.csv:429
+#: translate_json.csv:428
 msgctxt "/"
 msgid ""
 "json|lobby/activitys/activity_guoqing|0|0|12|0|1|1|6666cd76f96956469e7be39d750cc7d9"
 msgstr "/"
 
-#: translate_json.csv:430
+#: translate_json.csv:429
 msgctxt "Revival Tokens"
 msgid ""
 "json|lobby/activitys/activity_jiuji|0|0|554090f0fb1da7541f87205a76252072"
 msgstr "Revival Tokens"
 
-#: translate_json.csv:431
+#: translate_json.csv:430
 msgctxt "coppers"
 msgid ""
 "json|lobby/activitys/activity_jiuji|0|1|1|3|3646702fee6ab6f4a49ba7aa30fb82d1"
 msgstr "coppers"
 
-#: translate_json.csv:432
+#: translate_json.csv:431
 msgctxt "Revival Tokens"
 msgid ""
 "json|lobby/activitys/activity_jiuji|0|1|1|4|554090f0fb1da7541f87205a76252072"
 msgstr "Revival Tokens"
 
-#: translate_json.csv:433
+#: translate_json.csv:432
 msgctxt "Claimed"
 msgid ""
 "json|lobby/activitys/activity_jiuji|0|1|1|10|9d8b15ef78357692564f5aced0c68eaf"
 msgstr "Claimed"
 
-#: translate_json.csv:434
+#: translate_json.csv:433
 msgctxt "coppers"
 msgid ""
 "json|lobby/activitys/activity_task|0|0|1|1|3|3646702fee6ab6f4a49ba7aa30fb82d1"
 msgstr "coppers"
 
-#: translate_json.csv:435
+#: translate_json.csv:434
 msgctxt "Claimed"
 msgid ""
 "json|lobby/activitys/activity_task|0|0|1|1|8|9d8b15ef78357692564f5aced0c68eaf"
 msgstr "Claimed"
 
-#: translate_json.csv:436
+#: translate_json.csv:435
 msgctxt "对局中每次达成特定番型都可获得红灯笼"
 msgid ""
 "json|lobby/activitys/activity_task_newyear|0|0|1|1|3|e6b2b6819f82fa42dd4d1780458ccc5a"
 msgstr "对局中每次达成特定番型都可获得红灯笼"
 
-#: translate_json.csv:437
+#: translate_json.csv:436
 msgctxt "收集"
 msgid ""
 "json|lobby/activitys/activity_task_newyear|0|0|1|1|4|c6dcd4b09a953e7a7622f4bebc5d4850"
 msgstr "收集"
 
-#: translate_json.csv:438
+#: translate_json.csv:437
 msgctxt "红灯笼"
 msgid ""
 "json|lobby/activitys/activity_task_newyear|0|0|1|1|4|0|b8512fda166902bd21d15ef1ec7c7c6c"
 msgstr "红灯笼"
 
-#: translate_json.csv:439
+#: translate_json.csv:438
 msgctxt "红灯笼×1"
 msgid ""
 "json|lobby/activitys/activity_task_newyear|0|0|1|1|6|0|03e6335d60bd55d5de996923e37300bb"
 msgstr "红灯笼×1"
 
-#: translate_json.csv:440
+#: translate_json.csv:439
 msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_newyear|0|0|1|1|6|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
 
-#: translate_json.csv:441
+#: translate_json.csv:440
 msgctxt "红灯笼×2"
 msgid ""
 "json|lobby/activitys/activity_task_newyear|0|0|1|1|7|0|eded028311ebd7bf8fad6fdf3dade54f"
 msgstr "红灯笼×2"
 
-#: translate_json.csv:442
+#: translate_json.csv:441
 msgctxt "七对子"
 msgid ""
 "json|lobby/activitys/activity_task_newyear|0|0|1|1|7|2|1ddaf963379555d54beb20d0eae7bde5"
 msgstr "七对子"
 
-#: translate_json.csv:443
+#: translate_json.csv:442
 msgctxt "红灯笼×4"
 msgid ""
 "json|lobby/activitys/activity_task_newyear|0|0|1|1|8|0|3e03e5b572a681129879731a3511cad5"
 msgstr "红灯笼×4"
 
-#: translate_json.csv:444
+#: translate_json.csv:443
 msgctxt "两立直、二杯口"
 msgid ""
 "json|lobby/activitys/activity_task_newyear|0|0|1|1|8|2|eb95c9aaf9741f8bf919794d67f7611d"
 msgstr "两立直、二杯口"
 
-#: translate_json.csv:445
+#: translate_json.csv:444
 msgctxt "红灯笼×8"
 msgid ""
 "json|lobby/activitys/activity_task_newyear|0|0|1|1|9|0|d7a9b2d5508a9492b39189c016821c2a"
 msgstr "红灯笼×8"
 
-#: translate_json.csv:446
+#: translate_json.csv:445
 msgctxt "天和、地和、四暗刻、四暗刻单骑、\\n国士无双、国士无双十三面、\\n九莲宝灯、纯正九莲宝灯"
 msgid ""
 "json|lobby/activitys/activity_task_newyear|0|0|1|1|9|2|91946025f0d6cffa5fe0bb57b85969d3"
 msgstr "天和、地和、四暗刻、四暗刻单骑、\\n国士无双、国士无双十三面、\\n九莲宝灯、纯正九莲宝灯"
 
-#: translate_json.csv:447
+#: translate_json.csv:446
 msgctxt "风铃"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|3|f5656e57a0952c31933ac82c9d8ee3f5"
 msgstr "风铃"
 
-#: translate_json.csv:448
+#: translate_json.csv:447
 msgctxt "对局中每次达成特定番型都可获得红灯笼"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|4|e6b2b6819f82fa42dd4d1780458ccc5a"
 msgstr "对局中每次达成特定番型都可获得红灯笼"
 
-#: translate_json.csv:449
+#: translate_json.csv:448
 msgctxt "今日获得"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|5|ec821b603a2263d196d97ab0ed456c97"
 msgstr "今日获得"
 
-#: translate_json.csv:450
+#: translate_json.csv:449
 msgctxt "15"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|6|9bf31c7ff062936a96d3c8bd1f8f2ff3"
 msgstr "15"
 
-#: translate_json.csv:451
+#: translate_json.csv:450
 msgctxt "/30"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|7|105147c532b7ad6ee8ec9ac2d5424a95"
 msgstr "/30"
 
-#: translate_json.csv:452
+#: translate_json.csv:451
 msgctxt "红灯笼×1"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|9|0|03e6335d60bd55d5de996923e37300bb"
 msgstr "红灯笼×1"
 
-#: translate_json.csv:453
+#: translate_json.csv:452
 msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|9|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
 
-#: translate_json.csv:454
+#: translate_json.csv:453
 msgctxt "红灯笼×1"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|10|0|03e6335d60bd55d5de996923e37300bb"
 msgstr "红灯笼×1"
 
-#: translate_json.csv:455
+#: translate_json.csv:454
 msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|10|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
 
-#: translate_json.csv:456
+#: translate_json.csv:455
 msgctxt "红灯笼×1"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|11|0|03e6335d60bd55d5de996923e37300bb"
 msgstr "红灯笼×1"
 
-#: translate_json.csv:457
+#: translate_json.csv:456
 msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|11|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
 
-#: translate_json.csv:458
+#: translate_json.csv:457
 msgctxt "红灯笼×1"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|12|0|03e6335d60bd55d5de996923e37300bb"
 msgstr "红灯笼×1"
 
-#: translate_json.csv:459
+#: translate_json.csv:458
 msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|1|1|12|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
 
-#: translate_json.csv:460
+#: translate_json.csv:459
 msgctxt "风铃"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|3|f5656e57a0952c31933ac82c9d8ee3f5"
 msgstr "风铃"
 
-#: translate_json.csv:461
+#: translate_json.csv:460
 msgctxt "对局中每次达成特定番型都可获得红灯笼"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|4|e6b2b6819f82fa42dd4d1780458ccc5a"
 msgstr "对局中每次达成特定番型都可获得红灯笼"
 
-#: translate_json.csv:462
+#: translate_json.csv:461
 msgctxt "今日获得"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|5|ec821b603a2263d196d97ab0ed456c97"
 msgstr "今日获得"
 
-#: translate_json.csv:463
+#: translate_json.csv:462
 msgctxt "15"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|6|9bf31c7ff062936a96d3c8bd1f8f2ff3"
 msgstr "15"
 
-#: translate_json.csv:464
+#: translate_json.csv:463
 msgctxt "/30"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|7|105147c532b7ad6ee8ec9ac2d5424a95"
 msgstr "/30"
 
-#: translate_json.csv:465
+#: translate_json.csv:464
 msgctxt "红灯笼×1"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|9|0|03e6335d60bd55d5de996923e37300bb"
 msgstr "红灯笼×1"
 
-#: translate_json.csv:466
+#: translate_json.csv:465
 msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|9|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
 
-#: translate_json.csv:467
+#: translate_json.csv:466
 msgctxt "红灯笼×1"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|10|0|03e6335d60bd55d5de996923e37300bb"
 msgstr "红灯笼×1"
 
-#: translate_json.csv:468
+#: translate_json.csv:467
 msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|10|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
 
-#: translate_json.csv:469
+#: translate_json.csv:468
 msgctxt "红灯笼×1"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|11|0|03e6335d60bd55d5de996923e37300bb"
 msgstr "红灯笼×1"
 
-#: translate_json.csv:470
+#: translate_json.csv:469
 msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|11|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
 
-#: translate_json.csv:471
+#: translate_json.csv:470
 msgctxt "红灯笼×1"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|12|0|03e6335d60bd55d5de996923e37300bb"
 msgstr "红灯笼×1"
 
-#: translate_json.csv:472
+#: translate_json.csv:471
 msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|12|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
 
-#: translate_json.csv:473
+#: translate_json.csv:472
 msgctxt "风铃"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|3|f5656e57a0952c31933ac82c9d8ee3f5"
 msgstr "风铃"
 
-#: translate_json.csv:474
+#: translate_json.csv:473
 msgctxt "对局中每次达成特定番型都可获得红灯笼"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|4|e6b2b6819f82fa42dd4d1780458ccc5a"
 msgstr "对局中每次达成特定番型都可获得红灯笼"
 
-#: translate_json.csv:475
+#: translate_json.csv:474
 msgctxt "今日获得"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|5|ec821b603a2263d196d97ab0ed456c97"
 msgstr "今日获得"
 
-#: translate_json.csv:476
+#: translate_json.csv:475
 msgctxt "15"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|6|9bf31c7ff062936a96d3c8bd1f8f2ff3"
 msgstr "15"
 
-#: translate_json.csv:477
+#: translate_json.csv:476
 msgctxt "/30"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|7|105147c532b7ad6ee8ec9ac2d5424a95"
 msgstr "/30"
 
-#: translate_json.csv:478
+#: translate_json.csv:477
 msgctxt "红灯笼×1"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|9|0|03e6335d60bd55d5de996923e37300bb"
 msgstr "红灯笼×1"
 
-#: translate_json.csv:479
+#: translate_json.csv:478
 msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|9|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
 
-#: translate_json.csv:480
+#: translate_json.csv:479
 msgctxt "红灯笼×1"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|10|0|03e6335d60bd55d5de996923e37300bb"
 msgstr "红灯笼×1"
 
-#: translate_json.csv:481
+#: translate_json.csv:480
 msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|10|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
 
-#: translate_json.csv:482
+#: translate_json.csv:481
 msgctxt "红灯笼×1"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|11|0|03e6335d60bd55d5de996923e37300bb"
 msgstr "红灯笼×1"
 
-#: translate_json.csv:483
+#: translate_json.csv:482
 msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|11|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
 
-#: translate_json.csv:484
+#: translate_json.csv:483
 msgctxt "红灯笼×1"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|12|0|03e6335d60bd55d5de996923e37300bb"
 msgstr "红灯笼×1"
 
-#: translate_json.csv:485
+#: translate_json.csv:484
 msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|12|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
 
-#: translate_json.csv:486
+#: translate_json.csv:485
 msgctxt "Redeem"
 msgid ""
 "json|lobby/activitys/activity_tongbi_exchange|0|0|1|1|5|0|0|81ed4dcb851fefbbbc791eeef4cd97a2"
 msgstr "Redeem"
 
-#: translate_json.csv:487
+#: translate_json.csv:486
 msgctxt "Claimed"
 msgid ""
 "json|lobby/activitys/activity_tongbi_exchange|0|0|1|1|8|9d8b15ef78357692564f5aced0c68eaf"
 msgstr "Claimed"
 
-#: translate_json.csv:488
+#: translate_json.csv:487
 msgctxt "Redeem"
 msgid ""
 "json|lobby/activitys/activity_wuyi_exchange|0|0|1|1|5|0|0|81ed4dcb851fefbbbc791eeef4cd97a2"
 msgstr "Redeem"
 
-#: translate_json.csv:489
+#: translate_json.csv:488
 msgctxt "Claimed"
 msgid ""
 "json|lobby/activitys/activity_wuyi_exchange|0|0|1|1|8|9d8b15ef78357692564f5aced0c68eaf"
 msgstr "Claimed"
 
-#: translate_json.csv:490
+#: translate_json.csv:489
 msgctxt "Claimed"
 msgid ""
 "json|lobby/activitys/activity_wuyi_task|0|0|1|1|8|9d8b15ef78357692564f5aced0c68eaf"
 msgstr "Claimed"
 
-#: translate_json.csv:491
+#: translate_json.csv:490
 msgctxt "Copper on the map"
 msgid ""
 "json|lobby/activitys/activity_yijidagong|0|4|6047433d66d5e02636dd0d7555e26470"
 msgstr "Copper on the map"
 
-#: translate_json.csv:492
+#: translate_json.csv:491
 msgctxt "+"
 msgid ""
 "json|lobby/activitys/activity_yijidagong|0|13|0|1|26b17225b626fb9238849fd60eabdf60"
 msgstr "+"
 
-#: translate_json.csv:493
+#: translate_json.csv:492
 msgctxt "Claim"
 msgid ""
 "json|lobby/activitys/guoqing_popout|0|4|1|803138044f8a43e9dcb5a76722ee06d0"
 msgstr "Claim"
 
-#: translate_json.csv:494
+#: translate_json.csv:493
 msgctxt "Confirm"
 msgid ""
 "json|lobby/activitys/guoqing_popout|0|5|1|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:495
+#: translate_json.csv:494
 msgctxt "999999"
 msgid "json|lobby/activitys/sign|3|2|0|52c69e3a57331081823331c4e69d3f2e"
 msgstr "999999"
 
-#: translate_json.csv:496
+#: translate_json.csv:495
 msgctxt "超级巧克力"
 msgid "json|lobby/activitys/sign|3|2|1|64f7a26b29b305589f5f99c446b2ede2"
 msgstr "超级巧克力"
 
-#: translate_json.csv:497
+#: translate_json.csv:496
 msgctxt "第一天"
 msgid "json|lobby/activitys/sign|3|3|7c3946da450daf9a25b6a412a873bffb"
 msgstr "第一天"
 
-#: translate_json.csv:498
+#: translate_json.csv:497
 msgctxt "999999"
 msgid "json|lobby/activitys/sign|4|2|0|52c69e3a57331081823331c4e69d3f2e"
 msgstr "999999"
 
-#: translate_json.csv:499
+#: translate_json.csv:498
 msgctxt "超级巧克力"
 msgid "json|lobby/activitys/sign|4|2|1|64f7a26b29b305589f5f99c446b2ede2"
 msgstr "超级巧克力"
 
-#: translate_json.csv:500
+#: translate_json.csv:499
 msgctxt "第二天"
 msgid "json|lobby/activitys/sign|4|3|f588950d0587cbdc146949720d7a0c63"
 msgstr "第二天"
 
-#: translate_json.csv:501
+#: translate_json.csv:500
 msgctxt "999999"
 msgid "json|lobby/activitys/sign|5|2|0|52c69e3a57331081823331c4e69d3f2e"
 msgstr "999999"
 
-#: translate_json.csv:502
+#: translate_json.csv:501
 msgctxt "超级巧克力"
 msgid "json|lobby/activitys/sign|5|2|1|64f7a26b29b305589f5f99c446b2ede2"
 msgstr "超级巧克力"
 
-#: translate_json.csv:503
+#: translate_json.csv:502
 msgctxt "第三天"
 msgid "json|lobby/activitys/sign|5|3|ab2dd2fe6c86ac94560e0e98c7ed57f1"
 msgstr "第三天"
 
-#: translate_json.csv:504
+#: translate_json.csv:503
 msgctxt "999999"
 msgid "json|lobby/activitys/sign|6|2|0|52c69e3a57331081823331c4e69d3f2e"
 msgstr "999999"
 
-#: translate_json.csv:505
+#: translate_json.csv:504
 msgctxt "超级巧克力"
 msgid "json|lobby/activitys/sign|6|2|1|64f7a26b29b305589f5f99c446b2ede2"
 msgstr "超级巧克力"
 
-#: translate_json.csv:506
+#: translate_json.csv:505
 msgctxt "第四天"
 msgid "json|lobby/activitys/sign|6|3|730e4208a23288ed8210a7e27527ebbc"
 msgstr "第四天"
 
-#: translate_json.csv:507
+#: translate_json.csv:506
 msgctxt "999999"
 msgid "json|lobby/activitys/sign|7|2|0|52c69e3a57331081823331c4e69d3f2e"
 msgstr "999999"
 
-#: translate_json.csv:508
+#: translate_json.csv:507
 msgctxt "超级巧克力"
 msgid "json|lobby/activitys/sign|7|2|1|64f7a26b29b305589f5f99c446b2ede2"
 msgstr "超级巧克力"
 
-#: translate_json.csv:509
+#: translate_json.csv:508
 msgctxt "第五天"
 msgid "json|lobby/activitys/sign|7|3|028e0b3ef53a85fe058357ce74e1670d"
 msgstr "第五天"
 
-#: translate_json.csv:510
+#: translate_json.csv:509
 msgctxt "999999"
 msgid "json|lobby/activitys/sign|8|2|0|52c69e3a57331081823331c4e69d3f2e"
 msgstr "999999"
 
-#: translate_json.csv:511
+#: translate_json.csv:510
 msgctxt "超级巧克力"
 msgid "json|lobby/activitys/sign|8|2|1|64f7a26b29b305589f5f99c446b2ede2"
 msgstr "超级巧克力"
 
-#: translate_json.csv:512
+#: translate_json.csv:511
 msgctxt "第六天"
 msgid "json|lobby/activitys/sign|8|3|9ab7792255e02500ac830dcec3c29d8b"
 msgstr "第六天"
 
-#: translate_json.csv:513
+#: translate_json.csv:512
 msgctxt "999999"
 msgid "json|lobby/activitys/sign|9|2|0|52c69e3a57331081823331c4e69d3f2e"
 msgstr "999999"
 
-#: translate_json.csv:514
+#: translate_json.csv:513
 msgctxt "超级巧克力"
 msgid "json|lobby/activitys/sign|9|2|1|64f7a26b29b305589f5f99c446b2ede2"
 msgstr "超级巧克力"
 
-#: translate_json.csv:515
+#: translate_json.csv:514
 msgctxt "第七天"
 msgid "json|lobby/activitys/sign|9|3|88e1e65773ac636135690daa50bae2c1"
 msgstr "第七天"
 
-#: translate_json.csv:516
+#: translate_json.csv:515
 msgctxt "每日祈福"
 msgid "json|lobby/activitys/sign|10|57eb46444c3cedd279786de0fe0cff40"
 msgstr "每日祈福"
 
-#: translate_json.csv:517
+#: translate_json.csv:516
 msgctxt "Join Room #"
 msgid "json|lobby/add_room|0|2|78b588c5ca18fcb30cedd13afdcf41db"
 msgstr "Join Room #"
 
-#: translate_json.csv:518
+#: translate_json.csv:517
 msgctxt "Confirm"
 msgid "json|lobby/add_room|0|3|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:519
+#: translate_json.csv:518
 msgctxt "1"
 msgid "json|lobby/add_room|0|6|0|1|c4ca4238a0b923820dcc509a6f75849b"
 msgstr "1"
 
-#: translate_json.csv:520
+#: translate_json.csv:519
 msgctxt "2"
 msgid "json|lobby/add_room|0|6|1|1|c81e728d9d4c2f636f067f89cc14862c"
 msgstr "2"
 
-#: translate_json.csv:521
+#: translate_json.csv:520
 msgctxt "3"
 msgid "json|lobby/add_room|0|6|2|1|eccbc87e4b5ce2fe28308fd9f2a7baf3"
 msgstr "3"
 
-#: translate_json.csv:522
+#: translate_json.csv:521
 msgctxt "4"
 msgid "json|lobby/add_room|0|6|3|1|a87ff679a2f3e71d9181a67b7542122c"
 msgstr "4"
 
-#: translate_json.csv:523
+#: translate_json.csv:522
 msgctxt "5"
 msgid "json|lobby/add_room|0|6|4|1|e4da3b7fbbce2345d7772b0674a318d5"
 msgstr "5"
 
-#: translate_json.csv:524
+#: translate_json.csv:523
 msgctxt "6"
 msgid "json|lobby/add_room|0|6|5|1|1679091c5a880faf6fb5e6087eb1b2dc"
 msgstr "6"
 
-#: translate_json.csv:525
+#: translate_json.csv:524
 msgctxt "7"
 msgid "json|lobby/add_room|0|6|6|1|8f14e45fceea167a5a36dedd4bea2543"
 msgstr "7"
 
-#: translate_json.csv:526
+#: translate_json.csv:525
 msgctxt "8"
 msgid "json|lobby/add_room|0|6|7|1|c9f0f895fb98ab9159f51fd0297e236d"
 msgstr "8"
 
-#: translate_json.csv:527
+#: translate_json.csv:526
 msgctxt "9"
 msgid "json|lobby/add_room|0|6|8|1|45c48cce2e2d7fbdea1afc51c7c6ad26"
 msgstr "9"
 
-#: translate_json.csv:528
+#: translate_json.csv:527
 msgctxt "Clear"
 msgid "json|lobby/add_room|0|6|9|1|dc30bc0c7914db5918da4263fce93ad2"
 msgstr "Clear"
 
-#: translate_json.csv:529
+#: translate_json.csv:528
 msgctxt "0"
 msgid "json|lobby/add_room|0|6|10|1|cfcd208495d565ef66e7dff9f98764da"
 msgstr "0"
 
-#: translate_json.csv:530
+#: translate_json.csv:529
 msgctxt "年齢認証"
 msgid "json|lobby/ageconfirm|0|0|2|0f350a50fda60f4fb4c9b995e00f204b"
 msgstr "年齢認証"
 
-#: translate_json.csv:531
+#: translate_json.csv:530
 msgctxt "毎月の購入上限は"
 msgid "json|lobby/ageconfirm|0|0|4|fba1fa453b4d27d1208c389d5f489314"
 msgstr "毎月の購入上限は"
 
-#: translate_json.csv:532
+#: translate_json.csv:531
 msgctxt "円になります"
 msgid "json|lobby/ageconfirm|0|0|5|adeba0ed6218516594903ccf933954ef"
 msgstr "円になります"
 
-#: translate_json.csv:533
+#: translate_json.csv:532
 msgctxt "20000"
 msgid "json|lobby/ageconfirm|0|0|6|d9798cdf31c02d86b8b81cc119d94836"
 msgstr "20000"
 
-#: translate_json.csv:534
+#: translate_json.csv:533
 msgctxt "確認"
 msgid "json|lobby/ageconfirm|0|0|7|0|30749e25d5bbb3843a99a1a8b24a9f2f"
 msgstr "確認"
 
-#: translate_json.csv:535
+#: translate_json.csv:534
 msgctxt "年齢認証"
 msgid "json|lobby/agepending|0|0|0|2|0f350a50fda60f4fb4c9b995e00f204b"
 msgstr "年齢認証"
 
-#: translate_json.csv:536
+#: translate_json.csv:535
 msgctxt "あなたの年齢によって一ヶ月に購入できる金額がきまっています。"
 msgid "json|lobby/agepending|0|0|0|3|7773a2b82ceb434513289277d53d1f6d"
 msgstr "あなたの年齢によって一ヶ月に購入できる金額がきまっています。"
 
-#: translate_json.csv:537
+#: translate_json.csv:536
 msgctxt "必ず正しい生年月を入力してください。"
 msgid "json|lobby/agepending|0|0|0|4|b837f827a81fb40315a3f7a6beeaa05d"
 msgstr "必ず正しい生年月を入力してください。"
 
-#: translate_json.csv:538
+#: translate_json.csv:537
 msgctxt "(*あとから生年月の変更はできません。)"
 msgid "json|lobby/agepending|0|0|0|5|fdfbe244b59acb45a3dbd89681c60ebe"
 msgstr "(*あとから生年月の変更はできません。)"
 
-#: translate_json.csv:539
+#: translate_json.csv:538
 msgctxt "毎月の購入上限額"
 msgid "json|lobby/agepending|0|0|0|6|6eab339d88435fb556dfa7343a4131c2"
 msgstr "毎月の購入上限額"
 
-#: translate_json.csv:540
+#: translate_json.csv:539
 msgctxt "16才未満:"
 msgid "json|lobby/agepending|0|0|0|7|ec50665bcd57cb32d11663c5c7c8e12d"
 msgstr "16才未満:"
 
-#: translate_json.csv:541
+#: translate_json.csv:540
 msgctxt "16才以上20才未満:"
 msgid "json|lobby/agepending|0|0|0|8|436ecdcc7a7dd8a830bc6acbc4fe41de"
 msgstr "16才以上20才未満:"
 
-#: translate_json.csv:542
+#: translate_json.csv:541
 msgctxt "20才以上:"
 msgid "json|lobby/agepending|0|0|0|9|4a9ae6178b95d9e89482ad4456dfb6a0"
 msgstr "20才以上:"
 
-#: translate_json.csv:543
+#: translate_json.csv:542
 msgctxt "20000円"
 msgid "json|lobby/agepending|0|0|0|10|7e07da65b477236fafa41a4fe7743f4c"
 msgstr "20000円"
 
-#: translate_json.csv:544
+#: translate_json.csv:543
 msgctxt "5000円"
 msgid "json|lobby/agepending|0|0|0|11|1858003096d4c188843f412b672a3ee3"
 msgstr "5000円"
 
-#: translate_json.csv:545
+#: translate_json.csv:544
 msgctxt "生年月"
 msgid "json|lobby/agepending|0|0|0|12|899e8522064d1c39512ba663b560e9d4"
 msgstr "生年月"
 
-#: translate_json.csv:546
+#: translate_json.csv:545
 msgctxt "年"
 msgid "json|lobby/agepending|0|0|0|13|465260fe80b0c3338d06194bb7a94446"
 msgstr "年"
 
-#: translate_json.csv:547
+#: translate_json.csv:546
 msgctxt "月"
 msgid "json|lobby/agepending|0|0|0|14|e42b99d59954ce6437e66f416850425a"
 msgstr "月"
 
-#: translate_json.csv:548
+#: translate_json.csv:547
 msgctxt "無制限"
 msgid "json|lobby/agepending|0|0|0|15|3afae270a4241307a510e9a2ac304d4e"
 msgstr "無制限"
 
-#: translate_json.csv:549
+#: translate_json.csv:548
 msgctxt "年"
 msgid "json|lobby/agepending|0|0|1|0|465260fe80b0c3338d06194bb7a94446"
 msgstr "年"
 
-#: translate_json.csv:550
+#: translate_json.csv:549
 msgctxt "月"
 msgid "json|lobby/agepending|0|0|2|0|e42b99d59954ce6437e66f416850425a"
 msgstr "月"
 
-#: translate_json.csv:551
+#: translate_json.csv:550
 msgctxt "確認"
 msgid "json|lobby/agepending|0|0|3|0|30749e25d5bbb3843a99a1a8b24a9f2f"
 msgstr "確認"
 
-#: translate_json.csv:552
+#: translate_json.csv:551
 msgctxt "请选择月份"
 msgid "json|lobby/agepending|0|0|5|904393383755b88e61f5c242eafabdda"
 msgstr "请选择月份"
 
-#: translate_json.csv:553
+#: translate_json.csv:552
 msgctxt "请选择年份"
 msgid "json|lobby/agepending|0|0|6|105db033c48a8ddb07f8cbc408fbc6e9"
 msgstr "请选择年份"
 
-#: translate_json.csv:554
+#: translate_json.csv:553
 msgctxt "2001"
 msgid "json|lobby/agepending|0|1|1|2|0|0|1|d0fb963ff976f9c37fc81fe03c21ea7b"
 msgstr "2001"
 
-#: translate_json.csv:555
+#: translate_json.csv:554
 msgctxt "2001"
 msgid "json|lobby/agepending|0|1|2|2|0|0|1|d0fb963ff976f9c37fc81fe03c21ea7b"
 msgstr "2001"
 
-#: translate_json.csv:556
+#: translate_json.csv:555
 msgctxt "年龄认证"
 msgid "json|lobby/agepending_chs|0|0|0|2|ca0bf836bf2f560c1f32bb9c7b5c8039"
 msgstr "年龄认证"
 
-#: translate_json.csv:557
+#: translate_json.csv:556
 msgctxt "根据《关于防止未成年人沉迷网络游戏的通知》需要登记您的出生年月。\\n请如实填写您的出生年月，提交后无法更改。"
 msgid "json|lobby/agepending_chs|0|0|0|3|18cdd9831e7b5d827969cf62376eac77"
 msgstr "根据《关于防止未成年人沉迷网络游戏的通知》需要登记您的出生年月。\\n请如实填写您的出生年月，提交后无法更改。"
 
-#: translate_json.csv:558
+#: translate_json.csv:557
 msgctxt ""
 "未成年人用户每日22时到次日8时无法进行游戏，工作日游戏时间不能超过1.5小时，法定节假日每日不能超过3小时。 "
 "\\n8岁以下用户不能使用充值服务。\\n8至16岁用户单次充值金额不能超过50元人民币，每月充值金额累计不能超过200元人民币。\\n16至18岁用户单次充值金额不能超过100元人民币，每月充值金额累计不能超过400元人民币。"
@@ -3063,404 +3058,404 @@ msgstr ""
 "未成年人用户每日22时到次日8时无法进行游戏，工作日游戏时间不能超过1.5小时，法定节假日每日不能超过3小时。 "
 "\\n8岁以下用户不能使用充值服务。\\n8至16岁用户单次充值金额不能超过50元人民币，每月充值金额累计不能超过200元人民币。\\n16至18岁用户单次充值金额不能超过100元人民币，每月充值金额累计不能超过400元人民币。"
 
-#: translate_json.csv:559
+#: translate_json.csv:558
 msgctxt "生年月"
 msgid "json|lobby/agepending_chs|0|0|0|5|899e8522064d1c39512ba663b560e9d4"
 msgstr "生年月"
 
-#: translate_json.csv:560
+#: translate_json.csv:559
 msgctxt "年"
 msgid "json|lobby/agepending_chs|0|0|0|6|465260fe80b0c3338d06194bb7a94446"
 msgstr "年"
 
-#: translate_json.csv:561
+#: translate_json.csv:560
 msgctxt "月"
 msgid "json|lobby/agepending_chs|0|0|0|7|e42b99d59954ce6437e66f416850425a"
 msgstr "月"
 
-#: translate_json.csv:562
+#: translate_json.csv:561
 msgctxt "年"
 msgid "json|lobby/agepending_chs|0|0|1|0|465260fe80b0c3338d06194bb7a94446"
 msgstr "年"
 
-#: translate_json.csv:563
+#: translate_json.csv:562
 msgctxt "月"
 msgid "json|lobby/agepending_chs|0|0|2|0|e42b99d59954ce6437e66f416850425a"
 msgstr "月"
 
-#: translate_json.csv:564
+#: translate_json.csv:563
 msgctxt "确认"
 msgid "json|lobby/agepending_chs|0|0|3|0|e83a256e4f5bb4ff8b3d804b5473217a"
 msgstr "确认"
 
-#: translate_json.csv:565
+#: translate_json.csv:564
 msgctxt "请选择月份"
 msgid "json|lobby/agepending_chs|0|0|4|904393383755b88e61f5c242eafabdda"
 msgstr "请选择月份"
 
-#: translate_json.csv:566
+#: translate_json.csv:565
 msgctxt "请选择年份"
 msgid "json|lobby/agepending_chs|0|0|5|105db033c48a8ddb07f8cbc408fbc6e9"
 msgstr "请选择年份"
 
-#: translate_json.csv:567
+#: translate_json.csv:566
 msgctxt "2001"
 msgid ""
 "json|lobby/agepending_chs|0|1|1|2|0|0|1|d0fb963ff976f9c37fc81fe03c21ea7b"
 msgstr "2001"
 
-#: translate_json.csv:568
+#: translate_json.csv:567
 msgctxt "2001"
 msgid ""
 "json|lobby/agepending_chs|0|1|2|2|0|0|1|d0fb963ff976f9c37fc81fe03c21ea7b"
 msgstr "2001"
 
-#: translate_json.csv:569
+#: translate_json.csv:568
 msgctxt "年齢認証"
 msgid "json|lobby/agesuccess|0|0|2|0f350a50fda60f4fb4c9b995e00f204b"
 msgstr "年齢認証"
 
-#: translate_json.csv:570
+#: translate_json.csv:569
 msgctxt "認証完了しました。"
 msgid "json|lobby/agesuccess|0|0|3|5bc70e6b8a0eb5c461e627a88ab044a4"
 msgstr "認証完了しました。"
 
-#: translate_json.csv:571
+#: translate_json.csv:570
 msgctxt "確認"
 msgid "json|lobby/agesuccess|0|0|4|0|30749e25d5bbb3843a99a1a8b24a9f2f"
 msgstr "確認"
 
-#: translate_json.csv:572
+#: translate_json.csv:571
 msgctxt "确定"
 msgid "json|lobby/agesuccess_chs|0|3|0|38cf16f2204ffab8a6e0187070558721"
 msgstr "确定"
 
-#: translate_json.csv:573
+#: translate_json.csv:572
 msgctxt "年齢認証"
 msgid "json|lobby/agexiane|0|0|2|0f350a50fda60f4fb4c9b995e00f204b"
 msgstr "年齢認証"
 
-#: translate_json.csv:574
+#: translate_json.csv:573
 msgctxt "20000"
 msgid "json|lobby/agexiane|0|0|3|d9798cdf31c02d86b8b81cc119d94836"
 msgstr "20000"
 
-#: translate_json.csv:575
+#: translate_json.csv:574
 msgctxt "円"
 msgid "json|lobby/agexiane|0|0|4|a6de4cbffa92dc5b3f797fe3acc3536b"
 msgstr "円"
 
-#: translate_json.csv:576
+#: translate_json.csv:575
 msgctxt "毎月の購入上限額:"
 msgid "json|lobby/agexiane|0|0|5|f70cef3ac824a10a91532a723cee89ee"
 msgstr "毎月の購入上限額:"
 
-#: translate_json.csv:577
+#: translate_json.csv:576
 msgctxt "20000"
 msgid "json|lobby/agexiane|0|0|6|d9798cdf31c02d86b8b81cc119d94836"
 msgstr "20000"
 
-#: translate_json.csv:578
+#: translate_json.csv:577
 msgctxt "円"
 msgid "json|lobby/agexiane|0|0|7|a6de4cbffa92dc5b3f797fe3acc3536b"
 msgstr "円"
 
-#: translate_json.csv:579
+#: translate_json.csv:578
 msgctxt "今月の合計購入額:"
 msgid "json|lobby/agexiane|0|0|8|6fe63fefe369e5c88410c1abd0a0b663"
 msgstr "今月の合計購入額:"
 
-#: translate_json.csv:580
+#: translate_json.csv:579
 msgctxt "確認"
 msgid "json|lobby/agexiane|0|0|9|0|30749e25d5bbb3843a99a1a8b24a9f2f"
 msgstr "確認"
 
-#: translate_json.csv:581
+#: translate_json.csv:580
 msgctxt "Outfit"
 msgid "json|lobby/bag|0|0|0|1|53b63018bfb47c8eaa82a16c8a07351e"
 msgstr "Outfit"
 
-#: translate_json.csv:582
+#: translate_json.csv:581
 msgctxt "Decoration"
 msgid "json|lobby/bag|0|0|1|1|24365794120e03b807acbd05c0a48db9"
 msgstr "Decoration"
 
-#: translate_json.csv:583
+#: translate_json.csv:582
 msgctxt "Gift"
 msgid "json|lobby/bag|0|0|2|1|0d9175fe89fb80d815e7d03698b6e83a"
 msgstr "Gift"
 
-#: translate_json.csv:584
+#: translate_json.csv:583
 msgctxt "Item"
 msgid "json|lobby/bag|0|0|3|1|7d74f3b92b19da5e606d737d339a9679"
 msgstr "Item"
 
-#: translate_json.csv:585
+#: translate_json.csv:584
 msgctxt "Donate"
 msgid "json|lobby/bag|0|1|3|0|0584e445d656b83b431227bb80ff0c30"
 msgstr "Donate"
 
-#: translate_json.csv:586
+#: translate_json.csv:585
 msgctxt "Deselect All"
 msgid "json|lobby/bag|0|1|6|0|0|ddda55b80f65cae4157306794a168c37"
 msgstr "Deselect All"
 
-#: translate_json.csv:587
+#: translate_json.csv:586
 msgctxt "Back"
 msgid "json|lobby/bag|0|1|6|1|0|0557fa923dcee4d0f86b1409f5c2167f"
 msgstr "Back"
 
-#: translate_json.csv:588
+#: translate_json.csv:587
 msgctxt "Donate"
 msgid "json|lobby/bag|0|1|6|2|0|0584e445d656b83b431227bb80ff0c30"
 msgstr "Donate"
 
-#: translate_json.csv:589
+#: translate_json.csv:588
 msgctxt "Select the gift you would like to donate"
 msgid "json|lobby/bag|0|1|6|3|9c01347e917bb526868c680f13275e78"
 msgstr "Select the gift you would like to donate"
 
-#: translate_json.csv:590
+#: translate_json.csv:589
 msgctxt "You can donate gifts to get Star Dust"
 msgid "json|lobby/bag|0|1|7|d8447d60a21a8cf6b6140b389fd5a1f5"
 msgstr "You can donate gifts to get Star Dust"
 
-#: translate_json.csv:591
+#: translate_json.csv:590
 msgctxt "Bond"
 msgid "json|lobby/bag|0|3|0|0|0|0|3|2|0|7a3b691731db2969498907b960183633"
 msgstr "Bond"
 
-#: translate_json.csv:592
+#: translate_json.csv:591
 msgctxt "Display All"
 msgid "json|lobby/bag|0|3|2|0|8bb4f1c5f84430ed66b916345e8573b6"
 msgstr "Display All"
 
-#: translate_json.csv:593
+#: translate_json.csv:592
 msgctxt "Empty"
 msgid "json|lobby/bag|0|3|3|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
 msgstr "Empty"
 
-#: translate_json.csv:594
+#: translate_json.csv:593
 msgctxt "Inventory"
 msgid "json|lobby/bag|1|0|4d604dd8f008145471dc845683399189"
 msgstr "Inventory"
 
-#: translate_json.csv:595
+#: translate_json.csv:594
 msgctxt "Change Name"
 msgid "json|lobby/chang_nickname|0|2|23a0ca84a7fd64eee8248bd1dfc77185"
 msgstr "Change Name"
 
-#: translate_json.csv:596
+#: translate_json.csv:595
 msgctxt "Name (1-14 chars)"
 msgid "json|lobby/chang_nickname|0|3|1|3f54971e0a61cfb7ac68a3af2cf7c3ae"
 msgstr "Name (1-14 chars)"
 
-#: translate_json.csv:597
+#: translate_json.csv:596
 msgctxt "Unavailable"
 msgid "json|lobby/chang_nickname|0|3|4|453e6aa38d87b28ccae545967c53004f"
 msgstr "Unavailable"
 
-#: translate_json.csv:598
+#: translate_json.csv:597
 msgctxt "Require"
 msgid "json|lobby/chang_nickname|0|3|6|0|a942541eeaaaa1b2ab8cf0e43b5a03f9"
 msgstr "Require"
 
-#: translate_json.csv:599
+#: translate_json.csv:598
 msgctxt "Cannot contain empty spaces and special characters"
 msgid "json|lobby/chang_nickname|0|3|7|46a3d7a0e687f0c4ba30bfd79b4a04eb"
 msgstr "Cannot contain empty spaces and special characters"
 
-#: translate_json.csv:600
+#: translate_json.csv:599
 msgctxt "You can change your name once every 30 days."
 msgid "json|lobby/chang_nickname|0|4|0|74f071fc1ef708958dbc6f49a1c4988c"
 msgstr "You can change your name once every 30 days."
 
-#: translate_json.csv:601
+#: translate_json.csv:600
 msgctxt "Your name can be changed after:"
 msgid "json|lobby/chang_nickname|0|4|1|41ff90e432b4c02c510e845fbbebe329"
 msgstr "Your name can be changed after:"
 
-#: translate_json.csv:602
+#: translate_json.csv:601
 msgctxt "day(s)"
 msgid "json|lobby/chang_nickname|0|4|3|225e75c29d32392d311f5dc94c792384"
 msgstr "day(s)"
 
-#: translate_json.csv:603
+#: translate_json.csv:602
 msgctxt "Jade info"
 msgid "json|lobby/checkhuiyu|0|2|06d13503767ae4730e1b87a3c0f349ac"
 msgstr "Jade info"
 
-#: translate_json.csv:604
+#: translate_json.csv:603
 msgctxt "Premium Jade:"
 msgid "json|lobby/checkhuiyu|0|3|b34a6417540162bd9bff2741d8c732d3"
 msgstr "Premium Jade:"
 
-#: translate_json.csv:605
+#: translate_json.csv:604
 msgctxt "Free Jade:"
 msgid "json|lobby/checkhuiyu|0|5|4a3c4a7cbfa4b5f35642c32586459846"
 msgstr "Free Jade:"
 
-#: translate_json.csv:606
+#: translate_json.csv:605
 msgctxt "Total:"
 msgid "json|lobby/checkhuiyu|0|7|66c4c5112f455a19afde47829df363fa"
 msgstr "Total:"
 
-#: translate_json.csv:607
+#: translate_json.csv:606
 msgctxt "Confirm"
 msgid "json|lobby/checkhuiyu|0|10|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:608
+#: translate_json.csv:607
 msgctxt "Buy"
 msgid "json|lobby/checkhuiyu|0|11|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "Buy"
 
-#: translate_json.csv:609
+#: translate_json.csv:608
 msgctxt "Current Outfit Voucher status"
 msgid "json|lobby/checkpifuquan|0|2|2b1e38e738fa1a37b5796d7891402239"
 msgstr "Current Outfit Voucher status"
 
-#: translate_json.csv:610
+#: translate_json.csv:609
 msgctxt "Premium:"
 msgid "json|lobby/checkpifuquan|0|3|22232056376b96411054bc09f0247ac1"
 msgstr "Premium:"
 
-#: translate_json.csv:611
+#: translate_json.csv:610
 msgctxt "Free:"
 msgid "json|lobby/checkpifuquan|0|5|418428b72ae7b9e222bf3c66c44172a9"
 msgstr "Free:"
 
-#: translate_json.csv:612
+#: translate_json.csv:611
 msgctxt "Total:"
 msgid "json|lobby/checkpifuquan|0|7|66c4c5112f455a19afde47829df363fa"
 msgstr "Total:"
 
-#: translate_json.csv:613
+#: translate_json.csv:612
 msgctxt "Confirm"
 msgid "json|lobby/checkpifuquan|0|10|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:614
+#: translate_json.csv:613
 msgctxt "Buy"
 msgid "json|lobby/checkpifuquan|0|11|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "Buy"
 
-#: translate_json.csv:615
+#: translate_json.csv:614
 msgctxt "4-Player"
 msgid "json|lobby/create_room|0|0|1|0|1|0|5dc72846529d753fec588a14a68f97f6"
 msgstr "4-Player"
 
-#: translate_json.csv:616
+#: translate_json.csv:615
 msgctxt "3-Player"
 msgid "json|lobby/create_room|0|0|1|0|2|0|493c1194804e829e28dead722b2ac772"
 msgstr "3-Player"
 
-#: translate_json.csv:617
+#: translate_json.csv:616
 msgctxt "1 Game"
 msgid "json|lobby/create_room|0|0|1|1|1|0|64741563cf82418d5b5f9d01c2848f28"
 msgstr "1 Game"
 
-#: translate_json.csv:618
+#: translate_json.csv:617
 msgctxt "East Only"
 msgid "json|lobby/create_room|0|0|1|1|2|0|b2243a1a6c75339cf745e93838e6c4d0"
 msgstr "East Only"
 
-#: translate_json.csv:619
+#: translate_json.csv:618
 msgctxt "Two-Wind Match"
 msgid "json|lobby/create_room|0|0|1|1|3|0|c413631134051454f8ed23b802ddc5e9"
 msgstr "Two-Wind Match"
 
-#: translate_json.csv:620
+#: translate_json.csv:619
 msgctxt "Vs AI"
 msgid "json|lobby/create_room|0|0|1|1|4|0|89244afde7c6df6a36f1c11a3d00fd5e"
 msgstr "Vs AI"
 
-#: translate_json.csv:621
+#: translate_json.csv:620
 msgctxt "3+5s"
 msgid "json|lobby/create_room|0|0|1|2|1|0|ead53951331b9d5bfa3060af65b43eb4"
 msgstr "3+5s"
 
-#: translate_json.csv:622
+#: translate_json.csv:621
 msgctxt "5+10s"
 msgid "json|lobby/create_room|0|0|1|2|2|0|63cf869ce2fafd725c8885914ef89ced"
 msgstr "5+10s"
 
-#: translate_json.csv:623
+#: translate_json.csv:622
 msgctxt "5+20s"
 msgid "json|lobby/create_room|0|0|1|2|3|0|5d1a8e4a0f045d819fec464acbf2b355"
 msgstr "5+20s"
 
-#: translate_json.csv:624
+#: translate_json.csv:623
 msgctxt "60+0s"
 msgid "json|lobby/create_room|0|0|1|2|4|0|40fb122fd5a980b15d1031b739d4c9d3"
 msgstr "60+0s"
 
-#: translate_json.csv:625
+#: translate_json.csv:624
 msgctxt "300+0s"
 msgid "json|lobby/create_room|0|0|1|2|5|0|1e47f9d78aac9d8d1ef9a24ceb7011b8"
 msgstr "300+0s"
 
-#: translate_json.csv:626
+#: translate_json.csv:625
 msgctxt "正常"
 msgid "json|lobby/create_room|0|0|1|3|1|0|fd6e80f1e0199d6ecc3ee81ae04aa9ef"
 msgstr "正常"
 
-#: translate_json.csv:627
+#: translate_json.csv:626
 msgctxt "国士无双"
 msgid "json|lobby/create_room|0|0|1|3|2|0|700afc22ce2d007b0c8ae6f4520f9c56"
 msgstr "国士无双"
 
-#: translate_json.csv:628
+#: translate_json.csv:627
 msgctxt "顺子"
 msgid "json|lobby/create_room|0|0|1|3|3|0|6853805fa6b9845d6dbf17ae477f07e1"
 msgstr "顺子"
 
-#: translate_json.csv:629
+#: translate_json.csv:628
 msgctxt "四暗刻"
 msgid "json|lobby/create_room|0|0|1|3|4|0|3046075490a6ae654c74a283eae754d9"
 msgstr "四暗刻"
 
-#: translate_json.csv:630
+#: translate_json.csv:629
 msgctxt "三暗杠"
 msgid "json|lobby/create_room|0|0|1|3|5|0|99294fbee7f42b5ff7a1de33e6fc4fa1"
 msgstr "三暗杠"
 
-#: translate_json.csv:631
+#: translate_json.csv:630
 msgctxt "正常"
 msgid "json|lobby/create_room|0|0|1|4|1|0|fd6e80f1e0199d6ecc3ee81ae04aa9ef"
 msgstr "正常"
 
-#: translate_json.csv:632
+#: translate_json.csv:631
 msgctxt "5张"
 msgid "json|lobby/create_room|0|0|1|4|2|0|e038e4512eb0ebc135c30ce5dface130"
 msgstr "5张"
 
-#: translate_json.csv:633
+#: translate_json.csv:632
 msgctxt "12张"
 msgid "json|lobby/create_room|0|0|1|4|3|0|10dbd07ffca71292f91b1f5ddaf52442"
 msgstr "12张"
 
-#: translate_json.csv:634
+#: translate_json.csv:633
 msgctxt "Disable"
 msgid "json|lobby/create_room|0|0|1|5|1|0|bcfaccebf745acfd5e75351095a5394a"
 msgstr "Disable"
 
-#: translate_json.csv:635
+#: translate_json.csv:634
 msgctxt "Enable"
 msgid "json|lobby/create_room|0|0|1|5|2|0|2faec1f9f8cc7f8f40d521c4dd574f49"
 msgstr "Enable"
 
-#: translate_json.csv:636
+#: translate_json.csv:635
 msgctxt "Minimum points 100, maximum points 200000"
 msgid "json|lobby/create_room|0|0|1|7|2|c3b29743395432fd9d502b3e1a533472"
 msgstr "Minimum points 100, maximum points 200000"
 
-#: translate_json.csv:637
+#: translate_json.csv:636
 msgctxt "Minimum points 100, maximum points 200000."
 msgid "json|lobby/create_room|0|0|1|8|2|d35089423b9ed0d7a800bff425534a0e"
 msgstr "Minimum points 100, maximum points 200000."
 
-#: translate_json.csv:638
+#: translate_json.csv:637
 msgctxt ""
 "At ALL LAST, if the 1st-ranked player has less points than this value, the "
 "game will extend into South/West Round"
@@ -3469,612 +3464,612 @@ msgstr ""
 "At ALL LAST, if the 1st-ranked player has less points than this value, the "
 "game will extend into South/West Round"
 
-#: translate_json.csv:639
+#: translate_json.csv:638
 msgctxt "Enable"
 msgid "json|lobby/create_room|0|0|1|9|1|0|2faec1f9f8cc7f8f40d521c4dd574f49"
 msgstr "Enable"
 
-#: translate_json.csv:640
+#: translate_json.csv:639
 msgctxt "Disable"
 msgid "json|lobby/create_room|0|0|1|9|2|0|bcfaccebf745acfd5e75351095a5394a"
 msgstr "Disable"
 
-#: translate_json.csv:641
+#: translate_json.csv:640
 msgctxt "Disable"
 msgid "json|lobby/create_room|0|0|1|10|1|0|bcfaccebf745acfd5e75351095a5394a"
 msgstr "Disable"
 
-#: translate_json.csv:642
+#: translate_json.csv:641
 msgctxt "Enable"
 msgid "json|lobby/create_room|0|0|1|10|2|0|2faec1f9f8cc7f8f40d521c4dd574f49"
 msgstr "Enable"
 
-#: translate_json.csv:643
+#: translate_json.csv:642
 msgctxt "No Red Five"
 msgid "json|lobby/create_room|0|0|1|11|1|0|708411b8eb963bb08c410b5814648380"
 msgstr "No Red Five"
 
-#: translate_json.csv:644
+#: translate_json.csv:643
 msgctxt "3 Red Five"
 msgid "json|lobby/create_room|0|0|1|11|2|0|0767f6847b1ec99fa664dbfe68fb83a8"
 msgstr "3 Red Five"
 
-#: translate_json.csv:645
+#: translate_json.csv:644
 msgctxt "4 Red Five"
 msgid "json|lobby/create_room|0|0|1|11|3|0|1da21ef8e56802a8a952843fd1ac4c1d"
 msgstr "4 Red Five"
 
-#: translate_json.csv:646
+#: translate_json.csv:645
 msgctxt "Enable"
 msgid "json|lobby/create_room|0|0|1|12|1|0|2faec1f9f8cc7f8f40d521c4dd574f49"
 msgstr "Enable"
 
-#: translate_json.csv:647
+#: translate_json.csv:646
 msgctxt "Disable"
 msgid "json|lobby/create_room|0|0|1|12|2|0|bcfaccebf745acfd5e75351095a5394a"
 msgstr "Disable"
 
-#: translate_json.csv:648
+#: translate_json.csv:647
 msgctxt "1 Han"
 msgid "json|lobby/create_room|0|0|1|13|1|0|17dd61a571887ddb10d426fb4b88dad4"
 msgstr "1 Han"
 
-#: translate_json.csv:649
+#: translate_json.csv:648
 msgctxt "2 Han"
 msgid "json|lobby/create_room|0|0|1|13|2|0|4b3a8b34525d0f7a17076b6c63c25e93"
 msgstr "2 Han"
 
-#: translate_json.csv:650
+#: translate_json.csv:649
 msgctxt "4 Han"
 msgid "json|lobby/create_room|0|0|1|13|3|0|bc34b1d5daa2c05608d93380cc82dbbe"
 msgstr "4 Han"
 
-#: translate_json.csv:651
+#: translate_json.csv:650
 msgctxt "Enable"
 msgid "json|lobby/create_room|0|0|1|14|1|0|2faec1f9f8cc7f8f40d521c4dd574f49"
 msgstr "Enable"
 
-#: translate_json.csv:652
+#: translate_json.csv:651
 msgctxt "Disable"
 msgid "json|lobby/create_room|0|0|1|14|2|0|bcfaccebf745acfd5e75351095a5394a"
 msgstr "Disable"
 
-#: translate_json.csv:653
+#: translate_json.csv:652
 msgctxt "Off"
 msgid "json|lobby/create_room|0|0|1|15|1|0|d15305d7a4e34e02489c74a5ef542f36"
 msgstr "Off"
 
-#: translate_json.csv:654
+#: translate_json.csv:653
 msgctxt "On"
 msgid "json|lobby/create_room|0|0|1|15|2|0|521c36a31c2762741cf0f8890cbe05e3"
 msgstr "On"
 
-#: translate_json.csv:655
+#: translate_json.csv:654
 msgctxt "Easy"
 msgid "json|lobby/create_room|0|0|1|16|1|0|7f943921724d63dc0ac9c6febf99fa88"
 msgstr "Easy"
 
-#: translate_json.csv:656
+#: translate_json.csv:655
 msgctxt "Normal"
 msgid "json|lobby/create_room|0|0|1|16|2|0|960b44c579bc2f6818d2daaf9e4c16f0"
 msgstr "Normal"
 
-#: translate_json.csv:657
+#: translate_json.csv:656
 msgctxt "Disable"
 msgid "json|lobby/create_room|0|0|1|17|1|0|bcfaccebf745acfd5e75351095a5394a"
 msgstr "Disable"
 
-#: translate_json.csv:658
+#: translate_json.csv:657
 msgctxt "Enable"
 msgid "json|lobby/create_room|0|0|1|17|2|0|2faec1f9f8cc7f8f40d521c4dd574f49"
 msgstr "Enable"
 
-#: translate_json.csv:659
+#: translate_json.csv:658
 msgctxt "Create Room"
 msgid "json|lobby/create_room|0|1|2|8836494af16cb5b2ca0f954197610e27"
 msgstr "Create Room"
 
-#: translate_json.csv:660
+#: translate_json.csv:659
 msgctxt "Insufficient Jade"
 msgid "json|lobby/diamond_less|0|2|f384778be541036a6aec2eca58d953c9"
 msgstr "Insufficient Jade"
 
-#: translate_json.csv:661
+#: translate_json.csv:660
 msgctxt "Buy"
 msgid "json|lobby/diamond_less|0|4|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "Buy"
 
-#: translate_json.csv:662
+#: translate_json.csv:661
 msgctxt "Cancel"
 msgid "json|lobby/diamond_less|0|5|0|ea4788705e6873b424c65e91c2846b19"
 msgstr "Cancel"
 
-#: translate_json.csv:663
+#: translate_json.csv:662
 msgctxt "Insufficient Jade ，Do you wish to Purchase ？"
 msgid "json|lobby/diamond_less|0|6|9dcfd392f568bba3a473caf6bb8fa204"
 msgstr "Insufficient Jade ，Do you wish to Purchase ？"
 
-#: translate_json.csv:664
+#: translate_json.csv:663
 msgctxt "New updates detected, please try to restart your game"
 msgid "json|lobby/force_update|0|2|e7e849b35f75f02cc19a7494fd052597"
 msgstr "New updates detected, please try to restart your game"
 
-#: translate_json.csv:665
+#: translate_json.csv:664
 msgctxt "Confirm"
 msgid "json|lobby/force_update|0|3|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:666
+#: translate_json.csv:665
 msgctxt "Friends"
 msgid "json|lobby/friend|0|1|0|3d594614f445f6b00014e9b77730b833"
 msgstr "Friends"
 
-#: translate_json.csv:667
+#: translate_json.csv:666
 msgctxt "Friend List"
 msgid "json|lobby/friend|1|1|0|0|a6875f7a82df6bf18c4d84b5ae06f4db"
 msgstr "Friend List"
 
-#: translate_json.csv:668
+#: translate_json.csv:667
 msgctxt "Application"
 msgid "json|lobby/friend|1|1|1|0|e498749f3c42246d50b15c81c101d988"
 msgstr "Application"
 
-#: translate_json.csv:669
+#: translate_json.csv:668
 msgctxt "Search"
 msgid "json|lobby/friend|1|1|2|0|13348442cc6a27032d2b4aa28b75a5d3"
 msgstr "Search"
 
-#: translate_json.csv:670
+#: translate_json.csv:669
 msgctxt "Search"
 msgid "json|lobby/friend|1|2|1|0|13348442cc6a27032d2b4aa28b75a5d3"
 msgstr "Search"
 
-#: translate_json.csv:671
+#: translate_json.csv:670
 msgctxt "Add"
 msgid "json|lobby/friend|1|2|2|0|0|0|1|0|ec211f7c20af43e742bf2570c3cb84f9"
 msgstr "Add"
 
-#: translate_json.csv:672
+#: translate_json.csv:671
 msgctxt "Applied"
 msgid "json|lobby/friend|1|2|2|0|0|0|5|733d43480c8589b1368e5def6b480415"
 msgstr "Applied"
 
-#: translate_json.csv:673
+#: translate_json.csv:672
 msgctxt "Add"
 msgid "json|lobby/friend|1|2|2|0|0|1|1|0|ec211f7c20af43e742bf2570c3cb84f9"
 msgstr "Add"
 
-#: translate_json.csv:674
+#: translate_json.csv:673
 msgctxt "Applied"
 msgid "json|lobby/friend|1|2|2|0|0|1|5|733d43480c8589b1368e5def6b480415"
 msgstr "Applied"
 
-#: translate_json.csv:675
+#: translate_json.csv:674
 msgctxt "View"
 msgid "json|lobby/friend|1|3|0|0|0|1|0|4351cfebe4b61d8aa5efa1d020710005"
 msgstr "View"
 
-#: translate_json.csv:676
+#: translate_json.csv:675
 msgctxt "Delete"
 msgid "json|lobby/friend|1|3|0|0|0|2|0|f2a6c498fb90ee345d997f888fce3b18"
 msgstr "Delete"
 
-#: translate_json.csv:677
+#: translate_json.csv:676
 msgctxt "Watch"
 msgid "json|lobby/friend|1|3|0|0|0|8|0|f20658650d987d31063b593c05980397"
 msgstr "Watch"
 
-#: translate_json.csv:678
+#: translate_json.csv:677
 msgctxt "Your Friend List is Empty"
 msgid "json|lobby/friend|1|3|1|27ffb87bb385b77fe7bb0bdaca0aca9b"
 msgstr "Your Friend List is Empty"
 
-#: translate_json.csv:679
+#: translate_json.csv:678
 msgctxt "Friends:"
 msgid "json|lobby/friend|1|3|3|7e3b8bd7153886244dffa6182c07f11e"
 msgstr "Friends:"
 
-#: translate_json.csv:680
+#: translate_json.csv:679
 msgctxt "View"
 msgid "json|lobby/friend|1|4|0|0|0|1|0|4351cfebe4b61d8aa5efa1d020710005"
 msgstr "View"
 
-#: translate_json.csv:681
+#: translate_json.csv:680
 msgctxt "Accept"
 msgid "json|lobby/friend|1|4|0|0|0|2|0|c4408d335012a56ff58937d78050efad"
 msgstr "Accept"
 
-#: translate_json.csv:682
+#: translate_json.csv:681
 msgctxt "Reject"
 msgid "json|lobby/friend|1|4|0|0|0|3|0|d98ac12774fca5c3cbaffe276840c55f"
 msgstr "Reject"
 
-#: translate_json.csv:683
+#: translate_json.csv:682
 msgctxt "No friend application"
 msgid "json|lobby/friend|1|4|1|96973c1b0b1254ea89b39229426439b0"
 msgstr "No friend application"
 
-#: translate_json.csv:684
+#: translate_json.csv:683
 msgctxt "My ID:"
 msgid "json|lobby/friend|1|5|0|a9495de35a0a16e2f92581446083b67a"
 msgstr "My ID:"
 
-#: translate_json.csv:685
+#: translate_json.csv:684
 msgctxt "Info"
 msgid "json|lobby/info|0|2|4059b0251f66a18cb56f544728796875"
 msgstr "Info"
 
-#: translate_json.csv:686
+#: translate_json.csv:685
 msgctxt "Novice & Adept"
 msgid "json|lobby/lobby|3|1|0|0|0|0|3|82b2fc012beca3315ec7c1a3858d8220"
 msgstr "Novice & Adept"
 
-#: translate_json.csv:687
+#: translate_json.csv:686
 msgctxt "Adept & Expert"
 msgid "json|lobby/lobby|3|1|0|0|1|0|3|9a2397b138a4424df9e9178e3772eef0"
 msgstr "Adept & Expert"
 
-#: translate_json.csv:688
+#: translate_json.csv:687
 msgctxt "Expert & Master"
 msgid "json|lobby/lobby|3|1|0|0|2|0|3|e4b7d855e6bc66cc577775c269715869"
 msgstr "Expert & Master"
 
-#: translate_json.csv:689
+#: translate_json.csv:688
 msgctxt "Master & Saint"
 msgid "json|lobby/lobby|3|1|0|0|3|0|3|c843354e2009718fb74f16226aadbed0"
 msgstr "Master & Saint"
 
-#: translate_json.csv:690
+#: translate_json.csv:689
 msgctxt "Saint & Above"
 msgid "json|lobby/lobby|3|1|0|0|4|0|3|3aaea4e72b1731de64365fb594d699ba"
 msgstr "Saint & Above"
 
-#: translate_json.csv:691
+#: translate_json.csv:690
 msgctxt "Free"
 msgid "json|lobby/lobby|3|2|0|0|3|b24ce0cd392a5b0b8dedc66c25213594"
 msgstr "Free"
 
-#: translate_json.csv:692
+#: translate_json.csv:691
 msgctxt "Free"
 msgid "json|lobby/lobby|3|2|0|1|3|b24ce0cd392a5b0b8dedc66c25213594"
 msgstr "Free"
 
-#: translate_json.csv:693
+#: translate_json.csv:692
 msgctxt "Online:"
 msgid "json|lobby/lobby|3|4|0|0|0|2|e0e52e4f1269ccbdeb93c62d50660f1a"
 msgstr "Online:"
 
-#: translate_json.csv:694
+#: translate_json.csv:693
 msgctxt "Reserved"
 msgid "json|lobby/lobby|3|4|0|0|0|4|0|942d4e37dd5607ab68e54755540d4a47"
 msgstr "Reserved"
 
-#: translate_json.csv:695
+#: translate_json.csv:694
 msgctxt "Online:"
 msgid "json|lobby/lobby|3|4|0|0|1|2|e0e52e4f1269ccbdeb93c62d50660f1a"
 msgstr "Online:"
 
-#: translate_json.csv:696
+#: translate_json.csv:695
 msgctxt "Reserved"
 msgid "json|lobby/lobby|3|4|0|0|1|4|0|942d4e37dd5607ab68e54755540d4a47"
 msgstr "Reserved"
 
-#: translate_json.csv:697
+#: translate_json.csv:696
 msgctxt "Online:"
 msgid "json|lobby/lobby|3|4|0|0|2|2|e0e52e4f1269ccbdeb93c62d50660f1a"
 msgstr "Online:"
 
-#: translate_json.csv:698
+#: translate_json.csv:697
 msgctxt "Reserved"
 msgid "json|lobby/lobby|3|4|0|0|2|4|0|942d4e37dd5607ab68e54755540d4a47"
 msgstr "Reserved"
 
-#: translate_json.csv:699
+#: translate_json.csv:698
 msgctxt "Online:"
 msgid "json|lobby/lobby|3|4|0|0|3|2|e0e52e4f1269ccbdeb93c62d50660f1a"
 msgstr "Online:"
 
-#: translate_json.csv:700
+#: translate_json.csv:699
 msgctxt "Reserved"
 msgid "json|lobby/lobby|3|4|0|0|3|4|0|942d4e37dd5607ab68e54755540d4a47"
 msgstr "Reserved"
 
-#: translate_json.csv:701
+#: translate_json.csv:700
 msgctxt "Rank"
 msgid "json|lobby/lobby|5|3|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:702
+#: translate_json.csv:701
 msgctxt "Info"
 msgid "json|lobby/lobby|5|4|0|4059b0251f66a18cb56f544728796875"
 msgstr "Info"
 
-#: translate_json.csv:703
+#: translate_json.csv:702
 msgctxt "Send"
 msgid "json|lobby/lobbychat|0|1|0|2|0|0|94966d90747b97d1f0f206c98a8b1ac3"
 msgstr "Send"
 
-#: translate_json.csv:704
+#: translate_json.csv:703
 msgctxt "Lobby"
 msgid "json|lobby/match_lobby|0|0|0d4c3d1b3f0c14e4aae9e9598ed745db"
 msgstr "Lobby"
 
-#: translate_json.csv:705
+#: translate_json.csv:704
 msgctxt "Search"
 msgid "json|lobby/match_lobby|1|0|1|0|13348442cc6a27032d2b4aa28b75a5d3"
 msgstr "Search"
 
-#: translate_json.csv:706
+#: translate_json.csv:705
 msgctxt "Enter Tournament ID"
 msgid "json|lobby/match_lobby|1|0|2|0|bb21f3b9e2da2a9f035b623d2437b606"
 msgstr "Enter Tournament ID"
 
-#: translate_json.csv:707
+#: translate_json.csv:706
 msgctxt "Followed only"
 msgid "json|lobby/match_lobby|1|1|0|aecd848c41f76d9c73c1460981827b49"
 msgstr "Followed only"
 
-#: translate_json.csv:708
+#: translate_json.csv:707
 msgctxt "Followed"
 msgid "json|lobby/match_lobby|1|3|0|2|f2fe1a641d957aae9840739dae9f459e"
 msgstr "Followed"
 
-#: translate_json.csv:709
+#: translate_json.csv:708
 msgctxt "Not started"
 msgid "json|lobby/match_lobby|1|3|0|5|ace1d137a73af7e93d57d9896c1c4fbb"
 msgstr "Not started"
 
-#: translate_json.csv:710
+#: translate_json.csv:709
 msgctxt "Start time:"
 msgid "json|lobby/match_lobby|1|3|0|5|0|ac9e921f7afa253f51f103697ecead45"
 msgstr "Start time:"
 
-#: translate_json.csv:711
+#: translate_json.csv:710
 msgctxt "In progress"
 msgid "json|lobby/match_lobby|1|3|0|7|b6e0b0c90cfbddfe767f137f8066d1df"
 msgstr "In progress"
 
-#: translate_json.csv:712
+#: translate_json.csv:711
 msgctxt "End time:"
 msgid "json|lobby/match_lobby|1|3|0|7|0|bb573f98749f6a3b2f7d6dea0fa37125"
 msgstr "End time:"
 
-#: translate_json.csv:713
+#: translate_json.csv:712
 msgctxt "Ended"
 msgid "json|lobby/match_lobby|1|3|0|8|0157fbb99be9622bdaa6e544270c0622"
 msgstr "Ended"
 
-#: translate_json.csv:714
+#: translate_json.csv:713
 msgctxt "End time:"
 msgid "json|lobby/match_lobby|1|3|0|8|0|bb573f98749f6a3b2f7d6dea0fa37125"
 msgstr "End time:"
 
-#: translate_json.csv:715
+#: translate_json.csv:714
 msgctxt "View"
 msgid "json|lobby/match_lobby|1|3|0|9|0|0|4351cfebe4b61d8aa5efa1d020710005"
 msgstr "View"
 
-#: translate_json.csv:716
+#: translate_json.csv:715
 msgctxt "No tournaments"
 msgid "json|lobby/match_lobby|1|4|0870892568966187c9529cbe50078400"
 msgstr "No tournaments"
 
-#: translate_json.csv:717
+#: translate_json.csv:716
 msgctxt "My ID:"
 msgid "json|lobby/match_lobby|1|7|0|a9495de35a0a16e2f92581446083b67a"
 msgstr "My ID:"
 
-#: translate_json.csv:718
+#: translate_json.csv:717
 msgctxt "Close"
 msgid "json|lobby/match_lobby|2|0|5|0|d3d2e617335f08df83599665eef8a418"
 msgstr "Close"
 
-#: translate_json.csv:719
+#: translate_json.csv:718
 msgctxt "Enter"
 msgid "json|lobby/match_lobby|2|0|6|0|f1851d5600eae616ee802a31ac74701b"
 msgstr "Enter"
 
-#: translate_json.csv:720
+#: translate_json.csv:719
 msgctxt "Tournament"
 msgid "json|lobby/match_room|0|0|4f4dc29df9d29cbec61a725ff3ce6e72"
 msgstr "Tournament"
 
-#: translate_json.csv:721
+#: translate_json.csv:720
 msgctxt "Home"
 msgid "json|lobby/match_room|1|0|0|0|8cf04a9734132302f96da8e113e80ce5"
 msgstr "Home"
 
-#: translate_json.csv:722
+#: translate_json.csv:721
 msgctxt "Log"
 msgid "json|lobby/match_room|1|0|1|0|ce0be71e33226e4c1db2bcea5959f16b"
 msgstr "Log"
 
-#: translate_json.csv:723
+#: translate_json.csv:722
 msgctxt "Watch"
 msgid "json|lobby/match_room|1|0|2|0|f20658650d987d31063b593c05980397"
 msgstr "Watch"
 
-#: translate_json.csv:724
+#: translate_json.csv:723
 msgctxt "GM message"
 msgid "json|lobby/match_room|1|1|0|0|0|2|ae26ef4546f729b5dfea10439aca620a"
 msgstr "GM message"
 
-#: translate_json.csv:725
+#: translate_json.csv:724
 msgctxt "Send"
 msgid "json|lobby/match_room|1|1|0|0|2|0|0|94966d90747b97d1f0f206c98a8b1ac3"
 msgstr "Send"
 
-#: translate_json.csv:726
+#: translate_json.csv:725
 msgctxt "Chat"
 msgid "json|lobby/match_room|1|1|0|1|0|55dcdf017b51fc96f7b5f9d63013b95d"
 msgstr "Chat"
 
-#: translate_json.csv:727
+#: translate_json.csv:726
 msgctxt "Notice"
 msgid "json|lobby/match_room|1|1|0|2|0|24efa7ee4511563b16144f39706d594f"
 msgstr "Notice"
 
-#: translate_json.csv:728
+#: translate_json.csv:727
 msgctxt "该功能正在维护。。。"
 msgid "json|lobby/match_room|1|1|0|4|53db6d2ceef6e26066ad01ad387b05b3"
 msgstr "该功能正在维护。。。"
 
-#: translate_json.csv:729
+#: translate_json.csv:728
 msgctxt "Time"
 msgid "json|lobby/match_room|1|1|1|1|a76d4ef5f3f6a672bbfab2865563e530"
 msgstr "Time"
 
-#: translate_json.csv:730
+#: translate_json.csv:729
 msgctxt "Start time:"
 msgid "json|lobby/match_room|1|1|1|2|ac9e921f7afa253f51f103697ecead45"
 msgstr "Start time:"
 
-#: translate_json.csv:731
+#: translate_json.csv:730
 msgctxt "End time:"
 msgid "json|lobby/match_room|1|1|1|3|bb573f98749f6a3b2f7d6dea0fa37125"
 msgstr "End time:"
 
-#: translate_json.csv:732
+#: translate_json.csv:731
 msgctxt "Rules"
 msgid "json|lobby/match_room|1|1|1|4|1f4da964f8eab62e96e8cfe406e44364"
 msgstr "Rules"
 
-#: translate_json.csv:733
+#: translate_json.csv:732
 msgctxt "My Ranking"
 msgid "json|lobby/match_room|1|1|1|5|10e97abc231e4aeaac0e79cb7a8afdea"
 msgstr "My Ranking"
 
-#: translate_json.csv:734
+#: translate_json.csv:733
 msgctxt "Last 5 matches Ranks:"
 msgid "json|lobby/match_room|1|1|1|8|886938389ab40cb7abafd64d59a0ac35"
 msgstr "Last 5 matches Ranks:"
 
-#: translate_json.csv:735
+#: translate_json.csv:734
 msgctxt "Matches Played:"
 msgid "json|lobby/match_room|1|1|1|9|13b11bdca3f230dc9b9d1602d158ddc8"
 msgstr "Matches Played:"
 
-#: translate_json.csv:736
+#: translate_json.csv:735
 msgctxt "Prepare for match"
 msgid "json|lobby/match_room|1|1|1|10|0|276076bbe6f18fb6e3afc1084dba13f5"
 msgstr "Prepare for match"
 
-#: translate_json.csv:737
+#: translate_json.csv:736
 msgctxt "Online:"
 msgid "json|lobby/match_room|1|1|1|11|e0e52e4f1269ccbdeb93c62d50660f1a"
 msgstr "Online:"
 
-#: translate_json.csv:738
+#: translate_json.csv:737
 msgctxt "Details"
 msgid "json|lobby/match_room|1|1|1|13|0|0|3ec365dd533ddb7ef3d1c111186ce872"
 msgstr "Details"
 
-#: translate_json.csv:739
+#: translate_json.csv:738
 msgctxt "Set as Focus"
 msgid "json|lobby/match_room|1|1|3|0|efd7c47754250f4f92505daf8bf5763a"
 msgstr "Set as Focus"
 
-#: translate_json.csv:740
+#: translate_json.csv:739
 msgctxt "1"
 msgid "json|lobby/match_room|1|3|1|0|1|1|c4ca4238a0b923820dcc509a6f75849b"
 msgstr "1"
 
-#: translate_json.csv:741
+#: translate_json.csv:740
 msgctxt "Rank"
 msgid "json|lobby/match_room|1|3|1|0|1|4|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:742
+#: translate_json.csv:741
 msgctxt "2"
 msgid "json|lobby/match_room|1|3|1|0|2|1|c81e728d9d4c2f636f067f89cc14862c"
 msgstr "2"
 
-#: translate_json.csv:743
+#: translate_json.csv:742
 msgctxt "Rank"
 msgid "json|lobby/match_room|1|3|1|0|2|4|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:744
+#: translate_json.csv:743
 msgctxt "3"
 msgid "json|lobby/match_room|1|3|1|0|3|1|eccbc87e4b5ce2fe28308fd9f2a7baf3"
 msgstr "3"
 
-#: translate_json.csv:745
+#: translate_json.csv:744
 msgctxt "Rank"
 msgid "json|lobby/match_room|1|3|1|0|3|4|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:746
+#: translate_json.csv:745
 msgctxt "4"
 msgid "json|lobby/match_room|1|3|1|0|4|1|a87ff679a2f3e71d9181a67b7542122c"
 msgstr "4"
 
-#: translate_json.csv:747
+#: translate_json.csv:746
 msgctxt "Rank"
 msgid "json|lobby/match_room|1|3|1|0|4|4|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:748
+#: translate_json.csv:747
 msgctxt "Match Time"
 msgid "json|lobby/match_room|1|3|1|0|6|debe24fee87d46c99a61a0a030035cad"
 msgstr "Match Time"
 
-#: translate_json.csv:749
+#: translate_json.csv:748
 msgctxt "View"
 msgid "json|lobby/match_room|1|3|1|0|7|0|4351cfebe4b61d8aa5efa1d020710005"
 msgstr "View"
 
-#: translate_json.csv:750
+#: translate_json.csv:749
 msgctxt "Share"
 msgid "json|lobby/match_room|1|3|1|0|8|0|5a95a425f74314a96f13a2f136992178"
 msgstr "Share"
 
-#: translate_json.csv:751
+#: translate_json.csv:750
 msgctxt "Other Logs"
 msgid "json|lobby/match_room|1|3|2|0|408ff26b8aee0792d1c4611369b00958"
 msgstr "Other Logs"
 
-#: translate_json.csv:752
+#: translate_json.csv:751
 msgctxt "Rule Details"
 msgid "json|lobby/match_room|2|0|3|f920c4f4bc316bbfc9acbe34355d0250"
 msgstr "Rule Details"
 
-#: translate_json.csv:753
+#: translate_json.csv:752
 msgctxt "Close"
 msgid "json|lobby/match_room|2|0|4|0|d3d2e617335f08df83599665eef8a418"
 msgstr "Close"
 
-#: translate_json.csv:754
+#: translate_json.csv:753
 msgctxt "Rule Details"
 msgid "json|lobby/match_room|2|1|3|f920c4f4bc316bbfc9acbe34355d0250"
 msgstr "Rule Details"
 
-#: translate_json.csv:755
+#: translate_json.csv:754
 msgctxt "Close"
 msgid "json|lobby/match_room|2|1|4|0|d3d2e617335f08df83599665eef8a418"
 msgstr "Close"
 
-#: translate_json.csv:756
+#: translate_json.csv:755
 msgctxt "Enter Log Number"
 msgid "json|lobby/match_room|3|0|2|cec8c7186aa3fc2419f6f0c8956fd991"
 msgstr "Enter Log Number"
 
-#: translate_json.csv:757
+#: translate_json.csv:756
 msgctxt "Confirm"
 msgid "json|lobby/match_room|3|0|3|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:758
+#: translate_json.csv:757
 msgctxt "Anonymously Share"
 msgid "json|lobby/match_room|3|0|6|1|ba7c7953bc95b44234abb36597d65c14"
 msgstr "Anonymously Share"
 
-#: translate_json.csv:759
+#: translate_json.csv:758
 msgctxt "Criteria not met"
 msgid "json|lobby/match_room|4|0|2|c3f166eea25dbccd101c8305a2464ab9"
 msgstr "Criteria not met"
 
-#: translate_json.csv:760
+#: translate_json.csv:759
 msgctxt ""
 "You are not eligible to participate in this tournament. Unable to start "
 "match"
@@ -4083,1723 +4078,1723 @@ msgstr ""
 "You are not eligible to participate in this tournament. Unable to start "
 "match"
 
-#: translate_json.csv:761
+#: translate_json.csv:760
 msgctxt "Close"
 msgid "json|lobby/match_room|4|0|4|0|d3d2e617335f08df83599665eef8a418"
 msgstr "Close"
 
-#: translate_json.csv:762
+#: translate_json.csv:761
 msgctxt "试炼之道"
 msgid "json|lobby/match_shilian|0|1|072173ba1eb9fe85ad1b058df4b7d86d"
 msgstr "试炼之道"
 
-#: translate_json.csv:763
+#: translate_json.csv:762
 msgctxt "9999999"
 msgid "json|lobby/match_shilian|0|2|2|283f42764da6dba2522412916b031080"
 msgstr "9999999"
 
-#: translate_json.csv:764
+#: translate_json.csv:763
 msgctxt "9999999"
 msgid "json|lobby/match_shilian|0|3|2|283f42764da6dba2522412916b031080"
 msgstr "9999999"
 
-#: translate_json.csv:765
+#: translate_json.csv:764
 msgctxt "起点 99999"
 msgid "json|lobby/match_shilian|1|0|0|0|1|1|d19f4adffa5f38c397c8b470785d19ee"
 msgstr "起点 99999"
 
-#: translate_json.csv:766
+#: translate_json.csv:765
 msgctxt "返点 99999"
 msgid "json|lobby/match_shilian|1|0|0|0|1|2|9c366f23e1af20a1c1007d645a860102"
 msgstr "返点 99999"
 
-#: translate_json.csv:767
+#: translate_json.csv:766
 msgctxt "×999999"
 msgid ""
 "json|lobby/match_shilian|1|0|0|0|1|3|0|1|e134223c5d8519a771a5da9cb5d2492d"
 msgstr "×999999"
 
-#: translate_json.csv:768
+#: translate_json.csv:767
 msgctxt "起点 99999"
 msgid "json|lobby/match_shilian|1|0|1|0|1|1|d19f4adffa5f38c397c8b470785d19ee"
 msgstr "起点 99999"
 
-#: translate_json.csv:769
+#: translate_json.csv:768
 msgctxt "返点 99999"
 msgid "json|lobby/match_shilian|1|0|1|0|1|2|9c366f23e1af20a1c1007d645a860102"
 msgstr "返点 99999"
 
-#: translate_json.csv:770
+#: translate_json.csv:769
 msgctxt "×999999"
 msgid ""
 "json|lobby/match_shilian|1|0|1|0|1|4|0|1|e134223c5d8519a771a5da9cb5d2492d"
 msgstr "×999999"
 
-#: translate_json.csv:771
+#: translate_json.csv:770
 msgctxt "起点 99999"
 msgid "json|lobby/match_shilian|1|0|2|0|1|1|d19f4adffa5f38c397c8b470785d19ee"
 msgstr "起点 99999"
 
-#: translate_json.csv:772
+#: translate_json.csv:771
 msgctxt "返点 99999"
 msgid "json|lobby/match_shilian|1|0|2|0|1|2|9c366f23e1af20a1c1007d645a860102"
 msgstr "返点 99999"
 
-#: translate_json.csv:773
+#: translate_json.csv:772
 msgctxt "×999999"
 msgid ""
 "json|lobby/match_shilian|1|0|2|0|1|4|0|1|e134223c5d8519a771a5da9cb5d2492d"
 msgstr "×999999"
 
-#: translate_json.csv:774
+#: translate_json.csv:773
 msgctxt "起点 99999"
 msgid "json|lobby/match_shilian|1|0|3|0|1|1|d19f4adffa5f38c397c8b470785d19ee"
 msgstr "起点 99999"
 
-#: translate_json.csv:775
+#: translate_json.csv:774
 msgctxt "返点 99999"
 msgid "json|lobby/match_shilian|1|0|3|0|1|2|9c366f23e1af20a1c1007d645a860102"
 msgstr "返点 99999"
 
-#: translate_json.csv:776
+#: translate_json.csv:775
 msgctxt "×999999"
 msgid ""
 "json|lobby/match_shilian|1|0|3|0|1|4|0|1|e134223c5d8519a771a5da9cb5d2492d"
 msgstr "×999999"
 
-#: translate_json.csv:777
+#: translate_json.csv:776
 msgctxt "起点 99999"
 msgid "json|lobby/match_shilian|1|0|4|0|1|1|d19f4adffa5f38c397c8b470785d19ee"
 msgstr "起点 99999"
 
-#: translate_json.csv:778
+#: translate_json.csv:777
 msgctxt "返点 99999"
 msgid "json|lobby/match_shilian|1|0|4|0|1|2|9c366f23e1af20a1c1007d645a860102"
 msgstr "返点 99999"
 
-#: translate_json.csv:779
+#: translate_json.csv:778
 msgctxt "×999999"
 msgid ""
 "json|lobby/match_shilian|1|0|4|0|1|4|0|1|e134223c5d8519a771a5da9cb5d2492d"
 msgstr "×999999"
 
-#: translate_json.csv:780
+#: translate_json.csv:779
 msgctxt "通过的试炼越多奖励越好"
 msgid "json|lobby/match_shilian|1|1|0|0|95f304063018a01d58382acbe116ab1b"
 msgstr "通过的试炼越多奖励越好"
 
-#: translate_json.csv:781
+#: translate_json.csv:780
 msgctxt "在试炼中点数降到0点以下将会失败"
 msgid "json|lobby/match_shilian|1|1|0|1|23f70a81ce907c80aefe7b815205699d"
 msgstr "在试炼中点数降到0点以下将会失败"
 
-#: translate_json.csv:782
+#: translate_json.csv:781
 msgctxt "×999999"
 msgid "json|lobby/match_shilian|2|0|1|e134223c5d8519a771a5da9cb5d2492d"
 msgstr "×999999"
 
-#: translate_json.csv:783
+#: translate_json.csv:782
 msgctxt "入场方式选择"
 msgid "json|lobby/match_ticket|0|2|f0cce9b73c3e9c7059160d3b98a00789"
 msgstr "入场方式选择"
 
-#: translate_json.csv:784
+#: translate_json.csv:783
 msgctxt "消耗"
 msgid "json|lobby/match_ticket|0|3|0|4ab855fbc41fd4f2fdfa594bb4f9284f"
 msgstr "消耗"
 
-#: translate_json.csv:785
+#: translate_json.csv:784
 msgctxt "99999"
 msgid "json|lobby/match_ticket|0|3|0|0|d3eb9a9233e52948740d7eb8c3062d14"
 msgstr "99999"
 
-#: translate_json.csv:786
+#: translate_json.csv:785
 msgctxt "消耗"
 msgid "json|lobby/match_ticket|0|4|0|4ab855fbc41fd4f2fdfa594bb4f9284f"
 msgstr "消耗"
 
-#: translate_json.csv:787
+#: translate_json.csv:786
 msgctxt "99999"
 msgid "json|lobby/match_ticket|0|4|0|0|d3eb9a9233e52948740d7eb8c3062d14"
 msgstr "99999"
 
-#: translate_json.csv:788
+#: translate_json.csv:787
 msgctxt "拥有试炼券"
 msgid "json|lobby/match_ticket|0|5|6db3e36466c4510349e603adc597d5e8"
 msgstr "拥有试炼券"
 
-#: translate_json.csv:789
+#: translate_json.csv:788
 msgctxt "9999"
 msgid "json|lobby/match_ticket|0|5|0|fa246d0262c3925617b0c72bb20eeb1d"
 msgstr "9999"
 
-#: translate_json.csv:790
+#: translate_json.csv:789
 msgctxt "拥有铜币"
 msgid "json|lobby/match_ticket|0|6|f0271bc773555bf3d907598c4ea189cf"
 msgstr "拥有铜币"
 
-#: translate_json.csv:791
+#: translate_json.csv:790
 msgctxt "9999"
 msgid "json|lobby/match_ticket|0|6|0|fa246d0262c3925617b0c72bb20eeb1d"
 msgstr "9999"
 
-#: translate_json.csv:792
+#: translate_json.csv:791
 msgctxt "试炼券可以通过活动获取"
 msgid "json|lobby/match_ticket|0|7|76030e6d144698b5e800f43cca8bcffc"
 msgstr "试炼券可以通过活动获取"
 
-#: translate_json.csv:793
+#: translate_json.csv:792
 msgctxt "Name Your Character"
 msgid "json|lobby/nickname|0|2|26251ddb3c388b48d794e88e4518e60b"
 msgstr "Name Your Character"
 
-#: translate_json.csv:794
+#: translate_json.csv:793
 msgctxt "Name (1-14 chars)"
 msgid "json|lobby/nickname|0|4|3f54971e0a61cfb7ac68a3af2cf7c3ae"
 msgstr "Name (1-14 chars)"
 
-#: translate_json.csv:795
+#: translate_json.csv:794
 msgctxt "Available"
 msgid "json|lobby/nickname|0|6|78945de8de090e90045d299651a68a9b"
 msgstr "Available"
 
-#: translate_json.csv:796
+#: translate_json.csv:795
 msgctxt "Unavailable"
 msgid "json|lobby/nickname|0|7|453e6aa38d87b28ccae545967c53004f"
 msgstr "Unavailable"
 
-#: translate_json.csv:797
+#: translate_json.csv:796
 msgctxt "Confirm"
 msgid "json|lobby/nickname|0|8|1|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:798
+#: translate_json.csv:797
 msgctxt "Cannot contain empty spaces and special characters"
 msgid "json|lobby/nickname|0|9|46a3d7a0e687f0c4ba30bfd79b4a04eb"
 msgstr "Cannot contain empty spaces and special characters"
 
-#: translate_json.csv:799
+#: translate_json.csv:798
 msgctxt "Exit"
 msgid "json|lobby/nickname|0|10|1|fef46e5063ce3dc78b8ae64fa474241d"
 msgstr "Exit"
 
-#: translate_json.csv:800
+#: translate_json.csv:799
 msgctxt "Tutorials"
 msgid "json|lobby/nickname|1|2|130ddfce9c28453883ccfe2da8b6d5ac"
 msgstr "Tutorials"
 
-#: translate_json.csv:801
+#: translate_json.csv:800
 msgctxt "Welcome to Mahjong Soul!"
 msgid "json|lobby/nickname|1|3|e1ae741d4f610a048f91b12f89889365"
 msgstr "Welcome to Mahjong Soul!"
 
-#: translate_json.csv:802
+#: translate_json.csv:801
 msgctxt "Name"
 msgid "json|lobby/nickname|1|4|49ee3087348e8d44e1feda1917443987"
 msgstr "Name"
 
-#: translate_json.csv:803
+#: translate_json.csv:802
 msgctxt "Do you want to start a tutorial of Riichi Mahjong?"
 msgid "json|lobby/nickname|1|5|58382c114cca482db6362df43bb5391f"
 msgstr "Do you want to start a tutorial of Riichi Mahjong?"
 
-#: translate_json.csv:804
+#: translate_json.csv:803
 msgctxt "No"
 msgid "json|lobby/nickname|1|7|0|0|bafd7322c6e97d25b6299b5d6fe8920b"
 msgstr "No"
 
-#: translate_json.csv:805
+#: translate_json.csv:804
 msgctxt "Yes"
 msgid "json|lobby/nickname|1|8|0|0|93cba07454f06a4a960172bbd6e2a435"
 msgstr "Yes"
 
-#: translate_json.csv:806
+#: translate_json.csv:805
 msgctxt "Join Room #"
 msgid "json|lobby/number_input|0|2|78b588c5ca18fcb30cedd13afdcf41db"
 msgstr "Join Room #"
 
-#: translate_json.csv:807
+#: translate_json.csv:806
 msgctxt "Confirm"
 msgid "json|lobby/number_input|0|3|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:808
+#: translate_json.csv:807
 msgctxt "1"
 msgid "json|lobby/number_input|0|6|0|1|c4ca4238a0b923820dcc509a6f75849b"
 msgstr "1"
 
-#: translate_json.csv:809
+#: translate_json.csv:808
 msgctxt "2"
 msgid "json|lobby/number_input|0|6|1|1|c81e728d9d4c2f636f067f89cc14862c"
 msgstr "2"
 
-#: translate_json.csv:810
+#: translate_json.csv:809
 msgctxt "3"
 msgid "json|lobby/number_input|0|6|2|1|eccbc87e4b5ce2fe28308fd9f2a7baf3"
 msgstr "3"
 
-#: translate_json.csv:811
+#: translate_json.csv:810
 msgctxt "4"
 msgid "json|lobby/number_input|0|6|3|1|a87ff679a2f3e71d9181a67b7542122c"
 msgstr "4"
 
-#: translate_json.csv:812
+#: translate_json.csv:811
 msgctxt "5"
 msgid "json|lobby/number_input|0|6|4|1|e4da3b7fbbce2345d7772b0674a318d5"
 msgstr "5"
 
-#: translate_json.csv:813
+#: translate_json.csv:812
 msgctxt "6"
 msgid "json|lobby/number_input|0|6|5|1|1679091c5a880faf6fb5e6087eb1b2dc"
 msgstr "6"
 
-#: translate_json.csv:814
+#: translate_json.csv:813
 msgctxt "7"
 msgid "json|lobby/number_input|0|6|6|1|8f14e45fceea167a5a36dedd4bea2543"
 msgstr "7"
 
-#: translate_json.csv:815
+#: translate_json.csv:814
 msgctxt "8"
 msgid "json|lobby/number_input|0|6|7|1|c9f0f895fb98ab9159f51fd0297e236d"
 msgstr "8"
 
-#: translate_json.csv:816
+#: translate_json.csv:815
 msgctxt "9"
 msgid "json|lobby/number_input|0|6|8|1|45c48cce2e2d7fbdea1afc51c7c6ad26"
 msgstr "9"
 
-#: translate_json.csv:817
+#: translate_json.csv:816
 msgctxt "Clear"
 msgid "json|lobby/number_input|0|6|9|1|dc30bc0c7914db5918da4263fce93ad2"
 msgstr "Clear"
 
-#: translate_json.csv:818
+#: translate_json.csv:817
 msgctxt "0"
 msgid "json|lobby/number_input|0|6|10|1|cfcd208495d565ef66e7dff9f98764da"
 msgstr "0"
 
-#: translate_json.csv:819
+#: translate_json.csv:818
 msgctxt "No game info"
 msgid "json|lobby/ob|0|0|1c96aa33d099b0774c5446ecdf3d8308"
 msgstr "No game info"
 
-#: translate_json.csv:820
+#: translate_json.csv:819
 msgctxt "Show friends only"
 msgid "json|lobby/ob|0|6|0|eed696c231d2c6ac2a3d12c940fb7038"
 msgstr "Show friends only"
 
-#: translate_json.csv:821
+#: translate_json.csv:820
 msgctxt "Refresh"
 msgid "json|lobby/ob|0|7|1|63a6a88c066880c5ac42394a22803ca6"
 msgstr "Refresh"
 
-#: translate_json.csv:822
+#: translate_json.csv:821
 msgctxt "Watch"
 msgid "json|lobby/ob|1|0|f20658650d987d31063b593c05980397"
 msgstr "Watch"
 
-#: translate_json.csv:823
+#: translate_json.csv:822
 msgctxt "Choose one gift"
 msgid "json|lobby/openbox|1|3|9ad50fbadf5796c7f31a39c64709ada6"
 msgstr "Choose one gift"
 
-#: translate_json.csv:824
+#: translate_json.csv:823
 msgctxt "Confirm"
 msgid "json|lobby/openbox|1|5|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:825
+#: translate_json.csv:824
 msgctxt "Confirm"
 msgid "json|lobby/page_sign_chs|1|1|1|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:826
+#: translate_json.csv:825
 msgctxt "Sign-in"
 msgid "json|lobby/page_sign_chs|1|2|1|e5b47edd743751a81819b7f421639303"
 msgstr "Sign-in"
 
-#: translate_json.csv:827
+#: translate_json.csv:826
 msgctxt "1/23 14:00 - 1/28 13:59 (UTC-7)"
 msgid "json|lobby/page_sign_chs|1|3|b9f50627f2b0bff2f800f8ad261845b8"
 msgstr "1/23 14:00 - 1/28 13:59 (UTC-7)"
 
-#: translate_json.csv:828
+#: translate_json.csv:827
 msgctxt "Confirm"
 msgid "json|lobby/page_sign_chs_t|1|1|1|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:829
+#: translate_json.csv:828
 msgctxt "Sign-in"
 msgid "json|lobby/page_sign_chs_t|1|2|1|e5b47edd743751a81819b7f421639303"
 msgstr "Sign-in"
 
-#: translate_json.csv:830
+#: translate_json.csv:829
 msgctxt "Confirm"
 msgid "json|lobby/page_sign_en|1|1|1|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:831
+#: translate_json.csv:830
 msgctxt "Sign-in"
 msgid "json|lobby/page_sign_en|1|2|1|e5b47edd743751a81819b7f421639303"
 msgstr "Sign-in"
 
-#: translate_json.csv:832
+#: translate_json.csv:831
 msgctxt "1/23 14:00 - 1/28 13:59 (UTC-7)"
 msgid "json|lobby/page_sign_en|1|3|b9f50627f2b0bff2f800f8ad261845b8"
 msgstr "1/23 14:00 - 1/28 13:59 (UTC-7)"
 
-#: translate_json.csv:833
+#: translate_json.csv:832
 msgctxt "Confirm"
 msgid "json|lobby/page_sign_jp|1|1|1|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:834
+#: translate_json.csv:833
 msgctxt "Sign-in"
 msgid "json|lobby/page_sign_jp|1|2|1|e5b47edd743751a81819b7f421639303"
 msgstr "Sign-in"
 
-#: translate_json.csv:835
+#: translate_json.csv:834
 msgctxt "1/23 14:00 - 1/28 13:59 (UTC-7)"
 msgid "json|lobby/page_sign_jp|1|3|b9f50627f2b0bff2f800f8ad261845b8"
 msgstr "1/23 14:00 - 1/28 13:59 (UTC-7)"
 
-#: translate_json.csv:836
+#: translate_json.csv:835
 msgctxt "Log"
 msgid "json|lobby/paipu|0|1|0|ce0be71e33226e4c1db2bcea5959f16b"
 msgstr "Log"
 
-#: translate_json.csv:837
+#: translate_json.csv:836
 msgctxt "1"
 msgid "json|lobby/paipu|1|4|0|1|1|c4ca4238a0b923820dcc509a6f75849b"
 msgstr "1"
 
-#: translate_json.csv:838
+#: translate_json.csv:837
 msgctxt "Rank"
 msgid "json|lobby/paipu|1|4|0|1|4|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:839
+#: translate_json.csv:838
 msgctxt "2"
 msgid "json|lobby/paipu|1|4|0|2|1|c81e728d9d4c2f636f067f89cc14862c"
 msgstr "2"
 
-#: translate_json.csv:840
+#: translate_json.csv:839
 msgctxt "Rank"
 msgid "json|lobby/paipu|1|4|0|2|4|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:841
+#: translate_json.csv:840
 msgctxt "3"
 msgid "json|lobby/paipu|1|4|0|3|1|eccbc87e4b5ce2fe28308fd9f2a7baf3"
 msgstr "3"
 
-#: translate_json.csv:842
+#: translate_json.csv:841
 msgctxt "Rank"
 msgid "json|lobby/paipu|1|4|0|3|4|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:843
+#: translate_json.csv:842
 msgctxt "4"
 msgid "json|lobby/paipu|1|4|0|4|1|a87ff679a2f3e71d9181a67b7542122c"
 msgstr "4"
 
-#: translate_json.csv:844
+#: translate_json.csv:843
 msgctxt "Rank"
 msgid "json|lobby/paipu|1|4|0|4|4|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:845
+#: translate_json.csv:844
 msgctxt "View"
 msgid "json|lobby/paipu|1|4|0|7|0|4351cfebe4b61d8aa5efa1d020710005"
 msgstr "View"
 
-#: translate_json.csv:846
+#: translate_json.csv:845
 msgctxt "Share"
 msgid "json|lobby/paipu|1|4|0|8|0|5a95a425f74314a96f13a2f136992178"
 msgstr "Share"
 
-#: translate_json.csv:847
+#: translate_json.csv:846
 msgctxt "Other Logs"
 msgid "json|lobby/paipu|1|5|0|408ff26b8aee0792d1c4611369b00958"
 msgstr "Other Logs"
 
-#: translate_json.csv:848
+#: translate_json.csv:847
 msgctxt "Collection Limit:"
 msgid "json|lobby/paipu|1|6|8414152ddff293c82de156cb9bbc3b80"
 msgstr "Collection Limit:"
 
-#: translate_json.csv:849
+#: translate_json.csv:848
 msgctxt "Overview"
 msgid "json|lobby/paipu|1|7|0|1|3b878279a04dc47d60932cb294d96259"
 msgstr "Overview"
 
-#: translate_json.csv:850
+#: translate_json.csv:849
 msgctxt "Match"
 msgid "json|lobby/paipu|1|7|1|1|6da89265a9a8b0b28eb4946bb2ec0c6d"
 msgstr "Match"
 
-#: translate_json.csv:851
+#: translate_json.csv:850
 msgctxt "Friends"
 msgid "json|lobby/paipu|1|7|2|1|3d594614f445f6b00014e9b77730b833"
 msgstr "Friends"
 
-#: translate_json.csv:852
+#: translate_json.csv:851
 msgctxt "Tournament"
 msgid "json|lobby/paipu|1|7|3|1|4f4dc29df9d29cbec61a725ff3ce6e72"
 msgstr "Tournament"
 
-#: translate_json.csv:853
+#: translate_json.csv:852
 msgctxt "Collection"
 msgid "json|lobby/paipu|1|7|4|1|d15b505cce09406de9f918cb1f8c641c"
 msgstr "Collection"
 
-#: translate_json.csv:854
+#: translate_json.csv:853
 msgctxt "No record"
 msgid "json|lobby/paipu|1|8|a98b79c2a7ba61109ab618e70e9e623f"
 msgstr "No record"
 
-#: translate_json.csv:855
+#: translate_json.csv:854
 msgctxt "Enter Log Number"
 msgid "json|lobby/paipu|2|2|cec8c7186aa3fc2419f6f0c8956fd991"
 msgstr "Enter Log Number"
 
-#: translate_json.csv:856
+#: translate_json.csv:855
 msgctxt "Confirm"
 msgid "json|lobby/paipu|2|3|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:857
+#: translate_json.csv:856
 msgctxt "Anonymously Share"
 msgid "json|lobby/paipu|2|6|1|ba7c7953bc95b44234abb36597d65c14"
 msgstr "Anonymously Share"
 
-#: translate_json.csv:858
+#: translate_json.csv:857
 msgctxt "Log Collection"
 msgid "json|lobby/paipu|3|1|2|870991bd7d77ced9c9b57ab85eb481ec"
 msgstr "Log Collection"
 
-#: translate_json.csv:859
+#: translate_json.csv:858
 msgctxt "Collect"
 msgid "json|lobby/paipu|3|1|3|0|e7ca851922b13f555127b04b70435ca9"
 msgstr "Collect"
 
-#: translate_json.csv:860
+#: translate_json.csv:859
 msgctxt "Remarks are too long"
 msgid "json|lobby/paipu|3|1|5|3446be27fb0b88e43b4f87b6bbf59801"
 msgstr "Remarks are too long"
 
-#: translate_json.csv:861
+#: translate_json.csv:860
 msgctxt "选择支付方式"
 msgid "json|lobby/payment/buy_yueka_chs|0|3|768294a8df28a358957bb66da3106538"
 msgstr "选择支付方式"
 
-#: translate_json.csv:862
+#: translate_json.csv:861
 msgctxt "商品名称："
 msgid "json|lobby/payment/buy_yueka_chs|0|4|90f08f734a506b793ade64d126617c51"
 msgstr "商品名称："
 
-#: translate_json.csv:863
+#: translate_json.csv:862
 msgctxt "6800辉玉"
 msgid "json|lobby/payment/buy_yueka_chs|0|5|b7605913e08fb9c365f0fc13f579ccd1"
 msgstr "6800辉玉"
 
-#: translate_json.csv:864
+#: translate_json.csv:863
 msgctxt "商品说明："
 msgid "json|lobby/payment/buy_yueka_chs|0|6|1bd08de5777fffcfb806fd5480677513"
 msgstr "商品说明："
 
-#: translate_json.csv:865
+#: translate_json.csv:864
 msgctxt "132123213123\\n1231231231\\n123123123\\n12312313123"
 msgid "json|lobby/payment/buy_yueka_chs|0|7|e545bef9801f116d2a62bc5a36225a2c"
 msgstr "132123213123\\n1231231231\\n123123123\\n12312313123"
 
-#: translate_json.csv:866
+#: translate_json.csv:865
 msgctxt "应付金额："
 msgid "json|lobby/payment/buy_yueka_chs|0|8|73d6a6a3ed6f235471578b097723ea5c"
 msgstr "应付金额："
 
-#: translate_json.csv:867
+#: translate_json.csv:866
 msgctxt "680.00元"
 msgid "json|lobby/payment/buy_yueka_chs|0|9|514b528abe480d3da31be3c5dac20ae4"
 msgstr "680.00元"
 
-#: translate_json.csv:868
+#: translate_json.csv:867
 msgctxt "支付疑问请加 QQ：951307369"
 msgid "json|lobby/payment/buy_yueka_chs|0|10|b22f209b0eef1a09a58649ae09bba2c3"
 msgstr "支付疑问请加 QQ：951307369"
 
-#: translate_json.csv:869
+#: translate_json.csv:868
 msgctxt "微信"
 msgid ""
 "json|lobby/payment/buy_yueka_chs|0|11|0|0|1|cfbf6f4c8292010ff4193c507b2d9f80"
 msgstr "微信"
 
-#: translate_json.csv:870
+#: translate_json.csv:869
 msgctxt "支付宝"
 msgid ""
 "json|lobby/payment/buy_yueka_chs|0|11|1|0|1|ccd097a7b57abdd91d882ff55cda3209"
 msgstr "支付宝"
 
-#: translate_json.csv:871
+#: translate_json.csv:870
 msgctxt "支付宝扫码"
 msgid ""
 "json|lobby/payment/buy_yueka_chs|0|11|2|0|1|6c03fbe1d59886e8ac6df54edbabeb71"
 msgstr "支付宝扫码"
 
-#: translate_json.csv:872
+#: translate_json.csv:871
 msgctxt "Choose a payment method"
 msgid "json|lobby/payment/buy_yueka_en|0|3|8ecef15452f0d5cab69ac0439b88443c"
 msgstr "Choose a payment method"
 
-#: translate_json.csv:873
+#: translate_json.csv:872
 msgctxt "Item:"
 msgid "json|lobby/payment/buy_yueka_en|0|4|931252272b1ce0bf555e4a605a89f102"
 msgstr "Item:"
 
-#: translate_json.csv:874
+#: translate_json.csv:873
 msgctxt "Description"
 msgid "json|lobby/payment/buy_yueka_en|0|6|b5a7adde1af5c87d7fd797b6245c2a39"
 msgstr "Description"
 
-#: translate_json.csv:875
+#: translate_json.csv:874
 msgctxt "Price:"
 msgid "json|lobby/payment/buy_yueka_en|0|8|f2c12ae14393ffc83551d56f32bb03cc"
 msgstr "Price:"
 
-#: translate_json.csv:876
+#: translate_json.csv:875
 msgctxt "VIP Point:"
 msgid "json|lobby/payment/buy_yueka_en|0|10|c0973598407d4024830180e713e871ff"
 msgstr "VIP Point:"
 
-#: translate_json.csv:877
+#: translate_json.csv:876
 msgctxt "选择支付方式"
 msgid ""
 "json|lobby/payment/choose_method_chs|0|3|768294a8df28a358957bb66da3106538"
 msgstr "选择支付方式"
 
-#: translate_json.csv:878
+#: translate_json.csv:877
 msgctxt "商品名称："
 msgid ""
 "json|lobby/payment/choose_method_chs|0|4|90f08f734a506b793ade64d126617c51"
 msgstr "商品名称："
 
-#: translate_json.csv:879
+#: translate_json.csv:878
 msgctxt "6800辉玉"
 msgid ""
 "json|lobby/payment/choose_method_chs|0|5|b7605913e08fb9c365f0fc13f579ccd1"
 msgstr "6800辉玉"
 
-#: translate_json.csv:880
+#: translate_json.csv:879
 msgctxt "应付金额："
 msgid ""
 "json|lobby/payment/choose_method_chs|0|6|73d6a6a3ed6f235471578b097723ea5c"
 msgstr "应付金额："
 
-#: translate_json.csv:881
+#: translate_json.csv:880
 msgctxt "680.00元"
 msgid ""
 "json|lobby/payment/choose_method_chs|0|7|514b528abe480d3da31be3c5dac20ae4"
 msgstr "680.00元"
 
-#: translate_json.csv:882
+#: translate_json.csv:881
 msgctxt "支付疑问请加 QQ：951307369"
 msgid ""
 "json|lobby/payment/choose_method_chs|0|8|b22f209b0eef1a09a58649ae09bba2c3"
 msgstr "支付疑问请加 QQ：951307369"
 
-#: translate_json.csv:883
+#: translate_json.csv:882
 msgctxt "微信"
 msgid ""
 "json|lobby/payment/choose_method_chs|0|9|0|0|1|cfbf6f4c8292010ff4193c507b2d9f80"
 msgstr "微信"
 
-#: translate_json.csv:884
+#: translate_json.csv:883
 msgctxt "支付宝"
 msgid ""
 "json|lobby/payment/choose_method_chs|0|9|1|0|1|ccd097a7b57abdd91d882ff55cda3209"
 msgstr "支付宝"
 
-#: translate_json.csv:885
+#: translate_json.csv:884
 msgctxt "支付宝扫码"
 msgid ""
 "json|lobby/payment/choose_method_chs|0|9|2|0|1|6c03fbe1d59886e8ac6df54edbabeb71"
 msgstr "支付宝扫码"
 
-#: translate_json.csv:886
+#: translate_json.csv:885
 msgctxt "Choose a payment method"
 msgid ""
 "json|lobby/payment/choose_method_chs_t|0|3|8ecef15452f0d5cab69ac0439b88443c"
 msgstr "Choose a payment method"
 
-#: translate_json.csv:887
+#: translate_json.csv:886
 msgctxt "Item:"
 msgid ""
 "json|lobby/payment/choose_method_chs_t|0|4|931252272b1ce0bf555e4a605a89f102"
 msgstr "Item:"
 
-#: translate_json.csv:888
+#: translate_json.csv:887
 msgctxt "Price:"
 msgid ""
 "json|lobby/payment/choose_method_chs_t|0|6|f2c12ae14393ffc83551d56f32bb03cc"
 msgstr "Price:"
 
-#: translate_json.csv:889
+#: translate_json.csv:888
 msgctxt "Choose a payment method"
 msgid ""
 "json|lobby/payment/choose_method_en|0|3|8ecef15452f0d5cab69ac0439b88443c"
 msgstr "Choose a payment method"
 
-#: translate_json.csv:890
+#: translate_json.csv:889
 msgctxt "Item:"
 msgid ""
 "json|lobby/payment/choose_method_en|0|4|931252272b1ce0bf555e4a605a89f102"
 msgstr "Item:"
 
-#: translate_json.csv:891
+#: translate_json.csv:890
 msgctxt "Price:"
 msgid ""
 "json|lobby/payment/choose_method_en|0|6|f2c12ae14393ffc83551d56f32bb03cc"
 msgstr "Price:"
 
-#: translate_json.csv:892
+#: translate_json.csv:891
 msgctxt "VIP Point:"
 msgid ""
 "json|lobby/payment/choose_method_en|0|8|c0973598407d4024830180e713e871ff"
 msgstr "VIP Point:"
 
-#: translate_json.csv:893
+#: translate_json.csv:892
 msgctxt "Credit Card"
 msgid "json|lobby/payment/creditcard|0|2|73a61696f100b3858511e212a3feea6b"
 msgstr "Credit Card"
 
-#: translate_json.csv:894
+#: translate_json.csv:893
 msgctxt "Card Number"
 msgid "json|lobby/payment/creditcard|0|3|1|931d3a3ad177dd96a28c9642fec11b01"
 msgstr "Card Number"
 
-#: translate_json.csv:895
+#: translate_json.csv:894
 msgctxt "Card number ranges from 14 digits to 16 digits"
 msgid "json|lobby/payment/creditcard|0|3|3|40110394b8967663aea9f9bcedec87e8"
 msgstr "Card number ranges from 14 digits to 16 digits"
 
-#: translate_json.csv:896
+#: translate_json.csv:895
 msgctxt "Expiry Date"
 msgid "json|lobby/payment/creditcard|0|4|0|5abc7a3ac0ae1545cc801303727f53da"
 msgstr "Expiry Date"
 
-#: translate_json.csv:897
+#: translate_json.csv:896
 msgctxt "Month"
 msgid "json|lobby/payment/creditcard|0|4|1|0|7cbb885aa1164b390a0bc050a64e1812"
 msgstr "Month"
 
-#: translate_json.csv:898
+#: translate_json.csv:897
 msgctxt "Year"
 msgid "json|lobby/payment/creditcard|0|4|2|0|537c66b24ef5c83b7382cdc3f34885f2"
 msgstr "Year"
 
-#: translate_json.csv:899
+#: translate_json.csv:898
 msgctxt "Please select a month"
 msgid "json|lobby/payment/creditcard|0|4|3|6550d8a4bd51ce2e01c6dd0d17a16bdd"
 msgstr "Please select a month"
 
-#: translate_json.csv:900
+#: translate_json.csv:899
 msgctxt "Please select a year"
 msgid "json|lobby/payment/creditcard|0|4|4|fb3ea23177e908eb2d4c812c8c77046b"
 msgstr "Please select a year"
 
-#: translate_json.csv:901
+#: translate_json.csv:900
 msgctxt "Security Code"
 msgid "json|lobby/payment/creditcard|0|5|0|1316379096c85e48ae3c8426e1536ed4"
 msgstr "Security Code"
 
-#: translate_json.csv:902
+#: translate_json.csv:901
 msgctxt "Please enter a 3 or 4 digits CVV2/CSC Code"
 msgid "json|lobby/payment/creditcard|0|5|3|0741d52f52c2f126b7642c49d8029b04"
 msgstr "Please enter a 3 or 4 digits CVV2/CSC Code"
 
-#: translate_json.csv:903
+#: translate_json.csv:902
 msgctxt "Confirm And Pay"
 msgid "json|lobby/payment/creditcard|0|6|1|340a2a5f58c0d92ba0bd547b4294adac"
 msgstr "Confirm And Pay"
 
-#: translate_json.csv:904
+#: translate_json.csv:903
 msgctxt "Confirm"
 msgid "json|lobby/payment/creditcard|2|0|3|1|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:905
+#: translate_json.csv:904
 msgctxt "Security Code"
 msgid "json|lobby/payment/creditcard|2|0|4|1316379096c85e48ae3c8426e1536ed4"
 msgstr "Security Code"
 
-#: translate_json.csv:906
+#: translate_json.csv:905
 msgctxt "Discover,MasterCard,Visa\\n3-digit Card Verification Number"
 msgid "json|lobby/payment/creditcard|2|0|5|396ee9d7997c54eb0a7e073c05e367f7"
 msgstr "Discover,MasterCard,Visa\\n3-digit Card Verification Number"
 
-#: translate_json.csv:907
+#: translate_json.csv:906
 msgctxt "American Express\\n4-digit Card Verification Number"
 msgid "json|lobby/payment/creditcard|2|0|6|f454fd054f8051e06f3ae1479d821315"
 msgstr "American Express\\n4-digit Card Verification Number"
 
-#: translate_json.csv:908
+#: translate_json.csv:907
 msgctxt "商品名称："
 msgid "json|lobby/payment/wxcode|0|5|90f08f734a506b793ade64d126617c51"
 msgstr "商品名称："
 
-#: translate_json.csv:909
+#: translate_json.csv:908
 msgctxt "6800辉玉"
 msgid "json|lobby/payment/wxcode|0|5|0|b7605913e08fb9c365f0fc13f579ccd1"
 msgstr "6800辉玉"
 
-#: translate_json.csv:910
+#: translate_json.csv:909
 msgctxt "应付金额："
 msgid "json|lobby/payment/wxcode|0|6|73d6a6a3ed6f235471578b097723ea5c"
 msgstr "应付金额："
 
-#: translate_json.csv:911
+#: translate_json.csv:910
 msgctxt "680.00元"
 msgid "json|lobby/payment/wxcode|0|6|0|514b528abe480d3da31be3c5dac20ae4"
 msgstr "680.00元"
 
-#: translate_json.csv:912
+#: translate_json.csv:911
 msgctxt "请打开"
 msgid "json|lobby/payment/wxcode|0|7|711533be5d9351c9dc1559795f29a446"
 msgstr "请打开"
 
-#: translate_json.csv:913
+#: translate_json.csv:912
 msgctxt "“扫一扫”扫描二维码完成支付"
 msgid "json|lobby/payment/wxcode|0|8|9b8e4a78fe0da7350b563f378dcc52d6"
 msgstr "“扫一扫”扫描二维码完成支付"
 
-#: translate_json.csv:914
+#: translate_json.csv:913
 msgctxt "支付宝"
 msgid "json|lobby/payment/wxcode|0|9|ccd097a7b57abdd91d882ff55cda3209"
 msgstr "支付宝"
 
-#: translate_json.csv:915
+#: translate_json.csv:914
 msgctxt "关闭"
 msgid "json|lobby/payment/wxcode|0|10|0|0|b15d91274e9fc68608c609999e0413fa"
 msgstr "关闭"
 
-#: translate_json.csv:916
+#: translate_json.csv:915
 msgctxt "Insufficient Outfit Voucher"
 msgid "json|lobby/pifuquan_less|0|2|fb04780008603d5980cbb5b91b397d6b"
 msgstr "Insufficient Outfit Voucher"
 
-#: translate_json.csv:917
+#: translate_json.csv:916
 msgctxt "Buy"
 msgid "json|lobby/pifuquan_less|0|4|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "Buy"
 
-#: translate_json.csv:918
+#: translate_json.csv:917
 msgctxt "Cancel"
 msgid "json|lobby/pifuquan_less|0|5|0|ea4788705e6873b424c65e91c2846b19"
 msgstr "Cancel"
 
-#: translate_json.csv:919
+#: translate_json.csv:918
 msgctxt "Insufficient Outfit Voucher，Do you wish to Purchase ？"
 msgid "json|lobby/pifuquan_less|0|6|8f0f58c4efc8412b92725dd5d1280e18"
 msgstr "Insufficient Outfit Voucher，Do you wish to Purchase ？"
 
-#: translate_json.csv:920
+#: translate_json.csv:919
 msgctxt "Ranked Match"
 msgid "json|lobby/pipei|0|2|76e1ad3f9b76ba224adc3f89dc021fbe"
 msgstr "Ranked Match"
 
-#: translate_json.csv:921
+#: translate_json.csv:920
 msgctxt "Finding opponents"
 msgid "json|lobby/pipei|0|3|d005af074664a7b723d8c73cdb9bb67b"
 msgstr "Finding opponents"
 
-#: translate_json.csv:922
+#: translate_json.csv:921
 msgctxt "Cancel"
 msgid "json|lobby/pipei|0|4|0|ea4788705e6873b424c65e91c2846b19"
 msgstr "Cancel"
 
-#: translate_json.csv:923
+#: translate_json.csv:922
 msgctxt "Match is ready"
 msgid "json|lobby/pipeichenggong|1|2|56dcc00d2ff57c26e5a0457e92219803"
 msgstr "Match is ready"
 
-#: translate_json.csv:924
+#: translate_json.csv:923
 msgctxt "Matchmaking"
 msgid "json|lobby/pipeiyuyue|0|1|829645bba6da17148d7951791eab72e9"
 msgstr "Matchmaking"
 
-#: translate_json.csv:925
+#: translate_json.csv:924
 msgctxt "4-Player"
 msgid "json|lobby/playerinfo|1|1|0|5dc72846529d753fec588a14a68f97f6"
 msgstr "4-Player"
 
-#: translate_json.csv:926
+#: translate_json.csv:925
 msgctxt "3-Player"
 msgid "json|lobby/playerinfo|1|2|0|493c1194804e829e28dead722b2ac772"
 msgstr "3-Player"
 
-#: translate_json.csv:927
+#: translate_json.csv:926
 msgctxt "Message"
 msgid "json|lobby/playerinfo|1|3|0|4c2a8fe7eaf24721cc7a9f0175115bd4"
 msgstr "Message"
 
-#: translate_json.csv:928
+#: translate_json.csv:927
 msgctxt "Empty"
 msgid "json|lobby/playerinfo|1|4|1|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
 msgstr "Empty"
 
-#: translate_json.csv:929
+#: translate_json.csv:928
 msgctxt "Info"
 msgid "json|lobby/playerinfo|1|4|2|0|8|1|0|4059b0251f66a18cb56f544728796875"
 msgstr "Info"
 
-#: translate_json.csv:930
+#: translate_json.csv:929
 msgctxt "No signature yet"
 msgid "json|lobby/playerinfo|1|4|5|3|92bc3e31fe25efb615f0fd161ab415c7"
 msgstr "No signature yet"
 
-#: translate_json.csv:931
+#: translate_json.csv:930
 msgctxt "Signature"
 msgid "json|lobby/playerinfo|1|4|5|4|8c09001c99ecb6fdd8d6023fcf039054"
 msgstr "Signature"
 
-#: translate_json.csv:932
+#: translate_json.csv:931
 msgctxt "/"
 msgid "json|lobby/playerinfo|1|5|0|5|2|6666cd76f96956469e7be39d750cc7d9"
 msgstr "/"
 
-#: translate_json.csv:933
+#: translate_json.csv:932
 msgctxt "Title Book"
 msgid "json|lobby/playerinfo|1|5|2|1|7efb8809bf3fff186bc56fcf7363a1a8"
 msgstr "Title Book"
 
-#: translate_json.csv:934
+#: translate_json.csv:933
 msgctxt "Change Name"
 msgid "json|lobby/playerinfo|1|5|3|1|23a0ca84a7fd64eee8248bd1dfc77185"
 msgstr "Change Name"
 
-#: translate_json.csv:935
+#: translate_json.csv:934
 msgctxt "Friendly Match"
 msgid "json|lobby/playerinfo|1|5|6|1|0|e933fed1bdd6f754fb8232129c38716b"
 msgstr "Friendly Match"
 
-#: translate_json.csv:936
+#: translate_json.csv:935
 msgctxt "Ranked Match"
 msgid "json|lobby/playerinfo|1|5|6|2|0|76e1ad3f9b76ba224adc3f89dc021fbe"
 msgstr "Ranked Match"
 
-#: translate_json.csv:937
+#: translate_json.csv:936
 msgctxt "Path of Trial"
 msgid "json|lobby/playerinfo|1|5|6|3|0|c018f58f4c2074df948bc2e872faa998"
 msgstr "Path of Trial"
 
-#: translate_json.csv:938
+#: translate_json.csv:937
 msgctxt "Recent High Score"
 msgid "json|lobby/playerinfo|1|5|7|1|0|0|0|fee382ba20496eafced1bc721b85304c"
 msgstr "Recent High Score"
 
-#: translate_json.csv:939
+#: translate_json.csv:938
 msgctxt "No record available. Good luck!"
 msgid "json|lobby/playerinfo|1|5|7|1|0|3|2767cb7fc9c3dced54a3f30595125332"
 msgstr "No record available. Good luck!"
 
-#: translate_json.csv:940
+#: translate_json.csv:939
 msgctxt "ATK"
 msgid "json|lobby/playerinfo|1|5|7|1|1|0|96cc5c725ae8f5ccb76056b7d12ed095"
 msgstr "ATK"
 
-#: translate_json.csv:941
+#: translate_json.csv:940
 msgctxt "DEF"
 msgid "json|lobby/playerinfo|1|5|7|1|1|2|822dd494b3e14a82aa76bd455e6b6f4b"
 msgstr "DEF"
 
-#: translate_json.csv:942
+#: translate_json.csv:941
 msgctxt "SPD"
 msgid "json|lobby/playerinfo|1|5|7|1|1|4|ed504d8761c0f48e13d9d14e94a23627"
 msgstr "SPD"
 
-#: translate_json.csv:943
+#: translate_json.csv:942
 msgctxt "LUK"
 msgid "json|lobby/playerinfo|1|5|7|1|1|6|f88d79c11b5b643625fa1c5df243ccd5"
 msgstr "LUK"
 
-#: translate_json.csv:944
+#: translate_json.csv:943
 msgctxt "ATK"
 msgid "json|lobby/playerinfo|1|5|7|1|1|8|0|96cc5c725ae8f5ccb76056b7d12ed095"
 msgstr "ATK"
 
-#: translate_json.csv:945
+#: translate_json.csv:944
 msgctxt "DEF"
 msgid "json|lobby/playerinfo|1|5|7|1|1|8|1|822dd494b3e14a82aa76bd455e6b6f4b"
 msgstr "DEF"
 
-#: translate_json.csv:946
+#: translate_json.csv:945
 msgctxt "SPD"
 msgid "json|lobby/playerinfo|1|5|7|1|1|8|2|ed504d8761c0f48e13d9d14e94a23627"
 msgstr "SPD"
 
-#: translate_json.csv:947
+#: translate_json.csv:946
 msgctxt "LUK"
 msgid "json|lobby/playerinfo|1|5|7|1|1|8|3|f88d79c11b5b643625fa1c5df243ccd5"
 msgstr "LUK"
 
-#: translate_json.csv:948
+#: translate_json.csv:947
 msgctxt "Play Style"
 msgid "json|lobby/playerinfo|1|5|7|1|1|9|0|4c21dd25c08f117cd644b37484cb60a9"
 msgstr "Play Style"
 
-#: translate_json.csv:949
+#: translate_json.csv:948
 msgctxt "4"
 msgid "json|lobby/playerinfo|1|5|7|1|2|6|a87ff679a2f3e71d9181a67b7542122c"
 msgstr "4"
 
-#: translate_json.csv:950
+#: translate_json.csv:949
 msgctxt "Rank"
 msgid "json|lobby/playerinfo|1|5|7|1|2|6|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:951
+#: translate_json.csv:950
 msgctxt "3"
 msgid "json|lobby/playerinfo|1|5|7|1|2|7|eccbc87e4b5ce2fe28308fd9f2a7baf3"
 msgstr "3"
 
-#: translate_json.csv:952
+#: translate_json.csv:951
 msgctxt "Rank"
 msgid "json|lobby/playerinfo|1|5|7|1|2|7|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:953
+#: translate_json.csv:952
 msgctxt "2"
 msgid "json|lobby/playerinfo|1|5|7|1|2|8|c81e728d9d4c2f636f067f89cc14862c"
 msgstr "2"
 
-#: translate_json.csv:954
+#: translate_json.csv:953
 msgctxt "Rank"
 msgid "json|lobby/playerinfo|1|5|7|1|2|8|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:955
+#: translate_json.csv:954
 msgctxt "1"
 msgid "json|lobby/playerinfo|1|5|7|1|2|9|c4ca4238a0b923820dcc509a6f75849b"
 msgstr "1"
 
-#: translate_json.csv:956
+#: translate_json.csv:955
 msgctxt "Rank"
 msgid "json|lobby/playerinfo|1|5|7|1|2|9|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:957
+#: translate_json.csv:956
 msgctxt "Trends"
 msgid "json|lobby/playerinfo|1|5|7|1|2|10|0|9cf69763de83f9db7f4a87c51fe6ae23"
 msgstr "Trends"
 
-#: translate_json.csv:958
+#: translate_json.csv:957
 msgctxt "Detailed Info"
 msgid "json|lobby/playerinfo|1|5|7|1|3|0|0|b8a1f13f2a5318ec0079b7be00f9130b"
 msgstr "Detailed Info"
 
-#: translate_json.csv:959
+#: translate_json.csv:958
 msgctxt "East Round"
 msgid "json|lobby/playerinfo|1|5|7|1|4|0|2|b854db72888d259be819bfde4fabb4e8"
 msgstr "East Round"
 
-#: translate_json.csv:960
+#: translate_json.csv:959
 msgctxt "1st"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|0|ec31383cc75b7ef7915803f99562cbe8"
 msgstr "1st"
 
-#: translate_json.csv:961
+#: translate_json.csv:960
 msgctxt "2nd"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
 msgstr "2nd"
 
-#: translate_json.csv:962
+#: translate_json.csv:961
 msgctxt "3rd"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|4|b7b655045b89200c7a4dedb1303ca2f1"
 msgstr "3rd"
 
-#: translate_json.csv:963
+#: translate_json.csv:962
 msgctxt "4th"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
 msgstr "4th"
 
-#: translate_json.csv:964
+#: translate_json.csv:963
 msgctxt "Negative"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
 msgstr "Negative"
 
-#: translate_json.csv:965
+#: translate_json.csv:964
 msgctxt "Total Played"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|8|9f489bc2f6bfada1c7495786b50c4184"
 msgstr "Total Played"
 
-#: translate_json.csv:966
+#: translate_json.csv:965
 msgctxt "Avg Score"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|10|24b362a521bc6bbba7ca7f634f257cf2"
 msgstr "Avg Score"
 
-#: translate_json.csv:967
+#: translate_json.csv:966
 msgctxt "Avg Rank"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|12|78f17c40778452d853ecf5d93ef34fdd"
 msgstr "Avg Rank"
 
-#: translate_json.csv:968
+#: translate_json.csv:967
 msgctxt "Max Repeats"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|14|1421256f92c4ddbfa64cace74f63aa73"
 msgstr "Max Repeats"
 
-#: translate_json.csv:969
+#: translate_json.csv:968
 msgctxt "Avg Turns"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|16|ad2192da9ca93ed2365636871922f796"
 msgstr "Avg Turns"
 
-#: translate_json.csv:970
+#: translate_json.csv:969
 msgctxt "Win Rate"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
 msgstr "Win Rate"
 
-#: translate_json.csv:971
+#: translate_json.csv:970
 msgctxt "Tsumo Rate"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|20|f09fc617ff40790b7c0576a6c21b3bff"
 msgstr "Tsumo Rate"
 
-#: translate_json.csv:972
+#: translate_json.csv:971
 msgctxt "Deal-in Rate"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|22|3f2df764788280fe9aa53229fdc127fd"
 msgstr "Deal-in Rate"
 
-#: translate_json.csv:973
+#: translate_json.csv:972
 msgctxt "Call Rate"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|24|3a4925e19e02fb44df9d672c6e0724d3"
 msgstr "Call Rate"
 
-#: translate_json.csv:974
+#: translate_json.csv:973
 msgctxt "Riichi Rate"
 msgid "json|lobby/playerinfo|1|5|7|1|4|1|26|a27ffd0a6f4076f298f02add1dea77e9"
 msgstr "Riichi Rate"
 
-#: translate_json.csv:975
+#: translate_json.csv:974
 msgctxt "South Round"
 msgid "json|lobby/playerinfo|1|5|7|1|5|0|2|23a893f962bd1ba64fd3534612197997"
 msgstr "South Round"
 
-#: translate_json.csv:976
+#: translate_json.csv:975
 msgctxt "1st"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|0|ec31383cc75b7ef7915803f99562cbe8"
 msgstr "1st"
 
-#: translate_json.csv:977
+#: translate_json.csv:976
 msgctxt "2nd"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
 msgstr "2nd"
 
-#: translate_json.csv:978
+#: translate_json.csv:977
 msgctxt "3rd"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|4|b7b655045b89200c7a4dedb1303ca2f1"
 msgstr "3rd"
 
-#: translate_json.csv:979
+#: translate_json.csv:978
 msgctxt "4th"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
 msgstr "4th"
 
-#: translate_json.csv:980
+#: translate_json.csv:979
 msgctxt "Negative"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
 msgstr "Negative"
 
-#: translate_json.csv:981
+#: translate_json.csv:980
 msgctxt "Total Played"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|8|9f489bc2f6bfada1c7495786b50c4184"
 msgstr "Total Played"
 
-#: translate_json.csv:982
+#: translate_json.csv:981
 msgctxt "Avg Score"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|10|24b362a521bc6bbba7ca7f634f257cf2"
 msgstr "Avg Score"
 
-#: translate_json.csv:983
+#: translate_json.csv:982
 msgctxt "Avg Rank"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|12|78f17c40778452d853ecf5d93ef34fdd"
 msgstr "Avg Rank"
 
-#: translate_json.csv:984
+#: translate_json.csv:983
 msgctxt "Max Repeats"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|14|1421256f92c4ddbfa64cace74f63aa73"
 msgstr "Max Repeats"
 
-#: translate_json.csv:985
+#: translate_json.csv:984
 msgctxt "Avg Turns"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|16|ad2192da9ca93ed2365636871922f796"
 msgstr "Avg Turns"
 
-#: translate_json.csv:986
+#: translate_json.csv:985
 msgctxt "Win Rate"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
 msgstr "Win Rate"
 
-#: translate_json.csv:987
+#: translate_json.csv:986
 msgctxt "Tsumo Rate"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|20|f09fc617ff40790b7c0576a6c21b3bff"
 msgstr "Tsumo Rate"
 
-#: translate_json.csv:988
+#: translate_json.csv:987
 msgctxt "Deal-in Rate"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|22|3f2df764788280fe9aa53229fdc127fd"
 msgstr "Deal-in Rate"
 
-#: translate_json.csv:989
+#: translate_json.csv:988
 msgctxt "Call Rate"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|24|3a4925e19e02fb44df9d672c6e0724d3"
 msgstr "Call Rate"
 
-#: translate_json.csv:990
+#: translate_json.csv:989
 msgctxt "Riichi Rate"
 msgid "json|lobby/playerinfo|1|5|7|1|5|1|26|a27ffd0a6f4076f298f02add1dea77e9"
 msgstr "Riichi Rate"
 
-#: translate_json.csv:991
+#: translate_json.csv:990
 msgctxt "Yaku Achieved"
 msgid "json|lobby/playerinfo|1|5|7|1|6|0|2|3603833487a89784c5c1e4d6d9d0206a"
 msgstr "Yaku Achieved"
 
-#: translate_json.csv:992
+#: translate_json.csv:991
 msgctxt "Local Yaku Achieved"
 msgid "json|lobby/playerinfo|1|5|7|1|7|0|2|bf287837967c7c81eddd08da78f7d92f"
 msgstr "Local Yaku Achieved"
 
-#: translate_json.csv:993
+#: translate_json.csv:992
 msgctxt "4-Player"
 msgid "json|lobby/playerinfo_en|1|1|0|5dc72846529d753fec588a14a68f97f6"
 msgstr "4-Player"
 
-#: translate_json.csv:994
+#: translate_json.csv:993
 msgctxt "3-Player"
 msgid "json|lobby/playerinfo_en|1|2|0|493c1194804e829e28dead722b2ac772"
 msgstr "3-Player"
 
-#: translate_json.csv:995
+#: translate_json.csv:994
 msgctxt "Message"
 msgid "json|lobby/playerinfo_en|1|3|0|4c2a8fe7eaf24721cc7a9f0175115bd4"
 msgstr "Message"
 
-#: translate_json.csv:996
+#: translate_json.csv:995
 msgctxt "Empty"
 msgid "json|lobby/playerinfo_en|1|4|1|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
 msgstr "Empty"
 
-#: translate_json.csv:997
+#: translate_json.csv:996
 msgctxt "Info"
 msgid ""
 "json|lobby/playerinfo_en|1|4|2|0|8|1|0|4059b0251f66a18cb56f544728796875"
 msgstr "Info"
 
-#: translate_json.csv:998
+#: translate_json.csv:997
 msgctxt "No signature yet"
 msgid "json|lobby/playerinfo_en|1|4|5|3|92bc3e31fe25efb615f0fd161ab415c7"
 msgstr "No signature yet"
 
-#: translate_json.csv:999
+#: translate_json.csv:998
 msgctxt "Signature"
 msgid "json|lobby/playerinfo_en|1|4|5|4|8c09001c99ecb6fdd8d6023fcf039054"
 msgstr "Signature"
 
-#: translate_json.csv:1000
+#: translate_json.csv:999
 msgctxt "/"
 msgid "json|lobby/playerinfo_en|1|5|0|5|2|6666cd76f96956469e7be39d750cc7d9"
 msgstr "/"
 
-#: translate_json.csv:1001
+#: translate_json.csv:1000
 msgctxt "Title Book"
 msgid "json|lobby/playerinfo_en|1|5|2|1|7efb8809bf3fff186bc56fcf7363a1a8"
 msgstr "Title Book"
 
-#: translate_json.csv:1002
+#: translate_json.csv:1001
 msgctxt "Change Name"
 msgid "json|lobby/playerinfo_en|1|5|3|1|23a0ca84a7fd64eee8248bd1dfc77185"
 msgstr "Change Name"
 
-#: translate_json.csv:1003
+#: translate_json.csv:1002
 msgctxt "Friendly Match"
 msgid "json|lobby/playerinfo_en|1|5|6|1|0|e933fed1bdd6f754fb8232129c38716b"
 msgstr "Friendly Match"
 
-#: translate_json.csv:1004
+#: translate_json.csv:1003
 msgctxt "Ranked Match"
 msgid "json|lobby/playerinfo_en|1|5|6|2|0|76e1ad3f9b76ba224adc3f89dc021fbe"
 msgstr "Ranked Match"
 
-#: translate_json.csv:1005
+#: translate_json.csv:1004
 msgctxt "Path of Trial"
 msgid "json|lobby/playerinfo_en|1|5|6|3|0|c018f58f4c2074df948bc2e872faa998"
 msgstr "Path of Trial"
 
-#: translate_json.csv:1006
+#: translate_json.csv:1005
 msgctxt "Recent High Score"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|0|0|0|fee382ba20496eafced1bc721b85304c"
 msgstr "Recent High Score"
 
-#: translate_json.csv:1007
+#: translate_json.csv:1006
 msgctxt "No record available. Good luck!"
 msgid "json|lobby/playerinfo_en|1|5|7|1|0|3|2767cb7fc9c3dced54a3f30595125332"
 msgstr "No record available. Good luck!"
 
-#: translate_json.csv:1008
+#: translate_json.csv:1007
 msgctxt "ATK"
 msgid "json|lobby/playerinfo_en|1|5|7|1|1|0|96cc5c725ae8f5ccb76056b7d12ed095"
 msgstr "ATK"
 
-#: translate_json.csv:1009
+#: translate_json.csv:1008
 msgctxt "DEF"
 msgid "json|lobby/playerinfo_en|1|5|7|1|1|2|822dd494b3e14a82aa76bd455e6b6f4b"
 msgstr "DEF"
 
-#: translate_json.csv:1010
+#: translate_json.csv:1009
 msgctxt "SPD"
 msgid "json|lobby/playerinfo_en|1|5|7|1|1|4|ed504d8761c0f48e13d9d14e94a23627"
 msgstr "SPD"
 
-#: translate_json.csv:1011
+#: translate_json.csv:1010
 msgctxt "LUK"
 msgid "json|lobby/playerinfo_en|1|5|7|1|1|6|f88d79c11b5b643625fa1c5df243ccd5"
 msgstr "LUK"
 
-#: translate_json.csv:1012
+#: translate_json.csv:1011
 msgctxt "ATK"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|1|8|0|96cc5c725ae8f5ccb76056b7d12ed095"
 msgstr "ATK"
 
-#: translate_json.csv:1013
+#: translate_json.csv:1012
 msgctxt "DEF"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|1|8|1|822dd494b3e14a82aa76bd455e6b6f4b"
 msgstr "DEF"
 
-#: translate_json.csv:1014
+#: translate_json.csv:1013
 msgctxt "SPD"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|1|8|2|ed504d8761c0f48e13d9d14e94a23627"
 msgstr "SPD"
 
-#: translate_json.csv:1015
+#: translate_json.csv:1014
 msgctxt "LUK"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|1|8|3|f88d79c11b5b643625fa1c5df243ccd5"
 msgstr "LUK"
 
-#: translate_json.csv:1016
+#: translate_json.csv:1015
 msgctxt "Play Style"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|1|9|0|4c21dd25c08f117cd644b37484cb60a9"
 msgstr "Play Style"
 
-#: translate_json.csv:1017
+#: translate_json.csv:1016
 msgctxt "4"
 msgid "json|lobby/playerinfo_en|1|5|7|1|2|6|a87ff679a2f3e71d9181a67b7542122c"
 msgstr "4"
 
-#: translate_json.csv:1018
+#: translate_json.csv:1017
 msgctxt "Rank"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|2|6|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:1019
+#: translate_json.csv:1018
 msgctxt "3"
 msgid "json|lobby/playerinfo_en|1|5|7|1|2|7|eccbc87e4b5ce2fe28308fd9f2a7baf3"
 msgstr "3"
 
-#: translate_json.csv:1020
+#: translate_json.csv:1019
 msgctxt "Rank"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|2|7|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:1021
+#: translate_json.csv:1020
 msgctxt "2"
 msgid "json|lobby/playerinfo_en|1|5|7|1|2|8|c81e728d9d4c2f636f067f89cc14862c"
 msgstr "2"
 
-#: translate_json.csv:1022
+#: translate_json.csv:1021
 msgctxt "Rank"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|2|8|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:1023
+#: translate_json.csv:1022
 msgctxt "1"
 msgid "json|lobby/playerinfo_en|1|5|7|1|2|9|c4ca4238a0b923820dcc509a6f75849b"
 msgstr "1"
 
-#: translate_json.csv:1024
+#: translate_json.csv:1023
 msgctxt "Rank"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|2|9|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
-#: translate_json.csv:1025
+#: translate_json.csv:1024
 msgctxt "Trends"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|2|10|0|9cf69763de83f9db7f4a87c51fe6ae23"
 msgstr "Trends"
 
-#: translate_json.csv:1026
+#: translate_json.csv:1025
 msgctxt "Detailed Info"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|3|0|0|b8a1f13f2a5318ec0079b7be00f9130b"
 msgstr "Detailed Info"
 
-#: translate_json.csv:1027
+#: translate_json.csv:1026
 msgctxt "East Round"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|0|2|b854db72888d259be819bfde4fabb4e8"
 msgstr "East Round"
 
-#: translate_json.csv:1028
+#: translate_json.csv:1027
 msgctxt "1st"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|0|ec31383cc75b7ef7915803f99562cbe8"
 msgstr "1st"
 
-#: translate_json.csv:1029
+#: translate_json.csv:1028
 msgctxt "2nd"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
 msgstr "2nd"
 
-#: translate_json.csv:1030
+#: translate_json.csv:1029
 msgctxt "3rd"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|4|b7b655045b89200c7a4dedb1303ca2f1"
 msgstr "3rd"
 
-#: translate_json.csv:1031
+#: translate_json.csv:1030
 msgctxt "4th"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
 msgstr "4th"
 
-#: translate_json.csv:1032
+#: translate_json.csv:1031
 msgctxt "Negative"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
 msgstr "Negative"
 
-#: translate_json.csv:1033
+#: translate_json.csv:1032
 msgctxt "Total Played"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|8|9f489bc2f6bfada1c7495786b50c4184"
 msgstr "Total Played"
 
-#: translate_json.csv:1034
+#: translate_json.csv:1033
 msgctxt "Avg Score"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|10|24b362a521bc6bbba7ca7f634f257cf2"
 msgstr "Avg Score"
 
-#: translate_json.csv:1035
+#: translate_json.csv:1034
 msgctxt "Avg Rank"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|12|78f17c40778452d853ecf5d93ef34fdd"
 msgstr "Avg Rank"
 
-#: translate_json.csv:1036
+#: translate_json.csv:1035
 msgctxt "Max Repeats"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|14|1421256f92c4ddbfa64cace74f63aa73"
 msgstr "Max Repeats"
 
-#: translate_json.csv:1037
+#: translate_json.csv:1036
 msgctxt "Avg Turns"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|16|ad2192da9ca93ed2365636871922f796"
 msgstr "Avg Turns"
 
-#: translate_json.csv:1038
+#: translate_json.csv:1037
 msgctxt "Win Rate"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
 msgstr "Win Rate"
 
-#: translate_json.csv:1039
+#: translate_json.csv:1038
 msgctxt "Tsumo Rate"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|20|f09fc617ff40790b7c0576a6c21b3bff"
 msgstr "Tsumo Rate"
 
-#: translate_json.csv:1040
+#: translate_json.csv:1039
 msgctxt "Deal-in Rate"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|22|3f2df764788280fe9aa53229fdc127fd"
 msgstr "Deal-in Rate"
 
-#: translate_json.csv:1041
+#: translate_json.csv:1040
 msgctxt "Call Rate"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|24|3a4925e19e02fb44df9d672c6e0724d3"
 msgstr "Call Rate"
 
-#: translate_json.csv:1042
+#: translate_json.csv:1041
 msgctxt "Riichi Rate"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|4|1|26|a27ffd0a6f4076f298f02add1dea77e9"
 msgstr "Riichi Rate"
 
-#: translate_json.csv:1043
+#: translate_json.csv:1042
 msgctxt "South Round"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|0|2|23a893f962bd1ba64fd3534612197997"
 msgstr "South Round"
 
-#: translate_json.csv:1044
+#: translate_json.csv:1043
 msgctxt "1st"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|0|ec31383cc75b7ef7915803f99562cbe8"
 msgstr "1st"
 
-#: translate_json.csv:1045
+#: translate_json.csv:1044
 msgctxt "2nd"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
 msgstr "2nd"
 
-#: translate_json.csv:1046
+#: translate_json.csv:1045
 msgctxt "3rd"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|4|b7b655045b89200c7a4dedb1303ca2f1"
 msgstr "3rd"
 
-#: translate_json.csv:1047
+#: translate_json.csv:1046
 msgctxt "4th"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
 msgstr "4th"
 
-#: translate_json.csv:1048
+#: translate_json.csv:1047
 msgctxt "Negative"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
 msgstr "Negative"
 
-#: translate_json.csv:1049
+#: translate_json.csv:1048
 msgctxt "Total Played"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|8|9f489bc2f6bfada1c7495786b50c4184"
 msgstr "Total Played"
 
-#: translate_json.csv:1050
+#: translate_json.csv:1049
 msgctxt "Avg Score"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|10|24b362a521bc6bbba7ca7f634f257cf2"
 msgstr "Avg Score"
 
-#: translate_json.csv:1051
+#: translate_json.csv:1050
 msgctxt "Avg Rank"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|12|78f17c40778452d853ecf5d93ef34fdd"
 msgstr "Avg Rank"
 
-#: translate_json.csv:1052
+#: translate_json.csv:1051
 msgctxt "Max Repeats"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|14|1421256f92c4ddbfa64cace74f63aa73"
 msgstr "Max Repeats"
 
-#: translate_json.csv:1053
+#: translate_json.csv:1052
 msgctxt "Avg Turns"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|16|ad2192da9ca93ed2365636871922f796"
 msgstr "Avg Turns"
 
-#: translate_json.csv:1054
+#: translate_json.csv:1053
 msgctxt "Win Rate"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
 msgstr "Win Rate"
 
-#: translate_json.csv:1055
+#: translate_json.csv:1054
 msgctxt "Tsumo Rate"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|20|f09fc617ff40790b7c0576a6c21b3bff"
 msgstr "Tsumo Rate"
 
-#: translate_json.csv:1056
+#: translate_json.csv:1055
 msgctxt "Deal-in Rate"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|22|3f2df764788280fe9aa53229fdc127fd"
 msgstr "Deal-in Rate"
 
-#: translate_json.csv:1057
+#: translate_json.csv:1056
 msgctxt "Call Rate"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|24|3a4925e19e02fb44df9d672c6e0724d3"
 msgstr "Call Rate"
 
-#: translate_json.csv:1058
+#: translate_json.csv:1057
 msgctxt "Riichi Rate"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|5|1|26|a27ffd0a6f4076f298f02add1dea77e9"
 msgstr "Riichi Rate"
 
-#: translate_json.csv:1059
+#: translate_json.csv:1058
 msgctxt "Yaku Achieved"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|6|0|2|3603833487a89784c5c1e4d6d9d0206a"
 msgstr "Yaku Achieved"
 
-#: translate_json.csv:1060
+#: translate_json.csv:1059
 msgctxt "Local Yaku Achieved"
 msgid ""
 "json|lobby/playerinfo_en|1|5|7|1|7|0|2|bf287837967c7c81eddd08da78f7d92f"
 msgstr "Local Yaku Achieved"
 
-#: translate_json.csv:1061
+#: translate_json.csv:1060
 msgctxt "Buy"
 msgid "json|lobby/pop_buy_multi|0|6|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "Buy"
 
-#: translate_json.csv:1062
+#: translate_json.csv:1061
 msgctxt "Price"
 msgid "json|lobby/pop_buy_multi|0|7|0|3601146c4e948c32b6424d2c0a7f0118"
 msgstr "Price"
 
-#: translate_json.csv:1063
+#: translate_json.csv:1062
 msgctxt "Remaining"
 msgid "json|lobby/pop_buy_multi|0|8|0|5a1119ecb764165f27cb37b6f50134f2"
 msgstr "Remaining"
 
-#: translate_json.csv:1064
+#: translate_json.csv:1063
 msgctxt "Refreshes once every month"
 msgid "json|lobby/pop_buy_multi|0|9|d5126fa212bba8cda8b80bd7311a9ab8"
 msgstr "Refreshes once every month"
 
-#: translate_json.csv:1065
+#: translate_json.csv:1064
 msgctxt "Total Price"
 msgid "json|lobby/pop_buy_multi|0|10|0|f3547ae5e06426d87312eff7dda775aa"
 msgstr "Total Price"
 
-#: translate_json.csv:1066
+#: translate_json.csv:1065
 msgctxt "Buy"
 msgid "json|lobby/pop_buy_single|0|6|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "Buy"
 
-#: translate_json.csv:1067
+#: translate_json.csv:1066
 msgctxt "Total Price"
 msgid "json|lobby/pop_buy_single|0|7|0|f3547ae5e06426d87312eff7dda775aa"
 msgstr "Total Price"
 
-#: translate_json.csv:1068
+#: translate_json.csv:1067
 msgctxt "pt"
 msgid "json|lobby/rank|0|2|0|0|4|fc9fdf084e290f26a270390dc49061a2"
 msgstr "pt"
 
-#: translate_json.csv:1069
+#: translate_json.csv:1068
 msgctxt "pt"
 msgid "json|lobby/rank|0|4|1|7|fc9fdf084e290f26a270390dc49061a2"
 msgstr "pt"
 
-#: translate_json.csv:1070
+#: translate_json.csv:1069
 msgctxt "4-Player"
 msgid "json|lobby/rank|0|5|0|0|5dc72846529d753fec588a14a68f97f6"
 msgstr "4-Player"
 
-#: translate_json.csv:1071
+#: translate_json.csv:1070
 msgctxt "3-Player"
 msgid "json|lobby/rank|0|5|1|0|493c1194804e829e28dead722b2ac772"
 msgstr "3-Player"
 
-#: translate_json.csv:1072
+#: translate_json.csv:1071
 msgctxt "Shop"
 msgid "json|lobby/recharge|0|0|9f82518d468b9fee614fcc92f76bb163"
 msgstr "Shop"
 
-#: translate_json.csv:1073
+#: translate_json.csv:1072
 msgctxt "Misc"
 msgid "json|lobby/recharge|1|0|0|0|74248c725e00bf9fe04df4e35b249a19"
 msgstr "Misc"
 
-#: translate_json.csv:1074
+#: translate_json.csv:1073
 msgctxt "Wishing"
 msgid "json|lobby/recharge|1|0|1|0|a8ca203fa7ca6821594becc9e31d6f5c"
 msgstr "Wishing"
 
-#: translate_json.csv:1075
+#: translate_json.csv:1074
 msgctxt "Star"
 msgid "json|lobby/recharge|1|0|2|0|26f93e6e68e28a698377e941cb59f29a"
 msgstr "Star"
 
-#: translate_json.csv:1076
+#: translate_json.csv:1075
 msgctxt "Summon Shop"
 msgid "json|lobby/recharge|1|0|3|0|fc8de1802e7c809e119d1fd235cf9f22"
 msgstr "Summon Shop"
 
-#: translate_json.csv:1077
+#: translate_json.csv:1076
 msgctxt "Summon"
 msgid "json|lobby/recharge|1|0|4|0|efde9837421a1454da9ca1d72146c552"
 msgstr "Summon"
 
-#: translate_json.csv:1078
+#: translate_json.csv:1077
 msgctxt "Title"
 msgid "json|lobby/recharge|1|2|0|1|b78a3223503896721cca1303f776159b"
 msgstr "Title"
 
-#: translate_json.csv:1079
+#: translate_json.csv:1078
 msgctxt "Current"
 msgid "json|lobby/recharge|1|2|6|0|222a267cc5778206b253be35ee3ddab5"
 msgstr "Current"
 
-#: translate_json.csv:1080
+#: translate_json.csv:1079
 msgctxt "Claim"
 msgid "json|lobby/recharge|1|2|8|0|803138044f8a43e9dcb5a76722ee06d0"
 msgstr "Claim"
 
-#: translate_json.csv:1081
+#: translate_json.csv:1080
 msgctxt "Rewards"
 msgid "json|lobby/recharge|1|2|9|0|1|0d1c608c1498367815da8105e26b0a9e"
 msgstr "Rewards"
 
-#: translate_json.csv:1082
+#: translate_json.csv:1081
 msgctxt "Buy"
 msgid "json|lobby/recharge|2|0|6|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "Buy"
 
-#: translate_json.csv:1083
+#: translate_json.csv:1082
 msgctxt "Total Price"
 msgid "json|lobby/recharge|2|0|7|0|f3547ae5e06426d87312eff7dda775aa"
 msgstr "Total Price"
 
-#: translate_json.csv:1084
+#: translate_json.csv:1083
 msgctxt "Path of Trial"
 msgid "json|lobby/shilian/shilian|2|2|c018f58f4c2074df948bc2e872faa998"
 msgstr "Path of Trial"
 
-#: translate_json.csv:1085
+#: translate_json.csv:1084
 msgctxt "Reward:"
 msgid "json|lobby/shilian/shilian|3|0|2|0|3|9dc18cdd11b4973ecee8ea9d4ed30b63"
 msgstr "Reward:"
 
-#: translate_json.csv:1086
+#: translate_json.csv:1085
 msgctxt "Remaining Challenges:"
 msgid "json|lobby/shilian/shilian|3|0|2|0|4|ab0d5a26f182e04992cb968448890668"
 msgstr "Remaining Challenges:"
 
-#: translate_json.csv:1087
+#: translate_json.csv:1086
 msgctxt "Reward:"
 msgid "json|lobby/shilian/shilian|3|0|2|1|3|9dc18cdd11b4973ecee8ea9d4ed30b63"
 msgstr "Reward:"
 
-#: translate_json.csv:1088
+#: translate_json.csv:1087
 msgctxt "Remaining Challenges:"
 msgid "json|lobby/shilian/shilian|3|0|2|1|4|ab0d5a26f182e04992cb968448890668"
 msgstr "Remaining Challenges:"
 
-#: translate_json.csv:1089
+#: translate_json.csv:1088
 msgctxt "Weekly rewards"
 msgid "json|lobby/shilian/shilian|3|2|4|1|a0a2ca7163df8930c11f3c1a45dd04d3"
 msgstr "Weekly rewards"
 
-#: translate_json.csv:1090
+#: translate_json.csv:1089
 msgctxt ""
 "Please select a goal in progress and stamp \"Trial Succeeded\". Click the "
 "blank to cancel it."
@@ -5808,1240 +5803,1240 @@ msgstr ""
 "Please select a goal in progress and stamp \"Trial Succeeded\". Click the "
 "blank to cancel it."
 
-#: translate_json.csv:1091
+#: translate_json.csv:1090
 msgctxt "Click to continue"
 msgid "json|lobby/shilian/shilian|4|2|7c3310321ea03c9ad2d30754ab6c8415"
 msgstr "Click to continue"
 
-#: translate_json.csv:1092
+#: translate_json.csv:1091
 msgctxt "Trial Rank Description"
 msgid ""
 "json|lobby/shilian/shilian_level_info|0|2|40b04635066236fc8608c708081443e9"
 msgstr "Trial Rank Description"
 
-#: translate_json.csv:1093
+#: translate_json.csv:1092
 msgctxt "Ranking of Trial Rank"
 msgid "json|lobby/shilian/shilian_rank|0|1|b3ee1bdb9f8a44546bec54ba4735ec55"
 msgstr "Ranking of Trial Rank"
 
-#: translate_json.csv:1094
+#: translate_json.csv:1093
 msgctxt "Friends' Ranking"
 msgid "json|lobby/shilian/shilian_rank|0|5|1|fb2fd76f1acb1fcd6566b68da25717fd"
 msgstr "Friends' Ranking"
 
-#: translate_json.csv:1095
+#: translate_json.csv:1094
 msgctxt "Receive the Trial Rank reward"
 msgid "json|lobby/shilian/shilian_reward|0|2|1d851332688f329f6df00c7a917301cd"
 msgstr "Receive the Trial Rank reward"
 
-#: translate_json.csv:1096
+#: translate_json.csv:1095
 msgctxt "Claimed"
 msgid ""
 "json|lobby/shilian/shilian_reward|0|4|0|0|2|1|4|9d8b15ef78357692564f5aced0c68eaf"
 msgstr "Claimed"
 
-#: translate_json.csv:1097
+#: translate_json.csv:1096
 msgctxt "Outfit"
 msgid "json|lobby/shop|0|0|0|0|53b63018bfb47c8eaa82a16c8a07351e"
 msgstr "Outfit"
 
-#: translate_json.csv:1098
+#: translate_json.csv:1097
 msgctxt "Fortune"
 msgid "json|lobby/shop|0|0|1|0|07f3fb85953bf41d154cba88825ee748"
 msgstr "Fortune"
 
-#: translate_json.csv:1099
+#: translate_json.csv:1098
 msgctxt "Star"
 msgid "json|lobby/shop|0|0|2|0|26f93e6e68e28a698377e941cb59f29a"
 msgstr "Star"
 
-#: translate_json.csv:1100
+#: translate_json.csv:1099
 msgctxt "Wishing"
 msgid "json|lobby/shop|0|0|3|0|a8ca203fa7ca6821594becc9e31d6f5c"
 msgstr "Wishing"
 
-#: translate_json.csv:1101
+#: translate_json.csv:1100
 msgctxt "Misc"
 msgid "json|lobby/shop|0|0|4|0|74248c725e00bf9fe04df4e35b249a19"
 msgstr "Misc"
 
-#: translate_json.csv:1102
+#: translate_json.csv:1101
 msgctxt "Refresh"
 msgid "json|lobby/shop|0|1|1|0|0|63a6a88c066880c5ac42394a22803ca6"
 msgstr "Refresh"
 
-#: translate_json.csv:1103
+#: translate_json.csv:1102
 msgctxt "Refresh"
 msgid "json|lobby/shop|0|1|1|0|1|0|63a6a88c066880c5ac42394a22803ca6"
 msgstr "Refresh"
 
-#: translate_json.csv:1104
+#: translate_json.csv:1103
 msgctxt "Can`t refresh anymore today"
 msgid "json|lobby/shop|0|1|1|2|ca2ed4098e24e77076b063f0cca420a7"
 msgstr "Can`t refresh anymore today"
 
-#: translate_json.csv:1105
+#: translate_json.csv:1104
 msgctxt "Duplicate characters will be converted into Wishing Stones"
 msgid "json|lobby/shop|0|1|2|0|4faad20f7a60e8f1f2abb6e0149672c4"
 msgstr "Duplicate characters will be converted into Wishing Stones"
 
-#: translate_json.csv:1106
+#: translate_json.csv:1105
 msgctxt "Duplicate decorations will be converted into Star Stones"
 msgid "json|lobby/shop|0|1|3|2|47958c936f775228a1c5e1232d6f67b9"
 msgstr "Duplicate decorations will be converted into Star Stones"
 
-#: translate_json.csv:1107
+#: translate_json.csv:1106
 msgctxt "Star Dust can be acquired by donating Gifts"
 msgid "json|lobby/shop|0|1|4|1|26270c0a87f60e37b270d339df36e1c4"
 msgstr "Star Dust can be acquired by donating Gifts"
 
-#: translate_json.csv:1108
+#: translate_json.csv:1107
 msgctxt "Purchase"
 msgid "json|lobby/shop|0|2|0|0|6|2|0|76b6a47a02685d51794b9fdb095512e5"
 msgstr "Purchase"
 
-#: translate_json.csv:1109
+#: translate_json.csv:1108
 msgctxt "Sold Out"
 msgid "json|lobby/shop|0|2|3|826eadae3870bf9e64c7a7ff9b1cb181"
 msgstr "Sold Out"
 
-#: translate_json.csv:1110
+#: translate_json.csv:1109
 msgctxt "Shop"
 msgid "json|lobby/shop|1|0|9f82518d468b9fee614fcc92f76bb163"
 msgstr "Shop"
 
-#: translate_json.csv:1111
+#: translate_json.csv:1110
 msgctxt "Buy"
 msgid "json|lobby/shop_lobby_yulan|1|2|2|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "Buy"
 
-#: translate_json.csv:1112
+#: translate_json.csv:1111
 msgctxt "Original Price:"
 msgid "json|lobby/shop_pack_detail|0|5|0|eb27a573fa958565e77ca7daf85c4979"
 msgstr "Original Price:"
 
-#: translate_json.csv:1113
+#: translate_json.csv:1112
 msgctxt "Discount Rate:"
 msgid "json|lobby/shop_pack_detail|0|6|0|a7f0e2f3b866e67b144584e08f7e5372"
 msgstr "Discount Rate:"
 
-#: translate_json.csv:1114
+#: translate_json.csv:1113
 msgctxt "Final Price:"
 msgid "json|lobby/shop_pack_detail|0|7|0|79dbc48829c804a7f59f08ad9039799f"
 msgstr "Final Price:"
 
-#: translate_json.csv:1115
+#: translate_json.csv:1114
 msgctxt "Buy"
 msgid "json|lobby/shop_pack_detail|0|8|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "Buy"
 
-#: translate_json.csv:1116
+#: translate_json.csv:1115
 msgctxt "Items contained in this pack"
 msgid "json|lobby/shop_pack_detail|0|9|5b265906fb73f54f854b9b413b99e18a"
 msgstr "Items contained in this pack"
 
-#: translate_json.csv:1117
+#: translate_json.csv:1116
 msgctxt "Buy"
 msgid "json|lobby/shop_skin_yulan|2|0|2|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "Buy"
 
-#: translate_json.csv:1118
+#: translate_json.csv:1117
 msgctxt "Daily Prayer"
 msgid "json|lobby/sign|1|2|d4f9f37f8a23091f6154929bd14cb922"
 msgstr "Daily Prayer"
 
-#: translate_json.csv:1119
+#: translate_json.csv:1118
 msgctxt "Day"
 msgid "json|lobby/sign|1|3|4|0|03727ac48595a24daed975559c944a44"
 msgstr "Day"
 
-#: translate_json.csv:1120
+#: translate_json.csv:1119
 msgctxt "Day"
 msgid "json|lobby/sign|1|3|4|1|03727ac48595a24daed975559c944a44"
 msgstr "Day"
 
-#: translate_json.csv:1121
+#: translate_json.csv:1120
 msgctxt "Day"
 msgid "json|lobby/sign|1|4|4|0|03727ac48595a24daed975559c944a44"
 msgstr "Day"
 
-#: translate_json.csv:1122
+#: translate_json.csv:1121
 msgctxt "Day"
 msgid "json|lobby/sign|1|4|4|1|03727ac48595a24daed975559c944a44"
 msgstr "Day"
 
-#: translate_json.csv:1123
+#: translate_json.csv:1122
 msgctxt "Claim"
 msgid "json|lobby/sign|1|5|0|803138044f8a43e9dcb5a76722ee06d0"
 msgstr "Claim"
 
-#: translate_json.csv:1124
+#: translate_json.csv:1123
 msgctxt "Claimed"
 msgid "json|lobby/sign|1|5|2|9d8b15ef78357692564f5aced0c68eaf"
 msgstr "Claimed"
 
-#: translate_json.csv:1125
+#: translate_json.csv:1124
 msgctxt "Character"
 msgid "json|lobby/sushe_select|0|1|0|0|76a40e4f974fd895a0a2598c1cee28b4"
 msgstr "Character"
 
-#: translate_json.csv:1126
+#: translate_json.csv:1125
 msgctxt "Decoration"
 msgid "json|lobby/sushe_select|0|1|1|0|24365794120e03b807acbd05c0a48db9"
 msgstr "Decoration"
 
-#: translate_json.csv:1127
+#: translate_json.csv:1126
 msgctxt "1"
 msgid "json|lobby/sushe_select|0|2|1|0|1|c4ca4238a0b923820dcc509a6f75849b"
 msgstr "1"
 
-#: translate_json.csv:1128
+#: translate_json.csv:1127
 msgctxt "2"
 msgid "json|lobby/sushe_select|0|2|1|1|1|c81e728d9d4c2f636f067f89cc14862c"
 msgstr "2"
 
-#: translate_json.csv:1129
+#: translate_json.csv:1128
 msgctxt "3"
 msgid "json|lobby/sushe_select|0|2|1|2|1|eccbc87e4b5ce2fe28308fd9f2a7baf3"
 msgstr "3"
 
-#: translate_json.csv:1130
+#: translate_json.csv:1129
 msgctxt "4"
 msgid "json|lobby/sushe_select|0|2|1|3|1|a87ff679a2f3e71d9181a67b7542122c"
 msgstr "4"
 
-#: translate_json.csv:1131
+#: translate_json.csv:1130
 msgctxt "5"
 msgid "json|lobby/sushe_select|0|2|1|4|1|e4da3b7fbbce2345d7772b0674a318d5"
 msgstr "5"
 
-#: translate_json.csv:1132
+#: translate_json.csv:1131
 msgctxt "In Use"
 msgid "json|lobby/sushe_select|0|4|0|2|0|62554d450e691783ae8a8b4cc2ed8ae6"
 msgstr "In Use"
 
-#: translate_json.csv:1133
+#: translate_json.csv:1132
 msgctxt "Use"
 msgid "json|lobby/sushe_select|0|4|0|3|0|0|ad8783089f828b927473fb61d51940ec"
 msgstr "Use"
 
-#: translate_json.csv:1134
+#: translate_json.csv:1133
 msgctxt "Save"
 msgid "json|lobby/sushe_select|0|4|0|4|0|0|c9cc8cce247e49bae79f15173ce97354"
 msgstr "Save"
 
-#: translate_json.csv:1135
+#: translate_json.csv:1134
 msgctxt "Empty"
 msgid "json|lobby/sushe_select|0|4|1|6|0|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
 msgstr "Empty"
 
-#: translate_json.csv:1136
+#: translate_json.csv:1135
 msgctxt "Empty"
 msgid "json|lobby/sushe_select|0|4|4|5|0|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
 msgstr "Empty"
 
-#: translate_json.csv:1137
+#: translate_json.csv:1136
 msgctxt "Dorm"
 msgid "json|lobby/sushe_select|1|0|a40462b485f8a3349866af9494b5066c"
 msgstr "Dorm"
 
-#: translate_json.csv:1138
+#: translate_json.csv:1137
 msgctxt "Character"
 msgid "json|lobby/sushe_select_en|0|1|0|0|76a40e4f974fd895a0a2598c1cee28b4"
 msgstr "Character"
 
-#: translate_json.csv:1139
+#: translate_json.csv:1138
 msgctxt "Decoration"
 msgid "json|lobby/sushe_select_en|0|1|1|0|24365794120e03b807acbd05c0a48db9"
 msgstr "Decoration"
 
-#: translate_json.csv:1140
+#: translate_json.csv:1139
 msgctxt "1"
 msgid "json|lobby/sushe_select_en|0|2|1|0|1|c4ca4238a0b923820dcc509a6f75849b"
 msgstr "1"
 
-#: translate_json.csv:1141
+#: translate_json.csv:1140
 msgctxt "2"
 msgid "json|lobby/sushe_select_en|0|2|1|1|1|c81e728d9d4c2f636f067f89cc14862c"
 msgstr "2"
 
-#: translate_json.csv:1142
+#: translate_json.csv:1141
 msgctxt "3"
 msgid "json|lobby/sushe_select_en|0|2|1|2|1|eccbc87e4b5ce2fe28308fd9f2a7baf3"
 msgstr "3"
 
-#: translate_json.csv:1143
+#: translate_json.csv:1142
 msgctxt "4"
 msgid "json|lobby/sushe_select_en|0|2|1|3|1|a87ff679a2f3e71d9181a67b7542122c"
 msgstr "4"
 
-#: translate_json.csv:1144
+#: translate_json.csv:1143
 msgctxt "5"
 msgid "json|lobby/sushe_select_en|0|2|1|4|1|e4da3b7fbbce2345d7772b0674a318d5"
 msgstr "5"
 
-#: translate_json.csv:1145
+#: translate_json.csv:1144
 msgctxt "In Use"
 msgid "json|lobby/sushe_select_en|0|4|0|2|0|62554d450e691783ae8a8b4cc2ed8ae6"
 msgstr "In Use"
 
-#: translate_json.csv:1146
+#: translate_json.csv:1145
 msgctxt "Use"
 msgid ""
 "json|lobby/sushe_select_en|0|4|0|3|0|0|ad8783089f828b927473fb61d51940ec"
 msgstr "Use"
 
-#: translate_json.csv:1147
+#: translate_json.csv:1146
 msgctxt "Save"
 msgid ""
 "json|lobby/sushe_select_en|0|4|0|4|0|0|c9cc8cce247e49bae79f15173ce97354"
 msgstr "Save"
 
-#: translate_json.csv:1148
+#: translate_json.csv:1147
 msgctxt "Empty"
 msgid "json|lobby/sushe_select_en|0|4|1|6|0|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
 msgstr "Empty"
 
-#: translate_json.csv:1149
+#: translate_json.csv:1148
 msgctxt "Empty"
 msgid "json|lobby/sushe_select_en|0|4|4|5|0|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
 msgstr "Empty"
 
-#: translate_json.csv:1150
+#: translate_json.csv:1149
 msgctxt "Dorm"
 msgid "json|lobby/sushe_select_en|1|0|a40462b485f8a3349866af9494b5066c"
 msgstr "Dorm"
 
-#: translate_json.csv:1151
+#: translate_json.csv:1150
 msgctxt "Confirm"
 msgid "json|lobby/tangfang1|6|3|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:1152
+#: translate_json.csv:1151
 msgctxt "Resummon"
 msgid "json|lobby/tangfang1|6|4|0|ff2cf091e2b27b9b537597dac8cc9513"
 msgstr "Resummon"
 
-#: translate_json.csv:1153
+#: translate_json.csv:1152
 msgctxt "Title Book"
 msgid "json|lobby/titlebook|1|2|7efb8809bf3fff186bc56fcf7363a1a8"
 msgstr "Title Book"
 
-#: translate_json.csv:1154
+#: translate_json.csv:1153
 msgctxt "Available"
 msgid "json|lobby/titlebook|1|3|78945de8de090e90045d299651a68a9b"
 msgstr "Available"
 
-#: translate_json.csv:1155
+#: translate_json.csv:1154
 msgctxt "Your Title Book is empty."
 msgid "json|lobby/titlebook|1|6|729d312dbe323d4c32f3aaa22ca95fbf"
 msgstr "Your Title Book is empty."
 
-#: translate_json.csv:1156
+#: translate_json.csv:1155
 msgctxt "Summon 10 Times"
 msgid "json|lobby/treasure|0|0|0|a90a723e5e0a2a55af1842730b439df8"
 msgstr "Summon 10 Times"
 
-#: translate_json.csv:1157
+#: translate_json.csv:1156
 msgctxt "Get"
 msgid "json|lobby/treasure|0|0|1|c55582518cba2c464f29f5bae1c68def"
 msgstr "Get"
 
-#: translate_json.csv:1158
+#: translate_json.csv:1157
 msgctxt "Chance to get characters, decorations or gifts"
 msgid "json|lobby/treasure|0|0|3|c620150db889c75f43b8af67aedc642f"
 msgstr "Chance to get characters, decorations or gifts"
 
-#: translate_json.csv:1159
+#: translate_json.csv:1158
 msgctxt "Summon 10 Times"
 msgid "json|lobby/treasure|0|0|5|0|a90a723e5e0a2a55af1842730b439df8"
 msgstr "Summon 10 Times"
 
-#: translate_json.csv:1160
+#: translate_json.csv:1159
 msgctxt "Summon Once"
 msgid "json|lobby/treasure|0|1|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
 msgstr "Summon Once"
 
-#: translate_json.csv:1161
+#: translate_json.csv:1160
 msgctxt "Get"
 msgid "json|lobby/treasure|0|1|1|c55582518cba2c464f29f5bae1c68def"
 msgstr "Get"
 
-#: translate_json.csv:1162
+#: translate_json.csv:1161
 msgctxt "Chance to get characters, decorations or gifts"
 msgid "json|lobby/treasure|0|1|3|c620150db889c75f43b8af67aedc642f"
 msgstr "Chance to get characters, decorations or gifts"
 
-#: translate_json.csv:1163
+#: translate_json.csv:1162
 msgctxt "Summon Once"
 msgid "json|lobby/treasure|0|1|5|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
 msgstr "Summon Once"
 
-#: translate_json.csv:1164
+#: translate_json.csv:1163
 msgctxt "Overview"
 msgid "json|lobby/treasure|0|5|0|3b878279a04dc47d60932cb294d96259"
 msgstr "Overview"
 
-#: translate_json.csv:1165
+#: translate_json.csv:1164
 msgctxt "Redeem"
 msgid "json|lobby/treasure|0|6|2|0|81ed4dcb851fefbbbc791eeef4cd97a2"
 msgstr "Redeem"
 
-#: translate_json.csv:1166
+#: translate_json.csv:1165
 msgctxt "Summon"
 msgid "json|lobby/treasure|1|0|efde9837421a1454da9ca1d72146c552"
 msgstr "Summon"
 
-#: translate_json.csv:1167
+#: translate_json.csv:1166
 msgctxt "Select the character/item you would like to redeem"
 msgid "json|lobby/treasure|3|4|19f3c26d730dccfc3cec60def81e119e"
 msgstr "Select the character/item you would like to redeem"
 
-#: translate_json.csv:1168
+#: translate_json.csv:1167
 msgctxt "每次寻觅都可以获得1点"
 msgid "json|lobby/treasure|4|2|2|0|0|21981eda7c469476e8954a8885b1f108"
 msgstr "每次寻觅都可以获得1点"
 
-#: translate_json.csv:1169
+#: translate_json.csv:1168
 msgctxt "(信仰)，同时有可能获得全新的雀士及各种装扮"
 msgid "json|lobby/treasure|4|2|2|0|1|7b1a8127a187db29a9b77aaf772d0071"
 msgstr "(信仰)，同时有可能获得全新的雀士及各种装扮"
 
-#: translate_json.csv:1170
+#: translate_json.csv:1169
 msgctxt "雀士概率：5%"
 msgid "json|lobby/treasure|4|2|2|0|2|11e4ba4a8cb176be1acb80978b571cdb"
 msgstr "雀士概率：5%"
 
-#: translate_json.csv:1171
+#: translate_json.csv:1170
 msgctxt "重复获取的雀士将转换为许愿石"
 msgid "json|lobby/treasure|4|2|2|0|2|0|fe1131907c7fb2562b4991589cec76f3"
 msgstr "重复获取的雀士将转换为许愿石"
 
-#: translate_json.csv:1172
+#: translate_json.csv:1171
 msgctxt "装扮概率：15%"
 msgid "json|lobby/treasure|4|2|2|0|3|c8b16a2572d0ddba8f95d9142f7e7d3f"
 msgstr "装扮概率：15%"
 
-#: translate_json.csv:1173
+#: translate_json.csv:1172
 msgctxt "重复获取的装扮将转换为星之石"
 msgid "json|lobby/treasure|4|2|2|0|3|0|601f6631a51db51eca9ea2a712864817"
 msgstr "重复获取的装扮将转换为星之石"
 
-#: translate_json.csv:1174
+#: translate_json.csv:1173
 msgctxt "礼物概率：80%"
 msgid "json|lobby/treasure|4|2|2|0|4|d474cc361920c4d160a95e617711ce2c"
 msgstr "礼物概率：80%"
 
-#: translate_json.csv:1175
+#: translate_json.csv:1174
 msgctxt "使用辉玉10连寻觅，至少会获得一个紫色礼物"
 msgid "json|lobby/treasure|4|2|2|0|5|37c79d331e6564f6826cbf3d332d854b"
 msgstr "使用辉玉10连寻觅，至少会获得一个紫色礼物"
 
-#: translate_json.csv:1176
+#: translate_json.csv:1175
 msgctxt "每次寻觅都可以获得1点"
 msgid "json|lobby/treasure|4|2|2|1|0|21981eda7c469476e8954a8885b1f108"
 msgstr "每次寻觅都可以获得1点"
 
-#: translate_json.csv:1177
+#: translate_json.csv:1176
 msgctxt "(信仰)，同时有可能获得全新的雀士及各种装扮"
 msgid "json|lobby/treasure|4|2|2|1|1|7b1a8127a187db29a9b77aaf772d0071"
 msgstr "(信仰)，同时有可能获得全新的雀士及各种装扮"
 
-#: translate_json.csv:1178
+#: translate_json.csv:1177
 msgctxt "雀士概率：5%"
 msgid "json|lobby/treasure|4|2|2|1|2|11e4ba4a8cb176be1acb80978b571cdb"
 msgstr "雀士概率：5%"
 
-#: translate_json.csv:1179
+#: translate_json.csv:1178
 msgctxt "重复获取的雀士将转换为许愿石"
 msgid "json|lobby/treasure|4|2|2|1|2|0|fe1131907c7fb2562b4991589cec76f3"
 msgstr "重复获取的雀士将转换为许愿石"
 
-#: translate_json.csv:1180
+#: translate_json.csv:1179
 msgctxt "(UP雀士占59%、其他雀士占41%)"
 msgid "json|lobby/treasure|4|2|2|1|3|e571ef2163101e87f50d31d486befbb2"
 msgstr "(UP雀士占59%、其他雀士占41%)"
 
-#: translate_json.csv:1181
+#: translate_json.csv:1180
 msgctxt "装扮概率：15%"
 msgid "json|lobby/treasure|4|2|2|1|4|c8b16a2572d0ddba8f95d9142f7e7d3f"
 msgstr "装扮概率：15%"
 
-#: translate_json.csv:1182
+#: translate_json.csv:1181
 msgctxt "重复获取的装扮将转换为星之石"
 msgid "json|lobby/treasure|4|2|2|1|4|0|601f6631a51db51eca9ea2a712864817"
 msgstr "重复获取的装扮将转换为星之石"
 
-#: translate_json.csv:1183
+#: translate_json.csv:1182
 msgctxt "(UP装扮占49%、其他装扮占51%)"
 msgid "json|lobby/treasure|4|2|2|1|5|76a8cdef42e10d6cde4f3b3d9f35cc92"
 msgstr "(UP装扮占49%、其他装扮占51%)"
 
-#: translate_json.csv:1184
+#: translate_json.csv:1183
 msgctxt "礼物概率：80%"
 msgid "json|lobby/treasure|4|2|2|1|6|d474cc361920c4d160a95e617711ce2c"
 msgstr "礼物概率：80%"
 
-#: translate_json.csv:1185
+#: translate_json.csv:1184
 msgctxt "使用辉玉10连寻觅，至少会获得一个紫色礼物"
 msgid "json|lobby/treasure|4|2|2|1|7|37c79d331e6564f6826cbf3d332d854b"
 msgstr "使用辉玉10连寻觅，至少会获得一个紫色礼物"
 
-#: translate_json.csv:1186
+#: translate_json.csv:1185
 msgctxt "Each time you summon, you can get 1"
 msgid "json|lobby/treasure|4|2|2|2|0|4bff031238548fac07b2443c6deba794"
 msgstr "Each time you summon, you can get 1"
 
-#: translate_json.csv:1187
+#: translate_json.csv:1186
 msgctxt "(Faith), as well as all-new characters and decorations"
 msgid "json|lobby/treasure|4|2|2|2|1|47be30f42361f946252d782fa39f231f"
 msgstr "(Faith), as well as all-new characters and decorations"
 
-#: translate_json.csv:1188
+#: translate_json.csv:1187
 msgctxt "Chance to get characters: 5%"
 msgid "json|lobby/treasure|4|2|2|2|2|533dd73919f0c6b513351628b8243cef"
 msgstr "Chance to get characters: 5%"
 
-#: translate_json.csv:1189
+#: translate_json.csv:1188
 msgctxt "Duplicate characters will be converted to Wishing Stones"
 msgid "json|lobby/treasure|4|2|2|2|2|0|737618c1f8cd09f9d4c1c6abf2721269"
 msgstr "Duplicate characters will be converted to Wishing Stones"
 
-#: translate_json.csv:1190
+#: translate_json.csv:1189
 msgctxt "Chance to get decorations: 15%"
 msgid "json|lobby/treasure|4|2|2|2|3|463f53cda2cd30800f4267383bca9311"
 msgstr "Chance to get decorations: 15%"
 
-#: translate_json.csv:1191
+#: translate_json.csv:1190
 msgctxt "Duplicate decorations will be converted into Star Stones"
 msgid "json|lobby/treasure|4|2|2|2|3|0|47958c936f775228a1c5e1232d6f67b9"
 msgstr "Duplicate decorations will be converted into Star Stones"
 
-#: translate_json.csv:1192
+#: translate_json.csv:1191
 msgctxt "Chance to get green gift/blue gift/purple gift:  24%/51%/5%"
 msgid "json|lobby/treasure|4|2|2|2|4|45e9be4d40ab9c38141dc257ff3feefe"
 msgstr "Chance to get green gift/blue gift/purple gift:  24%/51%/5%"
 
-#: translate_json.csv:1193
+#: translate_json.csv:1192
 msgctxt ""
 "You will get at least 1 purple gift when you perform a 10-summon using Jade."
 msgid "json|lobby/treasure|4|2|2|2|5|dfd203514802330ba394af0c56d39d0f"
 msgstr ""
 "You will get at least 1 purple gift when you perform a 10-summon using Jade."
 
-#: translate_json.csv:1194
+#: translate_json.csv:1193
 msgctxt "Each time you summon, you can get 1"
 msgid "json|lobby/treasure|4|2|2|3|0|4bff031238548fac07b2443c6deba794"
 msgstr "Each time you summon, you can get 1"
 
-#: translate_json.csv:1195
+#: translate_json.csv:1194
 msgctxt "(Faith), as well as all-new characters and decorations"
 msgid "json|lobby/treasure|4|2|2|3|1|47be30f42361f946252d782fa39f231f"
 msgstr "(Faith), as well as all-new characters and decorations"
 
-#: translate_json.csv:1196
+#: translate_json.csv:1195
 msgctxt "Chance to get characters: 5%"
 msgid "json|lobby/treasure|4|2|2|3|2|533dd73919f0c6b513351628b8243cef"
 msgstr "Chance to get characters: 5%"
 
-#: translate_json.csv:1197
+#: translate_json.csv:1196
 msgctxt "Duplicate characters will be converted to Wishing Stones"
 msgid "json|lobby/treasure|4|2|2|3|2|0|737618c1f8cd09f9d4c1c6abf2721269"
 msgstr "Duplicate characters will be converted to Wishing Stones"
 
-#: translate_json.csv:1198
+#: translate_json.csv:1197
 msgctxt "Chance to summon new characters: 2.95%"
 msgid "json|lobby/treasure|4|2|2|3|3|a5c047090c395032d772cbc0cd061bf5"
 msgstr "Chance to summon new characters: 2.95%"
 
-#: translate_json.csv:1199
+#: translate_json.csv:1198
 msgctxt "Chance to get decorations: 15%"
 msgid "json|lobby/treasure|4|2|2|3|4|463f53cda2cd30800f4267383bca9311"
 msgstr "Chance to get decorations: 15%"
 
-#: translate_json.csv:1200
+#: translate_json.csv:1199
 msgctxt "Duplicate decorations will be converted into Star Stones"
 msgid "json|lobby/treasure|4|2|2|3|4|0|47958c936f775228a1c5e1232d6f67b9"
 msgstr "Duplicate decorations will be converted into Star Stones"
 
-#: translate_json.csv:1201
+#: translate_json.csv:1200
 msgctxt "Chance to get new effects: 7.35%"
 msgid "json|lobby/treasure|4|2|2|3|5|068ad3fd2401a634b14485a49c35e13c"
 msgstr "Chance to get new effects: 7.35%"
 
-#: translate_json.csv:1202
+#: translate_json.csv:1201
 msgctxt "Chance to get green gift/blue gift/purple gift:  24%/51%/5%"
 msgid "json|lobby/treasure|4|2|2|3|6|45e9be4d40ab9c38141dc257ff3feefe"
 msgstr "Chance to get green gift/blue gift/purple gift:  24%/51%/5%"
 
-#: translate_json.csv:1203
+#: translate_json.csv:1202
 msgctxt "New characters and effects are limited-time Rate Up"
 msgid "json|lobby/treasure|4|2|2|3|7|24a81c9e865f32ceb5a5fe0abbb6f4af"
 msgstr "New characters and effects are limited-time Rate Up"
 
-#: translate_json.csv:1204
+#: translate_json.csv:1203
 msgctxt ""
 "You will get at least 1 purple gift when you perform a 10-summon using Jade."
 msgid "json|lobby/treasure|4|2|2|3|8|dfd203514802330ba394af0c56d39d0f"
 msgstr ""
 "You will get at least 1 purple gift when you perform a 10-summon using Jade."
 
-#: translate_json.csv:1205
+#: translate_json.csv:1204
 msgctxt "1回祈願するたびに1点"
 msgid "json|lobby/treasure|4|2|2|4|0|1a77a881a4d8dc6a13df98eb167e906e"
 msgstr "1回祈願するたびに1点"
 
-#: translate_json.csv:1206
+#: translate_json.csv:1205
 msgctxt "（信仰）が入手できます。"
 msgid "json|lobby/treasure|4|2|2|4|1|97b87bf775f3b176de5fb13d91ccc0ed"
 msgstr "（信仰）が入手できます。"
 
-#: translate_json.csv:1207
+#: translate_json.csv:1206
 msgctxt "雀士キャラクター提供確率:5％"
 msgid "json|lobby/treasure|4|2|2|4|2|2f2f6da6e37a4b15959445893043601a"
 msgstr "雀士キャラクター提供確率:5％"
 
-#: translate_json.csv:1208
+#: translate_json.csv:1207
 msgctxt "再度入手した雀士キャラクターは願いの石に変換されます。"
 msgid "json|lobby/treasure|4|2|2|4|2|0|6319f133863385d1fe54b173f400b0db"
 msgstr "再度入手した雀士キャラクターは願いの石に変換されます。"
 
-#: translate_json.csv:1209
+#: translate_json.csv:1208
 msgctxt "装飾品提供確率:15％"
 msgid "json|lobby/treasure|4|2|2|4|3|b68af077a6302c5974b620d6ecf7cf28"
 msgstr "装飾品提供確率:15％"
 
-#: translate_json.csv:1210
+#: translate_json.csv:1209
 msgctxt "再度入手した装飾品は星の石に変換されます。"
 msgid "json|lobby/treasure|4|2|2|4|3|0|c938008704d04b1987f6bba8e1e38d6c"
 msgstr "再度入手した装飾品は星の石に変換されます。"
 
-#: translate_json.csv:1211
+#: translate_json.csv:1210
 msgctxt "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
 msgid "json|lobby/treasure|4|2|2|4|4|5efce653ee4327e40f849d0ddda668c2"
 msgstr "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
 
-#: translate_json.csv:1212
+#: translate_json.csv:1211
 msgctxt "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
 msgid "json|lobby/treasure|4|2|2|4|5|767e20b8225de249f2d1df91bec3bc5b"
 msgstr "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
 
-#: translate_json.csv:1213
+#: translate_json.csv:1212
 msgctxt "1回祈願するたびに1点"
 msgid "json|lobby/treasure|4|2|2|5|0|1a77a881a4d8dc6a13df98eb167e906e"
 msgstr "1回祈願するたびに1点"
 
-#: translate_json.csv:1214
+#: translate_json.csv:1213
 msgctxt "（信仰）が入手できます。"
 msgid "json|lobby/treasure|4|2|2|5|1|97b87bf775f3b176de5fb13d91ccc0ed"
 msgstr "（信仰）が入手できます。"
 
-#: translate_json.csv:1215
+#: translate_json.csv:1214
 msgctxt "雀士キャラクター提供確率:5％"
 msgid "json|lobby/treasure|4|2|2|5|2|2f2f6da6e37a4b15959445893043601a"
 msgstr "雀士キャラクター提供確率:5％"
 
-#: translate_json.csv:1216
+#: translate_json.csv:1215
 msgctxt "ピックアップ雀士提供確率：全雀士の59％"
 msgid "json|lobby/treasure|4|2|2|5|3|7d9fd8492834e2f23f28459fbf910199"
 msgstr "ピックアップ雀士提供確率：全雀士の59％"
 
-#: translate_json.csv:1217
+#: translate_json.csv:1216
 msgctxt "再度入手した雀士は願い石に変換されます。"
 msgid "json|lobby/treasure|4|2|2|5|4|b0252a8aa96dd10373ceb18f825f4c31"
 msgstr "再度入手した雀士は願い石に変換されます。"
 
-#: translate_json.csv:1218
+#: translate_json.csv:1217
 msgctxt "装飾品提供確率：15%"
 msgid "json|lobby/treasure|4|2|2|5|5|1c0d863149026877f28127a025008c4f"
 msgstr "装飾品提供確率：15%"
 
-#: translate_json.csv:1219
+#: translate_json.csv:1218
 msgctxt "ピックアップ装飾品提供確率：全装飾品の49%"
 msgid "json|lobby/treasure|4|2|2|5|6|c535d634547701e0b7e57580d560bc20"
 msgstr "ピックアップ装飾品提供確率：全装飾品の49%"
 
-#: translate_json.csv:1220
+#: translate_json.csv:1219
 msgctxt "再度入手した装飾品は星の石に変換されます。"
 msgid "json|lobby/treasure|4|2|2|5|7|c938008704d04b1987f6bba8e1e38d6c"
 msgstr "再度入手した装飾品は星の石に変換されます。"
 
-#: translate_json.csv:1221
+#: translate_json.csv:1220
 msgctxt "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
 msgid "json|lobby/treasure|4|2|2|5|8|5efce653ee4327e40f849d0ddda668c2"
 msgstr "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
 
-#: translate_json.csv:1222
+#: translate_json.csv:1221
 msgctxt "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
 msgid "json|lobby/treasure|4|2|2|5|9|767e20b8225de249f2d1df91bec3bc5b"
 msgstr "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
 
-#: translate_json.csv:1223
+#: translate_json.csv:1222
 msgctxt "每次尋覓都可以獲得1點"
 msgid "json|lobby/treasure|4|2|2|6|0|c8a45e1d2afe4fc915d87276d700a0c7"
 msgstr "每次尋覓都可以獲得1點"
 
-#: translate_json.csv:1224
+#: translate_json.csv:1223
 msgctxt "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
 msgid "json|lobby/treasure|4|2|2|6|1|518cd0681eefe0af1e62abf9ffc7d236"
 msgstr "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
 
-#: translate_json.csv:1225
+#: translate_json.csv:1224
 msgctxt "雀士概率：5%"
 msgid "json|lobby/treasure|4|2|2|6|2|11e4ba4a8cb176be1acb80978b571cdb"
 msgstr "雀士概率：5%"
 
-#: translate_json.csv:1226
+#: translate_json.csv:1225
 msgctxt "重複獲取的雀士將轉換為許願石"
 msgid "json|lobby/treasure|4|2|2|6|2|0|ebddb8d60708511717c57d9af4c2aec4"
 msgstr "重複獲取的雀士將轉換為許願石"
 
-#: translate_json.csv:1227
+#: translate_json.csv:1226
 msgctxt "裝扮概率：15%"
 msgid "json|lobby/treasure|4|2|2|6|3|b299f6de87bda3f0ce7e6fc4c8fbcc87"
 msgstr "裝扮概率：15%"
 
-#: translate_json.csv:1228
+#: translate_json.csv:1227
 msgctxt "重複獲取的裝扮將轉換為星之石"
 msgid "json|lobby/treasure|4|2|2|6|3|0|7a94167b93d000c521a8acfea5d2ddaa"
 msgstr "重複獲取的裝扮將轉換為星之石"
 
-#: translate_json.csv:1229
+#: translate_json.csv:1228
 msgctxt "禮物概率：80%"
 msgid "json|lobby/treasure|4|2|2|6|4|4b00df9933d62ef84bad21e912d3b2c6"
 msgstr "禮物概率：80%"
 
-#: translate_json.csv:1230
+#: translate_json.csv:1229
 msgctxt "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
 msgid "json|lobby/treasure|4|2|2|6|5|12c6b2a733d418c8181614719a7d3558"
 msgstr "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
 
-#: translate_json.csv:1231
+#: translate_json.csv:1230
 msgctxt "每次尋覓都可以獲得1點"
 msgid "json|lobby/treasure|4|2|2|7|0|c8a45e1d2afe4fc915d87276d700a0c7"
 msgstr "每次尋覓都可以獲得1點"
 
-#: translate_json.csv:1232
+#: translate_json.csv:1231
 msgctxt "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
 msgid "json|lobby/treasure|4|2|2|7|1|518cd0681eefe0af1e62abf9ffc7d236"
 msgstr "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
 
-#: translate_json.csv:1233
+#: translate_json.csv:1232
 msgctxt "雀士概率：5%"
 msgid "json|lobby/treasure|4|2|2|7|2|11e4ba4a8cb176be1acb80978b571cdb"
 msgstr "雀士概率：5%"
 
-#: translate_json.csv:1234
+#: translate_json.csv:1233
 msgctxt "重複獲取的雀士將轉換為許願石"
 msgid "json|lobby/treasure|4|2|2|7|2|0|ebddb8d60708511717c57d9af4c2aec4"
 msgstr "重複獲取的雀士將轉換為許願石"
 
-#: translate_json.csv:1235
+#: translate_json.csv:1234
 msgctxt "(UP雀士占59%、其他雀士占41%)"
 msgid "json|lobby/treasure|4|2|2|7|3|e571ef2163101e87f50d31d486befbb2"
 msgstr "(UP雀士占59%、其他雀士占41%)"
 
-#: translate_json.csv:1236
+#: translate_json.csv:1235
 msgctxt "裝扮概率：15%"
 msgid "json|lobby/treasure|4|2|2|7|4|b299f6de87bda3f0ce7e6fc4c8fbcc87"
 msgstr "裝扮概率：15%"
 
-#: translate_json.csv:1237
+#: translate_json.csv:1236
 msgctxt "重複獲取的裝扮將轉換為星之石"
 msgid "json|lobby/treasure|4|2|2|7|4|0|7a94167b93d000c521a8acfea5d2ddaa"
 msgstr "重複獲取的裝扮將轉換為星之石"
 
-#: translate_json.csv:1238
+#: translate_json.csv:1237
 msgctxt "(UP裝扮占49%、其他裝扮占51%)"
 msgid "json|lobby/treasure|4|2|2|7|5|b4cc67a1824d6db16ad0fbfefef583ef"
 msgstr "(UP裝扮占49%、其他裝扮占51%)"
 
-#: translate_json.csv:1239
+#: translate_json.csv:1238
 msgctxt "禮物概率：80%"
 msgid "json|lobby/treasure|4|2|2|7|6|4b00df9933d62ef84bad21e912d3b2c6"
 msgstr "禮物概率：80%"
 
-#: translate_json.csv:1240
+#: translate_json.csv:1239
 msgctxt "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
 msgid "json|lobby/treasure|4|2|2|7|7|12c6b2a733d418c8181614719a7d3558"
 msgstr "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
 
-#: translate_json.csv:1241
+#: translate_json.csv:1240
 msgctxt "Character Info"
 msgid "json|lobby/treasure|4|3|1|2|0|0|0|a4d02d0457516e98af7e84b5898de22a"
 msgstr "Character Info"
 
-#: translate_json.csv:1242
+#: translate_json.csv:1241
 msgctxt "Height:"
 msgid "json|lobby/treasure|4|3|1|2|0|1|0|e933dc24fb245d863a43b4fefe9b45f5"
 msgstr "Height:"
 
-#: translate_json.csv:1243
+#: translate_json.csv:1242
 msgctxt "Birthday:"
 msgid "json|lobby/treasure|4|3|1|2|0|1|2|39d595f1a4ce984b95e9b52821b62177"
 msgstr "Birthday:"
 
-#: translate_json.csv:1244
+#: translate_json.csv:1243
 msgctxt "Age:"
 msgid "json|lobby/treasure|4|3|1|2|0|1|4|25235196c2744e9050067d45587d6a8b"
 msgstr "Age:"
 
-#: translate_json.csv:1245
+#: translate_json.csv:1244
 msgctxt "Blood Type:"
 msgid "json|lobby/treasure|4|3|1|2|0|1|6|96fa3614d73d288f3e8a8d6dddff18e4"
 msgstr "Blood Type:"
 
-#: translate_json.csv:1246
+#: translate_json.csv:1245
 msgctxt "CV:"
 msgid "json|lobby/treasure|4|3|1|2|0|1|8|42d6dd398ca223a660996ed83d84dd8d"
 msgstr "CV:"
 
-#: translate_json.csv:1247
+#: translate_json.csv:1246
 msgctxt "Hobby:"
 msgid "json|lobby/treasure|4|3|1|2|0|1|10|bc94dc5a26d1a278aa125811045da9cc"
 msgstr "Hobby:"
 
-#: translate_json.csv:1248
+#: translate_json.csv:1247
 msgctxt "Biography:"
 msgid "json|lobby/treasure|4|3|1|2|0|1|12|4859bddf1003cb383bc6b220a07218aa"
 msgstr "Biography:"
 
-#: translate_json.csv:1249
+#: translate_json.csv:1248
 msgctxt "Voice"
 msgid "json|lobby/treasure|4|3|1|2|0|2|0|0|d7a3fdf1351b72249a47454751549deb"
 msgstr "Voice"
 
-#: translate_json.csv:1250
+#: translate_json.csv:1249
 msgctxt "Sample 1"
 msgid "json|lobby/treasure|4|3|1|2|0|2|1|0|9060b4569344c3f678516a751154ccec"
 msgstr "Sample 1"
 
-#: translate_json.csv:1251
+#: translate_json.csv:1250
 msgctxt "Sample 2"
 msgid "json|lobby/treasure|4|3|1|2|0|2|2|0|786e1405617a0c76f9a9ab76d9858d9e"
 msgstr "Sample 2"
 
-#: translate_json.csv:1252
+#: translate_json.csv:1251
 msgctxt "Sample 3"
 msgid "json|lobby/treasure|4|3|1|2|0|2|3|0|9e8687c7b37f396e653ec9334d12e5ca"
 msgstr "Sample 3"
 
-#: translate_json.csv:1253
+#: translate_json.csv:1252
 msgctxt "Insufficient Summon Stones"
 msgid "json|lobby/treasure|5|0|2|89c7eb2a6511756493a3d54edb121f69"
 msgstr "Insufficient Summon Stones"
 
-#: translate_json.csv:1254
+#: translate_json.csv:1253
 msgctxt "Confirm"
 msgid "json|lobby/treasure|5|0|11|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:1255
+#: translate_json.csv:1254
 msgctxt "Cancel"
 msgid "json|lobby/treasure|5|0|12|0|ea4788705e6873b424c65e91c2846b19"
 msgstr "Cancel"
 
-#: translate_json.csv:1256
+#: translate_json.csv:1255
 msgctxt "Do you wish to spend"
 msgid "json|lobby/treasure|5|0|13|f3e7db0aa0bc19a353990c6a65c1ba50"
 msgstr "Do you wish to spend"
 
-#: translate_json.csv:1257
+#: translate_json.csv:1256
 msgctxt "Jade"
 msgid "json|lobby/treasure|5|0|14|101222f5de28a8ada8477a7dd32d01ac"
 msgstr "Jade"
 
-#: translate_json.csv:1258
+#: translate_json.csv:1257
 msgctxt "Purchase"
 msgid "json|lobby/treasure|5|0|15|76b6a47a02685d51794b9fdb095512e5"
 msgstr "Purchase"
 
-#: translate_json.csv:1259
+#: translate_json.csv:1258
 msgctxt "Summon Stones?"
 msgid "json|lobby/treasure|5|0|16|fd6e806beffb1c6cb29de4856a60bf04"
 msgstr "Summon Stones?"
 
-#: translate_json.csv:1260
+#: translate_json.csv:1259
 msgctxt "Insufficient Jade"
 msgid "json|lobby/treasure|6|0|2|f384778be541036a6aec2eca58d953c9"
 msgstr "Insufficient Jade"
 
-#: translate_json.csv:1261
+#: translate_json.csv:1260
 msgctxt "Buy"
 msgid "json|lobby/treasure|6|0|4|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "Buy"
 
-#: translate_json.csv:1262
+#: translate_json.csv:1261
 msgctxt "Cancel"
 msgid "json|lobby/treasure|6|0|5|0|ea4788705e6873b424c65e91c2846b19"
 msgstr "Cancel"
 
-#: translate_json.csv:1263
+#: translate_json.csv:1262
 msgctxt "Insufficient Jade ，Do you wish to Purchase ？"
 msgid "json|lobby/treasure|6|0|6|9dcfd392f568bba3a473caf6bb8fa204"
 msgstr "Insufficient Jade ，Do you wish to Purchase ？"
 
-#: translate_json.csv:1264
+#: translate_json.csv:1263
 msgctxt "Visit"
 msgid "json|lobby/visit|0|2|5e706a9b7eb9b142a619e4331d6976e6"
 msgstr "Visit"
 
-#: translate_json.csv:1265
+#: translate_json.csv:1264
 msgctxt "Character Info"
 msgid "json|lobby/visit|2|3|0|0|0|0|a4d02d0457516e98af7e84b5898de22a"
 msgstr "Character Info"
 
-#: translate_json.csv:1266
+#: translate_json.csv:1265
 msgctxt "Height:"
 msgid "json|lobby/visit|2|3|0|0|1|0|e933dc24fb245d863a43b4fefe9b45f5"
 msgstr "Height:"
 
-#: translate_json.csv:1267
+#: translate_json.csv:1266
 msgctxt "Birthday:"
 msgid "json|lobby/visit|2|3|0|0|1|2|39d595f1a4ce984b95e9b52821b62177"
 msgstr "Birthday:"
 
-#: translate_json.csv:1268
+#: translate_json.csv:1267
 msgctxt "Age:"
 msgid "json|lobby/visit|2|3|0|0|1|4|25235196c2744e9050067d45587d6a8b"
 msgstr "Age:"
 
-#: translate_json.csv:1269
+#: translate_json.csv:1268
 msgctxt "Blood Type:"
 msgid "json|lobby/visit|2|3|0|0|1|6|96fa3614d73d288f3e8a8d6dddff18e4"
 msgstr "Blood Type:"
 
-#: translate_json.csv:1270
+#: translate_json.csv:1269
 msgctxt "CV:"
 msgid "json|lobby/visit|2|3|0|0|1|8|42d6dd398ca223a660996ed83d84dd8d"
 msgstr "CV:"
 
-#: translate_json.csv:1271
+#: translate_json.csv:1270
 msgctxt "Hobby:"
 msgid "json|lobby/visit|2|3|0|0|1|10|bc94dc5a26d1a278aa125811045da9cc"
 msgstr "Hobby:"
 
-#: translate_json.csv:1272
+#: translate_json.csv:1271
 msgctxt "Biography:"
 msgid "json|lobby/visit|2|3|0|0|1|12|4859bddf1003cb383bc6b220a07218aa"
 msgstr "Biography:"
 
-#: translate_json.csv:1273
+#: translate_json.csv:1272
 msgctxt "Emoji"
 msgid "json|lobby/visit|2|3|0|0|3|0|0|68305e25f5788db069d06c54924af087"
 msgstr "Emoji"
 
-#: translate_json.csv:1274
+#: translate_json.csv:1273
 msgctxt "Bond"
 msgid "json|lobby/visit|2|3|0|0|3|1|0|1|0|7a3b691731db2969498907b960183633"
 msgstr "Bond"
 
-#: translate_json.csv:1275
+#: translate_json.csv:1274
 msgctxt "Requires a 5-heart Bond"
 msgid "json|lobby/visit|2|3|1|1|0|99c5a0029fd64b2be53456f911459c5b"
 msgstr "Requires a 5-heart Bond"
 
-#: translate_json.csv:1276
+#: translate_json.csv:1275
 msgctxt "Gift"
 msgid "json|lobby/visit|2|3|1|1|1|0|0|0d9175fe89fb80d815e7d03698b6e83a"
 msgstr "Gift"
 
-#: translate_json.csv:1277
+#: translate_json.csv:1276
 msgctxt "Gift"
 msgid "json|lobby/visit|2|3|1|2|0|0|0d9175fe89fb80d815e7d03698b6e83a"
 msgstr "Gift"
 
-#: translate_json.csv:1278
+#: translate_json.csv:1277
 msgctxt "Daily gift attempt:"
 msgid "json|lobby/visit|2|3|1|2|1|d34cd390688d0c9038850e48d2e23e10"
 msgstr "Daily gift attempt:"
 
-#: translate_json.csv:1279
+#: translate_json.csv:1278
 msgctxt "Bond"
 msgid "json|lobby/visit|2|3|3|0|1|7a3b691731db2969498907b960183633"
 msgstr "Bond"
 
-#: translate_json.csv:1280
+#: translate_json.csv:1279
 msgctxt "Gift"
 msgid "json|lobby/visit|2|3|3|1|1|0d9175fe89fb80d815e7d03698b6e83a"
 msgstr "Gift"
 
-#: translate_json.csv:1281
+#: translate_json.csv:1280
 msgctxt "Voice"
 msgid "json|lobby/visit|2|4|0|0|d7a3fdf1351b72249a47454751549deb"
 msgstr "Voice"
 
-#: translate_json.csv:1282
+#: translate_json.csv:1281
 msgctxt "Info"
 msgid "json|lobby/visit|2|6|0|4059b0251f66a18cb56f544728796875"
 msgstr "Info"
 
-#: translate_json.csv:1283
+#: translate_json.csv:1282
 msgctxt "Voice"
 msgid "json|lobby/visit|2|7|0|d7a3fdf1351b72249a47454751549deb"
 msgstr "Voice"
 
-#: translate_json.csv:1284
+#: translate_json.csv:1283
 msgctxt "Story"
 msgid "json|lobby/visit|2|8|0|dfba89a600b608b2b724efe1f06f599a"
 msgstr "Story"
 
-#: translate_json.csv:1285
+#: translate_json.csv:1284
 msgctxt "Info"
 msgid "json|lobby/visit|2|9|0|4059b0251f66a18cb56f544728796875"
 msgstr "Info"
 
-#: translate_json.csv:1286
+#: translate_json.csv:1285
 msgctxt "Voice"
 msgid "json|lobby/visit|2|10|0|d7a3fdf1351b72249a47454751549deb"
 msgstr "Voice"
 
-#: translate_json.csv:1287
+#: translate_json.csv:1286
 msgctxt "Story"
 msgid "json|lobby/visit|2|11|0|dfba89a600b608b2b724efe1f06f599a"
 msgstr "Story"
 
-#: translate_json.csv:1288
+#: translate_json.csv:1287
 msgctxt "Change Outfit"
 msgid "json|lobby/visit|3|0|0|da4ec73c94a592b2a1b0409efd9e1e8b"
 msgstr "Change Outfit"
 
-#: translate_json.csv:1289
+#: translate_json.csv:1288
 msgctxt "Event"
 msgid "json|lobby/visit|3|0|2|0|0|2|3|a4ecfc70574394990cf17bd83df499f7"
 msgstr "Event"
 
-#: translate_json.csv:1290
+#: translate_json.csv:1289
 msgctxt "Room"
 msgid "json|lobby/waitingroom|0|5|2|cc3abcf4426bff80257d22999d0eda8f"
 msgstr "Room"
 
-#: translate_json.csv:1291
+#: translate_json.csv:1290
 msgctxt "Room"
 msgid "json|lobby/waitingroom|0|5|5|cc3abcf4426bff80257d22999d0eda8f"
 msgstr "Room"
 
-#: translate_json.csv:1292
+#: translate_json.csv:1291
 msgctxt "Invite"
 msgid "json|lobby/waitingroom|0|6|1|1|c6a00f137b92ad22c007677fb2113a9f"
 msgstr "Invite"
 
-#: translate_json.csv:1293
+#: translate_json.csv:1292
 msgctxt "Add AI"
 msgid "json|lobby/waitingroom|0|6|2|1|37a5c6ccbec941e0f7da8cb5e62ddefe"
 msgstr "Add AI"
 
-#: translate_json.csv:1294
+#: translate_json.csv:1293
 msgctxt "Rules"
 msgid "json|lobby/waitingroom|0|6|3|1|1f4da964f8eab62e96e8cfe406e44364"
 msgstr "Rules"
 
-#: translate_json.csv:1295
+#: translate_json.csv:1294
 msgctxt "Copy Link"
 msgid "json|lobby/waitingroom|0|6|4|1|78fc13f46174a57416493b60e99777c7"
 msgstr "Copy Link"
 
-#: translate_json.csv:1296
+#: translate_json.csv:1295
 msgctxt "Change Decoration"
 msgid "json|lobby/waitingroom|0|6|5|1|c9a7875eb9df0a6566be5573836e16b9"
 msgstr "Change Decoration"
 
-#: translate_json.csv:1297
+#: translate_json.csv:1296
 msgctxt "Copy the room link and send it to your friends"
 msgid "json|lobby/waitingroom|1|2|fc5094a0256ebe43eb41b7e575af6fd9"
 msgstr "Copy the room link and send it to your friends"
 
-#: translate_json.csv:1298
+#: translate_json.csv:1297
 msgctxt "Copy"
 msgid "json|lobby/waitingroom|1|5|0|5fb63579fc981698f97d55bfecb213ea"
 msgstr "Copy"
 
-#: translate_json.csv:1299
+#: translate_json.csv:1298
 msgctxt "Invite"
 msgid "json|lobby/waitingroom|2|1|2|0|2|1|0|c6a00f137b92ad22c007677fb2113a9f"
 msgstr "Invite"
 
-#: translate_json.csv:1300
+#: translate_json.csv:1299
 msgctxt "Invited"
 msgid "json|lobby/waitingroom|2|1|2|0|3|aa3443ffdec7410e60018515486e1279"
 msgstr "Invited"
 
-#: translate_json.csv:1301
+#: translate_json.csv:1300
 msgctxt "In a match"
 msgid "json|lobby/waitingroom|2|1|2|0|5|a5cb7bb62d5116de62c6378cfe35ebd2"
 msgstr "In a match"
 
-#: translate_json.csv:1302
+#: translate_json.csv:1301
 msgctxt "There are no friends to invite"
 msgid "json|lobby/waitingroom|2|1|4|f5343e2cd4e50d59d710c397fdfe0ca7"
 msgstr "There are no friends to invite"
 
-#: translate_json.csv:1303
+#: translate_json.csv:1302
 msgctxt "Character"
 msgid "json|lobby/waitingroom|3|1|1|0|0|76a40e4f974fd895a0a2598c1cee28b4"
 msgstr "Character"
 
-#: translate_json.csv:1304
+#: translate_json.csv:1303
 msgctxt "Decoration"
 msgid "json|lobby/waitingroom|3|1|1|1|0|24365794120e03b807acbd05c0a48db9"
 msgstr "Decoration"
 
-#: translate_json.csv:1305
+#: translate_json.csv:1304
 msgctxt "1"
 msgid "json|lobby/waitingroom|3|1|2|1|0|1|c4ca4238a0b923820dcc509a6f75849b"
 msgstr "1"
 
-#: translate_json.csv:1306
+#: translate_json.csv:1305
 msgctxt "2"
 msgid "json|lobby/waitingroom|3|1|2|1|1|1|c81e728d9d4c2f636f067f89cc14862c"
 msgstr "2"
 
-#: translate_json.csv:1307
+#: translate_json.csv:1306
 msgctxt "3"
 msgid "json|lobby/waitingroom|3|1|2|1|2|1|eccbc87e4b5ce2fe28308fd9f2a7baf3"
 msgstr "3"
 
-#: translate_json.csv:1308
+#: translate_json.csv:1307
 msgctxt "4"
 msgid "json|lobby/waitingroom|3|1|2|1|3|1|a87ff679a2f3e71d9181a67b7542122c"
 msgstr "4"
 
-#: translate_json.csv:1309
+#: translate_json.csv:1308
 msgctxt "5"
 msgid "json|lobby/waitingroom|3|1|2|1|4|1|e4da3b7fbbce2345d7772b0674a318d5"
 msgstr "5"
 
-#: translate_json.csv:1310
+#: translate_json.csv:1309
 msgctxt "In Use"
 msgid "json|lobby/waitingroom|3|1|4|0|2|0|62554d450e691783ae8a8b4cc2ed8ae6"
 msgstr "In Use"
 
-#: translate_json.csv:1311
+#: translate_json.csv:1310
 msgctxt "Use"
 msgid "json|lobby/waitingroom|3|1|4|0|3|0|0|ad8783089f828b927473fb61d51940ec"
 msgstr "Use"
 
-#: translate_json.csv:1312
+#: translate_json.csv:1311
 msgctxt "Save"
 msgid "json|lobby/waitingroom|3|1|4|0|4|0|0|c9cc8cce247e49bae79f15173ce97354"
 msgstr "Save"
 
-#: translate_json.csv:1313
+#: translate_json.csv:1312
 msgctxt "Empty"
 msgid "json|lobby/waitingroom|3|1|4|1|6|0|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
 msgstr "Empty"
 
-#: translate_json.csv:1314
+#: translate_json.csv:1313
 msgctxt "Empty"
 msgid "json|lobby/waitingroom|3|1|4|4|5|0|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
 msgstr "Empty"
 
-#: translate_json.csv:1315
+#: translate_json.csv:1314
 msgctxt "Change Outfit"
 msgid "json|lobby/waitingroom|3|1|5|1|1|da4ec73c94a592b2a1b0409efd9e1e8b"
 msgstr "Change Outfit"
 
-#: translate_json.csv:1316
+#: translate_json.csv:1315
 msgctxt "Starting in:"
 msgid "json|lobby/waitob|0|2|a01ae2c0c66a7b244bc2ddedac59d206"
 msgstr "Starting in:"
 
-#: translate_json.csv:1317
+#: translate_json.csv:1316
 msgctxt "Confirm"
 msgid "json|lobby/waitob|0|3|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:1318
+#: translate_json.csv:1317
 msgctxt "Second"
 msgid "json|lobby/waitob|0|5|c22cf8376b1893dcfcef0649fe1a7d87"
 msgstr "Second"
 
-#: translate_json.csv:1319
+#: translate_json.csv:1318
 msgctxt "Auto Arrange"
 msgid "json|mj/desktopInfo|12|2|1|f1fe1f58cea0f7086d9eb55f3ec616d8"
 msgstr "Auto Arrange"
 
-#: translate_json.csv:1320
+#: translate_json.csv:1319
 msgctxt "A"
 msgid "json|mj/desktopInfo|12|2|4|7fc56270e7a70fa81a5935b72eacbe29"
 msgstr "A"
 
-#: translate_json.csv:1321
+#: translate_json.csv:1320
 msgctxt "Auto Call Win"
 msgid "json|mj/desktopInfo|12|3|1|ee334c263770b521dc6c4923da47804b"
 msgstr "Auto Call Win"
 
-#: translate_json.csv:1322
+#: translate_json.csv:1321
 msgctxt "R"
 msgid "json|mj/desktopInfo|12|3|4|e1e1d3d40573127e9ee0480caf1283d6"
 msgstr "R"
 
-#: translate_json.csv:1323
+#: translate_json.csv:1322
 msgctxt "No Chii/Pon/Kan"
 msgid "json|mj/desktopInfo|12|4|1|0ec3aca6591f8f9816839a4b8eedb0bc"
 msgstr "No Chii/Pon/Kan"
 
-#: translate_json.csv:1324
+#: translate_json.csv:1323
 msgctxt "C"
 msgid "json|mj/desktopInfo|12|4|4|0d61f8370cad1d412f80b84d143e1257"
 msgstr "C"
 
-#: translate_json.csv:1325
+#: translate_json.csv:1324
 msgctxt "Auto Draw & Discard"
 msgid "json|mj/desktopInfo|12|5|3|023c87881a9ba3a2f8b6550a58f7eb53"
 msgstr "Auto Draw & Discard"
 
-#: translate_json.csv:1326
+#: translate_json.csv:1325
 msgctxt "D"
 msgid "json|mj/desktopInfo|12|5|4|f623e75af30e62bbd73d6df5b50bb7b5"
 msgstr "D"
 
-#: translate_json.csv:1327
+#: translate_json.csv:1326
 msgctxt "Emoji"
 msgid "json|mj/desktopInfo|13|5|68305e25f5788db069d06c54924af087"
 msgstr "Emoji"
 
-#: translate_json.csv:1328
+#: translate_json.csv:1327
 msgctxt "Match End"
 msgid "json|mj/gameend|0|6|0e6bca665699fdfb90b5bd64c35b5ded"
 msgstr "Match End"
 
-#: translate_json.csv:1329
+#: translate_json.csv:1328
 msgctxt "Added to titles"
 msgid "json|mj/gameend|0|7|2|df70b1ec1296a3d14d464a72653e0f12"
 msgstr "Added to titles"
 
-#: translate_json.csv:1330
+#: translate_json.csv:1329
 msgctxt "Confirm"
 msgid "json|mj/gameend|0|8|2|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:1331
+#: translate_json.csv:1330
 msgctxt "Exit"
 msgid "json|mj/gameend|0|9|2|fef46e5063ce3dc78b8ae64fa474241d"
 msgstr "Exit"
 
-#: translate_json.csv:1332
+#: translate_json.csv:1331
 msgctxt "Back to log"
 msgid "json|mj/gameend|0|10|2|e7c305b7e4c87c3bdc2016e7df5b03af"
 msgstr "Back to log"
 
-#: translate_json.csv:1333
+#: translate_json.csv:1332
 msgctxt "Match paused. Please wait in patience"
 msgid "json|mj/gamestop|1|2|3f473d27532b55d6e01be510b4b83dc9"
 msgstr "Match paused. Please wait in patience"
 
-#: translate_json.csv:1334
+#: translate_json.csv:1333
 msgctxt "The system has detected you are AFK. Auto Draw & Discard enabled."
 msgid "json|mj/hangup_warn|1|2|677cf2644b744a198dfd0084bdddf1ab"
 msgstr "The system has detected you are AFK. Auto Draw & Discard enabled."
 
-#: translate_json.csv:1335
+#: translate_json.csv:1334
 msgctxt "I'm back"
 msgid "json|mj/hangup_warn|1|3|0|e2093f20363025404ad5f28150cb4f5d"
 msgstr "I'm back"
 
-#: translate_json.csv:1336
+#: translate_json.csv:1335
 msgctxt ""
 "Majsoul promises all games are randomly generated. At the beginning of each "
 "match, the tile wall is already pre-determined, so the tiles issued in each "
@@ -7130,237 +7125,237 @@ msgstr ""
 "MD5 codes generated would not match either. \\n Thank you for supporting "
 "Majsoul. We hope you enjoy the game and improve your skills every day."
 
-#: translate_json.csv:1337
+#: translate_json.csv:1336
 msgctxt "Watch"
 msgid "json|mj/live_broadcast|0|1|f20658650d987d31063b593c05980397"
 msgstr "Watch"
 
-#: translate_json.csv:1338
+#: translate_json.csv:1337
 msgctxt "Show Hands"
 msgid "json|mj/live_broadcast|0|2|0|0|393f9f09cb62b9a1568fdd0b2d021023"
 msgstr "Show Hands"
 
-#: translate_json.csv:1339
+#: translate_json.csv:1338
 msgctxt "Deal-in Tile"
 msgid "json|mj/live_broadcast|0|3|0|0|07f864b6cbf31d468043c86575246901"
 msgstr "Deal-in Tile"
 
-#: translate_json.csv:1340
+#: translate_json.csv:1339
 msgctxt "View log"
 msgid "json|mj/live_broadcast|0|4|0|0|c13abcf4f212ba9602fbce3d49d5e9e8"
 msgstr "View log"
 
-#: translate_json.csv:1341
+#: translate_json.csv:1340
 msgctxt "Real-time spectating"
 msgid "json|mj/live_broadcast|1|3edddea5d9d2ebfd6ebac1d97a98fbce"
 msgstr "Real-time spectating"
 
-#: translate_json.csv:1342
+#: translate_json.csv:1341
 msgctxt "Turn"
 msgid "json|mj/ob_replay|0|9|2|6b12be2513bab07567150f54467bc568"
 msgstr "Turn"
 
-#: translate_json.csv:1343
+#: translate_json.csv:1342
 msgctxt "Repeat Counter"
 msgid "json|mj/ob_replay|1|1|0|2|4|908362b065bcfdad809d7ea17d941ffe"
 msgstr "Repeat Counter"
 
-#: translate_json.csv:1344
+#: translate_json.csv:1343
 msgctxt "Tsumo"
 msgid "json|mj/ob_replay|1|1|0|4|1|4a9a44674169dda05397df16a02fac8f"
 msgstr "Tsumo"
 
-#: translate_json.csv:1345
+#: translate_json.csv:1344
 msgctxt "Deal-in"
 msgid "json|mj/ob_replay|1|1|0|5|1|3b3af343d853bd58bb3a3f2f586d1113"
 msgstr "Deal-in"
 
-#: translate_json.csv:1346
+#: translate_json.csv:1345
 msgctxt "Turn"
 msgid "json|mj/ob_replay|2|1|0|2|6b12be2513bab07567150f54467bc568"
 msgstr "Turn"
 
-#: translate_json.csv:1347
+#: translate_json.csv:1346
 msgctxt "Turn"
 msgid "json|mj/replay|1|9|2|6b12be2513bab07567150f54467bc568"
 msgstr "Turn"
 
-#: translate_json.csv:1348
+#: translate_json.csv:1347
 msgctxt "Wall"
 msgid "json|mj/replay|1|13|1|94e8a499539d1a472f3b5dbbb85508c0"
 msgstr "Wall"
 
-#: translate_json.csv:1349
+#: translate_json.csv:1348
 msgctxt "Repeat Counter"
 msgid "json|mj/replay|2|1|0|2|4|908362b065bcfdad809d7ea17d941ffe"
 msgstr "Repeat Counter"
 
-#: translate_json.csv:1350
+#: translate_json.csv:1349
 msgctxt "Exhaustive Draw"
 msgid "json|mj/replay|2|1|0|3|542d169ff8720909f19b37f625ca2db3"
 msgstr "Exhaustive Draw"
 
-#: translate_json.csv:1351
+#: translate_json.csv:1350
 msgctxt "Deal-in"
 msgid "json|mj/replay|2|1|0|5|1|3b3af343d853bd58bb3a3f2f586d1113"
 msgstr "Deal-in"
 
-#: translate_json.csv:1352
+#: translate_json.csv:1351
 msgctxt "Turn"
 msgid "json|mj/replay|3|1|0|2|6b12be2513bab07567150f54467bc568"
 msgstr "Turn"
 
-#: translate_json.csv:1353
+#: translate_json.csv:1352
 msgctxt "Log"
 msgid "json|mj/replay|4|1|ce0be71e33226e4c1db2bcea5959f16b"
 msgstr "Log"
 
-#: translate_json.csv:1354
+#: translate_json.csv:1353
 msgctxt "Show Hands"
 msgid "json|mj/replay|4|2|0|0|393f9f09cb62b9a1568fdd0b2d021023"
 msgstr "Show Hands"
 
-#: translate_json.csv:1355
+#: translate_json.csv:1354
 msgctxt "Deal-in Tile"
 msgid "json|mj/replay|4|3|0|0|07f864b6cbf31d468043c86575246901"
 msgstr "Deal-in Tile"
 
-#: translate_json.csv:1356
+#: translate_json.csv:1355
 msgctxt "Effect Display"
 msgid "json|mj/replay|4|4|0|0|dfa6b9616f5d9f99fe9e5848a56a041d"
 msgstr "Effect Display"
 
-#: translate_json.csv:1357
+#: translate_json.csv:1356
 msgctxt "Show Nickname"
 msgid "json|mj/replay|4|5|0|0|0c715192e48e7fd872cd1786efc82a82"
 msgstr "Show Nickname"
 
-#: translate_json.csv:1358
+#: translate_json.csv:1357
 msgctxt "Wall Code:"
 msgid "json|mj/replay|5|0|0|1|1|6e87884270e83ae015348f94fc3d026e"
 msgstr "Wall Code:"
 
-#: translate_json.csv:1359
+#: translate_json.csv:1358
 msgctxt "Bond"
 msgid "json|mj/rewardprogress|1|0|7a3b691731db2969498907b960183633"
 msgstr "Bond"
 
-#: translate_json.csv:1360
+#: translate_json.csv:1359
 msgctxt "Bond Gift"
 msgid "json|mj/rewardprogress|2|1|ce3f92861bc06b14a1db59f48ea61417"
 msgstr "Bond Gift"
 
-#: translate_json.csv:1361
+#: translate_json.csv:1360
 msgctxt "Confirm"
 msgid "json|mj/scorechange|6|3|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:1362
+#: translate_json.csv:1361
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|0|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1363
+#: translate_json.csv:1362
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|1|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1364
+#: translate_json.csv:1363
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|2|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1365
+#: translate_json.csv:1364
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|3|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1366
+#: translate_json.csv:1365
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|4|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1367
+#: translate_json.csv:1366
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|5|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1368
+#: translate_json.csv:1367
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|6|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1369
+#: translate_json.csv:1368
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|7|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1370
+#: translate_json.csv:1369
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|8|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1371
+#: translate_json.csv:1370
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|9|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1372
+#: translate_json.csv:1371
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|10|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1373
+#: translate_json.csv:1372
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|11|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1374
+#: translate_json.csv:1373
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|12|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1375
+#: translate_json.csv:1374
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|13|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1376
+#: translate_json.csv:1375
 msgctxt "Furiten"
 msgid "json|mj/tingpai|0|2|14|1|0|4ced3129882ef14613cdb7eaee38abb9"
 msgstr "Furiten"
 
-#: translate_json.csv:1377
+#: translate_json.csv:1376
 msgctxt "Match End"
 msgid "json|mj/vote|0|2|0e6bca665699fdfb90b5bd64c35b5ded"
 msgstr "Match End"
 
-#: translate_json.csv:1378
+#: translate_json.csv:1377
 msgctxt "Are you sure to vote to end the match?"
 msgid "json|mj/vote|0|3|09e65b7714de0e5d12a5dea723529a47"
 msgstr "Are you sure to vote to end the match?"
 
-#: translate_json.csv:1379
+#: translate_json.csv:1378
 msgctxt "(The match will end once all players agree.)"
 msgid "json|mj/vote|0|4|168b32f886a9f70cce48870bb78d1c01"
 msgstr "(The match will end once all players agree.)"
 
-#: translate_json.csv:1380
+#: translate_json.csv:1379
 msgctxt "Confirm"
 msgid "json|mj/vote|0|5|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:1381
+#: translate_json.csv:1380
 msgctxt "Cancel"
 msgid "json|mj/vote|0|6|0|ea4788705e6873b424c65e91c2846b19"
 msgstr "Cancel"
 
-#: translate_json.csv:1382
+#: translate_json.csv:1381
 msgctxt "Match End"
 msgid "json|mj/vote_cd|0|2|0e6bca665699fdfb90b5bd64c35b5ded"
 msgstr "Match End"
 
-#: translate_json.csv:1383
+#: translate_json.csv:1382
 msgctxt ""
 "Last vote was not agreed by all the players, please start the next vote "
 "after 5 minutes."
@@ -7369,42 +7364,42 @@ msgstr ""
 "Last vote was not agreed by all the players, please start the next vote "
 "after 5 minutes."
 
-#: translate_json.csv:1384
+#: translate_json.csv:1383
 msgctxt "Confirm"
 msgid "json|mj/vote_cd|0|5|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:1385
+#: translate_json.csv:1384
 msgctxt "Match End"
 msgid "json|mj/vote_progress|0|2|0e6bca665699fdfb90b5bd64c35b5ded"
 msgstr "Match End"
 
-#: translate_json.csv:1386
+#: translate_json.csv:1385
 msgctxt "Agree"
 msgid "json|mj/vote_progress|0|3|0|1f4a3ca12b1c9b46ba2bc70747de0603"
 msgstr "Agree"
 
-#: translate_json.csv:1387
+#: translate_json.csv:1386
 msgctxt "Disagree"
 msgid "json|mj/vote_progress|0|4|0|0ecc08f9bca8d18fba3c972a0d972bb3"
 msgstr "Disagree"
 
-#: translate_json.csv:1388
+#: translate_json.csv:1387
 msgctxt "Mangan at Draw"
 msgid "json|mj/win|1|6|0|1|6a7c8af2962c108638943650fe72ab41"
 msgstr "Mangan at Draw"
 
-#: translate_json.csv:1389
+#: translate_json.csv:1388
 msgctxt "Confirm"
 msgid "json|mj/win|1|15|3|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
-#: translate_json.csv:1390
+#: translate_json.csv:1389
 msgctxt "Event Points："
 msgid "json|mj/win|1|19|0|d94d347706a606db4631f74b97a379ef"
 msgstr "Event Points："
 
-#: translate_json.csv:1391
+#: translate_json.csv:1390
 msgctxt "排名点数："
 msgid "json|mj/win|1|19|3|630b16478c13cd35fc35d68361b756ee"
 msgstr "排名点数："
@@ -24202,15 +24197,15 @@ msgctxt ""
 "Path of Trial Season One is started! \\nEvent Period: 7/26 - 10/24 1:59 P.M. (UTC-7) duration: 90 Days\\nMatch mode: 4-Player East\\n\n"
 "During the event, click \"Start Challenge\" to start Path of Trial 4-Player East games.\\nChallenge the Path of Trial by completing all the goals on the ticket within the specified number (Remaining Challenges: 5/5) of games. Once successful, your trial rank will increase and you will get the Goal Ticket reward.\\nAchieve specified trial ranks to get rewards during the event (include limited title).\\nDuring the event, you can get the weekly reward after playing 5 games in Path of Trial (reset every Sunday at 1:59 P.M. (UTC-7)).\\nTop 100 players will receive ranking rewards after Season 1 ends. (Expiry Date of the Portrait Frames: 2021/2/21 1:59 P.M. (UTC-7))\\n\n"
 "Top 1 Player: Portrait Frame - Conqueror of Trials\\nTop 2-10 Players: Portrait Frame - Master of Trials\\nTop 11-100 Players: Portrait Frame - Expert of Trials\\n\n"
-"When a challenge is in progress or has already failed, you can tap \"Re-publish\" to reset the progress and get a new Goal Ticket\\nRe-publishing Goal Ticket will cost Coppers (first time in a day will be free; up to 5 times per day; The attempts will be refreshed everyday at 1:59 P.M. (UTC))\\n\n"
+"When a challenge is in progress or has already failed, you can tap \"Re-publish\" to reset the progress and get a new Goal Ticket\\nRe-publishing Goal Ticket will cost Coppers (first time in a day will be free; up to 5 times per day; The attempts will be refreshed everyday at 1:59 P.M. (UTC-7))\\n\n"
 "Each time you Ron or complete a game in Path of Trial, you can get Trial Points based on the number of Hans you won or the final position\\nWhen Trial Points are full, you can use the Stamp button.\\nDuring a challenge, you can use the Stamp to mark an uncompleted goal as successfully completed.\\nStamps cannot be used if the challenge is already successful or failed.\\n\n"
 "Match mode: Path of Trial - 4-Player East\\nRank Limit: None\\nEntry Limit: 1500 Coppers\\nExchange Rate: 1000 Points=0 Copper\\nEntry Fee: 1500 Copper\\nMatches played in this mode are not ranked\\nCasual Chest Progress: 1st+260, 2nd+130, 3rd+95, 4th+60\\n"
-msgid "sheet|StrStr.csv|en|31ad85cf5ce8797d13813f2eee7d0eae"
+msgid "sheet|StrStr.csv|en|10574e08f8a733d473b02784ec2669a9"
 msgstr ""
 "Path of Trial Season One is started! \\nEvent Period: 7/26 - 10/24 1:59 P.M. (UTC-7) duration: 90 Days\\nMatch mode: 4-Player East\\n\n"
 "During the event, click \"Start Challenge\" to start Path of Trial 4-Player East games.\\nChallenge the Path of Trial by completing all the goals on the ticket within the specified number (Remaining Challenges: 5/5) of games. Once successful, your trial rank will increase and you will get the Goal Ticket reward.\\nAchieve specified trial ranks to get rewards during the event (include limited title).\\nDuring the event, you can get the weekly reward after playing 5 games in Path of Trial (reset every Sunday at 1:59 P.M. (UTC-7)).\\nTop 100 players will receive ranking rewards after Season 1 ends. (Expiry Date of the Portrait Frames: 2021/2/21 1:59 P.M. (UTC-7))\\n\n"
 "Top 1 Player: Portrait Frame - Conqueror of Trials\\nTop 2-10 Players: Portrait Frame - Master of Trials\\nTop 11-100 Players: Portrait Frame - Expert of Trials\\n\n"
-"When a challenge is in progress or has already failed, you can tap \"Re-publish\" to reset the progress and get a new Goal Ticket\\nRe-publishing Goal Ticket will cost Coppers (first time in a day will be free; up to 5 times per day; The attempts will be refreshed everyday at 1:59 P.M. (UTC))\\n\n"
+"When a challenge is in progress or has already failed, you can tap \"Re-publish\" to reset the progress and get a new Goal Ticket\\nRe-publishing Goal Ticket will cost Coppers (first time in a day will be free; up to 5 times per day; The attempts will be refreshed everyday at 1:59 P.M. (UTC-7))\\n\n"
 "Each time you Ron or complete a game in Path of Trial, you can get Trial Points based on the number of Hans you won or the final position\\nWhen Trial Points are full, you can use the Stamp button.\\nDuring a challenge, you can use the Stamp to mark an uncompleted goal as successfully completed.\\nStamps cannot be used if the challenge is already successful or failed.\\n\n"
 "Match mode: Path of Trial - 4-Player East\\nRank Limit: None\\nEntry Limit: 1500 Coppers\\nExchange Rate: 1000 Points=0 Copper\\nEntry Fee: 1500 Copper\\nMatches played in this mode are not ranked\\nCasual Chest Progress: 1st+260, 2nd+130, 3rd+95, 4th+60\\n"
 
