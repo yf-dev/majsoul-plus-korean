@@ -82,3 +82,5 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           event_type: update-original-translation
+          repo: majsoul-plus-korean
+          owner: yf-dev
