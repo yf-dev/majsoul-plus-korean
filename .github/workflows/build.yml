@@ -3,7 +3,7 @@ on:
   push:
   workflow_dispatch:
   repository_dispatch:
-    types: [update-original-translation]
+    types: [build]
 
 jobs:
   build_exe:
