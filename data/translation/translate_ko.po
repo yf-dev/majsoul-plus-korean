@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-08-11 07:43+0000\n"
+"PO-Revision-Date: 2020-08-20 01:29+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -60419,7 +60419,7 @@ msgctxt ""
 "Please select a goal in progress and stamp \"Trial Succeeded\". Click the "
 "blank to cancel it."
 msgid "sheet|StrStr.csv|en|22cb03a876ddef5e957ca62b28b6cdd8"
-msgstr "진행 중인 목표를 선택하고 \"시련 통과\" 도장을 찍으세요. 취소하려면 빈 칸을 클릭하세요."
+msgstr "진행 중인 목표를 선택하고 \"시련 통과\" 도장을 찍으세요. 취소하려면 빈 곳을 클릭하세요."
 
 #: translate_sheet.csv:2882
 msgctxt ""
@@ -60650,7 +60650,7 @@ msgstr "엔딩 잠금 해제 - 위기를 적절하게 해결하는 법"
 #: translate_sheet.csv:939
 msgctxt "You have already received the story reward."
 msgid "sheet|InfoError.csv|en|44a66f1a9e88edab954a32e7baa503f9"
-msgstr "스토리 보상을 이미 받았습니다."
+msgstr "당신은 이미 스토리 보상을 수령했습니다."
 
 #: translate_sheet.csv:938
 msgctxt "Please finish watching the story to receive the reward."
@@ -60665,7 +60665,7 @@ msgstr "이 작사와 계약하지 않은 상태입니다."
 #: translate_sheet.csv:936
 msgctxt "This outfit doesn't match the correct Jyanshi."
 msgid "sheet|InfoError.csv|en|cb59e27ad997be9bfd84b5720e1b468e"
-msgstr "이 의상은 작사에게 맞지 않습니다."
+msgstr "작사에게 맞지 않는 의상입니다."
 
 #: translate_json.csv:330
 msgctxt "Restart Now"
@@ -60791,3 +60791,387 @@ msgctxt ""
 "try again tomorrow."
 msgid "sheet|InfoError.csv|en|f90920b58d52d4ea85195913d0c7884f"
 msgstr "오늘은 목표 티켓 재발행 횟수를 모두 사용했습니다. 내일 다시 시도해주세요."
+
+#: translate_sheet.csv:953
+msgctxt "This product is not available in your area."
+msgid "sheet|InfoError.csv|en|4165490d7a6b67d1e842c144d6fba5cc"
+msgstr "이 제품은 해당 지역에서 사용할 수 없습니다."
+
+#: translate_sheet.csv:906
+msgctxt "The payment platform is temporarily unavailable."
+msgid "sheet|InfoError.csv|en|30c95147eba965b15ebe52d10c44c32b"
+msgstr "결제 플랫폼을 일시적으로 사용할 수 없습니다."
+
+#: translate_sheet.csv:2976
+msgctxt ""
+"Please confirm that the time displays in-game will be in (UTC-7) after "
+"restarting.\\n請確認重啟後的語言版本所顯示的時間皆為UTC-7時區時間。"
+msgid "sheet|StrStr.csv|en|4c7f5ee0f6e76f367ef43f46fbd7e44c"
+msgstr ""
+"Please confirm that the time displays in-game will be in (UTC-7) after "
+"restarting.\\n"
+"請確認重啟後的語言版本所顯示的時間皆為UTC-7時區時間。"
+
+#: translate_sheet.csv:2975
+msgctxt ""
+"請確認重啟後的語言版本所顯示的時間皆為UTC+8時區時間。\\nPlease confirm that the time displays in-"
+"game will be in (UTC+8) after restarting."
+msgid "sheet|StrStr.csv|en|0ee3555f0a4992a6d6088baf057992a6"
+msgstr ""
+"請確認重啟後的語言版本所顯示的時間皆為UTC+8時區時間。\\n"
+"Please confirm that the time displays in-game will be in (UTC+8) after "
+"restarting."
+
+#: translate_sheet.csv:2974
+msgctxt "Insufficient items."
+msgid "sheet|StrStr.csv|en|5b5892ac17258ac2f2943c0717682d4e"
+msgstr "아이템이 부족합니다."
+
+#: translate_sheet.csv:2973
+msgctxt "Successfully redeemed"
+msgid "sheet|StrStr.csv|en|0948d0f13bb8ab25b40c573df566056f"
+msgstr "성공적으로 교환됨"
+
+#: translate_sheet.csv:2929
+msgctxt "Current Language:"
+msgid "sheet|StrStr.csv|en|ad3e62bfdeca73feb51a388b650caf57"
+msgstr "현재 언어:"
+
+#: translate_sheet.csv:2928
+msgctxt "Change Language"
+msgid "sheet|StrStr.csv|en|8f241c62a9523b05bf0b6b16a09d856d"
+msgstr "언어 변경"
+
+#: translate_sheet.csv:2927
+msgctxt "Language"
+msgid "sheet|StrStr.csv|en|4994a8ffeba4ac3140beb89e8d41f174"
+msgstr "언어"
+
+#: translate_sheet.csv:1965
+msgctxt "Haruna Igarashi's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|218811d313a4cf8492378c136814f5ed"
+msgstr "이가라시 하루나의 의상"
+
+#: translate_sheet.csv:1964
+msgctxt "Nana Shiraishi's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|8e87bf5da8ccbd7b2de9ea292856dbd5"
+msgstr "시라이시 나나의 의상"
+
+#: translate_sheet.csv:1890
+msgctxt "3660+Bonus3660"
+msgid "sheet|MallGoods.csv|first_desc_en|1baa237ee04aad097ac0878259b93f10"
+msgstr "3660+보너스3660"
+
+#: translate_sheet.csv:1887
+msgctxt "2800+Bonus2800"
+msgid "sheet|MallGoods.csv|first_desc_en|5fc402583df4a3ae1905c3c82c9d8c3b"
+msgstr "2800+보너스2800"
+
+#: translate_sheet.csv:1884
+msgctxt "2100+Bonus2100"
+msgid "sheet|MallGoods.csv|first_desc_en|00e4d334e41e2a0f01636c0052ecb3c2"
+msgstr "2100+보너스2100"
+
+#: translate_sheet.csv:1880
+msgctxt "660+Bonus660"
+msgid "sheet|MallGoods.csv|first_desc_en|235bff96c6e1aedbff93afce0de53ebb"
+msgstr "660+보너스660"
+
+#: translate_sheet.csv:1877
+msgctxt "340+Bonus340"
+msgid "sheet|MallGoods.csv|first_desc_en|96cb703801907f4932890b679c11d4e8"
+msgstr "340+보너스340"
+
+#: translate_sheet.csv:1875
+msgctxt "65+Bonus65"
+msgid "sheet|MallGoods.csv|first_desc_en|d8648c2b7b38d38aaa6041eae3e32d59"
+msgstr "65+보너스65"
+
+#: translate_sheet.csv:1726
+msgctxt "Usumi Ishihara’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|f62114c0bc5cec6177454545f17004fd"
+msgstr "이시하라 우스미의 기본 의상"
+
+#: translate_sheet.csv:1725
+msgctxt "Usumi Ishihara"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|b9aa4d4c138b447d00f8a9e11126a3ad"
+msgstr "이시하라 우스미"
+
+#: translate_sheet.csv:1723
+msgctxt "Ren Kisaragi’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|3347f4490e22fff31887b19b650ef0d5"
+msgstr "키사라기 렌의 기본 의상"
+
+#: translate_sheet.csv:1722
+msgctxt "Ren Kisaragi"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|1acdef897729ba995c613617f78da3b8"
+msgstr "키사라기 렌"
+
+#: translate_sheet.csv:1720
+msgctxt "Kaguyahime’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|596805e7d1d6a7257eb6191727e8fcc5"
+msgstr "카구야히메의 기본 의상"
+
+#: translate_sheet.csv:1719
+msgctxt "Kaguyahime"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|cfec7ca422797436a25eed01207fba0e"
+msgstr "카구야히메"
+
+#: translate_sheet.csv:1717
+msgctxt "Kirara Fujimoto’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|c403027b781576b89d454480f4ac04f7"
+msgstr "후지모토 키라라의 기본 의상"
+
+#: translate_sheet.csv:1716
+msgctxt "Kirara Fujimoto"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|9cad174d2b2ecd6c27f2d74ac2395ade"
+msgstr "후지모토 키라라"
+
+#: translate_sheet.csv:1179
+msgctxt "10th October"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|697603df0c66f5897ae8929210cfc78c"
+msgstr "10월 10일"
+
+#: translate_sheet.csv:1178
+msgctxt "176cm"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_stature_en|066031b393f0ff125bffd4e108b13470"
+msgstr "176cm"
+
+#: translate_sheet.csv:1177
+msgctxt "Usumi Ishihara"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|b9aa4d4c138b447d00f8a9e11126a3ad"
+msgstr "이시하라 우스미"
+
+#: translate_sheet.csv:1174
+msgctxt "17th September"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|b44a7b3b2d65564428ca0f648817e9a0"
+msgstr "9월 17일"
+
+#: translate_sheet.csv:1173
+msgctxt "179cm"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_stature_en|6bbc1023e9b4dffb061c0a1892b26857"
+msgstr "179cm"
+
+#: translate_sheet.csv:1172
+msgctxt "Ren Kisaragi"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|1acdef897729ba995c613617f78da3b8"
+msgstr "키사라기 렌"
+
+#: translate_sheet.csv:1169
+msgctxt "18th June"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|a8898e56437486f0e108665f11ef0915"
+msgstr "6월 18일"
+
+#: translate_sheet.csv:1168
+msgctxt "161cm"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_stature_en|b303b4b11812332660553bfac47754d6"
+msgstr "161cm"
+
+#: translate_sheet.csv:1167
+msgctxt "Kaguyahime"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|cfec7ca422797436a25eed01207fba0e"
+msgstr "카구야히메"
+
+#: translate_sheet.csv:1164
+msgctxt "Ayana Taketatsu"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_cv_en|eae85b5deed0a0008ae8f49d7f7b74eb"
+msgstr "타케타츠 아야나"
+
+#: translate_sheet.csv:1163
+msgctxt "27th November"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|287016a15c9cfdc1ce42fdd93b3fc78e"
+msgstr "11월 27일"
+
+#: translate_sheet.csv:1162
+msgctxt "164cm"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_stature_en|adffe492a057b690955ce74437ba35e2"
+msgstr "164cm"
+
+#: translate_sheet.csv:1161
+msgctxt "Kirara Fujimoto"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|9cad174d2b2ecd6c27f2d74ac2395ade"
+msgstr "후지모토 키라라"
+
+#: translate_json.csv:1395
+msgctxt "排名点数："
+msgid "json|mj/win|1|20|3|630b16478c13cd35fc35d68361b756ee"
+msgstr "排名点数："
+
+#: translate_json.csv:1394
+msgctxt "Event Points："
+msgid "json|mj/win|1|20|0|d94d347706a606db4631f74b97a379ef"
+msgstr "이벤트 점수："
+
+#: translate_json.csv:1393
+msgctxt "Confirm"
+msgid "json|mj/win|1|16|3|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
+
+#: translate_json.csv:1392
+msgctxt "Mangan at Draw"
+msgid "json|mj/win|1|7|0|1|6a7c8af2962c108638943650fe72ab41"
+msgstr "유국만관"
+
+#: translate_json.csv:1340
+msgctxt "Confirm"
+msgid "json|mj/liuju|1|3|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
+
+#: translate_json.csv:1338
+msgctxt "Confirm"
+msgid "json|mj/huleshow|3|13|3|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
+
+#: translate_json.csv:887
+msgctxt "Alipay QR Code"
+msgid ""
+"json|lobby/payment/choose_method_chs|0|9|2|0|1|bea734e34c3d945fabc13f3c0017b33f"
+msgstr "Alipay QR 코드"
+
+#: translate_json.csv:886
+msgctxt "Alipay"
+msgid ""
+"json|lobby/payment/choose_method_chs|0|9|1|0|1|92a176f8a430b8b977ffe5fcff601372"
+msgstr "Alipay"
+
+#: translate_json.csv:885
+msgctxt "WeChat"
+msgid ""
+"json|lobby/payment/choose_method_chs|0|9|0|0|1|e5b152ed6b4609e94678665e9a972cbc"
+msgstr "WeChat"
+
+#: translate_json.csv:884
+msgctxt ""
+"Should you have any payment-related questions, please contact QQ: 951307369"
+msgid ""
+"json|lobby/payment/choose_method_chs|0|8|87ca009ff8e6668e9c5d4336c3cccadd"
+msgstr "결제 관련 질문이 있으신 경우, QQ: 951307369로 문의해주세요"
+
+#: translate_json.csv:883
+msgctxt "Price:"
+msgid ""
+"json|lobby/payment/choose_method_chs|0|6|f2c12ae14393ffc83551d56f32bb03cc"
+msgstr "가격:"
+
+#: translate_json.csv:882
+msgctxt "Item:"
+msgid ""
+"json|lobby/payment/choose_method_chs|0|4|931252272b1ce0bf555e4a605a89f102"
+msgstr "아이템:"
+
+#: translate_json.csv:881
+msgctxt "Choose a payment method"
+msgid ""
+"json|lobby/payment/choose_method_chs|0|3|8ecef15452f0d5cab69ac0439b88443c"
+msgstr "결제 방법을 선택해주세요"
+
+#: translate_json.csv:875
+msgctxt "Alipay QR Code"
+msgid ""
+"json|lobby/payment/buy_yueka_chs|0|11|2|0|1|bea734e34c3d945fabc13f3c0017b33f"
+msgstr "Alipay QR 코드"
+
+#: translate_json.csv:874
+msgctxt "Alipay"
+msgid ""
+"json|lobby/payment/buy_yueka_chs|0|11|1|0|1|92a176f8a430b8b977ffe5fcff601372"
+msgstr "Alipay"
+
+#: translate_json.csv:873
+msgctxt "WeChat"
+msgid ""
+"json|lobby/payment/buy_yueka_chs|0|11|0|0|1|e5b152ed6b4609e94678665e9a972cbc"
+msgstr "WeChat"
+
+#: translate_json.csv:872
+msgctxt ""
+"Should you have any payment-related questions, please contact QQ: 951307369"
+msgid "json|lobby/payment/buy_yueka_chs|0|10|87ca009ff8e6668e9c5d4336c3cccadd"
+msgstr "결제 관련 질문이 있으신 경우, QQ: 951307369로 문의해주세요"
+
+#: translate_json.csv:871
+msgctxt "Price:"
+msgid "json|lobby/payment/buy_yueka_chs|0|8|f2c12ae14393ffc83551d56f32bb03cc"
+msgstr "가격:"
+
+#: translate_json.csv:870
+msgctxt "Description"
+msgid "json|lobby/payment/buy_yueka_chs|0|6|b5a7adde1af5c87d7fd797b6245c2a39"
+msgstr "설명"
+
+#: translate_json.csv:869
+msgctxt "Item:"
+msgid "json|lobby/payment/buy_yueka_chs|0|4|931252272b1ce0bf555e4a605a89f102"
+msgstr "아이템:"
+
+#: translate_json.csv:868
+msgctxt "Choose a payment method"
+msgid "json|lobby/payment/buy_yueka_chs|0|3|8ecef15452f0d5cab69ac0439b88443c"
+msgstr "결제 방법을 선택해주세요"
+
+#: translate_json.csv:499
+msgctxt "+"
+msgid ""
+"json|lobby/activitys/activity_yijidagong|0|14|0|1|26b17225b626fb9238849fd60eabdf60"
+msgstr "+"
+
+#: translate_json.csv:498
+msgctxt "Copper on the map"
+msgid ""
+"json|lobby/activitys/activity_yijidagong|0|5|6047433d66d5e02636dd0d7555e26470"
+msgstr "맵 위의 동전"
+
+#: translate_json.csv:497
+msgctxt "Claimed"
+msgid ""
+"json|lobby/activitys/activity_xiari_exchange|0|0|1|1|8|9d8b15ef78357692564f5aced0c68eaf"
+msgstr "받음"
+
+#: translate_json.csv:496
+msgctxt "Redeem"
+msgid ""
+"json|lobby/activitys/activity_xiari_exchange|0|0|1|1|6|0|0|81ed4dcb851fefbbbc791eeef4cd97a2"
+msgstr "교환"
+
+#: translate_json.csv:395
+msgctxt "Current Language:"
+msgid "json|entrance/entrance|4|0|ad3e62bfdeca73feb51a388b650caf57"
+msgstr "현재 언어:"
+
+#: translate_json.csv:365
+msgctxt "English"
+msgid "json|entrance/change_language|0|4|2|3|78463a384a5aa4fad5fa73e2f506ecfc"
+msgstr "English"
+
+#: translate_json.csv:360
+msgctxt "Change Language"
+msgid "json|entrance/change_language|0|1|8f241c62a9523b05bf0b6b16a09d856d"
+msgstr "언어 변경"
+
+#: translate_json.csv:33
+msgctxt "(Changes will take effect after restarting the game)"
+msgid "json|both_ui/config|0|7|0|2|5|c805182f266d1e91b4021b3534019b83"
+msgstr "(변경사항은 게임을 재시작한 뒤 에 적용됩니다)"
+
+#: translate_json.csv:32
+msgctxt "Language"
+msgid "json|both_ui/config|0|7|0|2|4|4994a8ffeba4ac3140beb89e8d41f174"
+msgstr "언어"
+
+#: translate_json.csv:31
+msgctxt "English"
+msgid "json|both_ui/config|0|7|0|2|2|0|3|78463a384a5aa4fad5fa73e2f506ecfc"
+msgstr "English"
