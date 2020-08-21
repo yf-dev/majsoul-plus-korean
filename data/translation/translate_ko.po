@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-08-21 06:04+0000\n"
+"PO-Revision-Date: 2020-08-22 12:43+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -61337,7 +61337,7 @@ msgstr "케이쿠무스메 교환 이벤트"
 #: translate_sheet.csv:40
 msgctxt "Relaxing Holiday Quest"
 msgid "sheet|ActivityActivity.csv|name_en|9a305369f0ed69cda2348ecca5c2387b"
-msgstr "편안한 유일 퀘스트"
+msgstr "편안한 휴일 퀘스트"
 
 #: translate_sheet.csv:39
 msgctxt "Chiori's Relaxing Holiday"
