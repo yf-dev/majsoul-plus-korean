@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-08-20 01:29+0000\n"
+"PO-Revision-Date: 2020-08-21 06:04+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -61175,3 +61175,171 @@ msgstr "언어"
 msgctxt "English"
 msgid "json|both_ui/config|0|7|0|2|2|0|3|78463a384a5aa4fad5fa73e2f506ecfc"
 msgstr "English"
+
+#: translate_sheet.csv:2972
+msgctxt "Passed the starting point for {0} time(s)! Earned a lap reward!"
+msgid "sheet|StrStr.csv|en|9337397db8aa386147735d452c45a0da"
+msgstr "시작 지점을 {0}번 지났다! 랩 보상을 받았다!"
+
+#: translate_sheet.csv:2971
+msgctxt "Chiori's Bond LvMax is in effect!"
+msgid "sheet|StrStr.csv|en|4b352415d45721a840228524c6b94632"
+msgstr "치오리의 인연 LvMax이 발동!"
+
+#: translate_sheet.csv:2970
+msgctxt "Chiori's Bond Lv4 is in effect!"
+msgid "sheet|StrStr.csv|en|85543f3fbc85df7b9e9d288aa357eea0"
+msgstr "치오리의 인연 Lv4이 발동!"
+
+#: translate_sheet.csv:2969
+msgctxt "Chiori's Bond Lv3 is in effect!"
+msgid "sheet|StrStr.csv|en|034a6ecc7722ca5e0e875996144eaf71"
+msgstr "치오리의 인연 Lv3이 발동!"
+
+#: translate_sheet.csv:2968
+msgctxt "Chiori's Bond Lv2 is in effect!"
+msgid "sheet|StrStr.csv|en|bccaa7207a23027b208153d2ddd942cb"
+msgstr "치오리의 인연 Lv2이 발동!"
+
+#: translate_sheet.csv:2967
+msgctxt "Chiori's Bond Lv1 is in effect!"
+msgid "sheet|StrStr.csv|en|48f39cc73f1593c9de3a90a2ed0ed7fa"
+msgstr "치오리의 인연 Lv1이 발동!"
+
+#: translate_sheet.csv:2966
+msgctxt ""
+"Arrived at Mahjong Soul Bank with Chiori. She withdrew some pocket money."
+msgid "sheet|StrStr.csv|en|f8c15481fd9149db4398030898a6e100"
+msgstr "치오리와 작혼은행에 도착했다. 용돈을 조금 인출했다."
+
+#: translate_sheet.csv:2965
+msgctxt ""
+"Having fun in a board game shop with Chiori. Picked up a strange dice."
+msgid "sheet|StrStr.csv|en|4086cca64c09cddff562ec23d339c952"
+msgstr "치오리와 보드 게임 샵에서 즐거운 시간을 보냈다. 이상한 주사위를 주웠다."
+
+#: translate_sheet.csv:2964
+msgctxt "Chiori seemed to be not interested in shiny things"
+msgid "sheet|StrStr.csv|en|7fbcd434157962952c31d74ab2f85e03"
+msgstr "치오리는 반짝이는 것에는 관심이 없는 것 같다"
+
+#: translate_sheet.csv:2963
+msgctxt ""
+"Chiori asked you to put away the small gifts that she couldn't carry anymore"
+msgid "sheet|StrStr.csv|en|e8aee8c8e37d31f6487502dc7d22906e"
+msgstr "치오리가 더 이상 가지고 다닐 수 없는 작은 선물은 치워달라고 했다"
+
+#: translate_sheet.csv:2962
+msgctxt "Walking in the shopping mall with Chiori. She's feeling fantastic."
+msgid "sheet|StrStr.csv|en|6ec5c600b096562fd3197966f4dc2a6f"
+msgstr "치오리와 함께 쇼핑몰을 걸었다. 기분이 아주 좋아보인다."
+
+#: translate_sheet.csv:2961
+msgctxt "Walking in the shopping mall with Chiori. She's feeling good."
+msgid "sheet|StrStr.csv|en|1932a9edca908b0d8d728dc95ba592b2"
+msgstr "치오리와 함께 쇼핑몰을 걸었다. 기분이 좋아보인다."
+
+#: translate_sheet.csv:2960
+msgctxt "Walking in the shopping mall with Chiori. She's feeling normal."
+msgid "sheet|StrStr.csv|en|b0bacd989c258c6a3977871e3801b3bc"
+msgstr "치오리와 함께 쇼핑몰을 걸었다. 평범한 것 같다."
+
+#: translate_sheet.csv:2959
+msgctxt ""
+"Walking in the shopping mall with Chiori. She's not having a good mood."
+msgid "sheet|StrStr.csv|en|e9736eb00b20d9a8d1241e8e9848cfe0"
+msgstr "치오리와 함께 쇼핑몰을 걸었다. 기분이 별로 좋아보이지 않는다."
+
+#: translate_sheet.csv:1546
+msgctxt "Cool Ticket"
+msgid "sheet|ItemDefinitionItem.csv|name_en|a05a69e36d6d0b82dbb90e815ecffb0f"
+msgstr "쿨 티켓"
+
+#: translate_sheet.csv:1535
+msgctxt ""
+"An event-limited item. Use it to select the number of steps you'd like to "
+"move on the map."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|ed20fee1ec882af6c24e24a3083644c5"
+msgstr "이벤트 한정 아이템. 지도에서 이동할 걸음 수를 선택하는데 사용하세요."
+
+#: translate_sheet.csv:1533
+msgctxt "An event-limited item. Use it to advance on the map."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|649ba2de8bb4ea3e9e54332f86f8def8"
+msgstr "이벤트 한정 아이템. 지도에서 전진하기 위해 사용하세요."
+
+#: translate_sheet.csv:1473
+msgctxt ""
+"Who would have thought that Chiori needs a life ring? Wait, did I just find "
+"out some secret that I shouldn't know?(Event limited, will be unobtainable "
+"after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|ea5f01ae18d2852cd8df11104a2da832"
+msgstr ""
+"누가 치오리에게 구명 튜브가 필요하다고 생각했지? 잠깐, 알면 안되는 비밀을 알아낸건가? (이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1472
+msgctxt "Tablecloth - Let's go!"
+msgid "sheet|ItemDefinitionItem.csv|name_en|c16f6edb9abb91c75f7ee5cca783a8ee"
+msgstr "테이블보 - 가자!"
+
+#: translate_sheet.csv:1469
+msgctxt ""
+"It's got to be a big hand when countless waves come together!(Event limited,"
+" will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|ba0eeb9df7dc885b41e010a4e0aa96c5"
+msgstr "수많은 파도가 모여 커다란 손패가 될거야! (이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1468
+msgctxt "Tile Back - Flower of Waves"
+msgid "sheet|ItemDefinitionItem.csv|name_en|7259b54460708482a753f28875b84a90"
+msgstr "마작패 - 파도꽃"
+
+#: translate_sheet.csv:1463
+msgctxt ""
+"When I step on my favorite surfboard, I fear no more the summer heat!(Event "
+"limited, will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|ad49c82751b9312a7bb5cdb1a042e6ae"
+msgstr "좋아하는 서핑 보드를 타면, 더위 따위는 두렵지 않아! (이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1462
+msgctxt "Riichi Bet - Riding the Tide"
+msgid "sheet|ItemDefinitionItem.csv|name_en|d8e507fa15a552405df861123de40303"
+msgstr "리치 봉 - 파도타기"
+
+#: translate_sheet.csv:1439
+msgctxt ""
+"Listen! That's the sound of waves \"Riichi\"ing on the rocks!(Event limited,"
+" will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|06901ca0ce3b64639ff4437ddf5feb52"
+msgstr "들어봐! 파도가 바위에 닫는 소리야! (이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1438
+msgctxt "Riichi - The Sound of Waves"
+msgid "sheet|ItemDefinitionItem.csv|name_en|af89ef252eadcaab1f6117589c2377fe"
+msgstr "리치 - 파도 소리"
+
+#: translate_sheet.csv:1421
+msgctxt ""
+"When the tide goes out, it always leaves special gifts for the beach.(Event "
+"limited, will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|b9c7b9bd49e740d60abbf47749391ff9"
+msgstr "밀물 때마다 해변에는 언제나 특별한 선물이 남아있습니다. (이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: translate_sheet.csv:1420
+msgctxt "Winning - Ocean's Gift"
+msgid "sheet|ItemDefinitionItem.csv|name_en|d4122ce8373c47c90bf13a1008f9acbb"
+msgstr "승리 - 바다의 선물"
+
+#: translate_sheet.csv:41
+msgctxt "Keikumusume Redeem Event"
+msgid "sheet|ActivityActivity.csv|name_en|b406b52c5b39a6010df47348318f9251"
+msgstr "케이쿠무스메 교환 이벤트"
+
+#: translate_sheet.csv:40
+msgctxt "Relaxing Holiday Quest"
+msgid "sheet|ActivityActivity.csv|name_en|9a305369f0ed69cda2348ecca5c2387b"
+msgstr "편안한 유일 퀘스트"
+
+#: translate_sheet.csv:39
+msgctxt "Chiori's Relaxing Holiday"
+msgid "sheet|ActivityActivity.csv|name_en|26911f09599fa6ad2b764664a0c61c43"
+msgstr "치오리의 편안한 휴일"
