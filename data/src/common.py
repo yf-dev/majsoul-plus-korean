@@ -1,5 +1,12 @@
 from subprocess import Popen, PIPE
 
+AVAILABLE_LANGS = {
+    "chs": "zh-CN",
+    "chs_t": "zh-TW",
+    "jp": "jp",
+    "en": "en"
+}
+
 def run_cmd(cmd, print_result=True):
     p = Popen(
         cmd,

@@ -89,14 +89,8 @@ def action_template(args):
     from export_sheets import main as export_sheets
     export_sheets(args.original_assets_path, args.temp_path)
 
-    from generate_translation_sheet import main as generate_translation_sheet
-    generate_translation_sheet(args.translation_path, args.temp_path)
-
-    from generate_translation_json import main as generate_translation_json
-    generate_translation_json(args.original_assets_path, args.translation_path)
-
     from generate_translation_po import main as generate_translation_po
-    generate_translation_po(args.translation_path)
+    generate_translation_po(args.translation_path, args.original_assets_path, args.temp_path)
 
     log_debug('Generate complete', args.verbose)
 
