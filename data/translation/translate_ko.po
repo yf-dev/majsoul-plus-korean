@@ -1,14 +1,14 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-08-22 12:43+0000\n"
+"PO-Revision-Date: 2020-09-08 14:23+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Weblate 4.2.2\n"
 
 #: translate_json.csv:7
 msgctxt "绑定邮箱"
@@ -61343,3 +61343,311 @@ msgstr "편안한 휴일 퀘스트"
 msgctxt "Chiori's Relaxing Holiday"
 msgid "sheet|ActivityActivity.csv|name_en|26911f09599fa6ad2b764664a0c61c43"
 msgstr "치오리의 편안한 휴일"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course27|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course13_2|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course26|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course25_wrong2|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course25_wrong1|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course25_correct|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course25|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course24_wrong2|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course24_wrong1|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course24_correct|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course24|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course23|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course22|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course21|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course20|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course19_correct|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course19_wrong2|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course19_wrong1|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course19|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course18_wrong2|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course18_wrong1|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course18_correct|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course18|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course15|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course14|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course13|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course12|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course11|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course10|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course9_wrong2|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course9_correct|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course9_wrong1|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course9|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course8_wrong2|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course8_wrong1|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course8_correct|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course8|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course7|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course6|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course5|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course4|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course3|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course2|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
+
+#: xinshouyindao_en.json
+msgctxt "Ichihime"
+msgid ""
+"json-"
+"xinshouyindao|xinshouyindao_en.json|course1|name|f82699b7e09682c216a9f9fefb44642b"
+msgstr "이치히메"
