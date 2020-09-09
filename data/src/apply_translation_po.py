@@ -33,9 +33,10 @@ def main(translation_path):
             log_debug(f'Add {entry.msgid} to sheet data', verbose)
             sheet_entries.append(entry)
         else:
-            error_msg = f'Unexpected msgid: {entry.msgid}'
-            log_error(error_msg, verbose)
-            raise Exception(error_msg)
+            pass
+            # error_msg = f'Unexpected msgid: {entry.msgid}'
+            # log_error(error_msg, verbose)
+            # raise Exception(error_msg)
     
     log_info('Write translate_json.csv...', verbose)
     with open(translation_path / 'translate_json.csv', 'w', encoding='utf-8-sig', newline='') as csvfile:
