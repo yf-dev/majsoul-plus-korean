@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-09-08 13:47:12\n"
+"PO-Revision-Date: 2020-09-10 06:05:09\n"
 "Language: jp\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -20901,53 +20901,53 @@ msgid "sheet|EventsBaseTask.csv|desc_en|6031041616922b3985fb50f42be55fd9"
 msgstr "放銃回数10回未満を達成します"
 
 #: EventsBaseTask.csv:334
-msgctxt "Ron 1 time in total"
-msgid "sheet|EventsBaseTask.csv|desc_en|764f05c847f6adcb76c1332067877ac9"
+msgctxt "Win 1 time in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|89c6dcfee3c381a93716d29dde697822"
 msgstr "和了回数1回以上を達成します"
 
 #: EventsBaseTask.csv:335
-msgctxt "Ron 2 times in total"
-msgid "sheet|EventsBaseTask.csv|desc_en|4bd2ad11014c1101cbb277c00e8bf799"
+msgctxt "Win 2 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|4c0e2d7a53977c8862d57cbc55bc3bd6"
 msgstr "和了回数2回以上を達成します"
 
 #: EventsBaseTask.csv:336
-msgctxt "Ron 3 times in total"
-msgid "sheet|EventsBaseTask.csv|desc_en|a5ae847570f473f89e1cf587869b5724"
+msgctxt "Win 3 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|c502df7d3ab261b1aadd31b39ff9ac75"
 msgstr "和了回数3回以上を達成します"
 
 #: EventsBaseTask.csv:337
-msgctxt "Ron 4 times in total"
-msgid "sheet|EventsBaseTask.csv|desc_en|211f036d6de0adc01d83d300c556013b"
+msgctxt "Win 4 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|aea6de82147dcf7712075d83dcdf8360"
 msgstr "和了回数4回以上を達成します"
 
 #: EventsBaseTask.csv:338
-msgctxt "Ron 5 times in total"
-msgid "sheet|EventsBaseTask.csv|desc_en|055b08907631dc2a943336dc20965c91"
+msgctxt "Win 5 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|11347a07d39cb85dcdf2cf2986c464ae"
 msgstr "和了回数5回以上を達成します"
 
 #: EventsBaseTask.csv:339
-msgctxt "Ron 6 times in total"
-msgid "sheet|EventsBaseTask.csv|desc_en|eecfccf99dc9212414304cfdd1726f49"
+msgctxt "Win 6 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|a8881fb1fa77759501a083c455902b97"
 msgstr "和了回数6回以上を達成します"
 
 #: EventsBaseTask.csv:340
-msgctxt "Ron 7 times in total"
-msgid "sheet|EventsBaseTask.csv|desc_en|6999fd1691da7763db61cb8d33be2c90"
+msgctxt "Win 7 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|3986326848fafb4e2fec65d199be13c7"
 msgstr "和了回数7回以上を達成します"
 
 #: EventsBaseTask.csv:341
-msgctxt "Ron 8 times in total"
-msgid "sheet|EventsBaseTask.csv|desc_en|8f49a8fc46ae9635c8d6c2f2f30d4620"
+msgctxt "Win 8 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|4a9a32757ec956d433f746380029ec7f"
 msgstr "和了回数8回以上を達成します"
 
 #: EventsBaseTask.csv:342
-msgctxt "Ron 9 times in total"
-msgid "sheet|EventsBaseTask.csv|desc_en|8c35eccd4eefec5302312dbef7cebcfb"
+msgctxt "Win 9 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|9c52a6f61b96f992def230bc4c7ce06c"
 msgstr "和了回数9回以上を達成します"
 
 #: EventsBaseTask.csv:343
-msgctxt "Ron 10 times in total"
-msgid "sheet|EventsBaseTask.csv|desc_en|8f5f908075749492c397ffa1e10c381f"
+msgctxt "Win 10 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|8323d66990fc468529d46ac4898536e0"
 msgstr "和了回数10回以上を達成します"
 
 #: EventsBaseTask.csv:344
@@ -21001,18 +21001,18 @@ msgid "sheet|EventsBaseTask.csv|desc_en|4a26480eda20e1e616c53b89c0f709eb"
 msgstr "ドラの和了回数10回以上を達成します"
 
 #: EventsBaseTask.csv:354
-msgctxt "Ron with Mangan or above once"
-msgid "sheet|EventsBaseTask.csv|desc_en|e59fb7d8328dc94675a0578770ef57bf"
+msgctxt "Win with Mangan or above once"
+msgid "sheet|EventsBaseTask.csv|desc_en|5aed7de1440be894e3ff074c3dd2bf7e"
 msgstr "満貫以上を1回以上を達成します"
 
 #: EventsBaseTask.csv:355
-msgctxt "Ron with Haneman or above once"
-msgid "sheet|EventsBaseTask.csv|desc_en|460b5fd88921943df31010006fd43ce8"
+msgctxt "Win with Haneman or above once"
+msgid "sheet|EventsBaseTask.csv|desc_en|872eca0ef92d4a04140fa065f2a19279"
 msgstr "跳満以上を1回以上を達成します"
 
 #: EventsBaseTask.csv:356
-msgctxt "Ron with Baiman or above once"
-msgid "sheet|EventsBaseTask.csv|desc_en|62372fdc5d947b6c3e18ec990d5dd8c7"
+msgctxt "Win with Baiman or above once"
+msgid "sheet|EventsBaseTask.csv|desc_en|fa6c82af18849ba09a11fe221e70827d"
 msgstr "倍満以上を1回以上を達成します"
 
 #: EventsBaseTask.csv:357
@@ -42125,8 +42125,8 @@ msgid "sheet|StrStr.csv|en|78ad3a0cd093f4e5bf54a1dae76b6315"
 msgstr "試練課題への挑戦が終了しました、本日の課題再発行回数上限に達しました。"
 
 #: StrStr.csv:1124
-msgctxt "Weekly rewards"
-msgid "sheet|StrStr.csv|en|a0a2ca7163df8930c11f3c1a45dd04d3"
+msgctxt "Weekly Reward"
+msgid "sheet|StrStr.csv|en|266f1b24fe0844f7e1f7f180c23a1067"
 msgstr "今週の報酬"
 
 #: StrStr.csv:1125
