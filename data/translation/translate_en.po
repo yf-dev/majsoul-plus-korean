@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-09-10 06:05:09\n"
+"PO-Revision-Date: 2020-09-15 12:05:52\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -5809,9 +5809,9 @@ msgid "json|lobby/shilian/shilian|3|0|2|1|4|ab0d5a26f182e04992cb968448890668"
 msgstr "Remaining Challenges:"
 
 #: ui_en.json
-msgctxt "Weekly rewards"
-msgid "json|lobby/shilian/shilian|3|2|4|1|a0a2ca7163df8930c11f3c1a45dd04d3"
-msgstr "Weekly rewards"
+msgctxt "Weekly Reward"
+msgid "json|lobby/shilian/shilian|3|2|4|1|266f1b24fe0844f7e1f7f180c23a1067"
+msgstr "Weekly Reward"
 
 #: ui_en.json
 msgctxt ""
@@ -31808,171 +31808,187 @@ msgid ""
 msgstr ""
 
 #: ItemDefinitionItem.csv:169
+msgctxt "Shrine Yard · Mid-Autumn"
+msgid "sheet|ItemDefinitionItem.csv|name_en|75079686604c6a307fd3d8e9f8e7ce3a"
+msgstr "Shrine Yard · Mid-Autumn"
+
+#: ItemDefinitionItem.csv:169
+msgctxt "Autumn Theme Background"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|d605d1914a746f689607bb7f0c9eae47"
+msgstr "Autumn Theme Background"
+
+#: ItemDefinitionItem.csv:169
+msgctxt ""
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:170
 msgctxt "Trial PT"
 msgid "sheet|ItemDefinitionItem.csv|name_en|70b4611a215a3f3dfdb68101655f1b07"
 msgstr "Trial PT"
 
-#: ItemDefinitionItem.csv:169
+#: ItemDefinitionItem.csv:170
 msgctxt "Trial PT"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|70b4611a215a3f3dfdb68101655f1b07"
 msgstr "Trial PT"
 
-#: ItemDefinitionItem.csv:169
+#: ItemDefinitionItem.csv:170
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:170
+#: ItemDefinitionItem.csv:171
 msgctxt "Christmas Bells"
 msgid "sheet|ItemDefinitionItem.csv|name_en|8db8aaa1672b7fb8d822ac822769da3c"
 msgstr "Christmas Bells"
 
-#: ItemDefinitionItem.csv:170
+#: ItemDefinitionItem.csv:171
 msgctxt "Christmas Gift - Bells"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|644c14c2dbe40173ceee96b6f178d7ac"
 msgstr "Christmas Gift - Bells"
 
-#: ItemDefinitionItem.csv:170
+#: ItemDefinitionItem.csv:171
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:171
+#: ItemDefinitionItem.csv:172
 msgctxt "Christmas Stocking"
 msgid "sheet|ItemDefinitionItem.csv|name_en|cc890e2c279b90dee54c1e3a10fa04bc"
 msgstr "Christmas Stocking"
 
-#: ItemDefinitionItem.csv:171
+#: ItemDefinitionItem.csv:172
 msgctxt "Christmas Gift - Stocking"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|365915f948d3f0f3d9c3136832f2a528"
 msgstr "Christmas Gift - Stocking"
 
-#: ItemDefinitionItem.csv:171
+#: ItemDefinitionItem.csv:172
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:172
+#: ItemDefinitionItem.csv:173
 msgctxt "Lantern"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a22aaaf7741ee2c408141cb5b635a977"
 msgstr "Lantern"
 
-#: ItemDefinitionItem.csv:172
+#: ItemDefinitionItem.csv:173
 msgctxt "Lunar New Year event item."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3c7d00a8934e287e2b3695606661c875"
 msgstr "Lunar New Year event item."
 
-#: ItemDefinitionItem.csv:172
+#: ItemDefinitionItem.csv:173
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:173
+#: ItemDefinitionItem.csv:174
 msgctxt "Firecracker"
 msgid "sheet|ItemDefinitionItem.csv|name_en|fead03d05d62002696a9b443cf42a62c"
 msgstr "Firecracker"
 
-#: ItemDefinitionItem.csv:173
+#: ItemDefinitionItem.csv:174
 msgctxt "Lunar New Year event item."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3c7d00a8934e287e2b3695606661c875"
 msgstr "Lunar New Year event item."
 
-#: ItemDefinitionItem.csv:173
+#: ItemDefinitionItem.csv:174
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:174
+#: ItemDefinitionItem.csv:175
 msgctxt "Fu"
 msgid "sheet|ItemDefinitionItem.csv|name_en|6c019747e5eb4a721fa1c6be88119fff"
 msgstr "Fu"
 
-#: ItemDefinitionItem.csv:174
+#: ItemDefinitionItem.csv:175
 msgctxt "Lunar New Year event item."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3c7d00a8934e287e2b3695606661c875"
 msgstr "Lunar New Year event item."
 
-#: ItemDefinitionItem.csv:174
+#: ItemDefinitionItem.csv:175
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:175
+#: ItemDefinitionItem.csv:176
 msgctxt "Instruction Tool"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1bdec1201617639bb6662aa30b8c8341"
 msgstr "Instruction Tool"
 
-#: ItemDefinitionItem.csv:175
+#: ItemDefinitionItem.csv:176
 msgctxt "An instruction tool awarded after completing Nikaidou's Class"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|c93318129dec7696575bcbe0550e187f"
 msgstr "An instruction tool awarded after completing Nikaidou's Class"
 
-#: ItemDefinitionItem.csv:175
+#: ItemDefinitionItem.csv:176
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:176
+#: ItemDefinitionItem.csv:177
 msgctxt "Glasses"
 msgid "sheet|ItemDefinitionItem.csv|name_en|0f461e64d283177a15179b180fed353d"
 msgstr "Glasses"
 
-#: ItemDefinitionItem.csv:176
+#: ItemDefinitionItem.csv:177
 msgctxt "A pair of glasses  awarded after completing Nikaidou's Class"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|932f8464bf545a591493b9fa6c27eb7f"
 msgstr "A pair of glasses  awarded after completing Nikaidou's Class"
 
-#: ItemDefinitionItem.csv:176
+#: ItemDefinitionItem.csv:177
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:177
+#: ItemDefinitionItem.csv:178
 msgctxt "Wind Chimes"
 msgid "sheet|ItemDefinitionItem.csv|name_en|65691b9c0d0319a2c527e5b76a44826d"
 msgstr "Wind Chimes"
 
-#: ItemDefinitionItem.csv:177
+#: ItemDefinitionItem.csv:178
 msgctxt "Ichihime asked Nadeshiko to hang this wind chimes in the shrine"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|104327abb15e36b27621f8bfe0a2babe"
 msgstr "Ichihime asked Nadeshiko to hang this wind chimes in the shrine"
 
-#: ItemDefinitionItem.csv:177
+#: ItemDefinitionItem.csv:178
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:178
+#: ItemDefinitionItem.csv:179
 msgctxt "Ice Cream"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4905f67693c1e057a2d9b8c9de8f863b"
 msgstr "Ice Cream"
 
-#: ItemDefinitionItem.csv:178
+#: ItemDefinitionItem.csv:179
 msgctxt "Let's have some ice cream!!!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|ca3bc9e2a0f8c657c72465671ad0986b"
 msgstr "Let's have some ice cream!!!"
 
-#: ItemDefinitionItem.csv:178
+#: ItemDefinitionItem.csv:179
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:179
+#: ItemDefinitionItem.csv:180
 msgctxt "Watermelon"
 msgid "sheet|ItemDefinitionItem.csv|name_en|9aa80c57478c55b3bcb34290d248d364"
 msgstr "Watermelon"
 
-#: ItemDefinitionItem.csv:179
+#: ItemDefinitionItem.csv:180
 msgctxt ""
 "Watermelon slices prepared by Kujou, the word says they are prepared for "
 "Mikami"
@@ -31981,18 +31997,18 @@ msgstr ""
 "Watermelon slices prepared by Kujou, the word says they are prepared for "
 "Mikami"
 
-#: ItemDefinitionItem.csv:179
+#: ItemDefinitionItem.csv:180
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:180
+#: ItemDefinitionItem.csv:181
 msgctxt "Osmanthus Mead"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d168135e467782a2ea5027760dc5a984"
 msgstr "Osmanthus Mead"
 
-#: ItemDefinitionItem.csv:180
+#: ItemDefinitionItem.csv:181
 msgctxt ""
 "An item used for redeeming gifts from Moon Palace. It says 'No Underage "
 "Drinking' on its bottom, but Ichihime sips it anyway. “Sipping is not "
@@ -32003,18 +32019,18 @@ msgstr ""
 "Drinking' on its bottom, but Ichihime sips it anyway. “Sipping is not "
 "drinking, nyaa~”"
 
-#: ItemDefinitionItem.csv:180
+#: ItemDefinitionItem.csv:181
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:181
+#: ItemDefinitionItem.csv:182
 msgctxt "Mooncake"
 msgid "sheet|ItemDefinitionItem.csv|name_en|50e74030067f097de636fdb9ea0a5ce0"
 msgstr "Mooncake"
 
-#: ItemDefinitionItem.csv:181
+#: ItemDefinitionItem.csv:182
 msgctxt ""
 "An item used for redeeming gifts from Moon Palace. Please keep Ichihime busy"
 " for the period that you are stocking these mooncakes."
@@ -32023,34 +32039,34 @@ msgstr ""
 "An item used for redeeming gifts from Moon Palace. Please keep Ichihime busy"
 " for the period that you are stocking these mooncakes."
 
-#: ItemDefinitionItem.csv:181
+#: ItemDefinitionItem.csv:182
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:182
+#: ItemDefinitionItem.csv:183
 msgctxt "Pumpkin Witch"
 msgid "sheet|ItemDefinitionItem.csv|name_en|527377dc614781d79db1ab059aba5866"
 msgstr "Pumpkin Witch"
 
-#: ItemDefinitionItem.csv:182
+#: ItemDefinitionItem.csv:183
 msgctxt "Halloween Token\"Nobody can escape my witchcraft~\" (Noboday: ???)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3688543d9d3832d6b1e3fd617cd65eb0"
 msgstr "Halloween Token\"Nobody can escape my witchcraft~\" (Noboday: ???)"
 
-#: ItemDefinitionItem.csv:182
+#: ItemDefinitionItem.csv:183
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:183
+#: ItemDefinitionItem.csv:184
 msgctxt "Candies"
 msgid "sheet|ItemDefinitionItem.csv|name_en|139148c3293387bb780412df0e4c3d94"
 msgstr "Candies"
 
-#: ItemDefinitionItem.csv:183
+#: ItemDefinitionItem.csv:184
 msgctxt ""
 "Halloween Token“Hek, hek, hek, wanna have a guess what is wrapped in this "
 "colorful candy paper?”"
@@ -32059,34 +32075,34 @@ msgstr ""
 "Halloween Token“Hek, hek, hek, wanna have a guess what is wrapped in this "
 "colorful candy paper?”"
 
-#: ItemDefinitionItem.csv:183
+#: ItemDefinitionItem.csv:184
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:184
+#: ItemDefinitionItem.csv:185
 msgctxt "Rookie Ghost"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e29d220c7bcf4d507a3071ae09c6472e"
 msgstr "Rookie Ghost"
 
-#: ItemDefinitionItem.csv:184
+#: ItemDefinitionItem.csv:185
 msgctxt "Halloween Token \"Grrrr~ I am the scariest one!\""
 msgid "sheet|ItemDefinitionItem.csv|desc_en|784d412aec069df53c99331a53972ac1"
 msgstr "Halloween Token \"Grrrr~ I am the scariest one!\""
 
-#: ItemDefinitionItem.csv:184
+#: ItemDefinitionItem.csv:185
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:185
+#: ItemDefinitionItem.csv:186
 msgctxt "Kagami Mochi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|00f1e8f0b7e5ce4183405694fd92c384"
 msgstr "Kagami Mochi"
 
-#: ItemDefinitionItem.csv:185
+#: ItemDefinitionItem.csv:186
 msgctxt ""
 "The Kagami Mochi is an offering prepared for the God of New Year. Make sure "
 "it is placed outside Ichihime's sight, otherwise she will steal it away."
@@ -32095,18 +32111,18 @@ msgstr ""
 "The Kagami Mochi is an offering prepared for the God of New Year. Make sure "
 "it is placed outside Ichihime's sight, otherwise she will steal it away."
 
-#: ItemDefinitionItem.csv:185
+#: ItemDefinitionItem.csv:186
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:186
+#: ItemDefinitionItem.csv:187
 msgctxt "Straw Ring"
 msgid "sheet|ItemDefinitionItem.csv|name_en|eadafe6cb4ab37ea1c0e4f08e40e401f"
 msgstr "Straw Ring"
 
-#: ItemDefinitionItem.csv:186
+#: ItemDefinitionItem.csv:187
 msgctxt ""
 "An item used to separate the God's realm from the outside realm. Put it in "
 "the entryway, and you will be protected by the God in the New Year."
@@ -32115,34 +32131,34 @@ msgstr ""
 "An item used to separate the God's realm from the outside realm. Put it in "
 "the entryway, and you will be protected by the God in the New Year."
 
-#: ItemDefinitionItem.csv:186
+#: ItemDefinitionItem.csv:187
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:187
+#: ItemDefinitionItem.csv:188
 msgctxt "测试骰子"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4090287f29e8f04be72099c73127e4d5"
 msgstr "测试骰子"
 
-#: ItemDefinitionItem.csv:187
+#: ItemDefinitionItem.csv:188
 msgctxt "测试用骰子，未实装"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|b8b0b5e406c5a6c03f156d35694fef91"
 msgstr "测试用骰子，未实装"
 
-#: ItemDefinitionItem.csv:187
+#: ItemDefinitionItem.csv:188
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:188
+#: ItemDefinitionItem.csv:189
 msgctxt "Ruler"
 msgid "sheet|ItemDefinitionItem.csv|name_en|eada4723af6f51cf2391d85b5fde49b0"
 msgstr "Ruler"
 
-#: ItemDefinitionItem.csv:188
+#: ItemDefinitionItem.csv:189
 msgctxt ""
 "You are already a mature ruler and should learn to solve Math problem "
 "yourself. Don't you think so?"
@@ -32151,18 +32167,18 @@ msgstr ""
 "You are already a mature ruler and should learn to solve Math problem "
 "yourself. Don't you think so?"
 
-#: ItemDefinitionItem.csv:188
+#: ItemDefinitionItem.csv:189
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:189
+#: ItemDefinitionItem.csv:190
 msgctxt "Propelling Pencil"
 msgid "sheet|ItemDefinitionItem.csv|name_en|ce667956c1ece172286a05034d5a2e7f"
 msgstr "Propelling Pencil"
 
-#: ItemDefinitionItem.csv:189
+#: ItemDefinitionItem.csv:190
 msgctxt ""
 "A propelling pencil produced by \"Catfood Studio\". Every lead of it can be "
 "used for almost one year."
@@ -32171,18 +32187,18 @@ msgstr ""
 "A propelling pencil produced by \"Catfood Studio\". Every lead of it can be "
 "used for almost one year."
 
-#: ItemDefinitionItem.csv:189
+#: ItemDefinitionItem.csv:190
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:190
+#: ItemDefinitionItem.csv:191
 msgctxt "Note Book"
 msgid "sheet|ItemDefinitionItem.csv|name_en|25975f980e3f3eedd6f8e69f1cc690f5"
 msgstr "Note Book"
 
-#: ItemDefinitionItem.csv:190
+#: ItemDefinitionItem.csv:191
 msgctxt ""
 "A note book which is used to record daily life of Jyanshi. Wait... isn't it "
 "used to take notes?"
@@ -32191,34 +32207,34 @@ msgstr ""
 "A note book which is used to record daily life of Jyanshi. Wait... isn't it "
 "used to take notes?"
 
-#: ItemDefinitionItem.csv:190
+#: ItemDefinitionItem.csv:191
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:191
+#: ItemDefinitionItem.csv:192
 msgctxt "dice"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f91614c13b0e6659f9b16a1d6f22f2db"
 msgstr "dice"
 
-#: ItemDefinitionItem.csv:191
+#: ItemDefinitionItem.csv:192
 msgctxt "An event-limited item. Use it to advance on the map."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|649ba2de8bb4ea3e9e54332f86f8def8"
 msgstr "An event-limited item. Use it to advance on the map."
 
-#: ItemDefinitionItem.csv:191
+#: ItemDefinitionItem.csv:192
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:192
+#: ItemDefinitionItem.csv:193
 msgctxt "remote-control dice"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a16b252f2733a9cb3144997ca455abbc"
 msgstr "remote-control dice"
 
-#: ItemDefinitionItem.csv:192
+#: ItemDefinitionItem.csv:193
 msgctxt ""
 "An event-limited item. Use it to select the number of steps you'd like to "
 "move on the map."
@@ -32227,66 +32243,66 @@ msgstr ""
 "An event-limited item. Use it to select the number of steps you'd like to "
 "move on the map."
 
-#: ItemDefinitionItem.csv:192
+#: ItemDefinitionItem.csv:193
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:193
+#: ItemDefinitionItem.csv:194
 msgctxt "Red bean rice dumpling"
 msgid "sheet|ItemDefinitionItem.csv|name_en|28dedc1804098625154d00debc465f6e"
 msgstr "Red bean rice dumpling"
 
-#: ItemDefinitionItem.csv:193
+#: ItemDefinitionItem.csv:194
 msgctxt "Sweet red bean rice dumpling, yummy!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|7bd8e7d980cdc09a09b269ad0b04eaed"
 msgstr "Sweet red bean rice dumpling, yummy!"
 
-#: ItemDefinitionItem.csv:193
+#: ItemDefinitionItem.csv:194
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:194
+#: ItemDefinitionItem.csv:195
 msgctxt "Multi-grain rice dumpling"
 msgid "sheet|ItemDefinitionItem.csv|name_en|5bba8a03cd8d3301d4ea70692745f341"
 msgstr "Multi-grain rice dumpling"
 
-#: ItemDefinitionItem.csv:194
+#: ItemDefinitionItem.csv:195
 msgctxt "Healthy multi-grain rice dumpling, yummy!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|29c42ce8e05a875e5cbd6087d51f91f6"
 msgstr "Healthy multi-grain rice dumpling, yummy!"
 
-#: ItemDefinitionItem.csv:194
+#: ItemDefinitionItem.csv:195
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:195
+#: ItemDefinitionItem.csv:196
 msgctxt "Vitellus rice dumpling"
 msgid "sheet|ItemDefinitionItem.csv|name_en|6371b13b1497c7077ed4771a8a332829"
 msgstr "Vitellus rice dumpling"
 
-#: ItemDefinitionItem.csv:195
+#: ItemDefinitionItem.csv:196
 msgctxt "Delicious egg yolk rice dumpling, yummy!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|ac9e84ce8c3f60c368ac5c97f9d3a31d"
 msgstr "Delicious egg yolk rice dumpling, yummy!"
 
-#: ItemDefinitionItem.csv:195
+#: ItemDefinitionItem.csv:196
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:196
+#: ItemDefinitionItem.csv:197
 msgctxt "Trumpet"
 msgid "sheet|ItemDefinitionItem.csv|name_en|142e3acd3610d6c670ac3f74b36347c6"
 msgstr "Trumpet"
 
-#: ItemDefinitionItem.csv:196
+#: ItemDefinitionItem.csv:197
 msgctxt ""
 "A Sports Day event token. When cheerleaders blow this trumpet together, the "
 "sound can be very loud."
@@ -32295,18 +32311,18 @@ msgstr ""
 "A Sports Day event token. When cheerleaders blow this trumpet together, the "
 "sound can be very loud."
 
-#: ItemDefinitionItem.csv:196
+#: ItemDefinitionItem.csv:197
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:197
+#: ItemDefinitionItem.csv:198
 msgctxt "Pom-pom"
 msgid "sheet|ItemDefinitionItem.csv|name_en|c2326b58ae243a1a0135449bb2c29275"
 msgstr "Pom-pom"
 
-#: ItemDefinitionItem.csv:197
+#: ItemDefinitionItem.csv:198
 msgctxt ""
 "A Sports Day event token. This pom-pom flies around in the hands of "
 "cheerleaders."
@@ -32315,34 +32331,34 @@ msgstr ""
 "A Sports Day event token. This pom-pom flies around in the hands of "
 "cheerleaders."
 
-#: ItemDefinitionItem.csv:197
+#: ItemDefinitionItem.csv:198
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:198
+#: ItemDefinitionItem.csv:199
 msgctxt "Cool Ticket"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a05a69e36d6d0b82dbb90e815ecffb0f"
 msgstr "Cool Ticket"
 
-#: ItemDefinitionItem.csv:198
+#: ItemDefinitionItem.csv:199
 msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:198
+#: ItemDefinitionItem.csv:199
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:199
+#: ItemDefinitionItem.csv:200
 msgctxt "Ichihime Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|724df3a2662f650c0438c39135c3a022"
 msgstr "Ichihime Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:199
+#: ItemDefinitionItem.csv:200
 msgctxt ""
 "Unlocks Ichihime's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -32351,18 +32367,18 @@ msgstr ""
 "Unlocks Ichihime's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:199
+#: ItemDefinitionItem.csv:200
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:200
+#: ItemDefinitionItem.csv:201
 msgctxt "Miki Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d8d1987addc28172f55e1fed202449ea"
 msgstr "Miki Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:200
+#: ItemDefinitionItem.csv:201
 msgctxt ""
 "Unlocks Nikaido Miki's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
@@ -32371,18 +32387,18 @@ msgstr ""
 "Unlocks Nikaido Miki's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:200
+#: ItemDefinitionItem.csv:201
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:201
+#: ItemDefinitionItem.csv:202
 msgctxt "Chiori Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|775bfe1e83ca81168c199ce2b94e39ed"
 msgstr "Chiori Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:201
+#: ItemDefinitionItem.csv:202
 msgctxt ""
 "Unlocks Mikami Chiori's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
@@ -32391,18 +32407,18 @@ msgstr ""
 "Unlocks Mikami Chiori's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:201
+#: ItemDefinitionItem.csv:202
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:202
+#: ItemDefinitionItem.csv:203
 msgctxt "Aihara Mai Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a1ece7b59271bb60f346ad841c6691ab"
 msgstr "Aihara Mai Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:202
+#: ItemDefinitionItem.csv:203
 msgctxt ""
 "Unlocks Aihara Mai's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -32411,18 +32427,18 @@ msgstr ""
 "Unlocks Aihara Mai's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:202
+#: ItemDefinitionItem.csv:203
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:203
+#: ItemDefinitionItem.csv:204
 msgctxt "Kana Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f6d3cc1de1238c9bc76eb8a6a9f8f9e1"
 msgstr "Kana Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:203
+#: ItemDefinitionItem.csv:204
 msgctxt ""
 "Unlocks Fujita Kana's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -32431,18 +32447,18 @@ msgstr ""
 "Unlocks Fujita Kana's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:203
+#: ItemDefinitionItem.csv:204
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:204
+#: ItemDefinitionItem.csv:205
 msgctxt "Nadeshiko Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e560a61363b2def3ab8b0066312ac233"
 msgstr "Nadeshiko Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:204
+#: ItemDefinitionItem.csv:205
 msgctxt ""
 "Unlocks Nadeshiko's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -32451,18 +32467,18 @@ msgstr ""
 "Unlocks Nadeshiko's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:204
+#: ItemDefinitionItem.csv:205
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:205
+#: ItemDefinitionItem.csv:206
 msgctxt "Yui Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|837118daf2fa59e84b25f908d4932e92"
 msgstr "Yui Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:205
+#: ItemDefinitionItem.csv:206
 msgctxt ""
 "Unlocks Yagi Yui's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -32471,18 +32487,18 @@ msgstr ""
 "Unlocks Yagi Yui's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:205
+#: ItemDefinitionItem.csv:206
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:206
+#: ItemDefinitionItem.csv:207
 msgctxt "Riu Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1e09915958e046859db9c1b580b792f6"
 msgstr "Riu Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:206
+#: ItemDefinitionItem.csv:207
 msgctxt ""
 "Unlocks Kujou Riu's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -32491,404 +32507,404 @@ msgstr ""
 "Unlocks Kujou Riu's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:206
+#: ItemDefinitionItem.csv:207
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:207
+#: ItemDefinitionItem.csv:208
 msgctxt "Spring Exclusive - Ichihime"
 msgid "sheet|ItemDefinitionItem.csv|name_en|5b43ce37b0d1c169a4f28377ee9de6e5"
 msgstr "Spring Exclusive - Ichihime"
 
-#: ItemDefinitionItem.csv:207
+#: ItemDefinitionItem.csv:208
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:207
+#: ItemDefinitionItem.csv:208
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:208
+#: ItemDefinitionItem.csv:209
 msgctxt "Spring Exclusive - Miki Nikaidou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f1f992997462a6870f2d470df19a7032"
 msgstr "Spring Exclusive - Miki Nikaidou"
 
-#: ItemDefinitionItem.csv:208
+#: ItemDefinitionItem.csv:209
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:208
+#: ItemDefinitionItem.csv:209
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:209
+#: ItemDefinitionItem.csv:210
 msgctxt "Spring Exclusive - Kana Fujita"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7daeef1135de8785d6cf7546701e25f1"
 msgstr "Spring Exclusive - Kana Fujita"
 
-#: ItemDefinitionItem.csv:209
+#: ItemDefinitionItem.csv:210
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:209
+#: ItemDefinitionItem.csv:210
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:210
+#: ItemDefinitionItem.csv:211
 msgctxt "Spring Exclusive - Chiori Mikami"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d5132bfb23775265b231b3222f6d10ab"
 msgstr "Spring Exclusive - Chiori Mikami"
 
-#: ItemDefinitionItem.csv:210
+#: ItemDefinitionItem.csv:211
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:210
+#: ItemDefinitionItem.csv:211
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:211
+#: ItemDefinitionItem.csv:212
 msgctxt "Spring Exclusive - Mai Aihara"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e5ba197dca3c2f772f66afce683f17dd"
 msgstr "Spring Exclusive - Mai Aihara"
 
-#: ItemDefinitionItem.csv:211
+#: ItemDefinitionItem.csv:212
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:211
+#: ItemDefinitionItem.csv:212
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:212
+#: ItemDefinitionItem.csv:213
 msgctxt "Spring Exclusive - Nadeshiko"
 msgid "sheet|ItemDefinitionItem.csv|name_en|3526572d0816f075d24663cd78ac74ab"
 msgstr "Spring Exclusive - Nadeshiko"
 
-#: ItemDefinitionItem.csv:212
+#: ItemDefinitionItem.csv:213
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:212
+#: ItemDefinitionItem.csv:213
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:213
+#: ItemDefinitionItem.csv:214
 msgctxt "Spring Exclusive - Yui Yagi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|63a646103ae7c2d6c1703fa4bb68ab30"
 msgstr "Spring Exclusive - Yui Yagi"
 
-#: ItemDefinitionItem.csv:213
+#: ItemDefinitionItem.csv:214
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:213
+#: ItemDefinitionItem.csv:214
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:214
+#: ItemDefinitionItem.csv:215
 msgctxt "Spring Exclusive - Riu Kujou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f7f034f38105e02405ae7d2d02999d6b"
 msgstr "Spring Exclusive - Riu Kujou"
 
-#: ItemDefinitionItem.csv:214
+#: ItemDefinitionItem.csv:215
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:214
+#: ItemDefinitionItem.csv:215
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:215
+#: ItemDefinitionItem.csv:216
 msgctxt "Spring Exclusive - Xenia"
 msgid "sheet|ItemDefinitionItem.csv|name_en|03f7fc3b68d60c09a01325e88ce9d288"
 msgstr "Spring Exclusive - Xenia"
 
-#: ItemDefinitionItem.csv:215
+#: ItemDefinitionItem.csv:216
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:215
+#: ItemDefinitionItem.csv:216
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:216
+#: ItemDefinitionItem.csv:217
 msgctxt "Spring Exclusive - Kaavi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4a17c9100b2f7540b952f5b02852cbd9"
 msgstr "Spring Exclusive - Kaavi"
 
-#: ItemDefinitionItem.csv:216
+#: ItemDefinitionItem.csv:217
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:216
+#: ItemDefinitionItem.csv:217
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:217
+#: ItemDefinitionItem.csv:218
 msgctxt "Spring Exclusive - Natsuki Shinomiya"
 msgid "sheet|ItemDefinitionItem.csv|name_en|916acd0b9c841b9e07995fc08576ca54"
 msgstr "Spring Exclusive - Natsuki Shinomiya"
 
-#: ItemDefinitionItem.csv:217
+#: ItemDefinitionItem.csv:218
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:217
+#: ItemDefinitionItem.csv:218
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:218
+#: ItemDefinitionItem.csv:219
 msgctxt "Spring Exclusive - Wanjirou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|0a26a934872727bb1c9a8bf6a091234b"
 msgstr "Spring Exclusive - Wanjirou"
 
-#: ItemDefinitionItem.csv:218
+#: ItemDefinitionItem.csv:219
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:218
+#: ItemDefinitionItem.csv:219
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:219
+#: ItemDefinitionItem.csv:220
 msgctxt "Spring Exclusive - Sora Ichinose"
 msgid "sheet|ItemDefinitionItem.csv|name_en|2c14f0fa9f98fed16764e67fa1155749"
 msgstr "Spring Exclusive - Sora Ichinose"
 
-#: ItemDefinitionItem.csv:219
+#: ItemDefinitionItem.csv:220
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:219
+#: ItemDefinitionItem.csv:220
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:220
+#: ItemDefinitionItem.csv:221
 msgctxt "Spring Exclusive - Hideki Akechi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|bd6c42b5e2b6cb68a8a6740558611e29"
 msgstr "Spring Exclusive - Hideki Akechi"
 
-#: ItemDefinitionItem.csv:220
+#: ItemDefinitionItem.csv:221
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:220
+#: ItemDefinitionItem.csv:221
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:221
+#: ItemDefinitionItem.csv:222
 msgctxt "Spring Exclusive - Keikumusume"
 msgid "sheet|ItemDefinitionItem.csv|name_en|8d21bde96f6caf6b185ec846133f4dd5"
 msgstr "Spring Exclusive - Keikumusume"
 
-#: ItemDefinitionItem.csv:221
+#: ItemDefinitionItem.csv:222
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:221
+#: ItemDefinitionItem.csv:222
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:222
+#: ItemDefinitionItem.csv:223
 msgctxt "Spring Exclusive - Sara"
 msgid "sheet|ItemDefinitionItem.csv|name_en|11c77d3c733b73cfec45ec2608577832"
 msgstr "Spring Exclusive - Sara"
 
-#: ItemDefinitionItem.csv:222
+#: ItemDefinitionItem.csv:223
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:222
+#: ItemDefinitionItem.csv:223
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:223
+#: ItemDefinitionItem.csv:224
 msgctxt "Spring Exclusive - Hana Ninomiya"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1d892a6654b025eb275e0173726c2882"
 msgstr "Spring Exclusive - Hana Ninomiya"
 
-#: ItemDefinitionItem.csv:223
+#: ItemDefinitionItem.csv:224
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:223
+#: ItemDefinitionItem.csv:224
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:224
+#: ItemDefinitionItem.csv:225
 msgctxt "Spring Exclusive - Nana Shiraishi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|22308b8445e36897a6eec06db5c3cca6"
 msgstr "Spring Exclusive - Nana Shiraishi"
 
-#: ItemDefinitionItem.csv:224
+#: ItemDefinitionItem.csv:225
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:224
+#: ItemDefinitionItem.csv:225
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:225
+#: ItemDefinitionItem.csv:226
 msgctxt "Spring Exclusive - Hinata Takanashi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|df0ed43f659122ef9afe6fcb223e28da"
 msgstr "Spring Exclusive - Hinata Takanashi"
 
-#: ItemDefinitionItem.csv:225
+#: ItemDefinitionItem.csv:226
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:225
+#: ItemDefinitionItem.csv:226
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:226
+#: ItemDefinitionItem.csv:227
 msgctxt "Spring Exclusive - Haruna Igarashi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d5b0795f64d18c3953c512516f7333ed"
 msgstr "Spring Exclusive - Haruna Igarashi"
 
-#: ItemDefinitionItem.csv:226
+#: ItemDefinitionItem.csv:227
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:226
+#: ItemDefinitionItem.csv:227
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:227
+#: ItemDefinitionItem.csv:228
 msgctxt "Spring Exclusive - Anju Suzumiya"
 msgid "sheet|ItemDefinitionItem.csv|name_en|47acf2b222660d0319923628e8fcbda8"
 msgstr "Spring Exclusive - Anju Suzumiya"
 
-#: ItemDefinitionItem.csv:227
+#: ItemDefinitionItem.csv:228
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:227
+#: ItemDefinitionItem.csv:228
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:228
+#: ItemDefinitionItem.csv:229
 msgctxt "Spring Exclusive - Joseph"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a7a20a831d57732506b04f8671a17df9"
 msgstr "Spring Exclusive - Joseph"
 
-#: ItemDefinitionItem.csv:228
+#: ItemDefinitionItem.csv:229
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:228
+#: ItemDefinitionItem.csv:229
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:229
+#: ItemDefinitionItem.csv:230
 msgctxt "Spring Exclusive - Osamu Saitou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|73fb7c274e4f492df8f7103e7513d367"
 msgstr "Spring Exclusive - Osamu Saitou"
 
-#: ItemDefinitionItem.csv:229
+#: ItemDefinitionItem.csv:230
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:229
+#: ItemDefinitionItem.csv:230
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:230
+#: ItemDefinitionItem.csv:231
 msgctxt "Mooncake Emoji"
 msgid "sheet|ItemDefinitionItem.csv|name_en|74710a80763ca656a308e13a9f92a443"
 msgstr "Mooncake Emoji"
 
-#: ItemDefinitionItem.csv:230
+#: ItemDefinitionItem.csv:231
 msgctxt ""
 "Unlocks Mooncake limited-time Emoji. It will expire at 9/27 2:00 P.M. (PDT)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|cc547f435d357712338a535c02eb50fb"
 msgstr ""
 "Unlocks Mooncake limited-time Emoji. It will expire at 9/27 2:00 P.M. (PDT)"
 
-#: ItemDefinitionItem.csv:230
+#: ItemDefinitionItem.csv:231
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:231
+#: ItemDefinitionItem.csv:232
 msgctxt "Firework Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f9bc5284e8602a38cd329a6d7aaa382"
 msgstr "Firework Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:231
+#: ItemDefinitionItem.csv:232
 msgctxt ""
 "A limited-time emoji for celebrating victorious. Available until 10/30/2019 "
 "2:00 P.M. (PDT)"
@@ -32897,34 +32913,34 @@ msgstr ""
 "A limited-time emoji for celebrating victorious. Available until 10/30/2019 "
 "2:00 P.M. (PDT)"
 
-#: ItemDefinitionItem.csv:231
+#: ItemDefinitionItem.csv:232
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:232
+#: ItemDefinitionItem.csv:233
 msgctxt "Firework Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f9bc5284e8602a38cd329a6d7aaa382"
 msgstr "Firework Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:232
+#: ItemDefinitionItem.csv:233
 msgctxt "A limited-time emoji. Available until 11/09/2019 2:00 P.M. (PDT)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|93edfed0ab70fe860a6ea082cd790a02"
 msgstr "A limited-time emoji. Available until 11/09/2019 2:00 P.M. (PDT)"
 
-#: ItemDefinitionItem.csv:232
+#: ItemDefinitionItem.csv:233
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:233
+#: ItemDefinitionItem.csv:234
 msgctxt "SURPRISE Emoji(Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|63b6b4e19db6af451d2367262d82dc89"
 msgstr "SURPRISE Emoji(Limited-time)"
 
-#: ItemDefinitionItem.csv:233
+#: ItemDefinitionItem.csv:234
 msgctxt ""
 "A limited-time emoji for Halloween 2019. Available until 12/11/2019 2:00 "
 "P.M. (PDT)"
@@ -32933,54 +32949,38 @@ msgstr ""
 "A limited-time emoji for Halloween 2019. Available until 12/11/2019 2:00 "
 "P.M. (PDT)"
 
-#: ItemDefinitionItem.csv:233
+#: ItemDefinitionItem.csv:234
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:234
+#: ItemDefinitionItem.csv:235
 msgctxt "Firework Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f9bc5284e8602a38cd329a6d7aaa382"
 msgstr "Firework Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:234
+#: ItemDefinitionItem.csv:235
 msgctxt "A limited-time emoji.Available until 12/26/2019 2:00 P.M. (UTC-7)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|7126b28b08645e77bcd8de63ccdb2d7f"
 msgstr "A limited-time emoji.Available until 12/26/2019 2:00 P.M. (UTC-7)"
 
-#: ItemDefinitionItem.csv:234
+#: ItemDefinitionItem.csv:235
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:235
+#: ItemDefinitionItem.csv:236
 msgctxt "手-默认"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f3708f0158cf66b3fbe0b55d998a602"
 msgstr "手-默认"
 
-#: ItemDefinitionItem.csv:235
+#: ItemDefinitionItem.csv:236
 msgctxt "默认的手"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|76920ca2e27820f7a6be95710a88cd1b"
 msgstr "默认的手"
 
-#: ItemDefinitionItem.csv:235
-msgctxt ""
-msgid ""
-"sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
-
-#: ItemDefinitionItem.csv:236
-msgctxt ""
-msgid "sheet|ItemDefinitionItem.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
-
-#: ItemDefinitionItem.csv:236
-msgctxt ""
-msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
-
 #: ItemDefinitionItem.csv:236
 msgctxt ""
 msgid ""
@@ -33020,32 +33020,48 @@ msgid ""
 msgstr ""
 
 #: ItemDefinitionItem.csv:239
+msgctxt ""
+msgid "sheet|ItemDefinitionItem.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:239
+msgctxt ""
+msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:239
+msgctxt ""
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:240
 msgctxt "Portrait Frame - Sprout"
 msgid "sheet|ItemDefinitionItem.csv|name_en|ded77b66c0d9137a45ab70974fa5f93e"
 msgstr "Portrait Frame - Sprout"
 
-#: ItemDefinitionItem.csv:239
+#: ItemDefinitionItem.csv:240
 msgctxt "A sprout to become something unknown"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|8e1ff5c8847adc11b352d5bca7f6ea0b"
 msgstr "A sprout to become something unknown"
 
-#: ItemDefinitionItem.csv:239
+#: ItemDefinitionItem.csv:240
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:240
+#: ItemDefinitionItem.csv:241
 msgctxt "限时称号测试用"
 msgid "sheet|ItemDefinitionItem.csv|name_en|94ae1602d51a19aed87df8babb1c97e5"
 msgstr "限时称号测试用"
 
-#: ItemDefinitionItem.csv:240
+#: ItemDefinitionItem.csv:241
 msgctxt "限时称号测试用"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|94ae1602d51a19aed87df8babb1c97e5"
 msgstr "限时称号测试用"
 
-#: ItemDefinitionItem.csv:240
+#: ItemDefinitionItem.csv:241
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"

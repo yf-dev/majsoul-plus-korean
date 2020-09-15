@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-09-10 06:05:09\n"
+"PO-Revision-Date: 2020-09-15 12:05:52\n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -5971,8 +5971,8 @@ msgid "json|lobby/shilian/shilian|3|0|2|1|4|ab0d5a26f182e04992cb968448890668"
 msgstr "剩餘對局數:"
 
 #: ui_chs_t.json
-msgctxt "Weekly rewards"
-msgid "json|lobby/shilian/shilian|3|2|4|1|a0a2ca7163df8930c11f3c1a45dd04d3"
+msgctxt "Weekly Reward"
+msgid "json|lobby/shilian/shilian|3|2|4|1|266f1b24fe0844f7e1f7f180c23a1067"
 msgstr "每週獎勵"
 
 #: ui_chs_t.json
@@ -30108,7 +30108,7 @@ msgstr ""
 #: ItemDefinitionItem.csv:165
 msgctxt "Shrine Yard · Sakura"
 msgid "sheet|ItemDefinitionItem.csv|name_en|adb83cb6f5613083cf9354d267cc1097"
-msgstr "神社庭院‧春櫻"
+msgstr "神社庭院·春櫻"
 
 #: ItemDefinitionItem.csv:165
 msgctxt ""
@@ -30126,7 +30126,7 @@ msgstr ""
 #: ItemDefinitionItem.csv:166
 msgctxt "Shrine Yard · Midsummer"
 msgid "sheet|ItemDefinitionItem.csv|name_en|359f9b156e915d4d466c4ff3c3f4c4e4"
-msgstr "神社庭院‧仲夏"
+msgstr "神社庭院·仲夏"
 
 #: ItemDefinitionItem.csv:166
 msgctxt "Summer Theme Background"
@@ -30142,7 +30142,7 @@ msgstr ""
 #: ItemDefinitionItem.csv:167
 msgctxt "Shrine Yard · Snow White"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f727622f1be30c20fbc342ed2b7047e1"
-msgstr "神社庭院‧皚皚"
+msgstr "神社庭院·皚皚"
 
 #: ItemDefinitionItem.csv:167
 msgctxt ""
@@ -30178,189 +30178,205 @@ msgid ""
 msgstr ""
 
 #: ItemDefinitionItem.csv:169
+msgctxt "Shrine Yard · Mid-Autumn"
+msgid "sheet|ItemDefinitionItem.csv|name_en|75079686604c6a307fd3d8e9f8e7ce3a"
+msgstr "神社庭院·秋深"
+
+#: ItemDefinitionItem.csv:169
+msgctxt "Autumn Theme Background"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|d605d1914a746f689607bb7f0c9eae47"
+msgstr "秋意濃，庭院緩歸，楓紅恍若二月花。"
+
+#: ItemDefinitionItem.csv:169
+msgctxt ""
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:170
 msgctxt "Trial PT"
 msgid "sheet|ItemDefinitionItem.csv|name_en|70b4611a215a3f3dfdb68101655f1b07"
 msgstr "試煉積分"
 
-#: ItemDefinitionItem.csv:169
+#: ItemDefinitionItem.csv:170
 msgctxt "Trial PT"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|70b4611a215a3f3dfdb68101655f1b07"
 msgstr "試煉積分"
 
-#: ItemDefinitionItem.csv:169
+#: ItemDefinitionItem.csv:170
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:170
+#: ItemDefinitionItem.csv:171
 msgctxt "Christmas Bells"
 msgid "sheet|ItemDefinitionItem.csv|name_en|8db8aaa1672b7fb8d822ac822769da3c"
 msgstr "聖誕鈴鐺"
 
-#: ItemDefinitionItem.csv:170
+#: ItemDefinitionItem.csv:171
 msgctxt "Christmas Gift - Bells"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|644c14c2dbe40173ceee96b6f178d7ac"
 msgstr "聖誕禮物——鈴鐺"
 
-#: ItemDefinitionItem.csv:170
+#: ItemDefinitionItem.csv:171
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:171
+#: ItemDefinitionItem.csv:172
 msgctxt "Christmas Stocking"
 msgid "sheet|ItemDefinitionItem.csv|name_en|cc890e2c279b90dee54c1e3a10fa04bc"
 msgstr "聖誕襪子"
 
-#: ItemDefinitionItem.csv:171
+#: ItemDefinitionItem.csv:172
 msgctxt "Christmas Gift - Stocking"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|365915f948d3f0f3d9c3136832f2a528"
 msgstr "聖誕禮物——襪子"
 
-#: ItemDefinitionItem.csv:171
+#: ItemDefinitionItem.csv:172
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:172
+#: ItemDefinitionItem.csv:173
 msgctxt "Lantern"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a22aaaf7741ee2c408141cb5b635a977"
 msgstr "燈籠"
 
-#: ItemDefinitionItem.csv:172
+#: ItemDefinitionItem.csv:173
 msgctxt "Lunar New Year event item."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3c7d00a8934e287e2b3695606661c875"
 msgstr "春節活動道具。"
 
-#: ItemDefinitionItem.csv:172
+#: ItemDefinitionItem.csv:173
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:173
+#: ItemDefinitionItem.csv:174
 msgctxt "Firecracker"
 msgid "sheet|ItemDefinitionItem.csv|name_en|fead03d05d62002696a9b443cf42a62c"
 msgstr "爆竹"
 
-#: ItemDefinitionItem.csv:173
+#: ItemDefinitionItem.csv:174
 msgctxt "Lunar New Year event item."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3c7d00a8934e287e2b3695606661c875"
 msgstr "春節活動道具。"
 
-#: ItemDefinitionItem.csv:173
+#: ItemDefinitionItem.csv:174
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:174
+#: ItemDefinitionItem.csv:175
 msgctxt "Fu"
 msgid "sheet|ItemDefinitionItem.csv|name_en|6c019747e5eb4a721fa1c6be88119fff"
 msgstr "福"
 
-#: ItemDefinitionItem.csv:174
+#: ItemDefinitionItem.csv:175
 msgctxt "Lunar New Year event item."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3c7d00a8934e287e2b3695606661c875"
 msgstr "春節活動道具。"
 
-#: ItemDefinitionItem.csv:174
+#: ItemDefinitionItem.csv:175
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:175
+#: ItemDefinitionItem.csv:176
 msgctxt "Instruction Tool"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1bdec1201617639bb6662aa30b8c8341"
 msgstr "指導用具"
 
-#: ItemDefinitionItem.csv:175
+#: ItemDefinitionItem.csv:176
 msgctxt "An instruction tool awarded after completing Nikaidou's Class"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|c93318129dec7696575bcbe0550e187f"
 msgstr "二階堂指導完後留下的指導用的工具"
 
-#: ItemDefinitionItem.csv:175
+#: ItemDefinitionItem.csv:176
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:176
+#: ItemDefinitionItem.csv:177
 msgctxt "Glasses"
 msgid "sheet|ItemDefinitionItem.csv|name_en|0f461e64d283177a15179b180fed353d"
 msgstr "眼鏡"
 
-#: ItemDefinitionItem.csv:176
+#: ItemDefinitionItem.csv:177
 msgctxt "A pair of glasses  awarded after completing Nikaidou's Class"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|932f8464bf545a591493b9fa6c27eb7f"
 msgstr "二階堂指導完後留下的紀念品-眼鏡"
 
-#: ItemDefinitionItem.csv:176
+#: ItemDefinitionItem.csv:177
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:177
+#: ItemDefinitionItem.csv:178
 msgctxt "Wind Chimes"
 msgid "sheet|ItemDefinitionItem.csv|name_en|65691b9c0d0319a2c527e5b76a44826d"
 msgstr "風鈴"
 
-#: ItemDefinitionItem.csv:177
+#: ItemDefinitionItem.csv:178
 msgctxt "Ichihime asked Nadeshiko to hang this wind chimes in the shrine"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|104327abb15e36b27621f8bfe0a2babe"
 msgstr "是一姬拜託撫子掛在神社的風鈴喵~"
 
-#: ItemDefinitionItem.csv:177
+#: ItemDefinitionItem.csv:178
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:178
+#: ItemDefinitionItem.csv:179
 msgctxt "Ice Cream"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4905f67693c1e057a2d9b8c9de8f863b"
 msgstr "冰棒"
 
-#: ItemDefinitionItem.csv:178
+#: ItemDefinitionItem.csv:179
 msgctxt "Let's have some ice cream!!!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|ca3bc9e2a0f8c657c72465671ad0986b"
 msgstr "來吃冰棒！！！"
 
-#: ItemDefinitionItem.csv:178
+#: ItemDefinitionItem.csv:179
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:179
+#: ItemDefinitionItem.csv:180
 msgctxt "Watermelon"
 msgid "sheet|ItemDefinitionItem.csv|name_en|9aa80c57478c55b3bcb34290d248d364"
 msgstr "西瓜"
 
-#: ItemDefinitionItem.csv:179
+#: ItemDefinitionItem.csv:180
 msgctxt ""
 "Watermelon slices prepared by Kujou, the word says they are prepared for "
 "Mikami"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|13e16c2e613989b966236f8bd3e37e7e"
 msgstr "九條璃雨剛切好的西瓜，據說是為千織準備的。"
 
-#: ItemDefinitionItem.csv:179
+#: ItemDefinitionItem.csv:180
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:180
+#: ItemDefinitionItem.csv:181
 msgctxt "Osmanthus Mead"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d168135e467782a2ea5027760dc5a984"
 msgstr "桂花酒"
 
-#: ItemDefinitionItem.csv:180
+#: ItemDefinitionItem.csv:181
 msgctxt ""
 "An item used for redeeming gifts from Moon Palace. It says 'No Underage "
 "Drinking' on its bottom, but Ichihime sips it anyway. “Sipping is not "
@@ -30368,18 +30384,18 @@ msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_en|1bded4a5038a04e2ba6dd6d57e118dd8"
 msgstr "用於蟾宮商店兌換獎勵。「雖然上面寫著『未成年禁止飲用』，可是一姬應該算成年了吧，就小小喝一口好了，喵嗚~」"
 
-#: ItemDefinitionItem.csv:180
+#: ItemDefinitionItem.csv:181
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:181
+#: ItemDefinitionItem.csv:182
 msgctxt "Mooncake"
 msgid "sheet|ItemDefinitionItem.csv|name_en|50e74030067f097de636fdb9ea0a5ce0"
 msgstr "五仁月餅"
 
-#: ItemDefinitionItem.csv:181
+#: ItemDefinitionItem.csv:182
 msgctxt ""
 "An item used for redeeming gifts from Moon Palace. Please keep Ichihime busy"
 " for the period that you are stocking these mooncakes."
@@ -30387,837 +30403,837 @@ msgid "sheet|ItemDefinitionItem.csv|desc_en|bbdef14837494bb3deefe860808220ce"
 msgstr ""
 "用於蟾宮商店兌換獎勵。「魂天神社出品的五仁月餅，裡面有黃魚乾、鯽魚乾、鯉魚乾、鱈魚乾、魷魚乾……喵？美樹說的五仁月餅只要有五種餡就可以了喵，難道不是嗎？」"
 
-#: ItemDefinitionItem.csv:181
+#: ItemDefinitionItem.csv:182
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:182
+#: ItemDefinitionItem.csv:183
 msgctxt "Pumpkin Witch"
 msgid "sheet|ItemDefinitionItem.csv|name_en|527377dc614781d79db1ab059aba5866"
 msgstr "魔女南瓜"
 
-#: ItemDefinitionItem.csv:182
+#: ItemDefinitionItem.csv:183
 msgctxt "Halloween Token\"Nobody can escape my witchcraft~\" (Noboday: ???)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3688543d9d3832d6b1e3fd617cd65eb0"
 msgstr "萬聖節活動貨幣，「沒有人可以從我的魔法中逃脫~」(沒有人：？？？)"
 
-#: ItemDefinitionItem.csv:182
+#: ItemDefinitionItem.csv:183
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:183
+#: ItemDefinitionItem.csv:184
 msgctxt "Candies"
 msgid "sheet|ItemDefinitionItem.csv|name_en|139148c3293387bb780412df0e4c3d94"
 msgstr "搗蛋糖果"
 
-#: ItemDefinitionItem.csv:183
+#: ItemDefinitionItem.csv:184
 msgctxt ""
 "Halloween Token“Hek, hek, hek, wanna have a guess what is wrapped in this "
 "colorful candy paper?”"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|f83ffddb7e4bdaac9970439da079aa24"
 msgstr "萬聖節活動貨幣，「咦嘻嘻~要不要猜一猜這華麗的糖紙裡到底包的是什麼呢？」"
 
-#: ItemDefinitionItem.csv:183
+#: ItemDefinitionItem.csv:184
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:184
+#: ItemDefinitionItem.csv:185
 msgctxt "Rookie Ghost"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e29d220c7bcf4d507a3071ae09c6472e"
 msgstr "新手幽靈"
 
-#: ItemDefinitionItem.csv:184
+#: ItemDefinitionItem.csv:185
 msgctxt "Halloween Token \"Grrrr~ I am the scariest one!\""
 msgid "sheet|ItemDefinitionItem.csv|desc_en|784d412aec069df53c99331a53972ac1"
 msgstr "萬聖節活動貨幣，「嗷嗚~我超兇！」"
 
-#: ItemDefinitionItem.csv:184
+#: ItemDefinitionItem.csv:185
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:185
+#: ItemDefinitionItem.csv:186
 msgctxt "Kagami Mochi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|00f1e8f0b7e5ce4183405694fd92c384"
 msgstr "鏡餅"
 
-#: ItemDefinitionItem.csv:185
+#: ItemDefinitionItem.csv:186
 msgctxt ""
 "The Kagami Mochi is an offering prepared for the God of New Year. Make sure "
 "it is placed outside Ichihime's sight, otherwise she will steal it away."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|f6bce125089a601686b694a46a4e1706"
 msgstr "新年慶典活動貨幣，鏡餅是為歲神準備的憑依物，請放在一姬看不到的位置，以防被偷吃。"
 
-#: ItemDefinitionItem.csv:185
+#: ItemDefinitionItem.csv:186
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:186
+#: ItemDefinitionItem.csv:187
 msgctxt "Straw Ring"
 msgid "sheet|ItemDefinitionItem.csv|name_en|eadafe6cb4ab37ea1c0e4f08e40e401f"
 msgstr "稻草圈"
 
-#: ItemDefinitionItem.csv:186
+#: ItemDefinitionItem.csv:187
 msgctxt ""
 "An item used to separate the God's realm from the outside realm. Put it in "
 "the entryway, and you will be protected by the God in the New Year."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d1b36681dbebf9aaef3ce35d90d03f81"
 msgstr "新年慶典活動貨幣，用來分隔神界與外界的物品，擺放在玄關處，可以在新的一年裡得到神的庇護。"
 
-#: ItemDefinitionItem.csv:186
+#: ItemDefinitionItem.csv:187
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:187
+#: ItemDefinitionItem.csv:188
 msgctxt "测试骰子"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4090287f29e8f04be72099c73127e4d5"
 msgstr "测试骰子"
 
-#: ItemDefinitionItem.csv:187
+#: ItemDefinitionItem.csv:188
 msgctxt "测试用骰子，未实装"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|b8b0b5e406c5a6c03f156d35694fef91"
 msgstr "测试用骰子，未实装"
 
-#: ItemDefinitionItem.csv:187
+#: ItemDefinitionItem.csv:188
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:188
+#: ItemDefinitionItem.csv:189
 msgctxt "Ruler"
 msgid "sheet|ItemDefinitionItem.csv|name_en|eada4723af6f51cf2391d85b5fde49b0"
 msgstr "量尺"
 
-#: ItemDefinitionItem.csv:188
+#: ItemDefinitionItem.csv:189
 msgctxt ""
 "You are already a mature ruler and should learn to solve Math problem "
 "yourself. Don't you think so?"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|fcd6083698292cef7b746f865bf1073c"
 msgstr "開學作戰活動貨幣，你已經是一把成熟的量尺了，該學會自己做數學題了。"
 
-#: ItemDefinitionItem.csv:188
+#: ItemDefinitionItem.csv:189
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:189
+#: ItemDefinitionItem.csv:190
 msgctxt "Propelling Pencil"
 msgid "sheet|ItemDefinitionItem.csv|name_en|ce667956c1ece172286a05034d5a2e7f"
 msgstr "自動鉛筆"
 
-#: ItemDefinitionItem.csv:189
+#: ItemDefinitionItem.csv:190
 msgctxt ""
 "A propelling pencil produced by \"Catfood Studio\". Every lead of it can be "
 "used for almost one year."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|0fc4548968f2bbf4355fbc4177f9f0c7"
 msgstr "開學作戰活動貨幣，貓糧工作室春季限量自動鉛筆，每支筆芯使用壽命長達一年。"
 
-#: ItemDefinitionItem.csv:189
+#: ItemDefinitionItem.csv:190
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:190
+#: ItemDefinitionItem.csv:191
 msgctxt "Note Book"
 msgid "sheet|ItemDefinitionItem.csv|name_en|25975f980e3f3eedd6f8e69f1cc690f5"
 msgstr "筆記本"
 
-#: ItemDefinitionItem.csv:190
+#: ItemDefinitionItem.csv:191
 msgctxt ""
 "A note book which is used to record daily life of Jyanshi. Wait... isn't it "
 "used to take notes?"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|29c93088c739336364461b69ca9da79b"
 msgstr "開學作戰活動貨幣，用來記錄雀士生活的手帳本……咦？居然不是用來記錄學習筆記的嗎？"
 
-#: ItemDefinitionItem.csv:190
+#: ItemDefinitionItem.csv:191
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:191
+#: ItemDefinitionItem.csv:192
 msgctxt "dice"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f91614c13b0e6659f9b16a1d6f22f2db"
 msgstr "骰子"
 
-#: ItemDefinitionItem.csv:191
+#: ItemDefinitionItem.csv:192
 msgctxt "An event-limited item. Use it to advance on the map."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|649ba2de8bb4ea3e9e54332f86f8def8"
 msgstr "活動限定道具，可在地圖上前進使用。"
 
-#: ItemDefinitionItem.csv:191
+#: ItemDefinitionItem.csv:192
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:192
+#: ItemDefinitionItem.csv:193
 msgctxt "remote-control dice"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a16b252f2733a9cb3144997ca455abbc"
 msgstr "遙控骰子"
 
-#: ItemDefinitionItem.csv:192
+#: ItemDefinitionItem.csv:193
 msgctxt ""
 "An event-limited item. Use it to select the number of steps you'd like to "
 "move on the map."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|ed20fee1ec882af6c24e24a3083644c5"
 msgstr "活動限定道具，可自選點數在地圖上前進使用。"
 
-#: ItemDefinitionItem.csv:192
+#: ItemDefinitionItem.csv:193
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:193
+#: ItemDefinitionItem.csv:194
 msgctxt "Red bean rice dumpling"
 msgid "sheet|ItemDefinitionItem.csv|name_en|28dedc1804098625154d00debc465f6e"
 msgstr "豆沙粽"
 
-#: ItemDefinitionItem.csv:193
+#: ItemDefinitionItem.csv:194
 msgctxt "Sweet red bean rice dumpling, yummy!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|7bd8e7d980cdc09a09b269ad0b04eaed"
 msgstr "端午節活動貨幣，香甜可口的豆沙粽，好吃！"
 
-#: ItemDefinitionItem.csv:193
+#: ItemDefinitionItem.csv:194
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:194
+#: ItemDefinitionItem.csv:195
 msgctxt "Multi-grain rice dumpling"
 msgid "sheet|ItemDefinitionItem.csv|name_en|5bba8a03cd8d3301d4ea70692745f341"
 msgstr "雜糧粽"
 
-#: ItemDefinitionItem.csv:194
+#: ItemDefinitionItem.csv:195
 msgctxt "Healthy multi-grain rice dumpling, yummy!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|29c42ce8e05a875e5cbd6087d51f91f6"
 msgstr "端午節活動貨幣，營養豐富的雜糧粽，好吃！"
 
-#: ItemDefinitionItem.csv:194
+#: ItemDefinitionItem.csv:195
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:195
+#: ItemDefinitionItem.csv:196
 msgctxt "Vitellus rice dumpling"
 msgid "sheet|ItemDefinitionItem.csv|name_en|6371b13b1497c7077ed4771a8a332829"
 msgstr "蛋黃粽"
 
-#: ItemDefinitionItem.csv:195
+#: ItemDefinitionItem.csv:196
 msgctxt "Delicious egg yolk rice dumpling, yummy!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|ac9e84ce8c3f60c368ac5c97f9d3a31d"
 msgstr "端午節活動貨幣，醇厚濃郁的蛋黃粽，好吃！"
 
-#: ItemDefinitionItem.csv:195
+#: ItemDefinitionItem.csv:196
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:196
+#: ItemDefinitionItem.csv:197
 msgctxt "Trumpet"
 msgid "sheet|ItemDefinitionItem.csv|name_en|142e3acd3610d6c670ac3f74b36347c6"
 msgstr "喇叭"
 
-#: ItemDefinitionItem.csv:196
+#: ItemDefinitionItem.csv:197
 msgctxt ""
 "A Sports Day event token. When cheerleaders blow this trumpet together, the "
 "sound can be very loud."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|7be182e6fe3bf3c53ce8efd2bd0a51b9"
 msgstr "體育祭活動貨幣，在應援隊員齊吹時聲音震天的喇叭。"
 
-#: ItemDefinitionItem.csv:196
+#: ItemDefinitionItem.csv:197
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:197
+#: ItemDefinitionItem.csv:198
 msgctxt "Pom-pom"
 msgid "sheet|ItemDefinitionItem.csv|name_en|c2326b58ae243a1a0135449bb2c29275"
 msgstr "花球"
 
-#: ItemDefinitionItem.csv:197
+#: ItemDefinitionItem.csv:198
 msgctxt ""
 "A Sports Day event token. This pom-pom flies around in the hands of "
 "cheerleaders."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|6dc7cf883f64eb37e1d6ab14dee27a4c"
 msgstr "體育祭活動貨幣，在啦啦隊員手中上下飛舞的花球。"
 
-#: ItemDefinitionItem.csv:197
+#: ItemDefinitionItem.csv:198
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:198
+#: ItemDefinitionItem.csv:199
 msgctxt "Cool Ticket"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a05a69e36d6d0b82dbb90e815ecffb0f"
 msgstr "夏日券"
 
-#: ItemDefinitionItem.csv:198
+#: ItemDefinitionItem.csv:199
 msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:198
+#: ItemDefinitionItem.csv:199
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:199
+#: ItemDefinitionItem.csv:200
 msgctxt "Ichihime Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|724df3a2662f650c0438c39135c3a022"
 msgstr "一姬春節表情(限時)"
 
-#: ItemDefinitionItem.csv:199
+#: ItemDefinitionItem.csv:200
 msgctxt ""
 "Unlocks Ichihime's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|f0b483c454e5cb72800a1d4b9018ac14"
 msgstr "解鎖一姬的春節限時表情。該表情將在2019年2月28日5:00過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:199
+#: ItemDefinitionItem.csv:200
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:200
+#: ItemDefinitionItem.csv:201
 msgctxt "Miki Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d8d1987addc28172f55e1fed202449ea"
 msgstr "美樹春節表情(限時)"
 
-#: ItemDefinitionItem.csv:200
+#: ItemDefinitionItem.csv:201
 msgctxt ""
 "Unlocks Nikaido Miki's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|4b8434ce37e8b337b954451e5bd99e27"
 msgstr "解鎖二階堂美樹的春節限時表情。該表情將在2019年2月28日5:00過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:200
+#: ItemDefinitionItem.csv:201
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:201
+#: ItemDefinitionItem.csv:202
 msgctxt "Chiori Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|775bfe1e83ca81168c199ce2b94e39ed"
 msgstr "千織春節表情(限時)"
 
-#: ItemDefinitionItem.csv:201
+#: ItemDefinitionItem.csv:202
 msgctxt ""
 "Unlocks Mikami Chiori's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|14d2bb520809b7c67f52ca82e382ece1"
 msgstr "解鎖三上千織的春節限時表情。該表情將在2019年2月28日5:00過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:201
+#: ItemDefinitionItem.csv:202
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:202
+#: ItemDefinitionItem.csv:203
 msgctxt "Aihara Mai Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a1ece7b59271bb60f346ad841c6691ab"
 msgstr "相原舞春節表情(限時)"
 
-#: ItemDefinitionItem.csv:202
+#: ItemDefinitionItem.csv:203
 msgctxt ""
 "Unlocks Aihara Mai's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|fa2f4a106a5ba5d0da4ff99eef256c11"
 msgstr "解鎖相原舞的春節限時表情。該表情將在2019年2月28日5:00過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:202
+#: ItemDefinitionItem.csv:203
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:203
+#: ItemDefinitionItem.csv:204
 msgctxt "Kana Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f6d3cc1de1238c9bc76eb8a6a9f8f9e1"
 msgstr "佳奈春節表情(限時)"
 
-#: ItemDefinitionItem.csv:203
+#: ItemDefinitionItem.csv:204
 msgctxt ""
 "Unlocks Fujita Kana's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|f60a6b7e88d6bd1ac4e70d1d3d4021bb"
 msgstr "解鎖藤田佳奈的春節限時表情。該表情將在2019年2月28日5:00過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:203
+#: ItemDefinitionItem.csv:204
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:204
+#: ItemDefinitionItem.csv:205
 msgctxt "Nadeshiko Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e560a61363b2def3ab8b0066312ac233"
 msgstr "撫子春節表情(限時)"
 
-#: ItemDefinitionItem.csv:204
+#: ItemDefinitionItem.csv:205
 msgctxt ""
 "Unlocks Nadeshiko's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|5268915df51ec6a93599c999d431ed5c"
 msgstr "解鎖撫子的春節限時表情。該表情將在2019年2月28日5:00過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:204
+#: ItemDefinitionItem.csv:205
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:205
+#: ItemDefinitionItem.csv:206
 msgctxt "Yui Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|837118daf2fa59e84b25f908d4932e92"
 msgstr "唯春節表情(限時)"
 
-#: ItemDefinitionItem.csv:205
+#: ItemDefinitionItem.csv:206
 msgctxt ""
 "Unlocks Yagi Yui's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|fc1c600ff8e1750a8d8d41dfaa7016d0"
 msgstr "解鎖八木唯的春節限時表情。該表情將在2019年2月28日5:00過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:205
+#: ItemDefinitionItem.csv:206
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:206
+#: ItemDefinitionItem.csv:207
 msgctxt "Riu Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1e09915958e046859db9c1b580b792f6"
 msgstr "璃雨春節表情(限時)"
 
-#: ItemDefinitionItem.csv:206
+#: ItemDefinitionItem.csv:207
 msgctxt ""
 "Unlocks Kujou Riu's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d47326828e3f6bc8dd5be81fe766a1d5"
 msgstr "解鎖九條璃雨的春節限時表情。該表情將在2019年2月28日5:00過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:206
+#: ItemDefinitionItem.csv:207
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:207
+#: ItemDefinitionItem.csv:208
 msgctxt "Spring Exclusive - Ichihime"
 msgid "sheet|ItemDefinitionItem.csv|name_en|5b43ce37b0d1c169a4f28377ee9de6e5"
 msgstr "一姬春節表情(限時)"
 
-#: ItemDefinitionItem.csv:207
+#: ItemDefinitionItem.csv:208
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖一姬的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:207
+#: ItemDefinitionItem.csv:208
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:208
+#: ItemDefinitionItem.csv:209
 msgctxt "Spring Exclusive - Miki Nikaidou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f1f992997462a6870f2d470df19a7032"
 msgstr "美樹春節表情(限時)"
 
-#: ItemDefinitionItem.csv:208
+#: ItemDefinitionItem.csv:209
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖美樹的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:208
+#: ItemDefinitionItem.csv:209
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:209
+#: ItemDefinitionItem.csv:210
 msgctxt "Spring Exclusive - Kana Fujita"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7daeef1135de8785d6cf7546701e25f1"
 msgstr "佳奈春節表情(限時)"
 
-#: ItemDefinitionItem.csv:209
+#: ItemDefinitionItem.csv:210
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖佳奈的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:209
+#: ItemDefinitionItem.csv:210
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:210
+#: ItemDefinitionItem.csv:211
 msgctxt "Spring Exclusive - Chiori Mikami"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d5132bfb23775265b231b3222f6d10ab"
 msgstr "千織春節表情(限時)"
 
-#: ItemDefinitionItem.csv:210
+#: ItemDefinitionItem.csv:211
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖千織的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:210
+#: ItemDefinitionItem.csv:211
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:211
+#: ItemDefinitionItem.csv:212
 msgctxt "Spring Exclusive - Mai Aihara"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e5ba197dca3c2f772f66afce683f17dd"
 msgstr "相原舞春節表情(限時)"
 
-#: ItemDefinitionItem.csv:211
+#: ItemDefinitionItem.csv:212
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖相原舞的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:211
+#: ItemDefinitionItem.csv:212
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:212
+#: ItemDefinitionItem.csv:213
 msgctxt "Spring Exclusive - Nadeshiko"
 msgid "sheet|ItemDefinitionItem.csv|name_en|3526572d0816f075d24663cd78ac74ab"
 msgstr "撫子春節表情(限時)"
 
-#: ItemDefinitionItem.csv:212
+#: ItemDefinitionItem.csv:213
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖撫子的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:212
+#: ItemDefinitionItem.csv:213
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:213
+#: ItemDefinitionItem.csv:214
 msgctxt "Spring Exclusive - Yui Yagi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|63a646103ae7c2d6c1703fa4bb68ab30"
 msgstr "唯春節表情(限時)"
 
-#: ItemDefinitionItem.csv:213
+#: ItemDefinitionItem.csv:214
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖唯的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:213
+#: ItemDefinitionItem.csv:214
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:214
+#: ItemDefinitionItem.csv:215
 msgctxt "Spring Exclusive - Riu Kujou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f7f034f38105e02405ae7d2d02999d6b"
 msgstr "璃雨春節表情(限時)"
 
-#: ItemDefinitionItem.csv:214
+#: ItemDefinitionItem.csv:215
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖璃雨的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:214
+#: ItemDefinitionItem.csv:215
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:215
+#: ItemDefinitionItem.csv:216
 msgctxt "Spring Exclusive - Xenia"
 msgid "sheet|ItemDefinitionItem.csv|name_en|03f7fc3b68d60c09a01325e88ce9d288"
 msgstr "澤尼婭春節表情(限時)"
 
-#: ItemDefinitionItem.csv:215
+#: ItemDefinitionItem.csv:216
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖澤尼婭的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:215
+#: ItemDefinitionItem.csv:216
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:216
+#: ItemDefinitionItem.csv:217
 msgctxt "Spring Exclusive - Kaavi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4a17c9100b2f7540b952f5b02852cbd9"
 msgstr "卡維春節表情(限時)"
 
-#: ItemDefinitionItem.csv:216
+#: ItemDefinitionItem.csv:217
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖卡維的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:216
+#: ItemDefinitionItem.csv:217
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:217
+#: ItemDefinitionItem.csv:218
 msgctxt "Spring Exclusive - Natsuki Shinomiya"
 msgid "sheet|ItemDefinitionItem.csv|name_en|916acd0b9c841b9e07995fc08576ca54"
 msgstr "夏生春節表情(限時)"
 
-#: ItemDefinitionItem.csv:217
+#: ItemDefinitionItem.csv:218
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖夏生的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:217
+#: ItemDefinitionItem.csv:218
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:218
+#: ItemDefinitionItem.csv:219
 msgctxt "Spring Exclusive - Wanjirou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|0a26a934872727bb1c9a8bf6a091234b"
 msgstr "汪次郎春節表情(限時)"
 
-#: ItemDefinitionItem.csv:218
+#: ItemDefinitionItem.csv:219
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖汪次郎的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:218
+#: ItemDefinitionItem.csv:219
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:219
+#: ItemDefinitionItem.csv:220
 msgctxt "Spring Exclusive - Sora Ichinose"
 msgid "sheet|ItemDefinitionItem.csv|name_en|2c14f0fa9f98fed16764e67fa1155749"
 msgstr "空春節表情(限時)"
 
-#: ItemDefinitionItem.csv:219
+#: ItemDefinitionItem.csv:220
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖空的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:219
+#: ItemDefinitionItem.csv:220
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:220
+#: ItemDefinitionItem.csv:221
 msgctxt "Spring Exclusive - Hideki Akechi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|bd6c42b5e2b6cb68a8a6740558611e29"
 msgstr "英樹春節表情(限時)"
 
-#: ItemDefinitionItem.csv:220
+#: ItemDefinitionItem.csv:221
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖英樹的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:220
+#: ItemDefinitionItem.csv:221
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:221
+#: ItemDefinitionItem.csv:222
 msgctxt "Spring Exclusive - Keikumusume"
 msgid "sheet|ItemDefinitionItem.csv|name_en|8d21bde96f6caf6b185ec846133f4dd5"
 msgstr "輕庫娘春節表情(限時)"
 
-#: ItemDefinitionItem.csv:221
+#: ItemDefinitionItem.csv:222
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖輕庫娘的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:221
+#: ItemDefinitionItem.csv:222
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:222
+#: ItemDefinitionItem.csv:223
 msgctxt "Spring Exclusive - Sara"
 msgid "sheet|ItemDefinitionItem.csv|name_en|11c77d3c733b73cfec45ec2608577832"
 msgstr "莎拉春節表情(限時)"
 
-#: ItemDefinitionItem.csv:222
+#: ItemDefinitionItem.csv:223
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖莎拉的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:222
+#: ItemDefinitionItem.csv:223
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:223
+#: ItemDefinitionItem.csv:224
 msgctxt "Spring Exclusive - Hana Ninomiya"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1d892a6654b025eb275e0173726c2882"
 msgstr "花春節表情(限時)"
 
-#: ItemDefinitionItem.csv:223
+#: ItemDefinitionItem.csv:224
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖花的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:223
+#: ItemDefinitionItem.csv:224
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:224
+#: ItemDefinitionItem.csv:225
 msgctxt "Spring Exclusive - Nana Shiraishi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|22308b8445e36897a6eec06db5c3cca6"
 msgstr "奈奈春節表情(限時)"
 
-#: ItemDefinitionItem.csv:224
+#: ItemDefinitionItem.csv:225
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖奈奈的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:224
+#: ItemDefinitionItem.csv:225
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:225
+#: ItemDefinitionItem.csv:226
 msgctxt "Spring Exclusive - Hinata Takanashi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|df0ed43f659122ef9afe6fcb223e28da"
 msgstr "雛田春節表情(限時)"
 
-#: ItemDefinitionItem.csv:225
+#: ItemDefinitionItem.csv:226
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖雛田的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:225
+#: ItemDefinitionItem.csv:226
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:226
+#: ItemDefinitionItem.csv:227
 msgctxt "Spring Exclusive - Haruna Igarashi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d5b0795f64d18c3953c512516f7333ed"
 msgstr "陽菜春節表情(限時)"
 
-#: ItemDefinitionItem.csv:226
+#: ItemDefinitionItem.csv:227
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖陽菜的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:226
+#: ItemDefinitionItem.csv:227
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:227
+#: ItemDefinitionItem.csv:228
 msgctxt "Spring Exclusive - Anju Suzumiya"
 msgid "sheet|ItemDefinitionItem.csv|name_en|47acf2b222660d0319923628e8fcbda8"
 msgstr "杏樹春節表情(限時)"
 
-#: ItemDefinitionItem.csv:227
+#: ItemDefinitionItem.csv:228
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖杏樹的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:227
+#: ItemDefinitionItem.csv:228
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:228
+#: ItemDefinitionItem.csv:229
 msgctxt "Spring Exclusive - Joseph"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a7a20a831d57732506b04f8671a17df9"
 msgstr "約瑟夫春節表情(限時)"
 
-#: ItemDefinitionItem.csv:228
+#: ItemDefinitionItem.csv:229
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖約瑟夫的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:228
+#: ItemDefinitionItem.csv:229
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:229
+#: ItemDefinitionItem.csv:230
 msgctxt "Spring Exclusive - Osamu Saitou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|73fb7c274e4f492df8f7103e7513d367"
 msgstr "齋藤治春節表情(限時)"
 
-#: ItemDefinitionItem.csv:229
+#: ItemDefinitionItem.csv:230
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "解鎖齋藤治的春節限時表情。該表情將在2020年2月29日4:59過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:229
+#: ItemDefinitionItem.csv:230
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:230
+#: ItemDefinitionItem.csv:231
 msgctxt "Mooncake Emoji"
 msgid "sheet|ItemDefinitionItem.csv|name_en|74710a80763ca656a308e13a9f92a443"
 msgstr "吃月餅（限時表情）"
 
-#: ItemDefinitionItem.csv:230
+#: ItemDefinitionItem.csv:231
 msgctxt ""
 "Unlocks Mooncake limited-time Emoji. It will expire at 9/27 2:00 P.M. (PDT)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|cc547f435d357712338a535c02eb50fb"
 msgstr "解鎖吃月餅限時表情。該表情將在2019年9月28日5:00過期，過期以後將無法繼續使用。「那個人竟然喜歡吃這種月餅喵？」"
 
-#: ItemDefinitionItem.csv:230
+#: ItemDefinitionItem.csv:231
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:231
+#: ItemDefinitionItem.csv:232
 msgctxt "Firework Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f9bc5284e8602a38cd329a6d7aaa382"
 msgstr "喵喵禮花炮（限時表情）"
 
-#: ItemDefinitionItem.csv:231
+#: ItemDefinitionItem.csv:232
 msgctxt ""
 "A limited-time emoji for celebrating victorious. Available until 10/30/2019 "
 "2:00 P.M. (PDT)"
@@ -31225,153 +31241,153 @@ msgid "sheet|ItemDefinitionItem.csv|desc_en|0f30c0814bb93d1eb6999ddc51fd2c6c"
 msgstr ""
 "解鎖喵喵禮花炮限時表情。該表情將在2019年10月31日5:00過期，過期以後將無法繼續使用。來自貓糧工作室限時供應的禮花炮，慶祝勝利專用禮花~~"
 
-#: ItemDefinitionItem.csv:231
+#: ItemDefinitionItem.csv:232
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:232
+#: ItemDefinitionItem.csv:233
 msgctxt "Firework Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f9bc5284e8602a38cd329a6d7aaa382"
 msgstr "喵喵禮花炮"
 
-#: ItemDefinitionItem.csv:232
+#: ItemDefinitionItem.csv:233
 msgctxt "A limited-time emoji. Available until 11/09/2019 2:00 P.M. (PDT)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|93edfed0ab70fe860a6ea082cd790a02"
 msgstr ""
 
-#: ItemDefinitionItem.csv:232
+#: ItemDefinitionItem.csv:233
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:233
+#: ItemDefinitionItem.csv:234
 msgctxt "SURPRISE Emoji(Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|63b6b4e19db6af451d2367262d82dc89"
 msgstr "薩普萊斯"
 
-#: ItemDefinitionItem.csv:233
+#: ItemDefinitionItem.csv:234
 msgctxt ""
 "A limited-time emoji for Halloween 2019. Available until 12/11/2019 2:00 "
 "P.M. (PDT)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3882de3f97d52f0fc9fa45fe2cd18c54"
 msgstr "解鎖薩普萊斯限時表情。該表情將在2019年12月12日5:00過期，過期以後將無法繼續使用。“喵~驚不驚喜？意不意外？”"
 
-#: ItemDefinitionItem.csv:233
+#: ItemDefinitionItem.csv:234
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:234
+#: ItemDefinitionItem.csv:235
 msgctxt "Firework Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f9bc5284e8602a38cd329a6d7aaa382"
 msgstr "喵喵禮花炮"
 
-#: ItemDefinitionItem.csv:234
+#: ItemDefinitionItem.csv:235
 msgctxt "A limited-time emoji.Available until 12/26/2019 2:00 P.M. (UTC-7)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|7126b28b08645e77bcd8de63ccdb2d7f"
 msgstr "解鎖喵喵禮花炮限時表情。該表情將在2019年12月27日5:00過期，過期以後將無法繼續使用。"
 
-#: ItemDefinitionItem.csv:234
+#: ItemDefinitionItem.csv:235
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:235
+#: ItemDefinitionItem.csv:236
 msgctxt "手-默认"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f3708f0158cf66b3fbe0b55d998a602"
 msgstr "手-預設"
 
-#: ItemDefinitionItem.csv:235
+#: ItemDefinitionItem.csv:236
 msgctxt "默认的手"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|76920ca2e27820f7a6be95710a88cd1b"
 msgstr "預設的手"
 
-#: ItemDefinitionItem.csv:235
+#: ItemDefinitionItem.csv:236
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:236
+#: ItemDefinitionItem.csv:237
 msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr "男性手"
 
-#: ItemDefinitionItem.csv:236
+#: ItemDefinitionItem.csv:237
 msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:236
+#: ItemDefinitionItem.csv:237
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:237
+#: ItemDefinitionItem.csv:238
 msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr "汪次郎的手"
 
-#: ItemDefinitionItem.csv:237
+#: ItemDefinitionItem.csv:238
 msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:237
+#: ItemDefinitionItem.csv:238
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:238
+#: ItemDefinitionItem.csv:239
 msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr "開箱手選"
 
-#: ItemDefinitionItem.csv:238
+#: ItemDefinitionItem.csv:239
 msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:238
+#: ItemDefinitionItem.csv:239
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:239
+#: ItemDefinitionItem.csv:240
 msgctxt "Portrait Frame - Sprout"
 msgid "sheet|ItemDefinitionItem.csv|name_en|ded77b66c0d9137a45ab70974fa5f93e"
 msgstr "頭像框-豆苗"
 
-#: ItemDefinitionItem.csv:239
+#: ItemDefinitionItem.csv:240
 msgctxt "A sprout to become something unknown"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|8e1ff5c8847adc11b352d5bca7f6ea0b"
 msgstr "頭像框造型(點選宿舍-造型更換)。春天種下一顆小豆苗，等到秋天的時候……咦？我的小豆苗呢？"
 
-#: ItemDefinitionItem.csv:239
+#: ItemDefinitionItem.csv:240
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:240
+#: ItemDefinitionItem.csv:241
 msgctxt "限时称号测试用"
 msgid "sheet|ItemDefinitionItem.csv|name_en|94ae1602d51a19aed87df8babb1c97e5"
 msgstr "限时称号测试用"
 
-#: ItemDefinitionItem.csv:240
+#: ItemDefinitionItem.csv:241
 msgctxt "限时称号测试用"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|94ae1602d51a19aed87df8babb1c97e5"
 msgstr "限时称号测试用"
 
-#: ItemDefinitionItem.csv:240
+#: ItemDefinitionItem.csv:241
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
