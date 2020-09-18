@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-09-08 14:23+0000\n"
+"PO-Revision-Date: 2020-09-18 02:39+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -60442,7 +60442,7 @@ msgstr "경험"
 #: translate_sheet.csv:1974
 msgctxt "Date"
 msgid "sheet|SpotSpot.csv|name_en|44749712dbec183e983dcd78a7736c41"
-msgstr "날짜"
+msgstr "데이트"
 
 #: translate_sheet.csv:1973
 msgctxt "Dinner"
@@ -60655,7 +60655,7 @@ msgstr "당신은 이미 스토리 보상을 수령했습니다."
 #: translate_sheet.csv:938
 msgctxt "Please finish watching the story to receive the reward."
 msgid "sheet|InfoError.csv|en|b4e1f071c0e59dc4036f1f9cd1384aba"
-msgstr "보상을 받기 위해 스토리를 모두 읽어주세요."
+msgstr "보상을 받으려면 스토리를 모두 읽어주세요."
 
 #: translate_sheet.csv:937
 msgctxt "You have not bonded with this Jyanshi."
@@ -61651,3 +61651,32 @@ msgid ""
 "json-"
 "xinshouyindao|xinshouyindao_en.json|course1|name|f82699b7e09682c216a9f9fefb44642b"
 msgstr "이치히메"
+
+#: ItemDefinitionCharacter.csv:32
+msgctxt "Sweets, animals"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_hobby_en|1df2a6556ecfca29b10c16b7f632b4f2"
+msgstr "디저트, 동물"
+
+#: ItemDefinitionCharacter.csv:31
+msgctxt "Physics, homework, classic arts"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_hobby_en|fb8f1424743fc319f0eb4e451bd4aa6a"
+msgstr "물리학, 집안일, 고전회화"
+
+#: ItemDefinitionCharacter.csv:30
+msgctxt "Gems, likes pranking others"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_hobby_en|88b8f2aa4cca84cf3aefd08f37626799"
+msgstr "보석, 다른사람 놀리기"
+
+#: ItemDefinitionCharacter.csv:29
+msgctxt "Enjoying makeup, singing in karaoke"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_hobby_en|c1fda64c330eb2bbed6ce0f6a99fb148"
+msgstr "화장, 노래방"
+
+#: ui_en.json
+msgctxt "Weekly Reward"
+msgid "json|lobby/shilian/shilian|3|2|4|1|266f1b24fe0844f7e1f7f180c23a1067"
+msgstr "주간 보상"
