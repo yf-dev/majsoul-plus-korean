@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-09-28 06:06:08\n"
+"PO-Revision-Date: 2020-09-28 12:06:05\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -26675,14 +26675,14 @@ msgid "sheet|InfoError.csv|en|6efb1dcb57e347c3d3a2d61320450b22"
 msgstr "In-game recharge is temporarily unavailable, sorry(EN)"
 
 #: InfoError.csv:155
-msgctxt "Unknown error. Please try to refresh the page.(Age)"
-msgid "sheet|InfoError.csv|en|2970472dc1cc4d1daccfef8ecbf5bf1e"
-msgstr "Unknown error. Please try to refresh the page.(Age)"
-
-#: InfoError.csv:156
 msgctxt ""
 msgid "sheet|InfoError.csv|en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
+
+#: InfoError.csv:156
+msgctxt "Unknown error. Please try to refresh the page.(Age)"
+msgid "sheet|InfoError.csv|en|2970472dc1cc4d1daccfef8ecbf5bf1e"
+msgstr "Unknown error. Please try to refresh the page.(Age)"
 
 #: InfoError.csv:157
 msgctxt ""
@@ -26710,51 +26710,56 @@ msgid "sheet|InfoError.csv|en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
 #: InfoError.csv:162
+msgctxt ""
+msgid "sheet|InfoError.csv|en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: InfoError.csv:163
 msgctxt "An Email must be linked before making any purchase"
 msgid "sheet|InfoError.csv|en|abfc67efef53fefbfd20ce4f723dcef9"
 msgstr "An Email must be linked before making any purchase"
 
-#: InfoError.csv:163
+#: InfoError.csv:164
 msgctxt "You have already claimed Revival Tokens today."
 msgid "sheet|InfoError.csv|en|86992d68e41eab80b5da4de06b895830"
 msgstr "You have already claimed Revival Tokens today."
 
-#: InfoError.csv:164
+#: InfoError.csv:165
 msgctxt "You still have lots of Coins and don’t need Revival Tokens."
 msgid "sheet|InfoError.csv|en|2379dfc81b392dc199b04adf1ff036b0"
 msgstr "You still have lots of Coins and don’t need Revival Tokens."
 
-#: InfoError.csv:165
+#: InfoError.csv:166
 msgctxt "You don’t have this title yet."
 msgid "sheet|InfoError.csv|en|f6314e5d8343e1caa4e5d9c7f9a4210b"
 msgstr "You don’t have this title yet."
 
-#: InfoError.csv:166
+#: InfoError.csv:167
 msgctxt "This player only allows friends to leave messages."
 msgid "sheet|InfoError.csv|en|9ac972d51245334d0e8910a965080f18"
 msgstr "This player only allows friends to leave messages."
 
-#: InfoError.csv:167
+#: InfoError.csv:168
 msgctxt "The player does not allow anyone to leave a message."
 msgid "sheet|InfoError.csv|en|b079680f92925f8bbc9052812a23a322"
 msgstr "The player does not allow anyone to leave a message."
 
-#: InfoError.csv:168
+#: InfoError.csv:169
 msgctxt "You cannot leave yourself a message."
 msgid "sheet|InfoError.csv|en|b158040edb22aa27167b8562d13ede6f"
 msgstr "You cannot leave yourself a message."
 
-#: InfoError.csv:169
+#: InfoError.csv:170
 msgctxt "You cannot send message while in a match."
 msgid "sheet|InfoError.csv|en|dd6043039f80d2dccae9e0db60f8a98c"
 msgstr "You cannot send message while in a match."
 
-#: InfoError.csv:170
+#: InfoError.csv:171
 msgctxt "You cannot delete messages from other people."
 msgid "sheet|InfoError.csv|en|8a85dbc94cc224df81cf7c13f8debf46"
 msgstr "You cannot delete messages from other people."
 
-#: InfoError.csv:171
+#: InfoError.csv:172
 msgctxt ""
 "You are sending messages too frequently. Please wait for 8 seconds before "
 "sending again."
@@ -26763,203 +26768,203 @@ msgstr ""
 "You are sending messages too frequently. Please wait for 8 seconds before "
 "sending again."
 
-#: InfoError.csv:172
+#: InfoError.csv:173
 msgctxt "Unable to find this chest."
 msgid "sheet|InfoError.csv|en|76e661b145294cca1688c972ad8448a2"
 msgstr "Unable to find this chest."
 
-#: InfoError.csv:173
+#: InfoError.csv:174
 msgctxt "Incorrect summon attempts."
 msgid "sheet|InfoError.csv|en|b63579f489b24b32d436da3bc554b377"
 msgstr "Incorrect summon attempts."
 
-#: InfoError.csv:174
+#: InfoError.csv:175
 msgctxt "Game logs you saved have reached the limit"
 msgid "sheet|InfoError.csv|en|1ce4ac5f4f01906a126adafe439ed2ae"
 msgstr "Game logs you saved have reached the limit"
 
-#: InfoError.csv:175
+#: InfoError.csv:176
 msgctxt ""
 "Daily reward was already collected or Fortune Charm wasn't purchased yet"
 msgid "sheet|InfoError.csv|en|7b0cdcf0119e03ddad643f65762ee97f"
 msgstr ""
 "Daily reward was already collected or Fortune Charm wasn't purchased yet"
 
-#: InfoError.csv:176
+#: InfoError.csv:177
 msgctxt "Fortune Charm maximum duration exseeded"
 msgid "sheet|InfoError.csv|en|8054092f94d6a2d07e54829106d72469"
 msgstr "Fortune Charm maximum duration exseeded"
 
-#: InfoError.csv:177
+#: InfoError.csv:178
 msgctxt ""
 "The number of purchases has reached the ceiling and cannot be re-purchased"
 msgid "sheet|InfoError.csv|en|fcd3354cdcdcfbf93779f36790c7c2bd"
 msgstr ""
 "The number of purchases has reached the ceiling and cannot be re-purchased"
 
-#: InfoError.csv:178
+#: InfoError.csv:179
 msgctxt "You don’t have this character yet."
 msgid "sheet|InfoError.csv|en|c5087b1a6ec6c3bcfb898aef5aaf0242"
 msgstr "You don’t have this character yet."
 
-#: InfoError.csv:179
+#: InfoError.csv:180
 msgctxt "This item cannot be sent as a gift. Keep it to yourself."
 msgid "sheet|InfoError.csv|en|cf832a9ca24aed3c11ebeb4e23a7df50"
 msgstr "This item cannot be sent as a gift. Keep it to yourself."
 
-#: InfoError.csv:180
+#: InfoError.csv:181
 msgctxt "Cannot send any more gifts today."
 msgid "sheet|InfoError.csv|en|2899e96945a16e0e30500f01c07550b9"
 msgstr "Cannot send any more gifts today."
 
-#: InfoError.csv:181
+#: InfoError.csv:182
 msgctxt "You don’t have this character yet."
 msgid "sheet|InfoError.csv|en|c5087b1a6ec6c3bcfb898aef5aaf0242"
 msgstr "You don’t have this character yet."
 
-#: InfoError.csv:182
+#: InfoError.csv:183
 msgctxt "Maximum Bond reached."
 msgid "sheet|InfoError.csv|en|11ed5c3d3eb742e85c42107217ef7a5e"
 msgstr "Maximum Bond reached."
 
-#: InfoError.csv:183
+#: InfoError.csv:184
 msgctxt "The Bond between you and this character is not deep enough."
 msgid "sheet|InfoError.csv|en|96c6a84d287dd84d3735f15d302a80aa"
 msgstr "The Bond between you and this character is not deep enough."
 
-#: InfoError.csv:184
+#: InfoError.csv:185
 msgctxt "You cannot have a bonding promise with this character yet."
 msgid "sheet|InfoError.csv|en|1c54e7c0599fd407dda37f56655c18b8"
 msgstr "You cannot have a bonding promise with this character yet."
 
-#: InfoError.csv:185
+#: InfoError.csv:186
 msgctxt "Emoji locked. Unable to be used."
 msgid "sheet|InfoError.csv|en|be3220231b2e7bbf329f5a18e1b79595"
 msgstr "Emoji locked. Unable to be used."
 
-#: InfoError.csv:186
+#: InfoError.csv:187
 msgctxt "This outfit doesn't match the correct Jyanshi."
 msgid "sheet|InfoError.csv|en|cb59e27ad997be9bfd84b5720e1b468e"
 msgstr "This outfit doesn't match the correct Jyanshi."
 
-#: InfoError.csv:187
+#: InfoError.csv:188
 msgctxt "You have not bonded with this Jyanshi."
 msgid "sheet|InfoError.csv|en|1d274c23457eea742d0f2ab1762bcead"
 msgstr "You have not bonded with this Jyanshi."
 
-#: InfoError.csv:188
+#: InfoError.csv:189
 msgctxt "Please finish watching the story to receive the reward."
 msgid "sheet|InfoError.csv|en|b4e1f071c0e59dc4036f1f9cd1384aba"
 msgstr "Please finish watching the story to receive the reward."
 
-#: InfoError.csv:189
+#: InfoError.csv:190
 msgctxt "You have already received the story reward."
 msgid "sheet|InfoError.csv|en|44a66f1a9e88edab954a32e7baa503f9"
 msgstr "You have already received the story reward."
 
-#: InfoError.csv:190
+#: InfoError.csv:191
 msgctxt "The God doesn’t like this item."
 msgid "sheet|InfoError.csv|en|63cc66a821a36913fa84e079ff997ff3"
 msgstr "The God doesn’t like this item."
 
-#: InfoError.csv:191
+#: InfoError.csv:192
 msgctxt "Item not found."
 msgid "sheet|InfoError.csv|en|eb54be9c4f538c494adafef0dc984ad4"
 msgstr "Item not found."
 
-#: InfoError.csv:192
+#: InfoError.csv:193
 msgctxt "Item sold out."
 msgid "sheet|InfoError.csv|en|a56ba75bbcb01a3a2f55dfd424714599"
 msgstr "Item sold out."
 
-#: InfoError.csv:193
+#: InfoError.csv:194
 msgctxt "Attempt to buy items that have not appeared in Misc Shop."
 msgid "sheet|InfoError.csv|en|591d21c94dac9a2c9eded6ac3ec0474d"
 msgstr "Attempt to buy items that have not appeared in Misc Shop."
 
-#: InfoError.csv:194
+#: InfoError.csv:195
 msgctxt "No more refresh chances today."
 msgid "sheet|InfoError.csv|en|5c1b28440ace4ea127204091d87d36f7"
 msgstr "No more refresh chances today."
 
-#: InfoError.csv:195
+#: InfoError.csv:196
 msgctxt "Item infor not received"
 msgid "sheet|InfoError.csv|en|480a01279e0bdf16fd1ccf4694596607"
 msgstr "Item infor not received"
 
-#: InfoError.csv:196
+#: InfoError.csv:197
 msgctxt "Item price has changed, please refresh the page and purchase again"
 msgid "sheet|InfoError.csv|en|85d5754ea864f81cdc6ddb67aac118e0"
 msgstr "Item price has changed, please refresh the page and purchase again"
 
-#: InfoError.csv:197
+#: InfoError.csv:198
 msgctxt "Item can only be purchased once"
 msgid "sheet|InfoError.csv|en|fc59a1b53066f0730d6be2e86a94746d"
 msgstr "Item can only be purchased once"
 
-#: InfoError.csv:198
+#: InfoError.csv:199
 msgctxt "Item was not Offering period expired"
 msgid "sheet|InfoError.csv|en|7fd2c103eb7318006039729b282c639b"
 msgstr "Item was not Offering period expired"
 
-#: InfoError.csv:199
+#: InfoError.csv:200
 msgctxt "This product is not available in your area."
 msgid "sheet|InfoError.csv|en|4165490d7a6b67d1e842c144d6fba5cc"
 msgstr "This product is not available in your area."
 
-#: InfoError.csv:200
+#: InfoError.csv:201
 msgctxt "Cannot find this tournament. Refresh the page and try again."
 msgid "sheet|InfoError.csv|en|d1ade5c6ef9edebcb5b641085c7ec55e"
 msgstr "Cannot find this tournament. Refresh the page and try again."
 
-#: InfoError.csv:201
+#: InfoError.csv:202
 msgctxt "Maximum number of tournaments reached."
 msgid "sheet|InfoError.csv|en|f2338ace40e74d90c38b693eddeb88f0"
 msgstr "Maximum number of tournaments reached."
 
-#: InfoError.csv:202
+#: InfoError.csv:203
 msgctxt "Tournament ID generation error. Please try again later."
 msgid "sheet|InfoError.csv|en|4f21e135ed5753a3eb3af6a4ae9c8fda"
 msgstr "Tournament ID generation error. Please try again later."
 
-#: InfoError.csv:203
+#: InfoError.csv:204
 msgctxt "Repeated login. Please try to refresh the page."
 msgid "sheet|InfoError.csv|en|85c6364af63d52957347f1c37bf44884"
 msgstr "Repeated login. Please try to refresh the page."
 
-#: InfoError.csv:204
+#: InfoError.csv:205
 msgctxt "Not logged in. Please login."
 msgid "sheet|InfoError.csv|en|a8dfaa77627a3b1cb435c4f3d66f7636"
 msgstr "Not logged in. Please login."
 
-#: InfoError.csv:205
+#: InfoError.csv:206
 msgctxt "You do not have the permission to do this."
 msgid "sheet|InfoError.csv|en|94f2b8f1094a94a5a776022bcba662a1"
 msgstr "You do not have the permission to do this."
 
-#: InfoError.csv:206
+#: InfoError.csv:207
 msgctxt "Tournament has not started yet."
 msgid "sheet|InfoError.csv|en|3adcb8fb44f67dcf617090dabee02404"
 msgstr "Tournament has not started yet."
 
-#: InfoError.csv:207
+#: InfoError.csv:208
 msgctxt "Tournament has already ended."
 msgid "sheet|InfoError.csv|en|6f82873e791a7cf30221f433413c826d"
 msgstr "Tournament has already ended."
 
-#: InfoError.csv:208
+#: InfoError.csv:209
 msgctxt ""
 "This player is not in the waiting list. Please try to refresh the page."
 msgid "sheet|InfoError.csv|en|ee5f63ac6191e77cb1da7c691bec2283"
 msgstr ""
 "This player is not in the waiting list. Please try to refresh the page."
 
-#: InfoError.csv:209
+#: InfoError.csv:210
 msgctxt "Other admin is working on this player."
 msgid "sheet|InfoError.csv|en|1a0ecd6d73cbbb87be7c19d38fc082ec"
 msgstr "Other admin is working on this player."
 
-#: InfoError.csv:210
+#: InfoError.csv:211
 msgctxt ""
 "You cannot participate in this tournament due to the name list restriction. "
 "Please contact a tournament admin."
@@ -26968,37 +26973,37 @@ msgstr ""
 "You cannot participate in this tournament due to the name list restriction. "
 "Please contact a tournament admin."
 
-#: InfoError.csv:211
+#: InfoError.csv:212
 msgctxt "You cannot send chat messages due to tournament room restrictions."
 msgid "sheet|InfoError.csv|en|b9d13823d31d6dd3afe0e7b807ea9f26"
 msgstr "You cannot send chat messages due to tournament room restrictions."
 
-#: InfoError.csv:212
+#: InfoError.csv:213
 msgctxt "Only the tournament creator can perform this action."
 msgid "sheet|InfoError.csv|en|0e3bdaefdcf16738ca53f4c90d18ddf8"
 msgstr "Only the tournament creator can perform this action."
 
-#: InfoError.csv:213
+#: InfoError.csv:214
 msgctxt "You can only assign up to 20 admins."
 msgid "sheet|InfoError.csv|en|918343e8bed1f43084899f7b6ffc1292"
 msgstr "You can only assign up to 20 admins."
 
-#: InfoError.csv:214
+#: InfoError.csv:215
 msgctxt "Each account can only create up to 1 tournament every 7 days."
 msgid "sheet|InfoError.csv|en|6aa7b5d105d8e85d3f406a7e1ac6fa23"
 msgstr "Each account can only create up to 1 tournament every 7 days."
 
-#: InfoError.csv:215
+#: InfoError.csv:216
 msgctxt "Your account does not have the permission to create a tournament."
 msgid "sheet|InfoError.csv|en|edceebfb5cd82fa2fd908d765997ca42"
 msgstr "Your account does not have the permission to create a tournament."
 
-#: InfoError.csv:216
+#: InfoError.csv:217
 msgctxt "Tournament parameter configuration error."
 msgid "sheet|InfoError.csv|en|a7b361ef2f557d4a5cbf85832fffd02b"
 msgstr "Tournament parameter configuration error."
 
-#: InfoError.csv:217
+#: InfoError.csv:218
 msgctxt ""
 "You cannot participate in this tournament because you have not reached the "
 "required rank. Please consult the tournament organizer for more details."
@@ -27007,7 +27012,7 @@ msgstr ""
 "You cannot participate in this tournament because you have not reached the "
 "required rank. Please consult the tournament organizer for more details."
 
-#: InfoError.csv:218
+#: InfoError.csv:219
 msgctxt ""
 "You have played too many matches and cannot continue to take part in this "
 "tournament. Please consult the tournament organizer for more details."
@@ -27016,84 +27021,84 @@ msgstr ""
 "You have played too many matches and cannot continue to take part in this "
 "tournament. Please consult the tournament organizer for more details."
 
-#: InfoError.csv:219
+#: InfoError.csv:220
 msgctxt "This player is in matchmaking."
 msgid "sheet|InfoError.csv|en|ffd0197ad4dbd701abf68465f614c12c"
 msgstr "This player is in matchmaking."
 
-#: InfoError.csv:220
+#: InfoError.csv:221
 msgctxt ""
 "Due to the server entry limit, you cannot participate in this tournament."
 msgid "sheet|InfoError.csv|en|8b8afa90ec1fd5b8a05c043a76ca7d23"
 msgstr ""
 "Due to the server entry limit, you cannot participate in this tournament."
 
-#: InfoError.csv:221
+#: InfoError.csv:222
 msgctxt "Event does not exist. Please try to refresh the page."
 msgid "sheet|InfoError.csv|en|c400915f74a668736d9b12033ad4624d"
 msgstr "Event does not exist. Please try to refresh the page."
 
-#: InfoError.csv:222
+#: InfoError.csv:223
 msgctxt "This event has already ended."
 msgid "sheet|InfoError.csv|en|5808c6ee4135178029c06817d4e44031"
 msgstr "This event has already ended."
 
-#: InfoError.csv:223
+#: InfoError.csv:224
 msgctxt "You have claimed all available rewards."
 msgid "sheet|InfoError.csv|en|e75444345de8029076c61f1be9b58764"
 msgstr "You have claimed all available rewards."
 
-#: InfoError.csv:224
+#: InfoError.csv:225
 msgctxt "Quest has not been accepted."
 msgid "sheet|InfoError.csv|en|71069eee24508bed8c0f527e0e0631cf"
 msgstr "Quest has not been accepted."
 
-#: InfoError.csv:225
+#: InfoError.csv:226
 msgctxt "You have already claimed this reward."
 msgid "sheet|InfoError.csv|en|bbbe843ee8c1471a34d3124bd53e7ae8"
 msgstr "You have already claimed this reward."
 
-#: InfoError.csv:226
+#: InfoError.csv:227
 msgctxt "Quest incomplete."
 msgid "sheet|InfoError.csv|en|4f389a6871e058ebd253be9d0476a456"
 msgstr "Quest incomplete."
 
-#: InfoError.csv:227
+#: InfoError.csv:228
 msgctxt "Upper limit of collection"
 msgid "sheet|InfoError.csv|en|087f7e0549f4eeb04291378b78da92a1"
 msgstr "Upper limit of collection"
 
-#: InfoError.csv:228
+#: InfoError.csv:229
 msgctxt "Unable to claim the rewards right now"
 msgid "sheet|InfoError.csv|en|5c5c010e0fa7b780d2dff9d035400b98"
 msgstr "Unable to claim the rewards right now"
 
-#: InfoError.csv:229
+#: InfoError.csv:230
 msgctxt "The rewards has already been claimed"
 msgid "sheet|InfoError.csv|en|a9492c9f427221b753bc6b80f7dd88c6"
 msgstr "The rewards has already been claimed"
 
-#: InfoError.csv:230
+#: InfoError.csv:231
 msgctxt "Not enough attempts"
 msgid "sheet|InfoError.csv|en|77904a17da6beffcd37f43ac06d89a5e"
 msgstr "Not enough attempts"
 
-#: InfoError.csv:231
+#: InfoError.csv:232
 msgctxt "Invalid block"
 msgid "sheet|InfoError.csv|en|f770812b420f5010617cb6c68d30899a"
 msgstr "Invalid block"
 
-#: InfoError.csv:232
+#: InfoError.csv:233
 msgctxt "Unable to claim rewards from this block"
 msgid "sheet|InfoError.csv|en|91c2383aaf0709c26b7fc87cfa2badf0"
 msgstr "Unable to claim rewards from this block"
 
-#: InfoError.csv:233
+#: InfoError.csv:234
 msgctxt "You have already checked in"
 msgid "sheet|InfoError.csv|en|1f3c5b2975bc67308ade37bf9c941817"
 msgstr "You have already checked in"
 
-#: InfoError.csv:234
+#: InfoError.csv:235
 msgctxt ""
 "Mahjong Soul Shrine has received your response. Thank you for your "
 "contribution in making a better gaming environment!"
@@ -27101,11 +27106,6 @@ msgid "sheet|InfoError.csv|en|11bf9a202a2d99ad289c54c4f344ecb9"
 msgstr ""
 "Mahjong Soul Shrine has received your response. Thank you for your "
 "contribution in making a better gaming environment!"
-
-#: InfoError.csv:235
-msgctxt ""
-msgid "sheet|InfoError.csv|en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
 
 #: InfoError.csv:236
 msgctxt ""
@@ -27128,11 +27128,16 @@ msgid "sheet|InfoError.csv|en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
 #: InfoError.csv:240
+msgctxt ""
+msgid "sheet|InfoError.csv|en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: InfoError.csv:241
 msgctxt "You have uncompleted quests on the Goal Ticket."
 msgid "sheet|InfoError.csv|en|cd8c01d6af67dcdc198857b87435aa54"
 msgstr "You have uncompleted quests on the Goal Ticket."
 
-#: InfoError.csv:241
+#: InfoError.csv:242
 msgctxt ""
 "You have reached the max number of Goal Ticket re-publishing today. Please "
 "try again tomorrow."
@@ -27141,41 +27146,41 @@ msgstr ""
 "You have reached the max number of Goal Ticket re-publishing today. Please "
 "try again tomorrow."
 
-#: InfoError.csv:242
+#: InfoError.csv:243
 msgctxt "There is no Path of Trial event in progress."
 msgid "sheet|InfoError.csv|en|1ba05ef5bcd812c4b82614fdf0ad3476"
 msgstr "There is no Path of Trial event in progress."
 
-#: InfoError.csv:243
+#: InfoError.csv:244
 msgctxt ""
 "This Goal Ticket has been completed. Please refresh to see the result."
 msgid "sheet|InfoError.csv|en|40696d433787b94f965ce7f2adff0147"
 msgstr ""
 "This Goal Ticket has been completed. Please refresh to see the result."
 
-#: InfoError.csv:244
+#: InfoError.csv:245
 msgctxt "Current season of Path of Trial has not ended yet."
 msgid "sheet|InfoError.csv|en|521db4ed3f29f2c536146625e1a84061"
 msgstr "Current season of Path of Trial has not ended yet."
 
-#: InfoError.csv:245
+#: InfoError.csv:246
 msgctxt "You have already claimed this reward."
 msgid "sheet|InfoError.csv|en|bbbe843ee8c1471a34d3124bd53e7ae8"
 msgstr "You have already claimed this reward."
 
-#: InfoError.csv:246
+#: InfoError.csv:247
 msgctxt ""
 "Please wait until the ranking of the current season of Path of Trial is finalized."
 msgid "sheet|InfoError.csv|en|b87712624eb18f25b52be8634a081e1e"
 msgstr ""
 "Please wait until the ranking of the current season of Path of Trial is finalized."
 
-#: InfoError.csv:247
+#: InfoError.csv:248
 msgctxt "The record of this season is not found."
 msgid "sheet|InfoError.csv|en|154bd6128289e3b60f9f340e384583eb"
 msgstr "The record of this season is not found."
 
-#: InfoError.csv:248
+#: InfoError.csv:249
 msgctxt ""
 "You have completed this Goal Ticket successfully. Please refresh to see the "
 "result."
