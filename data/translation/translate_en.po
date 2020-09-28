@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-09-15 12:05:52\n"
+"PO-Revision-Date: 2020-09-28 03:04:49\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -891,6 +891,18 @@ msgid ""
 msgstr "Local Yaku Achieved"
 
 #: ui_en.json
+msgctxt "All-time Ranking"
+msgid ""
+"json|both_ui/otherplayerinfo|0|2|6|1|8|0|0|d62defc1170ae6f624f2ea85ae644c5f"
+msgstr "All-time Ranking"
+
+#: ui_en.json
+msgctxt "No record available. Good luck!"
+msgid ""
+"json|both_ui/otherplayerinfo|0|2|6|1|8|1|2767cb7fc9c3dced54a3f30595125332"
+msgstr "No record available. Good luck!"
+
+#: ui_en.json
 msgctxt "Empty"
 msgid "json|both_ui/otherplayerinfo|0|3|1|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
 msgstr "Empty"
@@ -1302,6 +1314,18 @@ msgctxt "Local Yaku Achieved"
 msgid ""
 "json|both_ui/otherplayerinfo_en|0|2|6|1|7|0|2|bf287837967c7c81eddd08da78f7d92f"
 msgstr "Local Yaku Achieved"
+
+#: ui_en.json
+msgctxt "All-time Ranking"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|6|1|8|0|0|d62defc1170ae6f624f2ea85ae644c5f"
+msgstr "All-time Ranking"
+
+#: ui_en.json
+msgctxt "No record available. Good luck!"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|6|1|8|1|2767cb7fc9c3dced54a3f30595125332"
+msgstr "No record available. Good luck!"
 
 #: ui_en.json
 msgctxt "Empty"
@@ -5282,6 +5306,16 @@ msgid "json|lobby/playerinfo|1|5|7|1|7|0|2|bf287837967c7c81eddd08da78f7d92f"
 msgstr "Local Yaku Achieved"
 
 #: ui_en.json
+msgctxt "All-time Ranking"
+msgid "json|lobby/playerinfo|1|5|7|1|8|0|0|d62defc1170ae6f624f2ea85ae644c5f"
+msgstr "All-time Ranking"
+
+#: ui_en.json
+msgctxt "No record available. Good luck!"
+msgid "json|lobby/playerinfo|1|5|7|1|8|1|2767cb7fc9c3dced54a3f30595125332"
+msgstr "No record available. Good luck!"
+
+#: ui_en.json
 msgctxt "4-Player"
 msgid "json|lobby/playerinfo_en|1|1|0|5dc72846529d753fec588a14a68f97f6"
 msgstr "4-Player"
@@ -5669,6 +5703,17 @@ msgid ""
 msgstr "Local Yaku Achieved"
 
 #: ui_en.json
+msgctxt "All-time Ranking"
+msgid ""
+"json|lobby/playerinfo_en|1|5|7|1|8|0|0|d62defc1170ae6f624f2ea85ae644c5f"
+msgstr "All-time Ranking"
+
+#: ui_en.json
+msgctxt "No record available. Good luck!"
+msgid "json|lobby/playerinfo_en|1|5|7|1|8|1|2767cb7fc9c3dced54a3f30595125332"
+msgstr "No record available. Good luck!"
+
+#: ui_en.json
 msgctxt "Buy"
 msgid "json|lobby/pop_buy_multi|0|6|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "Buy"
@@ -5809,6 +5854,11 @@ msgid "json|lobby/shilian/shilian|3|0|2|1|4|ab0d5a26f182e04992cb968448890668"
 msgstr "Remaining Challenges:"
 
 #: ui_en.json
+msgctxt "Season has ended"
+msgid "json|lobby/shilian/shilian|3|2|1|1|e3f5e4ff91325eb9d8e49334d48a8fbb"
+msgstr "Season has ended"
+
+#: ui_en.json
 msgctxt "Weekly Reward"
 msgid "json|lobby/shilian/shilian|3|2|4|1|266f1b24fe0844f7e1f7f180c23a1067"
 msgstr "Weekly Reward"
@@ -5828,6 +5878,16 @@ msgid "json|lobby/shilian/shilian|4|2|7c3310321ea03c9ad2d30754ab6c8415"
 msgstr "Click to continue"
 
 #: ui_en.json
+msgctxt "Received Reward:"
+msgid "json|lobby/shilian/shilian|5|2|0|0|16fd8bfa57e84abf7ffa24ff4bd18853"
+msgstr "Received Reward:"
+
+#: ui_en.json
+msgctxt "My Ranking:"
+msgid "json|lobby/shilian/shilian|5|3|0|0|088ba46b2e75c87ad5c5bd71d1869ea9"
+msgstr "My Ranking:"
+
+#: ui_en.json
 msgctxt "Trial Rank Description"
 msgid ""
 "json|lobby/shilian/shilian_level_info|0|2|40b04635066236fc8608c708081443e9"
@@ -5842,6 +5902,11 @@ msgstr "Ranking of Trial Rank"
 msgctxt "Friends' Ranking"
 msgid "json|lobby/shilian/shilian_rank|0|5|1|fb2fd76f1acb1fcd6566b68da25717fd"
 msgstr "Friends' Ranking"
+
+#: ui_en.json
+msgctxt "The reward has been sent to your Items - Decoration."
+msgid "json|lobby/shilian/shilian_result|2|3|5d662af5a332a0d5753160316a1b642b"
+msgstr "The reward has been sent to your Items - Decoration."
 
 #: ui_en.json
 msgctxt "Receive the Trial Rank reward"
@@ -6153,546 +6218,566 @@ msgstr "Your Title Book is empty."
 
 #: ui_en.json
 msgctxt "Summon 10 Times"
-msgid "json|lobby/treasure|0|0|0|a90a723e5e0a2a55af1842730b439df8"
+msgid "json|lobby/treasure|1|0|0|a90a723e5e0a2a55af1842730b439df8"
 msgstr "Summon 10 Times"
 
 #: ui_en.json
 msgctxt "Get"
-msgid "json|lobby/treasure|0|0|1|c55582518cba2c464f29f5bae1c68def"
+msgid "json|lobby/treasure|1|0|1|c55582518cba2c464f29f5bae1c68def"
 msgstr "Get"
 
 #: ui_en.json
 msgctxt "Chance to get characters, decorations or gifts"
-msgid "json|lobby/treasure|0|0|3|c620150db889c75f43b8af67aedc642f"
+msgid "json|lobby/treasure|1|0|3|c620150db889c75f43b8af67aedc642f"
 msgstr "Chance to get characters, decorations or gifts"
 
 #: ui_en.json
 msgctxt "Summon 10 Times"
-msgid "json|lobby/treasure|0|0|5|0|a90a723e5e0a2a55af1842730b439df8"
+msgid "json|lobby/treasure|1|0|5|0|a90a723e5e0a2a55af1842730b439df8"
 msgstr "Summon 10 Times"
 
 #: ui_en.json
 msgctxt "Summon Once"
-msgid "json|lobby/treasure|0|1|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
+msgid "json|lobby/treasure|1|1|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
 msgstr "Summon Once"
 
 #: ui_en.json
 msgctxt "Get"
-msgid "json|lobby/treasure|0|1|1|c55582518cba2c464f29f5bae1c68def"
+msgid "json|lobby/treasure|1|1|1|c55582518cba2c464f29f5bae1c68def"
 msgstr "Get"
 
 #: ui_en.json
 msgctxt "Chance to get characters, decorations or gifts"
-msgid "json|lobby/treasure|0|1|3|c620150db889c75f43b8af67aedc642f"
+msgid "json|lobby/treasure|1|1|3|c620150db889c75f43b8af67aedc642f"
 msgstr "Chance to get characters, decorations or gifts"
 
 #: ui_en.json
 msgctxt "Summon Once"
-msgid "json|lobby/treasure|0|1|5|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
+msgid "json|lobby/treasure|1|1|5|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
 msgstr "Summon Once"
 
 #: ui_en.json
 msgctxt "Overview"
-msgid "json|lobby/treasure|0|5|0|3b878279a04dc47d60932cb294d96259"
+msgid "json|lobby/treasure|1|5|0|3b878279a04dc47d60932cb294d96259"
 msgstr "Overview"
 
 #: ui_en.json
 msgctxt "Redeem"
-msgid "json|lobby/treasure|0|6|2|0|81ed4dcb851fefbbbc791eeef4cd97a2"
+msgid "json|lobby/treasure|1|6|2|0|81ed4dcb851fefbbbc791eeef4cd97a2"
 msgstr "Redeem"
 
 #: ui_en.json
 msgctxt "Summon"
-msgid "json|lobby/treasure|1|0|efde9837421a1454da9ca1d72146c552"
+msgid "json|lobby/treasure|2|0|efde9837421a1454da9ca1d72146c552"
 msgstr "Summon"
 
 #: ui_en.json
 msgctxt "Select the character/item you would like to redeem"
-msgid "json|lobby/treasure|3|4|19f3c26d730dccfc3cec60def81e119e"
+msgid "json|lobby/treasure|4|4|19f3c26d730dccfc3cec60def81e119e"
 msgstr "Select the character/item you would like to redeem"
 
 #: ui_en.json
 msgctxt "每次寻觅都可以获得1点"
-msgid "json|lobby/treasure|4|2|2|0|0|21981eda7c469476e8954a8885b1f108"
+msgid "json|lobby/treasure|5|2|2|0|0|21981eda7c469476e8954a8885b1f108"
 msgstr "每次寻觅都可以获得1点"
 
 #: ui_en.json
 msgctxt "(信仰)，同时有可能获得全新的雀士及各种装扮"
-msgid "json|lobby/treasure|4|2|2|0|1|7b1a8127a187db29a9b77aaf772d0071"
+msgid "json|lobby/treasure|5|2|2|0|1|7b1a8127a187db29a9b77aaf772d0071"
 msgstr "(信仰)，同时有可能获得全新的雀士及各种装扮"
 
 #: ui_en.json
 msgctxt "雀士概率：5%"
-msgid "json|lobby/treasure|4|2|2|0|2|11e4ba4a8cb176be1acb80978b571cdb"
+msgid "json|lobby/treasure|5|2|2|0|2|11e4ba4a8cb176be1acb80978b571cdb"
 msgstr "雀士概率：5%"
 
 #: ui_en.json
 msgctxt "重复获取的雀士将转换为许愿石"
-msgid "json|lobby/treasure|4|2|2|0|2|0|fe1131907c7fb2562b4991589cec76f3"
+msgid "json|lobby/treasure|5|2|2|0|2|0|fe1131907c7fb2562b4991589cec76f3"
 msgstr "重复获取的雀士将转换为许愿石"
 
 #: ui_en.json
 msgctxt "装扮概率：15%"
-msgid "json|lobby/treasure|4|2|2|0|3|c8b16a2572d0ddba8f95d9142f7e7d3f"
+msgid "json|lobby/treasure|5|2|2|0|3|c8b16a2572d0ddba8f95d9142f7e7d3f"
 msgstr "装扮概率：15%"
 
 #: ui_en.json
 msgctxt "重复获取的装扮将转换为星之石"
-msgid "json|lobby/treasure|4|2|2|0|3|0|601f6631a51db51eca9ea2a712864817"
+msgid "json|lobby/treasure|5|2|2|0|3|0|601f6631a51db51eca9ea2a712864817"
 msgstr "重复获取的装扮将转换为星之石"
 
 #: ui_en.json
 msgctxt "礼物概率：80%"
-msgid "json|lobby/treasure|4|2|2|0|4|d474cc361920c4d160a95e617711ce2c"
+msgid "json|lobby/treasure|5|2|2|0|4|d474cc361920c4d160a95e617711ce2c"
 msgstr "礼物概率：80%"
 
 #: ui_en.json
 msgctxt "使用辉玉10连寻觅，至少会获得一个紫色礼物"
-msgid "json|lobby/treasure|4|2|2|0|5|37c79d331e6564f6826cbf3d332d854b"
+msgid "json|lobby/treasure|5|2|2|0|5|37c79d331e6564f6826cbf3d332d854b"
 msgstr "使用辉玉10连寻觅，至少会获得一个紫色礼物"
 
 #: ui_en.json
 msgctxt "每次寻觅都可以获得1点"
-msgid "json|lobby/treasure|4|2|2|1|0|21981eda7c469476e8954a8885b1f108"
+msgid "json|lobby/treasure|5|2|2|1|0|21981eda7c469476e8954a8885b1f108"
 msgstr "每次寻觅都可以获得1点"
 
 #: ui_en.json
 msgctxt "(信仰)，同时有可能获得全新的雀士及各种装扮"
-msgid "json|lobby/treasure|4|2|2|1|1|7b1a8127a187db29a9b77aaf772d0071"
+msgid "json|lobby/treasure|5|2|2|1|1|7b1a8127a187db29a9b77aaf772d0071"
 msgstr "(信仰)，同时有可能获得全新的雀士及各种装扮"
 
 #: ui_en.json
 msgctxt "雀士概率：5%"
-msgid "json|lobby/treasure|4|2|2|1|2|11e4ba4a8cb176be1acb80978b571cdb"
+msgid "json|lobby/treasure|5|2|2|1|2|11e4ba4a8cb176be1acb80978b571cdb"
 msgstr "雀士概率：5%"
 
 #: ui_en.json
 msgctxt "重复获取的雀士将转换为许愿石"
-msgid "json|lobby/treasure|4|2|2|1|2|0|fe1131907c7fb2562b4991589cec76f3"
+msgid "json|lobby/treasure|5|2|2|1|2|0|fe1131907c7fb2562b4991589cec76f3"
 msgstr "重复获取的雀士将转换为许愿石"
 
 #: ui_en.json
 msgctxt "(UP雀士占59%、其他雀士占41%)"
-msgid "json|lobby/treasure|4|2|2|1|3|e571ef2163101e87f50d31d486befbb2"
+msgid "json|lobby/treasure|5|2|2|1|3|e571ef2163101e87f50d31d486befbb2"
 msgstr "(UP雀士占59%、其他雀士占41%)"
 
 #: ui_en.json
 msgctxt "装扮概率：15%"
-msgid "json|lobby/treasure|4|2|2|1|4|c8b16a2572d0ddba8f95d9142f7e7d3f"
+msgid "json|lobby/treasure|5|2|2|1|4|c8b16a2572d0ddba8f95d9142f7e7d3f"
 msgstr "装扮概率：15%"
 
 #: ui_en.json
 msgctxt "重复获取的装扮将转换为星之石"
-msgid "json|lobby/treasure|4|2|2|1|4|0|601f6631a51db51eca9ea2a712864817"
+msgid "json|lobby/treasure|5|2|2|1|4|0|601f6631a51db51eca9ea2a712864817"
 msgstr "重复获取的装扮将转换为星之石"
 
 #: ui_en.json
 msgctxt "(UP装扮占49%、其他装扮占51%)"
-msgid "json|lobby/treasure|4|2|2|1|5|76a8cdef42e10d6cde4f3b3d9f35cc92"
+msgid "json|lobby/treasure|5|2|2|1|5|76a8cdef42e10d6cde4f3b3d9f35cc92"
 msgstr "(UP装扮占49%、其他装扮占51%)"
 
 #: ui_en.json
 msgctxt "礼物概率：80%"
-msgid "json|lobby/treasure|4|2|2|1|6|d474cc361920c4d160a95e617711ce2c"
+msgid "json|lobby/treasure|5|2|2|1|6|d474cc361920c4d160a95e617711ce2c"
 msgstr "礼物概率：80%"
 
 #: ui_en.json
 msgctxt "使用辉玉10连寻觅，至少会获得一个紫色礼物"
-msgid "json|lobby/treasure|4|2|2|1|7|37c79d331e6564f6826cbf3d332d854b"
+msgid "json|lobby/treasure|5|2|2|1|7|37c79d331e6564f6826cbf3d332d854b"
 msgstr "使用辉玉10连寻觅，至少会获得一个紫色礼物"
 
 #: ui_en.json
 msgctxt "Each time you summon, you can get 1"
-msgid "json|lobby/treasure|4|2|2|2|0|4bff031238548fac07b2443c6deba794"
+msgid "json|lobby/treasure|5|2|2|2|0|4bff031238548fac07b2443c6deba794"
 msgstr "Each time you summon, you can get 1"
 
 #: ui_en.json
 msgctxt "(Faith), as well as all-new characters and decorations"
-msgid "json|lobby/treasure|4|2|2|2|1|47be30f42361f946252d782fa39f231f"
+msgid "json|lobby/treasure|5|2|2|2|1|47be30f42361f946252d782fa39f231f"
 msgstr "(Faith), as well as all-new characters and decorations"
 
 #: ui_en.json
 msgctxt "Chance to get characters: 5%"
-msgid "json|lobby/treasure|4|2|2|2|2|533dd73919f0c6b513351628b8243cef"
+msgid "json|lobby/treasure|5|2|2|2|2|533dd73919f0c6b513351628b8243cef"
 msgstr "Chance to get characters: 5%"
 
 #: ui_en.json
 msgctxt "Duplicate characters will be converted to Wishing Stones"
-msgid "json|lobby/treasure|4|2|2|2|2|0|737618c1f8cd09f9d4c1c6abf2721269"
+msgid "json|lobby/treasure|5|2|2|2|2|0|737618c1f8cd09f9d4c1c6abf2721269"
 msgstr "Duplicate characters will be converted to Wishing Stones"
 
 #: ui_en.json
 msgctxt "Chance to get decorations: 15%"
-msgid "json|lobby/treasure|4|2|2|2|3|463f53cda2cd30800f4267383bca9311"
+msgid "json|lobby/treasure|5|2|2|2|3|463f53cda2cd30800f4267383bca9311"
 msgstr "Chance to get decorations: 15%"
 
 #: ui_en.json
 msgctxt "Duplicate decorations will be converted into Star Stones"
-msgid "json|lobby/treasure|4|2|2|2|3|0|47958c936f775228a1c5e1232d6f67b9"
+msgid "json|lobby/treasure|5|2|2|2|3|0|47958c936f775228a1c5e1232d6f67b9"
 msgstr "Duplicate decorations will be converted into Star Stones"
 
 #: ui_en.json
 msgctxt "Chance to get green gift/blue gift/purple gift:  24%/51%/5%"
-msgid "json|lobby/treasure|4|2|2|2|4|45e9be4d40ab9c38141dc257ff3feefe"
+msgid "json|lobby/treasure|5|2|2|2|4|45e9be4d40ab9c38141dc257ff3feefe"
 msgstr "Chance to get green gift/blue gift/purple gift:  24%/51%/5%"
 
 #: ui_en.json
 msgctxt ""
 "You will get at least 1 purple gift when you perform a 10-summon using Jade."
-msgid "json|lobby/treasure|4|2|2|2|5|dfd203514802330ba394af0c56d39d0f"
+msgid "json|lobby/treasure|5|2|2|2|5|dfd203514802330ba394af0c56d39d0f"
 msgstr ""
 "You will get at least 1 purple gift when you perform a 10-summon using Jade."
 
 #: ui_en.json
 msgctxt "Each time you summon, you can get 1"
-msgid "json|lobby/treasure|4|2|2|3|0|4bff031238548fac07b2443c6deba794"
+msgid "json|lobby/treasure|5|2|2|3|0|4bff031238548fac07b2443c6deba794"
 msgstr "Each time you summon, you can get 1"
 
 #: ui_en.json
 msgctxt "(Faith), as well as all-new characters and decorations"
-msgid "json|lobby/treasure|4|2|2|3|1|47be30f42361f946252d782fa39f231f"
+msgid "json|lobby/treasure|5|2|2|3|1|47be30f42361f946252d782fa39f231f"
 msgstr "(Faith), as well as all-new characters and decorations"
 
 #: ui_en.json
 msgctxt "Chance to get characters: 5%"
-msgid "json|lobby/treasure|4|2|2|3|2|533dd73919f0c6b513351628b8243cef"
+msgid "json|lobby/treasure|5|2|2|3|2|533dd73919f0c6b513351628b8243cef"
 msgstr "Chance to get characters: 5%"
 
 #: ui_en.json
 msgctxt "Duplicate characters will be converted to Wishing Stones"
-msgid "json|lobby/treasure|4|2|2|3|2|0|737618c1f8cd09f9d4c1c6abf2721269"
+msgid "json|lobby/treasure|5|2|2|3|2|0|737618c1f8cd09f9d4c1c6abf2721269"
 msgstr "Duplicate characters will be converted to Wishing Stones"
 
 #: ui_en.json
 msgctxt "Chance to summon new characters: 2.95%"
-msgid "json|lobby/treasure|4|2|2|3|3|a5c047090c395032d772cbc0cd061bf5"
+msgid "json|lobby/treasure|5|2|2|3|3|a5c047090c395032d772cbc0cd061bf5"
 msgstr "Chance to summon new characters: 2.95%"
 
 #: ui_en.json
 msgctxt "Chance to get decorations: 15%"
-msgid "json|lobby/treasure|4|2|2|3|4|463f53cda2cd30800f4267383bca9311"
+msgid "json|lobby/treasure|5|2|2|3|4|463f53cda2cd30800f4267383bca9311"
 msgstr "Chance to get decorations: 15%"
 
 #: ui_en.json
 msgctxt "Duplicate decorations will be converted into Star Stones"
-msgid "json|lobby/treasure|4|2|2|3|4|0|47958c936f775228a1c5e1232d6f67b9"
+msgid "json|lobby/treasure|5|2|2|3|4|0|47958c936f775228a1c5e1232d6f67b9"
 msgstr "Duplicate decorations will be converted into Star Stones"
 
 #: ui_en.json
 msgctxt "Chance to get new effects: 7.35%"
-msgid "json|lobby/treasure|4|2|2|3|5|068ad3fd2401a634b14485a49c35e13c"
+msgid "json|lobby/treasure|5|2|2|3|5|068ad3fd2401a634b14485a49c35e13c"
 msgstr "Chance to get new effects: 7.35%"
 
 #: ui_en.json
 msgctxt "Chance to get green gift/blue gift/purple gift:  24%/51%/5%"
-msgid "json|lobby/treasure|4|2|2|3|6|45e9be4d40ab9c38141dc257ff3feefe"
+msgid "json|lobby/treasure|5|2|2|3|6|45e9be4d40ab9c38141dc257ff3feefe"
 msgstr "Chance to get green gift/blue gift/purple gift:  24%/51%/5%"
 
 #: ui_en.json
 msgctxt "New characters and effects are limited-time Rate Up"
-msgid "json|lobby/treasure|4|2|2|3|7|24a81c9e865f32ceb5a5fe0abbb6f4af"
+msgid "json|lobby/treasure|5|2|2|3|7|24a81c9e865f32ceb5a5fe0abbb6f4af"
 msgstr "New characters and effects are limited-time Rate Up"
 
 #: ui_en.json
 msgctxt ""
 "You will get at least 1 purple gift when you perform a 10-summon using Jade."
-msgid "json|lobby/treasure|4|2|2|3|8|dfd203514802330ba394af0c56d39d0f"
+msgid "json|lobby/treasure|5|2|2|3|8|dfd203514802330ba394af0c56d39d0f"
 msgstr ""
 "You will get at least 1 purple gift when you perform a 10-summon using Jade."
 
 #: ui_en.json
 msgctxt "1回祈願するたびに1点"
-msgid "json|lobby/treasure|4|2|2|4|0|1a77a881a4d8dc6a13df98eb167e906e"
+msgid "json|lobby/treasure|5|2|2|4|0|1a77a881a4d8dc6a13df98eb167e906e"
 msgstr "1回祈願するたびに1点"
 
 #: ui_en.json
 msgctxt "（信仰）が入手できます。"
-msgid "json|lobby/treasure|4|2|2|4|1|97b87bf775f3b176de5fb13d91ccc0ed"
+msgid "json|lobby/treasure|5|2|2|4|1|97b87bf775f3b176de5fb13d91ccc0ed"
 msgstr "（信仰）が入手できます。"
 
 #: ui_en.json
 msgctxt "雀士キャラクター提供確率:5％"
-msgid "json|lobby/treasure|4|2|2|4|2|2f2f6da6e37a4b15959445893043601a"
+msgid "json|lobby/treasure|5|2|2|4|2|2f2f6da6e37a4b15959445893043601a"
 msgstr "雀士キャラクター提供確率:5％"
 
 #: ui_en.json
 msgctxt "再度入手した雀士キャラクターは願いの石に変換されます。"
-msgid "json|lobby/treasure|4|2|2|4|2|0|6319f133863385d1fe54b173f400b0db"
+msgid "json|lobby/treasure|5|2|2|4|2|0|6319f133863385d1fe54b173f400b0db"
 msgstr "再度入手した雀士キャラクターは願いの石に変換されます。"
 
 #: ui_en.json
 msgctxt "装飾品提供確率:15％"
-msgid "json|lobby/treasure|4|2|2|4|3|b68af077a6302c5974b620d6ecf7cf28"
+msgid "json|lobby/treasure|5|2|2|4|3|b68af077a6302c5974b620d6ecf7cf28"
 msgstr "装飾品提供確率:15％"
 
 #: ui_en.json
 msgctxt "再度入手した装飾品は星の石に変換されます。"
-msgid "json|lobby/treasure|4|2|2|4|3|0|c938008704d04b1987f6bba8e1e38d6c"
+msgid "json|lobby/treasure|5|2|2|4|3|0|c938008704d04b1987f6bba8e1e38d6c"
 msgstr "再度入手した装飾品は星の石に変換されます。"
 
 #: ui_en.json
 msgctxt "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
-msgid "json|lobby/treasure|4|2|2|4|4|5efce653ee4327e40f849d0ddda668c2"
+msgid "json|lobby/treasure|5|2|2|4|4|5efce653ee4327e40f849d0ddda668c2"
 msgstr "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
 
 #: ui_en.json
 msgctxt "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
-msgid "json|lobby/treasure|4|2|2|4|5|767e20b8225de249f2d1df91bec3bc5b"
+msgid "json|lobby/treasure|5|2|2|4|5|767e20b8225de249f2d1df91bec3bc5b"
 msgstr "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
 
 #: ui_en.json
 msgctxt "1回祈願するたびに1点"
-msgid "json|lobby/treasure|4|2|2|5|0|1a77a881a4d8dc6a13df98eb167e906e"
+msgid "json|lobby/treasure|5|2|2|5|0|1a77a881a4d8dc6a13df98eb167e906e"
 msgstr "1回祈願するたびに1点"
 
 #: ui_en.json
 msgctxt "（信仰）が入手できます。"
-msgid "json|lobby/treasure|4|2|2|5|1|97b87bf775f3b176de5fb13d91ccc0ed"
+msgid "json|lobby/treasure|5|2|2|5|1|97b87bf775f3b176de5fb13d91ccc0ed"
 msgstr "（信仰）が入手できます。"
 
 #: ui_en.json
 msgctxt "雀士キャラクター提供確率:5％"
-msgid "json|lobby/treasure|4|2|2|5|2|2f2f6da6e37a4b15959445893043601a"
+msgid "json|lobby/treasure|5|2|2|5|2|2f2f6da6e37a4b15959445893043601a"
 msgstr "雀士キャラクター提供確率:5％"
 
 #: ui_en.json
 msgctxt "ピックアップ雀士提供確率：全雀士の59％"
-msgid "json|lobby/treasure|4|2|2|5|3|7d9fd8492834e2f23f28459fbf910199"
+msgid "json|lobby/treasure|5|2|2|5|3|7d9fd8492834e2f23f28459fbf910199"
 msgstr "ピックアップ雀士提供確率：全雀士の59％"
 
 #: ui_en.json
 msgctxt "再度入手した雀士は願い石に変換されます。"
-msgid "json|lobby/treasure|4|2|2|5|4|b0252a8aa96dd10373ceb18f825f4c31"
+msgid "json|lobby/treasure|5|2|2|5|4|b0252a8aa96dd10373ceb18f825f4c31"
 msgstr "再度入手した雀士は願い石に変換されます。"
 
 #: ui_en.json
 msgctxt "装飾品提供確率：15%"
-msgid "json|lobby/treasure|4|2|2|5|5|1c0d863149026877f28127a025008c4f"
+msgid "json|lobby/treasure|5|2|2|5|5|1c0d863149026877f28127a025008c4f"
 msgstr "装飾品提供確率：15%"
 
 #: ui_en.json
 msgctxt "ピックアップ装飾品提供確率：全装飾品の49%"
-msgid "json|lobby/treasure|4|2|2|5|6|c535d634547701e0b7e57580d560bc20"
+msgid "json|lobby/treasure|5|2|2|5|6|c535d634547701e0b7e57580d560bc20"
 msgstr "ピックアップ装飾品提供確率：全装飾品の49%"
 
 #: ui_en.json
 msgctxt "再度入手した装飾品は星の石に変換されます。"
-msgid "json|lobby/treasure|4|2|2|5|7|c938008704d04b1987f6bba8e1e38d6c"
+msgid "json|lobby/treasure|5|2|2|5|7|c938008704d04b1987f6bba8e1e38d6c"
 msgstr "再度入手した装飾品は星の石に変換されます。"
 
 #: ui_en.json
 msgctxt "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
-msgid "json|lobby/treasure|4|2|2|5|8|5efce653ee4327e40f849d0ddda668c2"
+msgid "json|lobby/treasure|5|2|2|5|8|5efce653ee4327e40f849d0ddda668c2"
 msgstr "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
 
 #: ui_en.json
 msgctxt "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
-msgid "json|lobby/treasure|4|2|2|5|9|767e20b8225de249f2d1df91bec3bc5b"
+msgid "json|lobby/treasure|5|2|2|5|9|767e20b8225de249f2d1df91bec3bc5b"
 msgstr "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
 
 #: ui_en.json
 msgctxt "每次尋覓都可以獲得1點"
-msgid "json|lobby/treasure|4|2|2|6|0|c8a45e1d2afe4fc915d87276d700a0c7"
+msgid "json|lobby/treasure|5|2|2|6|0|c8a45e1d2afe4fc915d87276d700a0c7"
 msgstr "每次尋覓都可以獲得1點"
 
 #: ui_en.json
 msgctxt "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
-msgid "json|lobby/treasure|4|2|2|6|1|518cd0681eefe0af1e62abf9ffc7d236"
+msgid "json|lobby/treasure|5|2|2|6|1|518cd0681eefe0af1e62abf9ffc7d236"
 msgstr "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
 
 #: ui_en.json
 msgctxt "雀士概率：5%"
-msgid "json|lobby/treasure|4|2|2|6|2|11e4ba4a8cb176be1acb80978b571cdb"
+msgid "json|lobby/treasure|5|2|2|6|2|11e4ba4a8cb176be1acb80978b571cdb"
 msgstr "雀士概率：5%"
 
 #: ui_en.json
 msgctxt "重複獲取的雀士將轉換為許願石"
-msgid "json|lobby/treasure|4|2|2|6|2|0|ebddb8d60708511717c57d9af4c2aec4"
+msgid "json|lobby/treasure|5|2|2|6|2|0|ebddb8d60708511717c57d9af4c2aec4"
 msgstr "重複獲取的雀士將轉換為許願石"
 
 #: ui_en.json
 msgctxt "裝扮概率：15%"
-msgid "json|lobby/treasure|4|2|2|6|3|b299f6de87bda3f0ce7e6fc4c8fbcc87"
+msgid "json|lobby/treasure|5|2|2|6|3|b299f6de87bda3f0ce7e6fc4c8fbcc87"
 msgstr "裝扮概率：15%"
 
 #: ui_en.json
 msgctxt "重複獲取的裝扮將轉換為星之石"
-msgid "json|lobby/treasure|4|2|2|6|3|0|7a94167b93d000c521a8acfea5d2ddaa"
+msgid "json|lobby/treasure|5|2|2|6|3|0|7a94167b93d000c521a8acfea5d2ddaa"
 msgstr "重複獲取的裝扮將轉換為星之石"
 
 #: ui_en.json
 msgctxt "禮物概率：80%"
-msgid "json|lobby/treasure|4|2|2|6|4|4b00df9933d62ef84bad21e912d3b2c6"
+msgid "json|lobby/treasure|5|2|2|6|4|4b00df9933d62ef84bad21e912d3b2c6"
 msgstr "禮物概率：80%"
 
 #: ui_en.json
 msgctxt "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
-msgid "json|lobby/treasure|4|2|2|6|5|12c6b2a733d418c8181614719a7d3558"
+msgid "json|lobby/treasure|5|2|2|6|5|12c6b2a733d418c8181614719a7d3558"
 msgstr "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
 
 #: ui_en.json
 msgctxt "每次尋覓都可以獲得1點"
-msgid "json|lobby/treasure|4|2|2|7|0|c8a45e1d2afe4fc915d87276d700a0c7"
+msgid "json|lobby/treasure|5|2|2|7|0|c8a45e1d2afe4fc915d87276d700a0c7"
 msgstr "每次尋覓都可以獲得1點"
 
 #: ui_en.json
 msgctxt "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
-msgid "json|lobby/treasure|4|2|2|7|1|518cd0681eefe0af1e62abf9ffc7d236"
+msgid "json|lobby/treasure|5|2|2|7|1|518cd0681eefe0af1e62abf9ffc7d236"
 msgstr "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
 
 #: ui_en.json
 msgctxt "雀士概率：5%"
-msgid "json|lobby/treasure|4|2|2|7|2|11e4ba4a8cb176be1acb80978b571cdb"
+msgid "json|lobby/treasure|5|2|2|7|2|11e4ba4a8cb176be1acb80978b571cdb"
 msgstr "雀士概率：5%"
 
 #: ui_en.json
 msgctxt "重複獲取的雀士將轉換為許願石"
-msgid "json|lobby/treasure|4|2|2|7|2|0|ebddb8d60708511717c57d9af4c2aec4"
+msgid "json|lobby/treasure|5|2|2|7|2|0|ebddb8d60708511717c57d9af4c2aec4"
 msgstr "重複獲取的雀士將轉換為許願石"
 
 #: ui_en.json
 msgctxt "(UP雀士占59%、其他雀士占41%)"
-msgid "json|lobby/treasure|4|2|2|7|3|e571ef2163101e87f50d31d486befbb2"
+msgid "json|lobby/treasure|5|2|2|7|3|e571ef2163101e87f50d31d486befbb2"
 msgstr "(UP雀士占59%、其他雀士占41%)"
 
 #: ui_en.json
 msgctxt "裝扮概率：15%"
-msgid "json|lobby/treasure|4|2|2|7|4|b299f6de87bda3f0ce7e6fc4c8fbcc87"
+msgid "json|lobby/treasure|5|2|2|7|4|b299f6de87bda3f0ce7e6fc4c8fbcc87"
 msgstr "裝扮概率：15%"
 
 #: ui_en.json
 msgctxt "重複獲取的裝扮將轉換為星之石"
-msgid "json|lobby/treasure|4|2|2|7|4|0|7a94167b93d000c521a8acfea5d2ddaa"
+msgid "json|lobby/treasure|5|2|2|7|4|0|7a94167b93d000c521a8acfea5d2ddaa"
 msgstr "重複獲取的裝扮將轉換為星之石"
 
 #: ui_en.json
 msgctxt "(UP裝扮占49%、其他裝扮占51%)"
-msgid "json|lobby/treasure|4|2|2|7|5|b4cc67a1824d6db16ad0fbfefef583ef"
+msgid "json|lobby/treasure|5|2|2|7|5|b4cc67a1824d6db16ad0fbfefef583ef"
 msgstr "(UP裝扮占49%、其他裝扮占51%)"
 
 #: ui_en.json
 msgctxt "禮物概率：80%"
-msgid "json|lobby/treasure|4|2|2|7|6|4b00df9933d62ef84bad21e912d3b2c6"
+msgid "json|lobby/treasure|5|2|2|7|6|4b00df9933d62ef84bad21e912d3b2c6"
 msgstr "禮物概率：80%"
 
 #: ui_en.json
 msgctxt "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
-msgid "json|lobby/treasure|4|2|2|7|7|12c6b2a733d418c8181614719a7d3558"
+msgid "json|lobby/treasure|5|2|2|7|7|12c6b2a733d418c8181614719a7d3558"
 msgstr "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
 
 #: ui_en.json
 msgctxt "Character Info"
-msgid "json|lobby/treasure|4|3|1|2|0|0|0|a4d02d0457516e98af7e84b5898de22a"
+msgid "json|lobby/treasure|5|3|1|2|0|0|0|a4d02d0457516e98af7e84b5898de22a"
 msgstr "Character Info"
 
 #: ui_en.json
 msgctxt "Height:"
-msgid "json|lobby/treasure|4|3|1|2|0|1|0|e933dc24fb245d863a43b4fefe9b45f5"
+msgid "json|lobby/treasure|5|3|1|2|0|1|0|e933dc24fb245d863a43b4fefe9b45f5"
 msgstr "Height:"
 
 #: ui_en.json
 msgctxt "Birthday:"
-msgid "json|lobby/treasure|4|3|1|2|0|1|2|39d595f1a4ce984b95e9b52821b62177"
+msgid "json|lobby/treasure|5|3|1|2|0|1|2|39d595f1a4ce984b95e9b52821b62177"
 msgstr "Birthday:"
 
 #: ui_en.json
 msgctxt "Age:"
-msgid "json|lobby/treasure|4|3|1|2|0|1|4|25235196c2744e9050067d45587d6a8b"
+msgid "json|lobby/treasure|5|3|1|2|0|1|4|25235196c2744e9050067d45587d6a8b"
 msgstr "Age:"
 
 #: ui_en.json
 msgctxt "Blood Type:"
-msgid "json|lobby/treasure|4|3|1|2|0|1|6|96fa3614d73d288f3e8a8d6dddff18e4"
+msgid "json|lobby/treasure|5|3|1|2|0|1|6|96fa3614d73d288f3e8a8d6dddff18e4"
 msgstr "Blood Type:"
 
 #: ui_en.json
 msgctxt "CV:"
-msgid "json|lobby/treasure|4|3|1|2|0|1|8|42d6dd398ca223a660996ed83d84dd8d"
+msgid "json|lobby/treasure|5|3|1|2|0|1|8|42d6dd398ca223a660996ed83d84dd8d"
 msgstr "CV:"
 
 #: ui_en.json
 msgctxt "Hobby:"
-msgid "json|lobby/treasure|4|3|1|2|0|1|10|bc94dc5a26d1a278aa125811045da9cc"
+msgid "json|lobby/treasure|5|3|1|2|0|1|10|bc94dc5a26d1a278aa125811045da9cc"
 msgstr "Hobby:"
 
 #: ui_en.json
 msgctxt "Biography:"
-msgid "json|lobby/treasure|4|3|1|2|0|1|12|4859bddf1003cb383bc6b220a07218aa"
+msgid "json|lobby/treasure|5|3|1|2|0|1|12|4859bddf1003cb383bc6b220a07218aa"
 msgstr "Biography:"
 
 #: ui_en.json
 msgctxt "Voice"
-msgid "json|lobby/treasure|4|3|1|2|0|2|0|0|d7a3fdf1351b72249a47454751549deb"
+msgid "json|lobby/treasure|5|3|1|2|0|2|0|0|d7a3fdf1351b72249a47454751549deb"
 msgstr "Voice"
 
 #: ui_en.json
 msgctxt "Sample 1"
-msgid "json|lobby/treasure|4|3|1|2|0|2|1|0|9060b4569344c3f678516a751154ccec"
+msgid "json|lobby/treasure|5|3|1|2|0|2|1|0|9060b4569344c3f678516a751154ccec"
 msgstr "Sample 1"
 
 #: ui_en.json
 msgctxt "Sample 2"
-msgid "json|lobby/treasure|4|3|1|2|0|2|2|0|786e1405617a0c76f9a9ab76d9858d9e"
+msgid "json|lobby/treasure|5|3|1|2|0|2|2|0|786e1405617a0c76f9a9ab76d9858d9e"
 msgstr "Sample 2"
 
 #: ui_en.json
 msgctxt "Sample 3"
-msgid "json|lobby/treasure|4|3|1|2|0|2|3|0|9e8687c7b37f396e653ec9334d12e5ca"
+msgid "json|lobby/treasure|5|3|1|2|0|2|3|0|9e8687c7b37f396e653ec9334d12e5ca"
 msgstr "Sample 3"
 
 #: ui_en.json
-msgctxt "Insufficient Summon Stones"
-msgid "json|lobby/treasure|5|0|2|89c7eb2a6511756493a3d54edb121f69"
-msgstr "Insufficient Summon Stones"
+msgctxt "寻觅辉石不足"
+msgid "json|lobby/treasure|6|0|2|d4954ea8d53d97ad5b97a60c40ca22ab"
+msgstr "寻觅辉石不足"
 
 #: ui_en.json
-msgctxt "Confirm"
-msgid "json|lobby/treasure|5|0|11|0|70d9be9b139893aa6c69b5e77e614311"
-msgstr "Confirm"
+msgctxt "1800"
+msgid "json|lobby/treasure|6|0|4|f39ae9ff3a81f499230c4126e01f421b"
+msgstr "1800"
 
 #: ui_en.json
-msgctxt "Cancel"
-msgid "json|lobby/treasure|5|0|12|0|ea4788705e6873b424c65e91c2846b19"
-msgstr "Cancel"
+msgctxt "1800"
+msgid "json|lobby/treasure|6|0|5|f39ae9ff3a81f499230c4126e01f421b"
+msgstr "1800"
 
 #: ui_en.json
-msgctxt "Do you wish to spend"
-msgid "json|lobby/treasure|5|0|13|f3e7db0aa0bc19a353990c6a65c1ba50"
-msgstr "Do you wish to spend"
+msgctxt "1800"
+msgid "json|lobby/treasure|6|0|9|f39ae9ff3a81f499230c4126e01f421b"
+msgstr "1800"
 
 #: ui_en.json
-msgctxt "Jade"
-msgid "json|lobby/treasure|5|0|14|101222f5de28a8ada8477a7dd32d01ac"
-msgstr "Jade"
+msgctxt "1800"
+msgid "json|lobby/treasure|6|0|10|f39ae9ff3a81f499230c4126e01f421b"
+msgstr "1800"
 
 #: ui_en.json
-msgctxt "Purchase"
-msgid "json|lobby/treasure|5|0|15|76b6a47a02685d51794b9fdb095512e5"
-msgstr "Purchase"
+msgctxt "确认"
+msgid "json|lobby/treasure|6|0|11|0|e83a256e4f5bb4ff8b3d804b5473217a"
+msgstr "确认"
 
 #: ui_en.json
-msgctxt "Summon Stones?"
-msgid "json|lobby/treasure|5|0|16|fd6e806beffb1c6cb29de4856a60bf04"
-msgstr "Summon Stones?"
+msgctxt "取消"
+msgid "json|lobby/treasure|6|0|12|0|625fb26b4b3340f7872b411f401e754c"
+msgstr "取消"
+
+#: ui_en.json
+msgctxt "是否花费"
+msgid "json|lobby/treasure|6|0|13|9b3d73847629428b4672471a04440f92"
+msgstr "是否花费"
+
+#: ui_en.json
+msgctxt "辉玉"
+msgid "json|lobby/treasure|6|0|14|ea6e1308c0b5f15137b68b3f9ab63ddb"
+msgstr "辉玉"
+
+#: ui_en.json
+msgctxt "购买"
+msgid "json|lobby/treasure|6|0|15|bdc336339cd05ede697c47f64c12abcf"
+msgstr "购买"
+
+#: ui_en.json
+msgctxt "寻觅辉石"
+msgid "json|lobby/treasure|6|0|16|13acac6478b636c40372205b9840a532"
+msgstr "寻觅辉石"
 
 #: ui_en.json
 msgctxt "Insufficient Jade"
-msgid "json|lobby/treasure|6|0|2|f384778be541036a6aec2eca58d953c9"
+msgid "json|lobby/treasure|7|0|2|f384778be541036a6aec2eca58d953c9"
 msgstr "Insufficient Jade"
 
 #: ui_en.json
 msgctxt "Buy"
-msgid "json|lobby/treasure|6|0|4|0|831a28f1e8df07c553fcd59546465d13"
+msgid "json|lobby/treasure|7|0|4|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "Buy"
 
 #: ui_en.json
 msgctxt "Cancel"
-msgid "json|lobby/treasure|6|0|5|0|ea4788705e6873b424c65e91c2846b19"
+msgid "json|lobby/treasure|7|0|5|0|ea4788705e6873b424c65e91c2846b19"
 msgstr "Cancel"
 
 #: ui_en.json
 msgctxt "Insufficient Jade ，Do you wish to Purchase ？"
-msgid "json|lobby/treasure|6|0|6|9dcfd392f568bba3a473caf6bb8fa204"
+msgid "json|lobby/treasure|7|0|6|9dcfd392f568bba3a473caf6bb8fa204"
 msgstr "Insufficient Jade ，Do you wish to Purchase ？"
 
 #: ui_en.json
@@ -7278,6 +7363,11 @@ msgstr "Bond Gift"
 msgctxt "Confirm"
 msgid "json|mj/scorechange|6|3|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
+
+#: ui_en.json
+msgctxt "Repeat Counter"
+msgid "json|mj/scorechange|8|4|908362b065bcfdad809d7ea17d941ffe"
+msgstr "Repeat Counter"
 
 #: ui_en.json
 msgctxt "Furiten"
@@ -16216,6 +16306,31 @@ msgctxt "DoraDorara"
 msgid "sheet|ActivityActivity.csv|name_en|20651a18b8adec38431a1f9464919ad1"
 msgstr "DoraDorara"
 
+#: ActivityActivity.csv:97
+msgctxt "Mooncake Tale"
+msgid "sheet|ActivityActivity.csv|name_en|1eb9a5a4e7453926585b1f376c8c7de8"
+msgstr "Mooncake Tale"
+
+#: ActivityActivity.csv:98
+msgctxt ""
+msgid "sheet|ActivityActivity.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ActivityActivity.csv:99
+msgctxt ""
+msgid "sheet|ActivityActivity.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ActivityActivity.csv:100
+msgctxt ""
+msgid "sheet|ActivityActivity.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ActivityActivity.csv:101
+msgctxt ""
+msgid "sheet|ActivityActivity.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
 #: AudioBgm.csv:2
 msgctxt "Sakura"
 msgid "sheet|AudioBgm.csv|name_en|ba7e5dcafbbfbc98c2f0e5ff2135481a"
@@ -17465,10 +17580,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:103
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:104
 msgctxt "Event"
@@ -17477,10 +17592,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:104
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:105
 msgctxt "Event"
@@ -17489,10 +17604,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:105
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:106
 msgctxt "Event"
@@ -17501,10 +17616,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:106
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:107
 msgctxt "Event"
@@ -17513,10 +17628,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:107
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:108
 msgctxt "Event"
@@ -17525,10 +17640,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:108
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:109
 msgctxt "Event"
@@ -17537,10 +17652,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:109
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:110
 msgctxt "Event"
@@ -17549,10 +17664,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:110
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:111
 msgctxt "Event"
@@ -17561,10 +17676,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:111
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:112
 msgctxt "Event"
@@ -17573,10 +17688,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:112
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:113
 msgctxt "Event"
@@ -17585,10 +17700,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:113
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:114
 msgctxt "Event"
@@ -17597,10 +17712,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:114
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:115
 msgctxt "Event"
@@ -17609,10 +17724,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:115
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:116
 msgctxt "Event"
@@ -17621,10 +17736,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:116
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:117
 msgctxt "Event"
@@ -17633,10 +17748,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:117
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:118
 msgctxt "Event"
@@ -17645,10 +17760,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:118
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:119
 msgctxt "Event"
@@ -17657,10 +17772,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:119
-msgctxt "9/27  (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ab7d5f0b9a913778aea03ae9eb0a03c"
-msgstr "9/27  (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:120
 msgctxt "Event"
@@ -17669,10 +17784,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:120
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:121
 msgctxt "Event"
@@ -17681,10 +17796,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:121
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:122
 msgctxt "Event"
@@ -17693,10 +17808,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:122
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:123
 msgctxt "Event"
@@ -17705,10 +17820,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:123
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:124
 msgctxt "Event"
@@ -17717,10 +17832,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:124
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:125
 msgctxt "Event"
@@ -17729,10 +17844,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:125
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:126
 msgctxt "Event"
@@ -17741,10 +17856,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:126
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:127
 msgctxt "Event"
@@ -17753,10 +17868,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:127
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:128
 msgctxt "Event"
@@ -17765,10 +17880,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:128
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:129
 msgctxt "Event"
@@ -17777,10 +17892,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:129
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:130
 msgctxt "Event"
@@ -17789,10 +17904,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:130
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:131
 msgctxt "Event"
@@ -17801,10 +17916,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:131
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:132
 msgctxt "Event"
@@ -17813,10 +17928,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:132
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:133
 msgctxt "Event"
@@ -17825,10 +17940,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:133
-msgctxt "10/30 (PDT)"
+msgctxt "10/27  (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
-msgstr "10/30 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
 
 #: CharacterEmoji.csv:134
 msgctxt "Event"
@@ -17897,10 +18012,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:139
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:140
 msgctxt "Event"
@@ -17909,10 +18024,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:140
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:141
 msgctxt "Event"
@@ -17921,10 +18036,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:141
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:142
 msgctxt "Event"
@@ -17933,10 +18048,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:142
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:143
 msgctxt "Event"
@@ -17945,10 +18060,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:143
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:144
 msgctxt "Event"
@@ -17957,10 +18072,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:144
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:145
 msgctxt "Event"
@@ -17969,10 +18084,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:145
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:146
 msgctxt "Event"
@@ -17981,10 +18096,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:146
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:147
 msgctxt "Event"
@@ -17993,10 +18108,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:147
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:148
 msgctxt "Event"
@@ -18005,10 +18120,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:148
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:149
 msgctxt "Event"
@@ -18017,10 +18132,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:149
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:150
 msgctxt "Event"
@@ -18029,10 +18144,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:150
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:151
 msgctxt "Event"
@@ -18041,10 +18156,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:151
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:152
 msgctxt "Event"
@@ -18053,10 +18168,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:152
-msgctxt "11/09 (PDT)"
+msgctxt "10/30 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
-msgstr "11/09 (PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|4b8c0e8567eb9970898a2fdd1dcbb1bf"
+msgstr "10/30 (PDT)"
 
 #: CharacterEmoji.csv:153
 msgctxt "Event"
@@ -18125,10 +18240,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:158
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:159
 msgctxt "Event"
@@ -18137,10 +18252,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:159
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:160
 msgctxt "Event"
@@ -18149,10 +18264,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:160
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:161
 msgctxt "Event"
@@ -18161,10 +18276,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:161
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:162
 msgctxt "Event"
@@ -18173,10 +18288,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:162
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:163
 msgctxt "Event"
@@ -18185,10 +18300,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:163
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:164
 msgctxt "Event"
@@ -18197,10 +18312,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:164
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:165
 msgctxt "Event"
@@ -18209,10 +18324,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:165
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:166
 msgctxt "Event"
@@ -18221,10 +18336,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:166
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:167
 msgctxt "Event"
@@ -18233,10 +18348,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:167
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:168
 msgctxt "Event"
@@ -18245,10 +18360,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:168
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:169
 msgctxt "Event"
@@ -18257,10 +18372,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:169
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:170
 msgctxt "Event"
@@ -18269,10 +18384,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:170
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:171
 msgctxt "Event"
@@ -18281,10 +18396,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:171
-msgctxt "12/11(PDT)"
+msgctxt "11/09 (PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
-msgstr "12/11(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|636163136f9949664c228768e8a87a0c"
+msgstr "11/09 (PDT)"
 
 #: CharacterEmoji.csv:172
 msgctxt "Event"
@@ -18353,10 +18468,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:177
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:178
 msgctxt "Event"
@@ -18365,10 +18480,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:178
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:179
 msgctxt "Event"
@@ -18377,10 +18492,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:179
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:180
 msgctxt "Event"
@@ -18389,10 +18504,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:180
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:181
 msgctxt "Event"
@@ -18401,10 +18516,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:181
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:182
 msgctxt "Event"
@@ -18413,10 +18528,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:182
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:183
 msgctxt "Event"
@@ -18425,10 +18540,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:183
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:184
 msgctxt "Event"
@@ -18437,10 +18552,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:184
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:185
 msgctxt "Event"
@@ -18449,10 +18564,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:185
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:186
 msgctxt "Event"
@@ -18461,10 +18576,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:186
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:187
 msgctxt "Event"
@@ -18473,10 +18588,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:187
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:188
 msgctxt "Event"
@@ -18485,10 +18600,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:188
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:189
 msgctxt "Event"
@@ -18497,10 +18612,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:189
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:190
 msgctxt "Event"
@@ -18509,10 +18624,10 @@ msgid ""
 msgstr "Event"
 
 #: CharacterEmoji.csv:190
-msgctxt "12/26(PDT)"
+msgctxt "12/11(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
-msgstr "12/26(PDT)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|d9b19c149f1fb91c651f1075b35978d8"
+msgstr "12/11(PDT)"
 
 #: CharacterEmoji.csv:191
 msgctxt "Event"
@@ -18575,172 +18690,172 @@ msgid ""
 msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:196
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:196
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:197
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:197
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:198
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:198
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:199
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:199
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:200
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:200
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:201
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:201
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:202
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:202
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:203
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:203
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:204
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:204
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:205
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:205
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:206
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:206
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:207
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:207
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:208
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:208
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:209
-msgctxt "Sticker Shop"
+msgctxt "Event"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
-msgstr "Sticker Shop"
+"sheet|CharacterEmoji.csv|unlock_desc_en|a4ecfc70574394990cf17bd83df499f7"
+msgstr "Event"
 
 #: CharacterEmoji.csv:209
-msgctxt "2/28(UTC-7)"
+msgctxt "12/26(PDT)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
-msgstr "2/28(UTC-7)"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6ceadc80eb0f280b78d29bff189672de"
+msgstr "12/26(PDT)"
 
 #: CharacterEmoji.csv:210
 msgctxt "Sticker Shop"
@@ -18851,172 +18966,172 @@ msgid ""
 msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:219
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:219
-msgctxt "Christmas"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|81b616fbff55b8698d44852f45c08630"
-msgstr "Christmas"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:220
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:220
-msgctxt "Christmas"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|81b616fbff55b8698d44852f45c08630"
-msgstr "Christmas"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:221
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:221
-msgctxt "Christmas"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|81b616fbff55b8698d44852f45c08630"
-msgstr "Christmas"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:222
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:222
-msgctxt "Christmas"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|81b616fbff55b8698d44852f45c08630"
-msgstr "Christmas"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:223
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:223
-msgctxt "Halloween"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|e1114432a2ac994a333544d5da17e1fb"
-msgstr "Halloween"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:224
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:224
-msgctxt "Halloween"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|e1114432a2ac994a333544d5da17e1fb"
-msgstr "Halloween"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:225
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:225
-msgctxt "Halloween"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|e1114432a2ac994a333544d5da17e1fb"
-msgstr "Halloween"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:226
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:226
-msgctxt "Halloween"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|e1114432a2ac994a333544d5da17e1fb"
-msgstr "Halloween"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:227
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:227
-msgctxt "Beach Party"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
-msgstr "Beach Party"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:228
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:228
-msgctxt "Beach Party"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
-msgstr "Beach Party"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:229
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:229
-msgctxt "Beach Party"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
-msgstr "Beach Party"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:230
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:230
-msgctxt "Beach Party"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
-msgstr "Beach Party"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:231
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:231
-msgctxt "New Year"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6bfa6743c8624b3490f7735b24c60295"
-msgstr "New Year"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:232
-msgctxt "Unlock Outfit"
+msgctxt "Sticker Shop"
 msgid ""
-"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
-msgstr "Unlock Outfit"
+"sheet|CharacterEmoji.csv|unlock_desc_en|fd5c5288936296a783db866cb429c61d"
+msgstr "Sticker Shop"
 
 #: CharacterEmoji.csv:232
-msgctxt "New Year"
+msgctxt "2/28(UTC-7)"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|6bfa6743c8624b3490f7735b24c60295"
-msgstr "New Year"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f5bf8ea0ff27df428877d0311ca07757"
+msgstr "2/28(UTC-7)"
 
 #: CharacterEmoji.csv:233
 msgctxt "Unlock Outfit"
@@ -19025,10 +19140,10 @@ msgid ""
 msgstr "Unlock Outfit"
 
 #: CharacterEmoji.csv:233
-msgctxt "Spring Festival"
+msgctxt "Christmas"
 msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|668282b1ccda2a3a86be438c9c0412d8"
-msgstr "Spring Festival"
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|81b616fbff55b8698d44852f45c08630"
+msgstr "Christmas"
 
 #: CharacterEmoji.csv:234
 msgctxt "Unlock Outfit"
@@ -19037,66 +19152,234 @@ msgid ""
 msgstr "Unlock Outfit"
 
 #: CharacterEmoji.csv:234
+msgctxt "Christmas"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|81b616fbff55b8698d44852f45c08630"
+msgstr "Christmas"
+
+#: CharacterEmoji.csv:235
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:235
+msgctxt "Christmas"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|81b616fbff55b8698d44852f45c08630"
+msgstr "Christmas"
+
+#: CharacterEmoji.csv:236
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:236
+msgctxt "Christmas"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|81b616fbff55b8698d44852f45c08630"
+msgstr "Christmas"
+
+#: CharacterEmoji.csv:237
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:237
+msgctxt "Halloween"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|e1114432a2ac994a333544d5da17e1fb"
+msgstr "Halloween"
+
+#: CharacterEmoji.csv:238
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:238
+msgctxt "Halloween"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|e1114432a2ac994a333544d5da17e1fb"
+msgstr "Halloween"
+
+#: CharacterEmoji.csv:239
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:239
+msgctxt "Halloween"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|e1114432a2ac994a333544d5da17e1fb"
+msgstr "Halloween"
+
+#: CharacterEmoji.csv:240
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:240
+msgctxt "Halloween"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|e1114432a2ac994a333544d5da17e1fb"
+msgstr "Halloween"
+
+#: CharacterEmoji.csv:241
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:241
+msgctxt "Beach Party"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
+msgstr "Beach Party"
+
+#: CharacterEmoji.csv:242
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:242
+msgctxt "Beach Party"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
+msgstr "Beach Party"
+
+#: CharacterEmoji.csv:243
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:243
+msgctxt "Beach Party"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
+msgstr "Beach Party"
+
+#: CharacterEmoji.csv:244
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:244
+msgctxt "Beach Party"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
+msgstr "Beach Party"
+
+#: CharacterEmoji.csv:245
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:245
+msgctxt "New Year"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6bfa6743c8624b3490f7735b24c60295"
+msgstr "New Year"
+
+#: CharacterEmoji.csv:246
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:246
+msgctxt "New Year"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|6bfa6743c8624b3490f7735b24c60295"
+msgstr "New Year"
+
+#: CharacterEmoji.csv:247
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:247
 msgctxt "Spring Festival"
 msgid ""
 "sheet|CharacterEmoji.csv|after_unlock_desc_en|668282b1ccda2a3a86be438c9c0412d8"
 msgstr "Spring Festival"
 
-#: CharacterEmoji.csv:235
+#: CharacterEmoji.csv:248
 msgctxt "Unlock Outfit"
 msgid ""
 "sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
 msgstr "Unlock Outfit"
 
-#: CharacterEmoji.csv:235
+#: CharacterEmoji.csv:248
+msgctxt "Spring Festival"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|668282b1ccda2a3a86be438c9c0412d8"
+msgstr "Spring Festival"
+
+#: CharacterEmoji.csv:249
+msgctxt "Unlock Outfit"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
+msgstr "Unlock Outfit"
+
+#: CharacterEmoji.csv:249
 msgctxt ""
 msgid ""
 "sheet|CharacterEmoji.csv|after_unlock_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: CharacterEmoji.csv:236
+#: CharacterEmoji.csv:250
 msgctxt "Unlock Outfit"
 msgid ""
 "sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
 msgstr "Unlock Outfit"
 
-#: CharacterEmoji.csv:236
+#: CharacterEmoji.csv:250
 msgctxt ""
 msgid ""
 "sheet|CharacterEmoji.csv|after_unlock_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: CharacterEmoji.csv:237
+#: CharacterEmoji.csv:251
 msgctxt "Unlock Outfit"
 msgid ""
 "sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
 msgstr "Unlock Outfit"
 
-#: CharacterEmoji.csv:237
+#: CharacterEmoji.csv:251
 msgctxt ""
 msgid ""
 "sheet|CharacterEmoji.csv|after_unlock_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: CharacterEmoji.csv:238
+#: CharacterEmoji.csv:252
 msgctxt "Unlock Outfit"
 msgid ""
 "sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
 msgstr "Unlock Outfit"
 
-#: CharacterEmoji.csv:238
+#: CharacterEmoji.csv:252
 msgctxt ""
 msgid ""
 "sheet|CharacterEmoji.csv|after_unlock_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: CharacterEmoji.csv:239
+#: CharacterEmoji.csv:253
 msgctxt "Unlock Outfit"
 msgid ""
 "sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
 msgstr "Unlock Outfit"
 
-#: CharacterEmoji.csv:239
+#: CharacterEmoji.csv:253
 msgctxt ""
 msgid ""
 "sheet|CharacterEmoji.csv|after_unlock_desc_en|d41d8cd98f00b204e9800998ecf8427e"
@@ -19168,6 +19451,166 @@ msgid "sheet|ChestChest.csv|name_en|efde9837421a1454da9ca1d72146c552"
 msgstr "Summon"
 
 #: ChestChest.csv:5
+msgctxt ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+msgid "sheet|ChestChest.csv|desc_en|3c535c12cc1e3ccc827c8b45c378db45"
+msgstr ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+
+#: ChestChest.csv:6
+msgctxt "Summon"
+msgid "sheet|ChestChest.csv|name_en|efde9837421a1454da9ca1d72146c552"
+msgstr "Summon"
+
+#: ChestChest.csv:6
+msgctxt ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+msgid "sheet|ChestChest.csv|desc_en|3c535c12cc1e3ccc827c8b45c378db45"
+msgstr ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+
+#: ChestChest.csv:7
+msgctxt "Summon"
+msgid "sheet|ChestChest.csv|name_en|efde9837421a1454da9ca1d72146c552"
+msgstr "Summon"
+
+#: ChestChest.csv:7
+msgctxt ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+msgid "sheet|ChestChest.csv|desc_en|3c535c12cc1e3ccc827c8b45c378db45"
+msgstr ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+
+#: ChestChest.csv:8
+msgctxt "Summon"
+msgid "sheet|ChestChest.csv|name_en|efde9837421a1454da9ca1d72146c552"
+msgstr "Summon"
+
+#: ChestChest.csv:8
+msgctxt ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+msgid "sheet|ChestChest.csv|desc_en|3c535c12cc1e3ccc827c8b45c378db45"
+msgstr ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+
+#: ChestChest.csv:9
+msgctxt "Summon"
+msgid "sheet|ChestChest.csv|name_en|efde9837421a1454da9ca1d72146c552"
+msgstr "Summon"
+
+#: ChestChest.csv:9
+msgctxt ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+msgid "sheet|ChestChest.csv|desc_en|3c535c12cc1e3ccc827c8b45c378db45"
+msgstr ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+
+#: ChestChest.csv:10
+msgctxt "Summon"
+msgid "sheet|ChestChest.csv|name_en|efde9837421a1454da9ca1d72146c552"
+msgstr "Summon"
+
+#: ChestChest.csv:10
+msgctxt ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+msgid "sheet|ChestChest.csv|desc_en|3c535c12cc1e3ccc827c8b45c378db45"
+msgstr ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+
+#: ChestChest.csv:11
+msgctxt "Summon"
+msgid "sheet|ChestChest.csv|name_en|efde9837421a1454da9ca1d72146c552"
+msgstr "Summon"
+
+#: ChestChest.csv:11
+msgctxt ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+msgid "sheet|ChestChest.csv|desc_en|3c535c12cc1e3ccc827c8b45c378db45"
+msgstr ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+
+#: ChestChest.csv:12
+msgctxt "Summon"
+msgid "sheet|ChestChest.csv|name_en|efde9837421a1454da9ca1d72146c552"
+msgstr "Summon"
+
+#: ChestChest.csv:12
+msgctxt ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+msgid "sheet|ChestChest.csv|desc_en|3c535c12cc1e3ccc827c8b45c378db45"
+msgstr ""
+"For each summon: you can get 1 Faith, with a chance to draw an all-new "
+"character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
+"drop rates: 15% \\n Gift drop rates: 80% \\n\\n If summoned a duplicate "
+"character, will be converted into Wishing Stones. \\n Duplicate decorations "
+"will be converted into Star Stones."
+
+#: ChestChest.csv:13
+msgctxt "Summon"
+msgid "sheet|ChestChest.csv|name_en|efde9837421a1454da9ca1d72146c552"
+msgstr "Summon"
+
+#: ChestChest.csv:13
 msgctxt ""
 "For each summon: you can get 1 Faith, with a chance to draw an all-new "
 "character and decorations. \\n\\n Character drop rates: 5% \\n Decoration "
@@ -30047,9 +30490,9 @@ msgid ""
 msgstr ""
 
 #: ItemDefinitionItem.csv:70
-msgctxt "Moonlight Chest"
-msgid "sheet|ItemDefinitionItem.csv|name_en|f576d745ffed0bdcea8a3622db45e762"
-msgstr "Moonlight Chest"
+msgctxt "Moonlight Lucky Bag"
+msgid "sheet|ItemDefinitionItem.csv|name_en|e9a7959b263759c94c2697238f37a48b"
+msgstr "Moonlight Lucky Bag"
 
 #: ItemDefinitionItem.csv:70
 msgctxt "Contains a blue gift"
@@ -30063,9 +30506,9 @@ msgid ""
 msgstr ""
 
 #: ItemDefinitionItem.csv:71
-msgctxt "Sunshine Chest"
-msgid "sheet|ItemDefinitionItem.csv|name_en|de54f64f7700f185d049b24d0907d84f"
-msgstr "Sunshine Chest"
+msgctxt "Sunshine Lucky Bag"
+msgid "sheet|ItemDefinitionItem.csv|name_en|8555f30f17cf3705e8361c2e6df5295a"
+msgstr "Sunshine Lucky Bag"
 
 #: ItemDefinitionItem.csv:71
 msgctxt "Contains a purple gift"
@@ -30132,9 +30575,9 @@ msgid ""
 msgstr ""
 
 #: ItemDefinitionItem.csv:75
-msgctxt "Moonlight Lucky Bag"
-msgid "sheet|ItemDefinitionItem.csv|name_en|e9a7959b263759c94c2697238f37a48b"
-msgstr "Moonlight Lucky Bag"
+msgctxt "Moonlight Chest"
+msgid "sheet|ItemDefinitionItem.csv|name_en|f576d745ffed0bdcea8a3622db45e762"
+msgstr "Moonlight Chest"
 
 #: ItemDefinitionItem.csv:75
 msgctxt "Contains a blue gift of your choice"
@@ -30148,9 +30591,9 @@ msgid ""
 msgstr ""
 
 #: ItemDefinitionItem.csv:76
-msgctxt "Sunshine Lucky Bag"
-msgid "sheet|ItemDefinitionItem.csv|name_en|8555f30f17cf3705e8361c2e6df5295a"
-msgstr "Sunshine Lucky Bag"
+msgctxt "Sunshine Chest"
+msgid "sheet|ItemDefinitionItem.csv|name_en|de54f64f7700f185d049b24d0907d84f"
+msgstr "Sunshine Chest"
 
 #: ItemDefinitionItem.csv:76
 msgctxt "Contains a purple gift of your choice"
@@ -31416,75 +31859,111 @@ msgid ""
 msgstr "2021/7/31 1:59 P.M. (UTC-7)"
 
 #: ItemDefinitionItem.csv:148
+msgctxt "Limited Portrait Frame"
+msgid "sheet|ItemDefinitionItem.csv|name_en|df367db07175a73d1846fafa647ca9ed"
+msgstr "Limited Portrait Frame"
+
+#: ItemDefinitionItem.csv:148
+msgctxt ""
+"A reward for Mahjong Soul official tournament winner. (Expires in 1 year)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|d263ca1a9e7c0ee1bc30ca36f102c0cd"
+msgstr ""
+"A reward for Mahjong Soul official tournament winner. (Expires in 1 year)"
+
+#: ItemDefinitionItem.csv:148
+msgctxt "2021年10月1日5時59分まで"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|9c653f1190d4d0cb6c3004db624031a8"
+msgstr "2021年10月1日5時59分まで"
+
+#: ItemDefinitionItem.csv:149
+msgctxt "Limited Portrait Frame"
+msgid "sheet|ItemDefinitionItem.csv|name_en|df367db07175a73d1846fafa647ca9ed"
+msgstr "Limited Portrait Frame"
+
+#: ItemDefinitionItem.csv:149
+msgctxt ""
+"A reward for Mahjong Soul official tournament winner. (Expires in 1 year)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|d263ca1a9e7c0ee1bc30ca36f102c0cd"
+msgstr ""
+"A reward for Mahjong Soul official tournament winner. (Expires in 1 year)"
+
+#: ItemDefinitionItem.csv:149
+msgctxt "2021/10/31 1:59 P.M. (UTC-7)"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|caa3171f5031e82ca945fa115baffe7c"
+msgstr "2021/10/31 1:59 P.M. (UTC-7)"
+
+#: ItemDefinitionItem.csv:150
 msgctxt "Portrait Frame - Expert of Trials"
 msgid "sheet|ItemDefinitionItem.csv|name_en|24f31f6e1e697747175b6d2f14b8930d"
 msgstr "Portrait Frame - Expert of Trials"
 
-#: ItemDefinitionItem.csv:148
+#: ItemDefinitionItem.csv:150
 msgctxt "A certificate of excellent performer on Path of Trial"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|201073848d6b1f443648793865d303ef"
 msgstr "A certificate of excellent performer on Path of Trial"
 
-#: ItemDefinitionItem.csv:148
-msgctxt "Expiry Date: 2021/2/21 1:59 P.M. (UTC-7)"
+#: ItemDefinitionItem.csv:150
+msgctxt "2021/2/21 1:59 P.M. (UTC-7)"
 msgid ""
-"sheet|ItemDefinitionItem.csv|expire_desc_en|26c7b3b4908a36fc9b031974a7e82535"
-msgstr "Expiry Date: 2021/2/21 1:59 P.M. (UTC-7)"
+"sheet|ItemDefinitionItem.csv|expire_desc_en|76ec704c361b7b212343631330683270"
+msgstr "2021/2/21 1:59 P.M. (UTC-7)"
 
-#: ItemDefinitionItem.csv:149
+#: ItemDefinitionItem.csv:151
 msgctxt "Portrait Frame - Master of Trials"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e2b5c33176d1dc041ab4c5a61114af99"
 msgstr "Portrait Frame - Master of Trials"
 
-#: ItemDefinitionItem.csv:149
+#: ItemDefinitionItem.csv:151
 msgctxt "A certificate of outstanding performer on Path of Trial"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|7656530264710c6fe94fff9860720d70"
 msgstr "A certificate of outstanding performer on Path of Trial"
 
-#: ItemDefinitionItem.csv:149
-msgctxt "Expiry Date: 2021/2/21 1:59 P.M. (UTC-7)"
+#: ItemDefinitionItem.csv:151
+msgctxt "2021/2/21 1:59 P.M. (UTC-7)"
 msgid ""
-"sheet|ItemDefinitionItem.csv|expire_desc_en|26c7b3b4908a36fc9b031974a7e82535"
-msgstr "Expiry Date: 2021/2/21 1:59 P.M. (UTC-7)"
+"sheet|ItemDefinitionItem.csv|expire_desc_en|76ec704c361b7b212343631330683270"
+msgstr "2021/2/21 1:59 P.M. (UTC-7)"
 
-#: ItemDefinitionItem.csv:150
+#: ItemDefinitionItem.csv:152
 msgctxt "Portrait Frame - Conqueror of Trials"
 msgid "sheet|ItemDefinitionItem.csv|name_en|ab55f6c72b71869f4c8ce91e275ffc8a"
 msgstr "Portrait Frame - Conqueror of Trials"
 
-#: ItemDefinitionItem.csv:150
+#: ItemDefinitionItem.csv:152
 msgctxt "A certificate of unparalleled grandmaster on Path of Trial"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|88c4d4293007a74dae2c155f2a1cf490"
 msgstr "A certificate of unparalleled grandmaster on Path of Trial"
 
-#: ItemDefinitionItem.csv:150
-msgctxt "Expiry Date: 2021/2/21 1:59 P.M. (UTC-7)"
+#: ItemDefinitionItem.csv:152
+msgctxt "2021/2/21 1:59 P.M. (UTC-7)"
 msgid ""
-"sheet|ItemDefinitionItem.csv|expire_desc_en|26c7b3b4908a36fc9b031974a7e82535"
-msgstr "Expiry Date: 2021/2/21 1:59 P.M. (UTC-7)"
+"sheet|ItemDefinitionItem.csv|expire_desc_en|76ec704c361b7b212343631330683270"
+msgstr "2021/2/21 1:59 P.M. (UTC-7)"
 
-#: ItemDefinitionItem.csv:151
+#: ItemDefinitionItem.csv:153
 msgctxt "Riichi - Impish Bat"
 msgid "sheet|ItemDefinitionItem.csv|name_en|c8e8c373519881406d59b8eaf8bf942e"
 msgstr "Riichi - Impish Bat"
 
-#: ItemDefinitionItem.csv:151
+#: ItemDefinitionItem.csv:153
 msgctxt "Tremble before my declaration of Riichi."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|356d377083bd45282a0c95f2c2b601f7"
 msgstr "Tremble before my declaration of Riichi."
 
-#: ItemDefinitionItem.csv:151
+#: ItemDefinitionItem.csv:153
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:152
+#: ItemDefinitionItem.csv:154
 msgctxt "Riichi Bet - Magical Wand"
 msgid "sheet|ItemDefinitionItem.csv|name_en|499174662fdfb75733dcd2766eed4af6"
 msgstr "Riichi Bet - Magical Wand"
 
-#: ItemDefinitionItem.csv:152
+#: ItemDefinitionItem.csv:154
 msgctxt ""
 "A wand used by magical girls during their transformation. When placed on the"
 " table, it will enter a pact with all players on the table."
@@ -31493,18 +31972,18 @@ msgstr ""
 "A wand used by magical girls during their transformation. When placed on the"
 " table, it will enter a pact with all players on the table."
 
-#: ItemDefinitionItem.csv:152
+#: ItemDefinitionItem.csv:154
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:153
+#: ItemDefinitionItem.csv:155
 msgctxt "Riichi Bet - Gold Arowana"
 msgid "sheet|ItemDefinitionItem.csv|name_en|94db46d17e233c85a47b15228648062b"
 msgstr "Riichi Bet - Gold Arowana"
 
-#: ItemDefinitionItem.csv:153
+#: ItemDefinitionItem.csv:155
 msgctxt ""
 "100% Gold Arowana Riichi bet, miracle will happen after you retweet (place) "
 "it. (Spring Celebration Exclusive)"
@@ -31513,18 +31992,18 @@ msgstr ""
 "100% Gold Arowana Riichi bet, miracle will happen after you retweet (place) "
 "it. (Spring Celebration Exclusive)"
 
-#: ItemDefinitionItem.csv:153
+#: ItemDefinitionItem.csv:155
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:154
+#: ItemDefinitionItem.csv:156
 msgctxt "Riichi Bet - Crimson Thorns"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a1cdcd4f79d3af2bfe25d77fe569756b"
 msgstr "Riichi Bet - Crimson Thorns"
 
-#: ItemDefinitionItem.csv:154
+#: ItemDefinitionItem.csv:156
 msgctxt ""
 "This dagger has absorbed the blood of Abel and completely turned into "
 "crimson.(Event limited, will be unobtainable after the end of event)"
@@ -31533,18 +32012,18 @@ msgstr ""
 "This dagger has absorbed the blood of Abel and completely turned into "
 "crimson.(Event limited, will be unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:154
+#: ItemDefinitionItem.csv:156
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:155
+#: ItemDefinitionItem.csv:157
 msgctxt "Riichi Bet - Riding the Tide"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d8e507fa15a552405df861123de40303"
 msgstr "Riichi Bet - Riding the Tide"
 
-#: ItemDefinitionItem.csv:155
+#: ItemDefinitionItem.csv:157
 msgctxt ""
 "When I step on my favorite surfboard, I fear no more the summer heat!(Event "
 "limited, will be unobtainable after the end of event)"
@@ -31553,36 +32032,36 @@ msgstr ""
 "When I step on my favorite surfboard, I fear no more the summer heat!(Event "
 "limited, will be unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:155
+#: ItemDefinitionItem.csv:157
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:156
+#: ItemDefinitionItem.csv:158
 msgctxt "Tile Back - Bumpkin"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f0bdeaa64d42e7ce59a2b1a8d5597702"
 msgstr "Tile Back - Bumpkin"
 
-#: ItemDefinitionItem.csv:156
+#: ItemDefinitionItem.csv:158
 msgctxt ""
 "Grrr~ I... I am t-the scariest one! Y-you're supposed to run, aren't you?"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|84aae356b37cf7de2815043c85fdcb31"
 msgstr ""
 "Grrr~ I... I am t-the scariest one! Y-you're supposed to run, aren't you?"
 
-#: ItemDefinitionItem.csv:156
+#: ItemDefinitionItem.csv:158
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:157
+#: ItemDefinitionItem.csv:159
 msgctxt "Tile Back - Red Packet"
 msgid "sheet|ItemDefinitionItem.csv|name_en|20be89ac0e6f9075a9976229b7974f70"
 msgstr "Tile Back - Red Packet"
 
-#: ItemDefinitionItem.csv:157
+#: ItemDefinitionItem.csv:159
 msgctxt ""
 "Hello, young player. Which of these have you lost? Is it this \"Under the "
 "Sea\" red packet? Or this \"After a Kan\" red packet? (Spring Celebration "
@@ -31593,18 +32072,18 @@ msgstr ""
 "Sea\" red packet? Or this \"After a Kan\" red packet? (Spring Celebration "
 "Exclusive)"
 
-#: ItemDefinitionItem.csv:157
+#: ItemDefinitionItem.csv:159
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:158
+#: ItemDefinitionItem.csv:160
 msgctxt "Tile Back - Flower of Waves"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7259b54460708482a753f28875b84a90"
 msgstr "Tile Back - Flower of Waves"
 
-#: ItemDefinitionItem.csv:158
+#: ItemDefinitionItem.csv:160
 msgctxt ""
 "It's got to be a big hand when countless waves come together!(Event limited,"
 " will be unobtainable after the end of event)"
@@ -31613,18 +32092,18 @@ msgstr ""
 "It's got to be a big hand when countless waves come together!(Event limited,"
 " will be unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:158
+#: ItemDefinitionItem.csv:160
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:159
+#: ItemDefinitionItem.csv:161
 msgctxt "Tablecloth - Swimming Koi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|68940a035e1b08f35fadf747df9ee82e"
 msgstr "Tablecloth - Swimming Koi"
 
-#: ItemDefinitionItem.csv:159
+#: ItemDefinitionItem.csv:161
 msgctxt ""
 "If you retweet this Hana Ninomiya (oops wrong) Koi fish, \"Blessing of "
 "Heaven\" and \"Thirteen Orphans\" will no longer be just an inaccessible "
@@ -31635,18 +32114,18 @@ msgstr ""
 "Heaven\" and \"Thirteen Orphans\" will no longer be just an inaccessible "
 "dream!(Spring Celebration Exclusive)"
 
-#: ItemDefinitionItem.csv:159
+#: ItemDefinitionItem.csv:161
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:160
+#: ItemDefinitionItem.csv:162
 msgctxt "Tablecloth - Let's go!"
 msgid "sheet|ItemDefinitionItem.csv|name_en|c16f6edb9abb91c75f7ee5cca783a8ee"
 msgstr "Tablecloth - Let's go!"
 
-#: ItemDefinitionItem.csv:160
+#: ItemDefinitionItem.csv:162
 msgctxt ""
 "Who would have thought that Chiori needs a life ring? Wait, did I just find "
 "out some secret that I shouldn't know?(Event limited, will be unobtainable "
@@ -31657,34 +32136,34 @@ msgstr ""
 "out some secret that I shouldn't know?(Event limited, will be unobtainable "
 "after the end of event)"
 
-#: ItemDefinitionItem.csv:160
+#: ItemDefinitionItem.csv:162
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:161
+#: ItemDefinitionItem.csv:163
 msgctxt "Tile Call - Thunder & Lightning"
 msgid "sheet|ItemDefinitionItem.csv|name_en|c190e8cad3873af322cd0491943367f2"
 msgstr "Tile Call - Thunder & Lightning"
 
-#: ItemDefinitionItem.csv:161
+#: ItemDefinitionItem.csv:163
 msgctxt "To call or not to call? There is never enough time to think."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|37ee6ea133ad5cb27f0bcc24a4136738"
 msgstr "To call or not to call? There is never enough time to think."
 
-#: ItemDefinitionItem.csv:161
+#: ItemDefinitionItem.csv:163
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:162
+#: ItemDefinitionItem.csv:164
 msgctxt "Sakura"
 msgid "sheet|ItemDefinitionItem.csv|name_en|ba7e5dcafbbfbc98c2f0e5ff2135481a"
 msgstr "Sakura"
 
-#: ItemDefinitionItem.csv:162
+#: ItemDefinitionItem.csv:164
 msgctxt ""
 "…they say the speed of a falling sakura petal is about five centimeters per "
 "second."
@@ -31693,50 +32172,50 @@ msgstr ""
 "…they say the speed of a falling sakura petal is about five centimeters per "
 "second."
 
-#: ItemDefinitionItem.csv:162
+#: ItemDefinitionItem.csv:164
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:163
+#: ItemDefinitionItem.csv:165
 msgctxt "Midsummer"
 msgid "sheet|ItemDefinitionItem.csv|name_en|184f63d607c734e11bf81691d06d5ed1"
 msgstr "Midsummer"
 
-#: ItemDefinitionItem.csv:163
+#: ItemDefinitionItem.csv:165
 msgctxt "Watermelon and ice cream are the fundamental respect for summer!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3cee5a87c8a6b1e756fee7fb21bfc736"
 msgstr "Watermelon and ice cream are the fundamental respect for summer!"
 
-#: ItemDefinitionItem.csv:163
+#: ItemDefinitionItem.csv:165
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:164
+#: ItemDefinitionItem.csv:166
 msgctxt "Bamboo"
 msgid "sheet|ItemDefinitionItem.csv|name_en|515128d4d2783fc476a5680a22fb7fb1"
 msgstr "Bamboo"
 
-#: ItemDefinitionItem.csv:164
+#: ItemDefinitionItem.csv:166
 msgctxt "Mahjong fun is the real fun!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|8a5e7e71aa84008fb1b4e7df88481e4b"
 msgstr "Mahjong fun is the real fun!"
 
-#: ItemDefinitionItem.csv:164
+#: ItemDefinitionItem.csv:166
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:165
+#: ItemDefinitionItem.csv:167
 msgctxt "Shrine Yard · Sakura"
 msgid "sheet|ItemDefinitionItem.csv|name_en|adb83cb6f5613083cf9354d267cc1097"
 msgstr "Shrine Yard · Sakura"
 
-#: ItemDefinitionItem.csv:165
+#: ItemDefinitionItem.csv:167
 msgctxt ""
 "Every year when sakura blossoms, people will visit the shrine to offer "
 "Ichihime their delicious foods. What’s all that about? Nyaa~"
@@ -31745,34 +32224,34 @@ msgstr ""
 "Every year when sakura blossoms, people will visit the shrine to offer "
 "Ichihime their delicious foods. What’s all that about? Nyaa~"
 
-#: ItemDefinitionItem.csv:165
+#: ItemDefinitionItem.csv:167
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:166
+#: ItemDefinitionItem.csv:168
 msgctxt "Shrine Yard · Midsummer"
 msgid "sheet|ItemDefinitionItem.csv|name_en|359f9b156e915d4d466c4ff3c3f4c4e4"
 msgstr "Shrine Yard · Midsummer"
 
-#: ItemDefinitionItem.csv:166
+#: ItemDefinitionItem.csv:168
 msgctxt "Summer Theme Background"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|c6fa15b3d46ce50f3e2a5291a7e2778b"
 msgstr "Summer Theme Background"
 
-#: ItemDefinitionItem.csv:166
+#: ItemDefinitionItem.csv:168
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:167
+#: ItemDefinitionItem.csv:169
 msgctxt "Shrine Yard · Snow White"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f727622f1be30c20fbc342ed2b7047e1"
 msgstr "Shrine Yard · Snow White"
 
-#: ItemDefinitionItem.csv:167
+#: ItemDefinitionItem.csv:169
 msgctxt ""
 "Christmas Carnival Exclusive\\nWinter is the quietest season in Mahjong Soul"
 " Temple."
@@ -31781,18 +32260,18 @@ msgstr ""
 "Christmas Carnival Exclusive\\nWinter is the quietest season in Mahjong Soul"
 " Temple."
 
-#: ItemDefinitionItem.csv:167
+#: ItemDefinitionItem.csv:169
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:168
+#: ItemDefinitionItem.csv:170
 msgctxt "Beach Party"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
 msgstr "Beach Party"
 
-#: ItemDefinitionItem.csv:168
+#: ItemDefinitionItem.csv:170
 msgctxt ""
 "Mahjong Festival - Beach Party Event Exclusive\\n\n"
 "\"Wow... The sea is here-nya!\" Enjoying Mahjong in the sea breeze is the best way to spend a hot summer day."
@@ -31801,194 +32280,194 @@ msgstr ""
 "Mahjong Festival - Beach Party Event Exclusive\\n\n"
 "\"Wow... The sea is here-nya!\" Enjoying Mahjong in the sea breeze is the best way to spend a hot summer day."
 
-#: ItemDefinitionItem.csv:168
+#: ItemDefinitionItem.csv:170
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:169
+#: ItemDefinitionItem.csv:171
 msgctxt "Shrine Yard · Mid-Autumn"
 msgid "sheet|ItemDefinitionItem.csv|name_en|75079686604c6a307fd3d8e9f8e7ce3a"
 msgstr "Shrine Yard · Mid-Autumn"
 
-#: ItemDefinitionItem.csv:169
+#: ItemDefinitionItem.csv:171
 msgctxt "Autumn Theme Background"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d605d1914a746f689607bb7f0c9eae47"
 msgstr "Autumn Theme Background"
 
-#: ItemDefinitionItem.csv:169
+#: ItemDefinitionItem.csv:171
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:170
+#: ItemDefinitionItem.csv:172
 msgctxt "Trial PT"
 msgid "sheet|ItemDefinitionItem.csv|name_en|70b4611a215a3f3dfdb68101655f1b07"
 msgstr "Trial PT"
 
-#: ItemDefinitionItem.csv:170
+#: ItemDefinitionItem.csv:172
 msgctxt "Trial PT"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|70b4611a215a3f3dfdb68101655f1b07"
 msgstr "Trial PT"
 
-#: ItemDefinitionItem.csv:170
+#: ItemDefinitionItem.csv:172
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:171
+#: ItemDefinitionItem.csv:173
 msgctxt "Christmas Bells"
 msgid "sheet|ItemDefinitionItem.csv|name_en|8db8aaa1672b7fb8d822ac822769da3c"
 msgstr "Christmas Bells"
 
-#: ItemDefinitionItem.csv:171
+#: ItemDefinitionItem.csv:173
 msgctxt "Christmas Gift - Bells"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|644c14c2dbe40173ceee96b6f178d7ac"
 msgstr "Christmas Gift - Bells"
 
-#: ItemDefinitionItem.csv:171
+#: ItemDefinitionItem.csv:173
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:172
+#: ItemDefinitionItem.csv:174
 msgctxt "Christmas Stocking"
 msgid "sheet|ItemDefinitionItem.csv|name_en|cc890e2c279b90dee54c1e3a10fa04bc"
 msgstr "Christmas Stocking"
 
-#: ItemDefinitionItem.csv:172
+#: ItemDefinitionItem.csv:174
 msgctxt "Christmas Gift - Stocking"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|365915f948d3f0f3d9c3136832f2a528"
 msgstr "Christmas Gift - Stocking"
 
-#: ItemDefinitionItem.csv:172
+#: ItemDefinitionItem.csv:174
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:173
+#: ItemDefinitionItem.csv:175
 msgctxt "Lantern"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a22aaaf7741ee2c408141cb5b635a977"
 msgstr "Lantern"
 
-#: ItemDefinitionItem.csv:173
+#: ItemDefinitionItem.csv:175
 msgctxt "Lunar New Year event item."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3c7d00a8934e287e2b3695606661c875"
 msgstr "Lunar New Year event item."
 
-#: ItemDefinitionItem.csv:173
+#: ItemDefinitionItem.csv:175
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:174
+#: ItemDefinitionItem.csv:176
 msgctxt "Firecracker"
 msgid "sheet|ItemDefinitionItem.csv|name_en|fead03d05d62002696a9b443cf42a62c"
 msgstr "Firecracker"
 
-#: ItemDefinitionItem.csv:174
+#: ItemDefinitionItem.csv:176
 msgctxt "Lunar New Year event item."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3c7d00a8934e287e2b3695606661c875"
 msgstr "Lunar New Year event item."
 
-#: ItemDefinitionItem.csv:174
+#: ItemDefinitionItem.csv:176
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:175
+#: ItemDefinitionItem.csv:177
 msgctxt "Fu"
 msgid "sheet|ItemDefinitionItem.csv|name_en|6c019747e5eb4a721fa1c6be88119fff"
 msgstr "Fu"
 
-#: ItemDefinitionItem.csv:175
+#: ItemDefinitionItem.csv:177
 msgctxt "Lunar New Year event item."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3c7d00a8934e287e2b3695606661c875"
 msgstr "Lunar New Year event item."
 
-#: ItemDefinitionItem.csv:175
+#: ItemDefinitionItem.csv:177
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:176
+#: ItemDefinitionItem.csv:178
 msgctxt "Instruction Tool"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1bdec1201617639bb6662aa30b8c8341"
 msgstr "Instruction Tool"
 
-#: ItemDefinitionItem.csv:176
+#: ItemDefinitionItem.csv:178
 msgctxt "An instruction tool awarded after completing Nikaidou's Class"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|c93318129dec7696575bcbe0550e187f"
 msgstr "An instruction tool awarded after completing Nikaidou's Class"
 
-#: ItemDefinitionItem.csv:176
+#: ItemDefinitionItem.csv:178
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:177
+#: ItemDefinitionItem.csv:179
 msgctxt "Glasses"
 msgid "sheet|ItemDefinitionItem.csv|name_en|0f461e64d283177a15179b180fed353d"
 msgstr "Glasses"
 
-#: ItemDefinitionItem.csv:177
+#: ItemDefinitionItem.csv:179
 msgctxt "A pair of glasses  awarded after completing Nikaidou's Class"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|932f8464bf545a591493b9fa6c27eb7f"
 msgstr "A pair of glasses  awarded after completing Nikaidou's Class"
 
-#: ItemDefinitionItem.csv:177
+#: ItemDefinitionItem.csv:179
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:178
+#: ItemDefinitionItem.csv:180
 msgctxt "Wind Chimes"
 msgid "sheet|ItemDefinitionItem.csv|name_en|65691b9c0d0319a2c527e5b76a44826d"
 msgstr "Wind Chimes"
 
-#: ItemDefinitionItem.csv:178
+#: ItemDefinitionItem.csv:180
 msgctxt "Ichihime asked Nadeshiko to hang this wind chimes in the shrine"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|104327abb15e36b27621f8bfe0a2babe"
 msgstr "Ichihime asked Nadeshiko to hang this wind chimes in the shrine"
 
-#: ItemDefinitionItem.csv:178
+#: ItemDefinitionItem.csv:180
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:179
+#: ItemDefinitionItem.csv:181
 msgctxt "Ice Cream"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4905f67693c1e057a2d9b8c9de8f863b"
 msgstr "Ice Cream"
 
-#: ItemDefinitionItem.csv:179
+#: ItemDefinitionItem.csv:181
 msgctxt "Let's have some ice cream!!!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|ca3bc9e2a0f8c657c72465671ad0986b"
 msgstr "Let's have some ice cream!!!"
 
-#: ItemDefinitionItem.csv:179
+#: ItemDefinitionItem.csv:181
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:180
+#: ItemDefinitionItem.csv:182
 msgctxt "Watermelon"
 msgid "sheet|ItemDefinitionItem.csv|name_en|9aa80c57478c55b3bcb34290d248d364"
 msgstr "Watermelon"
 
-#: ItemDefinitionItem.csv:180
+#: ItemDefinitionItem.csv:182
 msgctxt ""
 "Watermelon slices prepared by Kujou, the word says they are prepared for "
 "Mikami"
@@ -31997,18 +32476,18 @@ msgstr ""
 "Watermelon slices prepared by Kujou, the word says they are prepared for "
 "Mikami"
 
-#: ItemDefinitionItem.csv:180
+#: ItemDefinitionItem.csv:182
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:181
+#: ItemDefinitionItem.csv:183
 msgctxt "Osmanthus Mead"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d168135e467782a2ea5027760dc5a984"
 msgstr "Osmanthus Mead"
 
-#: ItemDefinitionItem.csv:181
+#: ItemDefinitionItem.csv:183
 msgctxt ""
 "An item used for redeeming gifts from Moon Palace. It says 'No Underage "
 "Drinking' on its bottom, but Ichihime sips it anyway. “Sipping is not "
@@ -32019,18 +32498,18 @@ msgstr ""
 "Drinking' on its bottom, but Ichihime sips it anyway. “Sipping is not "
 "drinking, nyaa~”"
 
-#: ItemDefinitionItem.csv:181
+#: ItemDefinitionItem.csv:183
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:182
+#: ItemDefinitionItem.csv:184
 msgctxt "Mooncake"
 msgid "sheet|ItemDefinitionItem.csv|name_en|50e74030067f097de636fdb9ea0a5ce0"
 msgstr "Mooncake"
 
-#: ItemDefinitionItem.csv:182
+#: ItemDefinitionItem.csv:184
 msgctxt ""
 "An item used for redeeming gifts from Moon Palace. Please keep Ichihime busy"
 " for the period that you are stocking these mooncakes."
@@ -32039,34 +32518,34 @@ msgstr ""
 "An item used for redeeming gifts from Moon Palace. Please keep Ichihime busy"
 " for the period that you are stocking these mooncakes."
 
-#: ItemDefinitionItem.csv:182
+#: ItemDefinitionItem.csv:184
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:183
+#: ItemDefinitionItem.csv:185
 msgctxt "Pumpkin Witch"
 msgid "sheet|ItemDefinitionItem.csv|name_en|527377dc614781d79db1ab059aba5866"
 msgstr "Pumpkin Witch"
 
-#: ItemDefinitionItem.csv:183
+#: ItemDefinitionItem.csv:185
 msgctxt "Halloween Token\"Nobody can escape my witchcraft~\" (Noboday: ???)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3688543d9d3832d6b1e3fd617cd65eb0"
 msgstr "Halloween Token\"Nobody can escape my witchcraft~\" (Noboday: ???)"
 
-#: ItemDefinitionItem.csv:183
+#: ItemDefinitionItem.csv:185
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:184
+#: ItemDefinitionItem.csv:186
 msgctxt "Candies"
 msgid "sheet|ItemDefinitionItem.csv|name_en|139148c3293387bb780412df0e4c3d94"
 msgstr "Candies"
 
-#: ItemDefinitionItem.csv:184
+#: ItemDefinitionItem.csv:186
 msgctxt ""
 "Halloween Token“Hek, hek, hek, wanna have a guess what is wrapped in this "
 "colorful candy paper?”"
@@ -32075,34 +32554,34 @@ msgstr ""
 "Halloween Token“Hek, hek, hek, wanna have a guess what is wrapped in this "
 "colorful candy paper?”"
 
-#: ItemDefinitionItem.csv:184
+#: ItemDefinitionItem.csv:186
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:185
+#: ItemDefinitionItem.csv:187
 msgctxt "Rookie Ghost"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e29d220c7bcf4d507a3071ae09c6472e"
 msgstr "Rookie Ghost"
 
-#: ItemDefinitionItem.csv:185
+#: ItemDefinitionItem.csv:187
 msgctxt "Halloween Token \"Grrrr~ I am the scariest one!\""
 msgid "sheet|ItemDefinitionItem.csv|desc_en|784d412aec069df53c99331a53972ac1"
 msgstr "Halloween Token \"Grrrr~ I am the scariest one!\""
 
-#: ItemDefinitionItem.csv:185
+#: ItemDefinitionItem.csv:187
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:186
+#: ItemDefinitionItem.csv:188
 msgctxt "Kagami Mochi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|00f1e8f0b7e5ce4183405694fd92c384"
 msgstr "Kagami Mochi"
 
-#: ItemDefinitionItem.csv:186
+#: ItemDefinitionItem.csv:188
 msgctxt ""
 "The Kagami Mochi is an offering prepared for the God of New Year. Make sure "
 "it is placed outside Ichihime's sight, otherwise she will steal it away."
@@ -32111,18 +32590,18 @@ msgstr ""
 "The Kagami Mochi is an offering prepared for the God of New Year. Make sure "
 "it is placed outside Ichihime's sight, otherwise she will steal it away."
 
-#: ItemDefinitionItem.csv:186
+#: ItemDefinitionItem.csv:188
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:187
+#: ItemDefinitionItem.csv:189
 msgctxt "Straw Ring"
 msgid "sheet|ItemDefinitionItem.csv|name_en|eadafe6cb4ab37ea1c0e4f08e40e401f"
 msgstr "Straw Ring"
 
-#: ItemDefinitionItem.csv:187
+#: ItemDefinitionItem.csv:189
 msgctxt ""
 "An item used to separate the God's realm from the outside realm. Put it in "
 "the entryway, and you will be protected by the God in the New Year."
@@ -32131,34 +32610,34 @@ msgstr ""
 "An item used to separate the God's realm from the outside realm. Put it in "
 "the entryway, and you will be protected by the God in the New Year."
 
-#: ItemDefinitionItem.csv:187
+#: ItemDefinitionItem.csv:189
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:188
+#: ItemDefinitionItem.csv:190
 msgctxt "测试骰子"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4090287f29e8f04be72099c73127e4d5"
 msgstr "测试骰子"
 
-#: ItemDefinitionItem.csv:188
+#: ItemDefinitionItem.csv:190
 msgctxt "测试用骰子，未实装"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|b8b0b5e406c5a6c03f156d35694fef91"
 msgstr "测试用骰子，未实装"
 
-#: ItemDefinitionItem.csv:188
+#: ItemDefinitionItem.csv:190
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:189
+#: ItemDefinitionItem.csv:191
 msgctxt "Ruler"
 msgid "sheet|ItemDefinitionItem.csv|name_en|eada4723af6f51cf2391d85b5fde49b0"
 msgstr "Ruler"
 
-#: ItemDefinitionItem.csv:189
+#: ItemDefinitionItem.csv:191
 msgctxt ""
 "You are already a mature ruler and should learn to solve Math problem "
 "yourself. Don't you think so?"
@@ -32167,18 +32646,18 @@ msgstr ""
 "You are already a mature ruler and should learn to solve Math problem "
 "yourself. Don't you think so?"
 
-#: ItemDefinitionItem.csv:189
+#: ItemDefinitionItem.csv:191
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:190
+#: ItemDefinitionItem.csv:192
 msgctxt "Propelling Pencil"
 msgid "sheet|ItemDefinitionItem.csv|name_en|ce667956c1ece172286a05034d5a2e7f"
 msgstr "Propelling Pencil"
 
-#: ItemDefinitionItem.csv:190
+#: ItemDefinitionItem.csv:192
 msgctxt ""
 "A propelling pencil produced by \"Catfood Studio\". Every lead of it can be "
 "used for almost one year."
@@ -32187,18 +32666,18 @@ msgstr ""
 "A propelling pencil produced by \"Catfood Studio\". Every lead of it can be "
 "used for almost one year."
 
-#: ItemDefinitionItem.csv:190
+#: ItemDefinitionItem.csv:192
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:191
+#: ItemDefinitionItem.csv:193
 msgctxt "Note Book"
 msgid "sheet|ItemDefinitionItem.csv|name_en|25975f980e3f3eedd6f8e69f1cc690f5"
 msgstr "Note Book"
 
-#: ItemDefinitionItem.csv:191
+#: ItemDefinitionItem.csv:193
 msgctxt ""
 "A note book which is used to record daily life of Jyanshi. Wait... isn't it "
 "used to take notes?"
@@ -32207,34 +32686,34 @@ msgstr ""
 "A note book which is used to record daily life of Jyanshi. Wait... isn't it "
 "used to take notes?"
 
-#: ItemDefinitionItem.csv:191
+#: ItemDefinitionItem.csv:193
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:192
+#: ItemDefinitionItem.csv:194
 msgctxt "dice"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f91614c13b0e6659f9b16a1d6f22f2db"
 msgstr "dice"
 
-#: ItemDefinitionItem.csv:192
+#: ItemDefinitionItem.csv:194
 msgctxt "An event-limited item. Use it to advance on the map."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|649ba2de8bb4ea3e9e54332f86f8def8"
 msgstr "An event-limited item. Use it to advance on the map."
 
-#: ItemDefinitionItem.csv:192
+#: ItemDefinitionItem.csv:194
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:193
+#: ItemDefinitionItem.csv:195
 msgctxt "remote-control dice"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a16b252f2733a9cb3144997ca455abbc"
 msgstr "remote-control dice"
 
-#: ItemDefinitionItem.csv:193
+#: ItemDefinitionItem.csv:195
 msgctxt ""
 "An event-limited item. Use it to select the number of steps you'd like to "
 "move on the map."
@@ -32243,66 +32722,66 @@ msgstr ""
 "An event-limited item. Use it to select the number of steps you'd like to "
 "move on the map."
 
-#: ItemDefinitionItem.csv:193
+#: ItemDefinitionItem.csv:195
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:194
+#: ItemDefinitionItem.csv:196
 msgctxt "Red bean rice dumpling"
 msgid "sheet|ItemDefinitionItem.csv|name_en|28dedc1804098625154d00debc465f6e"
 msgstr "Red bean rice dumpling"
 
-#: ItemDefinitionItem.csv:194
+#: ItemDefinitionItem.csv:196
 msgctxt "Sweet red bean rice dumpling, yummy!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|7bd8e7d980cdc09a09b269ad0b04eaed"
 msgstr "Sweet red bean rice dumpling, yummy!"
 
-#: ItemDefinitionItem.csv:194
+#: ItemDefinitionItem.csv:196
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:195
+#: ItemDefinitionItem.csv:197
 msgctxt "Multi-grain rice dumpling"
 msgid "sheet|ItemDefinitionItem.csv|name_en|5bba8a03cd8d3301d4ea70692745f341"
 msgstr "Multi-grain rice dumpling"
 
-#: ItemDefinitionItem.csv:195
+#: ItemDefinitionItem.csv:197
 msgctxt "Healthy multi-grain rice dumpling, yummy!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|29c42ce8e05a875e5cbd6087d51f91f6"
 msgstr "Healthy multi-grain rice dumpling, yummy!"
 
-#: ItemDefinitionItem.csv:195
+#: ItemDefinitionItem.csv:197
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:196
+#: ItemDefinitionItem.csv:198
 msgctxt "Vitellus rice dumpling"
 msgid "sheet|ItemDefinitionItem.csv|name_en|6371b13b1497c7077ed4771a8a332829"
 msgstr "Vitellus rice dumpling"
 
-#: ItemDefinitionItem.csv:196
+#: ItemDefinitionItem.csv:198
 msgctxt "Delicious egg yolk rice dumpling, yummy!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|ac9e84ce8c3f60c368ac5c97f9d3a31d"
 msgstr "Delicious egg yolk rice dumpling, yummy!"
 
-#: ItemDefinitionItem.csv:196
+#: ItemDefinitionItem.csv:198
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:197
+#: ItemDefinitionItem.csv:199
 msgctxt "Trumpet"
 msgid "sheet|ItemDefinitionItem.csv|name_en|142e3acd3610d6c670ac3f74b36347c6"
 msgstr "Trumpet"
 
-#: ItemDefinitionItem.csv:197
+#: ItemDefinitionItem.csv:199
 msgctxt ""
 "A Sports Day event token. When cheerleaders blow this trumpet together, the "
 "sound can be very loud."
@@ -32311,18 +32790,18 @@ msgstr ""
 "A Sports Day event token. When cheerleaders blow this trumpet together, the "
 "sound can be very loud."
 
-#: ItemDefinitionItem.csv:197
+#: ItemDefinitionItem.csv:199
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:198
+#: ItemDefinitionItem.csv:200
 msgctxt "Pom-pom"
 msgid "sheet|ItemDefinitionItem.csv|name_en|c2326b58ae243a1a0135449bb2c29275"
 msgstr "Pom-pom"
 
-#: ItemDefinitionItem.csv:198
+#: ItemDefinitionItem.csv:200
 msgctxt ""
 "A Sports Day event token. This pom-pom flies around in the hands of "
 "cheerleaders."
@@ -32331,34 +32810,50 @@ msgstr ""
 "A Sports Day event token. This pom-pom flies around in the hands of "
 "cheerleaders."
 
-#: ItemDefinitionItem.csv:198
+#: ItemDefinitionItem.csv:200
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:199
+#: ItemDefinitionItem.csv:201
 msgctxt "Cool Ticket"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a05a69e36d6d0b82dbb90e815ecffb0f"
 msgstr "Cool Ticket"
 
-#: ItemDefinitionItem.csv:199
+#: ItemDefinitionItem.csv:201
 msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:199
+#: ItemDefinitionItem.csv:201
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:200
+#: ItemDefinitionItem.csv:202
+msgctxt "鲷鱼烧"
+msgid "sheet|ItemDefinitionItem.csv|name_en|cdaa7ed687a07e5d0abe2259c34af3a0"
+msgstr "鲷鱼烧"
+
+#: ItemDefinitionItem.csv:202
+msgctxt "鲷鱼烧"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|cdaa7ed687a07e5d0abe2259c34af3a0"
+msgstr "鲷鱼烧"
+
+#: ItemDefinitionItem.csv:202
+msgctxt ""
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:203
 msgctxt "Ichihime Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|724df3a2662f650c0438c39135c3a022"
 msgstr "Ichihime Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:200
+#: ItemDefinitionItem.csv:203
 msgctxt ""
 "Unlocks Ichihime's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -32367,18 +32862,18 @@ msgstr ""
 "Unlocks Ichihime's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:200
+#: ItemDefinitionItem.csv:203
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:201
+#: ItemDefinitionItem.csv:204
 msgctxt "Miki Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d8d1987addc28172f55e1fed202449ea"
 msgstr "Miki Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:201
+#: ItemDefinitionItem.csv:204
 msgctxt ""
 "Unlocks Nikaido Miki's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
@@ -32387,18 +32882,18 @@ msgstr ""
 "Unlocks Nikaido Miki's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:201
+#: ItemDefinitionItem.csv:204
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:202
+#: ItemDefinitionItem.csv:205
 msgctxt "Chiori Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|775bfe1e83ca81168c199ce2b94e39ed"
 msgstr "Chiori Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:202
+#: ItemDefinitionItem.csv:205
 msgctxt ""
 "Unlocks Mikami Chiori's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
@@ -32407,18 +32902,18 @@ msgstr ""
 "Unlocks Mikami Chiori's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:202
+#: ItemDefinitionItem.csv:205
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:203
+#: ItemDefinitionItem.csv:206
 msgctxt "Aihara Mai Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a1ece7b59271bb60f346ad841c6691ab"
 msgstr "Aihara Mai Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:203
+#: ItemDefinitionItem.csv:206
 msgctxt ""
 "Unlocks Aihara Mai's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -32427,18 +32922,18 @@ msgstr ""
 "Unlocks Aihara Mai's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:203
+#: ItemDefinitionItem.csv:206
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:204
+#: ItemDefinitionItem.csv:207
 msgctxt "Kana Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f6d3cc1de1238c9bc76eb8a6a9f8f9e1"
 msgstr "Kana Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:204
+#: ItemDefinitionItem.csv:207
 msgctxt ""
 "Unlocks Fujita Kana's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -32447,18 +32942,18 @@ msgstr ""
 "Unlocks Fujita Kana's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:204
+#: ItemDefinitionItem.csv:207
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:205
+#: ItemDefinitionItem.csv:208
 msgctxt "Nadeshiko Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e560a61363b2def3ab8b0066312ac233"
 msgstr "Nadeshiko Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:205
+#: ItemDefinitionItem.csv:208
 msgctxt ""
 "Unlocks Nadeshiko's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -32467,18 +32962,18 @@ msgstr ""
 "Unlocks Nadeshiko's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:205
+#: ItemDefinitionItem.csv:208
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:206
+#: ItemDefinitionItem.csv:209
 msgctxt "Yui Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|837118daf2fa59e84b25f908d4932e92"
 msgstr "Yui Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:206
+#: ItemDefinitionItem.csv:209
 msgctxt ""
 "Unlocks Yagi Yui's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -32487,18 +32982,18 @@ msgstr ""
 "Unlocks Yagi Yui's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:206
+#: ItemDefinitionItem.csv:209
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:207
+#: ItemDefinitionItem.csv:210
 msgctxt "Riu Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1e09915958e046859db9c1b580b792f6"
 msgstr "Riu Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:207
+#: ItemDefinitionItem.csv:210
 msgctxt ""
 "Unlocks Kujou Riu's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -32507,404 +33002,403 @@ msgstr ""
 "Unlocks Kujou Riu's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:207
+#: ItemDefinitionItem.csv:210
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:208
+#: ItemDefinitionItem.csv:211
 msgctxt "Spring Exclusive - Ichihime"
 msgid "sheet|ItemDefinitionItem.csv|name_en|5b43ce37b0d1c169a4f28377ee9de6e5"
 msgstr "Spring Exclusive - Ichihime"
 
-#: ItemDefinitionItem.csv:208
+#: ItemDefinitionItem.csv:211
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:208
+#: ItemDefinitionItem.csv:211
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:209
+#: ItemDefinitionItem.csv:212
 msgctxt "Spring Exclusive - Miki Nikaidou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f1f992997462a6870f2d470df19a7032"
 msgstr "Spring Exclusive - Miki Nikaidou"
 
-#: ItemDefinitionItem.csv:209
+#: ItemDefinitionItem.csv:212
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:209
+#: ItemDefinitionItem.csv:212
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:210
+#: ItemDefinitionItem.csv:213
 msgctxt "Spring Exclusive - Kana Fujita"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7daeef1135de8785d6cf7546701e25f1"
 msgstr "Spring Exclusive - Kana Fujita"
 
-#: ItemDefinitionItem.csv:210
+#: ItemDefinitionItem.csv:213
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:210
+#: ItemDefinitionItem.csv:213
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:211
+#: ItemDefinitionItem.csv:214
 msgctxt "Spring Exclusive - Chiori Mikami"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d5132bfb23775265b231b3222f6d10ab"
 msgstr "Spring Exclusive - Chiori Mikami"
 
-#: ItemDefinitionItem.csv:211
+#: ItemDefinitionItem.csv:214
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:211
+#: ItemDefinitionItem.csv:214
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:212
+#: ItemDefinitionItem.csv:215
 msgctxt "Spring Exclusive - Mai Aihara"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e5ba197dca3c2f772f66afce683f17dd"
 msgstr "Spring Exclusive - Mai Aihara"
 
-#: ItemDefinitionItem.csv:212
+#: ItemDefinitionItem.csv:215
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:212
+#: ItemDefinitionItem.csv:215
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:213
+#: ItemDefinitionItem.csv:216
 msgctxt "Spring Exclusive - Nadeshiko"
 msgid "sheet|ItemDefinitionItem.csv|name_en|3526572d0816f075d24663cd78ac74ab"
 msgstr "Spring Exclusive - Nadeshiko"
 
-#: ItemDefinitionItem.csv:213
+#: ItemDefinitionItem.csv:216
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:213
+#: ItemDefinitionItem.csv:216
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:214
+#: ItemDefinitionItem.csv:217
 msgctxt "Spring Exclusive - Yui Yagi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|63a646103ae7c2d6c1703fa4bb68ab30"
 msgstr "Spring Exclusive - Yui Yagi"
 
-#: ItemDefinitionItem.csv:214
+#: ItemDefinitionItem.csv:217
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:214
+#: ItemDefinitionItem.csv:217
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:215
+#: ItemDefinitionItem.csv:218
 msgctxt "Spring Exclusive - Riu Kujou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f7f034f38105e02405ae7d2d02999d6b"
 msgstr "Spring Exclusive - Riu Kujou"
 
-#: ItemDefinitionItem.csv:215
+#: ItemDefinitionItem.csv:218
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:215
+#: ItemDefinitionItem.csv:218
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:216
+#: ItemDefinitionItem.csv:219
 msgctxt "Spring Exclusive - Xenia"
 msgid "sheet|ItemDefinitionItem.csv|name_en|03f7fc3b68d60c09a01325e88ce9d288"
 msgstr "Spring Exclusive - Xenia"
 
-#: ItemDefinitionItem.csv:216
+#: ItemDefinitionItem.csv:219
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:216
+#: ItemDefinitionItem.csv:219
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:217
+#: ItemDefinitionItem.csv:220
 msgctxt "Spring Exclusive - Kaavi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4a17c9100b2f7540b952f5b02852cbd9"
 msgstr "Spring Exclusive - Kaavi"
 
-#: ItemDefinitionItem.csv:217
+#: ItemDefinitionItem.csv:220
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:217
+#: ItemDefinitionItem.csv:220
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:218
+#: ItemDefinitionItem.csv:221
 msgctxt "Spring Exclusive - Natsuki Shinomiya"
 msgid "sheet|ItemDefinitionItem.csv|name_en|916acd0b9c841b9e07995fc08576ca54"
 msgstr "Spring Exclusive - Natsuki Shinomiya"
 
-#: ItemDefinitionItem.csv:218
+#: ItemDefinitionItem.csv:221
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:218
+#: ItemDefinitionItem.csv:221
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:219
+#: ItemDefinitionItem.csv:222
 msgctxt "Spring Exclusive - Wanjirou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|0a26a934872727bb1c9a8bf6a091234b"
 msgstr "Spring Exclusive - Wanjirou"
 
-#: ItemDefinitionItem.csv:219
+#: ItemDefinitionItem.csv:222
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:219
+#: ItemDefinitionItem.csv:222
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:220
+#: ItemDefinitionItem.csv:223
 msgctxt "Spring Exclusive - Sora Ichinose"
 msgid "sheet|ItemDefinitionItem.csv|name_en|2c14f0fa9f98fed16764e67fa1155749"
 msgstr "Spring Exclusive - Sora Ichinose"
 
-#: ItemDefinitionItem.csv:220
+#: ItemDefinitionItem.csv:223
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:220
+#: ItemDefinitionItem.csv:223
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:221
+#: ItemDefinitionItem.csv:224
 msgctxt "Spring Exclusive - Hideki Akechi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|bd6c42b5e2b6cb68a8a6740558611e29"
 msgstr "Spring Exclusive - Hideki Akechi"
 
-#: ItemDefinitionItem.csv:221
+#: ItemDefinitionItem.csv:224
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:221
+#: ItemDefinitionItem.csv:224
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:222
+#: ItemDefinitionItem.csv:225
 msgctxt "Spring Exclusive - Keikumusume"
 msgid "sheet|ItemDefinitionItem.csv|name_en|8d21bde96f6caf6b185ec846133f4dd5"
 msgstr "Spring Exclusive - Keikumusume"
 
-#: ItemDefinitionItem.csv:222
+#: ItemDefinitionItem.csv:225
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:222
+#: ItemDefinitionItem.csv:225
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:223
+#: ItemDefinitionItem.csv:226
 msgctxt "Spring Exclusive - Sara"
 msgid "sheet|ItemDefinitionItem.csv|name_en|11c77d3c733b73cfec45ec2608577832"
 msgstr "Spring Exclusive - Sara"
 
-#: ItemDefinitionItem.csv:223
+#: ItemDefinitionItem.csv:226
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:223
+#: ItemDefinitionItem.csv:226
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:224
+#: ItemDefinitionItem.csv:227
 msgctxt "Spring Exclusive - Hana Ninomiya"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1d892a6654b025eb275e0173726c2882"
 msgstr "Spring Exclusive - Hana Ninomiya"
 
-#: ItemDefinitionItem.csv:224
+#: ItemDefinitionItem.csv:227
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:224
+#: ItemDefinitionItem.csv:227
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:225
+#: ItemDefinitionItem.csv:228
 msgctxt "Spring Exclusive - Nana Shiraishi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|22308b8445e36897a6eec06db5c3cca6"
 msgstr "Spring Exclusive - Nana Shiraishi"
 
-#: ItemDefinitionItem.csv:225
+#: ItemDefinitionItem.csv:228
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:225
+#: ItemDefinitionItem.csv:228
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:226
+#: ItemDefinitionItem.csv:229
 msgctxt "Spring Exclusive - Hinata Takanashi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|df0ed43f659122ef9afe6fcb223e28da"
 msgstr "Spring Exclusive - Hinata Takanashi"
 
-#: ItemDefinitionItem.csv:226
+#: ItemDefinitionItem.csv:229
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:226
+#: ItemDefinitionItem.csv:229
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:227
+#: ItemDefinitionItem.csv:230
 msgctxt "Spring Exclusive - Haruna Igarashi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d5b0795f64d18c3953c512516f7333ed"
 msgstr "Spring Exclusive - Haruna Igarashi"
 
-#: ItemDefinitionItem.csv:227
+#: ItemDefinitionItem.csv:230
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:227
+#: ItemDefinitionItem.csv:230
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:228
+#: ItemDefinitionItem.csv:231
 msgctxt "Spring Exclusive - Anju Suzumiya"
 msgid "sheet|ItemDefinitionItem.csv|name_en|47acf2b222660d0319923628e8fcbda8"
 msgstr "Spring Exclusive - Anju Suzumiya"
 
-#: ItemDefinitionItem.csv:228
+#: ItemDefinitionItem.csv:231
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:228
+#: ItemDefinitionItem.csv:231
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:229
+#: ItemDefinitionItem.csv:232
 msgctxt "Spring Exclusive - Joseph"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a7a20a831d57732506b04f8671a17df9"
 msgstr "Spring Exclusive - Joseph"
 
-#: ItemDefinitionItem.csv:229
+#: ItemDefinitionItem.csv:232
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:229
+#: ItemDefinitionItem.csv:232
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:230
+#: ItemDefinitionItem.csv:233
 msgctxt "Spring Exclusive - Osamu Saitou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|73fb7c274e4f492df8f7103e7513d367"
 msgstr "Spring Exclusive - Osamu Saitou"
 
-#: ItemDefinitionItem.csv:230
+#: ItemDefinitionItem.csv:233
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:230
+#: ItemDefinitionItem.csv:233
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:231
-msgctxt "Mooncake Emoji"
-msgid "sheet|ItemDefinitionItem.csv|name_en|74710a80763ca656a308e13a9f92a443"
-msgstr "Mooncake Emoji"
+#: ItemDefinitionItem.csv:234
+msgctxt "Mooncake Emote"
+msgid "sheet|ItemDefinitionItem.csv|name_en|9112c435499e70c8bd483a449573bc58"
+msgstr "Mooncake Emote"
 
-#: ItemDefinitionItem.csv:231
+#: ItemDefinitionItem.csv:234
 msgctxt ""
-"Unlocks Mooncake limited-time Emoji. It will expire at 9/27 2:00 P.M. (PDT)"
-msgid "sheet|ItemDefinitionItem.csv|desc_en|cc547f435d357712338a535c02eb50fb"
-msgstr ""
-"Unlocks Mooncake limited-time Emoji. It will expire at 9/27 2:00 P.M. (PDT)"
+"Limited-time Mooncake Emote.It will expire at 10/27 2:00 P.M. (UTC-7)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|538010d5a27e7179e5e6ef0390b9e132"
+msgstr "Limited-time Mooncake Emote.It will expire at 10/27 2:00 P.M. (UTC-7)"
 
-#: ItemDefinitionItem.csv:231
+#: ItemDefinitionItem.csv:234
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:232
+#: ItemDefinitionItem.csv:235
 msgctxt "Firework Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f9bc5284e8602a38cd329a6d7aaa382"
 msgstr "Firework Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:232
+#: ItemDefinitionItem.csv:235
 msgctxt ""
 "A limited-time emoji for celebrating victorious. Available until 10/30/2019 "
 "2:00 P.M. (PDT)"
@@ -32913,34 +33407,34 @@ msgstr ""
 "A limited-time emoji for celebrating victorious. Available until 10/30/2019 "
 "2:00 P.M. (PDT)"
 
-#: ItemDefinitionItem.csv:232
+#: ItemDefinitionItem.csv:235
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:233
+#: ItemDefinitionItem.csv:236
 msgctxt "Firework Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f9bc5284e8602a38cd329a6d7aaa382"
 msgstr "Firework Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:233
+#: ItemDefinitionItem.csv:236
 msgctxt "A limited-time emoji. Available until 11/09/2019 2:00 P.M. (PDT)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|93edfed0ab70fe860a6ea082cd790a02"
 msgstr "A limited-time emoji. Available until 11/09/2019 2:00 P.M. (PDT)"
 
-#: ItemDefinitionItem.csv:233
+#: ItemDefinitionItem.csv:236
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:234
+#: ItemDefinitionItem.csv:237
 msgctxt "SURPRISE Emoji(Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|63b6b4e19db6af451d2367262d82dc89"
 msgstr "SURPRISE Emoji(Limited-time)"
 
-#: ItemDefinitionItem.csv:234
+#: ItemDefinitionItem.csv:237
 msgctxt ""
 "A limited-time emoji for Halloween 2019. Available until 12/11/2019 2:00 "
 "P.M. (PDT)"
@@ -32949,86 +33443,38 @@ msgstr ""
 "A limited-time emoji for Halloween 2019. Available until 12/11/2019 2:00 "
 "P.M. (PDT)"
 
-#: ItemDefinitionItem.csv:234
+#: ItemDefinitionItem.csv:237
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:235
+#: ItemDefinitionItem.csv:238
 msgctxt "Firework Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f9bc5284e8602a38cd329a6d7aaa382"
 msgstr "Firework Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:235
+#: ItemDefinitionItem.csv:238
 msgctxt "A limited-time emoji.Available until 12/26/2019 2:00 P.M. (UTC-7)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|7126b28b08645e77bcd8de63ccdb2d7f"
 msgstr "A limited-time emoji.Available until 12/26/2019 2:00 P.M. (UTC-7)"
 
-#: ItemDefinitionItem.csv:235
+#: ItemDefinitionItem.csv:238
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:236
+#: ItemDefinitionItem.csv:239
 msgctxt "手-默认"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f3708f0158cf66b3fbe0b55d998a602"
 msgstr "手-默认"
 
-#: ItemDefinitionItem.csv:236
+#: ItemDefinitionItem.csv:239
 msgctxt "默认的手"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|76920ca2e27820f7a6be95710a88cd1b"
 msgstr "默认的手"
 
-#: ItemDefinitionItem.csv:236
-msgctxt ""
-msgid ""
-"sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
-
-#: ItemDefinitionItem.csv:237
-msgctxt ""
-msgid "sheet|ItemDefinitionItem.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
-
-#: ItemDefinitionItem.csv:237
-msgctxt ""
-msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
-
-#: ItemDefinitionItem.csv:237
-msgctxt ""
-msgid ""
-"sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
-
-#: ItemDefinitionItem.csv:238
-msgctxt ""
-msgid "sheet|ItemDefinitionItem.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
-
-#: ItemDefinitionItem.csv:238
-msgctxt ""
-msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
-
-#: ItemDefinitionItem.csv:238
-msgctxt ""
-msgid ""
-"sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
-
-#: ItemDefinitionItem.csv:239
-msgctxt ""
-msgid "sheet|ItemDefinitionItem.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
-
-#: ItemDefinitionItem.csv:239
-msgctxt ""
-msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
-
 #: ItemDefinitionItem.csv:239
 msgctxt ""
 msgid ""
@@ -33036,32 +33482,80 @@ msgid ""
 msgstr ""
 
 #: ItemDefinitionItem.csv:240
+msgctxt ""
+msgid "sheet|ItemDefinitionItem.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:240
+msgctxt ""
+msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:240
+msgctxt ""
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:241
+msgctxt ""
+msgid "sheet|ItemDefinitionItem.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:241
+msgctxt ""
+msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:241
+msgctxt ""
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:242
+msgctxt ""
+msgid "sheet|ItemDefinitionItem.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:242
+msgctxt ""
+msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:242
+msgctxt ""
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: ItemDefinitionItem.csv:243
 msgctxt "Portrait Frame - Sprout"
 msgid "sheet|ItemDefinitionItem.csv|name_en|ded77b66c0d9137a45ab70974fa5f93e"
 msgstr "Portrait Frame - Sprout"
 
-#: ItemDefinitionItem.csv:240
+#: ItemDefinitionItem.csv:243
 msgctxt "A sprout to become something unknown"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|8e1ff5c8847adc11b352d5bca7f6ea0b"
 msgstr "A sprout to become something unknown"
 
-#: ItemDefinitionItem.csv:240
+#: ItemDefinitionItem.csv:243
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:241
+#: ItemDefinitionItem.csv:244
 msgctxt "限时称号测试用"
 msgid "sheet|ItemDefinitionItem.csv|name_en|94ae1602d51a19aed87df8babb1c97e5"
 msgstr "限时称号测试用"
 
-#: ItemDefinitionItem.csv:241
+#: ItemDefinitionItem.csv:244
 msgctxt "限时称号测试用"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|94ae1602d51a19aed87df8babb1c97e5"
 msgstr "限时称号测试用"
 
-#: ItemDefinitionItem.csv:241
+#: ItemDefinitionItem.csv:244
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
@@ -44398,24 +44892,24 @@ msgid "sheet|StrStr.csv|en|5b5892ac17258ac2f2943c0717682d4e"
 msgstr "Insufficient items."
 
 #: StrStr.csv:1150
-msgctxt ""
-msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
+msgctxt "Do you want to remove this game log from Collection？"
+msgid "sheet|StrStr.csv|en|940acc3a7f7a45ff1af65fbbd8977f22"
+msgstr "Do you want to remove this game log from Collection？"
 
 #: StrStr.csv:1151
-msgctxt ""
-msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
+msgctxt "Season has ended"
+msgid "sheet|StrStr.csv|en|e3f5e4ff91325eb9d8e49334d48a8fbb"
+msgstr "Season has ended"
 
 #: StrStr.csv:1152
-msgctxt ""
-msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
+msgctxt "All-time Ranking"
+msgid "sheet|StrStr.csv|en|d62defc1170ae6f624f2ea85ae644c5f"
+msgstr "All-time Ranking"
 
 #: StrStr.csv:1153
-msgctxt ""
-msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
+msgctxt "No.{0}"
+msgid "sheet|StrStr.csv|en|130bdc7c3649ab5cb72dde8c043a53d6"
+msgstr "No.{0}"
 
 #: StrStr.csv:1154
 msgctxt ""
@@ -44423,21 +44917,76 @@ msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
 #: StrStr.csv:1155
-msgctxt ""
-msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
+msgctxt "My Ranking:"
+msgid "sheet|StrStr.csv|en|088ba46b2e75c87ad5c5bd71d1869ea9"
+msgstr "My Ranking:"
 
 #: StrStr.csv:1156
-msgctxt ""
-msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr ""
+msgctxt "Received Reward:"
+msgid "sheet|StrStr.csv|en|16fd8bfa57e84abf7ffa24ff4bd18853"
+msgstr "Received Reward:"
 
 #: StrStr.csv:1157
+msgctxt "The reward has been sent to your Items - Decoration."
+msgid "sheet|StrStr.csv|en|5d662af5a332a0d5753160316a1b642b"
+msgstr "The reward has been sent to your Items - Decoration."
+
+#: StrStr.csv:1158
+msgctxt "Oh! Careless Ichihime has lost the information about this Jyanshi."
+msgid "sheet|StrStr.csv|en|1492a157f9c28c6859fcd4ec1b3bfe1d"
+msgstr "Oh! Careless Ichihime has lost the information about this Jyanshi."
+
+#: StrStr.csv:1159
 msgctxt ""
 msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: StrStr.csv:1158
+#: StrStr.csv:1160
+msgctxt ""
+msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: StrStr.csv:1161
+msgctxt ""
+msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: StrStr.csv:1162
+msgctxt ""
+msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: StrStr.csv:1163
+msgctxt ""
+msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: StrStr.csv:1164
+msgctxt ""
+msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: StrStr.csv:1165
+msgctxt ""
+msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: StrStr.csv:1166
+msgctxt ""
+msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: StrStr.csv:1167
+msgctxt ""
+msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: StrStr.csv:1168
+msgctxt ""
+msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: StrStr.csv:1169
 msgctxt ""
 "請確認重啟後的語言版本所顯示的時間皆為UTC+8時區時間。\\nPlease confirm that the time displays in-"
 "game will be in (UTC+8) after restarting."
@@ -44446,7 +44995,7 @@ msgstr ""
 "請確認重啟後的語言版本所顯示的時間皆為UTC+8時區時間。\\nPlease confirm that the time displays in-"
 "game will be in (UTC+8) after restarting."
 
-#: StrStr.csv:1159
+#: StrStr.csv:1170
 msgctxt ""
 "Please confirm that the time displays in-game will be in (UTC-7) after "
 "restarting.\\n請確認重啟後的語言版本所顯示的時間皆為UTC-7時區時間。"
