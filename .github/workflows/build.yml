@@ -22,7 +22,7 @@ jobs:
         run: python -m pip install --upgrade pip pipenv
 
       - name: Set PIPENV_VENV_IN_PROJECT
-        run: echo '::set-env name=PIPENV_VENV_IN_PROJECT::true'
+        run: echo "PIPENV_VENV_IN_PROJECT=true" >> $GITHUB_ENV
       
       - name: Install dependencies
         run: pipenv install --dev --deploy
@@ -126,7 +126,7 @@ jobs:
       - name: Set VERSION_CODE env
         run: |
           export VERSION="$(jq -r .version ./korean/resourcepack.json)"
-          echo "::set-env name=VERSION_CODE::$VERSION"
+          echo "VERSION_CODE=$VERSION" >> $GITHUB_ENV
           
       - name: Remove .git file
         run: rm -rf ./korean/.git
