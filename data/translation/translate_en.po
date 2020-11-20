@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-11-19 06:05:31\n"
+"PO-Revision-Date: 2020-11-20 12:05:46\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1837,9 +1837,9 @@ msgid "json|common/disconnect|1|2|290c02d9f3f9749639d9309c451757dc"
 msgstr "Connection lost. Trying to reconnect"
 
 #: ui_en.json
-msgctxt "Restart Now"
-msgid "json|common/disconnect|1|4|0|2d9c2140c53daf05855033aaceeaa8fd"
-msgstr "Restart Now"
+msgctxt "Restart"
+msgid "json|common/disconnect|1|4|0|51cfbcff36da74a9fc47f3a5140f99f2"
+msgstr "Restart"
 
 #: ui_en.json
 msgctxt ""
@@ -6317,6 +6317,11 @@ msgstr "Empty"
 msgctxt "Empty"
 msgid "json|lobby/sushe_select|0|4|4|5|0|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
 msgstr "Empty"
+
+#: ui_en.json
+msgctxt "二阶堂美树"
+msgid "json|lobby/sushe_select|0|5|2|0|1|7|423276a1eb76b8a2d4c4e7447dce3451"
+msgstr "二阶堂美树"
 
 #: ui_en.json
 msgctxt "Dorm"
