@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-09-18 02:39+0000\n"
+"PO-Revision-Date: 2020-12-22 17:21+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -182,7 +182,7 @@ msgstr "타일셋"
 #: translate_json.csv:48
 msgctxt "(Can only be set at homepage)"
 msgid "json|both_ui/config|0|7|1|2|1|3042c20e7ad3a7f6a548c4e3deb6ec12"
-msgstr "(홈페이지에서만 설정 가능)"
+msgstr "(홈 화면에서만 설정 가능)"
 
 #: translate_json.csv:49
 msgctxt "Voice"
@@ -12253,7 +12253,7 @@ msgstr "들통"
 #: translate_sheet.csv:1949
 msgctxt "Total Played"
 msgid "sheet|StrStr.csv|en|9f489bc2f6bfada1c7495786b50c4184"
-msgstr "총 플레이 수"
+msgstr "총 플레이 횟수"
 
 #: translate_sheet.csv:1950
 msgctxt "Avg Score"
@@ -12273,27 +12273,27 @@ msgstr "최대 연장"
 #: translate_sheet.csv:1954
 msgctxt "Win Rate"
 msgid "sheet|StrStr.csv|en|07a5b53f8af38d8d3cdb8a78e65d134c"
-msgstr "승률"
+msgstr "화료율"
 
 #: translate_sheet.csv:1955
 msgctxt "Tsumo Rate"
 msgid "sheet|StrStr.csv|en|f09fc617ff40790b7c0576a6c21b3bff"
-msgstr "쯔모 비율"
+msgstr "쯔모율"
 
 #: translate_sheet.csv:1956
 msgctxt "Deal-in Rate"
 msgid "sheet|StrStr.csv|en|3f2df764788280fe9aa53229fdc127fd"
-msgstr "방총율"
+msgstr "방총률"
 
 #: translate_sheet.csv:1957
 msgctxt "Call Rate"
 msgid "sheet|StrStr.csv|en|3a4925e19e02fb44df9d672c6e0724d3"
-msgstr "울기 비율"
+msgstr "후로율"
 
 #: translate_sheet.csv:1958
 msgctxt "Riichi Rate"
 msgid "sheet|StrStr.csv|en|a27ffd0a6f4076f298f02add1dea77e9"
-msgstr "리치 비율"
+msgstr "리치율"
 
 #: translate_sheet.csv:1959
 msgctxt "South Round"
@@ -61680,3 +61680,1028 @@ msgstr "화장, 노래방"
 msgctxt "Weekly Reward"
 msgid "json|lobby/shilian/shilian|3|2|4|1|266f1b24fe0844f7e1f7f180c23a1067"
 msgstr "주간 보상"
+
+#: ui_en.json
+msgctxt "再度入手した雀士は願い石に変換されます。"
+msgid "json|lobby/treasure|5|2|2|5|4|b0252a8aa96dd10373ceb18f825f4c31"
+msgstr "再度入手した雀士は願い石に変換されます。"
+
+#: ui_en.json
+msgctxt "ピックアップ雀士提供確率：全雀士の59％"
+msgid "json|lobby/treasure|5|2|2|5|3|7d9fd8492834e2f23f28459fbf910199"
+msgstr "ピックアップ雀士提供確率：全雀士の59％"
+
+#: ui_en.json
+msgctxt "Duplicate decorations will be converted into Star Stones"
+msgid "json|lobby/treasure|5|2|2|3|4|0|47958c936f775228a1c5e1232d6f67b9"
+msgstr "중복된 장식은 별의 돌로 전환됩니다"
+
+#: ui_en.json
+msgctxt "雀士キャラクター提供確率:5％"
+msgid "json|lobby/treasure|5|2|2|5|2|2f2f6da6e37a4b15959445893043601a"
+msgstr "雀士キャラクター提供確率:5％"
+
+#: ui_en.json
+msgctxt "（信仰）が入手できます。"
+msgid "json|lobby/treasure|5|2|2|5|1|97b87bf775f3b176de5fb13d91ccc0ed"
+msgstr "（信仰）が入手できます。"
+
+#: ui_en.json
+msgctxt "1回祈願するたびに1点"
+msgid "json|lobby/treasure|5|2|2|5|0|1a77a881a4d8dc6a13df98eb167e906e"
+msgstr "1回祈願するたびに1点"
+
+#: ui_en.json
+msgctxt "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
+msgid "json|lobby/treasure|5|2|2|4|5|767e20b8225de249f2d1df91bec3bc5b"
+msgstr "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
+
+#: ui_en.json
+msgctxt "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
+msgid "json|lobby/treasure|5|2|2|4|4|5efce653ee4327e40f849d0ddda668c2"
+msgstr "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
+
+#: ui_en.json
+msgctxt "再度入手した装飾品は星の石に変換されます。"
+msgid "json|lobby/treasure|5|2|2|4|3|0|c938008704d04b1987f6bba8e1e38d6c"
+msgstr "再度入手した装飾品は星の石に変換されます。"
+
+#: ui_en.json
+msgctxt "装飾品提供確率:15％"
+msgid "json|lobby/treasure|5|2|2|4|3|b68af077a6302c5974b620d6ecf7cf28"
+msgstr "装飾品提供確率:15％"
+
+#: ui_en.json
+msgctxt "再度入手した雀士キャラクターは願いの石に変換されます。"
+msgid "json|lobby/treasure|5|2|2|4|2|0|6319f133863385d1fe54b173f400b0db"
+msgstr "再度入手した雀士キャラクターは願いの石に変換されます。"
+
+#: ui_en.json
+msgctxt "雀士キャラクター提供確率:5％"
+msgid "json|lobby/treasure|5|2|2|4|2|2f2f6da6e37a4b15959445893043601a"
+msgstr "雀士キャラクター提供確率:5％"
+
+#: ui_en.json
+msgctxt "Chance to get green gift/blue gift/purple gift:  24%/51%/5%"
+msgid "json|lobby/treasure|5|2|2|3|6|45e9be4d40ab9c38141dc257ff3feefe"
+msgstr "초록색/파란색/보라색 선물 획득 확률:  24%/51%/5%"
+
+#: ui_en.json
+msgctxt "(Faith), as well as all-new characters and decorations"
+msgid "json|lobby/treasure|5|2|2|3|1|47be30f42361f946252d782fa39f231f"
+msgstr ")과 새로운 캐릭터와 장식을 얻을 수 있습니다"
+
+#: ui_en.json
+msgctxt "（信仰）が入手できます。"
+msgid "json|lobby/treasure|5|2|2|4|1|97b87bf775f3b176de5fb13d91ccc0ed"
+msgstr "（信仰）が入手できます。"
+
+#: ui_en.json
+msgctxt "1回祈願するたびに1点"
+msgid "json|lobby/treasure|5|2|2|4|0|1a77a881a4d8dc6a13df98eb167e906e"
+msgstr "1回祈願するたびに1点"
+
+#: ui_en.json
+msgctxt "New characters and effects are limited-time Rate Up"
+msgid "json|lobby/treasure|5|2|2|3|7|24a81c9e865f32ceb5a5fe0abbb6f4af"
+msgstr "제한 기간까지 새 캐릭터와 효과 획득 확률 상승"
+
+#: ui_en.json
+msgctxt "Chance to get new effects: 7.35%"
+msgid "json|lobby/treasure|5|2|2|3|5|068ad3fd2401a634b14485a49c35e13c"
+msgstr "새 효과를 획득할 확률: 7.35%"
+
+#: ui_en.json
+msgctxt "Chance to get decorations: 15%"
+msgid "json|lobby/treasure|5|2|2|3|4|463f53cda2cd30800f4267383bca9311"
+msgstr "장식 획득 확률: 15%"
+
+#: ui_en.json
+msgctxt "Chance to summon new characters: 2.95%"
+msgid "json|lobby/treasure|5|2|2|3|3|a5c047090c395032d772cbc0cd061bf5"
+msgstr "새 캐릭터 획득 확률: 2.95%"
+
+#: ui_en.json
+msgctxt "Duplicate characters will be converted to Wishing Stones"
+msgid "json|lobby/treasure|5|2|2|3|2|0|737618c1f8cd09f9d4c1c6abf2721269"
+msgstr "중복된 캐릭터는 기도의 돌로 전환됩니다"
+
+#: ui_en.json
+msgctxt "Chance to get characters: 5%"
+msgid "json|lobby/treasure|5|2|2|3|2|533dd73919f0c6b513351628b8243cef"
+msgstr "캐릭터 획득 확률: 5%"
+
+#: ui_en.json
+msgctxt "Each time you summon, you can get 1"
+msgid "json|lobby/treasure|5|2|2|3|0|4bff031238548fac07b2443c6deba794"
+msgstr "당신은 1번 기원할 때 마다 1개의 신앙("
+
+#: ui_en.json
+msgctxt ""
+"You will get at least 1 purple gift when you perform a 10-summon using Jade."
+msgid "json|lobby/treasure|5|2|2|2|5|dfd203514802330ba394af0c56d39d0f"
+msgstr "휘옥을 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다."
+
+#: ui_en.json
+#, fuzzy
+msgctxt "Chance to get green gift/blue gift/purple gift:  24%/51%/5%"
+msgid "json|lobby/treasure|5|2|2|2|4|45e9be4d40ab9c38141dc257ff3feefe"
+msgstr "초록색/파란색/보라색 선물 획득 확률:  24%/51%/5%"
+
+#: ui_en.json
+msgctxt "Duplicate decorations will be converted into Star Stones"
+msgid "json|lobby/treasure|5|2|2|2|3|0|47958c936f775228a1c5e1232d6f67b9"
+msgstr "중복된 장식은 별의 돌로 전환됩니다"
+
+#: ui_en.json
+msgctxt "The reward has been sent to your Items - Decoration."
+msgid "json|lobby/shilian/shilian_result|2|3|5d662af5a332a0d5753160316a1b642b"
+msgstr "보상이 창고 - 장식 페이지에 반영되었습니다."
+
+#: ui_en.json
+msgctxt "Points"
+msgid "json|lobby/ab_match_reward|0|5|4|0|75dd5f1160a3f02b6fae89c54361a1b3"
+msgstr "점수"
+
+#: ui_en.json
+msgctxt "Total Played"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|8|9f489bc2f6bfada1c7495786b50c4184"
+msgstr "총 플레이 횟수"
+
+#: ui_en.json
+msgctxt "Max Repeats"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|14|1421256f92c4ddbfa64cace74f63aa73"
+msgstr "최대 연장"
+
+#: ui_en.json
+msgctxt "Chance to get decorations: 15%"
+msgid "json|lobby/treasure|5|2|2|2|3|463f53cda2cd30800f4267383bca9311"
+msgstr "장식 획득 확률: 15%"
+
+#: ui_en.json
+msgctxt "Duplicate characters will be converted to Wishing Stones"
+msgid "json|lobby/treasure|5|2|2|2|2|0|737618c1f8cd09f9d4c1c6abf2721269"
+msgstr "중복된 캐릭터는 기도의 돌로 전환됩니다"
+
+#: ui_en.json
+msgctxt "(Faith), as well as all-new characters and decorations"
+msgid "json|lobby/treasure|5|2|2|2|1|47be30f42361f946252d782fa39f231f"
+msgstr ")과 새로운 캐릭터와 장식을 얻을 수 있습니다"
+
+#: ui_en.json
+msgctxt "Chance to get characters: 5%"
+msgid "json|lobby/treasure|5|2|2|2|2|533dd73919f0c6b513351628b8243cef"
+msgstr "캐릭터 획득 확률: 5%"
+
+#: ui_en.json
+msgctxt "使用辉玉10连寻觅，至少会获得一个紫色礼物"
+msgid "json|lobby/treasure|5|2|2|1|7|37c79d331e6564f6826cbf3d332d854b"
+msgstr "使用辉玉10连寻觅，至少会获得一个紫色礼物"
+
+#: ui_en.json
+msgctxt "装扮概率：15%"
+msgid "json|lobby/treasure|5|2|2|1|4|c8b16a2572d0ddba8f95d9142f7e7d3f"
+msgstr "装扮概率：15%"
+
+#: ui_en.json
+msgctxt "Achievement:"
+msgid "json|lobby/playerinfo_en|1|5|9|1|085617bb032b1d34a2baf555cc8047db"
+msgstr "도전 과제:"
+
+#: ui_en.json
+msgctxt "Details"
+msgid "json|lobby/achievement|1|0|3ec365dd533ddb7ef3d1c111186ce872"
+msgstr "상세"
+
+#: ui_en.json
+msgctxt "Available Matches:"
+msgid "json|lobby/ab_match_en|1|4|6|94c2e30c49c0c2e9069eb7ec921c6de6"
+msgstr "남은 경기:"
+
+#: ui_en.json
+msgctxt "Restart"
+msgid "json|common/errorinfo|1|4|1|51cfbcff36da74a9fc47f3a5140f99f2"
+msgstr "재시작"
+
+#: ui_en.json
+msgctxt "Friendly Match"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|6|1|0|e933fed1bdd6f754fb8232129c38716b"
+msgstr "친선전"
+
+#: ui_en.json
+msgctxt "Call Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|24|3a4925e19e02fb44df9d672c6e0724d3"
+msgstr "후로율"
+
+#: ui_en.json
+msgctxt "Trends"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|2|10|0|9cf69763de83f9db7f4a87c51fe6ae23"
+msgstr "트렌드"
+
+#: ui_en.json
+msgctxt "4"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|2|6|a87ff679a2f3e71d9181a67b7542122c"
+msgstr "4"
+
+#: ui_en.json
+msgctxt "Each time you summon, you can get 1"
+msgid "json|lobby/treasure|5|2|2|2|0|4bff031238548fac07b2443c6deba794"
+msgstr "당신은 1번 기원할 때 마다 1개의 신앙("
+
+#: ui_en.json
+msgctxt "礼物概率：80%"
+msgid "json|lobby/treasure|5|2|2|1|6|d474cc361920c4d160a95e617711ce2c"
+msgstr "礼物概率：80%"
+
+#: ui_en.json
+msgctxt "每次寻觅都可以获得1点"
+msgid "json|lobby/treasure|5|2|2|0|0|21981eda7c469476e8954a8885b1f108"
+msgstr "每次寻觅都可以获得1点"
+
+#: ui_en.json
+msgctxt "Overview"
+msgid "json|lobby/treasure|1|5|0|3b878279a04dc47d60932cb294d96259"
+msgstr "요약"
+
+#: ui_en.json
+msgctxt "Chance to get characters, decorations or gifts"
+msgid "json|lobby/treasure|1|1|3|c620150db889c75f43b8af67aedc642f"
+msgstr "캐릭터, 장식, 선물을 받을 수 있음"
+
+#: ui_en.json
+msgctxt "Summon 10 Times"
+msgid "json|lobby/treasure|1|0|5|0|a90a723e5e0a2a55af1842730b439df8"
+msgstr "10회 기원"
+
+#: ui_en.json
+msgctxt "Received Reward:"
+msgid "json|lobby/shilian/shilian|5|2|0|0|16fd8bfa57e84abf7ffa24ff4bd18853"
+msgstr "받은 보상:"
+
+#: ui_en.json
+msgctxt "All-time Ranking"
+msgid ""
+"json|lobby/playerinfo_en|1|5|7|1|8|0|0|d62defc1170ae6f624f2ea85ae644c5f"
+msgstr "순위 기록"
+
+#: ui_en.json
+msgctxt "No record available. Good luck!"
+msgid "json|lobby/playerinfo|1|5|7|1|8|1|2767cb7fc9c3dced54a3f30595125332"
+msgstr "기록이 없습니다. 행운을 빌어요!"
+
+#: ui_en.json
+msgctxt "Please name this game log."
+msgid "json|lobby/paipu|3|1|6|0076af331367b5093b645479aa11b829"
+msgstr "로그의 이름을 입력하세요."
+
+#: ui_en.json
+msgctxt "-Current total winning point-"
+msgid ""
+"json|lobby/activitys/activity_dongri|1|5|1|0dc016bfddf74d679849f52672db86a5"
+msgstr "-현재 승점 합계-"
+
+#: ui_en.json
+msgctxt "Claimed"
+msgid "json|lobby/achievement|4|1|0|7|9d8b15ef78357692564f5aced0c68eaf"
+msgstr "받음"
+
+#: ui_en.json
+msgctxt "Complete all achievements in this category to claim rewards"
+msgid "json|lobby/achievement|4|1|0|4|81d3c93c21a74cda7e9519b5e82c745a"
+msgstr "아래의 모든 도전과제를 완료하여 보상 획득 가능"
+
+#: ui_en.json
+msgctxt "Total:"
+msgid "json|lobby/achievement|2|3|66c4c5112f455a19afde47829df363fa"
+msgstr "합계:"
+
+#: ui_en.json
+msgctxt "3-Player Mahjong"
+msgid "json|lobby/ab_match_score|1|4|1|3|0|bf689b46374f785a6e29f5e20a3b400c"
+msgstr "3인 마작"
+
+#: ui_en.json
+msgctxt "Epic Showdown Rewards"
+msgid "json|lobby/ab_match_reward|0|2|cc3f785af980ee4d29061fa88d8af4b3"
+msgstr "용투호쟁 보상"
+
+#: ui_en.json
+msgctxt "Current Stage:"
+msgid "json|lobby/ab_match_en|1|3|2|0|bea3393cdde7466ae5a95a432f52e3e2"
+msgstr "진행중인 단계:"
+
+#: ui_en.json
+msgctxt "Achievement:"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|8|1|085617bb032b1d34a2baf555cc8047db"
+msgstr "도전 과제:"
+
+#: ui_en.json
+msgctxt "Yaku Achieved"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|6|0|2|3603833487a89784c5c1e4d6d9d0206a"
+msgstr "달성한 역"
+
+#: ui_en.json
+msgctxt "Deal-in Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|22|3f2df764788280fe9aa53229fdc127fd"
+msgstr "방총률"
+
+#: ui_en.json
+msgctxt "Avg Turns"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|16|ad2192da9ca93ed2365636871922f796"
+msgstr "평균 화료순"
+
+#: ui_en.json
+msgctxt "4th"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
+msgstr "4위"
+
+#: ui_en.json
+msgctxt "Tsumo Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|20|f09fc617ff40790b7c0576a6c21b3bff"
+msgstr "쯔모율"
+
+#: ui_en.json
+msgctxt "3rd"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|4|b7b655045b89200c7a4dedb1303ca2f1"
+msgstr "3위"
+
+#: ui_en.json
+msgctxt "1st"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|0|ec31383cc75b7ef7915803f99562cbe8"
+msgstr "1위"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|2|7|0|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "LUK"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|1|8|3|f88d79c11b5b643625fa1c5df243ccd5"
+msgstr "행운"
+
+#: ui_en.json
+msgctxt "ATK"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|1|8|0|96cc5c725ae8f5ccb76056b7d12ed095"
+msgstr "공격"
+
+#: ui_en.json
+msgctxt "SPD"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|1|4|ed504d8761c0f48e13d9d14e94a23627"
+msgstr "속도"
+
+#: ui_en.json
+msgctxt "ATK"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|1|0|96cc5c725ae8f5ccb76056b7d12ed095"
+msgstr "공격"
+
+#: ui_en.json
+msgctxt "Achievement:"
+msgid "json|both_ui/otherplayerinfo|0|2|8|1|085617bb032b1d34a2baf555cc8047db"
+msgstr "도전 과제:"
+
+#: ui_en.json
+msgctxt "(UP装扮占49%、其他装扮占51%)"
+msgid "json|lobby/treasure|5|2|2|1|5|76a8cdef42e10d6cde4f3b3d9f35cc92"
+msgstr "(UP装扮占49%、其他装扮占51%)"
+
+#: ui_en.json
+msgctxt "重复获取的装扮将转换为星之石"
+msgid "json|lobby/treasure|5|2|2|1|4|0|601f6631a51db51eca9ea2a712864817"
+msgstr "重复获取的装扮将转换为星之石"
+
+#: ui_en.json
+msgctxt "(UP雀士占59%、其他雀士占41%)"
+msgid "json|lobby/treasure|5|2|2|1|3|e571ef2163101e87f50d31d486befbb2"
+msgstr "(UP雀士占59%、其他雀士占41%)"
+
+#: ui_en.json
+msgctxt "重复获取的雀士将转换为许愿石"
+msgid "json|lobby/treasure|5|2|2|1|2|0|fe1131907c7fb2562b4991589cec76f3"
+msgstr "重复获取的雀士将转换为许愿石"
+
+#: ui_en.json
+msgctxt "雀士概率：5%"
+msgid "json|lobby/treasure|5|2|2|1|2|11e4ba4a8cb176be1acb80978b571cdb"
+msgstr "雀士概率：5%"
+
+#: ui_en.json
+msgctxt "(信仰)，同时有可能获得全新的雀士及各种装扮"
+msgid "json|lobby/treasure|5|2|2|1|1|7b1a8127a187db29a9b77aaf772d0071"
+msgstr "(信仰)，同时有可能获得全新的雀士及各种装扮"
+
+#: ui_en.json
+msgctxt "每次寻觅都可以获得1点"
+msgid "json|lobby/treasure|5|2|2|1|0|21981eda7c469476e8954a8885b1f108"
+msgstr "每次寻觅都可以获得1点"
+
+#: ui_en.json
+msgctxt "使用辉玉10连寻觅，至少会获得一个紫色礼物"
+msgid "json|lobby/treasure|5|2|2|0|5|37c79d331e6564f6826cbf3d332d854b"
+msgstr "使用辉玉10连寻觅，至少会获得一个紫色礼物"
+
+#: ui_en.json
+msgctxt "礼物概率：80%"
+msgid "json|lobby/treasure|5|2|2|0|4|d474cc361920c4d160a95e617711ce2c"
+msgstr "礼物概率：80%"
+
+#: ui_en.json
+msgctxt "重复获取的装扮将转换为星之石"
+msgid "json|lobby/treasure|5|2|2|0|3|0|601f6631a51db51eca9ea2a712864817"
+msgstr "重复获取的装扮将转换为星之石"
+
+#: ui_en.json
+msgctxt "装扮概率：15%"
+msgid "json|lobby/treasure|5|2|2|0|3|c8b16a2572d0ddba8f95d9142f7e7d3f"
+msgstr "装扮概率：15%"
+
+#: ui_en.json
+msgctxt "重复获取的雀士将转换为许愿石"
+msgid "json|lobby/treasure|5|2|2|0|2|0|fe1131907c7fb2562b4991589cec76f3"
+msgstr "重复获取的雀士将转换为许愿石"
+
+#: ui_en.json
+msgctxt "雀士概率：5%"
+msgid "json|lobby/treasure|5|2|2|0|2|11e4ba4a8cb176be1acb80978b571cdb"
+msgstr "雀士概率：5%"
+
+#: ui_en.json
+msgctxt "(信仰)，同时有可能获得全新的雀士及各种装扮"
+msgid "json|lobby/treasure|5|2|2|0|1|7b1a8127a187db29a9b77aaf772d0071"
+msgstr "(信仰)，同时有可能获得全新的雀士及各种装扮"
+
+#: ui_en.json
+msgctxt "Select the character/item you would like to redeem"
+msgid "json|lobby/treasure|4|4|19f3c26d730dccfc3cec60def81e119e"
+msgstr "교환할 캐릭터/아이템을 선택하세요"
+
+#: ui_en.json
+msgctxt "Summon"
+msgid "json|lobby/treasure|2|0|efde9837421a1454da9ca1d72146c552"
+msgstr "기원"
+
+#: ui_en.json
+msgctxt "Redeem"
+msgid "json|lobby/treasure|1|6|2|0|81ed4dcb851fefbbbc791eeef4cd97a2"
+msgstr "교환"
+
+#: ui_en.json
+msgctxt "Summon Once"
+msgid "json|lobby/treasure|1|1|5|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
+msgstr "1회 기원"
+
+#: ui_en.json
+msgctxt "Get"
+msgid "json|lobby/treasure|1|1|1|c55582518cba2c464f29f5bae1c68def"
+msgstr "받기"
+
+#: ui_en.json
+msgctxt "Summon Once"
+msgid "json|lobby/treasure|1|1|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
+msgstr "1회 기원"
+
+#: ui_en.json
+msgctxt "Chance to get characters, decorations or gifts"
+msgid "json|lobby/treasure|1|0|3|c620150db889c75f43b8af67aedc642f"
+msgstr "캐릭터, 장식, 선물을 받을 수 있음"
+
+#: ui_en.json
+msgctxt "Get"
+msgid "json|lobby/treasure|1|0|1|c55582518cba2c464f29f5bae1c68def"
+msgstr "받기"
+
+#: ui_en.json
+msgctxt "Summon 10 Times"
+msgid "json|lobby/treasure|1|0|0|a90a723e5e0a2a55af1842730b439df8"
+msgstr "10회 기원"
+
+#: ui_en.json
+msgctxt "My Ranking:"
+msgid "json|lobby/shilian/shilian|5|3|0|0|088ba46b2e75c87ad5c5bd71d1869ea9"
+msgstr "내 순위:"
+
+#: ui_en.json
+msgctxt "Season has ended"
+msgid "json|lobby/shilian/shilian|3|2|1|1|e3f5e4ff91325eb9d8e49334d48a8fbb"
+msgstr "시즌이 종료됨"
+
+#: ui_en.json
+msgctxt "No record available. Good luck!"
+msgid "json|lobby/playerinfo_en|1|5|7|1|8|1|2767cb7fc9c3dced54a3f30595125332"
+msgstr "기록이 없습니다. 행운을 빌어요!"
+
+#: ui_en.json
+msgctxt "Achievement:"
+msgid "json|lobby/playerinfo|1|5|9|1|085617bb032b1d34a2baf555cc8047db"
+msgstr "도전 과제:"
+
+#: ui_en.json
+msgctxt "All-time Ranking"
+msgid "json|lobby/playerinfo|1|5|7|1|8|0|0|d62defc1170ae6f624f2ea85ae644c5f"
+msgstr "순위 기록"
+
+#: ui_en.json
+msgctxt "Exit"
+msgid "json|lobby/nickname|2|1|fef46e5063ce3dc78b8ae64fa474241d"
+msgstr "나가기"
+
+#: ui_en.json
+msgctxt "Claimed"
+msgid "json|lobby/achievement|4|1|1|1|0|1|9|9d8b15ef78357692564f5aced0c68eaf"
+msgstr "받음"
+
+#: ui_en.json
+msgctxt "Claim"
+msgid ""
+"json|lobby/achievement|4|1|1|1|0|1|2|2|803138044f8a43e9dcb5a76722ee06d0"
+msgstr "받기"
+
+#: ui_en.json
+msgctxt "Claim"
+msgid "json|lobby/achievement|4|1|0|5|0|803138044f8a43e9dcb5a76722ee06d0"
+msgstr "받기"
+
+#: ui_en.json
+msgctxt "Progress"
+msgid "json|lobby/achievement|4|1|0|2|46b5f8c58b679b4243cbdb5749642c86"
+msgstr "달성률"
+
+#: ui_en.json
+msgctxt "Completed Achievements:"
+msgid "json|lobby/achievement|2|1|df55bd73fa6c618926b443503aabbe53"
+msgstr "달성한 도전과제:"
+
+#: ui_en.json
+msgctxt "Achievement"
+msgid "json|lobby/achievement|0|2|e29be78e8cf65f9f1a934917f9e0903e"
+msgstr "도전 과제"
+
+#: ui_en.json
+msgctxt "/"
+msgid "json|lobby/ab_match_score|1|4|1|1|5|6666cd76f96956469e7be39d750cc7d9"
+msgstr "/"
+
+#: ui_en.json
+msgctxt "3"
+msgid "json|lobby/ab_match_score|1|4|1|1|4|eccbc87e4b5ce2fe28308fd9f2a7baf3"
+msgstr "3"
+
+#: ui_en.json
+msgctxt "2"
+msgid "json|lobby/ab_match_score|1|4|1|1|3|c81e728d9d4c2f636f067f89cc14862c"
+msgstr "2"
+
+#: ui_en.json
+msgctxt "1"
+msgid "json|lobby/ab_match_score|1|4|1|1|2|c4ca4238a0b923820dcc509a6f75849b"
+msgstr "1"
+
+#: ui_en.json
+msgctxt "Ranking"
+msgid "json|lobby/ab_match_score|1|4|1|1|1|37ae66f03261bd62844188f7e28092ff"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "Points"
+msgid "json|lobby/ab_match_score|1|4|1|0|1|75dd5f1160a3f02b6fae89c54361a1b3"
+msgstr "점수"
+
+#: ui_en.json
+msgctxt "4-Player Mahjong"
+msgid "json|lobby/ab_match_score|1|4|0|3|0|748d83eb46981719677092dd0fb3db31"
+msgstr "4인 마작"
+
+#: ui_en.json
+msgctxt "4"
+msgid "json|lobby/ab_match_score|1|4|0|1|5|a87ff679a2f3e71d9181a67b7542122c"
+msgstr "4"
+
+#: ui_en.json
+msgctxt "3"
+msgid "json|lobby/ab_match_score|1|4|0|1|4|eccbc87e4b5ce2fe28308fd9f2a7baf3"
+msgstr "3"
+
+#: ui_en.json
+msgctxt "2"
+msgid "json|lobby/ab_match_score|1|4|0|1|3|c81e728d9d4c2f636f067f89cc14862c"
+msgstr "2"
+
+#: ui_en.json
+msgctxt "1"
+msgid "json|lobby/ab_match_score|1|4|0|1|2|c4ca4238a0b923820dcc509a6f75849b"
+msgstr "1"
+
+#: ui_en.json
+msgctxt "Ranking"
+msgid "json|lobby/ab_match_score|1|4|0|1|1|37ae66f03261bd62844188f7e28092ff"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "Points"
+msgid "json|lobby/ab_match_score|1|4|0|0|1|75dd5f1160a3f02b6fae89c54361a1b3"
+msgstr "점수"
+
+#: ui_en.json
+msgctxt ""
+"After finishing matches in the Silver Room or other Ranked Room above, you "
+"can earn points according to your ranking."
+msgid "json|lobby/ab_match_score|1|3|05e02229d42d4a2cfe601271ea32eb16"
+msgstr "은탁 이상의 단위전에서 경기를 완료하면 순위에 따라 점수를 획득할 수 있습니다."
+
+#: ui_en.json
+msgctxt "Epic Showdown Point Rules"
+msgid "json|lobby/ab_match_score|1|2|67c9b23aa2873ae73e4709a2f46af6ec"
+msgstr "용투호쟁 점수 규칙"
+
+#: ui_en.json
+msgctxt "Rewards"
+msgid "json|lobby/ab_match_reward|0|5|4|1|0d1c608c1498367815da8105e26b0a9e"
+msgstr "보상"
+
+#: ui_en.json
+msgctxt "You can claim the rewards after finishing the matches of each stage."
+msgid "json|lobby/ab_match_reward|0|3|899b06d9421fefda7b926ee2eb02273b"
+msgstr "각 단계의 경기를 완료한 후 보상을 받을 수 있습니다."
+
+#: ui_en.json
+msgctxt "Rewards"
+msgid "json|lobby/ab_match_en|2|2|3|0d1c608c1498367815da8105e26b0a9e"
+msgstr "보상"
+
+#: ui_en.json
+msgctxt "Expiry Date:"
+msgid "json|lobby/ab_match_en|1|4|1|23c095f4c173df69d4f248f6695dd590"
+msgstr "유효 기간:"
+
+#: ui_en.json
+msgctxt "Current Stage:"
+msgid "json|lobby/ab_match_en|1|4|0|bea3393cdde7466ae5a95a432f52e3e2"
+msgstr "진행중인 단계:"
+
+#: ui_en.json
+msgctxt "The first attempt at each stage is free"
+msgid "json|lobby/ab_match_en|1|3|2|6|05224c2761d654762f489c8f4f425384"
+msgstr "각 단계 첫 도전 무료"
+
+#: ui_en.json
+msgctxt "Stage Available Attempts:"
+msgid "json|lobby/ab_match_en|1|3|2|5|1|603ce474f7ab339ae18c60fc2e407d58"
+msgstr "이 단계 시도 가능 횟수:"
+
+#: ui_en.json
+msgctxt "Cost:"
+msgid "json|lobby/ab_match_en|1|3|2|4|0|69edde90a1c38b2efccc65419fc0e540"
+msgstr "비용:"
+
+#: ui_en.json
+msgctxt "Exclusive Rewards"
+msgid "json|lobby/ab_match_en|1|3|0|1|6bfc480a22ae5d2236ea1cc8e51ec187"
+msgstr "한정 보상"
+
+#: ui_en.json
+msgctxt "Rewards"
+msgid "json|lobby/ab_match|2|2|3|0d1c608c1498367815da8105e26b0a9e"
+msgstr "보상"
+
+#: ui_en.json
+msgctxt "Available Matches:"
+msgid "json|lobby/ab_match|1|4|6|94c2e30c49c0c2e9069eb7ec921c6de6"
+msgstr "남은 경기:"
+
+#: ui_en.json
+msgctxt "Expiry Date:"
+msgid "json|lobby/ab_match|1|4|1|23c095f4c173df69d4f248f6695dd590"
+msgstr "유효 기간:"
+
+#: ui_en.json
+msgctxt "Current Stage:"
+msgid "json|lobby/ab_match|1|4|0|bea3393cdde7466ae5a95a432f52e3e2"
+msgstr "진행중인 단계:"
+
+#: ui_en.json
+msgctxt "The first attempt at each stage is free"
+msgid "json|lobby/ab_match|1|3|1|6|05224c2761d654762f489c8f4f425384"
+msgstr "각 단계 첫 도전 무료"
+
+#: ui_en.json
+msgctxt "Stage Available Attempts:"
+msgid "json|lobby/ab_match|1|3|1|5|1|603ce474f7ab339ae18c60fc2e407d58"
+msgstr "이 단계 시도 가능 횟수:"
+
+#: ui_en.json
+msgctxt "Cost:"
+msgid "json|lobby/ab_match|1|3|1|4|0|69edde90a1c38b2efccc65419fc0e540"
+msgstr "비용:"
+
+#: ui_en.json
+msgctxt "Current Stage:"
+msgid "json|lobby/ab_match|1|3|1|0|bea3393cdde7466ae5a95a432f52e3e2"
+msgstr "진행중인 단계:"
+
+#: ui_en.json
+msgctxt "Exclusive Rewards"
+msgid "json|lobby/ab_match|1|3|0|1|6bfc480a22ae5d2236ea1cc8e51ec187"
+msgstr "한정 보상"
+
+#: ui_en.json
+msgctxt "/"
+msgid "json|common/loading_SD|6|1|6666cd76f96956469e7be39d750cc7d9"
+msgstr "/"
+
+#: ui_en.json
+msgctxt "Restart"
+msgid "json|common/disconnect|1|4|0|51cfbcff36da74a9fc47f3a5140f99f2"
+msgstr "재시작"
+
+#: ui_en.json
+msgctxt "Path of Trial"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|6|3|0|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
+
+#: ui_en.json
+msgctxt "Ranked Match"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|6|2|0|76e1ad3f9b76ba224adc3f89dc021fbe"
+msgstr "단위전"
+
+#: ui_en.json
+msgctxt "No record available. Good luck!"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|8|1|2767cb7fc9c3dced54a3f30595125332"
+msgstr "기록이 없습니다. 행운을 빌어요!"
+
+#: ui_en.json
+msgctxt "All-time Ranking"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|8|0|0|d62defc1170ae6f624f2ea85ae644c5f"
+msgstr "순위 기록"
+
+#: ui_en.json
+msgctxt "Local Yaku Achieved"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|7|0|2|bf287837967c7c81eddd08da78f7d92f"
+msgstr "달성한 로컬역"
+
+#: ui_en.json
+msgctxt "Riichi Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|26|a27ffd0a6f4076f298f02add1dea77e9"
+msgstr "리치율"
+
+#: ui_en.json
+msgctxt "Call Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|24|3a4925e19e02fb44df9d672c6e0724d3"
+msgstr "후로율"
+
+#: ui_en.json
+msgctxt "Tsumo Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|20|f09fc617ff40790b7c0576a6c21b3bff"
+msgstr "쯔모율"
+
+#: ui_en.json
+msgctxt "Win Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
+msgstr "화료율"
+
+#: ui_en.json
+msgctxt "Max Repeats"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|14|1421256f92c4ddbfa64cace74f63aa73"
+msgstr "최대 연장"
+
+#: ui_en.json
+msgctxt "Avg Rank"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|12|78f17c40778452d853ecf5d93ef34fdd"
+msgstr "평균 순위"
+
+#: ui_en.json
+msgctxt "Avg Score"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|10|24b362a521bc6bbba7ca7f634f257cf2"
+msgstr "평균 점수"
+
+#: ui_en.json
+msgctxt "Negative"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
+msgstr "들통"
+
+#: ui_en.json
+msgctxt "3rd"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|4|b7b655045b89200c7a4dedb1303ca2f1"
+msgstr "3위"
+
+#: ui_en.json
+msgctxt "2nd"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
+msgstr "2위"
+
+#: ui_en.json
+msgctxt "1st"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|0|ec31383cc75b7ef7915803f99562cbe8"
+msgstr "1위"
+
+#: ui_en.json
+msgctxt "South Round"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|5|0|2|23a893f962bd1ba64fd3534612197997"
+msgstr "반장전"
+
+#: ui_en.json
+msgctxt "Riichi Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|26|a27ffd0a6f4076f298f02add1dea77e9"
+msgstr "리치율"
+
+#: ui_en.json
+msgctxt "Deal-in Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|22|3f2df764788280fe9aa53229fdc127fd"
+msgstr "방총률"
+
+#: ui_en.json
+msgctxt "Win Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
+msgstr "화료율"
+
+#: ui_en.json
+msgctxt "Avg Turns"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|16|ad2192da9ca93ed2365636871922f796"
+msgstr "평균 화료순"
+
+#: ui_en.json
+msgctxt "Avg Rank"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|12|78f17c40778452d853ecf5d93ef34fdd"
+msgstr "평균 순위"
+
+#: ui_en.json
+msgctxt "Avg Score"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|10|24b362a521bc6bbba7ca7f634f257cf2"
+msgstr "평균 점수"
+
+#: ui_en.json
+msgctxt "Total Played"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|8|9f489bc2f6bfada1c7495786b50c4184"
+msgstr "총 플레이 횟수"
+
+#: ui_en.json
+msgctxt "Negative"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
+msgstr "들통"
+
+#: ui_en.json
+msgctxt "4th"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
+msgstr "4위"
+
+#: ui_en.json
+msgctxt "2nd"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
+msgstr "2위"
+
+#: ui_en.json
+msgctxt "East Round"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|4|0|2|b854db72888d259be819bfde4fabb4e8"
+msgstr "동풍전"
+
+#: ui_en.json
+msgctxt "Detailed Info"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|3|0|0|b8a1f13f2a5318ec0079b7be00f9130b"
+msgstr "상세 정보"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|2|9|0|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "1"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|2|9|c4ca4238a0b923820dcc509a6f75849b"
+msgstr "1"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|2|8|0|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "2"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|2|8|c81e728d9d4c2f636f067f89cc14862c"
+msgstr "2"
+
+#: ui_en.json
+msgctxt "3"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|2|7|eccbc87e4b5ce2fe28308fd9f2a7baf3"
+msgstr "3"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|2|6|0|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "Play Style"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|1|9|0|4c21dd25c08f117cd644b37484cb60a9"
+msgstr "플레이 경향"
+
+#: ui_en.json
+msgctxt "SPD"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|1|8|2|ed504d8761c0f48e13d9d14e94a23627"
+msgstr "속도"
+
+#: ui_en.json
+msgctxt "DEF"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|1|8|1|822dd494b3e14a82aa76bd455e6b6f4b"
+msgstr "수비"
+
+#: ui_en.json
+msgctxt "LUK"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|1|6|f88d79c11b5b643625fa1c5df243ccd5"
+msgstr "행운"
+
+#: ui_en.json
+msgctxt "DEF"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|1|2|822dd494b3e14a82aa76bd455e6b6f4b"
+msgstr "수비"
+
+#: ui_en.json
+msgctxt "No record available. Good luck!"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|0|3|2767cb7fc9c3dced54a3f30595125332"
+msgstr "기록이 없습니다. 행운을 빌어요!"
+
+#: ui_en.json
+msgctxt "Recent High Score"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|0|0|0|fee382ba20496eafced1bc721b85304c"
+msgstr "최근 고득점"
+
+#: ui_en.json
+msgctxt "No record available. Good luck!"
+msgid ""
+"json|both_ui/otherplayerinfo|0|2|6|1|8|1|2767cb7fc9c3dced54a3f30595125332"
+msgstr "기록이 없습니다. 행운을 빌어요!"
+
+#: ui_en.json
+msgctxt "All-time Ranking"
+msgid ""
+"json|both_ui/otherplayerinfo|0|2|6|1|8|0|0|d62defc1170ae6f624f2ea85ae644c5f"
+msgstr "순위 기록"
+
+#: StrStr.csv:1241
+msgctxt "Completed"
+msgid "sheet|StrStr.csv|en|07ca5050e697392c9ed47e6453f1453f"
+msgstr "달성"
+
+#: ui_en.json
+msgctxt "Completed"
+msgid "json|both_ui/achievement_tips|0|3|07ca5050e697392c9ed47e6453f1453f"
+msgstr "달성"
