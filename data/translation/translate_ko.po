@@ -1,14 +1,14 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-12-22 17:21+0000\n"
+"PO-Revision-Date: 2020-12-22 19:00+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.2.2\n"
+"X-Generator: Weblate 4.4\n"
 
 #: translate_json.csv:7
 msgctxt "绑定邮箱"
@@ -5541,7 +5541,7 @@ msgstr "순"
 #: translate_json.csv:1279
 msgctxt "Repeat Counter"
 msgid "json|mj/ob_replay|1|1|0|2|4|908362b065bcfdad809d7ea17d941ffe"
-msgstr "연장"
+msgstr "본장"
 
 #: translate_json.csv:1280
 msgctxt "Tsumo"
@@ -5571,7 +5571,7 @@ msgstr "패산"
 #: translate_json.csv:1285
 msgctxt "Repeat Counter"
 msgid "json|mj/replay|2|1|0|2|4|908362b065bcfdad809d7ea17d941ffe"
-msgstr "연장"
+msgstr "본장"
 
 #: translate_json.csv:1286
 msgctxt "Exhaustive Draw"
@@ -12468,7 +12468,7 @@ msgstr "패산"
 #: translate_sheet.csv:2235
 msgctxt "Repeat Counter"
 msgid "sheet|StrStr.csv|en|908362b065bcfdad809d7ea17d941ffe"
-msgstr "연장"
+msgstr "본장"
 
 #: translate_sheet.csv:2238
 msgctxt "Furiten"
@@ -61803,7 +61803,6 @@ msgid "json|lobby/treasure|5|2|2|2|5|dfd203514802330ba394af0c56d39d0f"
 msgstr "휘옥을 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다."
 
 #: ui_en.json
-#, fuzzy
 msgctxt "Chance to get green gift/blue gift/purple gift:  24%/51%/5%"
 msgid "json|lobby/treasure|5|2|2|2|4|45e9be4d40ab9c38141dc257ff3feefe"
 msgstr "초록색/파란색/보라색 선물 획득 확률:  24%/51%/5%"
@@ -62705,3 +62704,299 @@ msgstr "달성"
 msgctxt "Completed"
 msgid "json|both_ui/achievement_tips|0|3|07ca5050e697392c9ed47e6453f1453f"
 msgstr "달성"
+
+#: ui_en.json
+msgctxt "Repeat Counter"
+msgid "json|mj/scorechange|8|4|908362b065bcfdad809d7ea17d941ffe"
+msgstr "본장"
+
+#: ui_en.json
+msgctxt "Please name this game log."
+msgid "json|mj/replay|6|1|6|0076af331367b5093b645479aa11b829"
+msgstr "로그의 이름을 입력하세요."
+
+#: ui_en.json
+msgctxt "Remarks are too long"
+msgid "json|mj/replay|6|1|5|3446be27fb0b88e43b4f87b6bbf59801"
+msgstr "메모가 너무 깁니다"
+
+#: ui_en.json
+msgctxt "Collect"
+msgid "json|mj/replay|6|1|3|0|e7ca851922b13f555127b04b70435ca9"
+msgstr "컬렉션에 추가"
+
+#: ui_en.json
+msgctxt "Log Collection"
+msgid "json|mj/replay|6|1|2|870991bd7d77ced9c9b57ab85eb481ec"
+msgstr "로그 컬렉션"
+
+#: ui_en.json
+msgctxt "Emote"
+msgid "json|mj/desktopInfo|13|5|4b72cd217167f3afa7ba448cbebefe3a"
+msgstr "이모티콘"
+
+#: ui_en.json
+msgctxt "Decoration"
+msgid "json|lobby/waitingroom|0|6|5|1|24365794120e03b807acbd05c0a48db9"
+msgstr "장식"
+
+#: ui_en.json
+msgctxt "Emote"
+msgid "json|lobby/visit|2|3|0|0|3|0|0|4b72cd217167f3afa7ba448cbebefe3a"
+msgstr "이모티콘"
+
+#: ui_en.json
+msgctxt "Insufficient Jade ，Do you wish to Purchase ？"
+msgid "json|lobby/treasure|7|0|6|9dcfd392f568bba3a473caf6bb8fa204"
+msgstr "휘옥이 부족합니다. 구매하시겠습니까?"
+
+#: ui_en.json
+msgctxt "Cancel"
+msgid "json|lobby/treasure|7|0|5|0|ea4788705e6873b424c65e91c2846b19"
+msgstr "취소"
+
+#: ui_en.json
+msgctxt "Buy"
+msgid "json|lobby/treasure|7|0|4|0|831a28f1e8df07c553fcd59546465d13"
+msgstr "구매"
+
+#: ui_en.json
+msgctxt "Insufficient Jade"
+msgid "json|lobby/treasure|7|0|2|f384778be541036a6aec2eca58d953c9"
+msgstr "휘옥 부족"
+
+#: ui_en.json
+msgctxt "寻觅辉石"
+msgid "json|lobby/treasure|6|0|16|13acac6478b636c40372205b9840a532"
+msgstr "寻觅辉石"
+
+#: ui_en.json
+msgctxt "购买"
+msgid "json|lobby/treasure|6|0|15|bdc336339cd05ede697c47f64c12abcf"
+msgstr "购买"
+
+#: ui_en.json
+msgctxt "辉玉"
+msgid "json|lobby/treasure|6|0|14|ea6e1308c0b5f15137b68b3f9ab63ddb"
+msgstr "辉玉"
+
+#: ui_en.json
+msgctxt "是否花费"
+msgid "json|lobby/treasure|6|0|13|9b3d73847629428b4672471a04440f92"
+msgstr "是否花费"
+
+#: ui_en.json
+msgctxt "取消"
+msgid "json|lobby/treasure|6|0|12|0|625fb26b4b3340f7872b411f401e754c"
+msgstr "取消"
+
+#: ui_en.json
+msgctxt "确认"
+msgid "json|lobby/treasure|6|0|11|0|e83a256e4f5bb4ff8b3d804b5473217a"
+msgstr "确认"
+
+#: ui_en.json
+msgctxt "1800"
+msgid "json|lobby/treasure|6|0|10|f39ae9ff3a81f499230c4126e01f421b"
+msgstr "1800"
+
+#: ui_en.json
+msgctxt "1800"
+msgid "json|lobby/treasure|6|0|9|f39ae9ff3a81f499230c4126e01f421b"
+msgstr "1800"
+
+#: ui_en.json
+msgctxt "1800"
+msgid "json|lobby/treasure|6|0|5|f39ae9ff3a81f499230c4126e01f421b"
+msgstr "1800"
+
+#: ui_en.json
+msgctxt "1800"
+msgid "json|lobby/treasure|6|0|4|f39ae9ff3a81f499230c4126e01f421b"
+msgstr "1800"
+
+#: ui_en.json
+msgctxt "寻觅辉石不足"
+msgid "json|lobby/treasure|6|0|2|d4954ea8d53d97ad5b97a60c40ca22ab"
+msgstr "寻觅辉石不足"
+
+#: ui_en.json
+msgctxt "Sample 3"
+msgid "json|lobby/treasure|5|3|1|2|0|2|3|0|9e8687c7b37f396e653ec9334d12e5ca"
+msgstr "샘플 3"
+
+#: ui_en.json
+msgctxt "Sample 2"
+msgid "json|lobby/treasure|5|3|1|2|0|2|2|0|786e1405617a0c76f9a9ab76d9858d9e"
+msgstr "샘플 2"
+
+#: ui_en.json
+msgctxt "Sample 1"
+msgid "json|lobby/treasure|5|3|1|2|0|2|1|0|9060b4569344c3f678516a751154ccec"
+msgstr "샘플 1"
+
+#: ui_en.json
+msgctxt "Voice"
+msgid "json|lobby/treasure|5|3|1|2|0|2|0|0|d7a3fdf1351b72249a47454751549deb"
+msgstr "음성"
+
+#: ui_en.json
+msgctxt "Biography:"
+msgid "json|lobby/treasure|5|3|1|2|0|1|12|4859bddf1003cb383bc6b220a07218aa"
+msgstr "약력:"
+
+#: ui_en.json
+msgctxt "Hobby:"
+msgid "json|lobby/treasure|5|3|1|2|0|1|10|bc94dc5a26d1a278aa125811045da9cc"
+msgstr "취미:"
+
+#: ui_en.json
+msgctxt "CV:"
+msgid "json|lobby/treasure|5|3|1|2|0|1|8|42d6dd398ca223a660996ed83d84dd8d"
+msgstr "CV:"
+
+#: ui_en.json
+msgctxt "Blood Type:"
+msgid "json|lobby/treasure|5|3|1|2|0|1|6|96fa3614d73d288f3e8a8d6dddff18e4"
+msgstr "혈액형:"
+
+#: ui_en.json
+msgctxt "Age:"
+msgid "json|lobby/treasure|5|3|1|2|0|1|4|25235196c2744e9050067d45587d6a8b"
+msgstr "나이:"
+
+#: ui_en.json
+msgctxt "Birthday:"
+msgid "json|lobby/treasure|5|3|1|2|0|1|2|39d595f1a4ce984b95e9b52821b62177"
+msgstr "생일:"
+
+#: ui_en.json
+msgctxt "Height:"
+msgid "json|lobby/treasure|5|3|1|2|0|1|0|e933dc24fb245d863a43b4fefe9b45f5"
+msgstr "신장:"
+
+#: ui_en.json
+msgctxt "Character Info"
+msgid "json|lobby/treasure|5|3|1|2|0|0|0|a4d02d0457516e98af7e84b5898de22a"
+msgstr "캐릭터 정보"
+
+#: ui_en.json
+msgctxt "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
+msgid "json|lobby/treasure|5|2|2|7|7|12c6b2a733d418c8181614719a7d3558"
+msgstr "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
+
+#: ui_en.json
+msgctxt "禮物概率：80%"
+msgid "json|lobby/treasure|5|2|2|7|6|4b00df9933d62ef84bad21e912d3b2c6"
+msgstr "禮物概率：80%"
+
+#: ui_en.json
+msgctxt "(UP裝扮占49%、其他裝扮占51%)"
+msgid "json|lobby/treasure|5|2|2|7|5|b4cc67a1824d6db16ad0fbfefef583ef"
+msgstr "(UP裝扮占49%、其他裝扮占51%)"
+
+#: ui_en.json
+msgctxt "重複獲取的裝扮將轉換為星之石"
+msgid "json|lobby/treasure|5|2|2|7|4|0|7a94167b93d000c521a8acfea5d2ddaa"
+msgstr "重複獲取的裝扮將轉換為星之石"
+
+#: ui_en.json
+msgctxt "裝扮概率：15%"
+msgid "json|lobby/treasure|5|2|2|7|4|b299f6de87bda3f0ce7e6fc4c8fbcc87"
+msgstr "裝扮概率：15%"
+
+#: ui_en.json
+msgctxt "(UP雀士占59%、其他雀士占41%)"
+msgid "json|lobby/treasure|5|2|2|7|3|e571ef2163101e87f50d31d486befbb2"
+msgstr "(UP雀士占59%、其他雀士占41%)"
+
+#: ui_en.json
+msgctxt "重複獲取的雀士將轉換為許願石"
+msgid "json|lobby/treasure|5|2|2|7|2|0|ebddb8d60708511717c57d9af4c2aec4"
+msgstr "重複獲取的雀士將轉換為許願石"
+
+#: ui_en.json
+msgctxt "雀士概率：5%"
+msgid "json|lobby/treasure|5|2|2|7|2|11e4ba4a8cb176be1acb80978b571cdb"
+msgstr "雀士概率：5%"
+
+#: ui_en.json
+msgctxt "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
+msgid "json|lobby/treasure|5|2|2|7|1|518cd0681eefe0af1e62abf9ffc7d236"
+msgstr "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
+
+#: ui_en.json
+msgctxt "每次尋覓都可以獲得1點"
+msgid "json|lobby/treasure|5|2|2|7|0|c8a45e1d2afe4fc915d87276d700a0c7"
+msgstr "每次尋覓都可以獲得1點"
+
+#: ui_en.json
+msgctxt "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
+msgid "json|lobby/treasure|5|2|2|6|5|12c6b2a733d418c8181614719a7d3558"
+msgstr "使用輝玉10連尋覓，至少會獲得一個紫色禮物"
+
+#: ui_en.json
+msgctxt "禮物概率：80%"
+msgid "json|lobby/treasure|5|2|2|6|4|4b00df9933d62ef84bad21e912d3b2c6"
+msgstr "禮物概率：80%"
+
+#: ui_en.json
+msgctxt "重複獲取的裝扮將轉換為星之石"
+msgid "json|lobby/treasure|5|2|2|6|3|0|7a94167b93d000c521a8acfea5d2ddaa"
+msgstr "重複獲取的裝扮將轉換為星之石"
+
+#: ui_en.json
+msgctxt "裝扮概率：15%"
+msgid "json|lobby/treasure|5|2|2|6|3|b299f6de87bda3f0ce7e6fc4c8fbcc87"
+msgstr "裝扮概率：15%"
+
+#: ui_en.json
+msgctxt "重複獲取的雀士將轉換為許願石"
+msgid "json|lobby/treasure|5|2|2|6|2|0|ebddb8d60708511717c57d9af4c2aec4"
+msgstr "重複獲取的雀士將轉換為許願石"
+
+#: ui_en.json
+msgctxt "雀士概率：5%"
+msgid "json|lobby/treasure|5|2|2|6|2|11e4ba4a8cb176be1acb80978b571cdb"
+msgstr "雀士概率：5%"
+
+#: ui_en.json
+msgctxt "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
+msgid "json|lobby/treasure|5|2|2|6|1|518cd0681eefe0af1e62abf9ffc7d236"
+msgstr "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
+
+#: ui_en.json
+msgctxt "每次尋覓都可以獲得1點"
+msgid "json|lobby/treasure|5|2|2|6|0|c8a45e1d2afe4fc915d87276d700a0c7"
+msgstr "每次尋覓都可以獲得1點"
+
+#: ui_en.json
+msgctxt "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
+msgid "json|lobby/treasure|5|2|2|5|9|767e20b8225de249f2d1df91bec3bc5b"
+msgstr "輝石で「10回祈願」すると、紫色の贈り物を必ず1個以上獲得できます。"
+
+#: ui_en.json
+msgctxt "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
+msgid "json|lobby/treasure|5|2|2|5|8|5efce653ee4327e40f849d0ddda668c2"
+msgstr "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
+
+#: ui_en.json
+msgctxt "再度入手した装飾品は星の石に変換されます。"
+msgid "json|lobby/treasure|5|2|2|5|7|c938008704d04b1987f6bba8e1e38d6c"
+msgstr "再度入手した装飾品は星の石に変換されます。"
+
+#: ui_en.json
+msgctxt "ピックアップ装飾品提供確率：全装飾品の49%"
+msgid "json|lobby/treasure|5|2|2|5|6|c535d634547701e0b7e57580d560bc20"
+msgstr "ピックアップ装飾品提供確率：全装飾品の49%"
+
+#: ui_en.json
+msgctxt "装飾品提供確率：15%"
+msgid "json|lobby/treasure|5|2|2|5|5|1c0d863149026877f28127a025008c4f"
+msgstr "装飾品提供確率：15%"
+
+#: ui_en.json
+msgctxt ""
+"You will get at least 1 purple gift when you perform a 10-summon using Jade."
+msgid "json|lobby/treasure|5|2|2|3|8|dfd203514802330ba394af0c56d39d0f"
+msgstr "휘옥을 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다."
