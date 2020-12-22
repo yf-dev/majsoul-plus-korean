@@ -1,5 +1,8 @@
 name: Build Docker
 
+on:
+  workflow_dispatch:
+
 jobs:
   build_docker:
     name: Build Docker image
