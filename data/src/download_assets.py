@@ -10,6 +10,7 @@ import asyncio
 from contextlib import closing
 import aiohttp
 import aiofiles
+from tqdm.asyncio import tqdm_asyncio
 from common import log_normal, log_debug, log_warn, log_info, log_error
 
 lang = os.getenv('MAJSOUL_LANG', 'en')
@@ -24,7 +25,7 @@ async def download_file(session, url):
     filepath = url['target'] / url['path']
     full_url = f'{url["server"]}/{url["prefix"]}/{url["path"]}'.replace(' ', '%20')
     try:
-        timeout = aiohttp.ClientTimeout(total=30)
+        timeout = aiohttp.ClientTimeout(total=60 * 5)
         async with session.get(full_url, timeout=timeout) as response:
             if response.status == 200:
                 Path(filepath.parent).mkdir(parents=True, exist_ok=True)
@@ -40,8 +41,13 @@ async def download_file(session, url):
                 log_warn(f'Download Failed({response.status}) - {filepath} = {full_url}', verbose, is_verbose=True)
             return None
     except asyncio.TimeoutError as e:
+        # log_warn(f'Download Failed(TimeoutError) - {filepath} = {full_url}', verbose, is_verbose=True)
         return url
     except aiohttp.client_exceptions.ClientConnectorError as e:
+        # log_warn(f'Download Failed(ClientConnectorError) - {filepath} = {full_url}', verbose, is_verbose=True)
+        return url
+    except Exception as e:
+        log_warn(f'Download Failed({type(e).__name__}) - {filepath} = {full_url}', verbose, is_verbose=True)
         return url
 
 @asyncio.coroutine
@@ -53,10 +59,17 @@ async def download_files(urls, max_tries):
         connector = aiohttp.TCPConnector(limit=64)
         async with aiohttp.ClientSession(connector=connector) as session:
             download_futures = [download_file(session, url) for url in urls]
-            for download_future in asyncio.as_completed(download_futures):
-                retry_url = await download_future
-                if retry_url:
-                    retry_urls.append(retry_url)
+            first_error = None
+            for download_future in tqdm_asyncio.as_completed(download_futures, total=len(download_futures)):
+                try:
+                    retry_url = await download_future
+                    if retry_url:
+                        retry_urls.append(retry_url)
+                except Exception as e:
+                    if first_error is None:
+                        first_error = e
+            if first_error:
+                raise first_error
         try_counter += 1
         urls = retry_urls
     if urls:
