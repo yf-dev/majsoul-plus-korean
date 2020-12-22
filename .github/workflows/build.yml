@@ -63,12 +63,12 @@ jobs:
         run: docker-compose pull || docker-compose build --force-rm
         working-directory: ./data
 
-      - name: Push image to Github Package Registry
-        run: docker-compose push mpk || true
-        working-directory: ./data
-
       - name: Run docker image to build
         run: docker-compose run --rm mpk all
+        working-directory: ./data
+
+      - name: Push image to Github Package Registry
+        run: docker-compose push mpk || true
         working-directory: ./data
 
       - name: Upload asset files
