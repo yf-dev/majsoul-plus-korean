@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-12-23 12:13+0000\n"
+"PO-Revision-Date: 2020-12-23 15:09+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -67473,3 +67473,123 @@ msgctxt "Four Symbols - Silver Start"
 msgid ""
 "sheet|AchievementAchievement.csv|name_en|1236813d18cace2c722194a6cbf14c89"
 msgstr "사상 - 백은의 시작"
+
+#: StrStr.csv:1239
+msgctxt "Secret Achievement"
+msgid "sheet|StrStr.csv|en|d793c97398fd27f4a4f89c1454d7c619"
+msgstr "비밀 도전 과제"
+
+#: StrStr.csv:1238
+msgctxt "Achievement:"
+msgid "sheet|StrStr.csv|en|085617bb032b1d34a2baf555cc8047db"
+msgstr "도전 과제:"
+
+#: ItemDefinitionTitle.csv:40
+msgctxt "A title for completing all the achievements of [Crowdedness]"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|9274fb8f72d9caacccdc1c078facbb02"
+msgstr "[천객만래]의 모든 도전과제를 완료한 기념 타이틀"
+
+#: ItemDefinitionTitle.csv:40
+msgctxt "Crowdedness"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|b3b667efdf30d1c41c0e14fbcf7e7370"
+msgstr "천객만래"
+
+#: ItemDefinitionTitle.csv:39
+msgctxt "A title for completing all the achievements of [All-embracing]"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|6891d6a9c0919c0fbb228706fb5a82a7"
+msgstr "[삼라만상]의 모든 도전과제를 완료한 기념 타이틀"
+
+#: ItemDefinitionTitle.csv:39
+msgctxt "All-embracing"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|f2a9a0c79259e23974866242a4808523"
+msgstr "삼라만상"
+
+#: ItemDefinitionTitle.csv:38
+msgctxt "A title for completing all the achievements of [Shrine Guest]"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|f684bd85c5573c22aa70c0634102eb65"
+msgstr "[신사귀객]의 모든 도전과제를 완료한 기념 타이틀"
+
+#: ItemDefinitionTitle.csv:38
+msgctxt "Shrine Guest"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|4f558cbfd8ce67832e1ddf412e4c75bb"
+msgstr "신사귀객"
+
+#: ItemDefinitionTitle.csv:36
+msgctxt "A title for completing all the achievements of [Storyteller]"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|19e53408b0f34090f07a2146dc9940b9"
+msgstr "[작탁견문]의 모든 도전과제를 완료한 기념 타이틀"
+
+#: ItemDefinitionTitle.csv:36
+msgctxt "Storyteller"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|0d99c8413cb80e72a0259fe6a7da12bb"
+msgstr "작탁견문"
+
+#: ItemDefinitionTitle.csv:35
+msgctxt "A title for completing all the achievements of [Seasoned]"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|f7c54078d9d378146fd102f9759155e5"
+msgstr "[백련천마]의 모든 도전과제를 완료한 기념 타이틀"
+
+#: ItemDefinitionTitle.csv:35
+msgctxt "Seasoned"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|7a95c1a9223def33ca95f5101692cd06"
+msgstr "백련천마"
+
+#: ItemDefinitionTitle.csv:34
+msgctxt "A title for completing all the achievements of [The Chosen One]"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|bebab7f29368b173b5bcb73f441827b9"
+msgstr "[천우신조]의 모든 도전과제를 완료한 기념 타이틀"
+
+#: ItemDefinitionTitle.csv:34
+msgctxt "The Chosen One"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|52dff3685d8423321b9bccd44e59a739"
+msgstr "천우신조"
+
+#: ItemDefinitionTitle.csv:33
+msgctxt "A title for completing all the achievements of [Collector]"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|ffaa34ee8bb53f13aa239cf51e6f2b9f"
+msgstr "[성라운포]의 모든 도전과제를 완료한 기념 타이틀"
+
+#: ItemDefinitionTitle.csv:33
+msgctxt "Collector"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|8fc330d76e990ab6964af08ea1e47d2e"
+msgstr "성라운포"
+
+#: ItemDefinitionTitle.csv:32
+msgctxt "A title for completing all the achievements of [Winning Streak]"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|de6bb7c5933d7117406290e8f2eebcec"
+msgstr "[연승의 길]의 모든 도전과제를 완료한 기념 타이틀"
+
+#: ItemDefinitionTitle.csv:32
+msgctxt "Winning Streak"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|9d1a3c704a797d66bf47bbbf0abbd455"
+msgstr "연승의 길"
+
+#: ItemDefinitionTitle.csv:31
+msgctxt "A title for completing all the achievements of [The Journey]"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|0a9b00465a2733c1ab671f7523f93ea5"
+msgstr "[성장의 여정]의 모든 도전과제를 완료한 기념 타이틀"
+
+#: ItemDefinitionTitle.csv:31
+msgctxt "The Journey"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|f6af647b5781659b148b3ae10ab32ac4"
+msgstr "성장의 여정"
+
+#: InfoError.csv:133
+msgctxt "This achievement does not give rewards"
+msgid "sheet|InfoError.csv|en|a9c8bad6f640d59cfe912d2e8b28110b"
+msgstr "이 도전과제는 보상이 없습니다"
+
+#: InfoError.csv:132
+msgctxt "You have already claimed the reward of this achievement"
+msgid "sheet|InfoError.csv|en|17ee706ac79215baa099997491764628"
+msgstr "이미 이 도전 과제의 보상을 받았습니다"
+
+#: InfoError.csv:131
+msgctxt "You have not completed this achievement yet"
+msgid "sheet|InfoError.csv|en|4b51b85fd83c25d2bd294ea347972e86"
+msgstr "아직 이 도전 과제를 완료할 수 없습니다"
+
+#: AudioBgm.csv:5
+msgctxt "Achievement unlocked"
+msgid "sheet|AudioBgm.csv|unlock_desc_en|3aeb189908d3e800f19d1353ae2cfbd6"
+msgstr "도전 과제 잠금 해제"
