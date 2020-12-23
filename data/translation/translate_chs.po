@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-12-22 15:55:44\n"
+"PO-Revision-Date: 2020-12-23 15:09:32\n"
 "Language: zh-CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -23983,6 +23983,18 @@ msgid ""
 "sheet|AchievementAchievement.csv|desc_en|80e7f73c373ff6cc7d1a6ec556186b28"
 msgstr "解锁凉宫杏树传记中的所有结局"
 
+#: AchievementAchievement.csv:368
+msgctxt ""
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: AchievementAchievement.csv:368
+msgctxt ""
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
 #: AchievementAchievementGroup.csv:2
 msgctxt "The Journey"
 msgid ""
@@ -32782,7 +32794,7 @@ msgstr "成就"
 #: EventsBaseTask.csv:694
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "寮舍-角色"
+msgstr "补丁，禁止完成"
 
 #: EventsBaseTask.csv:695
 msgctxt ""
@@ -33170,6 +33182,11 @@ msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr "寮舍-角色"
 
 #: EventsBaseTask.csv:772
+msgctxt ""
+msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr "寮舍-角色"
+
+#: EventsBaseTask.csv:773
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr "寮舍-角色"
@@ -44922,7 +44939,7 @@ msgctxt ""
 "Snowy New Year Exclusive\\n\"Happy New Year! My friend. Never have I "
 "expected that one would like a gentleman in traditional Japanese clothes.\""
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|94e4256508216c9653b749f18d823154"
-msgstr "瑞雪迎新活动限定\\n“Happy New Year！My Friend。日本的传统服饰，意外很有绅士风度的感觉嘛。”"
+msgstr "瑞雪迎新活动限定\\n“Happy New Year！My Friend。这身服饰，意外很有绅士风度的感觉嘛。”"
 
 #: ItemDefinitionSkin.csv:72
 msgctxt "New Year"
@@ -45163,7 +45180,7 @@ msgctxt ""
 "Snowy New Year Exclusive\\n\"Ta-da! Hot and fresh New Year Kirara. As you "
 "can see, traditional clothes can also be stylish on Kirara!\""
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|a5129294fbb849b4f6a5c21d683029c6"
-msgstr "瑞雪迎新活动限定\\n“蹡蹡！新鲜出炉的新春辣妹，对辣妹而言，即便传统也可以时尚！”"
+msgstr "瑞雪迎新活动限定\\n“蹡蹡！新鲜出炉的新春辣妹，对辣妹而言，即便是和服也可以时尚！”"
 
 #: ItemDefinitionSkin.csv:86
 msgctxt "New Year"

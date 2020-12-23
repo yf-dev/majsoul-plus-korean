@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-12-22 15:55:44\n"
+"PO-Revision-Date: 2020-12-23 15:09:32\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -25772,6 +25772,18 @@ msgid ""
 "sheet|AchievementAchievement.csv|desc_en|80e7f73c373ff6cc7d1a6ec556186b28"
 msgstr "Unlock all endings in Anju Suzumiya's Story"
 
+#: AchievementAchievement.csv:368
+msgctxt ""
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: AchievementAchievement.csv:368
+msgctxt ""
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
 #: AchievementAchievementGroup.csv:2
 msgctxt "The Journey"
 msgid ""
@@ -35007,6 +35019,11 @@ msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
 #: EventsBaseTask.csv:772
+msgctxt ""
+msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: EventsBaseTask.csv:773
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""

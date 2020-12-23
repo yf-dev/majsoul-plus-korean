@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-12-22 15:55:44\n"
+"PO-Revision-Date: 2020-12-23 15:09:32\n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -24001,6 +24001,18 @@ msgid ""
 "sheet|AchievementAchievement.csv|desc_en|80e7f73c373ff6cc7d1a6ec556186b28"
 msgstr "解鎖涼宮杏樹傳記中的所有結局"
 
+#: AchievementAchievement.csv:368
+msgctxt ""
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: AchievementAchievement.csv:368
+msgctxt ""
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
 #: AchievementAchievementGroup.csv:2
 msgctxt "The Journey"
 msgid ""
@@ -32608,32 +32620,32 @@ msgstr "玩家持有成就数达到A"
 #: EventsBaseTask.csv:694
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "雀士的好感度达到1心以上"
+msgstr "对局数"
 
 #: EventsBaseTask.csv:695
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "雀士的好感度达到2心以上"
+msgstr "雀士的好感度达到1心以上"
 
 #: EventsBaseTask.csv:696
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "雀士的好感度达到3心以上"
+msgstr "雀士的好感度达到2心以上"
 
 #: EventsBaseTask.csv:697
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "雀士的好感度达到4心以上"
+msgstr "雀士的好感度达到3心以上"
 
 #: EventsBaseTask.csv:698
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "雀士的好感度达到5心"
+msgstr "雀士的好感度达到4心以上"
 
 #: EventsBaseTask.csv:699
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "给角色赠送礼物共计A次"
+msgstr "雀士的好感度达到5心"
 
 #: EventsBaseTask.csv:700
 msgctxt ""
@@ -32653,7 +32665,7 @@ msgstr "给角色赠送礼物共计A次"
 #: EventsBaseTask.csv:703
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "契约角色数量达到A人"
+msgstr "给角色赠送礼物共计A次"
 
 #: EventsBaseTask.csv:704
 msgctxt ""
@@ -32668,7 +32680,7 @@ msgstr "契约角色数量达到A人"
 #: EventsBaseTask.csv:706
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "获得角色"
+msgstr "契约角色数量达到A人"
 
 #: EventsBaseTask.csv:707
 msgctxt ""
@@ -32823,7 +32835,7 @@ msgstr "获得角色"
 #: EventsBaseTask.csv:737
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "与A签订契约"
+msgstr "获得角色"
 
 #: EventsBaseTask.csv:738
 msgctxt ""
@@ -32988,7 +33000,7 @@ msgstr "与A签订契约"
 #: EventsBaseTask.csv:770
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "解锁A所有传记的结局数"
+msgstr "与A签订契约"
 
 #: EventsBaseTask.csv:771
 msgctxt ""
@@ -32996,6 +33008,11 @@ msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr "解锁A所有传记的结局数"
 
 #: EventsBaseTask.csv:772
+msgctxt ""
+msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr "解锁A所有传记的结局数"
+
+#: EventsBaseTask.csv:773
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr "解锁A所有传记的结局数"
@@ -44748,7 +44765,7 @@ msgctxt ""
 "Snowy New Year Exclusive\\n\"Happy New Year! My friend. Never have I "
 "expected that one would like a gentleman in traditional Japanese clothes.\""
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|94e4256508216c9653b749f18d823154"
-msgstr "瑞雪迎新活動限定\\n「Happy New Year！My Friend。日本的傳統服飾，意外很有紳士風度的感覺嘛。」"
+msgstr "瑞雪迎新活動限定\\n「Happy New Year！My Friend。這身服飾，意外很有紳士風度的感覺嘛。」"
 
 #: ItemDefinitionSkin.csv:72
 msgctxt "New Year"
@@ -44989,7 +45006,7 @@ msgctxt ""
 "Snowy New Year Exclusive\\n\"Ta-da! Hot and fresh New Year Kirara. As you "
 "can see, traditional clothes can also be stylish on Kirara!\""
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|a5129294fbb849b4f6a5c21d683029c6"
-msgstr "瑞雪迎新活動限定\\n「蹡蹡！新鮮出爐的新春辣妹，對辣妹而言，即便傳統也可以時尚！」"
+msgstr "瑞雪迎新活動限定\\n“蹡蹡！新鮮出爐的新春辣妹，對辣妹而言，即便是和服也可以時尚！”"
 
 #: ItemDefinitionSkin.csv:86
 msgctxt "New Year"

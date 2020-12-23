@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-12-22 15:55:44\n"
+"PO-Revision-Date: 2020-12-23 15:09:32\n"
 "Language: jp\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -7734,7 +7734,7 @@ msgstr "確認"
 #: ui_jp.json
 msgctxt "Event Points："
 msgid "json|mj/win|1|20|0|d94d347706a606db4631f74b97a379ef"
-msgstr "累計イベントPT:"
+msgstr "累計PT:"
 
 #: ui_jp.json
 msgctxt "排名点数："
@@ -19686,7 +19686,7 @@ msgstr "段位戦・四人麻雀の対局で、終局時に2位以上を連続10
 msgctxt "Four Symbols - Retreat to Win"
 msgid ""
 "sheet|AchievementAchievement.csv|name_en|1e48ea88bbf2e8fd2adf233251e61703"
-msgstr "三垣・三十六計逃げるに如かず"
+msgstr "四象・三十六計逃げるに如かず"
 
 #: AchievementAchievement.csv:18
 msgctxt "Win top 3 places once in 4-Player Ranked Room"
@@ -21611,7 +21611,7 @@ msgstr "三垣・仕方のないことⅠ"
 msgctxt "Win 3rd place 5 times in 3-Player Ranked Room"
 msgid ""
 "sheet|AchievementAchievement.csv|desc_en|15ed4c5a14cc18d161550e539f9bf1a3"
-msgstr "段位戦・三人麻雀の対局で、終局時に4位を5回獲得する"
+msgstr "段位戦・三人麻雀の対局で、終局時に3位を5回獲得する"
 
 #: AchievementAchievement.csv:178
 msgctxt "Three Enclosures - These Things Happen Ⅱ"
@@ -21623,7 +21623,7 @@ msgstr "三垣・仕方のないことⅡ"
 msgctxt "Win 3rd place 50 times in 3-Player Ranked Room"
 msgid ""
 "sheet|AchievementAchievement.csv|desc_en|c2fcf7faa3fc310a83379d57b2b6bf2c"
-msgstr "段位戦・三人麻雀の対局で、終局時に4位を50回獲得する"
+msgstr "段位戦・三人麻雀の対局で、終局時に3位を50回獲得する"
 
 #: AchievementAchievement.csv:179
 msgctxt "Power of the East Wind Ⅰ"
@@ -23908,6 +23908,18 @@ msgctxt "Unlock all endings in Anju Suzumiya's Story"
 msgid ""
 "sheet|AchievementAchievement.csv|desc_en|80e7f73c373ff6cc7d1a6ec556186b28"
 msgstr "涼宮杏樹の物語のエンディングをすべて解放する"
+
+#: AchievementAchievement.csv:368
+msgctxt ""
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
+
+#: AchievementAchievement.csv:368
+msgctxt ""
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr ""
 
 #: AchievementAchievementGroup.csv:2
 msgctxt "The Journey"
@@ -32708,394 +32720,399 @@ msgstr "300"
 #: EventsBaseTask.csv:694
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "1"
+msgstr "5000"
 
 #: EventsBaseTask.csv:695
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "2"
+msgstr "1"
 
 #: EventsBaseTask.csv:696
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "3"
+msgstr "2"
 
 #: EventsBaseTask.csv:697
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "4"
+msgstr "3"
 
 #: EventsBaseTask.csv:698
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "5"
+msgstr "4"
 
 #: EventsBaseTask.csv:699
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "1"
+msgstr "5"
 
 #: EventsBaseTask.csv:700
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "10"
+msgstr "1"
 
 #: EventsBaseTask.csv:701
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "100"
+msgstr "10"
 
 #: EventsBaseTask.csv:702
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "500"
+msgstr "100"
 
 #: EventsBaseTask.csv:703
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "1"
+msgstr "500"
 
 #: EventsBaseTask.csv:704
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "5"
+msgstr "1"
 
 #: EventsBaseTask.csv:705
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "10"
+msgstr "5"
 
 #: EventsBaseTask.csv:706
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "藤田佳奈"
+msgstr "10"
 
 #: EventsBaseTask.csv:707
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "三上千织"
+msgstr "藤田佳奈"
 
 #: EventsBaseTask.csv:708
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "相原舞"
+msgstr "三上千织"
 
 #: EventsBaseTask.csv:709
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "抚子"
+msgstr "相原舞"
 
 #: EventsBaseTask.csv:710
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "八木唯"
+msgstr "抚子"
 
 #: EventsBaseTask.csv:711
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "九条璃雨"
+msgstr "八木唯"
 
 #: EventsBaseTask.csv:712
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "泽尼娅"
+msgstr "九条璃雨"
 
 #: EventsBaseTask.csv:713
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "卡维"
+msgstr "泽尼娅"
 
 #: EventsBaseTask.csv:714
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "四宫夏生"
+msgstr "卡维"
 
 #: EventsBaseTask.csv:715
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "汪次郎"
+msgstr "四宫夏生"
 
 #: EventsBaseTask.csv:716
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "一之濑空"
+msgstr "汪次郎"
 
 #: EventsBaseTask.csv:717
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "明智英树"
+msgstr "一之濑空"
 
 #: EventsBaseTask.csv:718
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "轻库娘"
+msgstr "明智英树"
 
 #: EventsBaseTask.csv:719
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "莎拉"
+msgstr "轻库娘"
 
 #: EventsBaseTask.csv:720
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "二之宫花"
+msgstr "莎拉"
 
 #: EventsBaseTask.csv:721
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "白石奈奈"
+msgstr "二之宫花"
 
 #: EventsBaseTask.csv:722
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "小鸟游雏田"
+msgstr "白石奈奈"
 
 #: EventsBaseTask.csv:723
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "五十岚阳菜"
+msgstr "小鸟游雏田"
 
 #: EventsBaseTask.csv:724
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "凉宫杏树"
+msgstr "五十岚阳菜"
 
 #: EventsBaseTask.csv:725
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "约瑟夫"
+msgstr "凉宫杏树"
 
 #: EventsBaseTask.csv:726
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "斋藤治"
+msgstr "约瑟夫"
 
 #: EventsBaseTask.csv:727
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "北见纱和子"
+msgstr "斋藤治"
 
 #: EventsBaseTask.csv:728
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "艾因"
+msgstr "北见纱和子"
 
 #: EventsBaseTask.csv:729
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "雏桃"
+msgstr "艾因"
 
 #: EventsBaseTask.csv:730
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "月见山"
+msgstr "雏桃"
 
 #: EventsBaseTask.csv:731
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "藤本绮罗"
+msgstr "月见山"
 
 #: EventsBaseTask.csv:732
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "辉夜姬"
+msgstr "藤本绮罗"
 
 #: EventsBaseTask.csv:733
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "如月莲"
+msgstr "辉夜姬"
 
 #: EventsBaseTask.csv:734
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "石原碓海"
+msgstr "如月莲"
 
 #: EventsBaseTask.csv:735
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "艾丽莎"
+msgstr "石原碓海"
 
 #: EventsBaseTask.csv:736
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "寺崎千穗理"
+msgstr "艾丽莎"
 
 #: EventsBaseTask.csv:737
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "一姬"
+msgstr "寺崎千穗理"
 
 #: EventsBaseTask.csv:738
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "二阶堂美树"
+msgstr "一姬"
 
 #: EventsBaseTask.csv:739
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "藤田佳奈"
+msgstr "二阶堂美树"
 
 #: EventsBaseTask.csv:740
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "三上千织"
+msgstr "藤田佳奈"
 
 #: EventsBaseTask.csv:741
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "相原舞"
+msgstr "三上千织"
 
 #: EventsBaseTask.csv:742
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "抚子"
+msgstr "相原舞"
 
 #: EventsBaseTask.csv:743
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "八木唯"
+msgstr "抚子"
 
 #: EventsBaseTask.csv:744
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "九条璃雨"
+msgstr "八木唯"
 
 #: EventsBaseTask.csv:745
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "泽尼娅"
+msgstr "九条璃雨"
 
 #: EventsBaseTask.csv:746
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "卡维"
+msgstr "泽尼娅"
 
 #: EventsBaseTask.csv:747
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "四宫夏生"
+msgstr "卡维"
 
 #: EventsBaseTask.csv:748
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "汪次郎"
+msgstr "四宫夏生"
 
 #: EventsBaseTask.csv:749
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "一之濑空"
+msgstr "汪次郎"
 
 #: EventsBaseTask.csv:750
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "明智英树"
+msgstr "一之濑空"
 
 #: EventsBaseTask.csv:751
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "轻库娘"
+msgstr "明智英树"
 
 #: EventsBaseTask.csv:752
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "莎拉"
+msgstr "轻库娘"
 
 #: EventsBaseTask.csv:753
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "二之宫花"
+msgstr "莎拉"
 
 #: EventsBaseTask.csv:754
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "白石奈奈"
+msgstr "二之宫花"
 
 #: EventsBaseTask.csv:755
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "小鸟游雏田"
+msgstr "白石奈奈"
 
 #: EventsBaseTask.csv:756
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "五十岚阳菜"
+msgstr "小鸟游雏田"
 
 #: EventsBaseTask.csv:757
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "凉宫杏树"
+msgstr "五十岚阳菜"
 
 #: EventsBaseTask.csv:758
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "约瑟夫"
+msgstr "凉宫杏树"
 
 #: EventsBaseTask.csv:759
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "斋藤治"
+msgstr "约瑟夫"
 
 #: EventsBaseTask.csv:760
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "北见纱和子"
+msgstr "斋藤治"
 
 #: EventsBaseTask.csv:761
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "艾因"
+msgstr "北见纱和子"
 
 #: EventsBaseTask.csv:762
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "雏桃"
+msgstr "艾因"
 
 #: EventsBaseTask.csv:763
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "月见山"
+msgstr "雏桃"
 
 #: EventsBaseTask.csv:764
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "藤本绮罗"
+msgstr "月见山"
 
 #: EventsBaseTask.csv:765
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "辉夜姬"
+msgstr "藤本绮罗"
 
 #: EventsBaseTask.csv:766
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "如月莲"
+msgstr "辉夜姬"
 
 #: EventsBaseTask.csv:767
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "石原碓海"
+msgstr "如月莲"
 
 #: EventsBaseTask.csv:768
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "艾丽莎"
+msgstr "石原碓海"
 
 #: EventsBaseTask.csv:769
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "寺崎千穗理"
+msgstr "艾丽莎"
 
 #: EventsBaseTask.csv:770
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "一姬"
+msgstr "寺崎千穗理"
 
 #: EventsBaseTask.csv:771
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "二阶堂"
+msgstr "一姬"
 
 #: EventsBaseTask.csv:772
+msgctxt ""
+msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
+msgstr "二阶堂"
+
+#: EventsBaseTask.csv:773
 msgctxt ""
 msgid "sheet|EventsBaseTask.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr "凉宫杏树"
@@ -41276,7 +41293,7 @@ msgctxt ""
 "\"Shoryuken!\" A Mahjong player who claimed to be \"Ryu\" passed by moments "
 "ago."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|0cf3f246871f4832789393eeebfe49a8"
-msgstr "昇○拳！通りすがりの麻雀友達から教わった技。\\n雀士の装飾に設定することで、立直時の演出を変更できる。"
+msgstr "昇○拳！通りすがりの麻雀友達から教わった技。\\n雀士の装飾に設定することで、和了時の演出を変更できる。"
 
 #: ItemDefinitionItem.csv:115
 msgctxt ""
@@ -41292,7 +41309,7 @@ msgstr "和了演出：逆鱗"
 #: ItemDefinitionItem.csv:116
 msgctxt "I only have one growl, and I want everybody to know."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|ddfdf80c720b243fe4a22ad5b992631e"
-msgstr "これが龍の咆哮！\\n雀士の装飾に設定することで、立直時の演出を変更できる。"
+msgstr "これが龍の咆哮！\\n雀士の装飾に設定することで、和了時の演出を変更できる。"
 
 #: ItemDefinitionItem.csv:116
 msgctxt ""
