@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-12-22 19:00+0000\n"
+"PO-Revision-Date: 2020-12-23 12:13+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -52895,7 +52895,7 @@ msgstr "나레이션"
 #: translate_sheet.csv:2626
 msgctxt "Story"
 msgid "sheet|StrStr.csv|en|dfba89a600b608b2b724efe1f06f599a"
-msgstr "줄거리"
+msgstr "이야기"
 
 #: translate_sheet.csv:1787
 msgctxt "string"
@@ -60104,7 +60104,7 @@ msgstr ""
 #: translate_json.csv:1287
 msgctxt "Story"
 msgid "json|lobby/visit|2|11|0|dfba89a600b608b2b724efe1f06f599a"
-msgstr "줄거리"
+msgstr "이야기"
 
 #: translate_json.csv:1286
 msgctxt "Voice"
@@ -60119,7 +60119,7 @@ msgstr "정보"
 #: translate_json.csv:1284
 msgctxt "Story"
 msgid "json|lobby/visit|2|8|0|dfba89a600b608b2b724efe1f06f599a"
-msgstr "줄거리"
+msgstr "이야기"
 
 #: translate_json.csv:1283
 msgctxt "Voice"
@@ -60650,12 +60650,12 @@ msgstr "엔딩 잠금 해제 - 위기를 적절하게 해결하는 법"
 #: translate_sheet.csv:939
 msgctxt "You have already received the story reward."
 msgid "sheet|InfoError.csv|en|44a66f1a9e88edab954a32e7baa503f9"
-msgstr "당신은 이미 스토리 보상을 수령했습니다."
+msgstr "당신은 이미 이야기 보상을 수령했습니다."
 
 #: translate_sheet.csv:938
 msgctxt "Please finish watching the story to receive the reward."
 msgid "sheet|InfoError.csv|en|b4e1f071c0e59dc4036f1f9cd1384aba"
-msgstr "보상을 받으려면 스토리를 모두 읽어주세요."
+msgstr "보상을 받으려면 이야기를 모두 읽어주세요."
 
 #: translate_sheet.csv:937
 msgctxt "You have not bonded with this Jyanshi."
@@ -63000,3 +63000,4476 @@ msgctxt ""
 "You will get at least 1 purple gift when you perform a 10-summon using Jade."
 msgid "json|lobby/treasure|5|2|2|3|8|dfd203514802330ba394af0c56d39d0f"
 msgstr "휘옥을 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다."
+
+#: AchievementAchievement.csv:346
+msgctxt "Bonded with Keikumusume"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|5fb089dbec491683718110f93bc926fc"
+msgstr "케이쿠무스메의 계약자"
+
+#: AchievementAchievement.csv:345
+msgctxt "Bond with Hideki Akechi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|78b0b704e65e0622a3b668da34bf8583"
+msgstr "아케치 히데키와 계약을 맺기"
+
+#: AchievementAchievement.csv:345
+msgctxt "Bonded with Hideki Akechi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|89f365b68922306764b3435533c46601"
+msgstr "아케치 히데키의 계약자"
+
+#: AchievementAchievement.csv:344
+msgctxt "Bond with Sora Ichinose"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6bcd8936ed98f3555178ac80605ad1f7"
+msgstr "이치노세 소라와 계약을 맺기"
+
+#: AchievementAchievement.csv:344
+msgctxt "Bonded with Sora Ichinose"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4601e40ebec660ccc55fb6858c427831"
+msgstr "이치노세 소라의 계약자"
+
+#: AchievementAchievement.csv:343
+msgctxt "Bond with Wanjirou"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f6476dd11f7a3ea21709419a312a2799"
+msgstr "왕지로와 계약을 맺기"
+
+#: AchievementAchievement.csv:343
+msgctxt "Bonded with Wanjirou"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4180cb4f958d72f1dbc871ec1fcb0de5"
+msgstr "왕지로의 계약자"
+
+#: AchievementAchievement.csv:342
+msgctxt "Bond with Natsuki Shinomiya"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|eb7b8e5c781985feab1931ec81fb0fe3"
+msgstr "시노미야 나츠키와 계약을 맺기"
+
+#: AchievementAchievement.csv:342
+msgctxt "Bonded with Natsuki Shinomiya"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|9909ffae10f6d7349a375b74448b0d87"
+msgstr "시노미야 나츠키의 계약자"
+
+#: AchievementAchievement.csv:341
+msgctxt "Bond with Kaavi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ae833cad72800016cfbbe15491fe2b74"
+msgstr "카비와 계약을 맺기"
+
+#: AchievementAchievement.csv:341
+msgctxt "Bonded with Kaavi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|333023dad649417c45532f34cfa9a861"
+msgstr "카비의 계약자"
+
+#: AchievementAchievement.csv:340
+msgctxt "Bond with Xenia"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c4f0add59bf9a426a66d0f27b9683ceb"
+msgstr "지니아와 계약을 맺기"
+
+#: AchievementAchievement.csv:340
+msgctxt "Bonded with Xenia"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|570a95e3ccff8b1a3837dcf0b23358e0"
+msgstr "지니아의 계약자"
+
+#: AchievementAchievement.csv:339
+msgctxt "Bond with Riu Kujou"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ea4d3fa40c67c1a60759d893d68cfe83"
+msgstr "쿠죠 리우와 계약을 맺기"
+
+#: AchievementAchievement.csv:339
+msgctxt "Bonded with Riu Kujou"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7f9ccf77acdc52eed72f61c83bfe1fee"
+msgstr "쿠죠 리우의 계약자"
+
+#: AchievementAchievement.csv:338
+msgctxt "Bond with Yui Yagi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9cbdd283a4efa353b648a5641d5a08a4"
+msgstr "야기 유이와 계약을 맺기"
+
+#: AchievementAchievement.csv:338
+msgctxt "Bonded with Yui Yagi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|37185d9bfee491fdd0e2efed06f2836f"
+msgstr "야기 유이의 계약자"
+
+#: AchievementAchievement.csv:337
+msgctxt "Bond with Nadeshiko"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|bb7b6027ab16770a8266743ce40a60b2"
+msgstr "나데시코와 계약을 맺기"
+
+#: AchievementAchievement.csv:337
+msgctxt "Bonded with Nadeshiko"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|9c0512271da10149652986d8a7f85550"
+msgstr "나데시코의 계약자"
+
+#: AchievementAchievement.csv:336
+msgctxt "Bond with Mai Aihara"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|3a855f912f72e63c4bd61343b6ed2f05"
+msgstr "아이하라 마이와 계약을 맺기"
+
+#: AchievementAchievement.csv:336
+msgctxt "Bonded with Mai Aihara"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|da55c46d2a0399cd4f3415d39b09a6e6"
+msgstr "아이하라 마이의 계약자"
+
+#: AchievementAchievement.csv:335
+msgctxt "Bond with Chiori Mikami"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c18705d5c032a3adbc3edba4e2e0c690"
+msgstr "미카미 치오리와 계약을 맺기"
+
+#: AchievementAchievement.csv:335
+msgctxt "Bonded with Chiori Mikami"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|9c491bf1d3e65555b32dd88dfc36b173"
+msgstr "미카미 치오리의 계약자"
+
+#: AchievementAchievement.csv:334
+msgctxt "Bond with Kana Fujita"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|99bfc2396f8c38d0d0d02d0a21e15582"
+msgstr "후지타 카나와 계약을 맺기"
+
+#: AchievementAchievement.csv:334
+msgctxt "Bonded with Kana Fujita"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|283ef9554c4bc73ef661c24960b6c822"
+msgstr "후지타 카나의 계약자"
+
+#: AchievementAchievement.csv:333
+msgctxt "Bond with Miki Nikaidou"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|93e52dd02e084f1ac901dba89f64c316"
+msgstr "니카이도 미키와 계약을 맺기"
+
+#: AchievementAchievement.csv:333
+msgctxt "Bonded with Miki Nikaidou"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8691496076c9bd939f88a63da35a732f"
+msgstr "니카이도 미키의 계약자"
+
+#: AchievementAchievement.csv:332
+msgctxt "Bond with Ichihime"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7135a785708f8ae5180cda467d30e863"
+msgstr "이치히메와 계약을 맺기"
+
+#: AchievementAchievement.csv:332
+msgctxt "Bonded with Ichihime"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|a7316039e9eac26f6889642402559517"
+msgstr "이치히메의 계약자"
+
+#: AchievementAchievement.csv:331
+msgctxt "Obtain Jyanshi Chihori Terasaki"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a7906d8410f0756f0030b6e26cc2ba2c"
+msgstr "테라사키 치호리 입수하기"
+
+#: AchievementAchievement.csv:331
+msgctxt "An Encounter with Chihori Terasaki"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7906641988f7a3854294e0da0b938a34"
+msgstr "테라사키 치호리와의 만남"
+
+#: AchievementAchievement.csv:330
+msgctxt "Obtain Jyanshi Eliisa"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5fbd4592feb8e17a4e1aa6bf58783506"
+msgstr "엘리사 입수하기"
+
+#: AchievementAchievement.csv:330
+msgctxt "An Encounter with Eliisa"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7b99e6a0803b259b95b08dcb5b04700d"
+msgstr "엘리사와의 만남"
+
+#: AchievementAchievement.csv:329
+msgctxt "Obtain Jyanshi Usumi Ishihara"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e989a80f20c41d1c4d2c67f3ce374724"
+msgstr "이시하라 우스미 입수하기"
+
+#: AchievementAchievement.csv:329
+msgctxt "An Encounter with Usumi Ishihara"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|251b705ac5ed60b21bef35e67f1e3d40"
+msgstr "이시하라 우스미와의 만남"
+
+#: AchievementAchievement.csv:328
+msgctxt "Obtain Jyanshi Ren Kisaragi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8356ce27d23a363e121cff118884f2d5"
+msgstr "키사라기 렌 입수하기"
+
+#: AchievementAchievement.csv:328
+msgctxt "An Encounter with Ren Kisaragi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|bd19a462fa87cedb5b51374c10b42310"
+msgstr "키사라기 렌과의 만남"
+
+#: AchievementAchievement.csv:327
+msgctxt "An Encounter with Kaguyahime"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|16db92f3df5f8f0df3a80b09a250196e"
+msgstr "카구야히메와의 만남"
+
+#: AchievementAchievement.csv:327
+msgctxt "Obtain Jyanshi Kaguyahime"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b4d7f91a90a898a98c19cca61db34084"
+msgstr "카구야히메 입수하기"
+
+#: AchievementAchievement.csv:326
+msgctxt "Obtain Jyanshi Kirara Fujimoto"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2a5a592a9b591d41d6f22822b4658205"
+msgstr "후지모토 키라라 입수하기"
+
+#: AchievementAchievement.csv:326
+msgctxt "An Encounter with Kirara Fujimoto"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c6f68bbf72072b47ce8231cc3e7dde5b"
+msgstr "후지모토 키라라와의 만남"
+
+#: AchievementAchievement.csv:325
+msgctxt "Obtain Jyanshi Zan Tsukimi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2ea9dc7e20de7bbfe5042447a26bc37e"
+msgstr "츠키미 잔 입수하기"
+
+#: AchievementAchievement.csv:325
+msgctxt "An Encounter with Zan Tsukimi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|122c6edf398e990576287c6a8dae0a0d"
+msgstr "츠키미 잔과의 만남"
+
+#: AchievementAchievement.csv:324
+msgctxt "Obtain Jyanshi Momo Hina"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|3d492518e8ad3cf3f4ec4c0cdcff2d6c"
+msgstr "히나 모모 입수하기"
+
+#: AchievementAchievement.csv:324
+msgctxt "An Encounter with Momo Hina"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|92ddd2d6712c36c11dd790ce6b541276"
+msgstr "히나 모모와의 만남"
+
+#: AchievementAchievement.csv:323
+msgctxt "Obtain Jyanshi Ein"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a56a2b40f6ef5d9b4ffcc1fbd4c6b98d"
+msgstr "에인 입수하기"
+
+#: AchievementAchievement.csv:323
+msgctxt "An Encounter with Ein"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|0e4e014c3a116682b3501e332e956342"
+msgstr "에인과의 만남"
+
+#: AchievementAchievement.csv:322
+msgctxt "Obtain Jyanshi Sawako Kitami"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|0fda8ceb6dc38735b3bfae87a6ceda37"
+msgstr "키타미 사와코 입수하기"
+
+#: AchievementAchievement.csv:322
+msgctxt "An Encounter with Sawako Kitami"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1e93edf82a11bf930cfb9d2d8aad8dae"
+msgstr "키타미 사와코와의 만남"
+
+#: AchievementAchievement.csv:321
+msgctxt "Obtain Jyanshi Osamu Saitou"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|11a043da6e13c96ac860b9628760c624"
+msgstr "사이토 오사무 입수하기"
+
+#: AchievementAchievement.csv:321
+msgctxt "An Encounter with Osamu Saitou"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d259dfbbb42d0106d792847e77eaa58f"
+msgstr "사이토 오사무와의 만남"
+
+#: AchievementAchievement.csv:320
+msgctxt "Obtain Jyanshi Joseph"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|03fca0b84daf49d704ce54f097101d14"
+msgstr "조셉 입수하기"
+
+#: AchievementAchievement.csv:320
+msgctxt "An Encounter with Joseph"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4d64345d45b51346fefac5f1b48b3f7c"
+msgstr "조셉과의 만남"
+
+#: AchievementAchievement.csv:319
+msgctxt "An Encounter with Anju Suzumiya"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1e3c3b39c1134ddc32189e10b4aed59d"
+msgstr "스즈미야 안즈와의 만남"
+
+#: AchievementAchievement.csv:319
+msgctxt "Obtain Jyanshi Anju Suzumiya"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|bbfe3e1dea9043f510056ae92d21a4ba"
+msgstr "스즈미야 안즈 입수하기"
+
+#: AchievementAchievement.csv:318
+msgctxt "Obtain Jyanshi Haruna Igarashi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ce68254f56f812f10b460e44b6f59255"
+msgstr "이가라시 하루나 입수하기"
+
+#: AchievementAchievement.csv:318
+msgctxt "An Encounter with Haruna Igarashi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|442e31dfd7c0414cbe635c340dadfecc"
+msgstr "이가라시 하루나와의 만남"
+
+#: AchievementAchievement.csv:317
+msgctxt "Obtain Jyanshi Hinata Takanashi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ff3905f010d4964e104ff58db0f7cbe2"
+msgstr "타카나시 히나타 입수하기"
+
+#: AchievementAchievement.csv:317
+msgctxt "An Encounter with Hinata Takanashi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|2d370c2b8b9315b30c5aad1936d69eb7"
+msgstr "타카나시 히나타와의 만남"
+
+#: AchievementAchievement.csv:316
+msgctxt "Obtain Jyanshi Nana Shiraishi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b1d21050c7409bfc50ed6a5cb2206659"
+msgstr "시라이시 나나 입수하기"
+
+#: AchievementAchievement.csv:316
+msgctxt "An Encounter with Nana Shiraishi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|fc317bea8c6f20612cd49dbb03026d4d"
+msgstr "시라이시 나나와의 만남"
+
+#: AchievementAchievement.csv:315
+msgctxt "Obtain Jyanshi Hana Ninomiya"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9340984f59d020a2f253339a3de17890"
+msgstr "니노미야 하나 입수하기"
+
+#: AchievementAchievement.csv:315
+msgctxt "An Encounter with Hana Ninomiya"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d14e6081f06eeab2e0f82c78112e92bf"
+msgstr "니노미야 하나와의 만남"
+
+#: AchievementAchievement.csv:314
+msgctxt "Obtain Jyanshi Sara"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|0e838134f3d7c13cdad9f344758fa404"
+msgstr "사라 입수하기"
+
+#: AchievementAchievement.csv:314
+msgctxt "An Encounter with Sara"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|a79f5b6d5d3aaac98d91d5c39419893d"
+msgstr "사라와의 만남"
+
+#: AchievementAchievement.csv:313
+msgctxt "Obtain Jyanshi Keikumusume"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2301dc62830aae0056a1fe11108de3a1"
+msgstr "케이쿠무스메 입수하기"
+
+#: AchievementAchievement.csv:313
+msgctxt "An Encounter with Keikumusume"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|75e666638376ad258f7d919a8586ec22"
+msgstr "케이쿠무스메와의 만남"
+
+#: AchievementAchievement.csv:312
+msgctxt "Obtain Jyanshi Hideki Akechi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e6a786ad07d523e170dc415f490e26a9"
+msgstr "아케치 히데키 입수하기"
+
+#: AchievementAchievement.csv:312
+msgctxt "An Encounter with Hideki Akechi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c928479c0e855844c4fddbb0767f9ebc"
+msgstr "아케치 히데키와의 만남"
+
+#: AchievementAchievement.csv:311
+msgctxt "Obtain Jyanshi Sora Ichinose"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|0f16cf72421cd691f1c15a57cb878b30"
+msgstr "이치노세 소라 입수하기"
+
+#: AchievementAchievement.csv:311
+msgctxt "An Encounter with Sora Ichinose"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7a4ec8f753000b69511372b73f9b44b5"
+msgstr "이치노세 소라와의 만남"
+
+#: AchievementAchievement.csv:310
+msgctxt "Obtain Jyanshi Wanjirou"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a9a6798e44a1fbcd1fd765f3d4edc0d2"
+msgstr "왕지로 입수하기"
+
+#: AchievementAchievement.csv:310
+msgctxt "An Encounter with Wanjirou"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|23878d7c6667ad65e56d107d0552d0f2"
+msgstr "왕지로와의 만남"
+
+#: AchievementAchievement.csv:309
+msgctxt "Obtain Jyanshi Natsuki Shinomiya"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c4f94f3cd6e2120f0bced8f827a600bc"
+msgstr "시노미야 나츠키 입수하기"
+
+#: AchievementAchievement.csv:309
+msgctxt "An Encounter with Natsuki Shinomiya"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|a278baa1376331aea6466dec2bad87d3"
+msgstr "시노미야 나츠키와의 만남"
+
+#: AchievementAchievement.csv:308
+msgctxt "Obtain Jyanshi Kaavi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|05743652d7c7a66c6ae4abe82d534162"
+msgstr "카비를 입수하기"
+
+#: AchievementAchievement.csv:308
+msgctxt "An Encounter with Kaavi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7503d3a309a6109bef0fd2b30fc5ac3e"
+msgstr "카비와의 만남"
+
+#: AchievementAchievement.csv:307
+msgctxt "Obtain Jyanshi Xenia"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2121263992cd03c814170187c8ba08d8"
+msgstr "지니아를 입수하기"
+
+#: AchievementAchievement.csv:307
+msgctxt "An Encounter with Xenia"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|524d1809bb8f65e212e2f755bdb8167b"
+msgstr "지니아와의 만남"
+
+#: AchievementAchievement.csv:306
+msgctxt "Obtain Jyanshi Riu Kujou"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8f08228c07654b239f8f0bd7977e55bd"
+msgstr "쿠죠 리우를 입수하기"
+
+#: AchievementAchievement.csv:306
+msgctxt "An Encounter with Riu Kujou"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|364e1d17afd7876ab7434fd22ab3803a"
+msgstr "쿠죠 리우와의 만남"
+
+#: AchievementAchievement.csv:305
+msgctxt "Obtain Jyanshi Yui Yagi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|4338bf36feacf5d8b6e7888ae7c48a29"
+msgstr "야기 유이를 입수하기"
+
+#: AchievementAchievement.csv:305
+msgctxt "An Encounter with Yui Yagi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|fc7f5373661ca1444bccbffab475bf2f"
+msgstr "야기 유이와의 만남"
+
+#: AchievementAchievement.csv:304
+msgctxt "Obtain Jyanshi Nadeshiko"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b950ecc484df87ff700ee6a18e7d6d68"
+msgstr "나데시코를 입수하기"
+
+#: AchievementAchievement.csv:304
+msgctxt "An Encounter with Nadeshiko"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|0d64a491ab4396fffe5ce9c5839388ef"
+msgstr "나데시코와의 만남"
+
+#: AchievementAchievement.csv:303
+msgctxt "Obtain Jyanshi Mai Aihara"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b1f23b8bfac919034dbb9ed9ec135f4a"
+msgstr "아이하라 마이를 입수하기"
+
+#: AchievementAchievement.csv:303
+msgctxt "An Encounter with Mai Aihara"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b245a35d14eddef177a584fe919ecc9b"
+msgstr "아이하라 마이와의 만남"
+
+#: AchievementAchievement.csv:302
+msgctxt "Obtain Jyanshi Chiori Mikami"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a99fde5d5b0f22407f9c48a0e3f8df79"
+msgstr "미카미 치오리를 입수하기"
+
+#: AchievementAchievement.csv:302
+msgctxt "An Encounter with Chiori Mikami"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4ed493927c116e59873d66d61e0f8672"
+msgstr "미카미 치오리와의 만남"
+
+#: AchievementAchievement.csv:301
+msgctxt "Obtain Jyanshi Kana Fujita"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|fe0f23afd9790dd286f2f6ba3326de23"
+msgstr "후지타 카나를 입수하기"
+
+#: AchievementAchievement.csv:301
+msgctxt "An Encounter with Kana Fujita"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|30d96e4962b2f468f4948b1f87492a51"
+msgstr "후지타 카나와의 만남"
+
+#: AchievementAchievement.csv:300
+msgctxt "Bond with 10 Jyanshis"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e69e0fe7709dea7f1e5da31d76894f97"
+msgstr "작사 10명과 계약을 맺기"
+
+#: AchievementAchievement.csv:300
+msgctxt "A War is Coming"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|96226c14d2a8685ada48edb7504c37d6"
+msgstr "아수라장, 또는 전쟁터"
+
+#: AchievementAchievement.csv:299
+msgctxt "Bond with 5 Jyanshis"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|135c3c9aa0790fcfe066557ad4863480"
+msgstr "작사 5명과 계약을 맺기"
+
+#: AchievementAchievement.csv:299
+msgctxt "The Quintuplet Love"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|884fb4ea11dccedc1acd0d11b71ddadc"
+msgstr "5등분의 감정"
+
+#: AchievementAchievement.csv:298
+msgctxt "Bond with a Jyanshi for the first time"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|747528755be243e227cb58fcde02a9b0"
+msgstr "작사 1명과 계약을 맺기"
+
+#: AchievementAchievement.csv:298
+msgctxt "Wholehearted"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|09c635fcd12b45d2f6f87b530cda6438"
+msgstr "한마음 한뜻"
+
+#: AchievementAchievement.csv:297
+msgctxt "Gift Jyanshi 500 times"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c15dd01e63c74692bc543d90b087d8de"
+msgstr "임의의 작사에게 선물 500번 주기"
+
+#: AchievementAchievement.csv:297
+msgctxt "Heart of Humbleness"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|00eeee6739f17d418f67bf6d1972ae01"
+msgstr "순수한 마음"
+
+#: AchievementAchievement.csv:296
+msgctxt "Gift Jyanshi 100 times"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|aadef001d7958ec7dc0fdf32dc2d2036"
+msgstr "임의의 작사에게 선물 100번 주기"
+
+#: AchievementAchievement.csv:296
+msgctxt "Heart of a Wit"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b1c7c95ebc36772734dbf6ab9eadd811"
+msgstr "현자의 마음"
+
+#: AchievementAchievement.csv:295
+msgctxt "Gift Jyanshi 10 times"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|da51c3d0943dcb9f5f8c6ca84c0f5a4b"
+msgstr "임의의 작사에게 선물 10번 주기"
+
+#: AchievementAchievement.csv:295
+msgctxt "Heart of a Benefactor"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c6dac96c6d6693802c3cfffed9e00cb2"
+msgstr "귀족의 마음"
+
+#: AchievementAchievement.csv:294
+msgctxt "Gift Jyanshi for the first time"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a381b6055cee88471fb10c3efab6656b"
+msgstr "임의의 작사에게 선물 1번 주기"
+
+#: AchievementAchievement.csv:294
+msgctxt "Heart of a Traveler"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|498a73605b8e64633b467f77e531f2a6"
+msgstr "나그네의 마음"
+
+#: AchievementAchievement.csv:293
+msgctxt "Reach Bond Lv 5 with a Jyanshi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7e1800cf6d9e3870e668acaaa3d8f0f7"
+msgstr "임의의 작사 인연 레벨이 5 이상 도달하기"
+
+#: AchievementAchievement.csv:293
+msgctxt "In Honor of Reaching Bond Lv Ⅴ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|2eb17f8cb8ffd8a93bfb7ac6b0c9ec81"
+msgstr "인연 레벨 기념 V"
+
+#: AchievementAchievement.csv:292
+msgctxt "Reach Bond Lv 4 with a Jyanshi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c6ef715b476a32ab8e7b0557217778f5"
+msgstr "임의의 작사 인연 레벨이 4 이상 도달하기"
+
+#: AchievementAchievement.csv:292
+msgctxt "In Honor of Reaching Bond Lv Ⅳ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b16ebab9c9b38338e667178041d2993a"
+msgstr "인연 레벨 기념 IV"
+
+#: AchievementAchievement.csv:291
+msgctxt "Reach Bond Lv 3 with a Jyanshi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f739e8a44fb5baea4a113f757e75979e"
+msgstr "임의의 작사 인연 레벨이 3 이상 도달하기"
+
+#: AchievementAchievement.csv:291
+msgctxt "In Honor of Reaching Bond Lv Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|9550dca9cbffe8e5bb16fd05a8881cbb"
+msgstr "인연 레벨 기념 III"
+
+#: AchievementAchievement.csv:290
+msgctxt "Reach Bond Lv 2 with a Jyanshi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7ea89cd72d99675f9e2cba91fcb7137f"
+msgstr "임의의 작사 인연 레벨이 2 이상 도달하기"
+
+#: AchievementAchievement.csv:290
+msgctxt "In Honor of Reaching Bond Lv Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b4f7e17974b122c5740dad373c98a701"
+msgstr "인연 레벨 기념 II"
+
+#: AchievementAchievement.csv:289
+msgctxt "Reach Bond Lv 1 with a Jyanshi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c69ffec22a3bd0e77818eddbf6e5e3c9"
+msgstr "임의의 작사 인연 레벨이 1 이상 도달하기"
+
+#: AchievementAchievement.csv:289
+msgctxt "In Honor of Reaching Bond Lv Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1cb9a3c13f9d4906e79dbd6a6e688a72"
+msgstr "인연 레벨 기념 I"
+
+#: AchievementAchievement.csv:288
+msgctxt "Obtain 300 Achievements in Total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2ce88ad1fc32ead66f29cdafdc1d0821"
+msgstr "도전과제 총합 300개 달성하기"
+
+#: AchievementAchievement.csv:288
+msgctxt "Achievement Collector Ⅴ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|00221ba26175bf1eac79f5fcd5f1b570"
+msgstr "도전 과제 수집가 V"
+
+#: AchievementAchievement.csv:287
+msgctxt "Obtain 200 Achievements in Total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7d6d1e7e96fbf031396467ea2459e766"
+msgstr "도전과제 총합 200개 달성하기"
+
+#: AchievementAchievement.csv:287
+msgctxt "Achievement Collector Ⅳ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|af5ed41fdfd00c8a152b4ce0dcba71db"
+msgstr "도전 과제 수집가 IV"
+
+#: AchievementAchievement.csv:286
+msgctxt "Obtain 100 Achievements in Total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|acb2e2248b4035f3c117d6cbe2d58b1e"
+msgstr "도전과제 총합 100개 달성하기"
+
+#: AchievementAchievement.csv:286
+msgctxt "Achievement Collector Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4a2526cf0654c11bec882ebb7fcb8d73"
+msgstr "도전 과제 수집가 III"
+
+#: AchievementAchievement.csv:285
+msgctxt "Obtain 50 Achievements in Total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f12bf6d1aef570d92e732c2af2a0cb1b"
+msgstr "도전과제 총합 50개 달성하기"
+
+#: AchievementAchievement.csv:285
+msgctxt "Achievement Collector Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|0943cf1c068932e18a881db1c0a2820a"
+msgstr "도전 과제 수집가 II"
+
+#: AchievementAchievement.csv:284
+msgctxt "Obtain 10 Achievements in Total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|1da474fe04b1bd7daa911546059af95e"
+msgstr "도전과제 총합 10개 달성하기"
+
+#: AchievementAchievement.csv:284
+msgctxt "Achievement Collector Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|27b0bd495d21964dd9aab6cd20db8de6"
+msgstr "도전 과제 수집가 I"
+
+#: AchievementAchievement.csv:283
+msgctxt "Obtain 5 Titles in Total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c70fac3130d71a3335fac0d273b521ed"
+msgstr "타이틀을 5개 입수하기"
+
+#: AchievementAchievement.csv:283
+msgctxt "Multiple Identities"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b32efbc0909e86458b12e4edce6eaea6"
+msgstr "십인십색"
+
+#: AchievementAchievement.csv:282
+msgctxt "Obtain 10,000,000 Coppers in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|656548d67f70f1431f482aae21d11bc0"
+msgstr "총합 10,000,000 동전 모으기"
+
+#: AchievementAchievement.csv:282
+msgctxt "So much Fun Playing Mahjong!"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|45e5832a6f7173751b0a3905aa61d7bb"
+msgstr "마작은 재밌어!"
+
+#: AchievementAchievement.csv:281
+msgctxt "Obtain 5,000,000 Coppers in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|1d3b38fa38a203012eedbf300b04eff6"
+msgstr "총합 5,000,000 동전 모으기"
+
+#: AchievementAchievement.csv:281
+msgctxt "Not Going Home"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|5d7c013fa9efde529bd121ad62c54348"
+msgstr "마장 죽돌이"
+
+#: AchievementAchievement.csv:280
+msgctxt "Obtain 1,000,000 Coppers in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5f0be512ca05271fc8274c194b77d2e4"
+msgstr "총합 1,000,000 동전 모으기"
+
+#: AchievementAchievement.csv:280
+msgctxt "A Mahjong Parlor Regular"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b1c1c8e6a4865cd56da31ef637c2b46a"
+msgstr "마장 단골손님"
+
+#: AchievementAchievement.csv:279
+msgctxt "Obtain 500,000 Coppers in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|83d9ecab1225290df036a087fabf9f8c"
+msgstr "총합 500,000 동전 모으기"
+
+#: AchievementAchievement.csv:279
+msgctxt "New Around Here"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|18f42a4c026bf97e9350ef4996ab1257"
+msgstr "마장 초보자"
+
+#: AchievementAchievement.csv:278
+msgctxt "Obtain 100,000 Coppers in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5912d5c0be215d66039c3d4aeb6e3a3e"
+msgstr "총합 100,000 동전 모으기"
+
+#: AchievementAchievement.csv:278
+msgctxt "Stranger"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|f048e2df3fb18582e3543d75966f4e2a"
+msgstr "뉴 페이스"
+
+#: AchievementAchievement.csv:277
+msgctxt "Own 5,000,000 Coppers"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|26993044efa0bab28c0df9ab611d33ae"
+msgstr "5,000,000 동전 소지하기"
+
+#: AchievementAchievement.csv:277
+msgctxt "Investor of the Shrine"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|924594f434fa43f6619907ea2b6795de"
+msgstr "신사의 후원자"
+
+#: AchievementAchievement.csv:276
+msgctxt "Own 1,000,000 Coppers"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|762e8d3b25970bf592610997eb2b2418"
+msgstr "1,000,000 동전 소지하기"
+
+#: AchievementAchievement.csv:276
+msgctxt "Happy Life"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|f7e52a2796a3734335cb3b6c028ce647"
+msgstr "입장료 걱정 없음"
+
+#: AchievementAchievement.csv:275
+msgctxt "Own 500,000 Coppers"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f8a1d43af99a7e745a384d927f8cf3fb"
+msgstr "500,000 동전 소지하기"
+
+#: AchievementAchievement.csv:275
+msgctxt "Master of Saving"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b037371a688c87d23702a316dd149c91"
+msgstr "저축왕"
+
+#: AchievementAchievement.csv:274
+msgctxt "Own 100,000 Coppers"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|23efc4b7ea73dc3d98ef94122435978d"
+msgstr "100,000 동전 소지하기"
+
+#: AchievementAchievement.csv:274
+msgctxt "Copper Collector"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1b99d3fcd6ecfa5cbff29c6de6c7c011"
+msgstr "동전을 모아요!"
+
+#: AchievementAchievement.csv:273
+msgctxt "Make 10 purchases in Outfit Shop (Shop - Outfit)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c7659943ade45f4b5b8c15d639ff5cc0"
+msgstr "의상 상점(상점 - 의상)에서 10회 구매하기"
+
+#: AchievementAchievement.csv:273
+msgctxt "An Outfit Shop Regular"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c0f71746dea8d3e564c3ea4fc30bd6f5"
+msgstr "의상 상점 단골손님"
+
+#: AchievementAchievement.csv:272
+msgctxt "Make 1 purchase in Outfit Shop (Shop - Outfit)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f4f41bb0cab7fe2ef91662c3264c31f5"
+msgstr "의상 상점(상점 - 의상)에서 1회 구매하기"
+
+#: AchievementAchievement.csv:272
+msgctxt "First Visit to Outfit Shop"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|9aa3b54233ed1eed830eb278d89d618e"
+msgstr "의상 상점 첫 방문"
+
+#: AchievementAchievement.csv:271
+msgctxt "Make 10 purchases in Fortune Shop (Shop - Fortune)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ce24eac284c96715aa357e1171e72a82"
+msgstr "소원 상점(상점 - 소원)에서 10회 구매하기"
+
+#: AchievementAchievement.csv:271
+msgctxt "A Fortune Shop Regular"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4e4104a8371217725d0b919882de0947"
+msgstr "소원 상점 단골손님"
+
+#: AchievementAchievement.csv:270
+msgctxt "Make 1 purchase in Fortune Shop (Shop - Fortune)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2d6b442b53e2e1093f7f74f1de5e89b6"
+msgstr "소원 상점(상점 - 소원)에서 1회 구매하기"
+
+#: AchievementAchievement.csv:270
+msgctxt "First Visit to Fortune Shop"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|2c50422cd933828d6b66ddb85a84cf05"
+msgstr "소원 상점 첫 방문"
+
+#: AchievementAchievement.csv:269
+msgctxt "Make 10 purchases in Star Shop (Shop - Star)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ae77a8187e622cb5b1ed656c99a9ab36"
+msgstr "별 상점(상점 - 별)에서 10회 구매하기"
+
+#: AchievementAchievement.csv:269
+msgctxt "A Star Shop Regular"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d1b73a7f9304512860ad815b7d8e2bb2"
+msgstr "별 상점 단골손님"
+
+#: AchievementAchievement.csv:268
+msgctxt "Make 1 purchase in Star Shop (Shop - Star)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d952b379c1ece47b521197c024691eb9"
+msgstr "별 상점(상점 - 별)에서 1회 구매하기"
+
+#: AchievementAchievement.csv:268
+msgctxt "First Visit to Star Shop"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|92d1e7d9fa93f46c27f85ae5e13a9d76"
+msgstr "별 상점 첫 방문"
+
+#: AchievementAchievement.csv:267
+msgctxt "Make 10 purchases in Wishing Shop (Shop - Wishing)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c72dbd3c9e9411132e67d9348bffd396"
+msgstr "기도 상점(상점 - 기도)에서 10회 구매하기"
+
+#: AchievementAchievement.csv:267
+msgctxt "A Wishing Shop Regular"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|36a5f8d75803118351e97e6c53ecf7cd"
+msgstr "기도 상점 단골손님"
+
+#: AchievementAchievement.csv:266
+msgctxt "Make 1 purchase in Wishing Shop (Shop - Wishing)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|34637d97c50c0b9a03bb61041567956d"
+msgstr "기도 상점(상점 - 기도)에서 1회 구매하기"
+
+#: AchievementAchievement.csv:266
+msgctxt "First Visit to Wishing Shop"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e7e3193d1479a797ee5bd31e020e25b1"
+msgstr "기도 상점 첫 방문"
+
+#: AchievementAchievement.csv:265
+msgctxt "Make 10 purchases in Misc Shop (Shop - Misc)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5b21243793f13decf537ab1ac6d0d29e"
+msgstr "잡화점(상점 - 잡화)에서 10회 구매하기"
+
+#: AchievementAchievement.csv:265
+msgctxt "A Misc Shop Regular"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4a90082d9e5019af8e9d3ceb5bfb3b53"
+msgstr "잡화점 단골손님"
+
+#: AchievementAchievement.csv:264
+msgctxt "Make 1 purchase in Misc Shop (Shop - Misc)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c8a09ba9aef5b1b9b0619207f33ab1bc"
+msgstr "잡화점(상점 - 잡화)에서 1회 구매하기"
+
+#: AchievementAchievement.csv:264
+msgctxt "First Visit to Misc Shop"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|057fc995cc6fdae2bf9c154c18c40b8f"
+msgstr "잡화점 첫 방문"
+
+#: AchievementAchievement.csv:263
+msgctxt "Obtain 40 different Outfits (including Bonding Outfit)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|078dd3d61711ceb8cd685ae393551497"
+msgstr "의상(계약 의상 포함) 40종류 입수하기"
+
+#: AchievementAchievement.csv:263
+msgctxt "Outfit Collector Ⅴ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|eb415d87d875eaab417f5e9c07976a77"
+msgstr "의상 수집가 V"
+
+#: AchievementAchievement.csv:262
+msgctxt "Obtain 30 different Outfits (including Bonding Outfit)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f93779c67a478a6a97beea090c07f175"
+msgstr "의상(계약 의상 포함) 30종류 입수하기"
+
+#: AchievementAchievement.csv:262
+msgctxt "Outfit Collector Ⅳ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|9334151e7a37714f63380bf67083288c"
+msgstr "의상 수집가 IV"
+
+#: AchievementAchievement.csv:261
+msgctxt "Obtain 20 different Outfits (including Bonding Outfit)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a7dcb1d115a381a8d573b609cbda0490"
+msgstr "의상(계약 의상 포함) 20종류 입수하기"
+
+#: AchievementAchievement.csv:261
+msgctxt "Outfit Collector Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|3e8bcf1acf08eddb4298b759a9d2ac71"
+msgstr "의상 수집가 III"
+
+#: AchievementAchievement.csv:260
+msgctxt "Obtain 10 different Outfits (including Bonding Outfit)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6732b290b8ebc17ffe2cf1d7ef102df1"
+msgstr "의상(계약 의상 포함) 10종류 입수하기"
+
+#: AchievementAchievement.csv:260
+msgctxt "Outfit Collector Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|22c8cddc82d58ccb3f784753ab95b8dc"
+msgstr "의상 수집가 II"
+
+#: AchievementAchievement.csv:259
+msgctxt "Obtain Outfit (including Bonding Outfit) for the first time"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a2c53061f1ccfb54f6400d3b4d529d9a"
+msgstr "의상(계약 의상 포함) 1종류 입수하기"
+
+#: AchievementAchievement.csv:259
+msgctxt "Outfit Collector Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e554fbebbeeac8fcdad5814c74237f0f"
+msgstr "의상 수집가 I"
+
+#: AchievementAchievement.csv:258
+msgctxt "Obtain 70 different Decorations"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ec5bf284e172b69e80bf26f1778a12bf"
+msgstr "장식 70종류 입수하기"
+
+#: AchievementAchievement.csv:258
+msgctxt "Decoration Collector Ⅷ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1b58f7e9f2e8deb7a7bce7f643cc8a44"
+msgstr "장식품 수집가 VIII"
+
+#: AchievementAchievement.csv:257
+msgctxt "Obtain 60 different Decorations"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|cd54b5ccf682085badec055d2404a7e2"
+msgstr "장식 60종류 입수하기"
+
+#: AchievementAchievement.csv:257
+msgctxt "Decoration Collector Ⅶ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4667afad925ac5471f476891efe715a8"
+msgstr "장식품 수집가 VII"
+
+#: AchievementAchievement.csv:256
+msgctxt "Obtain 50 different Decorations"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9fe4e908fd1dff13f094576957bd7116"
+msgstr "장식 50종류 입수하기"
+
+#: AchievementAchievement.csv:256
+msgctxt "Decoration Collector Ⅵ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|889c8c03c2dd6da92b23f809675ddb25"
+msgstr "장식품 수집가 VI"
+
+#: AchievementAchievement.csv:255
+msgctxt "Obtain 40 different Decorations"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6c669071b330f52421a6782f412bfe86"
+msgstr "장식 40종류 입수하기"
+
+#: AchievementAchievement.csv:255
+msgctxt "Decoration Collector Ⅴ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|a688e9180ef5dd972f04b8bdc2255b2a"
+msgstr "장식품 수집가 V"
+
+#: AchievementAchievement.csv:254
+msgctxt "Obtain 30 different Decorations"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9165947def148ea65ac1aa9e68e7a673"
+msgstr "장식 30종류 입수하기"
+
+#: AchievementAchievement.csv:254
+msgctxt "Decoration Collector Ⅳ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|cd5a472cf941da4502e1c93a3df8a8da"
+msgstr "장식품 수집가 IV"
+
+#: AchievementAchievement.csv:253
+msgctxt "Obtain 20 different Decorations"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|bcba7e9d78ff10080993afd6fcf36693"
+msgstr "장식 20종류 입수하기"
+
+#: AchievementAchievement.csv:253
+msgctxt "Decoration Collector Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|879a71a263ce00c54cd3c49b94b7a235"
+msgstr "장식품 수집가 III"
+
+#: AchievementAchievement.csv:252
+msgctxt "Obtain 10 different Decorations"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|3abee99b939ce9f5db730ffde2d67628"
+msgstr "장식 10종류 입수하기"
+
+#: AchievementAchievement.csv:252
+msgctxt "Decoration Collector Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d6677591a638cf0eba0f3c76c289c583"
+msgstr "장식품 수집가 II"
+
+#: AchievementAchievement.csv:251
+msgctxt "Obtain a Decoration for the first time"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8691bcadda2b51f3f3369f2fce28ad7b"
+msgstr "장식 1종류 입수하기"
+
+#: AchievementAchievement.csv:251
+msgctxt "Decoration Collector Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|46493e19bf575348fe9867260a72d090"
+msgstr "장식품 수집가 I"
+
+#: AchievementAchievement.csv:250
+msgctxt "Donate 100 Gifts (Items - Gift - Donate)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8d25056f82c6d7a4ddb5ef70f447e15b"
+msgstr "선물 100개 기부 (창고 - 선물 - 기부)"
+
+#: AchievementAchievement.csv:250
+msgctxt "It Comes in Bulk"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8975f0ffb2e1dc6e2aa9c672b1d07a0a"
+msgstr "도매상의 관례"
+
+#: AchievementAchievement.csv:249
+msgctxt "Donate 10 Gifts (Items - Gift - Donate)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e0eb62ffbf14d9d57f4fc2b3d75735c5"
+msgstr "선물 10개 기부 (창고 - 선물 - 기부)"
+
+#: AchievementAchievement.csv:249
+msgctxt "All Yours"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|cacc7ce155ca08f26a6ec5cb6fac004e"
+msgstr "전부 줄게"
+
+#: AchievementAchievement.csv:248
+msgctxt "Donate 1 Gift (Items - Gift - Donate)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|3bec1b06d69063d9e0ff887b63882092"
+msgstr "선물 1개 기부 (창고 - 선물 - 기부)"
+
+#: AchievementAchievement.csv:248
+msgctxt "I Don't Need This"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|70bf284bda2dca7376b9f13d7707219a"
+msgstr "이거, 필요 없어"
+
+#: AchievementAchievement.csv:247
+msgctxt "View game logs for 10 times"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|61441e00d1ce6e95e4ad1eb8ce05f514"
+msgstr "경기 로그를 10번 보기"
+
+#: AchievementAchievement.csv:247
+msgctxt "Never too Old to Learn"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|bd6cfdc0d9e670bc613be5dce7a0f00f"
+msgstr "형설지공"
+
+#: AchievementAchievement.csv:246
+msgctxt "View a game log for the first time"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a1f5d54080ac595fba851ee86c4d7930"
+msgstr "경기 로그를 1번 보기"
+
+#: AchievementAchievement.csv:246
+msgctxt "Hardworking"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|baaddeb2e9be87ed68d30db4876d0ac9"
+msgstr "주경야독"
+
+#: AchievementAchievement.csv:245
+msgctxt "Add 10 friends"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7012558d8072ce69d3a5a9c5d2b4a06c"
+msgstr "친구 10명 추가하기"
+
+#: AchievementAchievement.csv:245
+msgctxt "Social Expert"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b2d3bb63b76882546407081ba974ca3e"
+msgstr "인싸"
+
+#: AchievementAchievement.csv:244
+msgctxt "Add 3 friends"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c5669a1285b27348da89d8328c03be52"
+msgstr "친구 3명 추가하기"
+
+#: AchievementAchievement.csv:244
+msgctxt "We Can Fill a Table!"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|5245a4deadec3dac3f0aee4d590ccc96"
+msgstr "탁자에 둘러 앉아보자!"
+
+#: AchievementAchievement.csv:243
+msgctxt "Add 1 friend"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d048c48dcf3beb2e295c4eb93bc30cf5"
+msgstr "친구 1명 추가하기"
+
+#: AchievementAchievement.csv:243
+msgctxt "Learn from Each Other"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e674e7dd4000ce551d94697a5d51479d"
+msgstr "첫번째 친구"
+
+#: AchievementAchievement.csv:242
+msgctxt "Obtain 3 or more Decorations in a 10-time Summon"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|06ca806506fb39a8cff647a62a474e2a"
+msgstr "10회 기원으로 장식 3개 이상 얻기"
+
+#: AchievementAchievement.csv:242
+msgctxt "Lots of Choices"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|15024017586457320952a784193b6646"
+msgstr "줄줄이 사탕"
+
+#: AchievementAchievement.csv:241
+msgctxt "Obtain 2 Decorations in a 10-time Summon"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e8bc08c131bd50fdede15aee4b79478b"
+msgstr "10회 기원으로 장식 2개 얻기"
+
+#: AchievementAchievement.csv:229
+msgctxt "Dragon King's Overload"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|761be57da8eff10e132b1c342192c241"
+msgstr "용왕의 화신"
+
+#: AchievementAchievement.csv:228
+msgctxt "Dragon King's Arrival"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|88a1812774b42045dd756f8fa465a229"
+msgstr "용왕의 강림"
+
+#: AchievementAchievement.csv:227
+msgctxt "Dragon King's Favor"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7963f65d3cfd074b323d9df49469d5ab"
+msgstr "용왕의 총애"
+
+#: AchievementAchievement.csv:226
+msgctxt "Dragon King's Protection"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|bc7202fc4a21da6caab36ce952944fff"
+msgstr "용왕의 가호"
+
+#: AchievementAchievement.csv:225
+msgctxt "Finish with 0 point in the Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2b85cfbac43204806c2a5382e10c4de2"
+msgstr "단위전에서 0점으로 완료하기"
+
+#: AchievementAchievement.csv:225
+msgctxt "Survival Instinct"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|2392109863c883ccede837c38d2825fb"
+msgstr "살아남고 싶어"
+
+#: AchievementAchievement.csv:224
+msgctxt "Finish with 105,000 points or more 10 times in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|99443ff41b9b13dc946a1df6e5279ad2"
+msgstr "3인 단위전에서 105000점 이상으로 10회 완료하기"
+
+#: AchievementAchievement.csv:224
+msgctxt "Three Enclosures - ambition of the triple Goal Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7b10ca80916c9d99745f9210ec79fa4f"
+msgstr "삼원 - 세배 원점의 야망 II"
+
+#: AchievementAchievement.csv:223
+msgctxt "Finish with 105,000 points or more once in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|910a42719e96ca21410931edad3d0dda"
+msgstr "3인 단위전에서 105000점 이상으로 1회 완료하기"
+
+#: AchievementAchievement.csv:223
+msgctxt "Three Enclosures - ambition of the triple Goal Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8ae5d2c132d73f991f11f5b583083a4c"
+msgstr "삼원 - 세배 원점의 야망 I"
+
+#: AchievementAchievement.csv:222
+msgctxt "Finish with 70,000 points or more 100 times in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|0aea9b70c9ed8c61870d173bb5ccef66"
+msgstr "3인 단위전에서 70000점 이상으로 100회 완료하기"
+
+#: AchievementAchievement.csv:222
+msgctxt "Three Enclosures - desire of the double Goal Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|21eec0f505fe10ed55babea82f703c7f"
+msgstr "삼원 - 두배 원점의 탐욕 III"
+
+#: AchievementAchievement.csv:221
+msgctxt "Finish with 70,000 points or more 10 times in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a81463532f5fcb5cc50719973e44cd9c"
+msgstr "3인 단위전에서 70000점 이상으로 10회 완료하기"
+
+#: AchievementAchievement.csv:221
+msgctxt "Three Enclosures - desire of the double Goal Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|fff58264f049c1991ee5c1f7c841e9c3"
+msgstr "삼원 - 두배 원점의 탐욕 II"
+
+#: AchievementAchievement.csv:220
+msgctxt "Finish with 70,000 points or more once in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|eb969ab411d8cd58721b7a4de7122c7f"
+msgstr "3인 단위전에서 70000점 이상으로 1회 완료하기"
+
+#: AchievementAchievement.csv:220
+msgctxt "Three Enclosures - desire of the double Goal Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|dd4dcfe93fde7935506eaf43a732ecec"
+msgstr "삼원 - 두배 원점의 탐욕 I"
+
+#: AchievementAchievement.csv:219
+msgctxt "Finish with 35,000 points or more 100 times in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|982b33f91634e30073e13d0312619d26"
+msgstr "3인 단위전에서 35000점 이상으로 100회 완료하기"
+
+#: AchievementAchievement.csv:219
+msgctxt "Three Enclosures - guardian of the Goal Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8f998d8a8fa8c4ac9ea21ef995f4f7df"
+msgstr "삼원 - 원점의 수호자 III"
+
+#: AchievementAchievement.csv:218
+msgctxt "Finish with 35,000 points or more 10 times in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|38160345f66559a43099d2d3aa88934d"
+msgstr "3인 단위전에서 35000점 이상으로 10회 완료하기"
+
+#: AchievementAchievement.csv:218
+msgctxt "Three Enclosures - guardian of the Goal Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|2698af45f86f0f1884ca050e22d7caed"
+msgstr "삼원 - 원점의 수호자 II"
+
+#: AchievementAchievement.csv:217
+msgctxt "Finish with 35,000 points or more once in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|302089f7ebad6d92e3f1f5d4e706701d"
+msgstr "3인 단위전에서 35000점 이상으로 1회 완료하기"
+
+#: AchievementAchievement.csv:217
+msgctxt "Three Enclosures - guardian of the Goal Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|a15ba44d93640ecf1c40cd763892afd3"
+msgstr "삼원 - 원점의 수호자 I"
+
+#: AchievementAchievement.csv:216
+msgctxt "Finish with 100,000 points or more once in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a5c1b9805095379aa7928c7fcf4fd6e8"
+msgstr "4인 단위전에서 100000점 이상으로 1회 완료하기"
+
+#: AchievementAchievement.csv:216
+msgctxt "Four Symbols - rule of the quadruple Goal Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|ba80dddb91ab5889d208b06b12b4fa39"
+msgstr "사상 - 네배 원점의 통치 I"
+
+#: AchievementAchievement.csv:215
+msgctxt "Finish with 75,000 points or more 10 times in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e8d16ab45dcdcff0f29f4777a337cde8"
+msgstr "4인 단위전에서 75000점 이상으로 10회 완료하기"
+
+#: AchievementAchievement.csv:215
+msgctxt "Four Symbols - ambition of the triple Goal Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c328f9a0b8ec4eae4b5301dd1f04a558"
+msgstr "사상 - 세배 원점의 야망 II"
+
+#: AchievementAchievement.csv:214
+msgctxt "Finish with 75,000 points or more once in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|987912910d2f41929ea58ced5fb6a94a"
+msgstr "4인 단위전에서 75000점 이상으로 1회 완료하기"
+
+#: AchievementAchievement.csv:214
+msgctxt "Four Symbols - ambition of the triple Goal Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7793430669837fe17cb2c07255f20382"
+msgstr "사상 - 세배 원점의 야망 I"
+
+#: AchievementAchievement.csv:213
+msgctxt "Finish with 50,000 points or more 100 times in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|26e2857dbc4ebeb292ef8e69e48b9693"
+msgstr "4인 단위전에서 50000점 이상으로 100회 완료하기"
+
+#: AchievementAchievement.csv:213
+msgctxt "Four Symbols - desire of the double Goal Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|3d50edb4d583e1fe233c76c89caf5e7a"
+msgstr "사상 - 두배 원점의 탐욕 III"
+
+#: AchievementAchievement.csv:212
+msgctxt "Finish with 50,000 points or more 10 times in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ec4aa53046c2cf1a71b2da1b64222b19"
+msgstr "4인 단위전에서 50000점 이상으로 10회 완료하기"
+
+#: AchievementAchievement.csv:212
+msgctxt "Four Symbols - desire of the double Goal Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|cfa1db454db4fb800812c8031888689a"
+msgstr "사상 - 두배 원점의 탐욕 II"
+
+#: AchievementAchievement.csv:211
+msgctxt "Finish with 50,000 points or more once in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9a94f248e576aad7b6126cd0b02d611d"
+msgstr "4인 단위전에서 50000점 이상으로 1회 완료하기"
+
+#: AchievementAchievement.csv:211
+msgctxt "Four Symbols - desire of the double Goal Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|cc40a80b106d34a77f9923ef40714576"
+msgstr "사상 - 두배 원점의 탐욕 I"
+
+#: AchievementAchievement.csv:210
+msgctxt "Finish with 25,000 points or more 100 times in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2da80f22df2ae1f22ebd8e7f6600f446"
+msgstr "4인 단위전에서 25000점 이상으로 100회 완료하기"
+
+#: AchievementAchievement.csv:210
+msgctxt "Four Symbols - guardian of the Goal Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|991cb3d7cc78fad4add6993b41f8a372"
+msgstr "사상 - 원점의 수호자 III"
+
+#: AchievementAchievement.csv:209
+msgctxt "Finish with 25,000 points or more 10 times in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d3b306df223da413a1bb7f25b2e2e21e"
+msgstr "4인 단위전에서 25000점 이상으로 10회 완료하기"
+
+#: AchievementAchievement.csv:209
+msgctxt "Four Symbols - guardian of the Goal Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|66ba14e05f8a229405d5f57f3ce54587"
+msgstr "사상 - 원점의 수호자 II"
+
+#: AchievementAchievement.csv:208
+msgctxt "Finish with 25,000 points or more once in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|663d52c5904c4dcfe56ab0cfe7d1905a"
+msgstr "4인 단위전에서 25000점 이상으로 1회 완료하기"
+
+#: AchievementAchievement.csv:208
+msgctxt "Four Symbols - guardian of the Goal Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|6fcde6cbd2dd7f8f648504d59dbfba15"
+msgstr "사상 - 원점의 수호자 I"
+
+#: AchievementAchievement.csv:207
+msgctxt "Complete 10 Casual Match"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ea9ff82ed9c19f08732b265e2cc2ceaa"
+msgstr "캐주얼 10회 완료하기"
+
+#: AchievementAchievement.csv:207
+msgctxt "Casual Match - Reliable"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8de647338057d10d70c13909571cc961"
+msgstr "캐주얼 - 한 사람 몫"
+
+#: AchievementAchievement.csv:206
+msgctxt "Complete 1 Casual Match"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|80c3931193ff99bd214423a667b27f3e"
+msgstr "캐주얼 1회 완료하기"
+
+#: AchievementAchievement.csv:206
+msgctxt "Casual Match - Rookie"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|af76f9e9cb71f334e0b908d95508a040"
+msgstr "캐주얼 - 첫 출전"
+
+#: AchievementAchievement.csv:205
+msgctxt "Complete 10 Friendly Match"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|4ba4cc4248b9ed840a79f40807ede664"
+msgstr "친선전 10회 완료하기"
+
+#: AchievementAchievement.csv:205
+msgctxt "It's a Pleasure"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e0d51080b40e39b67763a455db58e5b8"
+msgstr "만나서 반갑습니다"
+
+#: AchievementAchievement.csv:204
+msgctxt "Complete 1 Friendly Match"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|296dcfc66fd33f1a1dfb3a750b61605a"
+msgstr "친선전 1회 완료하기"
+
+#: AchievementAchievement.csv:204
+msgctxt "Nice to Meet You"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|3180bd8e8c91315c60b88506d337c873"
+msgstr "처음 뵙겠습니다"
+
+#: AchievementAchievement.csv:203
+msgctxt "Achieve Sanbaiman 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|201383954892cbb800cf9c287d1b307c"
+msgstr "단위전에서 삼배만 이상 100번 화료하기"
+
+#: AchievementAchievement.csv:203
+msgctxt "Show Mercy Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e4dce199884db68bc5524a42687eb36f"
+msgstr "슨도메의 예술 III"
+
+#: AchievementAchievement.csv:202
+msgctxt "Achieve Sanbaiman 10 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|18f6322f24dbd4ca96e4ea2cb799efcf"
+msgstr "단위전에서 삼배만 이상 10번 화료하기"
+
+#: AchievementAchievement.csv:202
+msgctxt "Show Mercy Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|6298b5458f4f1bc6f5f6bc4dc4e7037a"
+msgstr "슨도메의 예술 II"
+
+#: AchievementAchievement.csv:201
+msgctxt "Achieve Sanbaiman once in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|73c670854a959c26c6e61dc6fd5a9c52"
+msgstr "단위전에서 삼배만 이상 1번 화료하기"
+
+#: AchievementAchievement.csv:201
+msgctxt "Show Mercy Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c8bfa9c0c3877001aaaa339062cbe91f"
+msgstr "슨도메의 예술 I"
+
+#: AchievementAchievement.csv:200
+msgctxt "Achieve Baiman 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|71a1afa6db2ff4702aa29527694a15bf"
+msgstr "단위전에서 배만 이상 100번 화료하기"
+
+#: AchievementAchievement.csv:200
+msgctxt "All Out Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|3466b4d2b138bbae55131094ddf9d89c"
+msgstr "화력 전개 III"
+
+#: AchievementAchievement.csv:199
+msgctxt "Achieve Baiman 10 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|fdc297f886a49444092b1f09af2b6516"
+msgstr "단위전에서 배만 이상 10번 화료하기"
+
+#: AchievementAchievement.csv:199
+msgctxt "All Out Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|84d8a3ac7ac3201b05fb4da423f2a1fe"
+msgstr "화력 전개 II"
+
+#: AchievementAchievement.csv:198
+msgctxt "Achieve Baiman once in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|740965b33cb6baf475aeab264552c37d"
+msgstr "단위전에서 배만 이상 1번 화료하기"
+
+#: AchievementAchievement.csv:198
+msgctxt "All Out Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|df881573c2e4fc75f76297aeb48116d9"
+msgstr "화력 전개 I"
+
+#: AchievementAchievement.csv:197
+msgctxt "Achieve Haneman 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d733bb7e437efb3e130df8b81eee9b37"
+msgstr "단위전에서 하네만 이상 100번 화료하기"
+
+#: AchievementAchievement.csv:197
+msgctxt "Breaking the Chains Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|f4da27a05a856b086b05dd9b464f82bd"
+msgstr "족쇄 해방 III"
+
+#: AchievementAchievement.csv:196
+msgctxt "Achieve Haneman 10 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f235ce139253ecd58774ac91df5d2dc3"
+msgstr "단위전에서 하네만 이상 10번 화료하기"
+
+#: AchievementAchievement.csv:196
+msgctxt "Breaking the Chains Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1846db40958491b537ebac574f45abfb"
+msgstr "족쇄 해방 II"
+
+#: AchievementAchievement.csv:195
+msgctxt "Achieve Haneman once in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|13a56b6c519926fff1182877e03822c0"
+msgstr "단위전에서 하네만 이상 1번 화료하기"
+
+#: AchievementAchievement.csv:195
+msgctxt "Breaking the Chains Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|65b7db399e29172fe7a7890789f7b6d6"
+msgstr "족쇄 해방 I"
+
+#: AchievementAchievement.csv:194
+msgctxt "Achieve Mangan 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|cc2f859f8d154d0738ff68e763c8271e"
+msgstr "단위전에서 만관 이상 100번 화료하기"
+
+#: AchievementAchievement.csv:194
+msgctxt "Restriction of Power Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7cfc4c37bda327c782ccb29e712439f1"
+msgstr "힘의 해방 III"
+
+#: AchievementAchievement.csv:193
+msgctxt "Achieve Mangan 10 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|caac0d2e8eac96d0b533131b0bd4db30"
+msgstr "단위전에서 만관 이상 10번 화료하기"
+
+#: AchievementAchievement.csv:193
+msgctxt "Restriction of Power Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4726dc2582b4eabb6256b3116802ee2d"
+msgstr "힘의 해방 II"
+
+#: AchievementAchievement.csv:192
+msgctxt "Achieve Mangan once in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|98c6054eda41b1588dbce0ae5e7308f2"
+msgstr "단위전에서 만관 이상 1번 화료하기"
+
+#: AchievementAchievement.csv:192
+msgctxt "Restriction of Power Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|ffdc4787c8c607aba6f92a8ba0740d25"
+msgstr "힘의 해방 I"
+
+#: AchievementAchievement.csv:191
+msgctxt ""
+"Complete [Power of the East Wind Ⅲ], [Power of the South Wind Ⅲ], [Power of "
+"the West Wind Ⅲ], [Power of the North Wind Ⅲ]"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|fbc1e1f8d7304876e1b53c0a964f904c"
+msgstr "[동풍의 힘 III], [남풍의 힘 III], [서풍의 힘 III], [북풍의 힘 III] 달성하기"
+
+#: AchievementAchievement.csv:191
+msgctxt "Dominator of All Winds"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|09c96de627672f01589cb6ffc34f9d60"
+msgstr "전방위 제패"
+
+#: AchievementAchievement.csv:190
+msgctxt "Win 1st place 100 times starting at North in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5d478dd8f270885cafbb60831d3586a9"
+msgstr "단위전에서 북가에서 시작했을 때 1위 100번 달성하기"
+
+#: AchievementAchievement.csv:190
+msgctxt "Power of the North Wind Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b252886410285758554f2862fab5e589"
+msgstr "북풍의 힘 III"
+
+#: AchievementAchievement.csv:189
+msgctxt "Win 1st place 10 times starting at North in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5cb0d4d641f6c75ad210e3cd128a182a"
+msgstr "단위전에서 북가에서 시작했을 때 1위 10번 달성하기"
+
+#: AchievementAchievement.csv:189
+msgctxt "Power of the North Wind Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7eb84b88864c84a6942a555da906e3be"
+msgstr "북풍의 힘 II"
+
+#: AchievementAchievement.csv:188
+msgctxt "Win 1st place once starting at North in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6f69d0c1ea469c215575b83901825a2e"
+msgstr "단위전에서 북가에서 시작했을 때 1위 1번 달성하기"
+
+#: AchievementAchievement.csv:188
+msgctxt "Power of the North Wind Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|519724bbafb3dfce41d4c6f6947a03fc"
+msgstr "북풍의 힘 I"
+
+#: AchievementAchievement.csv:187
+msgctxt "Win 1st place 100 times starting at West in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e328ca9fff01aa5cc3961ba48d9c60cd"
+msgstr "단위전에서 서가에서 시작했을 때 1위 100번 달성하기"
+
+#: AchievementAchievement.csv:187
+msgctxt "Power of the West Wind Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|0019b06674bf64ea8067e7ed1c43998e"
+msgstr "서풍의 힘 III"
+
+#: AchievementAchievement.csv:186
+msgctxt "Win 1st place 10 times starting at West in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f79ac732dee4225135904f27bb974c2f"
+msgstr "단위전에서 서가에서 시작했을 때 1위 10번 달성하기"
+
+#: AchievementAchievement.csv:186
+msgctxt "Power of the West Wind Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c1fe3734e6c63c8b497f3094ca6ba17e"
+msgstr "서풍의 힘 II"
+
+#: AchievementAchievement.csv:185
+msgctxt "Win 1st place once starting at West in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|772f89ad3b594096975ce85a62f6069b"
+msgstr "단위전에서 서가에서 시작했을 때 1위 1번 달성하기"
+
+#: AchievementAchievement.csv:185
+msgctxt "Power of the West Wind Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7f4b3bd31cb56f1bc8f3991e38dc0a6e"
+msgstr "서풍의 힘 I"
+
+#: AchievementAchievement.csv:184
+msgctxt "Win 1st place 100 times starting at South in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|1a5f494ee150b39331efff0d810b9806"
+msgstr "단위전에서 남가에서 시작했을 때 1위 100번 달성하기"
+
+#: AchievementAchievement.csv:184
+msgctxt "Power of the South Wind Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|ad30562e3520c074c8df7dccc097fe99"
+msgstr "남풍의 힘 III"
+
+#: AchievementAchievement.csv:183
+msgctxt "Win 1st place 10 times starting at South in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d63af0580488059f35cdc60700a015cd"
+msgstr "단위전에서 남가에서 시작했을 때 1위 10번 달성하기"
+
+#: AchievementAchievement.csv:183
+msgctxt "Power of the South Wind Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|eefb7e1dc25be66c9a1ec2c0f789ea58"
+msgstr "남풍의 힘 II"
+
+#: AchievementAchievement.csv:182
+msgctxt "Win 1st place once starting at South in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e760fd1d29de0346bfe61da65add0fe5"
+msgstr "단위전에서 남가에서 시작했을 때 1위 1번 달성하기"
+
+#: AchievementAchievement.csv:182
+msgctxt "Power of the South Wind Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|6cf63f7a65b2376e97e90ee4603b197d"
+msgstr "남풍의 힘 I"
+
+#: AchievementAchievement.csv:181
+msgctxt "Win 1st place 100 times starting at East in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9e8f8706cfffbae80c5a3462156f1599"
+msgstr "단위전에서 동가에서 시작했을 때 1위 100번 달성하기"
+
+#: AchievementAchievement.csv:181
+msgctxt "Power of the East Wind Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|21bac14a34cdeb249657c9e33fa49591"
+msgstr "동풍의 힘 III"
+
+#: AchievementAchievement.csv:180
+msgctxt "Win 1st place 10 times starting at East in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f2ed9c0a166b7cc4f384d3b8fbe7ccea"
+msgstr "단위전에서 동가에서 시작했을 때 1위 10번 달성하기"
+
+#: AchievementAchievement.csv:180
+msgctxt "Power of the East Wind Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|917ee1aa274d722abe787355c285b596"
+msgstr "동풍의 힘 II"
+
+#: AchievementAchievement.csv:179
+msgctxt "Win 1st place once starting at East in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|0cebe08d8e380ea2db2e7cee485aee15"
+msgstr "단위전에서 동가에서 시작했을 때 1위 1번 달성하기"
+
+#: AchievementAchievement.csv:179
+msgctxt "Power of the East Wind Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|fdd498765085ea38a963c6ca56d506c8"
+msgstr "동풍의 힘 I"
+
+#: AchievementAchievement.csv:178
+msgctxt "Win 3rd place 50 times in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c2fcf7faa3fc310a83379d57b2b6bf2c"
+msgstr "3인 단위전에서 3위 50번 달성하기"
+
+#: AchievementAchievement.csv:178
+msgctxt "Three Enclosures - These Things Happen Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|542bc0dcd47e31b096f7b5ffc37e92f7"
+msgstr "삼원 - 어쩔 수 없는 일 II"
+
+#: AchievementAchievement.csv:177
+msgctxt "Win 3rd place 5 times in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|15ed4c5a14cc18d161550e539f9bf1a3"
+msgstr "3인 단위전에서 3위 5번 달성하기"
+
+#: AchievementAchievement.csv:177
+msgctxt "Three Enclosures - These Things Happen Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d53adebed47b4db0c188785d082f4e42"
+msgstr "삼원 - 어쩔 수 없는 일 I"
+
+#: AchievementAchievement.csv:176
+msgctxt "Win 2nd place 500 times in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|934bd5c9ae519bc77111025552982413"
+msgstr "3인 단위전에서 2위 500번 달성하기"
+
+#: AchievementAchievement.csv:176
+msgctxt "Three Enclosures - The Follower Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|32809fe6cd2e961f18836205e69e617f"
+msgstr "삼원 - 분투의 2위 III"
+
+#: AchievementAchievement.csv:175
+msgctxt "Win 2nd place 50 times in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|efdf9c9c82fce723baef5a73e2b176e2"
+msgstr "3인 단위전에서 2위 50번 달성하기"
+
+#: AchievementAchievement.csv:175
+msgctxt "Three Enclosures - The Follower Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8fa2f1d6cb616606a78d5023c3fb0213"
+msgstr "삼원 - 분투의 2위 II"
+
+#: AchievementAchievement.csv:174
+msgctxt "Win 2nd place 5 times in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|3d9e35ff4a39bb204bd94e7beffc910d"
+msgstr "3인 단위전에서 2위 5번 달성하기"
+
+#: AchievementAchievement.csv:174
+msgctxt "Three Enclosures - The Follower Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|05727898c6143c86210a2543a08e742f"
+msgstr "삼원 - 분투의 2위 I"
+
+#: AchievementAchievement.csv:173
+msgctxt "Win 1st place 500 times in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9695df8484f54c12b5fa1d21ee60dbad"
+msgstr "3인 단위전에서 1위 500번 달성하기"
+
+#: AchievementAchievement.csv:173
+msgctxt "Three Enclosures - No.1 Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c95bb0f2bf8d72b7260c838f481b2342"
+msgstr "삼원 - 호쾌한 1위 III"
+
+#: AchievementAchievement.csv:172
+msgctxt "Win 1st place 50 times in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e9165bcfc0492844819e462bf9f532dc"
+msgstr "3인 단위전에서 1위 50번 달성하기"
+
+#: AchievementAchievement.csv:172
+msgctxt "Three Enclosures - No.1 Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|ba24ebb0db362a7f44137cab4e61d592"
+msgstr "삼원 - 호쾌한 1위 II"
+
+#: AchievementAchievement.csv:171
+msgctxt "Win 1st place 5 times in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|380885ae4d1bd43b45886db2bbfddeef"
+msgstr "3인 단위전에서 1위 5번 달성하기"
+
+#: AchievementAchievement.csv:171
+msgctxt "Three Enclosures - No.1 Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|70e5fffc234b586487606b4e37f4c3f0"
+msgstr "삼원 - 호쾌한 1위 I"
+
+#: AchievementAchievement.csv:170
+msgctxt "Win 4th place 50 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7ec9516f2b6869d261b1e587bf3db919"
+msgstr "4인 단위전에서 4위 50번 달성하기"
+
+#: AchievementAchievement.csv:170
+msgctxt "Four Symbols - These Things Happen Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|87ea5044abac232d60dc168ee691f885"
+msgstr "사상 - 어쩔 수 없는 일 II"
+
+#: AchievementAchievement.csv:169
+msgctxt "Win 4th place 5 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c092bf3555c3664afc040abf0282cd56"
+msgstr "4인 단위전에서 4위 5번 달성하기"
+
+#: AchievementAchievement.csv:169
+msgctxt "Four Symbols - These Things Happen Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|97b920c3fec83ba1e8cdcf224a7f08a0"
+msgstr "사상 - 어쩔 수 없는 일 I"
+
+#: AchievementAchievement.csv:168
+msgctxt "Win 3rd place 500 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c9a70973db8a9ec8052d868b7db8d766"
+msgstr "4인 단위전에서 3위 500번 달성하기"
+
+#: AchievementAchievement.csv:168
+msgctxt "Four Symbols - Keep Trying Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|6428e490e7783666c02d874dbc068e36"
+msgstr "사상 - 노력의 3위 III"
+
+#: AchievementAchievement.csv:167
+msgctxt "Win 3rd place 50 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|69bf9cfbeda8a3f23e799c60ab1547d4"
+msgstr "4인 단위전에서 3위 50번 달성하기"
+
+#: AchievementAchievement.csv:167
+msgctxt "Four Symbols - Keep Trying Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|27c59e0bd098b29d7c371f597b72a950"
+msgstr "사상 - 노력의 3위 II"
+
+#: AchievementAchievement.csv:166
+msgctxt "Win 3rd place 5 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|06cebe5bfc0405369428129a4826978b"
+msgstr "4인 단위전에서 3위 5번 달성하기"
+
+#: AchievementAchievement.csv:166
+msgctxt "Four Symbols - Keep Trying Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c5835970c1b437af062149c33b1378da"
+msgstr "사상 - 노력의 3위 I"
+
+#: AchievementAchievement.csv:165
+msgctxt "Win 2nd place 500 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|dac3d4cb8e4e098fc57762c1d41a37da"
+msgstr "4인 단위전에서 2위 500번 달성하기"
+
+#: AchievementAchievement.csv:165
+msgctxt "Four Symbols - The Follower Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e0efd12a6bf72821015fd16de3037028"
+msgstr "사상 - 분투의 2위 III"
+
+#: AchievementAchievement.csv:164
+msgctxt "Win 2nd place 50 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|3dc53154d055fd373c0499b2192893bc"
+msgstr "4인 단위전에서 2위 50번 달성하기"
+
+#: AchievementAchievement.csv:164
+msgctxt "Four Symbols - The Follower Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|0b7c160283e8a884a617769e0b9559ca"
+msgstr "사상 - 분투의 2위 II"
+
+#: AchievementAchievement.csv:163
+msgctxt "Win 2nd place 5 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6b9668117bf3374bd3e6663fcec106b5"
+msgstr "4인 단위전에서 2위 5번 달성하기"
+
+#: AchievementAchievement.csv:163
+msgctxt "Four Symbols - The Follower Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|447dcd5fab0380a84b6ca98d3e15608e"
+msgstr "사상 - 분투의 2위 I"
+
+#: AchievementAchievement.csv:162
+msgctxt "Win 1st place 500 times in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2ff7280b1032945882f431d4fc923ba6"
+msgstr "4인 단위전에서 1위 500번 달성하기"
+
+#: AchievementAchievement.csv:162
+msgctxt "Four Symbols - No.1 Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8d4e14fddadff85c265ec9c9afcf5a64"
+msgstr "사상 - 호쾌한 1위 II"
+
+#: AchievementAchievement.csv:161
+msgctxt "Win 1st place 50 times in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|474f6c1aa197f42a195d5c863b6e6e07"
+msgstr "4인 단위전에서 1위 50번 달성하기"
+
+#: AchievementAchievement.csv:161
+msgctxt "Four Symbols - No.1 Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7a9c0f03f8317b700264857dec1e8803"
+msgstr "사상 - 호쾌한 1위 II"
+
+#: AchievementAchievement.csv:160
+msgctxt "Win 1st place 5 times in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8b3a76c7e13bd287f609a4572349a43f"
+msgstr "3인 단위전에서 1위 5번 달성하기"
+
+#: AchievementAchievement.csv:26
+msgctxt "Win top 2 places 10 times in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|fb6e6a25678e8e4c01a432ec0eb17ec8"
+msgstr "3인 단위전에서 2위 이상 연속 10번 달성하기"
+
+#: AchievementAchievement.csv:25
+msgctxt "Win top 2 places 5 times in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|320e38b82f9d5bbcd30a7e075ef7f070"
+msgstr "3인 단위전에서 2위 이상 연속 5번 달성하기"
+
+#: AchievementAchievement.csv:23
+msgctxt "Win 1st place 5 times in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|756cf426dc4b9abad4b790353ace0720"
+msgstr "3인 단위전에서 1위 연속 5번 달성하기"
+
+#: AchievementAchievement.csv:22
+msgctxt "Win 1st place 3 times in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b3b170b5afcc79dfac6ed31c95f19484"
+msgstr "4인 단위전에서 1위 연속 3번 달성하기"
+
+#: AchievementAchievement.csv:20
+msgctxt "Win top 3 places 10 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|129c850f102893d127af9b478da46b4b"
+msgstr "4인 단위전에서 3위 이상 연속 10번 달성하기"
+
+#: AchievementAchievement.csv:19
+msgctxt "Win top 3 places 5 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|612397c285a6de1cd265dcaac371b580"
+msgstr "4인 단위전에서 3위 이상 연속 5번 달성하기"
+
+#: AchievementAchievement.csv:17
+msgctxt "Win top 2 places 10 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7a785ff074ad5107e644d0c0446e972b"
+msgstr "4인 단위전에서 2위 이상 연속 10번 달성하기"
+
+#: AchievementAchievement.csv:16
+msgctxt "Win top 2 places 5 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ada8cf6c03e69bbb158c5d21fe6b7d32"
+msgstr "4인 단위전에서 2위 이상 연속 5번 달성하기"
+
+#: AchievementAchievement.csv:14
+msgctxt "Win 1st place 5 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d1aac6416c52b65f067217e09a3f25f2"
+msgstr "4인 단위전에서 1위 연속 5번 달성하기"
+
+#: AchievementAchievement.csv:13
+msgctxt "Win 1st place 3 times in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7063a4ad27833b70a5ac5bbd952f0b36"
+msgstr "4인 단위전에서 1위 연속 3번 달성하기"
+
+#: AchievementAchievement.csv:160
+msgctxt "Four Symbols - No.1 Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|61a7c95824538ce8e38c1ed1759424cc"
+msgstr "사상 - 호쾌한 1위 I"
+
+#: AchievementAchievement.csv:159
+msgctxt ""
+"Complete 3000 Hanchan games (4-Player South/3-Player South) in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|05d8ef1a276a9c72fd0c379156197595"
+msgstr "단위전에서 반장전(4인 반장전/3인 반장전) 3000번 완료하기"
+
+#: AchievementAchievement.csv:159
+msgctxt "Hanchan game - Unstoppable"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4eaf905b2384730fe59bbcc8bc1220df"
+msgstr "반장전 - 용왕매진"
+
+#: AchievementAchievement.csv:158
+msgctxt ""
+"Complete 1000 Hanchan games (4-Player South/3-Player South) in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e8ad1261510bf1e43c64227e8f3e5cf4"
+msgstr "단위전에서 반장전(4인 반장전/3인 반장전) 1000번 완료하기"
+
+#: AchievementAchievement.csv:158
+msgctxt "Hanchan game - Seasoned"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b293476d9907f727a9ceb2cec9a0c567"
+msgstr "반장전 - 백련천마"
+
+#: AchievementAchievement.csv:157
+msgctxt ""
+"Complete 100 Hanchan games (4-Player South/3-Player South) in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f5cb37912ca0ad9b64a4037c5f13ffbe"
+msgstr "단위전에서 반장전(4인 반장전/3인 반장전) 100번 완료하기"
+
+#: AchievementAchievement.csv:157
+msgctxt "Hanchan game - Skilled"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|369e2d868b8ab52e8e1a4acaab9a77ff"
+msgstr "반장전 - 백전연마"
+
+#: AchievementAchievement.csv:156
+msgctxt ""
+"Complete 10 Hanchan games (4-Player South/3-Player South) in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9deef2290c4f2dce3c0f7bfa85cafc38"
+msgstr "단위전에서 반장전(4인 반장전/3인 반장전) 10번 완료하기"
+
+#: AchievementAchievement.csv:156
+msgctxt "Hanchan game - Reliable"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e63a2248039457114c3e2a6834b83ecb"
+msgstr "반장전 - 한 사람 몫"
+
+#: AchievementAchievement.csv:155
+msgctxt ""
+"Complete 1 Hanchan game (4-Player South/3-Player South) in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|78dc4a5a9d12949cc2cf93a3c1d0bc1d"
+msgstr "단위전에서 반장전(4인 반장전/3인 반장전) 1번 완료하기"
+
+#: AchievementAchievement.csv:155
+msgctxt "Hanchan game - Rookie"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|36beab09e4f08e43d16ffb5b48995e0c"
+msgstr "반장전 - 첫 출전"
+
+#: AchievementAchievement.csv:154
+msgctxt ""
+"Complete 3000 East games (4-Player East/3-Player East) in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9c1d0535fae88cd287fbbf2113d231f7"
+msgstr "단위전에서 동풍전(4인 동풍전/3인 동풍전) 3000번 완료하기"
+
+#: AchievementAchievement.csv:154
+msgctxt "East game - Unstoppable"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|22256f90e0a9e9d63687f84d48be0252"
+msgstr "동풍전 - 용왕매진"
+
+#: AchievementAchievement.csv:153
+msgctxt ""
+"Complete 1000 East games (4-Player East/3-Player East) in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6eacf3507fc3bfc08d4e468d5ac87105"
+msgstr "단위전에서 동풍전(4인 동풍전/3인 동풍전) 1000번 완료하기"
+
+#: AchievementAchievement.csv:153
+msgctxt "East game - Seasoned"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|f975ed4ef11c892d45f37e279443b2fe"
+msgstr "동풍전 - 백련천마"
+
+#: AchievementAchievement.csv:152
+msgctxt "Complete 100 East games (4-Player East/3-Player East) in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|858118bad8065062cbc60030b47ee78e"
+msgstr "단위전에서 동풍전(4인 동풍전/3인 동풍전) 100번 완료하기"
+
+#: AchievementAchievement.csv:152
+msgctxt "East game - Skilled"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c629b369654edc50314d4efa5158ee29"
+msgstr "동풍전 - 백전연마"
+
+#: AchievementAchievement.csv:151
+msgctxt "Complete 10 East games (4-Player East/3-Player East) in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6cbc1a14176520e381c85cb5838143cb"
+msgstr "단위전에서 동풍전(4인 동풍전/3인 동풍전) 10번 완료하기"
+
+#: AchievementAchievement.csv:151
+msgctxt "East game - Reliable"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|aafbf38aca3f8638d3170b481f4da4d6"
+msgstr "동풍전 - 한 사람 몫"
+
+#: AchievementAchievement.csv:150
+msgctxt "Complete 1 East game (4-Player East/3-Player East) in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6cb95788ee9082afb5d4db6582b13f52"
+msgstr "단위전에서 동풍전(4인 동풍전/3인 동풍전) 1번 완료하기"
+
+#: AchievementAchievement.csv:150
+msgctxt "East game - Rookie"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|2cb03975b154652395a8cf3dec1c5f70"
+msgstr "동풍전 - 첫 출전"
+
+#: AchievementAchievement.csv:149
+msgctxt "Complete 3000 matches in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9d687c280222a1c593249833c022c99a"
+msgstr "3인 단위전 3000회 완료하기"
+
+#: AchievementAchievement.csv:149
+msgctxt "Three Enclosures - Unstoppable"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|cc081cb79a7b004caf1143472c1fa89e"
+msgstr "삼원 - 용왕매진"
+
+#: AchievementAchievement.csv:148
+msgctxt "Complete 1000 matches in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ffccb7a5811c7fbdeaf548b0367aeb6c"
+msgstr "3인 단위전 1000회 완료하기"
+
+#: AchievementAchievement.csv:148
+msgctxt "Three Enclosures - Seasoned"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|a15713c82d35954e72b449b30cf60ff0"
+msgstr "삼원 - 백련천마"
+
+#: AchievementAchievement.csv:147
+msgctxt "Complete 100 matches in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|41e83f159953efc255bd5a5315b6eef3"
+msgstr "3인 단위전 100회 완료하기"
+
+#: AchievementAchievement.csv:147
+msgctxt "Three Enclosures - Skilled"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8502cabb6971d374db5928168b4ded9c"
+msgstr "삼원 - 백전연마"
+
+#: AchievementAchievement.csv:146
+msgctxt "Complete 10 matches in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|94a82f64a4be30d570951c2b4586f70c"
+msgstr "3인 단위전 10회 완료하기"
+
+#: AchievementAchievement.csv:146
+msgctxt "Three Enclosures - Reliable"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b19258122a74069a7d3506f96853a82e"
+msgstr "삼원 - 한 사람 몫"
+
+#: AchievementAchievement.csv:145
+msgctxt "Complete 1 match in 3-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9048ea479018547c2aad20f707f0d9d5"
+msgstr "3인 단위전 1회 완료하기"
+
+#: AchievementAchievement.csv:145
+msgctxt "Three Enclosures - Rookie"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|80a564fbbaad85deb0d42ad58d7d02bf"
+msgstr "삼원 - 첫 출전"
+
+#: AchievementAchievement.csv:144
+msgctxt "Complete 3000 matches in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f23968b572b1006172eb6e923b7e9876"
+msgstr "4인 단위전 3000회 완료하기"
+
+#: AchievementAchievement.csv:144
+msgctxt "Four Symbols - Unstoppable"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|3e52eca43044eb99991cd358b42284fb"
+msgstr "사성 - 용왕매진"
+
+#: AchievementAchievement.csv:143
+msgctxt "Complete 1000 matches in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|3230a29d50cf617cfc07135c9d50c4fb"
+msgstr "4인 단위전 1000회 완료하기"
+
+#: AchievementAchievement.csv:143
+msgctxt "Four Symbols - Seasoned"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d7bdbc214676666741346713f1670bcb"
+msgstr "사성 - 백련천마"
+
+#: AchievementAchievement.csv:142
+msgctxt "Complete 100 matches in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d71890ba1a65dede9dac1d1d657e1ec7"
+msgstr "4인 단위전 100회 완료하기"
+
+#: AchievementAchievement.csv:142
+msgctxt "Four Symbols - Skilled"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|fd6d5b9bd010f8ab97b82587b6eb5f0d"
+msgstr "사상 - 백전연마"
+
+#: AchievementAchievement.csv:141
+msgctxt "Complete 10 matches in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|45f991d25ae25f12a70f6cf1ddd1bc81"
+msgstr "4인 단위전 10회 완료하기"
+
+#: AchievementAchievement.csv:141
+msgctxt "Four Symbols - Reliable"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7104e9d3bead5e9c676711578549051a"
+msgstr "사상 - 한 사람 몫"
+
+#: AchievementAchievementGroup.csv:10
+msgctxt "Crowdedness"
+msgid ""
+"sheet|AchievementAchievementGroup.csv|name_en|b3b667efdf30d1c41c0e14fbcf7e7370"
+msgstr "천객만래"
+
+#: AchievementAchievementGroup.csv:9
+msgctxt "All-embracing"
+msgid ""
+"sheet|AchievementAchievementGroup.csv|name_en|f2a9a0c79259e23974866242a4808523"
+msgstr "삼라만상"
+
+#: AchievementAchievementGroup.csv:8
+msgctxt "Shrine Guest"
+msgid ""
+"sheet|AchievementAchievementGroup.csv|name_en|4f558cbfd8ce67832e1ddf412e4c75bb"
+msgstr "신사귀객"
+
+#: AchievementAchievementGroup.csv:7
+msgctxt "Storyteller"
+msgid ""
+"sheet|AchievementAchievementGroup.csv|name_en|0d99c8413cb80e72a0259fe6a7da12bb"
+msgstr "작탁견문"
+
+#: AchievementAchievementGroup.csv:6
+msgctxt "Seasoned"
+msgid ""
+"sheet|AchievementAchievementGroup.csv|name_en|7a95c1a9223def33ca95f5101692cd06"
+msgstr "백련천마"
+
+#: AchievementAchievementGroup.csv:5
+msgctxt "The Chosen One"
+msgid ""
+"sheet|AchievementAchievementGroup.csv|name_en|52dff3685d8423321b9bccd44e59a739"
+msgstr "천우신조"
+
+#: AchievementAchievementGroup.csv:4
+msgctxt "Collector"
+msgid ""
+"sheet|AchievementAchievementGroup.csv|name_en|8fc330d76e990ab6964af08ea1e47d2e"
+msgstr "성라운포"
+
+#: AchievementAchievementGroup.csv:3
+msgctxt "Winning Streak"
+msgid ""
+"sheet|AchievementAchievementGroup.csv|name_en|9d1a3c704a797d66bf47bbbf0abbd455"
+msgstr "연승의 길"
+
+#: AchievementAchievementGroup.csv:2
+msgctxt "The Journey"
+msgid ""
+"sheet|AchievementAchievementGroup.csv|name_en|d9e381cb026faa90aa12b80f401425d3"
+msgstr "성장의 여정"
+
+#: AchievementAchievement.csv:367
+msgctxt "Unlock all endings in Anju Suzumiya's Story"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|80e7f73c373ff6cc7d1a6ec556186b28"
+msgstr "스즈미야 안즈 이야기의 모든 엔딩을 해금하기"
+
+#: AchievementAchievement.csv:367
+msgctxt "Protector of Anju Suzumiya"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c309a832d2b29b3d5749be6a16b6718a"
+msgstr "스즈미야 안즈의 수호자"
+
+#: AchievementAchievement.csv:366
+msgctxt "Unlock all endings in Miki Nikaidou's Story"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|fa37d1a707b0f0c40414dd5ee08c92d2"
+msgstr "니카이도 미키 이야기의 모든 엔딩을 해금하기"
+
+#: AchievementAchievement.csv:366
+msgctxt "Protector of Miki Nikaidou"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|caca2e176dda118780d80191191c35c5"
+msgstr "니카이도 미키의 수호자"
+
+#: AchievementAchievement.csv:365
+msgctxt "Unlock all endings in Ichihime's Story"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d9de4a4a5307873dd10c562e0af260db"
+msgstr "이치히메 이야기의 모든 엔딩을 해금하기"
+
+#: AchievementAchievement.csv:365
+msgctxt "Protector of Ichihime"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d5bf215a87451b9c46a113d1ccf5cf04"
+msgstr "이치히메의 수호자"
+
+#: AchievementAchievement.csv:364
+msgctxt "Bond with Chihori Terasaki"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|704402845f479d65772c6f21edc6625d"
+msgstr "테라사키 치호리와 계약을 맺기"
+
+#: AchievementAchievement.csv:364
+msgctxt "Bonded with Chihori Terasaki"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|51465085fbe6241e334dc79c3ef71475"
+msgstr "테라사키 치호리의 계약자"
+
+#: AchievementAchievement.csv:363
+msgctxt "Bond with Eliisa"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|3375e195f1fd605925f850cfeb178644"
+msgstr "엘리사와 계약을 맺기"
+
+#: AchievementAchievement.csv:363
+msgctxt "Bonded with Eliisa"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d97b81bae6735e5fea1c517982fa7158"
+msgstr "엘리사의 계약자"
+
+#: AchievementAchievement.csv:362
+msgctxt "Bond with Usumi Ishihara"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|dc6384c81482448073ad5100d8f68d0f"
+msgstr "이시하라 우스미와 계약을 맺기"
+
+#: AchievementAchievement.csv:362
+msgctxt "Bonded with Usumi Ishihara"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4ef9920b2c9181dead7fe42c160264f3"
+msgstr "이시하라 우스미의 계약자"
+
+#: AchievementAchievement.csv:361
+msgctxt "Bond with Ren Kisaragi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e2f70429a9bcd9f3d526695d76380fe1"
+msgstr "키사라기 렌과 계약을 맺기"
+
+#: AchievementAchievement.csv:361
+msgctxt "Bonded with Ren Kisaragi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|cb3eefad00cc806a4e1392a78310fafb"
+msgstr "키사라기 렌의 계약자"
+
+#: AchievementAchievement.csv:360
+msgctxt "Bond with Kaguyahime"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8e02fced2304be7669905a2adb2e99f8"
+msgstr "카구야히메와 계약을 맺기"
+
+#: AchievementAchievement.csv:360
+msgctxt "Bonded with Kaguyahime"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|f3b2a28312c455774910815c2b7112a1"
+msgstr "카구야히메의 계약자"
+
+#: AchievementAchievement.csv:359
+msgctxt "Bond with Kirara Fujimoto"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5db69c6f49b694ca3a1a028f6f7f3043"
+msgstr "후지모토 키라라와 계약을 맺기"
+
+#: AchievementAchievement.csv:359
+msgctxt "Bonded with Kirara Fujimoto"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8ac3b64d1b82062f8adbb0d88e7af2bd"
+msgstr "후지모토 키라라의 계약자"
+
+#: AchievementAchievement.csv:358
+msgctxt "Bond with Zan Tsukimi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|680d22e39fc2249670a50d949bcabc95"
+msgstr "츠키미 잔과 계약을 맺기"
+
+#: AchievementAchievement.csv:358
+msgctxt "Bonded with Zan Tsukimi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|063362006253213f7319d6667ea367af"
+msgstr "츠키미 잔의 계약자"
+
+#: AchievementAchievement.csv:357
+msgctxt "Bond with Momo Hina"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ce0e085574d1f6190529cfde072fae98"
+msgstr "히나 모모와 계약을 맺기"
+
+#: AchievementAchievement.csv:357
+msgctxt "Bonded with Momo Hina"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7a0d0082e500bd1260bcb887ddd67f17"
+msgstr "히나 모모의 계약자"
+
+#: AchievementAchievement.csv:356
+msgctxt "Bond with Ein"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b99aa3fdbbe09e4ff3b288f749a289bc"
+msgstr "에인과 계약을 맺기"
+
+#: AchievementAchievement.csv:356
+msgctxt "Bonded with Ein"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7fe4232cea553bd17288c33251cdbae5"
+msgstr "에인의 계약자"
+
+#: AchievementAchievement.csv:355
+msgctxt "Bond with Sawako Kitami"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a9bf26f42a54edd599530e571d7e66c6"
+msgstr "키타미 사와코와 계약을 맺기"
+
+#: AchievementAchievement.csv:355
+msgctxt "Bonded with Sawako Kitami"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c7affab70dba559742d70937bb7c1a95"
+msgstr "키타미 사와코의 계약자"
+
+#: AchievementAchievement.csv:354
+msgctxt "Bond with Osamu Saitou"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9b3dd88ee6f48f80d7b34ebf2ab257d8"
+msgstr "사이토 오사무와 계약을 맺기"
+
+#: AchievementAchievement.csv:354
+msgctxt "Bonded with Osamu Saitou"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|37ab75c6adf5ed283b428ac8de0b6b92"
+msgstr "사이토 오사무의 계약자"
+
+#: AchievementAchievement.csv:353
+msgctxt "Bond with Joseph"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e0cccd4d86a9020463df371d3ad808a0"
+msgstr "조셉과 계약을 맺기"
+
+#: AchievementAchievement.csv:353
+msgctxt "Bonded with Joseph"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|52fd862e2aa2ef259b2930c9dcecc9a3"
+msgstr "조셉의 계약자"
+
+#: AchievementAchievement.csv:352
+msgctxt "Bond with Anju Suzumiya"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|cc931d09f12e3af532a60639784b712b"
+msgstr "스즈미야 안즈와 계약을 맺기"
+
+#: AchievementAchievement.csv:352
+msgctxt "Bonded with Anju Suzumiya"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|40896a35530277cd5990d32b3e054f7e"
+msgstr "스즈미야 안즈의 계약자"
+
+#: AchievementAchievement.csv:351
+msgctxt "Bond with Haruna Igarashi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8320663f95b2ba1ccb983b459133f0e7"
+msgstr "이가라시 하루나와 계약을 맺기"
+
+#: AchievementAchievement.csv:351
+msgctxt "Bonded with Haruna Igarashi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e90ed97cf446b4738957c81a505dbc48"
+msgstr "이가라시 하루나의 계약자"
+
+#: AchievementAchievement.csv:350
+msgctxt "Bond with Hinata Takanashi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f83fe110d4b8d2131ce2948dda251d21"
+msgstr "타카나시 히나타와 계약을 맺기"
+
+#: AchievementAchievement.csv:350
+msgctxt "Bonded with Hinata Takanashi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|6898cfe9535786e1a1866bca4ef30445"
+msgstr "타카나시 히나타의 계약자"
+
+#: AchievementAchievement.csv:349
+msgctxt "Bond with Nana Shiraishi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|553a9dd216aeb88dd620128459b00257"
+msgstr "시라이시 나나와 계약을 맺기"
+
+#: AchievementAchievement.csv:349
+msgctxt "Bonded with Nana Shiraishi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1e93eb4abfdb1a3d5ea4a545ebf677c7"
+msgstr "시라이시 나나의 계약자"
+
+#: AchievementAchievement.csv:348
+msgctxt "Bond with Hana Ninomiya"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ade18f49419a66a34d2112cde0b5f227"
+msgstr "니노미야 하나와 계약을 맺기"
+
+#: AchievementAchievement.csv:348
+msgctxt "Bonded with Hana Ninomiya"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|ca4094e32ea699a67138c7795880bfce"
+msgstr "니노미야 하나의 계약자"
+
+#: AchievementAchievement.csv:347
+msgctxt "Bond with Sara"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|21b28f07a1343cad151db3b4baaa2399"
+msgstr "사라와 계약을 맺기"
+
+#: AchievementAchievement.csv:347
+msgctxt "Bonded with Sara"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1ba902de5de6295a78686fe6db977911"
+msgstr "사라의 계약자"
+
+#: AchievementAchievement.csv:346
+msgctxt "Bond with Keikumusume"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2d07830b35bea577e93cd5ebc6ce69e4"
+msgstr "케이쿠무스메와 계약을 맺기"
+
+#: AchievementAchievement.csv:140
+msgctxt "Complete 1 match in 4-Player Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|24144584408475ef2b2eb314eaa13dd4"
+msgstr "4인 단위전 1회 완료하기"
+
+#: AchievementAchievement.csv:140
+msgctxt "Four Symbols - Rookie"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e43ef98acc15305656aff41fd5db233c"
+msgstr "사상 - 첫 출전"
+
+#: AchievementAchievement.csv:139
+msgctxt "Complete 5000 Ranked matches"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|74d57c05ac5c3e6a8d8f8e6555670b95"
+msgstr "단위전 5000회 완료하기"
+
+#: AchievementAchievement.csv:139
+msgctxt "Master"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|f03bde11d261f185cbacfa32c1c6538c"
+msgstr "화룡점정"
+
+#: AchievementAchievement.csv:138
+msgctxt "Complete 3000 Ranked matches"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5283e3d1285eaffbc5b65faf6b775ca3"
+msgstr "단위전 3000회 완료하기"
+
+#: AchievementAchievement.csv:138
+msgctxt "Unstoppable"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|f2b19162474f58ec1f3e2f24d2482f67"
+msgstr "용왕매진"
+
+#: AchievementAchievement.csv:137
+msgctxt "Complete 1000 Ranked matches"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5b0f4f92aec7668873c5b33031f9fc7e"
+msgstr "단위전 1000회 완료하기"
+
+#: AchievementAchievement.csv:137
+msgctxt "Seasoned"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7a95c1a9223def33ca95f5101692cd06"
+msgstr "백련천마"
+
+#: AchievementAchievement.csv:136
+msgctxt "Complete 100 Ranked matches"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|19c203763675a37fbc4ab358f57b2550"
+msgstr "단위전 100회 완료하기"
+
+#: AchievementAchievement.csv:136
+msgctxt "Skilled"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|36f053f63bad7545aeba9c64dd092bae"
+msgstr "백전연마"
+
+#: AchievementAchievement.csv:135
+msgctxt "Complete 10 Ranked matches"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|1cd963944a2e73d785f8103e031256ee"
+msgstr "단위전 10회 완료하기"
+
+#: AchievementAchievement.csv:135
+msgctxt "Reliable"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|84fcf5d37086f2a93953734ce8f385b6"
+msgstr "한 사람 몫"
+
+#: AchievementAchievement.csv:134
+msgctxt "Complete 1 Ranked match"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|cafa6e8be13ac2252a0d8f0104a3e4bb"
+msgstr "단위전 1회 완료하기"
+
+#: AchievementAchievement.csv:134
+msgctxt "Rookie"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1213778b5c6d69dcb26aa89f7d0aaa99"
+msgstr "첫 출전"
+
+#: AchievementAchievement.csv:133
+msgctxt "Win 5000 games with Tsumo in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ee046859df252df7026b7a980a1b8623"
+msgstr "단위전에서 5000번 쯔모로 화료하기"
+
+#: AchievementAchievement.csv:133
+msgctxt "Phoenix's Shriek"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e1933586c7c875349028b1851eddf8c9"
+msgstr "봉황의 포효"
+
+#: AchievementAchievement.csv:132
+msgctxt "Win 1000 games with Tsumo in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|87f976e6c84cb94b6b69d018605c0041"
+msgstr "단위전에서 1000번 쯔모로 화료하기"
+
+#: AchievementAchievement.csv:132
+msgctxt "Phoenix's Whisper"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c60b3aac7e7cd9c8f45e632814db4ced"
+msgstr "봉황의 속삭임"
+
+#: AchievementAchievement.csv:131
+msgctxt "Win 100 games with Tsumo in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a5e4b8131cf499157a451b43f4ce4ff0"
+msgstr "단위전에서 100번 쯔모로 화료하기"
+
+#: AchievementAchievement.csv:131
+msgctxt "Phoenix's Breath"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|57d27ab1ce531f8bf000e28263926138"
+msgstr "봉황의 숨결"
+
+#: AchievementAchievement.csv:130
+msgctxt "Win 10 games with Tsumo in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|bb2f7ca3e67c841fc5fa64c137e63102"
+msgstr "단위전에서 10번 쯔모로 화료하기"
+
+#: AchievementAchievement.csv:130
+msgctxt "Phoenix's Birth"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|30ffb4b258826ccf1ca436b64c488737"
+msgstr "봉황의 탄생"
+
+#: AchievementAchievement.csv:129
+msgctxt "Win 5000 games with Ron in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8663dadd676600b014a284f66bc68378"
+msgstr "단위전에서 5000번 론으로 화료하기"
+
+#: AchievementAchievement.csv:129
+msgctxt "Dragon's Roar"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8745608d17f4e5ed6cd5ff14cafbb962"
+msgstr "용의 포효"
+
+#: AchievementAchievement.csv:128
+msgctxt "Win 1000 games with Ron in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|94ce894a23035b5d93d1e75019c89d48"
+msgstr "단위전에서 1000번 론으로 화료하기"
+
+#: AchievementAchievement.csv:128
+msgctxt "Dragon's Whisper"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b81786483412c45cdef0760951f7eca0"
+msgstr "용의 속삭임"
+
+#: AchievementAchievement.csv:127
+msgctxt "Win 100 games with Ron in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f1c136e8dc390a10ae8b020fcf538a79"
+msgstr "단위전에서 100번 론으로 화료하기"
+
+#: AchievementAchievement.csv:127
+msgctxt "Dragon's Breath"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7d27738d36ffa74f06c29034b74ee5cc"
+msgstr "용의 숨결"
+
+#: AchievementAchievement.csv:126
+msgctxt "Win 10 games with Ron in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|4bb3a1c76bc2bf4ae093b083c68fd475"
+msgstr "단위전에서 10번 론으로 화료하기"
+
+#: AchievementAchievement.csv:126
+msgctxt "Dragon's Birth"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|805bcd99050c790357da4955a4bd28b8"
+msgstr "용의 탄생"
+
+#: AchievementAchievement.csv:125
+msgctxt "Achieve Yakuman (includes Counted Yakuman) 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|333fb57b002f869202e482d3179e6c34"
+msgstr "단위전에서 역만(헤아림 역만 포함) 100번 화료하기"
+
+#: AchievementAchievement.csv:125
+msgctxt "Blessings Stay"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|69d3e165889e651ca912391ca5eb6f93"
+msgstr "함께하는 기원"
+
+#: AchievementAchievement.csv:124
+msgctxt "Achieve Yakuman (includes Counted Yakuman) 10 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c3276aedb3c48b30005702a80a58be24"
+msgstr "단위전에서 역만(헤아림 역만 포함) 10번 화료하기"
+
+#: AchievementAchievement.csv:124
+msgctxt "Blessings Linger"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|9b83a56ea1cf1db9db63a3ffd7e3eac9"
+msgstr "감도는 기원"
+
+#: AchievementAchievement.csv:123
+msgctxt "Blessings Come"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|a280ae4c0489a73e71aa93efbdc484c9"
+msgstr "기원 강림"
+
+#: AchievementAchievement.csv:123
+msgctxt "Achieve Yakuman (includes Counted Yakuman) once in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|352d520604d348cf82cc32dbeb7073d5"
+msgstr "단위전에서 역만(헤아림 역만 포함) 1번 화료하기"
+
+#: AchievementAchievement.csv:122
+msgctxt "Achieve All the Yakuman Yakus in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8f960de4cf5e8b22ce62878399df125c"
+msgstr "단위전에서 역만을 종류별로 모두 화료하기"
+
+#: AchievementAchievement.csv:122
+msgctxt "The Chosen One"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|52dff3685d8423321b9bccd44e59a739"
+msgstr "하늘이 선택한 자"
+
+#: AchievementAchievement.csv:121
+msgctxt "Achieve Counted Yakuman in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d76aaf1d4407cfdcf170516879aa0140"
+msgstr "단위전에서 [헤아림 역만] 화료하기"
+
+#: AchievementAchievement.csv:121
+msgctxt "Power of Uniting"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|3b391ef57fc6df13e7bdc7d4be6f2699"
+msgstr "단결의 힘"
+
+#: AchievementAchievement.csv:120
+msgctxt "Achieve Yakuman: [Four Big Winds] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8deedc713487023416731a22a25f7c12"
+msgstr "단위전에서 [대사희] 화료하기"
+
+#: AchievementAchievement.csv:120
+msgctxt "Summon the God of Winds"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c6a79cf3c1a0344f0342b7ef819c019a"
+msgstr "풍신소환"
+
+#: AchievementAchievement.csv:119
+msgctxt "Achieve Yakuman: [Thirteen-wait Thirteen Orphans] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|69e07b050c23037bfd3958104b5abd80"
+msgstr "단위전에서 [국사무쌍 13면대기] 화료하기"
+
+#: AchievementAchievement.csv:119
+msgctxt "Anything Will Do"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b95684f2e381503df8a9f061d22945fb"
+msgstr "전면 텐파이"
+
+#: AchievementAchievement.csv:118
+msgctxt ""
+"Achieve Yakuman: [Single-wait Four Concealed Triplets] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c4282f7f19ab31b55af6ea26418e247e"
+msgstr "단위전에서 [스안커 단기] 화료하기"
+
+#: AchievementAchievement.csv:118
+msgctxt "One-Hit Kill"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|16cf7d075986710347aa9c163d0a7b1f"
+msgstr "일격필살"
+
+#: AchievementAchievement.csv:117
+msgctxt "Achieve Yakuman: [True Nine Gates] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|53c9aaba76f7874fdd9dc19504ab2d40"
+msgstr "단위전에서 [순정구련보등] 화료하기"
+
+#: AchievementAchievement.csv:117
+msgctxt "The Nine Return to One"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|87c214978c2c4c7685893e7b13b0a7ab"
+msgstr "구품연대"
+
+#: AchievementAchievement.csv:116
+msgctxt "Achieve Yakuman: [Nine Gates] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8338d33988651519dca6fe0c32131837"
+msgstr "단위전에서 [구련보등] 화료하기"
+
+#: AchievementAchievement.csv:116
+msgctxt "Pick One from Nine"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1a20c82d72ec8dce7a98beb1c13ea271"
+msgstr "구인공휴일궤"
+
+#: AchievementAchievement.csv:115
+msgctxt "Achieve Yakuman: [Four Quads] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f633290fcb2ed0070c727114358caec5"
+msgstr "단위전에서 [스깡즈] 화료하기"
+
+#: AchievementAchievement.csv:115
+msgctxt "Four Quads"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1daa5b709e3e375e7b20bb74315c6b20"
+msgstr "십팔나한"
+
+#: AchievementAchievement.csv:114
+msgctxt "Achieve Yakuman: [Four Little Winds] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c68e763eb44d5337db06363f4795c276"
+msgstr "단위전에서 [소사희] 화료하기"
+
+#: AchievementAchievement.csv:114
+msgctxt "Blessed by the God of Winds"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|ce73a1531bf809b963508ebe1d1c21df"
+msgstr "풍신의 기도"
+
+#: AchievementAchievement.csv:113
+msgctxt "Achieve Yakuman: [Thirteen Orphans] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b40aba6234376ddb11b12b11afaea832"
+msgstr "단위전에서 [국사무쌍] 화료하기"
+
+#: AchievementAchievement.csv:113
+msgctxt "Thirteen Orphans"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|5f405ede71c2b239712185d073731b35"
+msgstr "국사무쌍"
+
+#: AchievementAchievement.csv:112
+msgctxt "Achieve Yakuman: [All Terminals] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a4ff0b742b9a74841d40c07e3e04c8b3"
+msgstr "단위전에서 [청노두] 화료하기"
+
+#: AchievementAchievement.csv:112
+msgctxt "Shining Star"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|ce3f6bf3a3294435336f8b58b2843db3"
+msgstr "오망빛"
+
+#: AchievementAchievement.csv:111
+msgctxt "Achieve Yakuman: [All Green] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|68f309f000bc665f5831bf3a86abc4aa"
+msgstr "단위전에서 [녹일색] 화료하기"
+
+#: AchievementAchievement.csv:111
+msgctxt "Yggdrasil"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|3c5f727017db4d75593f3d58b9b1607a"
+msgstr "세계수"
+
+#: AchievementAchievement.csv:110
+msgctxt "One Color All the Way"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|2b9c857d5ab03429f0172df0a5d0cebb"
+msgstr "일색통행"
+
+#: AchievementAchievement.csv:110
+msgctxt "Achieve Yakuman: [All Honors] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9ac2f8f02fce7840856c944cbe9b3dad"
+msgstr "단위전에서 [자일색] 화료하기"
+
+#: AchievementAchievement.csv:109
+msgctxt "Achieve Yakuman: [Four Concealed Triplets] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|eb69004d5c11b0dd428c868bdc7bf599"
+msgstr "단위전에서 [스안커] 화료하기"
+
+#: AchievementAchievement.csv:109
+msgctxt "Fully Prepared"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|807cf43f555e315515d596af45be8a80"
+msgstr "심모원려"
+
+#: AchievementAchievement.csv:108
+msgctxt "Achieve Yakuman: [Big Three Dragons] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7d2b1b26446f0ea393d90b191aa6b3ce"
+msgstr "단위전에서 [대삼원] 화료하기"
+
+#: AchievementAchievement.csv:108
+msgctxt "Trinity"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|16d00ec132daebedc1dc487a10d4261c"
+msgstr "삼위일체"
+
+#: AchievementAchievement.csv:107
+msgctxt "Achieve Yakuman: [Blessing of Earth] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b4a4a98e1bc69561cdc50d896fbd354b"
+msgstr "단위전에서 [지화] 화료하기"
+
+#: AchievementAchievement.csv:107
+msgctxt "Blessed by the Earth"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|65c50255c7a1b07ace32d01de8b330dc"
+msgstr "땅의 가호"
+
+#: AchievementAchievement.csv:106
+msgctxt "Achieve Yakuman: [Blessing of Heaven] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|0323e661fcd00e96521cc6070fcaeefa"
+msgstr "단위전에서 [천화] 화료하기"
+
+#: AchievementAchievement.csv:106
+msgctxt "Blessed by the Heaven"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|36cd16e8b4ebd7b5e6519c688180f32c"
+msgstr "하늘의 가호"
+
+#: AchievementAchievement.csv:105
+msgctxt "Achieve all kinds of 3 - 6 Han Yakus in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|189ab9252a6d28358bcf1dce4884627b"
+msgstr "단위전에서 3-6판 역을 종류별로 모두 화료하기"
+
+#: AchievementAchievement.csv:105
+msgctxt "Domination in 3-or-More Han Yaku!"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|96cbcbea5c4fb5228886af1028c4f45c"
+msgstr "3-6판 역 모든 종류 재패!"
+
+#: AchievementAchievement.csv:104
+msgctxt "Achieve all kinds of 2 Han Yakus in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6070df5470df9d029e5d75355c84022b"
+msgstr "단위전에서 2판 역을 종류별로 모두 화료하기"
+
+#: AchievementAchievement.csv:104
+msgctxt "Domination in 2 Han Yaku!"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4ba306e35317ff1c7dd2e9006ed7d4d9"
+msgstr "2판 역 모든 종류 재패!"
+
+#: AchievementAchievement.csv:103
+msgctxt "Achieve all kinds of 1 Han Yakus in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ad7c0775927374599d048871022706de"
+msgstr "단위전에서 1판 역을 종류별로 모두 화료하기"
+
+#: AchievementAchievement.csv:103
+msgctxt "Domination in 1 Han Yaku!"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|31aad5cb81e7b9798e80d0b6925f3c28"
+msgstr "1판 역 모든 종류 재패!"
+
+#: AchievementAchievement.csv:102
+msgctxt ""
+"Complete [Shiny Pearl Ⅲ], [Fabulous Malachite Ⅲ] and [Magnificent Ruby Ⅲ]."
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|38672f6ece5fd30f46c83923d5301599"
+msgstr "[백옥같은 피부 III], [쪽빛 실같은 머리카락 III], [앵두 연지 바른 입술 III] 달성하기"
+
+#: AchievementAchievement.csv:100
+msgctxt "Magnificent Ruby Ⅳ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|84ecbd721a0b716bead1d801bb572f70"
+msgstr "앵두 연지 바른 입술 IV"
+
+#: AchievementAchievement.csv:99
+msgctxt "Magnificent Ruby Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4b18bab7361f64c76ae17dd4222ec543"
+msgstr "앵두 연지 바른 입술 III"
+
+#: AchievementAchievement.csv:98
+msgctxt "Magnificent Ruby Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|80d90ab8c48f87c351d2c522b0f0f21e"
+msgstr "앵두 연지 바른 입술 II"
+
+#: AchievementAchievement.csv:97
+msgctxt "Magnificent Ruby Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4bf63deb30f3bb9d8e9c4a386d0288f5"
+msgstr "앵두 연지 바른 입술 I"
+
+#: AchievementAchievement.csv:35
+msgctxt "Ruby"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|9916d1fc59fe22cc046a2fe1615bc764"
+msgstr "앵두 연지"
+
+#: AchievementAchievement.csv:96
+msgctxt "Fabulous Malachite Ⅳ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|ef0e5e8bbdbf8d764b16b9e7d1b15de4"
+msgstr "쪽빛 실같은 머리카락 IV"
+
+#: AchievementAchievement.csv:95
+msgctxt "Fabulous Malachite Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c0d1d6314e00f2ad3d749936836b7cee"
+msgstr "쪽빛 실같은 머리카락 III"
+
+#: AchievementAchievement.csv:94
+msgctxt "Fabulous Malachite Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8492ef3e18f3cb464f5c8883126de1a4"
+msgstr "쪽빛 실같은 머리카락 II"
+
+#: AchievementAchievement.csv:93
+msgctxt "Fabulous Malachite Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|714059baeb91590fdd5c3971ee5ab541"
+msgstr "쪽빛 실같은 머리카락 I"
+
+#: AchievementAchievement.csv:34
+msgctxt "Malachite"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|da855ac25bb70fef4e57ad46e91efb75"
+msgstr "쪽빛 실"
+
+#: AchievementAchievement.csv:92
+msgctxt "Shiny Pearl Ⅳ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|5969212f2f2e836b800c355add8f93f7"
+msgstr "백옥같은 피부 IV"
+
+#: AchievementAchievement.csv:91
+msgctxt "Shiny Pearl Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|2325092d77409c36759ac3c9b4a82871"
+msgstr "백옥같은 피부 III"
+
+#: AchievementAchievement.csv:90
+msgctxt "Shiny Pearl Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|3e8f2347f4b58d99c7fa9d332c504ba9"
+msgstr "백옥같은 피부 II"
+
+#: AchievementAchievement.csv:89
+msgctxt "Shiny Pearl Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|6850e40d4c54ad1bff78e9657b2d772a"
+msgstr "백옥같은 피부 I"
+
+#: AchievementAchievement.csv:33
+msgctxt "Pearl"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4708ae0e6fd6de8c45b2cb237da01bc6"
+msgstr "백옥"
+
+#: AchievementAchievement.csv:102
+msgctxt "Undisputed Beauty"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|0a49d17c6d34f4fb05d351881f253cee"
+msgstr "경국지색"
+
+#: AchievementAchievement.csv:101
+msgctxt ""
+"Complete [Blessings of the East Wind Ⅲ], [Warmth of the South Wind Ⅲ], "
+"[Wildness of the West Wind Ⅲ] and [Frigidness of the North Wind Ⅲ]"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|fb12aa1f2c49526a37c7731c5ead6ec4"
+msgstr "[동풍의 소원 III], [남풍의 온기 III], [서풍의 야성 III], [북풍의 한기 III] 달성하기"
+
+#: AchievementAchievement.csv:101
+msgctxt "God of Winds"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1eef79ee12a00131e27dcaa7cee2da13"
+msgstr "사방풍신"
+
+#: AchievementAchievement.csv:100
+msgctxt "Achieve Dragons: Red 500 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|01863a5f15c790018994d77aa37dada5"
+msgstr "단위전에서 [역패: 중] 500번 화료하기"
+
+#: AchievementAchievement.csv:99
+msgctxt "Achieve Dragons: Red 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|eb21e208524b7f1427833ee0db17cd2a"
+msgstr "단위전에서 [역패: 중] 100번 화료하기"
+
+#: AchievementAchievement.csv:98
+msgctxt "Achieve Dragons: Red 50 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|3170313b8037752dac5ca7fe9de02ec8"
+msgstr "단위전에서 [역패: 중] 50번 화료하기"
+
+#: AchievementAchievement.csv:97
+msgctxt "Achieve Dragons: Red 5 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5adf9f29fae9d6fc974b0c53987caae1"
+msgstr "단위전에서 [역패: 중] 5번 화료하기"
+
+#: AchievementAchievement.csv:96
+msgctxt "Achieve Dragons: Green 500 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f687235d851d92248e2603bc20f2e1fd"
+msgstr "단위전에서 [역패: 발] 500번 화료하기"
+
+#: AchievementAchievement.csv:95
+msgctxt "Achieve Dragons: Green 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|1c567233ab0912f45e1b091ccbbfcdfa"
+msgstr "단위전에서 [역패: 발] 100번 화료하기"
+
+#: AchievementAchievement.csv:94
+msgctxt "Achieve Dragons: Green 50 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ea7d3bac26c2565bcbadbe5f01a43473"
+msgstr "단위전에서 [역패: 발] 50번 화료하기"
+
+#: AchievementAchievement.csv:93
+msgctxt "Achieve Dragons: Green 5 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c78ba9a23a103fb1cf567f136042a31e"
+msgstr "단위전에서 [역패: 발] 5번 화료하기"
+
+#: AchievementAchievement.csv:92
+msgctxt "Achieve Dragons: White 500 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f3a81b6426dff68d3d34ac58f6570782"
+msgstr "단위전에서 [역패: 백] 500번 화료하기"
+
+#: AchievementAchievement.csv:91
+msgctxt "Achieve Dragons: White 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|001196f8719a169233ce1ebcf3144ad3"
+msgstr "단위전에서 [역패: 백] 100번 화료하기"
+
+#: AchievementAchievement.csv:90
+msgctxt "Achieve Dragons: White 50 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6c48b2682ac770e5a247cbf80504e7a1"
+msgstr "단위전에서 [역패: 백] 50번 화료하기"
+
+#: AchievementAchievement.csv:89
+msgctxt "Achieve Dragons: White 5 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9c2e50f0dbf62ee5240ca40218ea860b"
+msgstr "단위전에서 [역패: 백] 5번 화료하기"
+
+#: AchievementAchievement.csv:88
+msgctxt "Achieve Seat Wind: North 500 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|56a432828fe54e8fb48a4900ca6226d8"
+msgstr "단위전에서 [역패: 북] 500번 화료하기"
+
+#: AchievementAchievement.csv:88
+msgctxt "Frigidness of the North Wind Ⅳ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|77d3d2812f33b0ed779d63d0c666bc8e"
+msgstr "북풍의 한기 IV"
+
+#: AchievementAchievement.csv:87
+msgctxt "Achieve Seat Wind: North 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|bce36d5200adee51c5cb7c014e71252c"
+msgstr "단위전에서 [역패: 북] 100번 화료하기"
+
+#: AchievementAchievement.csv:87
+msgctxt "Frigidness of the North Wind Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|be1b2426506f0bd4985c76269f05a6fa"
+msgstr "북풍의 한기 III"
+
+#: AchievementAchievement.csv:86
+msgctxt "Achieve Seat Wind: North 50 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e35c6070da2996a5b3a52204d289e731"
+msgstr "단위전에서 [역패: 북] 50번 화료하기"
+
+#: AchievementAchievement.csv:86
+msgctxt "Frigidness of the North Wind Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7d441a91010dc832a2e730ee0bf0b840"
+msgstr "북풍의 한기 II"
+
+#: AchievementAchievement.csv:85
+msgctxt "Achieve Seat Wind: North 5 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|14fcfb832da0a984e2ed9f54a6b45054"
+msgstr "단위전에서 [역패: 북] 5번 화료하기"
+
+#: AchievementAchievement.csv:85
+msgctxt "Frigidness of the North Wind Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|844fe272b8739e4c572e97ee11b3ca45"
+msgstr "북풍의 한기 I"
+
+#: AchievementAchievement.csv:84
+msgctxt "Achieve Seat Wind: West 500 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e763170b2983035f164c958fcc342778"
+msgstr "단위전에서 [역패: 서] 500번 화료하기"
+
+#: AchievementAchievement.csv:84
+msgctxt "Wildness of the West Wind Ⅳ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|13d3eb68ebaca497798f27fcb7f95c0a"
+msgstr "서풍의 야성 IV"
+
+#: AchievementAchievement.csv:83
+msgctxt "Achieve Seat Wind: West 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|44dd5e9d42cd90804171149c9bb16329"
+msgstr "단위전에서 [역패: 서] 100번 화료하기"
+
+#: AchievementAchievement.csv:83
+msgctxt "Wildness of the West Wind Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|ffecf8563cdc3558db964603102b97b3"
+msgstr "서풍의 야성 III"
+
+#: AchievementAchievement.csv:82
+msgctxt "Achieve Seat Wind: West 50 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|3df970ef85cd4e1c8427f7f992692705"
+msgstr "단위전에서 [역패: 서] 50번 화료하기"
+
+#: AchievementAchievement.csv:82
+msgctxt "Wildness of the West Wind Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|a2467db85a9884c1908f08e0f4c27569"
+msgstr "서풍의 야성 II"
+
+#: AchievementAchievement.csv:81
+msgctxt "Achieve Seat Wind: West 5 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|54b743962910ca2a6e3b6a2634d931ba"
+msgstr "단위전에서 [역패: 서] 5번 화료하기"
+
+#: AchievementAchievement.csv:81
+msgctxt "Wildness of the West Wind Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4f7078e6fb674dd47a795759adf89dab"
+msgstr "서풍의 야성 I"
+
+#: AchievementAchievement.csv:80
+msgctxt "Achieve Seat Wind: South 500 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7dcc04d80f374fd52bc5ea5dc22520f9"
+msgstr "단위전에서 [역패: 남] 500번 화료하기"
+
+#: AchievementAchievement.csv:80
+msgctxt "Warmth of the South Wind Ⅳ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|64242058b7a56044077a02e8752258a8"
+msgstr "남풍의 온기 IV"
+
+#: AchievementAchievement.csv:79
+msgctxt "Achieve Seat Wind: South 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7d1dce694df3d1a25a53284a5df10916"
+msgstr "단위전에서 [역패: 남] 100번 화료하기"
+
+#: AchievementAchievement.csv:79
+msgctxt "Warmth of the South Wind Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c52952c54cf9de7739c80968f7467f2e"
+msgstr "남풍의 온기 III"
+
+#: AchievementAchievement.csv:78
+msgctxt "Achieve Seat Wind: South 50 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|81e13b031dca7ab97d21cd66305dbf70"
+msgstr "단위전에서 [역패: 남] 50번 화료하기"
+
+#: AchievementAchievement.csv:78
+msgctxt "Warmth of the South Wind Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|725b4f941c3675477fbd55a666a8d1be"
+msgstr "남풍의 온기 II"
+
+#: AchievementAchievement.csv:77
+msgctxt "Achieve Seat Wind: South 5 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e7541a1cdf8242c54bc01429109435b6"
+msgstr "단위전에서 [역패: 남] 5번 화료하기"
+
+#: AchievementAchievement.csv:77
+msgctxt "Warmth of the South Wind Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7b4ef722c6d6c2c1495c3308d61723d3"
+msgstr "남풍의 온기 I"
+
+#: AchievementAchievement.csv:76
+msgctxt "Achieve Seat Wind: East 500 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2fd8935b1d6c4ef4dc592f0bcc67f1ea"
+msgstr "단위전에서 [역패: 동] 500번 화료하기"
+
+#: AchievementAchievement.csv:76
+msgctxt "Blessings of the East Wind Ⅳ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|9d6c0309277a3f3bab74a6d6ed792232"
+msgstr "동풍의 소원 IV"
+
+#: AchievementAchievement.csv:75
+msgctxt "Achieve Seat Wind: East 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|cc72f1e20fd165a52c7662282b279ef3"
+msgstr "단위전에서 [역패: 동] 100번 화료하기"
+
+#: AchievementAchievement.csv:75
+msgctxt "Blessings of the East Wind Ⅲ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b62e9f0364ac5d01845db4667c3acd1c"
+msgstr "동풍의 소원 III"
+
+#: AchievementAchievement.csv:74
+msgctxt "Achieve Seat Wind: East 50 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f82025a359a08e29a2b2a7ae0483f21c"
+msgstr "단위전에서 [역패: 동] 50번 화료하기"
+
+#: AchievementAchievement.csv:74
+msgctxt "Blessings of the East Wind Ⅱ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|70480b6c077f0919210f648589d46cdf"
+msgstr "동풍의 소원 II"
+
+#: AchievementAchievement.csv:73
+msgctxt "Achieve Seat Wind: East 5 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8e76b45742a09d51fbcc4ce9d73f0a48"
+msgstr "단위전에서 [역패: 동] 5번 화료하기"
+
+#: AchievementAchievement.csv:73
+msgctxt "Blessings of the East Wind Ⅰ"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|0b30a7a49cf3d9f6acfd7dd4ee5082e5"
+msgstr "동풍의 소원 I"
+
+#: AchievementAchievement.csv:72
+msgctxt "Achieve [Full Flush] 10 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|3c8f7eaa21998cb08c9bea60b40235e1"
+msgstr "단위전에서 [청일색] 10번 화료하기"
+
+#: AchievementAchievement.csv:55
+msgctxt "No Idea Which Tile I Need"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8a62c173de31f71401e008cb6f28c66f"
+msgstr "무슨 패를 기다리고 있는거지?"
+
+#: AchievementAchievement.csv:72
+msgctxt "Completely no Idea which Tile I Need"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|87545b8b2fc4b8ce4975dd4f786990df"
+msgstr "대체 무슨 패를 기다리고 있는거지?"
+
+#: AchievementAchievement.csv:71
+msgctxt "Achieve [Half Flush] 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c3ba9d81cfb87d70420130698c19a79f"
+msgstr "단위전에서 [혼일색] 100번 화료하기"
+
+#: AchievementAchievement.csv:71
+msgctxt "You Can just Play from the Left to the Right"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1251007c09a2755bcec09ccda8e735b3"
+msgstr "그냥 왼쪽부터 버릴 뿐"
+
+#: AchievementAchievement.csv:70
+msgctxt "Achieve [Half Flush] 10 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a93a533d53c2d585fc5185a953beb296"
+msgstr "단위전에서 [혼일색] 10번 화료하기"
+
+#: AchievementAchievement.csv:70
+msgctxt "Just Play from the Left to the Right"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e5363eab7e303387b73be0e651ac8676"
+msgstr "그냥 왼쪽부터 버려"
+
+#: AchievementAchievement.csv:69
+msgctxt "Achieve [All Simples] 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6d876acca446a23c65d351237b376d9e"
+msgstr "단위전에서 [탕야오] 100번 화료하기"
+
+#: AchievementAchievement.csv:69
+msgctxt "All Simples Nyaa Nyaa Nyaa!!!"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|5217f23051726b62148aa0192d07b5ca"
+msgstr "탕야오 냐냐냐!!!"
+
+#: AchievementAchievement.csv:68
+msgctxt "Achieve [All Simples] 10 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2b0f51675a24c50488acc2eb72ed79f9"
+msgstr "단위전에서 [탕야오] 10번 화료하기"
+
+#: AchievementAchievement.csv:68
+msgctxt "All Simples Nyaa Nyaa!!"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b4cb4d74797ca49fee7b2fb3368739c7"
+msgstr "탕야오 냐냐!!"
+
+#: AchievementAchievement.csv:67
+msgctxt "Achieve [Pinfu] 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f6e7decfb9a71c2503c4212f89fa6ad4"
+msgstr "단위전에서 [핑후] 100번 화료하기"
+
+#: AchievementAchievement.csv:67
+msgctxt "World Peace"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|ebc28e5ec6c7aa56e21214807b51f155"
+msgstr "세계의 평화"
+
+#: AchievementAchievement.csv:66
+msgctxt "Achieve [Pinfu] 10 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|aff4d7da16b9ea136ed62192454dd86e"
+msgstr "단위전에서 [핑후] 10번 화료하기"
+
+#: AchievementAchievement.csv:66
+msgctxt "Inner Clam"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4979a1cf575a5373ee4104ab3642c4d0"
+msgstr "심신의 안정"
+
+#: AchievementAchievement.csv:65
+msgctxt "Achieve [Ippatsu] 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7dc3d1060d389f560348cd6a7342634a"
+msgstr "단위전에서 [일발] 100번 화료하기"
+
+#: AchievementAchievement.csv:65
+msgctxt "Quantum Computer"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d9ba00227d54be9f7d80e0b2a6050217"
+msgstr "양자컴퓨터"
+
+#: AchievementAchievement.csv:64
+msgctxt "Achieve [Ippatsu] 10 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7a54db2c2193a76e8dd5209e10b95d15"
+msgstr "단위전에서 [일발] 10번 화료하기"
+
+#: AchievementAchievement.csv:64
+msgctxt "Predict the Fate"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1ef71a9bff89ca5f579446140205a3ae"
+msgstr "운명예지"
+
+#: AchievementAchievement.csv:63
+msgctxt "Achieve [Riichi] 100 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|1436eacff85e240be0c8f50f68755d98"
+msgstr "단위전에서 [리치] 100번 화료하기"
+
+#: AchievementAchievement.csv:63
+msgctxt "Where Are My 100,000 Points?"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b2181c9758dcf344143b5f4339d030b5"
+msgstr "내 100,000점 어디갔지?"
+
+#: AchievementAchievement.csv:62
+msgctxt "Where Are My 10,000 Points?"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|9400c274271e11d19938e0784768df19"
+msgstr "내 10,000점 어디 갔지?"
+
+#: AchievementAchievement.csv:62
+msgctxt "Achieve [Riichi] 10 times in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a6ad1b2658fc057990fe57f7c48e4084"
+msgstr "단위전에서 [리치] 10번 화료하기"
+
+#: AchievementAchievement.csv:61
+msgctxt "Achieve [Mangan at Draw] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|90b2adab046d9a6f672cdda14a3764ec"
+msgstr "단위전에서 [유국만관] 달성하기"
+
+#: AchievementAchievement.csv:61
+msgctxt "Your Tenpai Is Meaningless"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|735e3a3e54418764548df5f16bf3caed"
+msgstr "네 텐파이는 아무 의미도 없어"
+
+#: AchievementAchievement.csv:60
+msgctxt "Achieve [Kita] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|1193a70396fd0c79c461e0f22fc07e5b"
+msgstr "단위전에서 [북도라] 화료하기"
+
+#: AchievementAchievement.csv:60
+msgctxt "Open Dazzling Lights"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|5be7c569024a1c8800e6a25e5f7a0f96"
+msgstr "공개 반짝반짝"
+
+#: AchievementAchievement.csv:59
+msgctxt "Achieve [Ura Dora] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|fbba5dde853df6cc2dccea39fb4f77d5"
+msgstr "단위전에서 [뒷도라] 화료하기"
+
+#: AchievementAchievement.csv:59
+msgctxt "Concealed Dazzling Lights"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4dddd5260a232685844b9b5942fea5d3"
+msgstr "숨겨진 반짝반짝"
+
+#: AchievementAchievement.csv:58
+msgctxt "Achieve [Red Five] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ecc87343adedc7ea9cfaf3a9da3eb686"
+msgstr "단위전에서 [적도라] 화료하기"
+
+#: AchievementAchievement.csv:58
+msgctxt "Dazzling Red Lights"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|bec67e31e1286fccfa034f5e128d2d19"
+msgstr "빨간 반짝반짝"
+
+#: AchievementAchievement.csv:57
+msgctxt "Achieve [Dora] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ffc1bad1bcbd9e2475a706b2f1a17ff1"
+msgstr "단위전에서 [도라] 화료하기"
+
+#: AchievementAchievement.csv:57
+msgctxt "Dazzling Lights"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8e3bbe1ef58feb1398d94344cbe146d7"
+msgstr "반짝반짝"
+
+#: AchievementAchievement.csv:56
+msgctxt "Achieve [Ippatsu] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7f72646652d07092785c55e860356631"
+msgstr "단위전에서 [일발] 화료하기"
+
+#: AchievementAchievement.csv:56
+msgctxt "Predict the Future"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|93210a76f5244229d1a6684816ca9468"
+msgstr "미래예지"
+
+#: AchievementAchievement.csv:55
+msgctxt "Achieve [Full Flush] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|bb7b659dd5c331f781cc68b58c85e3bc"
+msgstr "단위전에서 [청일색] 화료하기"
+
+#: AchievementAchievement.csv:54
+msgctxt "Achieve [Twice Pure Double Sequence] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|934bed657a0e78a88adb88716a73a6d9"
+msgstr "단위전에서 [량페코] 화료하기"
+
+#: AchievementAchievement.csv:54
+msgctxt "It Was Meant to Be Seven Pairs"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7561a71dd5e97158b9df57c8ac83cf5a"
+msgstr "치또이츠라고 말했는데!"
+
+#: AchievementAchievement.csv:53
+msgctxt "Achieve [Half Flush] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2a11e28c0cab3fa41221d034a085a556"
+msgstr "단위전에서 [혼일색] 화료하기"
+
+#: AchievementAchievement.csv:53
+msgctxt "Play from the Left to the Right"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8c52953341a92a87ea340f4f56d39fb2"
+msgstr "왼쪽부터 버려"
+
+#: AchievementAchievement.csv:52
+msgctxt "Achieve [Fully Outside Hand] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|207bac5bd45a2008e5dfa4c40bf70a2b"
+msgstr "단위전에서 [준찬타] 화료하기"
+
+#: AchievementAchievement.csv:52
+msgctxt "Pure and Flawless"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|3cd3421b23a7dc3d2b71f7b963590908"
+msgstr "순결무구"
+
+#: AchievementAchievement.csv:51
+msgctxt "Achieve [Seven Pairs] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|13e4048d9aac86ad75329e13273e8839"
+msgstr "단위전에서 [치또이츠] 화료하기"
+
+#: AchievementAchievement.csv:45
+msgctxt "Haven't Met You Before"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|79ed591ff90a2ab30dcea8286989aa81"
+msgstr "삼색동 각이냐?"
+
+#: AchievementAchievement.csv:51
+msgctxt "Fortunes Come in Pairs"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|42cfb18088d0fd091ce5d6ec7795ffa0"
+msgstr "양손의 꽃"
+
+#: AchievementAchievement.csv:50
+msgctxt "Achieve [All Terminals and Honors] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|25f4169b8918959cd6b27a6050c4c50e"
+msgstr "단위전에서 [혼노두] 화료하기"
+
+#: AchievementAchievement.csv:50
+msgctxt "I Hate Honors"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|aa4b10246aef4f9f40dbacabd35adffc"
+msgstr "자패 싫어..."
+
+#: AchievementAchievement.csv:49
+msgctxt "Achieve [Little Three Dragons] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e53674a516a036e25493dbc50401ae10"
+msgstr "단위전에서 [소삼원] 화료하기"
+
+#: AchievementAchievement.csv:49
+msgctxt "Shocked?"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|195a011ba13954d018d59bcd5506d603"
+msgstr "놀랐어?"
+
+#: AchievementAchievement.csv:48
+msgctxt "Achieve [Three Concealed Triplets] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|3ef1888dba2ca626e1c39dd8c9e9ef60"
+msgstr "단위전에서 [산안커] 화료하기"
+
+#: AchievementAchievement.csv:48
+msgctxt "That Doesn't Count as Four Concealed Triplets?"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|101212ee2f9b541ac6f4aa8a3c93ebd2"
+msgstr "스안커로 인정해주면 안될까?"
+
+#: AchievementAchievement.csv:241
+msgctxt "Choices"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|6ef697f11922be2e4de0971f7d70997f"
+msgstr "꼬리물기"
+
+#: AchievementAchievement.csv:240
+msgctxt "Obtain 3 or more Jyanshis in a 10-time Summon"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|37d886594075e3bf108c6e00f84504bb"
+msgstr "10회 기원으로 작사 3명 이상 얻기"
+
+#: AchievementAchievement.csv:240
+msgctxt "A Miracle Gathering"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|511c2c3f7a66feee73cff08584ba83f7"
+msgstr "기적을 모아"
+
+#: AchievementAchievement.csv:239
+msgctxt "Obtain 2 Jyanshis in a 10-time Summon"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|42e03045ab2cf4d0bf29d9bc49c85631"
+msgstr "10회 기원으로 작사 2명 얻기"
+
+#: AchievementAchievement.csv:239
+msgctxt "Double-Yolked Egg"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|56483b71c95e22ea428566ad3917eaeb"
+msgstr "쌍란"
+
+#: AchievementAchievement.csv:238
+msgctxt "Summon 1000 times"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|58ead977ecd5508f9f5f4e243ff9427b"
+msgstr "1000번 기원하기"
+
+#: AchievementAchievement.csv:238
+msgctxt "1000 Wishes"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|eb4dc2a209330619156d17bff11c67b6"
+msgstr "천 가지 소원"
+
+#: AchievementAchievement.csv:237
+msgctxt "Summon 500 times"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|aa545a99d99f6f3946bc6f65ceb6ebfe"
+msgstr "500번 기원하기"
+
+#: AchievementAchievement.csv:237
+msgctxt "500 Wishes"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e56139fe8568a5697370953353da7022"
+msgstr "오백 가지 소원"
+
+#: AchievementAchievement.csv:236
+msgctxt "200 Wishes"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1fc34407203c8ff5a40ece66abcc669f"
+msgstr "이백 가지 소원"
+
+#: AchievementAchievement.csv:236
+msgctxt "Summon 200 times"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f29e56efd01def3d10c286c848bc1a02"
+msgstr "200번 기원하기"
+
+#: AchievementAchievement.csv:235
+msgctxt "Summon 100 times"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|de9225cf9d0e4a27eaa41a0bb2cf5240"
+msgstr "100번 기원하기"
+
+#: AchievementAchievement.csv:235
+msgctxt "100 Wishes"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|3724bd07b82434ee76743a7621670092"
+msgstr "백 가지 소원"
+
+#: AchievementAchievement.csv:234
+msgctxt "Summon 10 times"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|121d0b63d7d94616ca05ecdf827bfcfd"
+msgstr "10번 기원하기"
+
+#: AchievementAchievement.csv:234
+msgctxt "Heart of Wishing"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4771e2f69ec4ce757d0d7b621a03bdb0"
+msgstr "기도하는 마음"
+
+#: AchievementAchievement.csv:233
+msgctxt "Summon Once"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2a8ba22dd9ea4ed19216c8949d1e19a2"
+msgstr "1번 기원하기"
+
+#: AchievementAchievement.csv:233
+msgctxt "In Honor of First Summon"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7dbbd7a4dc0473bcef9bcae314e663cc"
+msgstr "첫 기원 기념"
+
+#: AchievementAchievement.csv:232
+msgctxt ""
+"Get 1000 or more Doras with Ron(s)/Tsumo(s) in Ranked room (including Ura "
+"Dora, Red Five, Kita)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2f7226b6a44c9b80653e44ca9b734122"
+msgstr "단위전에서 도라(뒷도라, 적도라, 북도라 포함)를 포함하여 1000번 이상 화료하기"
+
+#: AchievementAchievement.csv:232
+msgctxt "Dragon Trainer"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|3727d0b3994d4a948d750a8b6323c1f7"
+msgstr "용왕을 잘 기르는 법"
+
+#: AchievementAchievement.csv:231
+msgctxt ""
+"Get 100 or more Doras with Ron(s)/Tsumo(s) in Ranked room (including Ura "
+"Dora, Red Five, Kita)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|427c28386946191fb17d123ff22fd677"
+msgstr "단위전에서 도라(뒷도라, 적도라, 북도라 포함)를 포함하여 100번 이상 화료하기"
+
+#: AchievementAchievement.csv:231
+msgctxt "Dragon Rider 100"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|04de08e162fbd395883d1b072a40a1fb"
+msgstr "용기사100"
+
+#: AchievementAchievement.csv:229
+msgctxt ""
+"Get 13 or more Doras with one Ron/Tsumo in Ranked room (including Ura Dora, "
+"Red Five, Kita)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7a3fbcbb6392ca720e3d89f22749ff27"
+msgstr "단위전에서 도라(뒷도라, 적도라, 북도라 포함)를 13개 이상 포함하여 화료하기"
+
+#: AchievementAchievement.csv:228
+msgctxt ""
+"Get 12 or more Doras with one Ron/Tsumo in Ranked room (including Ura Dora, "
+"Red Five, Kita)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e8c76ad20559bfda8052cf5ef9f57d7d"
+msgstr "단위전에서 도라(뒷도라, 적도라, 북도라 포함)를 12개 이상 포함하여 화료하기"
+
+#: AchievementAchievement.csv:227
+msgctxt ""
+"Get 8 or more Doras with one Ron/Tsumo in Ranked room (including Ura Dora, "
+"Red Five, Kita)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|4098789dfa933a13612927e0694b9bb7"
+msgstr "단위전에서 도라(뒷도라, 적도라, 북도라 포함)를 8개 이상 포함하여 화료하기"
+
+#: AchievementAchievement.csv:226
+msgctxt ""
+"Get 4 or more Doras with one Ron/Tsumo in Ranked room (including Ura Dora, "
+"Red Five, Kita)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|741f11b8c3ba34fb486b0a6e55e280ad"
+msgstr "단위전에서 도라(뒷도라, 적도라, 북도라 포함)를 4개 이상 포함하여 화료하기"
+
+#: AchievementAchievement.csv:230
+msgctxt ""
+"Get 10 or more Doras with Ron(s)/Tsumo(s) in Ranked room (including Ura "
+"Dora, Red Five, Kita)"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7f95d77a33571c71dd76544ee35b1130"
+msgstr "단위전에서 도라(뒷도라, 적도라, 북도라 포함)를 포함하여 10번 이상 화료하기"
+
+#: AchievementAchievement.csv:230
+msgctxt "Dragon Observer"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7a17892dd9166c7f1a3077ee736dda19"
+msgstr "용의 관측자"
+
+#: AchievementAchievement.csv:47
+msgctxt "Achieve All Triplets in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d373bdaad4f9d2aa42ec71802db8f4cf"
+msgstr "단위전에서 [또이또이] 화료하기"
+
+#: AchievementAchievement.csv:47
+msgctxt "Pon-Pon-Pon Nyaa!"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|0c5f21e0bfba27f0f03e5635341948db"
+msgstr "퐁퐁퐁 냐!"
+
+#: AchievementAchievement.csv:46
+msgctxt "Achieve [Three Quads] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|afabaa5140cf1428b25e7e34d514ceed"
+msgstr "단위전에서 [산깡즈] 화료하기"
+
+#: AchievementAchievement.csv:46
+msgctxt "Chaotic Evil"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1324b73fba54ffde2f5cd7fddd2a0630"
+msgstr "혼란스럽게 해서 미안"
+
+#: AchievementAchievement.csv:45
+msgctxt "Achieve [Triple Triplets] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6ca6677be1e5a88c0a0c5d1b75515b13"
+msgstr "단위전에서 [삼색동각] 화료하기"
+
+#: AchievementAchievement.csv:44
+msgctxt "Achieve [Double Riichi] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2012edc2a9c625a66b2cc807aa6ebb02"
+msgstr "단위전에서 [더블 리치] 화료하기"
+
+#: AchievementAchievement.csv:44
+msgctxt "Compensation of Failing to Reach Yakuman"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|030e793b121ced35d4167322c2ce0b79"
+msgstr "역만 실패 아차상"
+
+#: AchievementAchievement.csv:43
+msgctxt "Achieve [Mixed Triple Sequence] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5f2116e498a2569546a4e6835c814a82"
+msgstr "단위전에서 [삼색동순] 화료하기"
+
+#: AchievementAchievement.csv:43
+msgctxt "It just Reads Fancy"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|6626e4548c58af5c7910280d4814fe0f"
+msgstr "발음이 멋있어"
+
+#: AchievementAchievement.csv:42
+msgctxt "Achieve [Pure Straight] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a9eab2898591c20a3d839120465b908a"
+msgstr "단위전에서 [일기통관] 화료하기"
+
+#: AchievementAchievement.csv:42
+msgctxt "☆123456789☆"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|cc73316d1aaec8239ee3063929e35185"
+msgstr "☆123456789☆"
+
+#: AchievementAchievement.csv:41
+msgctxt "Achieve [Half Outside Hand] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|07458059cc9d99b128768681b4f5b279"
+msgstr "단위전에서 [찬타] 화료하기"
+
+#: AchievementAchievement.csv:41
+msgctxt "Something Weird Sneaked In"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e8423aad3de79926d70a9f4f8c201eb3"
+msgstr "우리들 가운데 스파이가 있는 것 같아"
+
+#: AchievementAchievement.csv:40
+msgctxt "Achieve [Pinfu] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|2cd3fe2ab57b720345ef2e06f0e3eec8"
+msgstr "단위전에서 [핑후] 화료하기"
+
+#: AchievementAchievement.csv:40
+msgctxt "Inner Peace"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|130deac5297c49fdc05abea578fd77ff"
+msgstr "마음의 평화"
+
+#: AchievementAchievement.csv:39
+msgctxt "Achieve [Pure Double Sequence] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e3f092a8c5791c841666beca0de75bda"
+msgstr "단위전에서 [이페코] 화료하기"
+
+#: AchievementAchievement.csv:39
+msgctxt "Repeater"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d3b3350cb648f345b0a21a048df0cf45"
+msgstr "복사기"
+
+#: AchievementAchievement.csv:38
+msgctxt "Achieve [All Simples] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|676749fad7636cb0f0a03cfb398e79a5"
+msgstr "단위전에서 [탕야오] 화료하기"
+
+#: AchievementAchievement.csv:38
+msgctxt "All Simples Nyaa!"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|ac201b749a2fe24affa45e116ac36f52"
+msgstr "탕야오 냐!"
+
+#: AchievementAchievement.csv:37
+msgctxt "Achieve [Prevalent Wind] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|780a7f35c13bfda681ed3f2e7f714b49"
+msgstr "단위전에서 [장풍패] 화료하기"
+
+#: AchievementAchievement.csv:37
+msgctxt "Four-Direction Traveler"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7ee341e0065f8cc8dc7274c27ab5e8fe"
+msgstr "사방의 나그네"
+
+#: AchievementAchievement.csv:36
+msgctxt "Achieve [Seat Wind] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|3f17a0413637e06b74baca8ee9ab8ed4"
+msgstr "단위전에서 [자풍패] 화료하기"
+
+#: AchievementAchievement.csv:36
+msgctxt "One-Direction Traveler"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|324bda92c50c7bf669d101cb1bb3f84b"
+msgstr "일방통행"
+
+#: AchievementAchievement.csv:34
+msgctxt "Achieve [Dragons: Green] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|dc35eace7bb1fb8003cb4811f96f7e7d"
+msgstr "단위전에서 [역패: 발] 화료하기"
+
+#: AchievementAchievement.csv:35
+msgctxt "Achieve [Dragons: Red] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|90437f675bd2f15a07f3550f6e2cabb8"
+msgstr "단위전에서 [역패: 중] 화료하기"
+
+#: AchievementAchievement.csv:33
+msgctxt "Achieve [Dragons: White] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|dec6578e627aa795092e9bbc648a9fb8"
+msgstr "단위전에서 [역패: 백] 화료하기"
+
+#: AchievementAchievement.csv:32
+msgctxt "Achieve [Under the River] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|85ffe3f5feafad9fd8b002a6bb8981ed"
+msgstr "단위전에서 [하저로어] 화료하기"
+
+#: AchievementAchievement.csv:31
+msgctxt "Achieve [Under the Sea] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|29760311208b0ba950b3258723ed84f1"
+msgstr "단위전에서 [해저로월] 화료하기"
+
+#: AchievementAchievement.csv:32
+msgctxt "Tasty Fish Swim Under the River"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4402bd431f78c33b473616339d5b4315"
+msgstr "맛있는 물고기는 깊은 강물 아래에"
+
+#: AchievementAchievement.csv:31
+msgctxt "The Round Moon Lies Under the Sea"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|df683198b7644cdc1c0dfe4f0a77be52"
+msgstr "바다 아래에 비치는 아름다운 달빛"
+
+#: AchievementAchievement.csv:30
+msgctxt "Achieve [After a Kan] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d0570778eb8d5dba57e53f5d6ec1ec9f"
+msgstr "단위전에서 [영상개화] 화료하기"
+
+#: AchievementAchievement.csv:30
+msgctxt "The Unreachable Flower"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7b5b45f18eb0eab497b518c86e6db5d2"
+msgstr "절벽 위의 꽃"
+
+#: AchievementAchievement.csv:29
+msgctxt "Achieve [Robbing a Kan] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|eda1301a8876e11e65876b12f762d287"
+msgstr "단위전에서 [창깡] 화료하기"
+
+#: AchievementAchievement.csv:29
+msgctxt "This Kan is not applicable!"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d8cf9b7c8047df9f478ccf573be7b870"
+msgstr "그 깡은 성립하지 않아!"
+
+#: AchievementAchievement.csv:27
+msgctxt "Achieve [Fully Concealed Hand] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e056db04b6b113b0004cc93e9611e234"
+msgstr "단위전에서 [멘젠쯔모] 화료하기"
+
+#: AchievementAchievement.csv:28
+msgctxt "Achieve [Riichi] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a3368be76695cd483b4f49ae0fc8d823"
+msgstr "단위전에서 [리치] 화료하기"
+
+#: AchievementAchievement.csv:28
+msgctxt "Declaration of War"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|48b6bc0151f8a426d6b8ec6fc184308f"
+msgstr "선전포고"
+
+#: AchievementAchievement.csv:27
+msgctxt "No Help Needed"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7119c623372c1f46d6180ec9e74f1d9c"
+msgstr "자신의 일은 스스로 하자"
+
+#: AchievementAchievement.csv:26
+msgctxt "Three Enclosures - Undefeated Legend"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d43e6020f2994bd3abc259de1e765f35"
+msgstr "삼원 - 무패의 전설"
+
+#: AchievementAchievement.csv:25
+msgctxt "Three Enclosures - Careful Observation"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|37b343b7148661843ebde07ce8125cb2"
+msgstr "삼원 - 상황파악"
+
+#: AchievementAchievement.csv:24
+msgctxt "Win top 2 places once in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b8ba12d705628d8e3590ed8b33629b6e"
+msgstr "3인 단위전에서 2위 이상 1번 달성하기"
+
+#: AchievementAchievement.csv:24
+msgctxt "Three Enclosures - Retreat to Win"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|12a86ef310251cef6e8a2213a907d638"
+msgstr "삼원 - 삼십육계 줄행랑"
+
+#: AchievementAchievement.csv:23
+msgctxt "Three Enclosures - On a Roll"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|02cd711da76dbec692ea19dc451ad4bf"
+msgstr "삼원 - 절호조"
+
+#: AchievementAchievement.csv:22
+msgctxt "Three Enclosures - Unstoppable Force"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|bf2ba1617488881c07cd4f2af4c10d74"
+msgstr "삼원 - 파죽지세"
+
+#: AchievementAchievement.csv:21
+msgctxt "Win 1st place once in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e360d9c701e5df2bd81594c7158a1ac7"
+msgstr "3인 단위전에서 1위 1번 달성하기"
+
+#: AchievementAchievement.csv:21
+msgctxt "Three Enclosures - Start with Winning"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|0894454dcab8f8c567da33fb4df6930e"
+msgstr "삼원 - 신진기예"
+
+#: AchievementAchievement.csv:20
+msgctxt "Four Symbols - Undefeated Legend"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|d16258f5579aaf4a1b80b06eacb09f1e"
+msgstr "사상 - 무패의 전설"
+
+#: AchievementAchievement.csv:19
+msgctxt "Four Symbols - Careful Observation"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|fcf40de3707326e4b787ecd6a8b7f23c"
+msgstr "사상 - 상황파악"
+
+#: AchievementAchievement.csv:18
+msgctxt "Win top 3 places once in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|efbd0c2343f48f077941782a43f314bb"
+msgstr "4인 단위전에서 3위 이상 1번 달성하기"
+
+#: AchievementAchievement.csv:18
+msgctxt "Four Symbols - Retreat to Win"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1e48ea88bbf2e8fd2adf233251e61703"
+msgstr "사상 - 삼십육계 줄행랑"
+
+#: AchievementAchievement.csv:17
+msgctxt "Four Symbols - Victorious General"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8f2b80cadd7de9d409c887156a9e5aab"
+msgstr "사상 - 상승장군"
+
+#: AchievementAchievement.csv:16
+msgctxt "Four Symbols - Too Easy"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e2478b9cead46b264551a7983e8b2fde"
+msgstr "사상 - 여유작작"
+
+#: AchievementAchievement.csv:15
+msgctxt "Win top 2 places once in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a266205da66e508eef9c8c0b3911df4e"
+msgstr "4인 단위전에서 2위 이상 1번 달성하기"
+
+#: AchievementAchievement.csv:15
+msgctxt "Four Symbols - Perfect Defense"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|3c2967bcb210388c528a2c747622a4e6"
+msgstr "사상 - 승리의 정석"
+
+#: AchievementAchievement.csv:14
+msgctxt "Four Symbols - On a Roll"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|9efd58dd8beb3c312c15e8f1b0758744"
+msgstr "사상 - 절호조"
+
+#: AchievementAchievement.csv:13
+msgctxt "Four Symbols - Unstoppable Force"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e8ebece32217d0a35214dc439bac536a"
+msgstr "사상 - 파죽지세"
+
+#: AchievementAchievement.csv:12
+msgctxt "Win 1st place once in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|48d4f94ca5cab26e0061d00eec5751eb"
+msgstr "4인 단위전에서 1위 1번 달성하기"
+
+#: AchievementAchievement.csv:12
+msgctxt "Four Symbols - Start with Winning"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|0784b5b3653794fe4388fbd591acb921"
+msgstr "사상 - 신진기예"
+
+#: AchievementAchievement.csv:11
+msgctxt "Achieve Celestial in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|eba18253f4d5ab0a01f8b724cbb80b13"
+msgstr "3인 단위전에서 혼천 달성하기"
+
+#: AchievementAchievement.csv:11
+msgctxt "☆Three Elements into One☆"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|2105fe5ca80fae67538588eae2bbadf3"
+msgstr "☆삼원귀일☆"
+
+#: AchievementAchievement.csv:10
+msgctxt "Achieve Saint 1 in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|106058616bb55ea0e4b75e1c26b331f8"
+msgstr "3인 단위전에서 작성 1 달성하기"
+
+#: AchievementAchievement.csv:10
+msgctxt "Three Enclosures - Throne Battle"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|060a6b650e813fd26e3a301f838e6e92"
+msgstr "삼원 - 왕좌의 격투"
+
+#: AchievementAchievement.csv:9
+msgctxt "Achieve Master 1 in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|05b8eab207147bde56aa04a0e786d19d"
+msgstr "3인 단위전에서 작호 1 달성하기"
+
+#: AchievementAchievement.csv:9
+msgctxt "Three Enclosures - Jade Trial"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|5f43004e0b90ca78e14edd5e4bea0102"
+msgstr "삼원 - 청옥의 시련"
+
+#: AchievementAchievement.csv:8
+msgctxt "Achieve Expert 1 in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5cca994b96c9b3b21a13764f7ec0c8cc"
+msgstr "3인 단위전에서 작걸 1 달성하기"
+
+#: AchievementAchievement.csv:8
+msgctxt "Three Enclosures - Gold Progress"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4c1eb4510e556dec60086919e33059d0"
+msgstr "삼원 - 금빛 전진"
+
+#: AchievementAchievement.csv:7
+msgctxt "Achieve Adept 1 in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f25ffb644ee76a9ee7b81b3ad740f17f"
+msgstr "3인 단위전에서 작사 1 달성하기"
+
+#: AchievementAchievement.csv:7
+msgctxt "Three Enclosures - Silver Start"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|15db1a605de4425060497db01cc76976"
+msgstr "삼원 - 백은의 시작"
+
+#: AchievementAchievement.csv:6
+msgctxt "Achieve Celestial in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|4423ba90cb924f7de7a60be0be56bcf9"
+msgstr "4인 단위전에서 혼천 달성하기"
+
+#: AchievementAchievement.csv:6
+msgctxt "☆Unity of Four Symbols☆"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|884e9e634c3b1e3bbb5ae61d7ab27044"
+msgstr "☆사방통일☆"
+
+#: AchievementAchievement.csv:5
+msgctxt "Achieve Saint 1 in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7d16406244b17710e16cee791098bd62"
+msgstr "4인 단위전에서 작성 1 달성하기"
+
+#: AchievementAchievement.csv:5
+msgctxt "Four Symbols - Throne Battle"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|a69f1aae1b958d8ba6e89c28252cba62"
+msgstr "사상 - 왕좌의 격투"
+
+#: AchievementAchievement.csv:4
+msgctxt "Achieve Master 1 in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a4910fde9752ffd761eeac4e88e2815f"
+msgstr "4인 단위전에서 작호 1 달성하기"
+
+#: AchievementAchievement.csv:4
+msgctxt "Four Symbols - Jade Trial"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|9beb7d422b5860816b4387607bf4983d"
+msgstr "사상 - 청옥의 시련"
+
+#: AchievementAchievement.csv:3
+msgctxt "Achieve Expert 1 in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|73c4916c4189030d34670ed01dc2d9f1"
+msgstr "4인 단위전에서 작걸 1 달성하기"
+
+#: AchievementAchievement.csv:3
+msgctxt "Four Symbols - Gold Progress"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|0a2e1595c45f4fb75642bd9ded3d85d9"
+msgstr "사상 - 금빛 전진"
+
+#: AchievementAchievement.csv:2
+msgctxt "Achieve Adept 1 in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d16fc5b00e43cd930dccdd393ffbc562"
+msgstr "4인 단위전에서 작사 1 달성하기"
+
+#: AchievementAchievement.csv:2
+msgctxt "Four Symbols - Silver Start"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1236813d18cace2c722194a6cbf14c89"
+msgstr "사상 - 백은의 시작"
