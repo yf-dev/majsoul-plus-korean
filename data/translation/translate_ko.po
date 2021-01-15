@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020, 2021.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-14 12:47+0000\n"
+"PO-Revision-Date: 2021-01-15 06:28+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -68060,3 +68060,293 @@ msgid ""
 msgstr ""
 "일반적으로 주인님의 손패가 4개의 슌쯔 또는 커쯔 + 1개의 또이츠로 만들어지면 이길 준비가 된거다냐! 물론 리치 마작에서 승리를 "
 "선언하려면 다른 조건이 있긴 하다냥. 이건 조금 뒤에 설명할거다냐!"
+
+#: AchievementAchievement.csv:205
+msgctxt "Complete 10 Friendly Matches"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d85768231599f41a14119b26756b02c7"
+msgstr "친선전 10회 완료하기"
+
+#: AchievementAchievement.csv:105
+msgctxt "Achieve all kinds of 3 - 6 Han Yaku in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|37837e38186c6c5a2f6b9b3cd5f9a610"
+msgstr "단위전에서 3-6판 역을 종류별로 모두 화료하기"
+
+#: AchievementAchievement.csv:104
+msgctxt "Achieve all kinds of 2 Han Yaku in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b0b5aa72c2b6bf401a5db70c76d0a999"
+msgstr "단위전에서 2판 역을 종류별로 모두 화료하기"
+
+#: AchievementAchievement.csv:103
+msgctxt "Achieve all kinds of 1 Han Yaku in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a017bc9b53e78eeea15a47f79371b4d4"
+msgstr "단위전에서 1판 역을 종류별로 모두 화료하기"
+
+#: AchievementAchievement.csv:66
+msgctxt "Inner Calm"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|bfcffbb81f77ea3e2ff7db982c9e3734"
+msgstr "심신의 평화"
+
+#: AchievementAchievement.csv:47
+msgctxt "Achieve [All Triplets] in Ranked room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|0c899a06b116715c3720375593ce2bfd"
+msgstr "단위전에서 [또이또이] 화료하기"
+
+#: ui_en.json
+msgctxt "等待其他玩家确认..."
+msgid "json|mj/match_confirm|1|0e119e6e93c6d724ea80c11ed9ea4b05"
+msgstr "等待其他玩家确认..."
+
+#: ui_en.json
+msgctxt "确定"
+msgid "json|mj/match_confirm|0|3|38cf16f2204ffab8a6e0187070558721"
+msgstr "确定"
+
+#: ui_en.json
+msgctxt "(3)"
+msgid "json|mj/match_confirm|0|2|38560d3d403d928e8b6a1e4e8f9e93e1"
+msgstr "(3)"
+
+#: ui_en.json
+msgctxt "Exchanging"
+msgid "json|mj/huansanzhang_changetype|0|0|ffbf937dd4f4e05df63ab5891384b14d"
+msgstr "교환 중"
+
+#: ui_en.json
+msgctxt "Please choose 3 tiles in Hand to exchange"
+msgid "json|mj/huansanzhang|2|93f54af0c0389c381c4f63420fe1e93f"
+msgstr "교환할 손패 3개를 선택하세요"
+
+#: ui_en.json
+msgctxt "(Faith), as well as all-new characters and decorations"
+msgid "json|lobby/treasure|4|6|1|47be30f42361f946252d782fa39f231f"
+msgstr ")과 새로운 캐릭터와 장식을 얻을 수 있습니다"
+
+#: ui_en.json
+msgctxt "Each time you summon, you can get 1"
+msgid "json|lobby/treasure|4|6|0|4bff031238548fac07b2443c6deba794"
+msgstr "당신은 1번 기원할 때 마다 1개의 신앙("
+
+#: ui_en.json
+msgctxt "Available"
+msgid "json|lobby/treasure|4|5|2|1|78945de8de090e90045d299651a68a9b"
+msgstr "사용가능"
+
+#: ui_en.json
+msgctxt "Available"
+msgid "json|lobby/treasure|0|8|3|0|2|1|78945de8de090e90045d299651a68a9b"
+msgstr "사용가능"
+
+#: ui_en.json
+msgctxt "Summon Once"
+msgid "json|lobby/treasure|0|1|6|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
+msgstr "1회 기원"
+
+#: ui_en.json
+msgctxt "Summon 10 Times"
+msgid "json|lobby/treasure|0|0|6|0|a90a723e5e0a2a55af1842730b439df8"
+msgstr "10회 기원"
+
+#: ui_en.json
+msgctxt "Path of Trial"
+msgid ""
+"json|lobby/playerinfo_en|1|5|7|1|8|0|0|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
+
+#: ui_en.json
+msgctxt "Path of Trial"
+msgid "json|lobby/playerinfo|1|5|7|1|8|0|0|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
+
+#: StrStr.csv:1284
+msgctxt "Event Match"
+msgid "sheet|StrStr.csv|en|d97f31fd695c04623859aef5ff3b6f57"
+msgstr "이벤트전"
+
+#: ui_en.json
+msgctxt "Event Match"
+msgid "json|lobby/playerinfo_en|1|5|6|3|0|d97f31fd695c04623859aef5ff3b6f57"
+msgstr "이벤트전"
+
+#: ui_en.json
+msgctxt "Event Match"
+msgid "json|lobby/playerinfo|1|5|6|3|0|d97f31fd695c04623859aef5ff3b6f57"
+msgstr "이벤트전"
+
+#: ui_en.json
+msgctxt "100%"
+msgid "json|lobby/achievement|3|0|0|2|2|30bd7ce7de206924302499f197c7a966"
+msgstr "100%"
+
+#: ui_en.json
+msgctxt "累计登录天数"
+msgid "json|lobby/achievement|3|0|0|2|1|fca87348fab2ea6a9bf78ee0250531bd"
+msgstr "累计登录天数"
+
+#: ui_en.json
+msgctxt "Close"
+msgid "json|hesu/hesu_rules|2|2|1|1|d3d2e617335f08df83599665eef8a418"
+msgstr "닫기"
+
+#: ui_en.json
+msgctxt "Skip"
+msgid "json|hesu/hesu_rules|2|2|0|1|72ef2b9b6965d078e3c7f95487a82d1c"
+msgstr "넘어가기"
+
+#: ui_en.json
+msgctxt "Previous page"
+msgid "json|hesu/hesu_rules|2|1|1|16ded2dc32322d80ce2362a47f4d7ef4"
+msgstr "이전 페이지"
+
+#: ui_en.json
+msgctxt "Got it"
+msgid "json|hesu/hesu_rules|2|0|2|0|78e981599281c16fe016b55b136edf5f"
+msgstr "알겠습니다"
+
+#: ui_en.json
+msgctxt "Next page"
+msgid "json|hesu/hesu_rules|2|0|1|1|374bea6cf8bd1e8fd64570b629cc6562"
+msgstr "다음 페이지"
+
+#: ui_en.json
+msgctxt ""
+"No Rank Limit\r\n"
+"No Rank PT"
+msgid "json|hesu/hesu_rules|1|0|3|2|2|7fef13fd037087db4ba2f735440359ca"
+msgstr ""
+"등급 제한 없음\n"
+"등급 포인트 변동 없음"
+
+#: ui_en.json
+msgctxt "Get Coppers"
+msgid "json|hesu/hesu_rules|1|0|3|1|2|456fc50100ce5e6c05a815d4301bc9c8"
+msgstr "동전 받기"
+
+#: ui_en.json
+msgctxt "Get Taiyakis"
+msgid "json|hesu/hesu_rules|1|0|3|0|2|fe708dbe7a5c460294bfbf00030f96d9"
+msgstr "붕어빵 받기"
+
+#: ui_en.json
+msgctxt "Level Up"
+msgid "json|hesu/hesu|7|0|4|5|3|acfb25841f51fd9d99af1113c11085c0"
+msgstr "레벨 업"
+
+#: ui_en.json
+msgctxt "Donate"
+msgid "json|hesu/hesu|7|0|4|5|0|0584e445d656b83b431227bb80ff0c30"
+msgstr "기부"
+
+#: ui_en.json
+msgctxt "Donate"
+msgid "json|hesu/hesu|7|0|4|4|3|0584e445d656b83b431227bb80ff0c30"
+msgstr "기부"
+
+#: StrStr.csv:1168
+msgctxt "Max Wishing level reached"
+msgid "sheet|StrStr.csv|en|6fe5d6ce6d0efbdf36025fe1c36dad55"
+msgstr "최대 기도 레벨에 도달했습니다"
+
+#: ui_en.json
+msgctxt "Max Wishing level reached"
+msgid "json|hesu/hesu|7|0|4|6|0|6fe5d6ce6d0efbdf36025fe1c36dad55"
+msgstr "최대 기도 레벨에 도달했습니다"
+
+#: ui_en.json
+msgctxt "Max Wishing level reached"
+msgid "json|hesu/hesu|7|0|3|6|0|6fe5d6ce6d0efbdf36025fe1c36dad55"
+msgstr "최대 기도 레벨에 도달했습니다"
+
+#: ui_en.json
+msgctxt "Level Up"
+msgid "json|hesu/hesu|7|0|3|5|3|acfb25841f51fd9d99af1113c11085c0"
+msgstr "레벨 업"
+
+#: ui_en.json
+msgctxt "Donate"
+msgid "json|hesu/hesu|7|0|3|5|0|0584e445d656b83b431227bb80ff0c30"
+msgstr "기부"
+
+#: ui_en.json
+msgctxt "Donate"
+msgid "json|hesu/hesu|7|0|3|4|3|0584e445d656b83b431227bb80ff0c30"
+msgstr "기부"
+
+#: ui_en.json
+msgctxt "Max Wishing level reached"
+msgid "json|hesu/hesu|7|0|2|6|0|6fe5d6ce6d0efbdf36025fe1c36dad55"
+msgstr "최대 기도 레벨에 도달했습니다"
+
+#: ui_en.json
+msgctxt "Level Up"
+msgid "json|hesu/hesu|7|0|2|5|3|acfb25841f51fd9d99af1113c11085c0"
+msgstr "레벨 업"
+
+#: ui_en.json
+msgctxt "Donate"
+msgid "json|hesu/hesu|7|0|2|5|0|0584e445d656b83b431227bb80ff0c30"
+msgstr "기부"
+
+#: ui_en.json
+msgctxt "Donate"
+msgid "json|hesu/hesu|7|0|2|4|3|0584e445d656b83b431227bb80ff0c30"
+msgstr "기부"
+
+#: ui_en.json
+msgctxt "Remaining"
+msgid "json|hesu/hesu|6|0|3|0|1|6|0|5a1119ecb764165f27cb37b6f50134f2"
+msgstr "잔여"
+
+#: ui_en.json
+msgctxt "Redeem"
+msgid "json|hesu/hesu|6|0|3|0|1|3|1|81ed4dcb851fefbbbc791eeef4cd97a2"
+msgstr "교환"
+
+#: ui_en.json
+msgctxt "Price:"
+msgid "json|hesu/hesu|6|0|3|0|1|1|f2c12ae14393ffc83551d56f32bb03cc"
+msgstr "가격:"
+
+#: ui_en.json
+msgctxt "Claimed"
+msgid "json|hesu/hesu|5|0|5|0|1|7|2|9d8b15ef78357692564f5aced0c68eaf"
+msgstr "받음"
+
+#: ui_en.json
+msgctxt ")"
+msgid "json|hesu/hesu|5|0|5|0|1|3|9371d7a2e3ae86a00aab4771e39d255d"
+msgstr ")"
+
+#: ui_en.json
+msgctxt "Hot Spring Camp"
+msgid "json|hesu/hesu|1|2|4f25017910f31e32c51f94b5aeb999b7"
+msgstr "온천 합숙"
+
+#: ui_en.json
+msgctxt "Event Match"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|6|3|0|d97f31fd695c04623859aef5ff3b6f57"
+msgstr "이벤트전"
+
+#: ui_en.json
+msgctxt "Path of Trial"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|5|1|8|0|0|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
+
+#: ui_en.json
+msgctxt "Path of Trial"
+msgid ""
+"json|both_ui/otherplayerinfo|0|2|6|1|8|0|0|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
+
+#: ui_en.json
+msgctxt "Event Match"
+msgid ""
+"json|both_ui/otherplayerinfo|0|2|5|3|0|d97f31fd695c04623859aef5ff3b6f57"
+msgstr "이벤트전"
