@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-15 00:39:51\n"
+"PO-Revision-Date: 2021-01-15 06:27:42\n"
 "Language: zh-CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -107315,9 +107315,10 @@ msgid ""
 msgstr "大厅交互语音1"
 
 #: VoiceSound.csv:3958
-msgctxt "Why did Saki and I become friends? She is good... and... incredible…"
+msgctxt ""
+"Why did Saki and I become friends? She is good... and... Incredible..."
 msgid ""
-"sheet|VoiceSound.csv|words_en(audio/sound/yuancunhe/lobby_normal1)|83662f930fd8fb2b098a67c2f3ea67a0"
+"sheet|VoiceSound.csv|words_en(audio/sound/yuancunhe/lobby_normal1)|901b5248bba8036aefca32eb1968bd12"
 msgstr "为何会跟小咲交好？她很强，而且……是个很不可思议的人……"
 
 #: VoiceSound.csv:3959

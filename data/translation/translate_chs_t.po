@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-15 00:39:51\n"
+"PO-Revision-Date: 2021-01-15 06:27:42\n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -52477,7 +52477,7 @@ msgstr "/"
 #: StrStr.csv:332
 msgctxt "Ranked Match"
 msgid "sheet|StrStr.csv|en|76e1ad3f9b76ba224adc3f89dc021fbe"
-msgstr "配對場"
+msgstr "段位場"
 
 #: StrStr.csv:333
 msgctxt "Recent High Score"
@@ -107139,9 +107139,10 @@ msgid ""
 msgstr "大廳交互語音1"
 
 #: VoiceSound.csv:3958
-msgctxt "Why did Saki and I become friends? She is good... and... incredible…"
+msgctxt ""
+"Why did Saki and I become friends? She is good... and... Incredible..."
 msgid ""
-"sheet|VoiceSound.csv|words_en(audio/sound/yuancunhe/lobby_normal1)|83662f930fd8fb2b098a67c2f3ea67a0"
+"sheet|VoiceSound.csv|words_en(audio/sound/yuancunhe/lobby_normal1)|901b5248bba8036aefca32eb1968bd12"
 msgstr "為何會跟小咲交好？她很強，而且……是個很不可思議的人……"
 
 #: VoiceSound.csv:3959
