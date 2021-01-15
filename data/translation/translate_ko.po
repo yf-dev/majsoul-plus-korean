@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020, 2021.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-15 06:28+0000\n"
+"PO-Revision-Date: 2021-01-15 08:08+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -68350,3 +68350,1057 @@ msgctxt "Event Match"
 msgid ""
 "json|both_ui/otherplayerinfo|0|2|5|3|0|d97f31fd695c04623859aef5ff3b6f57"
 msgstr "이벤트전"
+
+#: ItemDefinitionSkin.csv:86
+msgctxt ""
+"Snowy New Year Exclusive\\n\"Ta-da! Hot and fresh New Year Kirara. As you "
+"can see, traditional clothes can also be stylish on Kirara!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|a5129294fbb849b4f6a5c21d683029c6"
+msgstr ""
+"눈덮인 새해 한정\\n"
+"\"짜잔! 핫이슈인 상큼한 새해 키라라야. 기모노 패션도 키라라에게는 이렇게 스타일리시하지!\""
+
+#: ItemDefinitionSkin.csv:85
+msgctxt "\"Look at me! Cheers—yeah! This photo marks our first date!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|ebeb01850b5be8dba9d849ad0975b0e9"
+msgstr "\"여기 봐! 치즈- 예이! 첫 데이트 기념 사진 GET!\""
+
+#: ItemDefinitionSkin.csv:77
+msgctxt ""
+"Snowy Night Whisper Exclusive\\n\"While preparing Christmas gifts for the "
+"kids, I've also prepared yours! Take a seat here. I can't wait to see you "
+"unbox it.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|2e6f86ee0cc79037fb3bb72ef796097a"
+msgstr ""
+"성야의 속삭임 한정\\n"
+"\"아이들을 위한 크리스마스 선물을 준비하면서 하나 챙겨뒀단다. 이쪽으로 와서 앉아보렴. 선물을 열어보는 거 보고싶어.\""
+
+#: ItemDefinitionSkin.csv:89
+msgctxt "Snowy Night Whisper"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|85e341ebd79809d011cac102b59570d4"
+msgstr "성야의 속삭임"
+
+#: ItemDefinitionSkin.csv:72
+msgctxt ""
+"Snowy New Year Exclusive\\n\"Happy New Year! My friend. Never have I "
+"expected that one would like a gentleman in traditional Japanese clothes.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|94e4256508216c9653b749f18d823154"
+msgstr ""
+"눈덮인 새해 한정\\n"
+"\"Happy New Year! My friend. 의외로 신사적인 느낌이 드는 복장이군.\""
+
+#: ItemDefinitionSkin.csv:67
+msgctxt ""
+"Beach Party Exclusive\\n\"Alright, here's the deal! If Haruna wins the "
+"water-gun fight, you will treat Haruna to 10 ice pops today!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|bfc6bb342c294180d51dffc73f34cda3"
+msgstr ""
+"비치 파티 한정\\n"
+"\"좋아, 하루나가 물총 싸움해서 이기면, 하루나한테 아이스크림 10개 사주는거야!\""
+
+#: ItemDefinitionSkin.csv:62
+msgctxt ""
+"Beach Party Exclusive\\n\"Soon, I'll be able to swim here as much as I want."
+" Just this thought alone makes me full of energy to start cleaning.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|a3bf9cb0ab3fa88b96e7411561d6ca6a"
+msgstr ""
+"비치 파티 한정\\n"
+"\"곧 여기서 수영을 마음껏 할 수 있을 거라 생각하니까 청소에 의욕이 넘쳐.\""
+
+#: ItemDefinitionSkin.csv:56
+msgctxt ""
+"New Year's First Visit Exclusive\\n\"Here's a dance that I learned "
+"specifically for the New Year.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|c8c59e6ca7f7b3c4d011791d1fc2bbff"
+msgstr ""
+"새해 첫 참배 한정\\n"
+"\"새해를 맞이하기 위해 특별히 배운 춤인데, 마음에 드시나요?\""
+
+#: ItemDefinitionSkin.csv:53
+msgctxt ""
+"Limited Outfit from Summer Festival - Beach Party event\\n\"Apart from "
+"staying at home reading novels, I do occasionally go out!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|87e6437bf6a6a6595ba3eb9057568aae"
+msgstr ""
+"비치 파티 한정 의상\\n"
+"\"매일 집에서 소설을 읽지는 않고, 가끔씩은 밖에서 보내요!\""
+
+#: ItemDefinitionSkin.csv:50
+msgctxt ""
+"Halloween Party Exclusive\\n\"Good evening, Hideki Akechi, the messenger "
+"with dark wings, has come to greet you to that moonlit country with me.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|93fd9a04e6ae341e237ad572f674b518"
+msgstr ""
+"할로윈 파티 한정\\n"
+"\"안녕하신가요, 검은 날개의 사자 아케치 히데키, 당신을 마중 나왔답니다. 달빛 가득한 그 나라에 저와 함께 가는 것을 마다하지 "
+"않으시겠죠?\""
+
+#: ItemDefinitionSkin.csv:36
+msgctxt ""
+"Beach Party Exclusive\\n\"No matter what country it is, everyone loves the "
+"sea just the same. Well, I think you will also love my sandwiches and tea!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|4c9b794bda596cf669adeb3f8a1f135f"
+msgstr ""
+"비치 파티 한정\\n"
+"\"어느 나라에서나 바다를 좋아하는 마음이 같은가보네요. 그렇다면 제가 준비한 샌드위치와 홍차도 좋아할 거라고 생각해요.\""
+
+#: ItemDefinitionSkin.csv:32
+msgctxt ""
+"Snowy New Year Exclusive\\n\"And one more stroke! Try harder, or your face "
+"will be covered by ink. Well, if you beg for mercy, I might consider going "
+"easy on you.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|ceeef8f1caca4ddf39b7091900df80aa"
+msgstr ""
+"눈덮인 새해 한정\\n"
+"\"자, 한획 더! 더 열심히 하지 않으면 얼굴이 잉크로 뒤덮히고 말거에요. 간절히 부탁하면 봐줄지도 모르죠.\""
+
+#: ItemDefinitionSkin.csv:86
+msgctxt "Snowy New Year"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|3bf1604957d4650f9d5946efdc991bc3"
+msgstr "눈덮인 새해"
+
+#: ItemDefinitionSkin.csv:28
+msgctxt "Halloween Party Exclusive\\n \"Go, butterflies--Bring that person to me.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|3b383367a63fbbf1475e9b6ef57adf43"
+msgstr ""
+"할로윈 파티 한정\\n"
+"\"가라 나비들아- 그 사람을 내 앞으로 데려와 줘.\""
+
+#: ItemDefinitionSkin.csv:18
+msgctxt ""
+"Beach Party Exclusive\\n\"Even a commoner like you can have a great taste "
+"sometimes. I... can allow you to take one photo of me. Hmph!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|9c7315856393a3430c06bb7ee9c99151"
+msgstr ""
+"비치 파티 한정\\n"
+"\"서민 취향도 가끔은 괜찮은 걸... 특별히 사진 한 장 찍게 해주지. 흥!\""
+
+#: ItemDefinitionSkin.csv:47
+msgctxt "Christmas Carnival"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|fd3de4c64506f8a6b63046c4b4a18e5f"
+msgstr "크리스마스 축제"
+
+#: ItemDefinitionSkin.csv:7
+msgctxt ""
+"New Year's First Visit Exclusive\\n\" I'm busy trying out the food for "
+"everybody, of course. This is the most important task-nya!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|4daef705e2a9b83d3dfd50f9dc49d5ba"
+msgstr ""
+"새해 첫 참배 이벤트 한정\\n"
+"\"주인님, 도와달라냥. 신사 일이 너무 바쁘다냐... 냐앙? 당연히 음식 맛 좀 봐주느라 바쁘다냐!\""
+
+#: ItemDefinitionSkin.csv:56
+msgctxt "New Year's First Visit"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|93043c2bd4bf8905538f33a8a4fc93c7"
+msgstr "새해 첫 참배"
+
+#: ItemDefinitionItem.csv:263
+msgctxt ""
+"It is said that anyone with this miraculous penguin can become stronger!\n"
+"(Tap Dorm - Decoration to equip)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|2696c416d6b5c56de279df81ca6ff898"
+msgstr ""
+"안고 있으면 강해진다는 소문의 펭귄.\n"
+"(숙소 - 장식에서 장착 가능)"
+
+#: ItemDefinitionItem.csv:263
+msgctxt "Tile Back - Etopen"
+msgid "sheet|ItemDefinitionItem.csv|name_en|dc6a539e3944c28d95d5e7cd6e71f993"
+msgstr "마작패 - 에토펭"
+
+#: ItemDefinitionItem.csv:262
+msgctxt ""
+"Indulge yourself in the peacefulness and relaxation at this moment.\n"
+"(Tap Dorm - Decoration to equip)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|b0a54a9df4e1c0be86042aa9695399de"
+msgstr ""
+"대국간의 휴식, 조용히 지켜봅시다.\n"
+"(숙소 - 장식에서 장착 가능)"
+
+#: ItemDefinitionItem.csv:262
+msgctxt "Tablecloth - Cozy Nest"
+msgid "sheet|ItemDefinitionItem.csv|name_en|3fbb9e77ad6a58f65858eaee2c20a152"
+msgstr "테이블보 - 휴식"
+
+#: ItemDefinitionItem.csv:261
+msgctxt ""
+"I was born for Taco. I cannot live without it!\n"
+"(Tap Dorm - Decoration to equip)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|22b990f0272ff101b13702a8e8e542eb"
+msgstr ""
+"나는 타코별 사람인 걸, 타코를 먹을 수 밖에 없지!\n"
+"(숙소 - 장식에서 장착 가능)"
+
+#: ItemDefinitionItem.csv:261
+msgctxt "Riichi Bet - Taco"
+msgid "sheet|ItemDefinitionItem.csv|name_en|107122b47c162d46853b79d3b77d7e50"
+msgstr "리치 봉 - 타코"
+
+#: ItemDefinitionItem.csv:260
+msgctxt ""
+"With the glow of the moon, the flower blooms magnificently.\n"
+"(Tap Dorm - Decoration to equip)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|bc71854f8ca59da2e88820f58a869925"
+msgstr ""
+"늠름한 고산의 꽃, 바다 위로 떠오르는 달과 같이 피어나다.\n"
+"(숙소 - 장식에서 장착 가능)"
+
+#: ItemDefinitionItem.csv:260
+msgctxt "Riichi - Full Moon"
+msgid "sheet|ItemDefinitionItem.csv|name_en|dbeeadeb81a17f86c8654388434c8ac2"
+msgstr "리치 - 화천월지"
+
+#: ItemDefinitionItem.csv:259
+msgctxt ""
+"Look! Tiles are dancing with the lightning and thunder!\n"
+"(Tap Dorm - Decoration to equip)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|c4662520b37a1f8077b0da5ac591a0db"
+msgstr ""
+"패는 춤을 추며 천둥소리가 울려 퍼지는 폭풍우 속으로.\n"
+"(숙소 - 장식에서 장착 가능)"
+
+#: ItemDefinitionItem.csv:259
+msgctxt "Winning - Thunderball"
+msgid "sheet|ItemDefinitionItem.csv|name_en|e805195b77e441674c8a745c6ff9ccf2"
+msgstr "승리 - 토네이도"
+
+#: ItemDefinitionItem.csv:258
+#, fuzzy
+msgctxt "2022年1月31日まで"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|f3641379df20dc14c21aabe7bd0e9112"
+msgstr "2022年1月31日まで"
+
+#: ItemDefinitionItem.csv:258
+#, fuzzy
+msgctxt "にじさんじ麻雀杯2021優勝記念"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|3dad628a3269c556bbf5b76868eff541"
+msgstr "にじさんじ麻雀杯2021優勝記念"
+
+#: ItemDefinitionItem.csv:258
+#, fuzzy
+msgctxt "最強鴉天狗の愛弟子"
+msgid "sheet|ItemDefinitionItem.csv|name_en|c92685b6dd9717ad8f8170b937ef0e53"
+msgstr "最強鴉天狗の愛弟子"
+
+#: ItemDefinitionItem.csv:257
+#, fuzzy
+msgctxt "2021年11月23日23時59分まで"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|36ef0ac2949786ebf75d9f4faedac1a9"
+msgstr "2021年11月23日23時59分まで"
+
+#: ItemDefinitionItem.csv:257
+#, fuzzy
+msgctxt "雀魂バーチャルインターハイ優勝チームに贈る称号。"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|5d78281debff1f5aae13a7ea1c75e4e4"
+msgstr "雀魂バーチャルインターハイ優勝チームに贈る称号。"
+
+#: ItemDefinitionItem.csv:257
+msgctxt "インターハイ王者"
+msgid "sheet|ItemDefinitionItem.csv|name_en|bd61c37d167c0021f71c892a6520162b"
+msgstr "インターハイ王者"
+
+#: ItemDefinitionItem.csv:244
+msgctxt ""
+"Limited-time Mooncake Emote.It will expire at 10/27 2:00 P.M. (UTC-7)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|538010d5a27e7179e5e6ef0390b9e132"
+msgstr "기간 한정 월병 이모티콘. 10/27 2:00 P.M. (UTC-7)에 만료됨"
+
+#: ItemDefinitionItem.csv:244
+msgctxt "Mooncake Emote"
+msgid "sheet|ItemDefinitionItem.csv|name_en|9112c435499e70c8bd483a449573bc58"
+msgstr "월병 이모티콘"
+
+#: ItemDefinitionItem.csv:212
+msgctxt ""
+"Hot Spring Camp Event Token. It can be obtained via Hot Spring Battle and "
+"Tea Party. It can be used to donate at the Wishing Shrine or redeem rewards "
+"in the Canteen."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|ddf1c992927a3a8c7b5f2e487ea02e7c"
+msgstr ""
+"온천 합숙 이벤트 아이템. 온천 합숙 대국과 다과회에서 얻을 수 있다.. 기도신단에 기부하거나 급식실에서 보상과 교환할 수 있다."
+
+#: ItemDefinitionItem.csv:212
+#, fuzzy
+msgctxt "Taiyaki"
+msgid "sheet|ItemDefinitionItem.csv|name_en|a1c175a614f82dc15c772d4677442b72"
+msgstr "붕어빵"
+
+#: ItemDefinitionItem.csv:181
+#, fuzzy
+msgctxt "Autumn Theme Background"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|d605d1914a746f689607bb7f0c9eae47"
+msgstr "가을 테마 배경"
+
+#: ItemDefinitionItem.csv:181
+msgctxt "Shrine Yard · Mid-Autumn"
+msgid "sheet|ItemDefinitionItem.csv|name_en|75079686604c6a307fd3d8e9f8e7ce3a"
+msgstr "신사 앞뜰 · 깊어가는 가을"
+
+#: ItemDefinitionItem.csv:175
+msgctxt "As the snow covers everywhere, here comes a new year."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|3329beb7968ceeeddcc7ab7b7c99a0d3"
+msgstr "새하얗게 변한 대지, 새롭게 맞이하는 한 해."
+
+#: ItemDefinitionItem.csv:175
+msgctxt "Winter Arrival"
+msgid "sheet|ItemDefinitionItem.csv|name_en|ddddec0e8e9396ee9d7ea8cdc2dc009b"
+msgstr "한겨울과 새봄"
+
+#: ItemDefinitionItem.csv:174
+msgctxt "The sky is clear, and red leaves flutter."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|014cda6f5f775dfbd6a9f0513b5526cc"
+msgstr "하늘이 어느 때보다 투명하게 보이는 이 계절, 단풍도 즐거운 듯 춤을 추고 있다."
+
+#: ItemDefinitionItem.csv:174
+msgctxt "Autumn Chill"
+msgid "sheet|ItemDefinitionItem.csv|name_en|f7b8e0ebd53aa18ed8ab96be68cb6140"
+msgstr "선선한 가을"
+
+#: ItemDefinitionItem.csv:170
+msgctxt ""
+"Let’s make a snowman on this snowy night!(Event limited, will be "
+"unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|131a4ad1a779fefcd8b62bfd08c537fa"
+msgstr "오늘처럼 눈 내리는 밤에는 같이 눈사람 만들자!(이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: ItemDefinitionItem.csv:170
+msgctxt "Tablecloth - Snowman Building"
+msgid "sheet|ItemDefinitionItem.csv|name_en|bfa1b3f5810a135e6131c1d320eed829"
+msgstr "테이블보 - 눈사람"
+
+#: ItemDefinitionItem.csv:167
+msgctxt ""
+"The dancing ice crystals dazzle on the snowy night.(Event limited, will be "
+"unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|8d4353ef6f91323e653dc276913dbeab"
+msgstr "눈 내리는 밤, 반짝반짝 춤추는 얼음의 결정.(이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: ItemDefinitionItem.csv:167
+msgctxt "Tile Back - Ice Crystal"
+msgid "sheet|ItemDefinitionItem.csv|name_en|c65b66fe86eae27cb15902c47a111bdf"
+msgstr "마작패 - 빙정"
+
+#: ItemDefinitionItem.csv:163
+msgctxt ""
+"Remember our slogans and poses, and cheer with the right colors!(Event "
+"limited, will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|ef7a280699f02ff395abe43082eb33a6"
+msgstr "콜을 배우고, 춤도 연습하고, 색깔도 정확하게, 오늘도 열심히 응원할께!(이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: ItemDefinitionItem.csv:163
+msgctxt "Riichi Bet - Cheer Stick"
+msgid "sheet|ItemDefinitionItem.csv|name_en|4d4b269b6272d145eb41cf0ed506e1d6"
+msgstr "리치 봉 - 응원 봉"
+
+#: ItemDefinitionItem.csv:158
+msgctxt "Riichi Bet - Impish Bat"
+msgid "sheet|ItemDefinitionItem.csv|name_en|b416db0e1f4d94730fc6e6fb96c9888e"
+msgstr "리치 봉 - 소악마"
+
+#: ItemDefinitionItem.csv:157
+#, fuzzy
+msgctxt "2021/2/21 1:59 P.M. (UTC-7)"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|76ec704c361b7b212343631330683270"
+msgstr "2021/2/21 1:59 P.M. (UTC-7)"
+
+#: ItemDefinitionItem.csv:154
+#, fuzzy
+msgctxt "2022/1/31 11:59 P.M. (UTC-7)"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|a82dd585c613c14b2005f52ca94e600f"
+msgstr "2022/1/31 11:59 P.M. (UTC-7)"
+
+#: ItemDefinitionItem.csv:153
+#, fuzzy
+msgctxt "2021年12月29日5時59分まで"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|b839e534099f7d425e99782bd78b2712"
+msgstr "2021年12月29日5時59分まで"
+
+#: ItemDefinitionItem.csv:152
+#, fuzzy
+msgctxt "2021-11-03 05:00:00"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|f67a0c92a7a57c1f41643f334f55976f"
+msgstr "2021-11-03 05:00:00"
+
+#: ItemDefinitionItem.csv:151
+#, fuzzy
+msgctxt "2021/10/31 1:59 P.M. (UTC-7)"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|caa3171f5031e82ca945fa115baffe7c"
+msgstr "2021/10/31 1:59 P.M. (UTC-7)"
+
+#: ItemDefinitionItem.csv:150
+#, fuzzy
+msgctxt "2021年10月1日5時59分まで"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|9c653f1190d4d0cb6c3004db624031a8"
+msgstr "2021年10月1日5時59分まで"
+
+#: ItemDefinitionItem.csv:145
+msgctxt ""
+"DJ, drop the beat!(Event limited, will be unobtainable after the end of "
+"event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|7058efd644d2d1959fa4a42072fa48cd"
+msgstr "DJ, drop the beat!(이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: ItemDefinitionItem.csv:145
+msgctxt "Riichi - Intro"
+msgid "sheet|ItemDefinitionItem.csv|name_en|5dd96dcc86663dba59f97eb3efc87ae0"
+msgstr "리치 - 오프닝"
+
+#: ItemDefinitionItem.csv:135
+msgctxt ""
+"Looking to end things? Come on... Encore! Encore!(Event limited, will be "
+"unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|b5ba1b26e5798f7214a47e85d35bc896"
+msgstr "이대로 끝이라고? 당연히... 앵콜! 앵콜!(이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: ItemDefinitionItem.csv:135
+msgctxt "Winning - Encore"
+msgid "sheet|ItemDefinitionItem.csv|name_en|27dbd2150be3d65f86965156108f6582"
+msgstr "승리 - 앵콜"
+
+#: ItemDefinitionItem.csv:123
+msgctxt "Riichi Bet - Ichihime's Sweet Cone"
+msgid "sheet|ItemDefinitionItem.csv|name_en|7c2ea423152251d6760948841b9233a3"
+msgstr "리치 봉 - 이치히메의 옥수수"
+
+#: ItemDefinitionItem.csv:95
+msgctxt "Riichi Bet - 24K Gold"
+msgid "sheet|ItemDefinitionItem.csv|name_en|060cf8c2c388ec71caf5b141fcf73365"
+msgstr "리치 봉 - 24K 순금"
+
+#: ItemDefinitionItem.csv:94
+msgctxt "Riichi Bet - Crimson"
+msgid "sheet|ItemDefinitionItem.csv|name_en|c7aac39cc61e39f45e92e38c98a65f9a"
+msgstr "리치 봉 - 크림슨"
+
+#: ItemDefinitionItem.csv:82
+msgctxt "Riichi Bet - Jadeite"
+msgid "sheet|ItemDefinitionItem.csv|name_en|2f7800e200b50911e83bf39dc9fc897c"
+msgstr "리치 봉 - 경옥"
+
+#: ItemDefinitionItem.csv:81
+msgctxt "Riichi Bet - Evil Eye"
+msgid "sheet|ItemDefinitionItem.csv|name_en|687b4ccf04d0b3986db5b82dc7e7a5b6"
+msgstr "리치 봉 - 악마의 눈"
+
+#: ItemDefinitionItem.csv:80
+msgctxt "Riichi Bet - Chocolate"
+msgid "sheet|ItemDefinitionItem.csv|name_en|a2c94282cbb4780768495f0f4ab52f11"
+msgstr "리치 봉 - 초콜릿"
+
+#: ItemDefinitionItem.csv:79
+msgctxt "Riichi Bet - Bone"
+msgid "sheet|ItemDefinitionItem.csv|name_en|079c28ed22f8829c65f357ec60e28d5f"
+msgstr "리치 봉 - 뼈"
+
+#: ItemDefinitionItem.csv:78
+msgctxt "Riichi Bet - Green Onion"
+msgid "sheet|ItemDefinitionItem.csv|name_en|9b338c91f525a3839f5c0a7ba21f7064"
+msgstr "리치 봉 - 파"
+
+#: ItemDefinitionItem.csv:77
+msgctxt "Riichi Bet - Fish"
+msgid "sheet|ItemDefinitionItem.csv|name_en|a29124916f2d2e8e64d00cf5f38b92ac"
+msgstr "리치 봉 - 물고기"
+
+#: ItemDefinitionCharacter.csv:38
+msgctxt ""
+"A third-year student at Shiraitodai High School, Teru is the vanguard of her"
+" team. As the champion of last year's National High School Competition, she "
+"has a dominant presence over her opponents. She is the sister of Saki "
+"Miyanaga, but for some reason she tells others \"I don't have a sister\" "
+"instead."
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|090a6347e3b6acf08cd0a5e189e55a63"
+msgstr ""
+"시라이토다이 고등학교 3학년. 선봉을 맡는다. 전년도의 인터하이 우승자로, 다른 사람들도 경의를 표한다. 미야나가 사키의 언니지만 주위 "
+"사람들에게 여동생은 없다고 말한다."
+
+#: ItemDefinitionCharacter.csv:38
+msgctxt "Third-year student of Shiraitodai High School"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_age_en|645b9b0d0a27eaa82c077256b16f1da1"
+msgstr "시라이토다이 고등학교 3학년"
+
+#: ItemDefinitionCharacter.csv:38
+msgctxt "18th February"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|4b14a04ae24275cd8e87082c479d2ccf"
+msgstr "2월 18일"
+
+#: ItemDefinitionCharacter.csv:38
+msgctxt "Teru Miyanaga"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|ff36e747d581e8b22b4be9a763a741b6"
+msgstr "미야나가 테루"
+
+#: ItemDefinitionCharacter.csv:37
+msgctxt ""
+"Koromo's past is full of mysteries. She looks no different from an ordinary "
+"kid, but her Mahjong power is far beyond that of a normal human."
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|7319d445f907689a03c893a171d54602"
+msgstr ""
+"출신, 경력 등이 수수께끼에 싸인 여자아이. 언뜻 보면 어린 아이같은 겉모습과는 달리 마작 실력으로는 누구도 범접할 수 없을 정도의 "
+"강인함을 가지고 있다."
+
+#: ItemDefinitionCharacter.csv:37
+msgctxt "Kaori Fukuhara"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_cv_en|53dade85f5853f23a257f9a649e02f89"
+msgstr "후쿠하라 카오리"
+
+#: ItemDefinitionCharacter.csv:37
+msgctxt "Second-year student of Ryuumonbuchi High School"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_age_en|96f8f5c8a83f87f293909a9e3ef38764"
+msgstr "류몬부치 고등학교 2학년"
+
+#: ItemDefinitionCharacter.csv:37
+msgctxt "6th September"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|0a254bcbdb7a77d31204fce5877d9853"
+msgstr "9월 6일"
+
+#: ItemDefinitionCharacter.csv:37
+#, fuzzy
+msgctxt "127cm"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_stature_en|d9a11776dce4d2b14087c9c49a406c42"
+msgstr "127cm"
+
+#: ItemDefinitionCharacter.csv:37
+msgctxt "Koromo Amae"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|bd68333a3a029b654d58c95cdc66a908"
+msgstr "아마에 코로모"
+
+#: ItemDefinitionCharacter.csv:36
+msgctxt ""
+"Nodoka is a first-year student at Kiyosumi High School and holds the "
+"position of vice captain in team competition. She became famous after she "
+"won the previous year's National Middle School Individual Competition."
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|1b39d00c379a87e55f138bcfd6cda31d"
+msgstr "키요스미 고등학교 마작부 1학년으로, 단체전 부장을 맡는다. 인터미들 개인전 우승을 차지한 주목받는 선수 중 한 명이다."
+
+#: ItemDefinitionCharacter.csv:36
+msgctxt "4th October"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|dfa7f061c58b9a2a163ba13b3a8ef8be"
+msgstr "10월 4일"
+
+#: ItemDefinitionCharacter.csv:36
+#, fuzzy
+msgctxt "154cm"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_stature_en|6aef2d321b0c208dca55aba115adc7b2"
+msgstr "154cm"
+
+#: ItemDefinitionCharacter.csv:36
+msgctxt "Nodoka Haramura"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|da44aa06ec806926b8778ecd0e5e7bd0"
+msgstr "하라무라 노도카"
+
+#: ItemDefinitionCharacter.csv:35
+msgctxt ""
+"Saki is a first-year student at Kiyosumi High School and holds the position "
+"of captain in team competition. When she's not playing Mahjong, she enjoys "
+"reading books and has a calm personality. However, when it comes to Mahjong,"
+" she can be very good at dominating her rivals with her infamous \"After a "
+"Kan\" combos."
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|d21779058196ab016a851d9821f4f872"
+msgstr ""
+"키요스미 고등학교 마작부 1학년으로, 단체전에서는 대장을 맡는다. 평소 독서를 좋아하고 온순한 성격이지만 마작패만 잡으면 득의양양한 "
+"\"영상개화\"로 다른 이를 압도하는 호쾌한 면모를 보여준다."
+
+#: ItemDefinitionCharacter.csv:35
+msgctxt "Kana Ueda"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_cv_en|41d400a95de7111621bb8fb36ac2aeb8"
+msgstr "우에다 카나"
+
+#: ItemDefinitionCharacter.csv:36
+msgctxt "First-year student of Kiyosumi High School"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_age_en|75ea31b8566735073f3faac74aace91a"
+msgstr "키요스미 고등학교 1학년"
+
+#: ItemDefinitionCharacter.csv:35
+msgctxt "27th October"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|46138498dd0197fb88fad1bd86bdcce8"
+msgstr "10월 27일"
+
+#: ItemDefinitionCharacter.csv:35
+msgctxt "Saki Miyanaga"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|fed99e7843a75a26f48a01bf9bd2cabb"
+msgstr "미야나가 사키"
+
+#: ItemDefinitionCharacter.csv:34
+msgctxt ""
+"As an editor-in-chief, Chihori Terasaki has her own principles to get on "
+"with people. For her, discovering news and finding the truth is more "
+"interesting than anything else. Chihori has an eye for any suspicious "
+"circumstances, which helps her to find out all the secrets. If you don’t "
+"want to be her target, please be an obedient person~"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|213c5f65e16bd91ed15530ffe35a0288"
+msgstr ""
+"주간지 편집장인 테라사키 치호리는 자신의 길을 굳게 믿고 있다. 새로운 발견과 진상을 파헤치는 것만큼 그녀에게 값진 것은 없다. 미미한 "
+"위화감조차 엄청난 비밀로 바꾸는 그녀에게 찍히고 싶지 않다면, 깨끗하게 살아야 할 것이다."
+
+#: ItemDefinitionCharacter.csv:34
+msgctxt "Journalism,floristry,classic arts"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_hobby_en|584b0b1333bdf4666998fb211bf168cb"
+msgstr "신문, 꽃꽂이, 영화감상"
+
+#: ItemDefinitionCharacter.csv:34
+#, fuzzy
+msgctxt "26"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_age_en|4e732ced3463d06de0ca9a15b6153677"
+msgstr "26"
+
+#: ItemDefinitionCharacter.csv:34
+msgctxt "15th November"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|3a720d3628ffa3e278c889d85e7ac57d"
+msgstr "11월 15일"
+
+#: ItemDefinitionCharacter.csv:34
+msgctxt "Chihori Terasaki"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|4b5808825aa13829d150a0fc525e7c83"
+msgstr "테라사키 치호리"
+
+#: ItemDefinitionCharacter.csv:33
+msgctxt ""
+"A young lady from the northern farmlands. Eliisa's family runs a big ranch, "
+"where she grew up surrounded by different animals, so she cannot resist the "
+"attraction of the furry ears and tails. Eliisa came to Ichiban City to stay "
+"with her relatives, so as to experience what it's like be living in a city. "
+"But the urban lifestyle is so different that it has led her into a few "
+"silly, fun episodes. She's still getting used to city life."
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|a1cbfe1bebc68f73a232a0008509800a"
+msgstr ""
+"북쪽 시골 출신의 소녀. 집이 목장을 경영하여 동물을 사귀는데 익숙하고, 폭신폭신한 꼬리에 사족을 못쓴다. 도시생활을 체험하고자 일판시의 "
+"친척집으로 왔으나 생활 습관이 아직 시골에 머물러 있어, 도시 생활에 익숙해지려 분투중이다."
+
+#: ItemDefinitionCharacter.csv:33
+msgctxt "Furry animals, toys"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_hobby_en|26a6496e230f0023e42da2f67a7d0f42"
+msgstr "푹신푹신한 동물, 인형"
+
+#: ItemDefinitionCharacter.csv:33
+msgctxt "Sakura Tange"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_cv_en|7f6ac11a62d77cf09e89ef3d32fe85d0"
+msgstr "탄게 사쿠라"
+
+#: ItemDefinitionCharacter.csv:33
+msgctxt "15th July"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|fd5829e63f2bbc925feba55d70912c50"
+msgstr "7월 15일"
+
+#: ItemDefinitionCharacter.csv:33
+#, fuzzy
+msgctxt "162cm"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_stature_en|0d76a7e64c5b88c6d17e8daf63d741fa"
+msgstr "162cm"
+
+#: ItemDefinitionCharacter.csv:33
+msgctxt "Eliisa"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|dd3934769e00bcb44b76b6cf80276120"
+msgstr "엘리사"
+
+#: ItemDefinitionCharacter.csv:32
+msgctxt ""
+"Despite his laidback and carefree character, Usumi Ishihara is actually "
+"quite reliable and popular amongst the teachers and students. Apart from "
+"being the president of the student council, he is also the founder of the "
+"pastry club, which often faces the threat of being disbanded due to lack of "
+"members. To save his club, Usumi starts to recruit new members while trying "
+"to avoid being \"hunted\" by the vice president of student council, Ren "
+"Kisaragi."
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|0e031469df9503340a0ba29f13fe1846"
+msgstr ""
+"제멋대로고 게으른 면이 있지만, 학생들과 선생님들에게는 의지가 되는 아사바 고등학교의 학생회 회장. 부원 부족으로 폐부 직전인 디저트부 "
+"부장을 겸임하고 있으며, 디저트부 부원을 구하기 위해서 부회장과 달리 땡땡이치며 부원을 모으는데 열심이다."
+
+#: ItemDefinitionCharacter.csv:31
+msgctxt ""
+"As the vice president of the student council, Ren Kisaragi is serious, "
+"reliable and seems to have more power than the president, Usumi Ishihara. "
+"This isn't surprising given that the president is always seen running "
+"around, trying to avoid him... It is said that Ren has a list of "
+"\"problematic students\". Do you happen to be on it?"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|16a851c7657b069c10305a06f6d15ad5"
+msgstr ""
+"성실하고, 항상 일을 진지하게 처리하는 아사바 고등학교 학생회 부회장. 일을 게으르게 하는 회장 이시하라 우스미의 멱살을 잡아 질질 끌고 "
+"가는 건 아사바 고등학교 내 흔한 풍경이다. 학생들 사이에선 회장보다 더 대단한 사람으로 인식되고 있다. 소문에 의하면 부회장은 \"문제의"
+" 학생\" 리스트를 가지고 있다고 한다."
+
+#: ItemDefinitionCharacter.csv:30
+msgctxt ""
+"This girl has rabbit ears and calls herself Kaguyahime. She declares that "
+"anyone who touches her ears will be cursed by the Moon. Occasionally, she "
+"may quote the famous line \"On behalf of the Moon, I shall exterminate you\""
+" and makes you wonder whether she is really a goddess or not. While her "
+"appearance looks like a cute girl, she enjoys pranking others and lying. "
+"After her arrival at Mahjong Soul Shrine, she started to battle for the "
+"ownership of the shrine and the rivalry between her and Ichihime got really "
+"intense..."
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|c4b1a2bf3192ccbd0a0e4406b7674b91"
+msgstr ""
+"자칭 \"신이 보내주신 카구야히메\"라고 하는 신묘한 소녀. 보기에는 귀엽지만 거짓말과 장난을 좋아하는 성격 때문에 신이라는 것이 "
+"진짜인지 가짜인지 신빙성이 없다. 혼천 신사에 온 이후로는, 이치히메와 신사 소유권을 두고 끊이질 않는 논쟁을 펼치고 있다."
+
+#: ItemDefinitionCharacter.csv:29
+msgctxt ""
+"In other people eyes, Kirara is by all means a fashionable hot girl. She can"
+" often be flirty and looks like a master of relationships, but she actually "
+"has no experience in love. She loves fashionable makeups and follows the "
+"latest fashion trends in many different sources. She also spends a lot of "
+"money on makeups, and often has financial problems as a consequence..."
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|54b09c3c9d17d518f2d0a92ccd9767ef"
+msgstr ""
+"외형도 내면도 전형적인 갸루. 상대에게 비아냥 대는듯한 말투 때문에 주위 사람들은 그녀를 연애 횟수 100회에 달한다고 여겨지지만 실제 "
+"연애 경험은 제로다. 패션과 화장품을 사랑해 많은 돈을 쏟아 붓고있다보니, 늘 돈이 부족한 것 같다."
+
+#: EventsBaseTask.csv:584
+#, fuzzy
+msgctxt "500"
+msgid "sheet|EventsBaseTask.csv|desc_en|cee631121c2ec9232f3a2f028ad5c89b"
+msgstr "500"
+
+#: EventsBaseTask.csv:507
+#, fuzzy
+msgctxt "100"
+msgid "sheet|EventsBaseTask.csv|desc_en|f899139df5e1059396431415e770c6dd"
+msgstr "100"
+
+#: EventsBaseTask.csv:586
+#, fuzzy
+msgctxt "50"
+msgid "sheet|EventsBaseTask.csv|desc_en|c0c7c76d30bd3dcaefc96f40275bdc0a"
+msgstr "50"
+
+#: EventsBaseTask.csv:585
+#, fuzzy
+msgctxt "5"
+msgid "sheet|EventsBaseTask.csv|desc_en|e4da3b7fbbce2345d7772b0674a318d5"
+msgstr "5"
+
+#: EventsBaseTask.csv:428
+#, fuzzy
+msgctxt "前三名"
+msgid "sheet|EventsBaseTask.csv|desc_en|75db33c16e169613d061d47d91bf3fcc"
+msgstr "前三名"
+
+#: EventsBaseTask.csv:434
+#, fuzzy
+msgctxt "前两名"
+msgid "sheet|EventsBaseTask.csv|desc_en|d37413db08d4412d3290abda88dbc591"
+msgstr "前两名"
+
+#: EventsBaseTask.csv:431
+#, fuzzy
+msgctxt "第一名"
+msgid "sheet|EventsBaseTask.csv|desc_en|b9cad5b7f48c2a5c9eb2b936427c28e1"
+msgstr "第一名"
+
+#: EventsBaseTask.csv:418
+#, fuzzy
+msgctxt "1"
+msgid "sheet|EventsBaseTask.csv|desc_en|c4ca4238a0b923820dcc509a6f75849b"
+msgstr "1"
+
+#: EventsBaseTask.csv:399
+msgctxt "Tsumo 10 times in total in the Hot Spring Battle"
+msgid "sheet|EventsBaseTask.csv|desc_en|2c3b4016646c4f464ebb814666010125"
+msgstr "온천 합숙 대국에서 10번 쯔모로 화료하기"
+
+#: EventsBaseTask.csv:398
+msgctxt "Win games with Riichi 10 times in total in the Hot Spring Battle"
+msgid "sheet|EventsBaseTask.csv|desc_en|61537fcf6c2e4e8c8b08a96fc6e52124"
+msgstr "온천 합숙 대국에서 리치를 총 10번 포함하여 화료하기"
+
+#: EventsBaseTask.csv:397
+msgctxt "Win games with 10 Doras in total in the Hot Spring Battle"
+msgid "sheet|EventsBaseTask.csv|desc_en|854c2d1bf3f7becad4fe197ad0ce6492"
+msgstr "온천 합숙 대국에서 도라를 총 10번 포함하여 화료하기"
+
+#: EventsBaseTask.csv:396
+msgctxt "Ron/Tsumo 50 times in the Hot Spring Battle"
+msgid "sheet|EventsBaseTask.csv|desc_en|3349a9382f32951bf39c45273ae8f1c0"
+msgstr "온천 합숙 대국에서 50번 화료하기"
+
+#: EventsBaseTask.csv:395
+msgctxt "Ron/Tsumo 20 times in the Hot Spring Battle"
+msgid "sheet|EventsBaseTask.csv|desc_en|1dc55fc4d1c3acd326cfa4d973eb499a"
+msgstr "온천 합숙 대국에서 20번 화료하기"
+
+#: EventsBaseTask.csv:394
+msgctxt "Ron/Tsumo 10 times in the Hot Spring Battle"
+msgid "sheet|EventsBaseTask.csv|desc_en|826a0495f7fdd7cd909ddcbb0da686d3"
+msgstr "온천 합숙 대국에서 10번 화료하기"
+
+#: EventsBaseTask.csv:393
+msgctxt "Finish 20 games in the Hot Spring Battle"
+msgid "sheet|EventsBaseTask.csv|desc_en|0b649dd2f36c1797426dea45017bdc97"
+msgstr "온천 합숙 대국 20경기 완료하기"
+
+#: EventsBaseTask.csv:392
+msgctxt "Finish 10 games in the Hot Spring Battle"
+msgid "sheet|EventsBaseTask.csv|desc_en|3f45006eb8bf6128196e3da14ee710fa"
+msgstr "온천 합숙 대국 10경기 완료하기"
+
+#: EventsBaseTask.csv:391
+msgctxt "Finish 5 games in the Hot Spring Battle"
+msgid "sheet|EventsBaseTask.csv|desc_en|4ed30d29db7e14136e97d87fadbf008e"
+msgstr "온천 합숙 대국 5경기 완료하기"
+
+#: EventsBaseTask.csv:390
+msgctxt "Obtain 500 Taiyakis in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|0ff4c5bb27e5fa510dc8ab6c8b48e0fe"
+msgstr "붕어빵을 총 500개 획득하기"
+
+#: EventsBaseTask.csv:389
+msgctxt "Obtain 300 Taiyakis in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|5c2ad4f5516c1b9679e6ebb9c7482167"
+msgstr "붕어빵을 총 300개 획득하기"
+
+#: EventsBaseTask.csv:388
+msgctxt "Obtain 100 Taiyakis in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|87437a754acd6c7d13cc74f6101b7527"
+msgstr "붕어빵을 총 100개 획득하기"
+
+#: EventsBaseTask.csv:387
+msgctxt "Donate 3 times in the Wishing Shrine"
+msgid "sheet|EventsBaseTask.csv|desc_en|7668168344a34195849911811c9ca06f"
+msgstr "기도신단에서 3번 기부하기"
+
+#: EventsBaseTask.csv:386
+msgctxt "Redeem 3 times in the Canteen"
+msgid "sheet|EventsBaseTask.csv|desc_en|a9047010cf424a350ad8f298666fcf0c"
+msgstr "급식실에서 3번 교환하기"
+
+#: EventsBaseTask.csv:385
+msgctxt ""
+"Finish 1 game once a day in the Hot Spring Battle for 10 days in total."
+msgid "sheet|EventsBaseTask.csv|desc_en|657b9635db0e97e4f8ab7c6216857b7d"
+msgstr "총 10일 동안 온천 합숙 대국을 매일 1경기 이상 완료하세요."
+
+#: EventsBaseTask.csv:384
+msgctxt ""
+"Finish 1 game once a day in the Hot Spring Battle for 5 days in total."
+msgid "sheet|EventsBaseTask.csv|desc_en|8392f82c388351f46fa31904ca669067"
+msgstr "총 5일 동안 온천 합숙 대국을 매일 1경기 이상 완료하세요."
+
+#: EventsBaseTask.csv:383
+msgctxt ""
+"Finish 1 game once a day in the Hot Spring Battle for 3 days in total."
+msgid "sheet|EventsBaseTask.csv|desc_en|c5426c476b29e8f682ef0f1a9be11b44"
+msgstr "총 3일 동안 온천 합숙 대국을 매일 1경기 이상 완료하세요."
+
+#: EventsBaseTask.csv:356
+msgctxt "Win with Baiman or above once"
+msgid "sheet|EventsBaseTask.csv|desc_en|fa6c82af18849ba09a11fe221e70827d"
+msgstr "배만 이상으로 1회 이상 화료하기"
+
+#: EventsBaseTask.csv:355
+msgctxt "Win with Haneman or above once"
+msgid "sheet|EventsBaseTask.csv|desc_en|872eca0ef92d4a04140fa065f2a19279"
+msgstr "하네만 이상으로 1회 이상 화료하기"
+
+#: EventsBaseTask.csv:354
+msgctxt "Win with Mangan or above once"
+msgid "sheet|EventsBaseTask.csv|desc_en|5aed7de1440be894e3ff074c3dd2bf7e"
+msgstr "만관 이상으로 1회 이상 화료하기"
+
+#: EventsBaseTask.csv:343
+msgctxt "Win 10 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|8323d66990fc468529d46ac4898536e0"
+msgstr "10회 이상 화료하기"
+
+#: EventsBaseTask.csv:342
+msgctxt "Win 9 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|9c52a6f61b96f992def230bc4c7ce06c"
+msgstr "9회 이상 화료하기"
+
+#: EventsBaseTask.csv:341
+msgctxt "Win 8 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|4a9a32757ec956d433f746380029ec7f"
+msgstr "8회 이상 화료하기"
+
+#: EventsBaseTask.csv:340
+msgctxt "Win 7 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|3986326848fafb4e2fec65d199be13c7"
+msgstr "7회 이상 화료하기"
+
+#: EventsBaseTask.csv:339
+msgctxt "Win 6 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|a8881fb1fa77759501a083c455902b97"
+msgstr "6회 이상 화료하기"
+
+#: EventsBaseTask.csv:338
+msgctxt "Win 5 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|11347a07d39cb85dcdf2cf2986c464ae"
+msgstr "5회 이상 화료하기"
+
+#: EventsBaseTask.csv:337
+msgctxt "Win 4 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|aea6de82147dcf7712075d83dcdf8360"
+msgstr "4회 이상 화료하기"
+
+#: EventsBaseTask.csv:336
+msgctxt "Win 3 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|c502df7d3ab261b1aadd31b39ff9ac75"
+msgstr "3회 이상 화료하기"
+
+#: EventsBaseTask.csv:335
+msgctxt "Win 2 times in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|4c0e2d7a53977c8862d57cbc55bc3bd6"
+msgstr "2회 이상 화료하기"
+
+#: EventsBaseTask.csv:334
+msgctxt "Win 1 time in total"
+msgid "sheet|EventsBaseTask.csv|desc_en|89c6dcfee3c381a93716d29dde697822"
+msgstr "1회 이상 화료하기"
+
+#: DesktopMatchmode.csv:39
+msgctxt "Battle of Ashura"
+msgid ""
+"sheet|DesktopMatchmode.csv|room_name_en|0e095850c0571c2fdfa03537101dc338"
+msgstr "수라의 전투"
+
+#: CharacterEmoji.csv:282
+msgctxt "The Exalted Blossom"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|00b24070a132272f2eebdb2ea0d8d33c"
+msgstr "늠름히 피어난 꽃"
+
+#: CharacterEmoji.csv:151
+msgctxt "10/27  (PDT)"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|40b8a0f59a2c2164818d8c0f2edbee95"
+msgstr "10/27  (PDT)"
+
+#: AudioBgm.csv:5
+msgctxt "Winter Arrival"
+msgid "sheet|AudioBgm.csv|name_en|ddddec0e8e9396ee9d7ea8cdc2dc009b"
+msgstr "한겨울과 새봄"
+
+#: AudioBgm.csv:4
+msgctxt "Autumn Chill"
+msgid "sheet|AudioBgm.csv|name_en|f7b8e0ebd53aa18ed8ab96be68cb6140"
+msgstr "선선한 가을"
+
+#: ActivityActivity.csv:119
+msgctxt "Hot Spring Camp"
+msgid "sheet|ActivityActivity.csv|name_en|4f25017910f31e32c51f94b5aeb999b7"
+msgstr "온천 합숙"
+
+#: ActivityActivity.csv:112
+msgctxt "Winter Festival\\nSnowman Battle"
+msgid "sheet|ActivityActivity.csv|name_en|a75541d814ab3a010cbb6fe53e57534d"
+msgstr ""
+"겨울 축제\\n"
+"눈사람 전투"
+
+#: ActivityActivity.csv:107
+msgctxt "Epic Showdown"
+msgid "sheet|ActivityActivity.csv|name_en|f30a350c4d4e9941688453240a85826d"
+msgstr "용투호쟁"
+
+#: ActivityActivity.csv:97
+msgctxt "Mooncake Tale"
+msgid "sheet|ActivityActivity.csv|name_en|1eb9a5a4e7453926585b1f376c8c7de8"
+msgstr "월병 이야기"
+
+#: AchievementAchievement.csv:382
+msgctxt "Win top 2 places 10 times in a row in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8cad6516110c6f28f2640d6a9424f9fd"
+msgstr ""
+
+#: AchievementAchievement.csv:381
+msgctxt "Win top 2 places 5 times in a row in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c7c1e2f8d1b23289884e1e63f0b9f4a7"
+msgstr ""
+
+#: AchievementAchievement.csv:379
+msgctxt "Win 1st place 5 times in a row in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7142c9c6483aeebc07d675a364d464d8"
+msgstr ""
+
+#: AchievementAchievement.csv:378
+msgctxt "Win 1st place 3 times in a row in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|fd7f08f2d887ec1f0ece2628c31eb044"
+msgstr ""
+
+#: AchievementAchievement.csv:376
+msgctxt "Win top 3 places 10 times in a row in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|553b54e5b32d5cf66831d629bf194a6e"
+msgstr ""
+
+#: AchievementAchievement.csv:375
+msgctxt "Win top 3 places 5 times in a row in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|494d3a00838afa40cec569538183451d"
+msgstr ""
+
+#: AchievementAchievement.csv:373
+msgctxt "Win top 2 places 10 times in a row in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|cee15d279cb5c94c9fa0016be8d31255"
+msgstr ""
+
+#: AchievementAchievement.csv:372
+msgctxt "Win top 2 places 5 times in a row in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|280fac515d12df9bd2b2eff2e0102d27"
+msgstr ""
+
+#: AchievementAchievement.csv:370
+msgctxt "Win 1st place 5 times in a row in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9e94799dc715d0b028b19999d6efbe7a"
+msgstr ""
+
+#: AchievementAchievement.csv:369
+msgctxt "Win 1st place 3 times in a row in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7a3507872bc7efed90449d95032153f0"
+msgstr ""
+
+#: AchievementAchievement.csv:207
+msgctxt "Complete 10 Casual Matches"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5e9d5d397d770c430071f497b0c96f79"
+msgstr ""
