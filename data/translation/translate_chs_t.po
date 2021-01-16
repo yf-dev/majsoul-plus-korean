@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-15 06:27:42\n"
+"PO-Revision-Date: 2021-01-16 09:33:00\n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -105652,11 +105652,11 @@ msgstr "獲得語音"
 
 #: VoiceSound.csv:3838
 msgctxt ""
-"Hello, my name is Saki Miyanaga. I'm a member of the Mahjong club of "
-"Kiyosumi High School. I like reading... And now I like Mahjong too. Nice to "
-"meet you."
+"Hello, my name is Saki... Saki Miyanaga. I'm a first-year student of "
+"Kiyosumi High School and a member of the Mahjong club. I like reading... And"
+" now I like Mahjong too. Nice to meet you."
 msgid ""
-"sheet|VoiceSound.csv|words_en(audio/sound/gongyongxiao/lobby_selfintro)|4c927ac289f14b6ed2fdaebf52c204f3"
+"sheet|VoiceSound.csv|words_en(audio/sound/gongyongxiao/lobby_selfintro)|0f577cc28598647ef1f7a6db81bef78e"
 msgstr "你好，我是宮永咲，清澄高中麻將部的一年級成員，興趣是看書，還有……現在也喜歡麻將。請多關照。"
 
 #: VoiceSound.csv:3839
@@ -107082,11 +107082,11 @@ msgstr "獲得語音"
 
 #: VoiceSound.csv:3954
 msgctxt ""
-"The name's Nodoka Haramura. I'm a first year student of Kiyosumi High School"
-" and a member of the Mahjong club. I heard Miyanaga was here too. Is she in "
-"a game at the moment?"
+"The name's Nodoka Haramura. I'm a first-year student of Kiyosumi High School"
+" and a member of the Mahjong club. Nice to meet you. I heard Saki was here "
+"too. Is she in a game at the moment?"
 msgid ""
-"sheet|VoiceSound.csv|words_en(audio/sound/yuancunhe/lobby_selfintro)|d001d084c4dfaf483dc62cc6b1154134"
+"sheet|VoiceSound.csv|words_en(audio/sound/yuancunhe/lobby_selfintro)|71a79e92de440f2b50a19a5737993aac"
 msgstr "原村和，隸屬清澄高中麻將部一年級，請多關照。聽說小咲也在這裡，她現在在對局嗎？"
 
 #: VoiceSound.csv:3955

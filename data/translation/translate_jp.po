@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-15 06:27:42\n"
+"PO-Revision-Date: 2021-01-16 09:33:00\n"
 "Language: jp\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -46634,7 +46634,7 @@ msgctxt ""
 "Saki: The Nationals x Mahjong Soul Limited-time Collab\\nThe unattainable "
 "orange flower in bright bloom, subtle but powerful."
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|6eec689a6b2636068df1fd8cdddcf291"
-msgstr "咲-Saki- 全国編×雀魂コラボイベントにて入手できる限定の着せ替え衣装"
+msgstr "咲-Saki-全国編×雀魂コラボイベントにて入手できる限定の着せ替え衣装"
 
 #: ItemDefinitionSkin.csv:100
 msgctxt "Collab"
@@ -46684,7 +46684,7 @@ msgctxt ""
 "Saki: The Nationals x Mahjong Soul Limited-time Collab\\nEnjoy, the sweet "
 "scent that is embalmed in the heart."
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|304138cd4d30556bf18011211731dc48"
-msgstr "咲-Saki- 全国編×雀魂コラボイベントにて入手できる限定の着せ替え衣装"
+msgstr "咲-Saki-全国編×雀魂コラボイベントにて入手できる限定の着せ替え衣装"
 
 #: ItemDefinitionSkin.csv:103
 msgctxt "Collab"
@@ -46734,7 +46734,7 @@ msgctxt ""
 "Saki: The Nationals x Mahjong Soul Limited-time Collab\\nThe innocence and "
 "enthusiasm bursting out between red and white!"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|6b9a765be4cc1d532054508bdd07d198"
-msgstr "咲-Saki- 全国編×雀魂コラボイベントにて入手できる限定の着せ替え衣装"
+msgstr "咲-Saki-全国編×雀魂コラボイベントにて入手できる限定の着せ替え衣装"
 
 #: ItemDefinitionSkin.csv:106
 msgctxt "Collab"
@@ -46784,7 +46784,7 @@ msgctxt ""
 "Saki: The Nationals x Mahjong Soul Limited-time Collab\\nDeep and noble "
 "eyes, like the stars in the night sky."
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|53edac6cba0fc4ba0bfb5578182620cf"
-msgstr "咲-Saki- 全国編×雀魂コラボイベントにて入手できる限定の着せ替え衣装"
+msgstr "咲-Saki-全国編×雀魂コラボイベントにて入手できる限定の着せ替え衣装"
 
 #: ItemDefinitionSkin.csv:109
 msgctxt "Collab"
@@ -57778,7 +57778,7 @@ msgstr ""
 "- 槍槓と四槓散了が同じ槓で発生した場合、槍槓の和了は成立とする。その後、特殊流局になる。\n"
 "- 立直時の放銃について、以下のルールが適用される：\n"
 "- 和了の点数計算が行われた後、立直した雀士の持ち点が1000点以上の場合：立直は成立とする。\n"
-"- 和了の点数計算が行われた後、立直した雀士の持ち点が1000点以上の場合：立直は不成立とし、その打牌が通常の打牌とする。\n"
+"- 和了の点数計算が行われた後、立直した雀士の持ち点が1000点以下の場合：立直は不成立とし、その打牌が通常の打牌とする。\n"
 "\n"
 "対局モード：修羅の戦-四人東\n"
 "段位制限：なし\n"
@@ -106083,11 +106083,11 @@ msgstr "出会い"
 
 #: VoiceSound.csv:3838
 msgctxt ""
-"Hello, my name is Saki Miyanaga. I'm a member of the Mahjong club of "
-"Kiyosumi High School. I like reading... And now I like Mahjong too. Nice to "
-"meet you."
+"Hello, my name is Saki... Saki Miyanaga. I'm a first-year student of "
+"Kiyosumi High School and a member of the Mahjong club. I like reading... And"
+" now I like Mahjong too. Nice to meet you."
 msgid ""
-"sheet|VoiceSound.csv|words_en(audio/sound/gongyongxiao/lobby_selfintro)|4c927ac289f14b6ed2fdaebf52c204f3"
+"sheet|VoiceSound.csv|words_en(audio/sound/gongyongxiao/lobby_selfintro)|0f577cc28598647ef1f7a6db81bef78e"
 msgstr "こんにちは。私は咲……宮永咲。清澄高校麻雀部の一年生です。趣味は本を読むことと…今は麻雀も好きです。よろしくお願いします。"
 
 #: VoiceSound.csv:3839
@@ -107517,11 +107517,11 @@ msgstr "出会い"
 
 #: VoiceSound.csv:3954
 msgctxt ""
-"The name's Nodoka Haramura. I'm a first year student of Kiyosumi High School"
-" and a member of the Mahjong club. I heard Miyanaga was here too. Is she in "
-"a game at the moment?"
+"The name's Nodoka Haramura. I'm a first-year student of Kiyosumi High School"
+" and a member of the Mahjong club. Nice to meet you. I heard Saki was here "
+"too. Is she in a game at the moment?"
 msgid ""
-"sheet|VoiceSound.csv|words_en(audio/sound/yuancunhe/lobby_selfintro)|d001d084c4dfaf483dc62cc6b1154134"
+"sheet|VoiceSound.csv|words_en(audio/sound/yuancunhe/lobby_selfintro)|71a79e92de440f2b50a19a5737993aac"
 msgstr "原村和、清澄高校麻雀部の一年生です。よろしくお願いします。咲さんもこちらにいると聞いたのですが、対局中でしょうか？"
 
 #: VoiceSound.csv:3955
