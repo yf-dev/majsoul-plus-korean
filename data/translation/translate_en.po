@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-19 03:53:04\n"
+"PO-Revision-Date: 2021-01-19 06:30:01\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -7739,21 +7739,6 @@ msgstr "View log"
 msgctxt "Real-time spectating"
 msgid "json|mj/live_broadcast|1|3edddea5d9d2ebfd6ebac1d97a98fbce"
 msgstr "Real-time spectating"
-
-#: ui_en.json
-msgctxt "(3)"
-msgid "json|mj/match_confirm|0|2|38560d3d403d928e8b6a1e4e8f9e93e1"
-msgstr "(3)"
-
-#: ui_en.json
-msgctxt "确定"
-msgid "json|mj/match_confirm|0|3|38cf16f2204ffab8a6e0187070558721"
-msgstr "确定"
-
-#: ui_en.json
-msgctxt "等待其他玩家确认..."
-msgid "json|mj/match_confirm|1|0e119e6e93c6d724ea80c11ed9ea4b05"
-msgstr "等待其他玩家确认..."
 
 #: ui_en.json
 msgctxt "Turn"
