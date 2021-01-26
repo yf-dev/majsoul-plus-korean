@@ -9,20 +9,6 @@ from .common import log_normal, log_debug, log_warn, log_info
 
 def main(original_assets_path, translation_path, dist_path, temp_path):
     log_normal("Build csv files into lqc.lqbin...")
-    target_csvs = []
-
-    log_info("Collect csv file name to build from translate_sheet.csv...")
-    with open(
-        Path(translation_path) / "translate_sheet.csv", "r", encoding="utf-8-sig"
-    ) as csvfile:
-        csv_reader = csv.reader(csvfile)
-        is_header = True
-        for row in csv_reader:
-            if is_header:
-                is_header = False
-                continue
-            if row[0] not in target_csvs:
-                target_csvs.append(row[0])
 
     log_info("Load config_pb2.py...")
     import_config_path = Path(temp_path) / "proto" / "config_pb2.py"
@@ -51,10 +37,6 @@ def main(original_assets_path, translation_path, dist_path, temp_path):
 
         if not csv_path.is_file():
             log_warn(f"This csv is not exist: {csv_path}")
-            continue
-
-        if csv_path.name not in target_csvs:
-            log_info(f"Skip {csv_path}")
             continue
 
         log_info(f"Build {csv_path}...")

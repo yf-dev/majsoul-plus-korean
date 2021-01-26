@@ -5,9 +5,7 @@ import os
 import shutil
 import sys
 
-from mpk.apply_translation_json import main as apply_translation_json
 from mpk.apply_translation_po import main as apply_translation_po
-from mpk.apply_translation_sheet import main as apply_translation_sheet
 from mpk.build_sheets import main as build_sheets
 from mpk.common import run_cmd, log_normal, log_debug
 from mpk.copy_cached_asset import main as copy_cached_asset
@@ -132,22 +130,35 @@ def action_atlas(args):
 def action_build(args):
     log_normal("Build...", args.verbose)
 
-    export_sheets(args.original_assets_path, args.temp_path)
     if not hasattr(args, "skip_po") or not args.skip_po:
-        apply_translation_po(args.translation_path)
-    apply_translation_sheet(args.translation_path, args.temp_path)
-    apply_translation_json(
-        args.original_assets_path, args.translation_path, args.dist_path
-    )
-    build_sheets(
-        args.original_assets_path, args.translation_path, args.dist_path, args.temp_path
-    )
-    merge_all_atlas(args.original_assets_path, args.translation_path, args.temp_path)
-    pack_all_atlas(
-        args.atlas_size, args.temp_path, str(Path(args.dist_path) / "assets")
-    )
-    extract_chars(args.dist_path, args.temp_path)
-    generate_fonts(args.dist_path, args.fonts_path, args.temp_path, args.fontbm_path)
+        export_sheets(args.original_assets_path, args.temp_path)
+        apply_translation_po(
+            args.translation_path,
+            args.original_assets_path,
+            args.dist_path,
+            args.temp_path,
+        )
+        build_sheets(
+            args.original_assets_path,
+            args.translation_path,
+            args.dist_path,
+            args.temp_path,
+        )
+
+    if not hasattr(args, "skip_atlas") or not args.skip_atlas:
+        merge_all_atlas(
+            args.original_assets_path, args.translation_path, args.temp_path
+        )
+        pack_all_atlas(
+            args.atlas_size, args.temp_path, str(Path(args.dist_path) / "assets")
+        )
+
+    if not hasattr(args, "skip_font") or not args.skip_font:
+        extract_chars(args.translation_path, args.temp_path)
+        generate_fonts(
+            args.dist_path, args.fonts_path, args.temp_path, args.fontbm_path
+        )
+
     generate_scene(args.original_assets_path, args.dist_path)
     copy_translated_asset(args.translation_path, args.dist_path)
     generate_resourcepack(args.dist_path)
@@ -306,7 +317,19 @@ if __name__ == "__main__":
         parser_build = action_subparsers.add_parser("build", help="build asset data")
         parser_build.add_argument(
             "--skip-po",
-            help="skip build po file to csv",
+            help="skip build po files",
+            action="store_true",
+            default=False,
+        )
+        parser_build.add_argument(
+            "--skip-atlas",
+            help="skip build atlas files",
+            action="store_true",
+            default=False,
+        )
+        parser_build.add_argument(
+            "--skip-font",
+            help="skip build font files",
             action="store_true",
             default=False,
         )

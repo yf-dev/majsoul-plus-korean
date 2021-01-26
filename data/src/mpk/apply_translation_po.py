@@ -3,67 +3,55 @@ from pathlib import Path
 import csv
 import polib
 
-from .common import log_normal, log_debug, log_info
+from .common import log_normal, log_debug, log_info, mpk_lang
+from .models.text import (
+    TranslationDataset,
+    UiJsonTranslator,
+    XinshouyindaoJsonTranslator,
+    BytesTranslator,
+    CsvTranslator,
+)
 
 HASH_LEN = 32
 
 
-def main(translation_path):
-    log_normal("Apply translate_ko.po to translate_json.csv and translate_sheet.csv...")
+def main(translation_path, original_assets_path, dist_path, temp_path):
+    log_normal("Apply translate_ko.po to game objects...")
     translation_path = Path(translation_path)
 
-    json_entries = []
-    sheet_entries = []
+    translated_dataset = TranslationDataset("ko")
+    translated_dataset.read_pofile(
+        translation_path / f"translate_{mpk_lang}.po", mpk_lang
+    )
+    translated_dataset.read_pofile(translation_path / "translate_ko.po", "ko")
 
-    log_info("Read translate_ko.po...")
-    pofile = polib.pofile(translation_path / "translate_ko.po", encoding="utf-8")
+    log_info("Write ui json files...")
+    ui_json_translator = UiJsonTranslator()
+    ui_json_translator.translation_dataset = translated_dataset
+    ui_json_translator.save_to_game_objects(original_assets_path, dist_path)
 
-    log_info("Split entries...")
-    for entry in pofile.translated_entries():
-        if entry.msgid.startswith("json|"):
-            log_debug(f"Add {entry.msgid} to json data")
-            json_entries.append(entry)
-        elif entry.msgid.startswith("sheet|"):
-            log_debug(f"Add {entry.msgid} to sheet data")
-            sheet_entries.append(entry)
-        else:
-            pass
-            # error_msg = f'Unexpected msgid: {entry.msgid}'
-            # log_error(error_msg)
-            # raise Exception(error_msg)
+    log_info("Write xinshouyindao json files...")
+    xinshouyindao_json_translator = XinshouyindaoJsonTranslator()
+    xinshouyindao_json_translator.translation_dataset = translated_dataset
+    xinshouyindao_json_translator.save_to_game_objects(original_assets_path, dist_path)
 
-    log_info("Write translate_json.csv...")
-    with open(
-        translation_path / "translate_json.csv", "w", encoding="utf-8-sig", newline=""
-    ) as csvfile:
-        csv_writer = csv.writer(csvfile)
-        log_info("Write translate_json.csv rows...")
-        csv_writer.writerow(["location", "source", "target"])
-        for entry in json_entries:
-            path = entry.msgid[len("json|") : -(HASH_LEN + 1)]
-            target = entry.msgctxt.replace("\\", "\\\\").replace("\n", "\\n")
-            translated = entry.msgstr.replace("\\", "\\\\").replace("\n", "\\n")
-            log_debug(f"Write {entry.msgid} to {path}")
-            csv_writer.writerow([path, target, translated])
+    log_info("Write bytes files...")
+    bytes_translator = BytesTranslator()
+    bytes_translator.translation_dataset = translated_dataset
+    bytes_translator.save_to_game_objects(original_assets_path, dist_path)
 
-    log_info("Write translate_sheet.csv...")
-    with open(
-        translation_path / "translate_sheet.csv", "w", encoding="utf-8-sig", newline=""
-    ) as csvfile:
-        csv_writer = csv.writer(csvfile)
-        log_info("Write translate_sheet.csv rows...")
-        csv_writer.writerow(["location", "context", "source", "target"])
-        for entry in sheet_entries:
-            full_path = entry.msgid[len("sheet|") : -(HASH_LEN + 1)]
-            sheet_path = "|".join(full_path.split("|")[:-1])
-            header = full_path.split("|")[-1]
-            target = entry.msgctxt.replace("\\", "\\\\").replace("\n", "\\n")
-            translated = entry.msgstr.replace("\\", "\\\\").replace("\n", "\\n")
-            log_debug(f"Write {entry.msgid} to {sheet_path}")
-            csv_writer.writerow([sheet_path, header, target, translated])
+    log_info("Write csv files...")
+    csv_translator = CsvTranslator()
+    csv_translator.translation_dataset = translated_dataset
+    csv_translator.save_to_game_objects(temp_path, None)
 
     log_info("Apply complete")
 
 
 if __name__ == "__main__":
-    main(str(Path("./translation")))
+    main(
+        str(Path("./translation")),
+        str(Path("./assets-original")),
+        str(Path("./dist/korean")),
+        str(Path("./temp")),
+    )

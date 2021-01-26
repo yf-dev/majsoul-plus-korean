@@ -61,6 +61,7 @@ confidence=
 # no Warning level messages displayed, use "--disable=all --enable=classes
 # --disable=W".
 disable=missing-function-docstring,
+        missing-class-docstring,
         missing-module-docstring,
         line-too-long
 

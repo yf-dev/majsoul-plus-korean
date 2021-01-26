@@ -126,11 +126,7 @@ pipenv run mpk download
 pipenv run mpk template
 ```
 
-생성된 템플릿은 다음 경로에 저장됩니다.
-
-- `data\translation\templates\translate_sheet.csv`
-- `data\translation\templates\translate_json.csv`
-- `data\translation\translate_en.po`
+생성된 템플릿은 `data\translation\translate_en.po`에 저장됩니다.
 
 #### 5.5. 문장 번역 작업 진행
 
