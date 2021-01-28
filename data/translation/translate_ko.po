@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020, 2021.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-15 08:08+0000\n"
+"PO-Revision-Date: 2021-01-28 02:28+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -68220,7 +68220,7 @@ msgctxt ""
 msgid "json|hesu/hesu_rules|1|0|3|2|2|7fef13fd037087db4ba2f735440359ca"
 msgstr ""
 "등급 제한 없음\n"
-"등급 포인트 변동 없음"
+"등급PT 변동 없음"
 
 #: ui_en.json
 msgctxt "Get Coppers"
@@ -69338,3 +69338,1061 @@ msgstr "용투호쟁"
 msgctxt "Mooncake Tale"
 msgid "sheet|ActivityActivity.csv|name_en|1eb9a5a4e7453926585b1f376c8c7de8"
 msgstr "월병 이야기"
+
+#: VoiceSound.csv:4187
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/gongyongzhao/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:4071
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/tianjiangyi/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:3955
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/yuancunhe/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:3839
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/gongyongxiao/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:3723
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/siqiqiansuili/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:3607
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/ailisha/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:3491
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/shiyuanduihai/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:3375
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/ruyuelian/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:3259
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/huiyeji/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:3143
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/tengbenqiluo/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:3027
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/yuejianshan/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:2911
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/chutao/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:2795
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/aiyin/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:2679
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/beijianshahezi/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:2563
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/zhaitengzhi/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:2447
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/yuesefu/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:2331
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/lianggongxingshu/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:2215
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/wushilanyangcai/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:2099
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/xiaoniaoyouchutian/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:1983
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/baishinainai/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:1867
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/erzhigonghua/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:1751
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/shala/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:1635
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/qingkuniang/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:1519
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/mingzhiyingshu/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:1403
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/yizhilaikong/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:1287
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/wangcilang/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:1171
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/sigongxiasheng/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:1055
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/kawei/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:939
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/zeniya/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:823
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/jiutiao/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:707
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/bamuwei/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:591
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/fuzi/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:475
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/xiangyuan/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:359
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/qianzhi/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:243
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/jianai/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:127
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/erjietang/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: VoiceSound.csv:11
+msgctxt "Finishing a game in 1st place"
+msgid ""
+"sheet|VoiceSound.csv|name_en(audio/sound/yiji/game_top)|5ebb8f54099b392570745c3c25fa3c1e"
+msgstr "1위로 경기 종료"
+
+#: ItemDefinitionTitle.csv:37
+msgctxt "A title for completing all the achievements of [Exemplar]"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|b80f6232270c2eac463de8bedb699c71"
+msgstr "[모범시민]의 모든 도전과제를 완료한 기념 타이틀"
+
+#: ItemDefinitionTitle.csv:37
+msgctxt "Exemplar"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|2b83defd2ba1a6ccbd4c15725c8a710a"
+msgstr "모범시민"
+
+#: StrStr.csv:1268
+msgctxt ""
+"No Rank Limit\n"
+"No Rank PT"
+msgid "sheet|StrStr.csv|en|61e48485ff70f832f9f7f6372470ead5"
+msgstr ""
+"등급 제한 없음\n"
+"등급PT 변동 없음"
+
+#: StrStr.csv:1267
+msgctxt "Get Coppers"
+msgid "sheet|StrStr.csv|en|456fc50100ce5e6c05a815d4301bc9c8"
+msgstr "동전 받기"
+
+#: StrStr.csv:1266
+msgctxt "Get Taiyakis"
+msgid "sheet|StrStr.csv|en|fe708dbe7a5c460294bfbf00030f96d9"
+msgstr "붕어빵 받기"
+
+#: StrStr.csv:1265
+msgctxt "Download"
+msgid "sheet|StrStr.csv|en|801ab24683a4a8c433c6eb40c48bcd9d"
+msgstr "다운로드"
+
+#: StrStr.csv:1264
+msgctxt ""
+"Your current version is older than the required one, please go to download the latest version."
+msgid "sheet|StrStr.csv|en|c65dbe1444db4ea893758b65e6ac0aad"
+msgstr "애플리케이션 업데이트가 필요합니다."
+
+#: StrStr.csv:1261
+msgctxt "The latest version is now available, do you want to download it now?"
+msgid "sheet|StrStr.csv|en|4297b7b71013b30c190e8ffae4774d65"
+msgstr "최신 버전으로 업데이트할 수 있습니다. 지금 다운로드할까요?"
+
+#: StrStr.csv:1259
+msgctxt "??????"
+msgid "sheet|StrStr.csv|en|df64dc2eb4a0b85091dd31eb4923eaac"
+msgstr "??????"
+
+#: StrStr.csv:1255
+msgctxt "Unlock the new snowmen during the event period to claim rewards!"
+msgid "sheet|StrStr.csv|en|90c1f840244e4e951fd1b3664765ddb7"
+msgstr "이벤트 기간 동안 새로운 눈사람을 잠금 해제하여 보상을 받으세요!"
+
+#: StrStr.csv:1254
+msgctxt ""
+"The exchange rate of winning points: 4-player match: 1:1, 3-player match: "
+"3:1."
+msgid "sheet|StrStr.csv|en|6879b9250a9480c856858dd50a80a5f0"
+msgstr "3인 마작으로 획득할 수 있는 완성도는 4인 마작의 1/3입니다."
+
+#: StrStr.csv:1253
+msgctxt ""
+"The winning points achieved during the event can improve the progress of "
+"making a snowman (exclude matches against AI)"
+msgid "sheet|StrStr.csv|en|e8f3d9a62a82631bf5c0bfc694f98059"
+msgstr "화료시 획득한 점수가 눈사람의 완성도로 변환됩니다 (CPU와의 경기는 제외)"
+
+#: StrStr.csv:1252
+msgctxt "{0}pt"
+msgid "sheet|StrStr.csv|en|1bf464fda3a3e130046ca91c599bfb20"
+msgstr "{0}점"
+
+#: StrStr.csv:1251
+msgctxt "-Current total winning point-"
+msgid "sheet|StrStr.csv|en|0dc016bfddf74d679849f52672db86a5"
+msgstr "-현재 승점 합계-"
+
+#: StrStr.csv:1250
+msgctxt "Event Period: 12/21 - 1/6 1:59 P.M. (UTC-7)"
+msgid "sheet|StrStr.csv|en|822cce8f4a2c792a813a41f44830b0b6"
+msgstr "이벤트 기간: 12/21 - 1/6 1:59 P.M. (UTC-7)"
+
+#: StrStr.csv:1249
+msgctxt ""
+"1/2\n"
+"2:00 P.M."
+msgid "sheet|StrStr.csv|en|017112607b08c7c695b439cf681b4110"
+msgstr ""
+"1/2\n"
+"2:00 P.M."
+
+#: StrStr.csv:1248
+msgctxt ""
+"12/29\n"
+"2:00 P.M."
+msgid "sheet|StrStr.csv|en|7934c9d0e616842b6df44e013d37fb2e"
+msgstr ""
+"12/29\n"
+"2:00 P.M."
+
+#: StrStr.csv:1247
+msgctxt ""
+"12/25\n"
+"2:00 P.M."
+msgid "sheet|StrStr.csv|en|a426eac160503a0f7c0492e3f4cb1c9b"
+msgstr ""
+"12/25\n"
+"2:00 P.M."
+
+#: StrStr.csv:1246
+msgctxt "Complete all achievements in this category to claim rewards"
+msgid "sheet|StrStr.csv|en|81d3c93c21a74cda7e9519b5e82c745a"
+msgstr "아래의 모든 도전과제를 완료하여 보상 획득 가능"
+
+#: StrStr.csv:1245
+msgctxt "Progress"
+msgid "sheet|StrStr.csv|en|46b5f8c58b679b4243cbdb5749642c86"
+msgstr "달성률"
+
+#: StrStr.csv:1244
+msgctxt "Rarity:"
+msgid "sheet|StrStr.csv|en|061ff232083547859bef5348f13c6c48"
+msgstr "취득률:"
+
+#: StrStr.csv:1242
+msgctxt "Achievement"
+msgid "sheet|StrStr.csv|en|e29be78e8cf65f9f1a934917f9e0903e"
+msgstr "도전 과제"
+
+#: StrStr.csv:1241
+msgctxt "Completed Achievements:"
+msgid "sheet|StrStr.csv|en|df55bd73fa6c618926b443503aabbe53"
+msgstr "달성한 도전과제:"
+
+#: StrStr.csv:1237
+msgctxt "Waiting"
+msgid "sheet|StrStr.csv|en|5706de961fb376d701be6e7762d8b09c"
+msgstr "대기 중"
+
+#: StrStr.csv:1236
+msgctxt "You have chosen {0} tiles"
+msgid "sheet|StrStr.csv|en|0ea3f71ae87d0c4d623083a509bf0ad8"
+msgstr "{0}개 선택함"
+
+#: StrStr.csv:1235
+msgctxt "Please choose 3 tiles in Hand to exchange"
+msgid "sheet|StrStr.csv|en|93f54af0c0389c381c4f63420fe1e93f"
+msgstr "교환할 손패 3개를 선택하세요"
+
+#: StrStr.csv:1234
+msgctxt "Please exchange your tiles in Hand clockwise in this match"
+msgid "sheet|StrStr.csv|en|3c9f98f3f2c8d87f05c3642c68424fe3"
+msgstr "이번 국에서는 시계 방향으로 패를 교환합니다"
+
+#: StrStr.csv:1233
+msgctxt ""
+"Please exchange your tiles in Hand with the oppsite player in this match"
+msgid "sheet|StrStr.csv|en|e8a819bf9c86a13fba99a1506bd66106"
+msgstr "이번 국에서는 마주보는 작사와 패를 교환합니다"
+
+#: StrStr.csv:1232
+msgctxt "Please exchange your tiles in Hand anti-clockwise in this match"
+msgid "sheet|StrStr.csv|en|b6f8a2291943ff3a44c7de72af1b5b95"
+msgstr "이번 국에서는 반시계 방향으로 패를 교환합니다"
+
+#: StrStr.csv:1231
+msgctxt "Exchanging"
+msgid "sheet|StrStr.csv|en|ffbf937dd4f4e05df63ab5891384b14d"
+msgstr "교환 중"
+
+#: StrStr.csv:1230
+msgctxt "11/30 1:59 P.M. (UTC-7)"
+msgid "sheet|StrStr.csv|en|1aef95218a68718f64fb3dfe8d6fc7b6"
+msgstr "11/30 1:59 P.M. (UTC-7)"
+
+#: StrStr.csv:1229
+#, fuzzy
+msgctxt "11/28 1:59 P.M. (UTC-7)"
+msgid "sheet|StrStr.csv|en|185a91ec364a345ad5d1b47d83538205"
+msgstr "11/28 1:59 P.M. (UTC-7)"
+
+#: StrStr.csv:1228
+msgctxt "11/24 1:59 P.M. (UTC-7)"
+msgid "sheet|StrStr.csv|en|61762ca59cfe6df953c6f0b066752c53"
+msgstr "11/24 1:59 P.M. (UTC-7)"
+
+#: StrStr.csv:1227
+msgctxt "Restart"
+msgid "sheet|StrStr.csv|en|51cfbcff36da74a9fc47f3a5140f99f2"
+msgstr "재시작"
+
+#: StrStr.csv:1226
+msgctxt "Please name this game log."
+msgid "sheet|StrStr.csv|en|0076af331367b5093b645479aa11b829"
+msgstr "로그의 이름을 입력하세요."
+
+#: StrStr.csv:1225
+msgctxt "{0}:"
+msgid "sheet|StrStr.csv|en|c6c6d1e7eacc6b98de428c66b09938f0"
+msgstr "{0}:"
+
+#: StrStr.csv:1224
+msgctxt "Entry Limit: Adept or above"
+msgid "sheet|StrStr.csv|en|8f29fb5a8fbdb9a86e6c18919a858712"
+msgstr "입장 제한: 작사 이상"
+
+#: StrStr.csv:1223
+msgctxt ""
+"Do you want to spend {0} Coppers to enter? You can earn event points after "
+"finishing 4 matches in the Silver Room or other Ranked Room above after each"
+" attempt."
+msgid "sheet|StrStr.csv|en|45aebe0b76d8def8d681213cc6a2ff87"
+msgstr "{0} 동전을 소비하여 입장할까요? 입장 후 은탁 이상의 단위전 4경기에서 이벤트 PT를 획득할 수 있습니다."
+
+#: StrStr.csv:1222
+msgctxt "Please mark your favourite character(s) first."
+msgid "sheet|StrStr.csv|en|81f9428b059c90453a6f062ef8174d28"
+msgstr "즐겨찾기가 없습니다."
+
+#: StrStr.csv:1221
+msgctxt "Counted Yakuman"
+msgid "sheet|StrStr.csv|en|69c39bbdbf1b5c22e1e26f6b5ac5e3ef"
+msgstr "헤아림 역만"
+
+#: StrStr.csv:1220
+msgctxt "Current points:"
+msgid "sheet|StrStr.csv|en|17becdcde8e4fee20cf53a8feb59ff78"
+msgstr "현재 PT:"
+
+#: StrStr.csv:1219
+msgctxt "You can claim the rewards after finishing the matches of each stage."
+msgid "sheet|StrStr.csv|en|899b06d9421fefda7b926ee2eb02273b"
+msgstr "각 단계의 경기를 완료한 후 보상을 받을 수 있습니다."
+
+#: StrStr.csv:1218
+msgctxt "Ranking"
+msgid "sheet|StrStr.csv|en|37ae66f03261bd62844188f7e28092ff"
+msgstr "순위"
+
+#: StrStr.csv:1216
+msgctxt "3-Player Mahjong"
+msgid "sheet|StrStr.csv|en|bf689b46374f785a6e29f5e20a3b400c"
+msgstr "3인 마작"
+
+#: StrStr.csv:1215
+msgctxt "4-Player Mahjong"
+msgid "sheet|StrStr.csv|en|748d83eb46981719677092dd0fb3db31"
+msgstr "4인 마작"
+
+#: StrStr.csv:1214
+msgctxt ""
+"After finishing matches in the Silver Room or other Ranked Room above, you "
+"can earn points according to your ranking."
+msgid "sheet|StrStr.csv|en|05e02229d42d4a2cfe601271ea32eb16"
+msgstr "은탁 이상의 단위전에서 경기를 완료하면 순위에 따라 점수를 획득할 수 있습니다."
+
+#: StrStr.csv:1213
+msgctxt "Epic Showdown Point Rules"
+msgid "sheet|StrStr.csv|en|67c9b23aa2873ae73e4709a2f46af6ec"
+msgstr "용투호쟁 점수 규칙"
+
+#: StrStr.csv:1212
+msgctxt "Epic Showdown Rewards"
+msgid "sheet|StrStr.csv|en|cc3f785af980ee4d29061fa88d8af4b3"
+msgstr "용투호쟁 보상"
+
+#: StrStr.csv:1210
+msgctxt "Epic Showdown"
+msgid "sheet|StrStr.csv|en|f30a350c4d4e9941688453240a85826d"
+msgstr "용투호쟁"
+
+#: StrStr.csv:1208
+msgctxt "Current Stage:"
+msgid "sheet|StrStr.csv|en|bea3393cdde7466ae5a95a432f52e3e2"
+msgstr "진행중인 단계:"
+
+#: StrStr.csv:1207
+msgctxt ""
+"Abandon match? Abandoning will not affect Advancement qualifications, and "
+"players will still be able to claim earned rewards."
+msgid "sheet|StrStr.csv|en|a09206e3033d4ceeb463965ed4779515"
+msgstr "나머지 경기를 기권할까요? 진출이 확정된 경우 기권해도 진출할 수 있으며, 즉시 보상을 받을 수 있습니다."
+
+#: StrStr.csv:1204
+msgctxt "Epic Showdown Stage {0} Reward"
+msgid "sheet|StrStr.csv|en|bc8be6dc948d6d58d964f4d2831e5381"
+msgstr "용투호쟁 {0} 보상"
+
+#: StrStr.csv:1203
+msgctxt "You've completed the match"
+msgid "sheet|StrStr.csv|en|f11afd041211fe0e3784d61e4e065ece"
+msgstr "모든 경기가 종료되었습니다"
+
+#: StrStr.csv:1202
+msgctxt "You win"
+msgid "sheet|StrStr.csv|en|5c39abc730cc23567774e94251d4d025"
+msgstr "우승을 축하합니다"
+
+#: StrStr.csv:1201
+msgctxt "Only one attempt for the Finals"
+msgid "sheet|StrStr.csv|en|574591210f9036695b96ee58e9a42bf3"
+msgstr "결승전 입장은 한번만 가능"
+
+#: StrStr.csv:1200
+msgctxt "Get {0} points to obtain {1}{2}"
+msgid "sheet|StrStr.csv|en|5c3ce9fcaf3c8a63451c7c17a5d150bc"
+msgstr "{0}PT 획득시 {1}{2} 입수 가능"
+
+#: StrStr.csv:1211
+msgctxt "Failed to Advance"
+msgid "sheet|StrStr.csv|en|fab5ac92e4294e2e87a294d444c73a02"
+msgstr "진출 실패"
+
+#: StrStr.csv:1196
+msgctxt "Get {0} points to advance to {1}{2}"
+msgid "sheet|StrStr.csv|en|3479a682c7345df1ca1db3959d7085fa"
+msgstr "{0}PT 획득시 {1}{2} 진출 확정"
+
+#: StrStr.csv:1195
+msgctxt "{0}/{1}/{2} {3}:{4}"
+msgid "sheet|StrStr.csv|en|b333b7c16bdcc202b27ef79713b0f24a"
+msgstr "{0}/{1}/{2} {3}:{4}"
+
+#: StrStr.csv:1194
+msgctxt "Expiry Date:"
+msgid "sheet|StrStr.csv|en|23c095f4c173df69d4f248f6695dd590"
+msgstr "유효 기간:"
+
+#: StrStr.csv:1193
+msgctxt "Available Matches:"
+msgid "sheet|StrStr.csv|en|94c2e30c49c0c2e9069eb7ec921c6de6"
+msgstr "남은 경기:"
+
+#: StrStr.csv:1191
+msgctxt "The first attempt at each stage is free"
+msgid "sheet|StrStr.csv|en|05224c2761d654762f489c8f4f425384"
+msgstr "각 단계 첫 도전 무료"
+
+#: StrStr.csv:1190
+msgctxt "Cost:"
+msgid "sheet|StrStr.csv|en|69edde90a1c38b2efccc65419fc0e540"
+msgstr "비용:"
+
+#: StrStr.csv:1189
+msgctxt "Stage Available Attempts:"
+msgid "sheet|StrStr.csv|en|603ce474f7ab339ae18c60fc2e407d58"
+msgstr "이 단계 시도 가능 횟수:"
+
+#: StrStr.csv:1188
+msgctxt "Calculating Stats..."
+msgid "sheet|StrStr.csv|en|e7623de514dcae2fb02be4a19f1559cf"
+msgstr "데이터 처리 중..."
+
+#: StrStr.csv:1187
+msgctxt "You have advanced to {0}"
+msgid "sheet|StrStr.csv|en|4ca40385a5c6c87ca1bdb3e607fb9840"
+msgstr "{0} 진출 확정됨"
+
+#: StrStr.csv:1186
+msgctxt "Advance to the Finals"
+msgid "sheet|StrStr.csv|en|dfff65fa7f898c34889fcdfb375847c8"
+msgstr "결승전 진출"
+
+#: StrStr.csv:1185
+msgctxt "Winner"
+msgid "sheet|StrStr.csv|en|85144ab5880edc8513c39cfeb1bd5a5e"
+msgstr "우승자"
+
+#: StrStr.csv:1182
+msgctxt "Preliminaries"
+msgid "sheet|StrStr.csv|en|7ad034002c27ec941420ccdc527cfb38"
+msgstr "예선전"
+
+#: StrStr.csv:1184
+msgctxt "Finals"
+msgid "sheet|StrStr.csv|en|8919cca7218fc62416e8bec6d68828a2"
+msgstr "결승전"
+
+#: StrStr.csv:1183
+msgctxt "Semi-Finals"
+msgid "sheet|StrStr.csv|en|fe41d840f094be5b48c066672fcb8de3"
+msgstr "준결승전"
+
+#: StrStr.csv:1181
+msgctxt "Tiger"
+msgid "sheet|StrStr.csv|en|454c9843110686bf6f67ce5115b66617"
+msgstr "호 그룹"
+
+#: StrStr.csv:1180
+msgctxt "Dragon"
+msgid "sheet|StrStr.csv|en|583f4be146b6127f9e4f3f036ce7df43"
+msgstr "용 그룹"
+
+#: StrStr.csv:1179
+msgctxt "Exclusive Rewards"
+msgid "sheet|StrStr.csv|en|6bfc480a22ae5d2236ea1cc8e51ec187"
+msgstr "한정 보상"
+
+#: StrStr.csv:1177
+msgctxt "Oh! Careless Ichihime has lost the information about this Jyanshi."
+msgid "sheet|StrStr.csv|en|1492a157f9c28c6859fcd4ec1b3bfe1d"
+msgstr "앗! 이 작사에 대한 정보는 이치히메가 깜빡해버렸어요."
+
+#: StrStr.csv:1176
+msgctxt "The reward has been sent to your Items - Decoration."
+msgid "sheet|StrStr.csv|en|5d662af5a332a0d5753160316a1b642b"
+msgstr "보상이 창고 - 장식 페이지에 반영되었습니다."
+
+#: StrStr.csv:1175
+msgctxt "Received Reward:"
+msgid "sheet|StrStr.csv|en|16fd8bfa57e84abf7ffa24ff4bd18853"
+msgstr "받은 보상:"
+
+#: StrStr.csv:1174
+msgctxt "My Ranking:"
+msgid "sheet|StrStr.csv|en|088ba46b2e75c87ad5c5bd71d1869ea9"
+msgstr "내 순위:"
+
+#: StrStr.csv:1172
+msgctxt "No.{0}"
+msgid "sheet|StrStr.csv|en|130bdc7c3649ab5cb72dde8c043a53d6"
+msgstr "{0}위"
+
+#: StrStr.csv:1170
+msgctxt "Season has ended"
+msgid "sheet|StrStr.csv|en|e3f5e4ff91325eb9d8e49334d48a8fbb"
+msgstr "시즌이 종료됨"
+
+#: StrStr.csv:1169
+msgctxt "Do you want to remove this game log from Collection？"
+msgid "sheet|StrStr.csv|en|940acc3a7f7a45ff1af65fbbd8977f22"
+msgstr "컬렉션에서 이 로그를 제거할까요?"
+
+#: StrStr.csv:1167
+msgctxt "Insufficient Taiyaki"
+msgid "sheet|StrStr.csv|en|6bb43c7e818ec45f447b6c7e2ff4334a"
+msgstr "붕어빵 부족"
+
+#: StrStr.csv:1166
+msgctxt "Wish successful!"
+msgid "sheet|StrStr.csv|en|797297140ff32aff4d67edbebef1c2eb"
+msgstr "기도 성공!"
+
+#: StrStr.csv:1165
+msgctxt "Wish to Wanjirou"
+msgid "sheet|StrStr.csv|en|f6505e6983ee1977d17cd4cfce122f1e"
+msgstr "왕지로에게 기도"
+
+#: StrStr.csv:1164
+msgctxt "Wish to Kaguyahime"
+msgid "sheet|StrStr.csv|en|06165606fd26c313ac5f1c7b42659331"
+msgstr "카구야히메에게 기도"
+
+#: StrStr.csv:1163
+msgctxt "Wish to Ichihime"
+msgid "sheet|StrStr.csv|en|27a428d855cfcf79a6127fd7a620f9be"
+msgstr "이치히메에게 기도"
+
+#: StrStr.csv:1161
+msgctxt "You have reached max Wishing level"
+msgid "sheet|StrStr.csv|en|0f83ffa660f40f375ae68f9b10c04475"
+msgstr "기도 레벨이 최대치에 도달했습니다"
+
+#: StrStr.csv:1159
+msgctxt "Taiyakis from Battle Rank +"
+msgid "sheet|StrStr.csv|en|71c7f43f55fb503ca7919e9c33de1aa3"
+msgstr "대국에서 입수한 붕어빵: +"
+
+#: StrStr.csv:1160
+msgctxt "After upgrading +"
+msgid "sheet|StrStr.csv|en|cae794df5c2248486701a7e013f24253"
+msgstr "다음 단계: +"
+
+#: StrStr.csv:1157
+msgctxt "Taiyakis from Tea Party +"
+msgid "sheet|StrStr.csv|en|c909d0c8071c9d3b5d73c815745200f6"
+msgstr "다과회에서 입수한 붕어빵: +"
+
+#: StrStr.csv:1156
+msgctxt "After upgrading:"
+msgid "sheet|StrStr.csv|en|ab6e49a891a6cd7f37b3ba38786690eb"
+msgstr "다음 단계:"
+
+#: StrStr.csv:1155
+msgctxt "Max Taiyakis from Battle daily:"
+msgid "sheet|StrStr.csv|en|5683494650a83b2fb3088136acc39fff"
+msgstr "대국에서 붕어빵 입수 일일 상한:"
+
+#: StrStr.csv:1154
+msgctxt "Level Up"
+msgid "sheet|StrStr.csv|en|acfb25841f51fd9d99af1113c11085c0"
+msgstr "레벨 업"
+
+#: StrStr.csv:1150
+msgctxt "Hot Spring Camp"
+msgid "sheet|StrStr.csv|en|4f25017910f31e32c51f94b5aeb999b7"
+msgstr "온천 합숙"
+
+#: StrStr.csv:1124
+msgctxt "Weekly Reward"
+msgid "sheet|StrStr.csv|en|266f1b24fe0844f7e1f7f180c23a1067"
+msgstr "주간 보상"
+
+#: StrStr.csv:1209
+msgctxt "Emote"
+msgid "sheet|StrStr.csv|en|4b72cd217167f3afa7ba448cbebefe3a"
+msgstr "이모티콘"
+
+#: StrStr.csv:271
+msgctxt "Multiple Yakuman"
+msgid "sheet|StrStr.csv|en|bd0c44de9b3447a0e5ad94ac142d8801"
+msgstr "중첩역만"
+
+#: StrStr.csv:257
+msgctxt "New look received\\nNew emote received"
+msgid "sheet|StrStr.csv|en|89a05a042cbc2bb398592ebaf5c9ce8e"
+msgstr ""
+"새 의상 획득\\n"
+"새 이모티콘 획득"
+
+#: SpotSpot.csv:19
+msgctxt "Amusement Park Tour"
+msgid "sheet|SpotSpot.csv|name_en|37678141a28bbd0847ae45412f2a7b96"
+msgstr "놀이공원 여행"
+
+#: SpotSpot.csv:18
+msgctxt "The Social Disorder of \"Social Artificial Intelligence\""
+msgid "sheet|SpotSpot.csv|name_en|0445b1751c6bdc49743beb6b838f3a3a"
+msgstr "\"소셜 인공지능\"의 커뮤니케이션 능력"
+
+#: SpotSpot.csv:17
+msgctxt "Mooncake Tale"
+msgid "sheet|SpotSpot.csv|name_en|1eb9a5a4e7453926585b1f376c8c7de8"
+msgstr "월병 이야기"
+
+#: SpotSpot.csv:16
+msgctxt "File No.37"
+msgid "sheet|SpotSpot.csv|name_en|395521fae4c9114e478c7fe9a302dc61"
+msgstr "파일 No.37"
+
+#: SpotSpot.csv:15
+msgctxt "File No.33"
+msgid "sheet|SpotSpot.csv|name_en|353ff72e5031031a5fef8839ad921fc5"
+msgstr "파일 No.33"
+
+#: SpotSpot.csv:14
+msgctxt "File No.28"
+msgid "sheet|SpotSpot.csv|name_en|1c8e8c436bffb75a76efa0547ddd4326"
+msgstr "파일 No.28"
+
+#: SpotRewards.csv:21
+msgctxt "Unlock the Ending - Princess Heroine"
+msgid "sheet|SpotRewards.csv|content_en|06377bed06438aae404c6a00c66a9f1a"
+msgstr "엔딩 잠금 해제 - 용사 공주"
+
+#: SpotRewards.csv:20
+msgctxt "Unlock the Ending - Through \"Life\" and \"Death\""
+msgid "sheet|SpotRewards.csv|content_en|ad515b7eefa7b2f8da0b5f83f83905ba"
+msgstr "엔딩 잠금 해제 - \"생사\"를 넘어서"
+
+#: SpotRewards.csv:19
+msgctxt "Unlock the Ending - Happiness-go-round"
+msgid "sheet|SpotRewards.csv|content_en|fb9aa411751ba307162e0c76b5bc2df4"
+msgstr "엔딩 잠금 해제 - 행복의 회전목마"
+
+#: SpotRewards.csv:18
+msgctxt "Unlock the Ending - Like-minded Friends"
+msgid "sheet|SpotRewards.csv|content_en|ea5f28bcb9b7071b3f038c4a918953dc"
+msgstr "엔딩 잠금 해제 - 의기투합"
+
+#: SpotRewards.csv:17
+msgctxt "Unlock the Ending - Friends in Sync"
+msgid "sheet|SpotRewards.csv|content_en|a608ae770bfcb38398c987b6826e39f3"
+msgstr "엔딩 잠금 해제 - 이심전심"
+
+#: SpotRewards.csv:16
+msgctxt "Unlock the Ending - Mooncakes with Love"
+msgid "sheet|SpotRewards.csv|content_en|b5008608c053d3b7bef7aaa0d0a4fb61"
+msgstr "엔딩 잠금 해제 - 사랑이 담긴 월병"
+
+#: SpotRewards.csv:15
+msgctxt "Unlock the Ending - Mid-Autumn Gift"
+msgid "sheet|SpotRewards.csv|content_en|ed928b2abd11d3d03d95e1c9ad0e4954"
+msgstr "엔딩 잠금 해제 - 추석 선물"
+
+#: AchievementAchievement.csv:372
+msgctxt "Win top 2 places 5 times in a row in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|280fac515d12df9bd2b2eff2e0102d27"
+msgstr "4인 단위전에서 2위 이상 연속 5번 달성하기"
+
+#: AchievementAchievement.csv:370
+msgctxt "Win 1st place 5 times in a row in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9e94799dc715d0b028b19999d6efbe7a"
+msgstr "4인 단위전에서 1위 연속 5번 달성하기"
+
+#: AchievementAchievement.csv:369
+msgctxt "Win 1st place 3 times in a row in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7a3507872bc7efed90449d95032153f0"
+msgstr "4인 단위전에서 1위 연속 3번 달성하기"
+
+#: AchievementAchievement.csv:207
+msgctxt "Complete 10 Casual Matches"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|5e9d5d397d770c430071f497b0c96f79"
+msgstr "캐주얼 10회 완료하기"
+
+#: ui_en.json
+msgctxt "Confirm"
+msgid "json|mj/hu_xuezhan|6|3|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
+
+#: ui_en.json
+msgctxt "Confirm"
+msgid "json|mj/huleshow|3|12|3|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
+
+#: VoiceSound.csv:2786
+msgctxt "Riichi"
+msgid ""
+"sheet|VoiceSound.csv|words_en(audio/sound/aiyin/act_rich)|a24a259048cb6a113d9eeba1d7647fce"
+msgstr "리치"
+
+#: ShopsGoods.csv:85
+msgctxt "Teru Miyanaga's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|72e5d6cf5c17ef70d9ca69e5b559c52f"
+msgstr "미야나가 테루의 의상"
+
+#: ShopsGoods.csv:84
+msgctxt "Koromo Amae's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|2cb7569f8a5c4ec420f7c78af3f9bc0f"
+msgstr "아마에 코로모의 의상"
+
+#: ShopsGoods.csv:83
+msgctxt "Nodoka Haramura's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|21dc43826b51dcc73d1378b396852b17"
+msgstr "하라무라 노도카의 의상"
+
+#: ShopsGoods.csv:82
+msgctxt "Saki Miyanaga's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|29d3a549aa991d5614df10e1163dfbdd"
+msgstr "미야나가 사키의 의상"
+
+#: ShopsGoods.csv:85
+msgctxt "The Exalted Blossom"
+msgid "sheet|ShopsGoods.csv|name_en|00b24070a132272f2eebdb2ea0d8d33c"
+msgstr "늠름히 피어난 꽃"
+
+#: ShopsGoods.csv:79
+msgctxt "Joseph's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|5b842ed15906bdac37ecf63a301cefcb"
+msgstr "조셉의 의상"
+
+#: ShopsGoods.csv:78
+msgctxt "Kirara Fujimoto's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|275f17915f25c7c8abca74ec6fcda0b8"
+msgstr "후지모토 키라라의 의상"
+
+#: ShopsGoods.csv:77
+msgctxt "Kujou Riu's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|7695308bb714f7d36ce1811b3020d444"
+msgstr "쿠죠 리우의 의상"
+
+#: ShopsGoods.csv:79
+msgctxt "Snowy New Year"
+msgid "sheet|ShopsGoods.csv|name_en|3bf1604957d4650f9d5946efdc991bc3"
+msgstr "눈덮인 새해"
+
+#: ShopsGoods.csv:76
+msgctxt "Shrine Yard · Snow White"
+msgid "sheet|ShopsGoods.csv|name_en|f727622f1be30c20fbc342ed2b7047e1"
+msgstr "신사 앞뜰 · 백설공주"
+
+#: ShopsGoods.csv:71
+msgctxt "Sawako Kitami's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|23dea9c4c822e067bf5f7f3527959b31"
+msgstr "키타미 사와코의 의상"
+
+#: ShopsGoods.csv:70
+msgctxt "Kaguyahime's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|1ec2be95560cc5d298249b57b5f03218"
+msgstr "카구야히메의 의상"
+
+#: ShopsGoods.csv:71
+msgctxt "Snowy Night Whisper"
+msgid "sheet|ShopsGoods.csv|name_en|85e341ebd79809d011cac102b59570d4"
+msgstr "성야의 속삭임"
+
+#: ShopsGoods.csv:68
+msgctxt "Hideki Akechi’s outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|1b2e65f1fb04e5984eb72b9dff673503"
+msgstr "아케치 히데키의 의상"
+
+#: ItemDefinitionTitle.csv:41
+msgctxt "にじさんじ麻雀杯2021優勝記念"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|3dad628a3269c556bbf5b76868eff541"
+msgstr "にじさんじ麻雀杯2021優勝記念"
+
+#: ItemDefinitionTitle.csv:41
+msgctxt "最強鴉天狗の愛弟子"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|c92685b6dd9717ad8f8170b937ef0e53"
+msgstr "最強鴉天狗の愛弟子"
+
+#: ItemDefinitionTitle.csv:30
+msgctxt "雀魂バーチャルインターハイ優勝チームに贈る称号。"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|5d78281debff1f5aae13a7ea1c75e4e4"
+msgstr "雀魂バーチャルインターハイ優勝チームに贈る称号。"
+
+#: ItemDefinitionTitle.csv:30
+msgctxt "インターハイ王者"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|bd61c37d167c0021f71c892a6520162b"
+msgstr "インターハイ王者"
+
+#: ItemDefinitionSkin.csv:107
+msgctxt "Teru Miyanaga’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|f8bdc446a0bd00de9e2d3f0ec0e1a5d6"
+msgstr "미야나가 테루의 기본 의상"
+
+#: ItemDefinitionSkin.csv:107
+msgctxt "Teru Miyanaga"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|ff36e747d581e8b22b4be9a763a741b6"
+msgstr "미야나가 테루"
+
+#: ItemDefinitionSkin.csv:104
+msgctxt "Koromo Amae’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|a19a83aab0061c5d2500b714ef2a1486"
+msgstr "아마에 코로모의 기본 의상"
+
+#: ItemDefinitionSkin.csv:104
+msgctxt "Koromo Amae"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|bd68333a3a029b654d58c95cdc66a908"
+msgstr "아마에 코로모"
+
+#: ItemDefinitionSkin.csv:101
+msgctxt "Nodoka Haramura’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|5b78d600fd089ae6a427c181fed4042c"
+msgstr "하라무라 노도카의 기본 의상"
+
+#: ItemDefinitionSkin.csv:101
+msgctxt "Nodoka Haramura"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|da44aa06ec806926b8778ecd0e5e7bd0"
+msgstr "하라무라 노도카"
+
+#: ItemDefinitionSkin.csv:109
+msgctxt "Collab"
+msgid ""
+"sheet|ItemDefinitionSkin.csv|lock_tips_en|ee27b7add7f90bd9c9cb2b803a480d8d"
+msgstr "콜라보"
+
+#: ItemDefinitionSkin.csv:109
+msgctxt "The Exalted Blossom"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|00b24070a132272f2eebdb2ea0d8d33c"
+msgstr "늠름히 피어난 꽃"
+
+#: ItemDefinitionSkin.csv:98
+msgctxt "Saki Miyanaga’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|ad113c4de178f95d40347f6467ae95b5"
+msgstr "미야나가 사키의 기본 의상"
+
+#: ItemDefinitionSkin.csv:98
+msgctxt "Saki Miyanaga"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|fed99e7843a75a26f48a01bf9bd2cabb"
+msgstr "미야나가 사키"
+
+#: ItemDefinitionSkin.csv:96
+msgctxt "Chihori Terasaki’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|a8ff345199502aa69ef4faf32fd62781"
+msgstr "테라사키 치호리의 기본 의상"
+
+#: ItemDefinitionSkin.csv:96
+msgctxt "Chihori Terasaki"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|4b5808825aa13829d150a0fc525e7c83"
+msgstr "테라사키 치호리"
+
+#: ItemDefinitionSkin.csv:94
+msgctxt "Eliisa’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|325c9ac0b36413467534a0ba8cc1f491"
+msgstr "엘리사의 기본 의상"
+
+#: ItemDefinitionSkin.csv:94
+msgctxt "Eliisa"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|dd3934769e00bcb44b76b6cf80276120"
+msgstr "엘리사"
+
+#: DesktopMatchmode.csv:39
+msgctxt "Battle of Asura"
+msgid ""
+"sheet|DesktopMatchmode.csv|room_name_en|376b211226923889ce55af670da2cb41"
+msgstr "수라의 전투"
+
+#: AchievementAchievement.csv:382
+msgctxt "Win top 2 places 10 times in a row in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|8cad6516110c6f28f2640d6a9424f9fd"
+msgstr "3인 단위전에서 2위 이상 연속 10번 달성하기"
+
+#: AchievementAchievement.csv:381
+msgctxt "Win top 2 places 5 times in a row in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c7c1e2f8d1b23289884e1e63f0b9f4a7"
+msgstr "3인 단위전에서 2위 이상 연속 5번 달성하기"
+
+#: AchievementAchievement.csv:379
+msgctxt "Win 1st place 5 times in a row in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7142c9c6483aeebc07d675a364d464d8"
+msgstr "3인 단위전에서 1위 연속 5번 달성하기"
+
+#: AchievementAchievement.csv:378
+msgctxt "Win 1st place 3 times in a row in 3-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|fd7f08f2d887ec1f0ece2628c31eb044"
+msgstr "3인 단위전에서 1위 연속 3번 달성하기"
+
+#: AchievementAchievement.csv:376
+msgctxt "Win top 3 places 10 times in a row in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|553b54e5b32d5cf66831d629bf194a6e"
+msgstr "4인 단위전에서 3위 이상 연속 10번 달성하기"
+
+#: AchievementAchievement.csv:375
+msgctxt "Win top 3 places 5 times in a row in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|494d3a00838afa40cec569538183451d"
+msgstr "4인 단위전에서 3위 이상 연속 5번 달성하기"
+
+#: AchievementAchievement.csv:373
+msgctxt "Win top 2 places 10 times in a row in 4-Player Ranked Room"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|cee15d279cb5c94c9fa0016be8d31255"
+msgstr "4인 단위전에서 2위 이상 연속 10번 달성하기"
