@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020, 2021.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-28 02:28+0000\n"
+"PO-Revision-Date: 2021-02-06 07:03+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -70396,3 +70396,691 @@ msgctxt "Win top 2 places 10 times in a row in 4-Player Ranked Room"
 msgid ""
 "sheet|AchievementAchievement.csv|desc_en|cee15d279cb5c94c9fa0016be8d31255"
 msgstr "4인 단위전에서 2위 이상 연속 10번 달성하기"
+
+#: StrStr.csv:1310
+msgctxt "Calculating"
+msgid "sheet|StrStr.csv|en|fd655679a2f001de7633d8ea5293f4d7"
+msgstr "집계중"
+
+#: StrStr.csv:1309
+msgctxt "Leaderboard will be unlocked after 2/9 2:00 P.M. (UTC-7)."
+msgid "sheet|StrStr.csv|en|e0404b60a28d85aa14543c793da7e893"
+msgstr "순위표는 2/9 2:00 P.M. (UTC-7) 이후에 공개됩니다."
+
+#: StrStr.csv:1308
+msgctxt ""
+"2/8\n"
+"2:00 P.M."
+msgid "sheet|StrStr.csv|en|da563b32fa5af010a03aee1126b4cd0a"
+msgstr ""
+"2/8\n"
+"2:00 P.M."
+
+#: StrStr.csv:1307
+msgctxt ""
+"2/7\n"
+"2:00 P.M."
+msgid "sheet|StrStr.csv|en|6bab8e3339ebf334b1f8ad73829c7ef6"
+msgstr ""
+"2/7\n"
+"2:00 P.M."
+
+#: StrStr.csv:1306
+msgctxt ""
+"2/6\n"
+"2:00 P.M."
+msgid "sheet|StrStr.csv|en|60f75ea5f7af881ebe4b0a83db491e5b"
+msgstr ""
+"2/6\n"
+"2:00 P.M."
+
+#: StrStr.csv:1305
+msgctxt "Battle of Asura"
+msgid "sheet|StrStr.csv|en|376b211226923889ce55af670da2cb41"
+msgstr "수라의 전투"
+
+#: StrStr.csv:1302
+msgctxt ""
+"When the event ends, you can obtain extra rewards according to your server "
+"ranking of dispel times."
+msgid "sheet|StrStr.csv|en|5917b7b4f75861f147713d48861b41bb"
+msgstr "이벤트 종료시 종료 시각의 서버 순위에 따라 추가 보상을 받을 수 있습니다."
+
+#: StrStr.csv:1301
+msgctxt ""
+"The exchange rate of winning points: 4-player Ranked Match: 1:1, Other "
+"Modes: 3:1."
+msgid "sheet|StrStr.csv|en|b7f61e5c83b519dd530e6f317291b8de"
+msgstr "포인트 교환 비율: 4인 단위전: 1:1, 다른 모드: 3:1."
+
+#: StrStr.csv:1300
+msgctxt ""
+"During the event, points earned in Ranked Match and Battle of Asura room can"
+" be used to dispel the Monster Nian."
+msgid "sheet|StrStr.csv|en|607367817f7f2765aa63e26201fe6a14"
+msgstr "이벤트 기간동안 단위전과 수라의 전투에서 획득한 포인트로 해괴수를 퇴치할 수 있습니다."
+
+#: StrStr.csv:1299
+msgctxt "Matches"
+msgid "sheet|StrStr.csv|en|a61bbf7ad0ed153cb6c84fe3c8a9f2bb"
+msgstr "대국"
+
+#: StrStr.csv:1296
+msgctxt "Dispel {0} time(s)"
+msgid "sheet|StrStr.csv|en|bc0bfb6105ab4434cd11b7abd33ff313"
+msgstr "퇴치 {0}회"
+
+#: StrStr.csv:1295
+msgctxt ""
+"The rewards will be sent by mail when the event ends. Please don't forget to"
+" claim them."
+msgid "sheet|StrStr.csv|en|d2d774c253dfe58c264f4d9999132913"
+msgstr "보상은 이벤트 종료 후 게임 내 우편을 통해 발송됩니다. 잊지 말고 받아주세요."
+
+#: StrStr.csv:1294
+msgctxt "Top {0}% - Top {1}%:"
+msgid "sheet|StrStr.csv|en|ef4d53374bb0cf5ff3d16d12c1312b54"
+msgstr "상위 {0}% - 상위 {1}%:"
+
+#: StrStr.csv:1293
+msgctxt "Dispel Time(s)"
+msgid "sheet|StrStr.csv|en|2c320d15455484d96beb9a5fac57b201"
+msgstr "퇴치 횟수"
+
+#: StrStr.csv:1292
+msgctxt "Remaining HP:"
+msgid "sheet|StrStr.csv|en|fe86033e0017b18c850750d8a7611db6"
+msgstr "남은 HP:"
+
+#: StrStr.csv:1291
+msgctxt "Total Dispel Time(s):"
+msgid "sheet|StrStr.csv|en|cbf49f02a99bd70d7da1c579c2750020"
+msgstr "총 퇴치 횟수:"
+
+#: StrStr.csv:1290
+msgctxt "Top {0}%"
+msgid "sheet|StrStr.csv|en|85a86f73b3ddd292ec16039813c57e35"
+msgstr "상위 {0}%"
+
+#: StrStr.csv:1289
+msgctxt "Server Ranking:"
+msgid "sheet|StrStr.csv|en|781fd0b2fe4e52f2fcce654b5da6d0c3"
+msgstr "서버 순위:"
+
+#: StrStr.csv:1288
+msgctxt "Not on the ranking"
+msgid "sheet|StrStr.csv|en|71e1a69baa8f24d12eec06810d30f1ec"
+msgstr "순위 밖"
+
+#: StrStr.csv:1287
+msgctxt "Now Playing"
+msgid "sheet|StrStr.csv|en|572caa56500d8d2f13024dcab5732669"
+msgstr "재생중"
+
+#: StrStr.csv:1286
+msgctxt "Grade:"
+msgid "sheet|StrStr.csv|en|17a6f1f9930d065f8ebe6289ced7ec18"
+msgstr "학년:"
+
+#: StrStr.csv:1285
+msgctxt "RECOM"
+msgid "sheet|StrStr.csv|en|e4f0cc4baaf6814a985b8b241f5b1a45"
+msgstr "추천"
+
+#: StrStr.csv:1283
+msgctxt "Got it"
+msgid "sheet|StrStr.csv|en|78e981599281c16fe016b55b136edf5f"
+msgstr "알겠습니다"
+
+#: StrStr.csv:1282
+msgctxt "Skip"
+msgid "sheet|StrStr.csv|en|72ef2b9b6965d078e3c7f95487a82d1c"
+msgstr "넘어가기"
+
+#: StrStr.csv:1274
+msgctxt "Special rules"
+msgid "sheet|StrStr.csv|en|663fcf5d7d42dff032a042d1e467bace"
+msgstr "특수 규칙"
+
+#: StrStr.csv:989
+msgctxt ""
+"2/10 14:00 - \n"
+"2/17 13:59 (UTC-7)"
+msgid "sheet|StrStr.csv|en|49a3df3cc836620993a14f7e9d862e61"
+msgstr ""
+"2/10 14:00 - \n"
+"2/17 13:59 (UTC-7)"
+
+#: StrStr.csv:830
+msgctxt "Character switching is disabled during matchmaking."
+msgid "sheet|StrStr.csv|en|8f6eb09183c6d40869f780b34f687c67"
+msgstr "경기를 찾는 중에는 캐릭터를 변경할 수 없습니다."
+
+#: ShopsGoods.csv:89
+msgctxt "Momo Hina's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|08269f9b36e93768a8fbf011fb1db1de"
+msgstr "히나 모모의 의상"
+
+#: ShopsGoods.csv:89
+msgctxt "Wonderful Youth"
+msgid "sheet|ShopsGoods.csv|name_en|fac339a3933e4abfda2c4f155d6e1abb"
+msgstr "화창한 봄날"
+
+#: ItemDefinitionSkin.csv:114
+msgctxt "Qi Xi’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|8c7c5a23c40a20412d98b5f052709dd0"
+msgstr "치시의 기본 의상"
+
+#: ItemDefinitionSkin.csv:114
+msgctxt "Qi Xi"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|2ef4cb8771e3a4972be65a31037eab20"
+msgstr "치시"
+
+#: ItemDefinitionSkin.csv:112
+msgctxt "Fu Ji’s default look"
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|d24ba2be1a22e6fde163eefbdcfb68ad"
+msgstr "후지의 기본 의상"
+
+#: ItemDefinitionSkin.csv:112
+msgctxt "Fu Ji"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|885b496ea087da239e32a504ef67a08a"
+msgstr "후지"
+
+#: ItemDefinitionSkin.csv:83
+msgctxt ""
+"Wonderful Youth Exclusive\\n \"Why does Momo like Mr.Rabbit? Eh? Isn't this "
+"just as natural as how flowers bloom when spring comes?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|c018ae9460c00f9f3fa6d745972c5a17"
+msgstr ""
+"화창한 봄날 한정\\n"
+"\"모모가 왜 토끼 씨를 좋아하냐구요? 봄이 오면 꽃이 피는거랑 똑같은걸요?\""
+
+#: ItemDefinitionSkin.csv:83
+msgctxt "Wonderful Youth"
+msgid ""
+"sheet|ItemDefinitionSkin.csv|lock_tips_en|fac339a3933e4abfda2c4f155d6e1abb"
+msgstr "화창한 봄날"
+
+#: ItemDefinitionSkin.csv:22
+msgctxt ""
+"Wonderful Youth Exclusive\\n\"I was happy that you could celebrate Lunar New"
+" Year with me, so I tried this special outfit. Does Mai look good in it?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|84696c46e3255de68553324426940e73"
+msgstr ""
+"화창한 봄날 한정\\n"
+"\"주인님과 설날을 보낼 수 있어 기뻐요. 오늘은 평소에 입지 않던 옷을 입어봤는데.... 어울리나요?\""
+
+#: ItemDefinitionSkin.csv:83
+msgctxt "Wonderful Youth"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|fac339a3933e4abfda2c4f155d6e1abb"
+msgstr "화창한 봄날"
+
+#: ItemDefinitionItem.csv:226
+msgctxt ""
+"Unlocks all the characters' Lunar New Year limited-time Emote (excluding the"
+" collab characters). The stickers will be unavailable after 2021/3/12 1:59 "
+"P.M. (UTC-7)."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|cecaa2dd12651c799c618332f2c26559"
+msgstr ""
+"소지한 모든 작사의 새해 한정 이모티콘을 사용 가능합니다. 이모티콘은 2021/3/12 1:59 P.M. (UTC-7) 이후에는 사용할 "
+"수 없습니다."
+
+#: ItemDefinitionItem.csv:226
+msgctxt "Spring Exclusive Emotes"
+msgid "sheet|ItemDefinitionItem.csv|name_en|3d0238a563ca0fafd5039679a161cf49"
+msgstr "봄 한정 이모티콘"
+
+#: ItemDefinitionItem.csv:181
+msgctxt ""
+"At the Orchid Pavilion, the literati are having a winding stream party to "
+"relaxing music and rustling flowers.(Event limited, will be unobtainable "
+"after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|e00266d3505e9bb87a5b54c9e7256b1f"
+msgstr ""
+"난정은 대나무요, 현인이 높이 만나니. 구불구불한 물이 흐르고, 처마꽃이 흩날리네. (이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: ItemDefinitionItem.csv:181
+msgctxt "Winding Stream Party"
+msgid "sheet|ItemDefinitionItem.csv|name_en|511aa7f4fbde74dab680ef39523db4ad"
+msgstr "곡수유상"
+
+#: ItemDefinitionItem.csv:174
+msgctxt ""
+"Fireworks crackles as loud as mahjong tiles. Chii brings victory as well as "
+"Pon.(Event limited, will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|fd1f0186709ad1e4a0007155b7b47222"
+msgstr "불꽃놀이와 마작패의 소리, 한 입 먹고, 잔을 부딛히고, 화료하고! (이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: ItemDefinitionItem.csv:174
+msgctxt "Tablecloth - New Year Celebration"
+msgid "sheet|ItemDefinitionItem.csv|name_en|f496a368fd7b2d3e75d57e1b11a0cb48"
+msgstr "테이블보 - 봄의 작탁"
+
+#: ItemDefinitionItem.csv:166
+msgctxt ""
+"Usumi Ishihara says that he has modified the recipe of this candied "
+"hawthorn. Looks fine...I think.(Event limited, will be unobtainable after "
+"the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|463db3b0628e721bea8baca83bf0e5c1"
+msgstr ""
+"이시하라 우스미는 탕후루의 레시피를 조금 바꿔봤다고 했습니다. 보기에는... 괜찮아 보이네요. (이벤트 한정, 이벤트 종료 후 얻을 수 "
+"없음)"
+
+#: ItemDefinitionItem.csv:166
+msgctxt "Riichi Bet - Candied Hawthorn (Salty)"
+msgid "sheet|ItemDefinitionItem.csv|name_en|80cf2a63a78bcf859820fb81b57203ca"
+msgstr "리치 봉 - 탕후루(짠맛)"
+
+#: ItemDefinitionItem.csv:147
+msgctxt ""
+"\"Riichi, 1 Han.\" Don't let go a single chance of gaining Han.(Event "
+"limited, will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|044e5721b36f728c3cd8805fbd827988"
+msgstr "\"리치, 1판\", 판수를 늘릴 수 있는 기회는 놓칠 수 없지. (이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: ItemDefinitionItem.csv:147
+msgctxt "Riichi - Midas Touch"
+msgid "sheet|ItemDefinitionItem.csv|name_en|f1dd1a5f484504cf447228cf84a8d80f"
+msgstr "리치 - 미다스의 손"
+
+#: ItemDefinitionItem.csv:136
+msgctxt ""
+"\"Winning this hand can keep you lucky for a whole year. I'm not lying "
+"nyaa.\"(Event limited, will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|c85c71a5028520486f2e0925fcdd575b"
+msgstr "\"이번 국에서 이기면 1년동안 행복해질 수 있다냐! 진짜다냐!\" (이벤트 한정, 이벤트 종료 후 얻을 수 없음)"
+
+#: ItemDefinitionItem.csv:136
+msgctxt "Winning - A Lucky New Year"
+msgid "sheet|ItemDefinitionItem.csv|name_en|cc35bb1c42c2ab81b6c3f4219784f479"
+msgstr "승리 - 새해복"
+
+#: ItemDefinitionCharacter.csv:40
+msgctxt ""
+"Can't go home before he can matchmake 999 couples?! The boy claiming to be "
+"the God of Love has come to Ichiban City and announced that he would make "
+"everyone begin a relationship. But does such a young boy really understand "
+"what love is? \"Hmph! I have collected all you humans' love guides, so there"
+" shouldn't be any problem!\""
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|38bf54e488d7063676e5e455c6aacc67"
+msgstr ""
+"자칭 결연의 신으로, 999쌍의 커플을 맺어주기 전까지는 돌아갈 수 없다고 한다. 본인이 말하길 \"너희 인간이 쓴 연애 책은 모두 "
+"망라했으니, 완벽해!\"라고 하지만, 아직 새파란 이 신이 과연 인류의 \"애정\"을 이해할 수 있을까?"
+
+#: ItemDefinitionCharacter.csv:40
+msgctxt "Momiji Manju"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_hobby_en|e8c8b1ed6f2d3adecc934a216eba057b"
+msgstr "모미지만쥬"
+
+#: ItemDefinitionCharacter.csv:40
+msgctxt "7th  July"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|c737377482d282211b2965b5afed1b38"
+msgstr "7월 7일"
+
+#: ItemDefinitionCharacter.csv:40
+msgctxt "132cm"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_stature_en|ce4d5223e5e71cc4cbc3ac5d8cd35486"
+msgstr "132cm"
+
+#: ItemDefinitionCharacter.csv:40
+msgctxt "Qi Xi"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|2ef4cb8771e3a4972be65a31037eab20"
+msgstr "치시"
+
+#: ItemDefinitionCharacter.csv:39
+msgctxt ""
+"Fu Ji is the owner of Luck and Fortune and has the face of a 16-year-old "
+"girl. But according to an insider, she looked exactly like how she looks now"
+" when his great-great-great-great-grandfather played mahjong in this dojo. "
+"There are two taboos in Luck and Fortune: don't take the owner's money, and "
+"don't talk about her age."
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_en|3767601f8d968e2b4fbfb8f4cfa8293a"
+msgstr ""
+"마작도장 \"복록쌍전관\"의 도장주. 16세 소녀처럼 보이지만, 단골손님에 의하면 자신의 할아버지의 할아버지 대에도 현재의 외모였다고 "
+"한다. 그녀의 도장에는 두 가지 금기가 있다. 하나는 \"도장주에게 이겨서는 안 된다\". 다른 하나는 \"도장주의 나이 이야기를 하지 "
+"마라\"."
+
+#: ItemDefinitionCharacter.csv:39
+msgctxt "Money, gems"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_hobby_en|cd34b24eca4f32c17f830e23a4145c5c"
+msgstr "돈, 보석"
+
+#: ItemDefinitionCharacter.csv:39
+msgctxt "1st January"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|desc_birth_en|15f1cf303b91da5ee762e3be8bbe7916"
+msgstr "1월 1일"
+
+#: ItemDefinitionCharacter.csv:39
+msgctxt "Fu Ji"
+msgid ""
+"sheet|ItemDefinitionCharacter.csv|name_en|885b496ea087da239e32a504ef67a08a"
+msgstr "후지"
+
+#: CharacterEmoji.csv:268
+msgctxt "3/12(UTC-7)"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|15e1ea2f648d5434e1508dfac8f421d4"
+msgstr "3/12(UTC-7)"
+
+#: AudioBgm.csv:7
+msgctxt "Event Limited"
+msgid "sheet|AudioBgm.csv|unlock_desc_en|011980a58b771bd29495172b9e368067"
+msgstr "이벤트 한정"
+
+#: AudioBgm.csv:7
+msgctxt "Winding Stream Party"
+msgid "sheet|AudioBgm.csv|name_en|511aa7f4fbde74dab680ef39523db4ad"
+msgstr "곡수유상"
+
+#: ActivityActivity.csv:127
+msgctxt "Nian Incoming\\nSpring Festival Event"
+msgid "sheet|ActivityActivity.csv|name_en|59f19d93bc1a144207fd1b0cec37caba"
+msgstr ""
+"해괴수 습격\\n"
+"봄 축제 이벤트"
+
+#: AchievementAchievement.csv:371
+msgctxt "Bond with Qi Xi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9f005750632c683f9f865d0ccc19e0de"
+msgstr "치시와 계약을 맺기"
+
+#: AchievementAchievement.csv:371
+msgctxt "Bonded with Qi Xi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|a7337ff4a83efe339cc655ef25ef8118"
+msgstr "치시의 계약자"
+
+#: AchievementAchievement.csv:370
+msgctxt "Bond with Fu Ji"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|825835a09da65aa9e23f852454ac4bab"
+msgstr "후지와 계약을 맺기"
+
+#: AchievementAchievement.csv:370
+msgctxt "Bonded with Fu Ji"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|6f156bcbd3ae7e3b199a6e3611e9e98c"
+msgstr "치시의 계약자"
+
+#: AchievementAchievement.csv:369
+msgctxt "Obtain Jyanshi Qi Xi"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6e8b2433c7d0affe7ba0754f7b08aa53"
+msgstr "치시를 입수하기"
+
+#: AchievementAchievement.csv:369
+msgctxt "An Encounter with Qi Xi"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|b5905ba4bfb1c37a517ff59d2a5394f0"
+msgstr "치시와의 만남"
+
+#: AchievementAchievement.csv:368
+msgctxt "Obtain Jyanshi Fu Ji"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|28d4bff7d06dead45cad69c78bfcdf55"
+msgstr "후지를 입수하기"
+
+#: AchievementAchievement.csv:368
+msgctxt "An Encounter with Fu Ji"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|56d1a5d7894f499972954b5f63c4efb0"
+msgstr "후지와의 만남"
+
+#: erjietang/200004_en.bytes:2
+msgctxt "Miki Nikaidou\n"
+msgid ""
+"bytes|erjietang/200004_en.bytes|erjietang/200004|231|a2b728730180f34a40fdf0be901a6778"
+msgstr "니카이도 미키\n"
+
+#: ui_en.json
+msgctxt "Available"
+msgid "json|lobby/treasure|0|1|7|3|0|2|1|78945de8de090e90045d299651a68a9b"
+msgstr "사용가능"
+
+#: ui_en.json
+msgctxt "Redeem"
+msgid "json|lobby/treasure|0|1|5|2|0|81ed4dcb851fefbbbc791eeef4cd97a2"
+msgstr "교환"
+
+#: ui_en.json
+msgctxt "Overview"
+msgid "json|lobby/treasure|0|1|4|0|3b878279a04dc47d60932cb294d96259"
+msgstr "요약"
+
+#: ui_en.json
+msgctxt "Summon Once"
+msgid "json|lobby/treasure|0|1|1|6|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
+msgstr "1회 기원"
+
+#: ui_en.json
+msgctxt "Summon Once"
+msgid "json|lobby/treasure|0|1|1|5|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
+msgstr "1회 기원"
+
+#: ui_en.json
+msgctxt "Chance to get characters, decorations or gifts"
+msgid "json|lobby/treasure|0|1|1|3|c620150db889c75f43b8af67aedc642f"
+msgstr "캐릭터, 장식, 선물을 받을 수 있음"
+
+#: ui_en.json
+msgctxt "Get"
+msgid "json|lobby/treasure|0|1|1|1|c55582518cba2c464f29f5bae1c68def"
+msgstr "받기"
+
+#: ui_en.json
+msgctxt "Summon Once"
+msgid "json|lobby/treasure|0|1|1|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
+msgstr "1회 기원"
+
+#: ui_en.json
+msgctxt "Summon 10 Times"
+msgid "json|lobby/treasure|0|1|0|6|0|a90a723e5e0a2a55af1842730b439df8"
+msgstr "10회 기원"
+
+#: ui_en.json
+msgctxt "Summon 10 Times"
+msgid "json|lobby/treasure|0|1|0|5|0|a90a723e5e0a2a55af1842730b439df8"
+msgstr "10회 기원"
+
+#: ui_en.json
+msgctxt "Chance to get characters, decorations or gifts"
+msgid "json|lobby/treasure|0|1|0|3|c620150db889c75f43b8af67aedc642f"
+msgstr "캐릭터, 장식, 선물을 받을 수 있음"
+
+#: ui_en.json
+msgctxt "Get"
+msgid "json|lobby/treasure|0|1|0|1|c55582518cba2c464f29f5bae1c68def"
+msgstr "받기"
+
+#: ui_en.json
+msgctxt "Summon 10 Times"
+msgid "json|lobby/treasure|0|1|0|0|a90a723e5e0a2a55af1842730b439df8"
+msgstr "10회 기원"
+
+#: ui_en.json
+msgctxt "Ranked Match"
+msgid "json|lobby/playerinfo_en|1|5|6|3|0|76e1ad3f9b76ba224adc3f89dc021fbe"
+msgstr "단위전"
+
+#: ui_en.json
+msgctxt "Friendly Match"
+msgid "json|lobby/playerinfo_en|1|5|6|2|0|e933fed1bdd6f754fb8232129c38716b"
+msgstr "친선전"
+
+#: ui_en.json
+msgctxt "Event Match"
+msgid "json|lobby/playerinfo_en|1|5|6|1|0|d97f31fd695c04623859aef5ff3b6f57"
+msgstr "이벤트전"
+
+#: ui_en.json
+msgctxt "Ranked Match"
+msgid "json|lobby/playerinfo|1|5|6|3|0|76e1ad3f9b76ba224adc3f89dc021fbe"
+msgstr "단위전"
+
+#: ui_en.json
+msgctxt "Friendly Match"
+msgid "json|lobby/playerinfo|1|5|6|2|0|e933fed1bdd6f754fb8232129c38716b"
+msgstr "친선전"
+
+#: ui_en.json
+msgctxt "Event Match"
+msgid "json|lobby/playerinfo|1|5|6|1|0|d97f31fd695c04623859aef5ff3b6f57"
+msgstr "이벤트전"
+
+#: ui_en.json
+msgctxt ""
+"2/10 14:00 - \r\n"
+"2/17 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_jp|1|3|74aa794de241fc4f0b05adaab341df44"
+msgstr ""
+"2/10 14:00 - \n"
+"2/17 13:59 (UTC-7)"
+
+#: ui_en.json
+msgctxt ""
+"2/10 14:00 - \r\n"
+"2/17 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_en|1|3|74aa794de241fc4f0b05adaab341df44"
+msgstr ""
+"2/10 14:00 - \n"
+"2/17 13:59 (UTC-7)"
+
+#: ui_en.json
+msgctxt ""
+"2/10 14:00 - \r\n"
+"2/17 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_chs|1|3|74aa794de241fc4f0b05adaab341df44"
+msgstr ""
+"2/10 14:00 - \n"
+"2/17 13:59 (UTC-7)"
+
+#: ui_en.json
+msgctxt "Battle of Asura"
+msgid "json|lobby/create_room|0|0|1|0|3|0|376b211226923889ce55af670da2cb41"
+msgstr "수라의 전투"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid "json|lobby/chunjie_rank|0|4|0|0|2|3|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "Rewards"
+msgid "json|lobby/chunjie_rank|0|4|0|0|1|2|0d1c608c1498367815da8105e26b0a9e"
+msgstr "보상"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid "json|lobby/chunjie_rank|0|4|0|0|1|1|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt ""
+"The rewards will be sent by mail when the event ends. Please don't forget to"
+" claim them."
+msgid "json|lobby/chunjie_rank|0|4|0|0|0|d2d774c253dfe58c264f4d9999132913"
+msgstr "보상은 이벤트 종료 후 게임 내 우편을 통해 발송됩니다. 잊지 말고 받아주세요."
+
+#: ui_en.json
+msgctxt "Dispel Time(s)"
+msgid "json|lobby/chunjie_rank|0|3|0|0|5|1|2c320d15455484d96beb9a5fac57b201"
+msgstr "퇴치 횟수"
+
+#: ui_en.json
+msgctxt "Dispel Time(s)"
+msgid "json|lobby/chunjie_rank|0|2|3|1|2c320d15455484d96beb9a5fac57b201"
+msgstr "퇴치 횟수"
+
+#: ui_en.json
+msgctxt "Remaining HP:"
+msgid "json|lobby/chunjie|1|6|2|fe86033e0017b18c850750d8a7611db6"
+msgstr "남은 HP:"
+
+#: ui_en.json
+msgctxt "Total Dispel Time(s):"
+msgid "json|lobby/chunjie|1|4|1|cbf49f02a99bd70d7da1c579c2750020"
+msgstr "총 퇴치 횟수:"
+
+#: ui_en.json
+msgctxt "Ranked Match"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|6|3|0|76e1ad3f9b76ba224adc3f89dc021fbe"
+msgstr "단위전"
+
+#: ui_en.json
+msgctxt "Friendly Match"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|6|2|0|e933fed1bdd6f754fb8232129c38716b"
+msgstr "친선전"
+
+#: ui_en.json
+msgctxt "Event Match"
+msgid ""
+"json|both_ui/otherplayerinfo_en|0|2|6|1|0|d97f31fd695c04623859aef5ff3b6f57"
+msgstr "이벤트전"
+
+#: ui_en.json
+msgctxt "Ranked Match"
+msgid ""
+"json|both_ui/otherplayerinfo|0|2|5|3|0|76e1ad3f9b76ba224adc3f89dc021fbe"
+msgstr "단위전"
+
+#: ui_en.json
+msgctxt "Friendly Match"
+msgid ""
+"json|both_ui/otherplayerinfo|0|2|5|2|0|e933fed1bdd6f754fb8232129c38716b"
+msgstr "친선전"
+
+#: ui_en.json
+msgctxt "Event Match"
+msgid ""
+"json|both_ui/otherplayerinfo|0|2|5|1|0|d97f31fd695c04623859aef5ff3b6f57"
+msgstr "이벤트전"
+
+#: ui_en.json
+msgctxt "Random"
+msgid ""
+"json|both_ui/config|0|7|0|0|3|1|1|6|1|0|3|64663f4646781c9c0110838b905daa23"
+msgstr "랜덤"
+
+#: ui_en.json
+msgctxt "Playlist loop"
+msgid ""
+"json|both_ui/config|0|7|0|0|3|1|1|6|0|0|3|d73b19aafe7cc867a7dcfa1760db1950"
+msgstr "재생목록 반복"
+
+#: ui_en.json
+msgctxt "Matches"
+msgid "json|both_ui/config|0|7|0|0|3|1|1|0|a61bbf7ad0ed153cb6c84fe3c8a9f2bb"
+msgstr "대국"
+
+#: ui_en.json
+msgctxt "Random"
+msgid ""
+"json|both_ui/config|0|7|0|0|3|1|0|6|1|0|3|64663f4646781c9c0110838b905daa23"
+msgstr "랜덤"
+
+#: ui_en.json
+msgctxt "Playlist loop"
+msgid ""
+"json|both_ui/config|0|7|0|0|3|1|0|6|0|0|3|d73b19aafe7cc867a7dcfa1760db1950"
+msgstr "재생목록 반복"
+
+#: ui_en.json
+msgctxt "Lobby"
+msgid "json|both_ui/config|0|7|0|0|3|1|0|0|0d4c3d1b3f0c14e4aae9e9598ed745db"
+msgstr "로비"
+
+#: ui_en.json
+msgctxt "Now Playing"
+msgid "json|both_ui/config|0|7|0|0|3|0|572caa56500d8d2f13024dcab5732669"
+msgstr "재생중"
