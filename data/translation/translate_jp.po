@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-05 21:08:33\n"
+"PO-Revision-Date: 2021-02-06 03:05:28\n"
 "Language: jp\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -24549,7 +24549,7 @@ msgstr "温泉合宿"
 #: ActivityActivity.csv:127
 msgctxt "Nian Incoming\\nSpring Festival Event"
 msgid "sheet|ActivityActivity.csv|name_en|59f19d93bc1a144207fd1b0cec37caba"
-msgstr "年獣襲来\\n-春節特别作戦-"
+msgstr "年獣襲来\\n-春節特別作戦-"
 
 #: AudioBgm.csv:2
 msgctxt "Sakura"
@@ -33315,7 +33315,7 @@ msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_en|e00266d3505e9bb87a5b54c9e7256b1f"
 msgstr ""
 "「蘭亭糸竹　高会群賢　曲水流觴　軒花蔌蔌」\n"
-"設定から対局のBGMを設定することができます。"
+"設定から対局のBGMを設定することができます。（イベント期間限定。期間終了後は入手できなくなります。）"
 
 #: ItemDefinitionItem.csv:182
 msgctxt "Shrine Yard · Sakura"
@@ -34341,11 +34341,10 @@ msgstr "韶華年"
 
 #: ItemDefinitionSkin.csv:22
 msgctxt ""
-"Wonderful Youth Exclusive\\n \"I was happy that you could celebrate Lunar "
-"New Year with me, so I tried this special outfit. What do you think... Does "
-"Mai look good in it?\""
-msgid "sheet|ItemDefinitionSkin.csv|desc_en|e2e3b40928bcbc9c666aba2c4b9881a3"
-msgstr "年獣襲来 -春節特别作戦-にて購入できる春節テーマの限定着せ替え衣装"
+"Wonderful Youth Exclusive\\n\"I was happy that you could celebrate Lunar New"
+" Year with me, so I tried this special outfit. Does Mai look good in it?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|84696c46e3255de68553324426940e73"
+msgstr "年獣襲来 -春節特別作戦-にて購入できる春節テーマの限定着せ替え衣装"
 
 #: ItemDefinitionSkin.csv:83
 msgctxt "Wonderful Youth"
@@ -34848,7 +34847,7 @@ msgctxt ""
 "Wonderful Youth Exclusive\\n \"Why does Momo like Mr.Rabbit? Eh? Isn't this "
 "just as natural as how flowers bloom when spring comes?\""
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|c018ae9460c00f9f3fa6d745972c5a17"
-msgstr "年獣襲来 -春節特别作戦-にて購入できる春節テーマの限定着せ替え衣装"
+msgstr "年獣襲来 -春節特別作戦-にて購入できる春節テーマの限定着せ替え衣装"
 
 #: ItemDefinitionSkin.csv:84
 msgctxt "Zan Tsukimi"
@@ -43478,7 +43477,7 @@ msgctxt ""
 "When the event ends, you can obtain extra rewards according to your server ranking of dispel times. For more information, please check [Ranking Rewards] in Leaderboard."
 msgid "sheet|StrStr.csv|en|db728973984cb6753e4a5cd6324e0462"
 msgstr ""
-"年獣襲来 -春節特别作戦-\n"
+"年獣襲来 -春節特別作戦-\n"
 "イベント期間：2月6日（土）メンテナンス後-2月22日(月)5:59\n"
 "\n"
 "楽しい春節のはずなのに、危険な年獣が襲来！\n"

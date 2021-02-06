@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-05 21:08:33\n"
+"PO-Revision-Date: 2021-02-06 03:05:28\n"
 "Language: zh-CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -34349,10 +34349,9 @@ msgstr "昭华年"
 
 #: ItemDefinitionSkin.csv:22
 msgctxt ""
-"Wonderful Youth Exclusive\\n \"I was happy that you could celebrate Lunar "
-"New Year with me, so I tried this special outfit. What do you think... Does "
-"Mai look good in it?\""
-msgid "sheet|ItemDefinitionSkin.csv|desc_en|e2e3b40928bcbc9c666aba2c4b9881a3"
+"Wonderful Youth Exclusive\\n\"I was happy that you could celebrate Lunar New"
+" Year with me, so I tried this special outfit. Does Mai look good in it?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|84696c46e3255de68553324426940e73"
 msgstr "昭华年活动限定\\n“大人可以抽空和小舞一起过节，小舞很开心，所以特意尝试了平时没有穿过的服装，大人觉得……适、适合小舞吗？”"
 
 #: ItemDefinitionSkin.csv:83
