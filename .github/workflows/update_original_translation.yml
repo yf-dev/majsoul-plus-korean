@@ -8,6 +8,11 @@ jobs:
   authorize: 
     runs-on: ubuntu-latest
     steps:
+      - name: Setup tmate session
+        uses: mxschmitt/action-tmate@v3
+        with:
+          limit-access-to-actor: true
+
       - uses: octokit/request-action@01a594f812f65f72258093beb52b2b89429eb853
         with:
           route: GET /repos/:repository/collaborators/${{ github.actor }}
