@@ -8,7 +8,7 @@ jobs:
   authorize: 
     runs-on: ubuntu-latest
     steps:
-      - uses: octokit/request-action@v2.x
+      - uses: octokit/request-action@01a594f812f65f72258093beb52b2b89429eb853
         with:
           route: GET /repos/:repository/collaborators/${{ github.actor }}
           repository: ${{ github.repository }}
