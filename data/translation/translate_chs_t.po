@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-06 03:05:28\n"
+"PO-Revision-Date: 2021-03-03 09:05:55\n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -5090,12 +5090,12 @@ msgstr "簽到"
 
 #: ui_chs_t.json
 msgctxt ""
-"2/10 14:00 - \r\n"
-"2/17 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_chs|1|3|74aa794de241fc4f0b05adaab341df44"
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_chs|1|3|1263f951609d13d2a73fdb89e117bc57"
 msgstr ""
-"2.11 5:00 - \r\n"
-"2.18 4:59(UTC+8)"
+"3.4 5:00 - \r\n"
+"3.14 4:59(UTC+8)"
 
 #: ui_chs_t.json
 msgctxt "Confirm"
@@ -5106,6 +5106,15 @@ msgstr "確定"
 msgctxt "Sign-in"
 msgid "json|lobby/page_sign_chs_t|1|2|1|e5b47edd743751a81819b7f421639303"
 msgstr "簽到"
+
+#: ui_chs_t.json
+msgctxt ""
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_chs_t|1|3|1263f951609d13d2a73fdb89e117bc57"
+msgstr ""
+"3.4 5:00 - \r\n"
+"3.14 4:59(UTC+8)"
 
 #: ui_chs_t.json
 msgctxt "Confirm"
@@ -5119,12 +5128,12 @@ msgstr "簽到"
 
 #: ui_chs_t.json
 msgctxt ""
-"2/10 14:00 - \r\n"
-"2/17 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_en|1|3|74aa794de241fc4f0b05adaab341df44"
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_en|1|3|1263f951609d13d2a73fdb89e117bc57"
 msgstr ""
-"2.11 5:00 - \r\n"
-"2.18 4:59(UTC+8)"
+"3.4 5:00 - \r\n"
+"3.14 4:59(UTC+8)"
 
 #: ui_chs_t.json
 msgctxt "Confirm"
@@ -5138,12 +5147,12 @@ msgstr "簽到"
 
 #: ui_chs_t.json
 msgctxt ""
-"2/10 14:00 - \r\n"
-"2/17 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_jp|1|3|74aa794de241fc4f0b05adaab341df44"
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_jp|1|3|1263f951609d13d2a73fdb89e117bc57"
 msgstr ""
-"2.11 5:00 - \r\n"
-"2.18 4:59(UTC+8)"
+"3.4 5:00 - \r\n"
+"3.14 4:59(UTC+8)"
 
 #: ui_chs_t.json
 msgctxt "Log"
@@ -7889,7 +7898,7 @@ msgstr ""
 "唯一性和混沌性保證了牌山無法篡改，一經改動MD5碼就會劇烈波動。\\n   MD5碼驗證步驟：\\n   "
 "1.對局中，玩家可以點選左上角的寶牌指示牌的位置查看本次對局的牌山生成MD5碼並記錄下來。MD5碼是每一次配牌生成一次的。\\n   "
 "2.對局結束後，玩家可以在牌譜中對照每一個小局的MD5碼是否跟之前遊戲中的相同。以此驗證遊戲中給的MD5碼沒有給錯。\\n   "
-"3.按照大家比較通用的習慣，每張牌都有唯一的編碼，萬字用m表示，筒子用p表示，條子用s表示，字牌用z表示，所以1萬的編碼是1m，9筒的編碼是9p，5條的編碼是5s，東南西北白髮中的編碼分別是1z、2z、3z、4z、5z、6z和7z，特殊的紅5萬用0m表示，紅5筒用0p表示，紅5條用0s表示。因此牌山可以唯一的用一串字元序列來表示。假設牌山是8筒7索東風紅5萬的話，那麼編碼序列就是8p7s1z0m。玩家可以在牌譜中查看牌山，牌山顯示的是發完牌之後剩餘的牌山序列，根據牌譜中顯示的牌山可以用上述的表示方法得到唯一的牌山序列。牌山顯示的最下方那個牌山代碼就是用這種方式生成的。\\n"
+"3.按照大家比較通用的習慣，每張牌都有唯一的編碼，萬字用m表示，筒子用p表示，條子用s表示，字牌用z表示，所以1萬的編碼是1m，9筒的編碼是9p，5條的編碼是5s，東南西北白發中的編碼分別是1z、2z、3z、4z、5z、6z和7z，特殊的紅5萬用0m表示，紅5筒用0p表示，紅5條用0s表示。因此牌山可以唯一的用一串字元序列來表示。假設牌山是8筒7索東風紅5萬的話，那麼編碼序列就是8p7s1z0m。玩家可以在牌譜中查看牌山，牌山顯示的是發完牌之後剩餘的牌山序列，根據牌譜中顯示的牌山可以用上述的表示方法得到唯一的牌山序列。牌山顯示的最下方那個牌山代碼就是用這種方式生成的。\\n"
 "   "
 "4.打開網址http://tool.chinaz.com/tools/md5.aspx，這是一個比較常見的線上MD5碼加密網站。把在3中獲得的牌山代碼輸入進左邊的輸入框，然後中間選擇加密32位[大]，點選加密按鈕，右邊就會出現MD5碼。拿右邊的MD5碼與1中遊戲中給的MD5做對比，相同則意為著您在本局遊戲進行的時候，牌山就是固定的，我們後期並未進行篡改。因為一旦篡改，牌譜中就會發現發牌不對，或者生成的MD5碼不配對。\\n"
 "   感謝大家對雀魂的大力支持，祝大家玩得開心，雀力日進。"
@@ -20372,9 +20381,9 @@ msgid ""
 msgstr "碰碰碰喵"
 
 #: AchievementAchievement.csv:47
-msgctxt "yi"
+msgctxt "Achieve [All Triplets] in Ranked room"
 msgid ""
-"sheet|AchievementAchievement.csv|desc_en|10f9132e586392a6513eeeb303db630c"
+"sheet|AchievementAchievement.csv|desc_en|0c899a06b116715c3720375593ce2bfd"
 msgstr "段位場中，和出役種「對對和」"
 
 #: AchievementAchievement.csv:48
@@ -24489,7 +24498,7 @@ msgctxt "Beach Party"
 msgid "sheet|ActivityActivity.csv|name_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
 msgstr "雀魂祭‧海灘派對"
 
-#: ActivityActivity.csv:155
+#: ActivityActivity.csv:158
 msgctxt ""
 msgid "sheet|ActivityActivity.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
@@ -28297,8 +28306,9 @@ msgid "sheet|FandescFandesc.csv|name_en|8711ea7c6db0a617b885ff61bcd4d6d2"
 msgstr "天和"
 
 #: FandescFandesc.csv:42
-msgctxt "Win a hand as a dealer in the first turn with the first draw"
-msgid "sheet|FandescFandesc.csv|desc_en|2b99b1b6321e59e6bcfc2e0d68767667"
+msgctxt ""
+"Win a hand by Tsumo as a dealer in the first turn with the first draw"
+msgid "sheet|FandescFandesc.csv|desc_en|6675d92278419b4178065d2358595754"
 msgstr "莊家第一巡和牌"
 
 #: FandescFandesc.csv:42
@@ -28313,8 +28323,9 @@ msgstr "地和"
 
 #: FandescFandesc.csv:43
 msgctxt ""
-"Win a hand as a non-dealer in the first turn before any tiles are called"
-msgid "sheet|FandescFandesc.csv|desc_en|ab7ca868730e9baf517c5d61c0e204cc"
+"Win a hand by Tsumo as a non-dealer in the first turn before any tiles are "
+"called"
+msgid "sheet|FandescFandesc.csv|desc_en|fc4f21c6a26da7071833a0c272a50078"
 msgstr "輪到自己之前無人鳴牌的狀態下第一巡自摸和牌"
 
 #: FandescFandesc.csv:43
@@ -40806,7 +40817,7 @@ msgstr ""
 "唯一性和混沌性保證了牌山無法篡改，一經改動MD5碼就會劇烈波動。\\n   MD5碼驗證步驟：\\n   "
 "1.對局中，玩家可以點選左上角的寶牌指示牌的位置查看本次對局的牌山生成MD5碼並記錄下來。MD5碼是每一次配牌生成一次的。\\n   "
 "2.對局結束後，玩家可以在牌譜中對照每一個小局的MD5碼是否跟之前遊戲中的相同。以此驗證遊戲中給的MD5碼沒有給錯。\\n   "
-"3.按照大家比較通用的習慣，每張牌都有唯一的編碼，萬字用m表示，筒子用p表示，條子用s表示，字牌用z表示，所以1萬的編碼是1m，9筒的編碼是9p，5條的編碼是5s，東南西北白髮中的編碼分別是1z、2z、3z、4z、5z、6z和7z，特殊的紅5萬用0m表示，紅5筒用0p表示，紅5條用0s表示。因此牌山可以唯一的用一串字元序列來表示。假設牌山是8筒7索東風紅5萬的話，那麼編碼序列就是8p7s1z0m。玩家可以在牌譜中查看牌山，牌山顯示的是發完牌之後剩餘的牌山序列，根據牌譜中顯示的牌山可以用上述的表示方法得到唯一的牌山序列。牌山顯示的最下方那個牌山代碼就是用這種方式生成的。\\n"
+"3.按照大家比較通用的習慣，每張牌都有唯一的編碼，萬字用m表示，筒子用p表示，條子用s表示，字牌用z表示，所以1萬的編碼是1m，9筒的編碼是9p，5條的編碼是5s，東南西北白發中的編碼分別是1z、2z、3z、4z、5z、6z和7z，特殊的紅5萬用0m表示，紅5筒用0p表示，紅5條用0s表示。因此牌山可以唯一的用一串字元序列來表示。假設牌山是8筒7索東風紅5萬的話，那麼編碼序列就是8p7s1z0m。玩家可以在牌譜中查看牌山，牌山顯示的是發完牌之後剩餘的牌山序列，根據牌譜中顯示的牌山可以用上述的表示方法得到唯一的牌山序列。牌山顯示的最下方那個牌山代碼就是用這種方式生成的。\\n"
 "   "
 "4.打開網址http://tool.chinaz.com/tools/md5.aspx，這是一個比較常見的線上MD5碼加密網站。把在3中獲得的牌山代碼輸入進左邊的輸入框，然後中間選擇加密32位[大]，點選加密按鈕，右邊就會出現MD5碼。拿右邊的MD5碼與1中遊戲中給的MD5做對比，相同則意為著您在本局遊戲進行的時候，牌山就是固定的，我們後期並未進行篡改。因為一旦篡改，牌譜中就會發現發牌不對，或者生成的MD5碼不配對。\\n"
 "   感謝大家對雀魂的大力支持，祝大家玩得開心，雀力日進。"
@@ -41930,12 +41941,12 @@ msgstr "起點：40000\\n西入：南四局結束1位不足45000點西入\\n場�
 
 #: StrStr.csv:989
 msgctxt ""
-"2/10 14:00 - \n"
-"2/17 13:59 (UTC-7)"
-msgid "sheet|StrStr.csv|en|49a3df3cc836620993a14f7e9d862e61"
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
+msgid "sheet|StrStr.csv|en|828a750ad76fe4ef5b45a39c0c7deb83"
 msgstr ""
-"2.11 5:00 - \n"
-"2.18 4:59(UTC+8)"
+"3.4 5:00 - \n"
+"3.14 4:59(UTC+8)"
 
 #: StrStr.csv:990
 msgctxt "Sign-in"
@@ -43529,6 +43540,46 @@ msgstr "排行榜功能將在2月10日5:00後解鎖"
 msgctxt "Calculating"
 msgid "sheet|StrStr.csv|en|fd655679a2f001de7633d8ea5293f4d7"
 msgstr "敬請期待"
+
+#: StrStr.csv:1311
+msgctxt ""
+"Special Rules: Battle of Asura Details\n"
+"\n"
+"- After the Hand distribution, select 3 tiles and exchange them with other players.\n"
+"- The ending condition of each match has been changed from 1 winner to 3 winners.\n"
+"- Upon winning, the points will be calculated in real-time, and the tiles in hand will remain hidden. The match will end when a player is busted. \n"
+"- Tsumo Loss will happen after the first player wins in a round (When the remaining players are less than 4, the points will be reduced when players call for Tsumo)\n"
+"- When a match ends, and there are less than 3 winners, it is regarded as a Draw. \n"
+"- There will be no Repeat Counter, regardless of whether the dealer has achieved Tenpai, the next match starts from 0 Repeat Counter. \n"
+"- When Draw happens during the match, regardless of whether there are winners, the match will restart from 0 Repeat Counter. \n"
+"- In the same match, players who have already won will not be participating in the Draw settlement.\n"
+"- When Draw happens, players who have not achieved Tenpai will pay 1000 points to each Tenpai player.\n"
+"- Players can choose to win when achieving Robbing a Kan (including Thirteen Orphans Concealed Quad). When a player wins by achieving Robbing a Kan, the Kan holds.\n"
+"- When Four-Kan Abortion happens after Robbing a Kan, Robbing a Kan holds, and the match will restart due to the Draw during the match.\n"
+"- Deal-in while in Riichi.\n"
+"- If the points left are above 1000 after paying for deal-in, the Riichi holds.\n"
+"- If the points left are below 1000 after paying for deal-in, the Riichi fails, and the match continues.\n"
+"- If the points left are below 0 after paying for deal-in, the match ends.\n"
+"- Player doesn't have to pay responsibility for causing other players' Big Three Dragons or Four Big Winds."
+msgid "sheet|StrStr.csv|en|4be182fb048e289e622bb48b8738b5fd"
+msgstr ""
+"特殊規則：修羅之戰說明\n"
+"\n"
+" - 配牌後選擇3張牌，與其他玩家交換\n"
+" - 每一局的結束條件從有1人和牌變為有3人和牌\n"
+" - 發生和牌時，點數即時結算，手牌不公開。如果玩家被飛則對局結束。\n"
+" - 一局結束後，如果和牌人數小於3人，視為流局。\n"
+" - 不設連莊，無論莊家是否和牌/聽牌，均進入下一局的0本場。\n"
+" - 發生途中流局時，無論是否有玩家已和牌，本局0本場重開。\n"
+" - 同一局內，已和牌的玩家不參與流局結算\n"
+" - 流局時，未聽牌的玩家支付1000點給每位聽牌的玩家\n"
+" - 搶杠（含國士無雙搶暗杠）可以和牌，發生搶杠結算和牌後，杠成立。\n"
+" - 搶杠後如果發生四杠散了，搶杠成立，本局因途中流局而重開。\n"
+" - 玩家立直時放銃\n"
+" - 如果點數支付放銃後剩餘1000點以上，則立直成立\n"
+" - 如果點數支付放銃後不足1000點，則立直失敗，視為普通打牌，對局繼續\n"
+" - 如果點數支付放銃後為負數點，則對局結束\n"
+" - 大三元和大四喜不設包牌"
 
 #: StrStr.csv:1330
 msgctxt ""

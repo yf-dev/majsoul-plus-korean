@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-06 03:05:28\n"
+"PO-Revision-Date: 2021-03-03 09:05:55\n"
 "Language: zh-CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -5090,10 +5090,10 @@ msgstr "签到"
 
 #: ui_chs.json
 msgctxt ""
-"2/10 14:00 - \r\n"
-"2/17 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_chs|1|3|74aa794de241fc4f0b05adaab341df44"
-msgstr "2.11 5:00 - 2.18 4:59"
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_chs|1|3|1263f951609d13d2a73fdb89e117bc57"
+msgstr "3.4 5:00 - 3.14 4:59"
 
 #: ui_chs.json
 msgctxt "Confirm"
@@ -5104,6 +5104,13 @@ msgstr "确定"
 msgctxt "Sign-in"
 msgid "json|lobby/page_sign_chs_t|1|2|1|e5b47edd743751a81819b7f421639303"
 msgstr "签到"
+
+#: ui_chs.json
+msgctxt ""
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_chs_t|1|3|1263f951609d13d2a73fdb89e117bc57"
+msgstr "3.4 5:00 - 3.14 4:59"
 
 #: ui_chs.json
 msgctxt "Confirm"
@@ -5117,10 +5124,10 @@ msgstr "签到"
 
 #: ui_chs.json
 msgctxt ""
-"2/10 14:00 - \r\n"
-"2/17 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_en|1|3|74aa794de241fc4f0b05adaab341df44"
-msgstr "2.11 5:00 - 2.18 4:59"
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_en|1|3|1263f951609d13d2a73fdb89e117bc57"
+msgstr "3.4 5:00 - 3.14 4:59"
 
 #: ui_chs.json
 msgctxt "Confirm"
@@ -5134,10 +5141,10 @@ msgstr "签到"
 
 #: ui_chs.json
 msgctxt ""
-"2/10 14:00 - \r\n"
-"2/17 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_jp|1|3|74aa794de241fc4f0b05adaab341df44"
-msgstr "2.11 5:00 - 2.18 4:59"
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_jp|1|3|1263f951609d13d2a73fdb89e117bc57"
+msgstr "3.4 5:00 - 3.14 4:59"
 
 #: ui_chs.json
 msgctxt "Log"
@@ -20348,9 +20355,9 @@ msgid ""
 msgstr "碰碰碰喵"
 
 #: AchievementAchievement.csv:47
-msgctxt "yi"
+msgctxt "Achieve [All Triplets] in Ranked room"
 msgid ""
-"sheet|AchievementAchievement.csv|desc_en|10f9132e586392a6513eeeb303db630c"
+"sheet|AchievementAchievement.csv|desc_en|0c899a06b116715c3720375593ce2bfd"
 msgstr "段位场中，和出役种「对对和」"
 
 #: AchievementAchievement.csv:48
@@ -24465,10 +24472,10 @@ msgctxt "Beach Party"
 msgid "sheet|ActivityActivity.csv|name_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
 msgstr "雀魂祭·海滩派对"
 
-#: ActivityActivity.csv:155
+#: ActivityActivity.csv:158
 msgctxt ""
 msgid "sheet|ActivityActivity.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
-msgstr "年兽活动开启排行榜"
+msgstr "修罗之战（友人）"
 
 #: ActivityActivity.csv:19
 msgctxt "Missions from Moon Palace"
@@ -28289,8 +28296,9 @@ msgid "sheet|FandescFandesc.csv|name_en|8711ea7c6db0a617b885ff61bcd4d6d2"
 msgstr "天和"
 
 #: FandescFandesc.csv:42
-msgctxt "Win a hand as a dealer in the first turn with the first draw"
-msgid "sheet|FandescFandesc.csv|desc_en|2b99b1b6321e59e6bcfc2e0d68767667"
+msgctxt ""
+"Win a hand by Tsumo as a dealer in the first turn with the first draw"
+msgid "sheet|FandescFandesc.csv|desc_en|6675d92278419b4178065d2358595754"
 msgstr "庄家第一巡和牌"
 
 #: FandescFandesc.csv:42
@@ -28305,8 +28313,9 @@ msgstr "地和"
 
 #: FandescFandesc.csv:43
 msgctxt ""
-"Win a hand as a non-dealer in the first turn before any tiles are called"
-msgid "sheet|FandescFandesc.csv|desc_en|ab7ca868730e9baf517c5d61c0e204cc"
+"Win a hand by Tsumo as a non-dealer in the first turn before any tiles are "
+"called"
+msgid "sheet|FandescFandesc.csv|desc_en|fc4f21c6a26da7071833a0c272a50078"
 msgstr "轮到自己之前无人鸣牌的状态下第一巡自摸和牌"
 
 #: FandescFandesc.csv:43
@@ -41922,10 +41931,10 @@ msgstr "起点：40000\\n西入：南四局结束1位不足45000点西入\\n场�
 
 #: StrStr.csv:989
 msgctxt ""
-"2/10 14:00 - \n"
-"2/17 13:59 (UTC-7)"
-msgid "sheet|StrStr.csv|en|49a3df3cc836620993a14f7e9d862e61"
-msgstr "2.11 5:00 - 2.18 4:59"
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
+msgid "sheet|StrStr.csv|en|828a750ad76fe4ef5b45a39c0c7deb83"
+msgstr "3.4 5:00 - 3.14 4:59"
 
 #: StrStr.csv:990
 msgctxt "Sign-in"
@@ -43520,6 +43529,46 @@ msgstr "排行榜功能将在2月10日5:00后解锁"
 msgctxt "Calculating"
 msgid "sheet|StrStr.csv|en|fd655679a2f001de7633d8ea5293f4d7"
 msgstr "敬请期待"
+
+#: StrStr.csv:1311
+msgctxt ""
+"Special Rules: Battle of Asura Details\n"
+"\n"
+"- After the Hand distribution, select 3 tiles and exchange them with other players.\n"
+"- The ending condition of each match has been changed from 1 winner to 3 winners.\n"
+"- Upon winning, the points will be calculated in real-time, and the tiles in hand will remain hidden. The match will end when a player is busted. \n"
+"- Tsumo Loss will happen after the first player wins in a round (When the remaining players are less than 4, the points will be reduced when players call for Tsumo)\n"
+"- When a match ends, and there are less than 3 winners, it is regarded as a Draw. \n"
+"- There will be no Repeat Counter, regardless of whether the dealer has achieved Tenpai, the next match starts from 0 Repeat Counter. \n"
+"- When Draw happens during the match, regardless of whether there are winners, the match will restart from 0 Repeat Counter. \n"
+"- In the same match, players who have already won will not be participating in the Draw settlement.\n"
+"- When Draw happens, players who have not achieved Tenpai will pay 1000 points to each Tenpai player.\n"
+"- Players can choose to win when achieving Robbing a Kan (including Thirteen Orphans Concealed Quad). When a player wins by achieving Robbing a Kan, the Kan holds.\n"
+"- When Four-Kan Abortion happens after Robbing a Kan, Robbing a Kan holds, and the match will restart due to the Draw during the match.\n"
+"- Deal-in while in Riichi.\n"
+"- If the points left are above 1000 after paying for deal-in, the Riichi holds.\n"
+"- If the points left are below 1000 after paying for deal-in, the Riichi fails, and the match continues.\n"
+"- If the points left are below 0 after paying for deal-in, the match ends.\n"
+"- Player doesn't have to pay responsibility for causing other players' Big Three Dragons or Four Big Winds."
+msgid "sheet|StrStr.csv|en|4be182fb048e289e622bb48b8738b5fd"
+msgstr ""
+"特殊规则：修罗之战说明\n"
+"\n"
+" - 配牌后选择3张牌，与其他玩家交换\n"
+" - 每一局的结束条件从有1人和牌变为有3人和牌\n"
+" - 发生和牌时，点数实时结算，手牌不公开。如果玩家被飞则对局结束。\n"
+" - 一局结束后，如果和牌人数小于3人，视为流局。\n"
+" - 不设连庄，无论庄家是否和牌/听牌，均进入下一局的0本场。\n"
+" - 发生途中流局时，无论是否有玩家已和牌，本局0本场重开。\n"
+" - 同一局内，已和牌的玩家不参与流局结算\n"
+" - 流局时，未听牌的玩家支付1000点给每位听牌的玩家\n"
+" - 抢杠（含国士无双抢暗杠）可以和牌，发生抢杠结算和牌后，杠成立。\n"
+" - 抢杠后如果发生四杠散了，抢杠成立，本局因途中流局而重开。\n"
+" - 玩家立直时放铳\n"
+" - 如果点数支付放铳后剩余1000点以上，则立直成立\n"
+" - 如果点数支付放铳后不足1000点，则立直失败，视为普通打牌，对局继续\n"
+" - 如果点数支付放铳后为负数点，则对局结束\n"
+" - 大三元和大四喜不设包牌"
 
 #: StrStr.csv:1330
 msgctxt ""
@@ -76728,7 +76777,7 @@ msgstr "特殊语音 - 倍满/三倍满听牌"
 msgctxt "Unexpected gain. Not bad."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/zhaitengzhi/ingame_beiman)|419e7eb34f9d84ced0156d2600c343b9"
-msgstr "意外的收货，还不错。"
+msgstr "意外的收获，还不错。"
 
 #: VoiceSound.csv:2670
 msgctxt "Riichi"

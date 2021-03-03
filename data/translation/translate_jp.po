@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-06 03:05:28\n"
+"PO-Revision-Date: 2021-03-03 09:05:55\n"
 "Language: jp\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -4894,10 +4894,10 @@ msgstr "参拝"
 
 #: ui_jp.json
 msgctxt ""
-"2/10 14:00 - \r\n"
-"2/17 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_chs|1|3|74aa794de241fc4f0b05adaab341df44"
-msgstr "2.11 6:00 - 2.18 5:59"
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_chs|1|3|1263f951609d13d2a73fdb89e117bc57"
+msgstr "3.4 6:00 - 3.14 5:59"
 
 #: ui_jp.json
 msgctxt "Confirm"
@@ -4908,6 +4908,13 @@ msgstr "確認"
 msgctxt "Sign-in"
 msgid "json|lobby/page_sign_chs_t|1|2|1|e5b47edd743751a81819b7f421639303"
 msgstr "参拝"
+
+#: ui_jp.json
+msgctxt ""
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_chs_t|1|3|1263f951609d13d2a73fdb89e117bc57"
+msgstr "3.4 6:00 - 3.14 5:59"
 
 #: ui_jp.json
 msgctxt "Confirm"
@@ -4921,10 +4928,10 @@ msgstr "参拝"
 
 #: ui_jp.json
 msgctxt ""
-"2/10 14:00 - \r\n"
-"2/17 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_en|1|3|74aa794de241fc4f0b05adaab341df44"
-msgstr "2.11 6:00 - 2.18 5:59"
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_en|1|3|1263f951609d13d2a73fdb89e117bc57"
+msgstr "3.4 6:00 - 3.14 5:59"
 
 #: ui_jp.json
 msgctxt "Confirm"
@@ -4938,10 +4945,10 @@ msgstr "参拝"
 
 #: ui_jp.json
 msgctxt ""
-"2/10 14:00 - \r\n"
-"2/17 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_jp|1|3|74aa794de241fc4f0b05adaab341df44"
-msgstr "2.11 6:00 - 2.18 5:59"
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_jp|1|3|1263f951609d13d2a73fdb89e117bc57"
+msgstr "3.4 6:00 - 3.14 5:59"
 
 #: ui_jp.json
 msgctxt "Log"
@@ -20274,9 +20281,9 @@ msgid ""
 msgstr "ポンポンポン"
 
 #: AchievementAchievement.csv:47
-msgctxt "yi"
+msgctxt "Achieve [All Triplets] in Ranked room"
 msgid ""
-"sheet|AchievementAchievement.csv|desc_en|10f9132e586392a6513eeeb303db630c"
+"sheet|AchievementAchievement.csv|desc_en|0c899a06b116715c3720375593ce2bfd"
 msgstr "段位戦の対局で、「対々和」を1回和了する"
 
 #: AchievementAchievement.csv:48
@@ -24391,7 +24398,7 @@ msgctxt "Beach Party"
 msgid "sheet|ActivityActivity.csv|name_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
 msgstr "ビーチパーティ"
 
-#: ActivityActivity.csv:155
+#: ActivityActivity.csv:158
 msgctxt ""
 msgid "sheet|ActivityActivity.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
@@ -28215,8 +28222,9 @@ msgid "sheet|FandescFandesc.csv|name_en|8711ea7c6db0a617b885ff61bcd4d6d2"
 msgstr "天和（テンホー）"
 
 #: FandescFandesc.csv:42
-msgctxt "Win a hand as a dealer in the first turn with the first draw"
-msgid "sheet|FandescFandesc.csv|desc_en|2b99b1b6321e59e6bcfc2e0d68767667"
+msgctxt ""
+"Win a hand by Tsumo as a dealer in the first turn with the first draw"
+msgid "sheet|FandescFandesc.csv|desc_en|6675d92278419b4178065d2358595754"
 msgstr "親の配牌の時点で既に和了した場合に成立する"
 
 #: FandescFandesc.csv:42
@@ -28231,8 +28239,9 @@ msgstr "地和（チーホー）"
 
 #: FandescFandesc.csv:43
 msgctxt ""
-"Win a hand as a non-dealer in the first turn before any tiles are called"
-msgid "sheet|FandescFandesc.csv|desc_en|ab7ca868730e9baf517c5d61c0e204cc"
+"Win a hand by Tsumo as a non-dealer in the first turn before any tiles are "
+"called"
+msgid "sheet|FandescFandesc.csv|desc_en|fc4f21c6a26da7071833a0c272a50078"
 msgstr "子が配牌時点で聴牌し、誰の鳴き(ポン・チー・カン)も入らないで第1ツモで和了した場合に成立する"
 
 #: FandescFandesc.csv:43
@@ -41933,10 +41942,10 @@ msgstr "配給原点：40000\\n一位必要点数：45000点\\n局数：半荘�
 
 #: StrStr.csv:989
 msgctxt ""
-"2/10 14:00 - \n"
-"2/17 13:59 (UTC-7)"
-msgid "sheet|StrStr.csv|en|49a3df3cc836620993a14f7e9d862e61"
-msgstr "2.11 6:00 - 2.18 5:59"
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
+msgid "sheet|StrStr.csv|en|828a750ad76fe4ef5b45a39c0c7deb83"
+msgstr "3.4 6:00 - 3.14 5:59"
 
 #: StrStr.csv:990
 msgctxt "Sign-in"
@@ -43538,6 +43547,46 @@ msgstr "順位一覧は2月10日6:00以降解放されます。"
 msgctxt "Calculating"
 msgid "sheet|StrStr.csv|en|fd655679a2f001de7633d8ea5293f4d7"
 msgstr "解禁前"
+
+#: StrStr.csv:1311
+msgctxt ""
+"Special Rules: Battle of Asura Details\n"
+"\n"
+"- After the Hand distribution, select 3 tiles and exchange them with other players.\n"
+"- The ending condition of each match has been changed from 1 winner to 3 winners.\n"
+"- Upon winning, the points will be calculated in real-time, and the tiles in hand will remain hidden. The match will end when a player is busted. \n"
+"- Tsumo Loss will happen after the first player wins in a round (When the remaining players are less than 4, the points will be reduced when players call for Tsumo)\n"
+"- When a match ends, and there are less than 3 winners, it is regarded as a Draw. \n"
+"- There will be no Repeat Counter, regardless of whether the dealer has achieved Tenpai, the next match starts from 0 Repeat Counter. \n"
+"- When Draw happens during the match, regardless of whether there are winners, the match will restart from 0 Repeat Counter. \n"
+"- In the same match, players who have already won will not be participating in the Draw settlement.\n"
+"- When Draw happens, players who have not achieved Tenpai will pay 1000 points to each Tenpai player.\n"
+"- Players can choose to win when achieving Robbing a Kan (including Thirteen Orphans Concealed Quad). When a player wins by achieving Robbing a Kan, the Kan holds.\n"
+"- When Four-Kan Abortion happens after Robbing a Kan, Robbing a Kan holds, and the match will restart due to the Draw during the match.\n"
+"- Deal-in while in Riichi.\n"
+"- If the points left are above 1000 after paying for deal-in, the Riichi holds.\n"
+"- If the points left are below 1000 after paying for deal-in, the Riichi fails, and the match continues.\n"
+"- If the points left are below 0 after paying for deal-in, the match ends.\n"
+"- Player doesn't have to pay responsibility for causing other players' Big Three Dragons or Four Big Winds."
+msgid "sheet|StrStr.csv|en|4be182fb048e289e622bb48b8738b5fd"
+msgstr ""
+"特殊ルール「修羅の戦」について\n"
+"\n"
+" - 配牌時に手牌を3枚選び、ランダムな対局相手一人と交換する必要がある。\n"
+" - 流局、または最大3人が和了するまで対局が続行。\n"
+" - 和了時に直ちに点数計算が行われる。その後和了した雀士の手牌が伏せられ、ツモも打牌もできなくなる。\n"
+" - 和了時にぶっ飛びが発生した場合は対戦終了となる。\n"
+" - 一人目の和了以外、ツモ損が適用される。（残り人数が少ない時、ツモ和了した場合の得点は少なくなる）\n"
+" - 流局時、下記のノーテン罰符の清算は和了しなかった雀士の間で行われる：聴牌した雀士にノーテンの雀士が1000点を支払う\n"
+" - 連荘が適用せず、流局後、親の和了・聴牌に関わらず次の局の0本場に進む。\n"
+" - ただし、特殊流局が発生した場合、ノーテン罰符の清算は行われずに現在の局の0本場に進む。\n"
+" - 立直後に特殊流局が発生した場合でも、立直棒は供託される。\n"
+" - 大三元と大四喜に責任払いが適用されない\n"
+" - 槍槓（チャンカン）が発生した場合、和了の点数計算が行われた後、槓は成立とする。\n"
+" - 槍槓と四槓散了が同じ槓で発生した場合、槍槓の和了は成立とする。その後、特殊流局になる。\n"
+" - 立直時の放銃について、下記のルールが適用される：\n"
+"   - 和了の点数計算が行われた後、立直した雀士の持ち点が1000点以上の場合：立直は成立とする。\n"
+"   - 和了の点数計算が行われた後、立直した雀士の持ち点が1000点未満の場合：立直は不成立とし、その打牌が通常の打牌とする。"
 
 #: StrStr.csv:1330
 msgctxt ""
