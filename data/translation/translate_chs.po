@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-03 09:05:55\n"
+"PO-Revision-Date: 2021-03-14 06:06:17\n"
 "Language: zh-CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -49641,7 +49641,7 @@ msgstr "大厅交互语音1"
 msgctxt "Oh... sorry! I didn’t mean to win from you..."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/xiangyuan/lobby_normal2)|50f71277ececbcde3404357180959d04"
-msgstr "抱...抱歉！我不是故意胡大人的牌的……"
+msgstr "抱...抱歉！我不是故意和大人的牌的……"
 
 #: VoiceSound.csv:479
 msgctxt "Lobby Interactive Voice 2"
@@ -49679,7 +49679,7 @@ msgstr "大厅交互语音4"
 msgctxt "Oops... I just scored another Ippatsu on you..."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/xiangyuan/lobby_normal5)|f14ef54e9d4e7d1de38d3409209b67fb"
-msgstr "欸——一不小心又胡了大人的一发呢......"
+msgstr "欸——一不小心又和了大人的一发呢......"
 
 #: VoiceSound.csv:482
 msgctxt "Lobby Interactive Voice 5"
@@ -65271,7 +65271,7 @@ msgstr "荣"
 msgctxt "Uh, I've won. Fufu..."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shala/act_ron)|c2d6a4345c894df47401cf362ae2d752"
-msgstr "那个，胡了哦，呼呼......"
+msgstr "那个，和了哦，呼呼......"
 
 #: VoiceSound.csv:1749
 msgctxt "Tsumo"
@@ -65365,7 +65365,7 @@ msgctxt ""
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shala/lobby_normal2)|474289d41c74872c5baeaf4266ebf505"
 msgstr ""
-"舞蹈吗？抱歉，今天的表演已经结束了，接下来是私人时间。不过......若客官能胡一把让莎拉眼前一亮的牌，小小的服务也并非不可以......呵呵......"
+"舞蹈吗？抱歉，今天的表演已经结束了，接下来是私人时间。不过......若客官能和一把让莎拉眼前一亮的牌，小小的服务也并非不可以......呵呵......"
 
 #: VoiceSound.csv:1756
 msgctxt "Lobby Interactive Voice 3"
@@ -69768,7 +69768,7 @@ msgctxt ""
 "an open heart. Am I right?"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/xiaoniaoyouchutian/lobby_normalmax2)|7f65b8c0dde228ea9d7a0d154a569d51"
-msgstr "以前总觉得胡别人牌有点不太好意思，可最近有点明白了，坦然面对输赢才是对坐在同一局的对手们的尊重，可以这样理解吗？"
+msgstr "以前总觉得和别人牌有点不太好意思，可最近有点明白了，坦然面对输赢才是对坐在同一局的对手们的尊重，可以这样理解吗？"
 
 #: VoiceSound.csv:2109
 msgctxt "Lobby Interactive Voice 8"
@@ -72373,7 +72373,7 @@ msgstr "特殊语音 - 余牌少于10"
 msgctxt "No one has declared a win yet... So it must be Haruna's turn now!"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/wushilanyangcai/ingame_remain10)|1cac5b8135bdf0b22262a359fe0d8ce2"
-msgstr "还没有人胡牌……也就是说到阳菜和牌了吧！"
+msgstr "还没有人和牌……也就是说到阳菜和牌了吧！"
 
 #: VoiceSound.csv:2320
 msgctxt "SP - Tenpai with Yakuman"
@@ -73872,7 +73872,7 @@ msgstr "特殊语音 - 役满听牌"
 msgctxt "I must not let my guard down before winning this hand."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/lianggongxingshu/ingame_yiman)|c627fd5ae9dad9269db0f3569db6ef45"
-msgstr "在没有胡牌之前都不能放松警惕。"
+msgstr "在没有和牌之前都不能放松警惕。"
 
 #: VoiceSound.csv:2437
 msgctxt "SP - Tenpai with Baiman/Sanbaiman"
@@ -84074,7 +84074,7 @@ msgstr "特殊语音 - 倍满/三倍满听牌"
 msgctxt "Hehe, if I can win this, I'll be loaded today!"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/tengbenqiluo/ingame_beiman)|4172dd1ac0268586af731eace623a1b1"
-msgstr "嘻嘻，胡到的话，今天就赚翻啦~。"
+msgstr "嘻嘻，和到的话，今天就赚翻啦~。"
 
 #: VoiceSound.csv:3250
 msgctxt "Riichi"
@@ -84373,7 +84373,7 @@ msgctxt ""
 "be blessed... Who am I talking about? Of course it's you, hmph!"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/huiyeji/lobby_gift)|8dc63d8b89739603b5cd6e1b12ece11c"
-msgstr "连神明喜欢什么都不知道就乱上供的人，就别指望可以得到神明的庇护了……妾身在说谁？说的就是汝啊，哼！"
+msgstr "连神明喜欢什么都不知道就胡乱上供的人，就别指望可以得到神明的庇护了……妾身在说谁？说的就是汝啊，哼！"
 
 #: VoiceSound.csv:3271
 msgctxt "Receiving Gift - Preferred"

@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-03 09:05:55\n"
+"PO-Revision-Date: 2021-03-14 06:06:17\n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -49655,7 +49655,7 @@ msgstr "大廳交互語音1"
 msgctxt "Oh... sorry! I didn’t mean to win from you..."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/xiangyuan/lobby_normal2)|50f71277ececbcde3404357180959d04"
-msgstr "抱…抱歉！我不是故意胡大人的牌的……"
+msgstr "抱…抱歉！我不是故意和大人的牌的……"
 
 #: VoiceSound.csv:479
 msgctxt "Lobby Interactive Voice 2"
@@ -49693,7 +49693,7 @@ msgstr "大廳交互語音4"
 msgctxt "Oops... I just scored another Ippatsu on you..."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/xiangyuan/lobby_normal5)|f14ef54e9d4e7d1de38d3409209b67fb"
-msgstr "欸——一不小心又胡了大人的一發呢……"
+msgstr "欸——一不小心又和了大人的一發呢……"
 
 #: VoiceSound.csv:482
 msgctxt "Lobby Interactive Voice 5"
@@ -65282,7 +65282,7 @@ msgstr "榮"
 msgctxt "Uh, I've won. Fufu..."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shala/act_ron)|c2d6a4345c894df47401cf362ae2d752"
-msgstr "那個，胡了哦，呼呼……"
+msgstr "那個，和了哦，呼呼……"
 
 #: VoiceSound.csv:1749
 msgctxt "Tsumo"
@@ -65375,7 +65375,7 @@ msgctxt ""
 "really mind some little extra service... Hehe..."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shala/lobby_normal2)|474289d41c74872c5baeaf4266ebf505"
-msgstr "舞蹈嗎？抱歉，今天的表演已經結束了，接下來是私人時間。不過……若客官能胡一把讓莎拉眼前一亮的牌，小小的服務也並非不可以……呵呵……"
+msgstr "舞蹈嗎？抱歉，今天的表演已經結束了，接下來是私人時間。不過……若客官能和一把讓莎拉眼前一亮的牌，小小的服務也並非不可以……呵呵……"
 
 #: VoiceSound.csv:1756
 msgctxt "Lobby Interactive Voice 3"
@@ -69778,7 +69778,7 @@ msgctxt ""
 "an open heart. Am I right?"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/xiaoniaoyouchutian/lobby_normalmax2)|7f65b8c0dde228ea9d7a0d154a569d51"
-msgstr "以前總覺得胡別人牌有點不太好意思，可最近有點明白了，坦然面對輸贏才是對坐在同一局的對手們的尊重，可以這樣理解嗎？"
+msgstr "以前總覺得和別人牌有點不太好意思，可最近有點明白了，坦然面對輸贏才是對坐在同一局的對手們的尊重，可以這樣理解嗎？"
 
 #: VoiceSound.csv:2109
 msgctxt "Lobby Interactive Voice 8"
@@ -72384,7 +72384,7 @@ msgstr "特殊語音 - 餘牌少於10"
 msgctxt "No one has declared a win yet... So it must be Haruna's turn now!"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/wushilanyangcai/ingame_remain10)|1cac5b8135bdf0b22262a359fe0d8ce2"
-msgstr "還沒有人胡牌……也就是說到陽菜胡牌了吧！"
+msgstr "還沒有人和牌……也就是說到陽菜和牌了吧！"
 
 #: VoiceSound.csv:2320
 msgctxt "SP - Tenpai with Yakuman"
@@ -72396,7 +72396,7 @@ msgstr "特殊語音 - 役滿聽牌"
 msgctxt "Is this a powerful hand? Alright! I will make sure I win this one!"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/wushilanyangcai/ingame_yiman)|acb3443e700d8c9afc9396bdc0e46357"
-msgstr "這個很厲害嗎？好！一定要胡到！"
+msgstr "這個很厲害嗎？好！一定要和到！"
 
 #: VoiceSound.csv:2321
 msgctxt "SP - Tenpai with Baiman/Sanbaiman"
@@ -72408,7 +72408,7 @@ msgstr "特殊語音 - 倍滿/三倍滿聽牌"
 msgctxt "Oh God of Ice Pops, please help Haruna to win this awesome hand."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/wushilanyangcai/ingame_beiman)|972e7f6c436529d7efec8ce4f12da0fd"
-msgstr "冰棒之神冰棒之神，請保佑陽菜胡到這很厲害的牌。"
+msgstr "冰棒之神冰棒之神，請保佑陽菜和到這很厲害的牌。"
 
 #: VoiceSound.csv:2322
 msgctxt "Riichi"
@@ -73882,7 +73882,7 @@ msgstr "特殊語音 - 役滿聽牌"
 msgctxt "I must not let my guard down before winning this hand."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/lianggongxingshu/ingame_yiman)|c627fd5ae9dad9269db0f3569db6ef45"
-msgstr "在沒有胡牌之前都不能放鬆警惕。"
+msgstr "在沒有和牌之前都不能放鬆警惕。"
 
 #: VoiceSound.csv:2437
 msgctxt "SP - Tenpai with Baiman/Sanbaiman"
@@ -84086,7 +84086,7 @@ msgstr "特殊語音 - 倍滿/三倍滿聽牌"
 msgctxt "Hehe, if I can win this, I'll be loaded today!"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/tengbenqiluo/ingame_beiman)|4172dd1ac0268586af731eace623a1b1"
-msgstr "嘻嘻，胡到的話，今天就賺翻啦~。"
+msgstr "嘻嘻，和到的話，今天就賺翻啦~。"
 
 #: VoiceSound.csv:3250
 msgctxt "Riichi"
@@ -84371,7 +84371,7 @@ msgctxt ""
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/huiyeji/lobby_normalmax3)|8930a2b0fdb1e94f5dea0dd5498f2369"
 msgstr ""
-"愚蠢！居然看不出妾身一直胡斷么九的意圖，聽好了，只有這樣才能襯托出汝做大牌時的帥氣啊，這可是神明的策略喔……關於什麼的策略？嗯……嗯……對對對！是關於如何將汝包裝成一番市最強麻將選手的策略，比神明打牌還厲害的人，肯定是最強了吧！怎麼樣？是不是被妾身天才的想法嚇到了!"
+"愚蠢！居然看不出妾身一直和斷么九的意圖，聽好了，只有這樣才能襯托出汝做大牌時的帥氣啊，這可是神明的策略喔……關於什麼的策略？嗯……嗯……對對對！是關於如何將汝包裝成一番市最強麻將選手的策略，比神明打牌還厲害的人，肯定是最強了吧！怎麼樣？是不是被妾身天才的想法嚇到了!"
 
 #: VoiceSound.csv:3270
 msgctxt "Receiving Gift - Normal"
