@@ -15,7 +15,7 @@ jobs:
 #         with:
 #           limit-access-to-actor: true
 
-      - uses: octokit/request-action@01a594f812f65f72258093beb52b2b89429eb853
+      - uses: octokit/request-action@v2.0.26
         with:
           route: GET /repos/:repository/collaborators/${{ github.actor }}
           repository: ${{ github.repository }}
