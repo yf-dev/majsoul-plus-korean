@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020, 2021.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-06 07:03+0000\n"
+"PO-Revision-Date: 2021-03-27 01:00+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -71084,3 +71084,52 @@ msgstr "로비"
 msgctxt "Now Playing"
 msgid "json|both_ui/config|0|7|0|0|3|0|572caa56500d8d2f13024dcab5732669"
 msgstr "재생중"
+
+#: FandescFandesc.csv:43
+msgctxt ""
+"Win a hand by Tsumo as a non-dealer in the first turn before any tiles are "
+"called"
+msgid "sheet|FandescFandesc.csv|desc_en|fc4f21c6a26da7071833a0c272a50078"
+msgstr "자(코)의 첫 쯔모패로 화료 - 화료 전 누군가 치/펑/깡을 선언했을 경우 무효"
+
+#: FandescFandesc.csv:42
+msgctxt ""
+"Win a hand by Tsumo as a dealer in the first turn with the first draw"
+msgid "sheet|FandescFandesc.csv|desc_en|6675d92278419b4178065d2358595754"
+msgstr "친(오야)의 배패로 화료"
+
+#: ui_en.json
+msgctxt ""
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_jp|1|3|1263f951609d13d2a73fdb89e117bc57"
+msgstr ""
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
+
+#: ui_en.json
+msgctxt ""
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_en|1|3|1263f951609d13d2a73fdb89e117bc57"
+msgstr ""
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
+
+#: ui_en.json
+msgctxt ""
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_chs_t|1|3|1263f951609d13d2a73fdb89e117bc57"
+msgstr ""
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
+
+#: ui_en.json
+msgctxt ""
+"3/3 14:00 - \r\n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_chs|1|3|1263f951609d13d2a73fdb89e117bc57"
+msgstr ""
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
