@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-14 06:06:17\n"
+"PO-Revision-Date: 2021-03-28 09:02:21\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -543,864 +543,864 @@ msgstr "您先需要绑定并验证邮箱，才能进行付费"
 
 #: ui_en.json
 msgctxt "Add"
-msgid "json|both_ui/otherplayerinfo|0|2|1|1|ec211f7c20af43e742bf2570c3cb84f9"
+msgid "json|both_ui/otherplayerinfo|1|2|1|1|ec211f7c20af43e742bf2570c3cb84f9"
 msgstr "Add"
 
 #: ui_en.json
 msgctxt "/"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|4|5|2|6666cd76f96956469e7be39d750cc7d9"
+"json|both_ui/otherplayerinfo|1|2|4|5|2|6666cd76f96956469e7be39d750cc7d9"
 msgstr "/"
 
 #: ui_en.json
 msgctxt "Event Match"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|5|1|0|d97f31fd695c04623859aef5ff3b6f57"
+"json|both_ui/otherplayerinfo|1|2|5|1|0|d97f31fd695c04623859aef5ff3b6f57"
 msgstr "Event Match"
 
 #: ui_en.json
 msgctxt "Friendly Match"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|5|2|0|e933fed1bdd6f754fb8232129c38716b"
+"json|both_ui/otherplayerinfo|1|2|5|2|0|e933fed1bdd6f754fb8232129c38716b"
 msgstr "Friendly Match"
 
 #: ui_en.json
 msgctxt "Ranked Match"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|5|3|0|76e1ad3f9b76ba224adc3f89dc021fbe"
+"json|both_ui/otherplayerinfo|1|2|5|3|0|76e1ad3f9b76ba224adc3f89dc021fbe"
 msgstr "Ranked Match"
 
 #: ui_en.json
 msgctxt "Recent High Score"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|0|0|0|fee382ba20496eafced1bc721b85304c"
+"json|both_ui/otherplayerinfo|1|2|6|1|0|0|0|fee382ba20496eafced1bc721b85304c"
 msgstr "Recent High Score"
 
 #: ui_en.json
 msgctxt "No record available. Good luck!"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|0|3|2767cb7fc9c3dced54a3f30595125332"
+"json|both_ui/otherplayerinfo|1|2|6|1|0|3|2767cb7fc9c3dced54a3f30595125332"
 msgstr "No record available. Good luck!"
 
 #: ui_en.json
 msgctxt "ATK"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|1|0|96cc5c725ae8f5ccb76056b7d12ed095"
+"json|both_ui/otherplayerinfo|1|2|6|1|1|0|96cc5c725ae8f5ccb76056b7d12ed095"
 msgstr "ATK"
 
 #: ui_en.json
 msgctxt "DEF"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|1|2|822dd494b3e14a82aa76bd455e6b6f4b"
+"json|both_ui/otherplayerinfo|1|2|6|1|1|2|822dd494b3e14a82aa76bd455e6b6f4b"
 msgstr "DEF"
 
 #: ui_en.json
 msgctxt "SPD"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|1|4|ed504d8761c0f48e13d9d14e94a23627"
+"json|both_ui/otherplayerinfo|1|2|6|1|1|4|ed504d8761c0f48e13d9d14e94a23627"
 msgstr "SPD"
 
 #: ui_en.json
 msgctxt "LUK"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|1|6|f88d79c11b5b643625fa1c5df243ccd5"
+"json|both_ui/otherplayerinfo|1|2|6|1|1|6|f88d79c11b5b643625fa1c5df243ccd5"
 msgstr "LUK"
 
 #: ui_en.json
 msgctxt "ATK"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|1|8|0|96cc5c725ae8f5ccb76056b7d12ed095"
+"json|both_ui/otherplayerinfo|1|2|6|1|1|8|0|96cc5c725ae8f5ccb76056b7d12ed095"
 msgstr "ATK"
 
 #: ui_en.json
 msgctxt "DEF"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|1|8|1|822dd494b3e14a82aa76bd455e6b6f4b"
+"json|both_ui/otherplayerinfo|1|2|6|1|1|8|1|822dd494b3e14a82aa76bd455e6b6f4b"
 msgstr "DEF"
 
 #: ui_en.json
 msgctxt "SPD"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|1|8|2|ed504d8761c0f48e13d9d14e94a23627"
+"json|both_ui/otherplayerinfo|1|2|6|1|1|8|2|ed504d8761c0f48e13d9d14e94a23627"
 msgstr "SPD"
 
 #: ui_en.json
 msgctxt "LUK"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|1|8|3|f88d79c11b5b643625fa1c5df243ccd5"
+"json|both_ui/otherplayerinfo|1|2|6|1|1|8|3|f88d79c11b5b643625fa1c5df243ccd5"
 msgstr "LUK"
 
 #: ui_en.json
 msgctxt "Play Style"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|1|9|0|4c21dd25c08f117cd644b37484cb60a9"
+"json|both_ui/otherplayerinfo|1|2|6|1|1|9|0|4c21dd25c08f117cd644b37484cb60a9"
 msgstr "Play Style"
 
 #: ui_en.json
 msgctxt "4"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|2|6|a87ff679a2f3e71d9181a67b7542122c"
+"json|both_ui/otherplayerinfo|1|2|6|1|2|6|a87ff679a2f3e71d9181a67b7542122c"
 msgstr "4"
 
 #: ui_en.json
 msgctxt "Rank"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|2|6|0|021da1b20f73dc252361a54d80497ef3"
+"json|both_ui/otherplayerinfo|1|2|6|1|2|6|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
 #: ui_en.json
 msgctxt "3"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|2|7|eccbc87e4b5ce2fe28308fd9f2a7baf3"
+"json|both_ui/otherplayerinfo|1|2|6|1|2|7|eccbc87e4b5ce2fe28308fd9f2a7baf3"
 msgstr "3"
 
 #: ui_en.json
 msgctxt "Rank"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|2|7|0|021da1b20f73dc252361a54d80497ef3"
+"json|both_ui/otherplayerinfo|1|2|6|1|2|7|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
 #: ui_en.json
 msgctxt "2"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|2|8|c81e728d9d4c2f636f067f89cc14862c"
+"json|both_ui/otherplayerinfo|1|2|6|1|2|8|c81e728d9d4c2f636f067f89cc14862c"
 msgstr "2"
 
 #: ui_en.json
 msgctxt "Rank"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|2|8|0|021da1b20f73dc252361a54d80497ef3"
+"json|both_ui/otherplayerinfo|1|2|6|1|2|8|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
 #: ui_en.json
 msgctxt "1"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|2|9|c4ca4238a0b923820dcc509a6f75849b"
+"json|both_ui/otherplayerinfo|1|2|6|1|2|9|c4ca4238a0b923820dcc509a6f75849b"
 msgstr "1"
 
 #: ui_en.json
 msgctxt "Rank"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|2|9|0|021da1b20f73dc252361a54d80497ef3"
+"json|both_ui/otherplayerinfo|1|2|6|1|2|9|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
 #: ui_en.json
 msgctxt "Trends"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|2|10|0|9cf69763de83f9db7f4a87c51fe6ae23"
+"json|both_ui/otherplayerinfo|1|2|6|1|2|10|0|9cf69763de83f9db7f4a87c51fe6ae23"
 msgstr "Trends"
 
 #: ui_en.json
 msgctxt "Detailed Info"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|3|0|0|b8a1f13f2a5318ec0079b7be00f9130b"
+"json|both_ui/otherplayerinfo|1|2|6|1|3|0|0|b8a1f13f2a5318ec0079b7be00f9130b"
 msgstr "Detailed Info"
 
 #: ui_en.json
 msgctxt "East Round"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|0|2|b854db72888d259be819bfde4fabb4e8"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|0|2|b854db72888d259be819bfde4fabb4e8"
 msgstr "East Round"
 
 #: ui_en.json
 msgctxt "1st"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|0|ec31383cc75b7ef7915803f99562cbe8"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|0|ec31383cc75b7ef7915803f99562cbe8"
 msgstr "1st"
 
 #: ui_en.json
 msgctxt "2nd"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
 msgstr "2nd"
 
 #: ui_en.json
 msgctxt "3rd"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|4|b7b655045b89200c7a4dedb1303ca2f1"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|4|b7b655045b89200c7a4dedb1303ca2f1"
 msgstr "3rd"
 
 #: ui_en.json
 msgctxt "4th"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
 msgstr "4th"
 
 #: ui_en.json
 msgctxt "Negative"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
 msgstr "Negative"
 
 #: ui_en.json
 msgctxt "Total Played"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|8|9f489bc2f6bfada1c7495786b50c4184"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|8|9f489bc2f6bfada1c7495786b50c4184"
 msgstr "Total Played"
 
 #: ui_en.json
 msgctxt "Avg Score"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|10|24b362a521bc6bbba7ca7f634f257cf2"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|10|24b362a521bc6bbba7ca7f634f257cf2"
 msgstr "Avg Score"
 
 #: ui_en.json
 msgctxt "Avg Rank"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|12|78f17c40778452d853ecf5d93ef34fdd"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|12|78f17c40778452d853ecf5d93ef34fdd"
 msgstr "Avg Rank"
 
 #: ui_en.json
 msgctxt "Max Repeats"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|14|1421256f92c4ddbfa64cace74f63aa73"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|14|1421256f92c4ddbfa64cace74f63aa73"
 msgstr "Max Repeats"
 
 #: ui_en.json
 msgctxt "Avg Turns"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|16|ad2192da9ca93ed2365636871922f796"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|16|ad2192da9ca93ed2365636871922f796"
 msgstr "Avg Turns"
 
 #: ui_en.json
 msgctxt "Win Rate"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
 msgstr "Win Rate"
 
 #: ui_en.json
 msgctxt "Tsumo Rate"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|20|f09fc617ff40790b7c0576a6c21b3bff"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|20|f09fc617ff40790b7c0576a6c21b3bff"
 msgstr "Tsumo Rate"
 
 #: ui_en.json
 msgctxt "Deal-in Rate"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|22|3f2df764788280fe9aa53229fdc127fd"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|22|3f2df764788280fe9aa53229fdc127fd"
 msgstr "Deal-in Rate"
 
 #: ui_en.json
 msgctxt "Call Rate"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|24|3a4925e19e02fb44df9d672c6e0724d3"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|24|3a4925e19e02fb44df9d672c6e0724d3"
 msgstr "Call Rate"
 
 #: ui_en.json
 msgctxt "Riichi Rate"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|26|a27ffd0a6f4076f298f02add1dea77e9"
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|26|a27ffd0a6f4076f298f02add1dea77e9"
 msgstr "Riichi Rate"
 
 #: ui_en.json
 msgctxt "South Round"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|0|2|23a893f962bd1ba64fd3534612197997"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|0|2|23a893f962bd1ba64fd3534612197997"
 msgstr "South Round"
 
 #: ui_en.json
 msgctxt "1st"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|0|ec31383cc75b7ef7915803f99562cbe8"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|0|ec31383cc75b7ef7915803f99562cbe8"
 msgstr "1st"
 
 #: ui_en.json
 msgctxt "2nd"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
 msgstr "2nd"
 
 #: ui_en.json
 msgctxt "3rd"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|4|b7b655045b89200c7a4dedb1303ca2f1"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|4|b7b655045b89200c7a4dedb1303ca2f1"
 msgstr "3rd"
 
 #: ui_en.json
 msgctxt "4th"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
 msgstr "4th"
 
 #: ui_en.json
 msgctxt "Negative"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
 msgstr "Negative"
 
 #: ui_en.json
 msgctxt "Total Played"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|8|9f489bc2f6bfada1c7495786b50c4184"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|8|9f489bc2f6bfada1c7495786b50c4184"
 msgstr "Total Played"
 
 #: ui_en.json
 msgctxt "Avg Score"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|10|24b362a521bc6bbba7ca7f634f257cf2"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|10|24b362a521bc6bbba7ca7f634f257cf2"
 msgstr "Avg Score"
 
 #: ui_en.json
 msgctxt "Avg Rank"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|12|78f17c40778452d853ecf5d93ef34fdd"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|12|78f17c40778452d853ecf5d93ef34fdd"
 msgstr "Avg Rank"
 
 #: ui_en.json
 msgctxt "Max Repeats"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|14|1421256f92c4ddbfa64cace74f63aa73"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|14|1421256f92c4ddbfa64cace74f63aa73"
 msgstr "Max Repeats"
 
 #: ui_en.json
 msgctxt "Avg Turns"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|16|ad2192da9ca93ed2365636871922f796"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|16|ad2192da9ca93ed2365636871922f796"
 msgstr "Avg Turns"
 
 #: ui_en.json
 msgctxt "Win Rate"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
 msgstr "Win Rate"
 
 #: ui_en.json
 msgctxt "Tsumo Rate"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|20|f09fc617ff40790b7c0576a6c21b3bff"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|20|f09fc617ff40790b7c0576a6c21b3bff"
 msgstr "Tsumo Rate"
 
 #: ui_en.json
 msgctxt "Deal-in Rate"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|22|3f2df764788280fe9aa53229fdc127fd"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|22|3f2df764788280fe9aa53229fdc127fd"
 msgstr "Deal-in Rate"
 
 #: ui_en.json
 msgctxt "Call Rate"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|24|3a4925e19e02fb44df9d672c6e0724d3"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|24|3a4925e19e02fb44df9d672c6e0724d3"
 msgstr "Call Rate"
 
 #: ui_en.json
 msgctxt "Riichi Rate"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|26|a27ffd0a6f4076f298f02add1dea77e9"
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|26|a27ffd0a6f4076f298f02add1dea77e9"
 msgstr "Riichi Rate"
 
 #: ui_en.json
 msgctxt "Yaku Achieved"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|6|0|2|3603833487a89784c5c1e4d6d9d0206a"
+"json|both_ui/otherplayerinfo|1|2|6|1|6|0|2|3603833487a89784c5c1e4d6d9d0206a"
 msgstr "Yaku Achieved"
 
 #: ui_en.json
 msgctxt "Local Yaku Achieved"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|7|0|2|bf287837967c7c81eddd08da78f7d92f"
+"json|both_ui/otherplayerinfo|1|2|6|1|7|0|2|bf287837967c7c81eddd08da78f7d92f"
 msgstr "Local Yaku Achieved"
 
 #: ui_en.json
 msgctxt "Path of Trial"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|8|0|0|c018f58f4c2074df948bc2e872faa998"
+"json|both_ui/otherplayerinfo|1|2|6|1|8|0|0|c018f58f4c2074df948bc2e872faa998"
 msgstr "Path of Trial"
 
 #: ui_en.json
 msgctxt "No record available. Good luck!"
 msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|8|1|2767cb7fc9c3dced54a3f30595125332"
+"json|both_ui/otherplayerinfo|1|2|6|1|8|1|2767cb7fc9c3dced54a3f30595125332"
 msgstr "No record available. Good luck!"
 
 #: ui_en.json
 msgctxt "Achievement:"
-msgid "json|both_ui/otherplayerinfo|0|2|8|1|085617bb032b1d34a2baf555cc8047db"
+msgid "json|both_ui/otherplayerinfo|1|2|8|1|085617bb032b1d34a2baf555cc8047db"
 msgstr "Achievement:"
 
 #: ui_en.json
 msgctxt "Empty"
-msgid "json|both_ui/otherplayerinfo|0|3|1|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
+msgid "json|both_ui/otherplayerinfo|1|3|1|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
 msgstr "Empty"
 
 #: ui_en.json
 msgctxt "Send"
 msgid ""
-"json|both_ui/otherplayerinfo|0|3|3|0|0|94966d90747b97d1f0f206c98a8b1ac3"
+"json|both_ui/otherplayerinfo|1|3|3|0|0|94966d90747b97d1f0f206c98a8b1ac3"
 msgstr "Send"
 
 #: ui_en.json
 msgctxt "This player only allows friends to leave messages"
-msgid "json|both_ui/otherplayerinfo|0|3|4|b7e757661d408865219b3bd2ae7372fc"
+msgid "json|both_ui/otherplayerinfo|1|3|4|b7e757661d408865219b3bd2ae7372fc"
 msgstr "This player only allows friends to leave messages"
 
 #: ui_en.json
 msgctxt "Recently used"
 msgid ""
-"json|both_ui/otherplayerinfo|0|3|6|1|4|0|0|042be00d927cff11fd00361b3dda1817"
+"json|both_ui/otherplayerinfo|1|3|6|1|4|0|0|042be00d927cff11fd00361b3dda1817"
 msgstr "Recently used"
 
 #: ui_en.json
 msgctxt "All"
 msgid ""
-"json|both_ui/otherplayerinfo|0|3|6|1|4|0|2|b1c94ca2fbc3e78fc30069c8d0f01680"
+"json|both_ui/otherplayerinfo|1|3|6|1|4|0|2|b1c94ca2fbc3e78fc30069c8d0f01680"
 msgstr "All"
 
 #: ui_en.json
 msgctxt "No signature yet"
-msgid "json|both_ui/otherplayerinfo|0|3|8|2|92bc3e31fe25efb615f0fd161ab415c7"
+msgid "json|both_ui/otherplayerinfo|1|3|8|2|92bc3e31fe25efb615f0fd161ab415c7"
 msgstr "No signature yet"
 
 #: ui_en.json
 msgctxt "Signature"
-msgid "json|both_ui/otherplayerinfo|0|3|8|3|8c09001c99ecb6fdd8d6023fcf039054"
+msgid "json|both_ui/otherplayerinfo|1|3|8|3|8c09001c99ecb6fdd8d6023fcf039054"
 msgstr "Signature"
 
 #: ui_en.json
 msgctxt "4-Player"
-msgid "json|both_ui/otherplayerinfo|0|5|0|5dc72846529d753fec588a14a68f97f6"
+msgid "json|both_ui/otherplayerinfo|1|5|0|5dc72846529d753fec588a14a68f97f6"
 msgstr "4-Player"
 
 #: ui_en.json
 msgctxt "3-Player"
-msgid "json|both_ui/otherplayerinfo|0|6|0|493c1194804e829e28dead722b2ac772"
+msgid "json|both_ui/otherplayerinfo|1|6|0|493c1194804e829e28dead722b2ac772"
 msgstr "3-Player"
 
 #: ui_en.json
 msgctxt "Message"
-msgid "json|both_ui/otherplayerinfo|0|7|0|4c2a8fe7eaf24721cc7a9f0175115bd4"
+msgid "json|both_ui/otherplayerinfo|1|7|0|4c2a8fe7eaf24721cc7a9f0175115bd4"
 msgstr "Message"
 
 #: ui_en.json
 msgctxt "Add"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|1|1|ec211f7c20af43e742bf2570c3cb84f9"
+"json|both_ui/otherplayerinfo_en|1|2|1|1|ec211f7c20af43e742bf2570c3cb84f9"
 msgstr "Add"
 
 #: ui_en.json
 msgctxt "/"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|4|5|2|6666cd76f96956469e7be39d750cc7d9"
+"json|both_ui/otherplayerinfo_en|1|2|4|5|2|6666cd76f96956469e7be39d750cc7d9"
 msgstr "/"
 
 #: ui_en.json
 msgctxt "Recent High Score"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|0|0|0|fee382ba20496eafced1bc721b85304c"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|0|0|0|fee382ba20496eafced1bc721b85304c"
 msgstr "Recent High Score"
 
 #: ui_en.json
 msgctxt "No record available. Good luck!"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|0|3|2767cb7fc9c3dced54a3f30595125332"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|0|3|2767cb7fc9c3dced54a3f30595125332"
 msgstr "No record available. Good luck!"
 
 #: ui_en.json
 msgctxt "ATK"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|1|0|96cc5c725ae8f5ccb76056b7d12ed095"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|0|96cc5c725ae8f5ccb76056b7d12ed095"
 msgstr "ATK"
 
 #: ui_en.json
 msgctxt "DEF"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|1|2|822dd494b3e14a82aa76bd455e6b6f4b"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|2|822dd494b3e14a82aa76bd455e6b6f4b"
 msgstr "DEF"
 
 #: ui_en.json
 msgctxt "SPD"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|1|4|ed504d8761c0f48e13d9d14e94a23627"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|4|ed504d8761c0f48e13d9d14e94a23627"
 msgstr "SPD"
 
 #: ui_en.json
 msgctxt "LUK"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|1|6|f88d79c11b5b643625fa1c5df243ccd5"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|6|f88d79c11b5b643625fa1c5df243ccd5"
 msgstr "LUK"
 
 #: ui_en.json
 msgctxt "ATK"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|1|8|0|96cc5c725ae8f5ccb76056b7d12ed095"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|8|0|96cc5c725ae8f5ccb76056b7d12ed095"
 msgstr "ATK"
 
 #: ui_en.json
 msgctxt "DEF"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|1|8|1|822dd494b3e14a82aa76bd455e6b6f4b"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|8|1|822dd494b3e14a82aa76bd455e6b6f4b"
 msgstr "DEF"
 
 #: ui_en.json
 msgctxt "SPD"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|1|8|2|ed504d8761c0f48e13d9d14e94a23627"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|8|2|ed504d8761c0f48e13d9d14e94a23627"
 msgstr "SPD"
 
 #: ui_en.json
 msgctxt "LUK"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|1|8|3|f88d79c11b5b643625fa1c5df243ccd5"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|8|3|f88d79c11b5b643625fa1c5df243ccd5"
 msgstr "LUK"
 
 #: ui_en.json
 msgctxt "Play Style"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|1|9|0|4c21dd25c08f117cd644b37484cb60a9"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|9|0|4c21dd25c08f117cd644b37484cb60a9"
 msgstr "Play Style"
 
 #: ui_en.json
 msgctxt "4"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|2|6|a87ff679a2f3e71d9181a67b7542122c"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|6|a87ff679a2f3e71d9181a67b7542122c"
 msgstr "4"
 
 #: ui_en.json
 msgctxt "Rank"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|2|6|0|021da1b20f73dc252361a54d80497ef3"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|6|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
 #: ui_en.json
 msgctxt "3"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|2|7|eccbc87e4b5ce2fe28308fd9f2a7baf3"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|7|eccbc87e4b5ce2fe28308fd9f2a7baf3"
 msgstr "3"
 
 #: ui_en.json
 msgctxt "Rank"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|2|7|0|021da1b20f73dc252361a54d80497ef3"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|7|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
 #: ui_en.json
 msgctxt "2"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|2|8|c81e728d9d4c2f636f067f89cc14862c"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|8|c81e728d9d4c2f636f067f89cc14862c"
 msgstr "2"
 
 #: ui_en.json
 msgctxt "Rank"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|2|8|0|021da1b20f73dc252361a54d80497ef3"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|8|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
 #: ui_en.json
 msgctxt "1"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|2|9|c4ca4238a0b923820dcc509a6f75849b"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|9|c4ca4238a0b923820dcc509a6f75849b"
 msgstr "1"
 
 #: ui_en.json
 msgctxt "Rank"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|2|9|0|021da1b20f73dc252361a54d80497ef3"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|9|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "Rank"
 
 #: ui_en.json
 msgctxt "Trends"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|2|10|0|9cf69763de83f9db7f4a87c51fe6ae23"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|10|0|9cf69763de83f9db7f4a87c51fe6ae23"
 msgstr "Trends"
 
 #: ui_en.json
 msgctxt "Detailed Info"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|3|0|0|b8a1f13f2a5318ec0079b7be00f9130b"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|3|0|0|b8a1f13f2a5318ec0079b7be00f9130b"
 msgstr "Detailed Info"
 
 #: ui_en.json
 msgctxt "East Round"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|0|2|b854db72888d259be819bfde4fabb4e8"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|0|2|b854db72888d259be819bfde4fabb4e8"
 msgstr "East Round"
 
 #: ui_en.json
 msgctxt "1st"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|0|ec31383cc75b7ef7915803f99562cbe8"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|0|ec31383cc75b7ef7915803f99562cbe8"
 msgstr "1st"
 
 #: ui_en.json
 msgctxt "2nd"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
 msgstr "2nd"
 
 #: ui_en.json
 msgctxt "3rd"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|4|b7b655045b89200c7a4dedb1303ca2f1"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|4|b7b655045b89200c7a4dedb1303ca2f1"
 msgstr "3rd"
 
 #: ui_en.json
 msgctxt "4th"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
 msgstr "4th"
 
 #: ui_en.json
 msgctxt "Negative"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
 msgstr "Negative"
 
 #: ui_en.json
 msgctxt "Total Played"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|8|9f489bc2f6bfada1c7495786b50c4184"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|8|9f489bc2f6bfada1c7495786b50c4184"
 msgstr "Total Played"
 
 #: ui_en.json
 msgctxt "Avg Score"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|10|24b362a521bc6bbba7ca7f634f257cf2"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|10|24b362a521bc6bbba7ca7f634f257cf2"
 msgstr "Avg Score"
 
 #: ui_en.json
 msgctxt "Avg Rank"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|12|78f17c40778452d853ecf5d93ef34fdd"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|12|78f17c40778452d853ecf5d93ef34fdd"
 msgstr "Avg Rank"
 
 #: ui_en.json
 msgctxt "Max Repeats"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|14|1421256f92c4ddbfa64cace74f63aa73"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|14|1421256f92c4ddbfa64cace74f63aa73"
 msgstr "Max Repeats"
 
 #: ui_en.json
 msgctxt "Avg Turns"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|16|ad2192da9ca93ed2365636871922f796"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|16|ad2192da9ca93ed2365636871922f796"
 msgstr "Avg Turns"
 
 #: ui_en.json
 msgctxt "Win Rate"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
 msgstr "Win Rate"
 
 #: ui_en.json
 msgctxt "Tsumo Rate"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|20|f09fc617ff40790b7c0576a6c21b3bff"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|20|f09fc617ff40790b7c0576a6c21b3bff"
 msgstr "Tsumo Rate"
 
 #: ui_en.json
 msgctxt "Deal-in Rate"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|22|3f2df764788280fe9aa53229fdc127fd"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|22|3f2df764788280fe9aa53229fdc127fd"
 msgstr "Deal-in Rate"
 
 #: ui_en.json
 msgctxt "Call Rate"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|24|3a4925e19e02fb44df9d672c6e0724d3"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|24|3a4925e19e02fb44df9d672c6e0724d3"
 msgstr "Call Rate"
 
 #: ui_en.json
 msgctxt "Riichi Rate"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|26|a27ffd0a6f4076f298f02add1dea77e9"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|26|a27ffd0a6f4076f298f02add1dea77e9"
 msgstr "Riichi Rate"
 
 #: ui_en.json
 msgctxt "South Round"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|0|2|23a893f962bd1ba64fd3534612197997"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|0|2|23a893f962bd1ba64fd3534612197997"
 msgstr "South Round"
 
 #: ui_en.json
 msgctxt "1st"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|0|ec31383cc75b7ef7915803f99562cbe8"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|0|ec31383cc75b7ef7915803f99562cbe8"
 msgstr "1st"
 
 #: ui_en.json
 msgctxt "2nd"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
 msgstr "2nd"
 
 #: ui_en.json
 msgctxt "3rd"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|4|b7b655045b89200c7a4dedb1303ca2f1"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|4|b7b655045b89200c7a4dedb1303ca2f1"
 msgstr "3rd"
 
 #: ui_en.json
 msgctxt "4th"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
 msgstr "4th"
 
 #: ui_en.json
 msgctxt "Negative"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
 msgstr "Negative"
 
 #: ui_en.json
 msgctxt "Total Played"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|8|9f489bc2f6bfada1c7495786b50c4184"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|8|9f489bc2f6bfada1c7495786b50c4184"
 msgstr "Total Played"
 
 #: ui_en.json
 msgctxt "Avg Score"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|10|24b362a521bc6bbba7ca7f634f257cf2"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|10|24b362a521bc6bbba7ca7f634f257cf2"
 msgstr "Avg Score"
 
 #: ui_en.json
 msgctxt "Avg Rank"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|12|78f17c40778452d853ecf5d93ef34fdd"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|12|78f17c40778452d853ecf5d93ef34fdd"
 msgstr "Avg Rank"
 
 #: ui_en.json
 msgctxt "Max Repeats"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|14|1421256f92c4ddbfa64cace74f63aa73"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|14|1421256f92c4ddbfa64cace74f63aa73"
 msgstr "Max Repeats"
 
 #: ui_en.json
 msgctxt "Avg Turns"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|16|ad2192da9ca93ed2365636871922f796"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|16|ad2192da9ca93ed2365636871922f796"
 msgstr "Avg Turns"
 
 #: ui_en.json
 msgctxt "Win Rate"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
 msgstr "Win Rate"
 
 #: ui_en.json
 msgctxt "Tsumo Rate"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|20|f09fc617ff40790b7c0576a6c21b3bff"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|20|f09fc617ff40790b7c0576a6c21b3bff"
 msgstr "Tsumo Rate"
 
 #: ui_en.json
 msgctxt "Deal-in Rate"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|22|3f2df764788280fe9aa53229fdc127fd"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|22|3f2df764788280fe9aa53229fdc127fd"
 msgstr "Deal-in Rate"
 
 #: ui_en.json
 msgctxt "Call Rate"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|24|3a4925e19e02fb44df9d672c6e0724d3"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|24|3a4925e19e02fb44df9d672c6e0724d3"
 msgstr "Call Rate"
 
 #: ui_en.json
 msgctxt "Riichi Rate"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|26|a27ffd0a6f4076f298f02add1dea77e9"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|26|a27ffd0a6f4076f298f02add1dea77e9"
 msgstr "Riichi Rate"
 
 #: ui_en.json
 msgctxt "Yaku Achieved"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|6|0|2|3603833487a89784c5c1e4d6d9d0206a"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|6|0|2|3603833487a89784c5c1e4d6d9d0206a"
 msgstr "Yaku Achieved"
 
 #: ui_en.json
 msgctxt "Local Yaku Achieved"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|7|0|2|bf287837967c7c81eddd08da78f7d92f"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|7|0|2|bf287837967c7c81eddd08da78f7d92f"
 msgstr "Local Yaku Achieved"
 
 #: ui_en.json
 msgctxt "Path of Trial"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|8|0|0|c018f58f4c2074df948bc2e872faa998"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|8|0|0|c018f58f4c2074df948bc2e872faa998"
 msgstr "Path of Trial"
 
 #: ui_en.json
 msgctxt "No record available. Good luck!"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|8|1|2767cb7fc9c3dced54a3f30595125332"
+"json|both_ui/otherplayerinfo_en|1|2|5|1|8|1|2767cb7fc9c3dced54a3f30595125332"
 msgstr "No record available. Good luck!"
 
 #: ui_en.json
 msgctxt "Event Match"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|6|1|0|d97f31fd695c04623859aef5ff3b6f57"
+"json|both_ui/otherplayerinfo_en|1|2|6|1|0|d97f31fd695c04623859aef5ff3b6f57"
 msgstr "Event Match"
 
 #: ui_en.json
 msgctxt "Friendly Match"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|6|2|0|e933fed1bdd6f754fb8232129c38716b"
+"json|both_ui/otherplayerinfo_en|1|2|6|2|0|e933fed1bdd6f754fb8232129c38716b"
 msgstr "Friendly Match"
 
 #: ui_en.json
 msgctxt "Ranked Match"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|6|3|0|76e1ad3f9b76ba224adc3f89dc021fbe"
+"json|both_ui/otherplayerinfo_en|1|2|6|3|0|76e1ad3f9b76ba224adc3f89dc021fbe"
 msgstr "Ranked Match"
 
 #: ui_en.json
 msgctxt "Achievement:"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|8|1|085617bb032b1d34a2baf555cc8047db"
+"json|both_ui/otherplayerinfo_en|1|2|8|1|085617bb032b1d34a2baf555cc8047db"
 msgstr "Achievement:"
 
 #: ui_en.json
 msgctxt "Empty"
-msgid "json|both_ui/otherplayerinfo_en|0|3|1|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
+msgid "json|both_ui/otherplayerinfo_en|1|3|1|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
 msgstr "Empty"
 
 #: ui_en.json
 msgctxt "Send"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|3|3|0|0|94966d90747b97d1f0f206c98a8b1ac3"
+"json|both_ui/otherplayerinfo_en|1|3|3|0|0|94966d90747b97d1f0f206c98a8b1ac3"
 msgstr "Send"
 
 #: ui_en.json
 msgctxt "This player only allows friends to leave messages"
-msgid "json|both_ui/otherplayerinfo_en|0|3|4|b7e757661d408865219b3bd2ae7372fc"
+msgid "json|both_ui/otherplayerinfo_en|1|3|4|b7e757661d408865219b3bd2ae7372fc"
 msgstr "This player only allows friends to leave messages"
 
 #: ui_en.json
 msgctxt "Recently used"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|3|6|1|4|0|0|042be00d927cff11fd00361b3dda1817"
+"json|both_ui/otherplayerinfo_en|1|3|6|1|4|0|0|042be00d927cff11fd00361b3dda1817"
 msgstr "Recently used"
 
 #: ui_en.json
 msgctxt "All"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|3|6|1|4|0|2|b1c94ca2fbc3e78fc30069c8d0f01680"
+"json|both_ui/otherplayerinfo_en|1|3|6|1|4|0|2|b1c94ca2fbc3e78fc30069c8d0f01680"
 msgstr "All"
 
 #: ui_en.json
 msgctxt "No signature yet"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|3|8|2|92bc3e31fe25efb615f0fd161ab415c7"
+"json|both_ui/otherplayerinfo_en|1|3|8|2|92bc3e31fe25efb615f0fd161ab415c7"
 msgstr "No signature yet"
 
 #: ui_en.json
 msgctxt "Signature"
 msgid ""
-"json|both_ui/otherplayerinfo_en|0|3|8|3|8c09001c99ecb6fdd8d6023fcf039054"
+"json|both_ui/otherplayerinfo_en|1|3|8|3|8c09001c99ecb6fdd8d6023fcf039054"
 msgstr "Signature"
 
 #: ui_en.json
 msgctxt "4-Player"
-msgid "json|both_ui/otherplayerinfo_en|0|5|0|5dc72846529d753fec588a14a68f97f6"
+msgid "json|both_ui/otherplayerinfo_en|1|5|0|5dc72846529d753fec588a14a68f97f6"
 msgstr "4-Player"
 
 #: ui_en.json
 msgctxt "3-Player"
-msgid "json|both_ui/otherplayerinfo_en|0|6|0|493c1194804e829e28dead722b2ac772"
+msgid "json|both_ui/otherplayerinfo_en|1|6|0|493c1194804e829e28dead722b2ac772"
 msgstr "3-Player"
 
 #: ui_en.json
 msgctxt "Message"
-msgid "json|both_ui/otherplayerinfo_en|0|7|0|4c2a8fe7eaf24721cc7a9f0175115bd4"
+msgid "json|both_ui/otherplayerinfo_en|1|7|0|4c2a8fe7eaf24721cc7a9f0175115bd4"
 msgstr "Message"
 
 #: ui_en.json
@@ -1995,7 +1995,7 @@ msgstr "ID number:"
 
 #: ui_en.json
 msgctxt "User Agreement"
-msgid "json|common/user_xieyi|0|0|2|5ac23f06000fafde2c8f7501a80ebbfe"
+msgid "json|common/user_xieyi|0|0|3|5ac23f06000fafde2c8f7501a80ebbfe"
 msgstr "User Agreement"
 
 #: ui_en.json
@@ -2804,6 +2804,18 @@ msgid ""
 msgstr "Claimed"
 
 #: ui_en.json
+msgctxt "Redeem"
+msgid ""
+"json|lobby/activitys/activity_exchange_zhongxia|0|0|1|1|9|0|0|81ed4dcb851fefbbbc791eeef4cd97a2"
+msgstr "Redeem"
+
+#: ui_en.json
+msgctxt "x10"
+msgid ""
+"json|lobby/activitys/activity_exchange_zhongxia|0|0|1|1|9|0|1|2040a28d572e0889b2b34e9c66814f57"
+msgstr "x10"
+
+#: ui_en.json
 msgctxt "/"
 msgid ""
 "json|lobby/activitys/activity_guoqing|0|0|12|0|1|1|6666cd76f96956469e7be39d750cc7d9"
@@ -2992,6 +3004,12 @@ msgstr "立直、门前清自摸和、平和、一杯口"
 #: ui_en.json
 msgctxt "风铃"
 msgid ""
+"json|lobby/activitys/activity_task_zhongxia|0|0|1|1|14|f5656e57a0952c31933ac82c9d8ee3f5"
+msgstr "风铃"
+
+#: ui_en.json
+msgctxt "风铃"
+msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|2|1|3|f5656e57a0952c31933ac82c9d8ee3f5"
 msgstr "风铃"
 
@@ -3070,6 +3088,12 @@ msgstr "立直、门前清自摸和、平和、一杯口"
 #: ui_en.json
 msgctxt "风铃"
 msgid ""
+"json|lobby/activitys/activity_task_zhongxia|0|0|2|1|14|f5656e57a0952c31933ac82c9d8ee3f5"
+msgstr "风铃"
+
+#: ui_en.json
+msgctxt "风铃"
+msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|3|f5656e57a0952c31933ac82c9d8ee3f5"
 msgstr "风铃"
 
@@ -3144,6 +3168,12 @@ msgctxt "立直、门前清自摸和、平和、一杯口"
 msgid ""
 "json|lobby/activitys/activity_task_zhongxia|0|0|3|1|12|2|d2706ab8fc5ff2f2220691f6568b49ac"
 msgstr "立直、门前清自摸和、平和、一杯口"
+
+#: ui_en.json
+msgctxt "风铃"
+msgid ""
+"json|lobby/activitys/activity_task_zhongxia|0|0|3|1|14|f5656e57a0952c31933ac82c9d8ee3f5"
+msgstr "风铃"
 
 #: ui_en.json
 msgctxt "Redeem"
@@ -5102,17 +5132,17 @@ msgstr "No record"
 
 #: ui_en.json
 msgctxt "Enter Log Number"
-msgid "json|lobby/paipu|2|2|cec8c7186aa3fc2419f6f0c8956fd991"
+msgid "json|lobby/paipu|2|3|cec8c7186aa3fc2419f6f0c8956fd991"
 msgstr "Enter Log Number"
 
 #: ui_en.json
 msgctxt "Confirm"
-msgid "json|lobby/paipu|2|3|0|70d9be9b139893aa6c69b5e77e614311"
+msgid "json|lobby/paipu|2|4|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "Confirm"
 
 #: ui_en.json
 msgctxt "Anonymously Share"
-msgid "json|lobby/paipu|2|6|1|ba7c7953bc95b44234abb36597d65c14"
+msgid "json|lobby/paipu|2|7|1|ba7c7953bc95b44234abb36597d65c14"
 msgstr "Anonymously Share"
 
 #: ui_en.json
@@ -7473,12 +7503,12 @@ msgstr "Decoration"
 
 #: ui_en.json
 msgctxt "Copy the room link and send it to your friends"
-msgid "json|lobby/waitingroom|1|2|fc5094a0256ebe43eb41b7e575af6fd9"
+msgid "json|lobby/waitingroom|1|3|fc5094a0256ebe43eb41b7e575af6fd9"
 msgstr "Copy the room link and send it to your friends"
 
 #: ui_en.json
 msgctxt "Copy"
-msgid "json|lobby/waitingroom|1|5|0|5fb63579fc981698f97d55bfecb213ea"
+msgid "json|lobby/waitingroom|1|6|0|5fb63579fc981698f97d55bfecb213ea"
 msgstr "Copy"
 
 #: ui_en.json
@@ -26271,7 +26301,7 @@ msgctxt "Beach Party"
 msgid "sheet|ActivityActivity.csv|name_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
 msgstr "Beach Party"
 
-#: ActivityActivity.csv:158
+#: ActivityActivity.csv:166
 msgctxt ""
 msgid "sheet|ActivityActivity.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
@@ -26431,6 +26461,16 @@ msgctxt "Nian Incoming\\nSpring Festival Event"
 msgid "sheet|ActivityActivity.csv|name_en|59f19d93bc1a144207fd1b0cec37caba"
 msgstr "Nian Incoming\\nSpring Festival Event"
 
+#: ActivityActivity.csv:159
+msgctxt "Regular Physical Exam"
+msgid "sheet|ActivityActivity.csv|name_en|db154d53e5a7bf4d2234dc0eb81a89d6"
+msgstr "Regular Physical Exam"
+
+#: ActivityActivity.csv:160
+msgctxt "Physical Exam Report"
+msgid "sheet|ActivityActivity.csv|name_en|1ee0fca13706b219ba1bf3c50eec54a9"
+msgstr "Physical Exam Report"
+
 #: AudioBgm.csv:2
 msgctxt "Sakura"
 msgid "sheet|AudioBgm.csv|name_en|ba7e5dcafbbfbc98c2f0e5ff2135481a"
@@ -26482,7 +26522,7 @@ msgid ""
 "sheet|CharacterEmoji.csv|unlock_desc_en|7a3b691731db2969498907b960183633"
 msgstr "Bond"
 
-#: CharacterEmoji.csv:302
+#: CharacterEmoji.csv:306
 msgctxt ""
 msgid ""
 "sheet|CharacterEmoji.csv|after_unlock_desc_en|d41d8cd98f00b204e9800998ecf8427e"
@@ -26542,7 +26582,7 @@ msgid ""
 "sheet|CharacterEmoji.csv|after_unlock_desc_en|15e1ea2f648d5434e1508dfac8f421d4"
 msgstr "3/12(UTC-7)"
 
-#: CharacterEmoji.csv:302
+#: CharacterEmoji.csv:306
 msgctxt "Unlock Outfit"
 msgid ""
 "sheet|CharacterEmoji.csv|unlock_desc_en|ed4c23e67b3c96b42ffbd411ced30a4b"
@@ -26604,387 +26644,387 @@ msgstr ""
 "character, will be converted into Wishing Stones. \\n Duplicate decorations "
 "will be converted into Star Stones."
 
-#: ChestChestShop.csv:122
+#: ChestChestShop.csv:125
 msgctxt "Chiori Mikami"
 msgid "sheet|ChestChestShop.csv|name_en|a8e2a894d9b9f8d011bdbdf1062270f3"
 msgstr "Chiori Mikami"
 
-#: ChestChestShop.csv:123
+#: ChestChestShop.csv:126
 msgctxt "Kana Fujita"
 msgid "sheet|ChestChestShop.csv|name_en|3d3965a5ab3200fb3518708cd157e987"
 msgstr "Kana Fujita"
 
-#: ChestChestShop.csv:124
+#: ChestChestShop.csv:127
 msgctxt "Mai Aihara"
 msgid "sheet|ChestChestShop.csv|name_en|dc12d0c4f982cf56d65013e61005d704"
 msgstr "Mai Aihara"
 
-#: ChestChestShop.csv:125
+#: ChestChestShop.csv:128
 msgctxt "Nadeshiko"
 msgid "sheet|ChestChestShop.csv|name_en|2065e72611cb6e6c025bbd7ea8d37d1d"
 msgstr "Nadeshiko"
 
-#: ChestChestShop.csv:126
+#: ChestChestShop.csv:129
 msgctxt "Yui Yagi"
 msgid "sheet|ChestChestShop.csv|name_en|1897ea73e1e0a351ce3f41fc2630d658"
 msgstr "Yui Yagi"
 
-#: ChestChestShop.csv:127
+#: ChestChestShop.csv:130
 msgctxt "Riu Kujou"
 msgid "sheet|ChestChestShop.csv|name_en|ad0aa712914ae4dd8833a2a09c7debc7"
 msgstr "Riu Kujou"
 
-#: ChestChestShop.csv:128
+#: ChestChestShop.csv:131
 msgctxt "Riichi - Blue Flame"
 msgid "sheet|ChestChestShop.csv|name_en|a7408723126dbf896c04f21315810ec1"
 msgstr "Riichi - Blue Flame"
 
-#: ChestChestShop.csv:129
+#: ChestChestShop.csv:132
 msgctxt "Riichi - Ice"
 msgid "sheet|ChestChestShop.csv|name_en|8f8cb9b9782a4adadf5f41c37c530a48"
 msgstr "Riichi - Ice"
 
-#: ChestChestShop.csv:130
+#: ChestChestShop.csv:133
 msgctxt "Riichi - Fire"
 msgid "sheet|ChestChestShop.csv|name_en|7f01bbbef5cde9c515f4e4205f472d90"
 msgstr "Riichi - Fire"
 
-#: ChestChestShop.csv:131
+#: ChestChestShop.csv:134
 msgctxt "Winning - Dark Flame"
 msgid "sheet|ChestChestShop.csv|name_en|806aa6f394b1c6c733a997657b849fa6"
 msgstr "Winning - Dark Flame"
 
-#: ChestChestShop.csv:185
+#: ChestChestShop.csv:188
 msgctxt "Winning - Fireworks"
 msgid "sheet|ChestChestShop.csv|name_en|f1f58a5144481c27a11b652d99da48ef"
 msgstr "Winning - Fireworks"
 
-#: ChestChestShop.csv:133
+#: ChestChestShop.csv:136
 msgctxt "Winning - Flame"
 msgid "sheet|ChestChestShop.csv|name_en|b63e4056b1a9a56459867dc946f5f4fc"
 msgstr "Winning - Flame"
 
-#: ChestChestShop.csv:134
+#: ChestChestShop.csv:137
 msgctxt "Winning - Cyclone"
 msgid "sheet|ChestChestShop.csv|name_en|82871b173c4af6a5168d0a9550a99932"
 msgstr "Winning - Cyclone"
 
-#: ChestChestShop.csv:135
+#: ChestChestShop.csv:138
 msgctxt "Winning - Sakura"
 msgid "sheet|ChestChestShop.csv|name_en|c28db87eb29806160f75ff380a818613"
 msgstr "Winning - Sakura"
 
-#: ChestChestShop.csv:136
+#: ChestChestShop.csv:139
 msgctxt "Ginger Cat Paw"
 msgid "sheet|ChestChestShop.csv|name_en|1d0c5c571cef75317f34c4969f80003f"
 msgstr "Ginger Cat Paw"
 
-#: ChestChestShop.csv:188
+#: ChestChestShop.csv:191
 msgctxt "Riichi - Firecracker"
 msgid "sheet|ChestChestShop.csv|name_en|85889507f2b74cf2201e20b8ad572774"
 msgstr "Riichi - Firecracker"
 
-#: ChestChestShop.csv:189
+#: ChestChestShop.csv:192
 msgctxt "Riichi - Dumpling"
 msgid "sheet|ChestChestShop.csv|name_en|f2070bf4cd3dfce5027332d8f8d189c5"
 msgstr "Riichi - Dumpling"
 
-#: ChestChestShop.csv:139
+#: ChestChestShop.csv:142
 msgctxt "Riichi - Fish"
 msgid "sheet|ChestChestShop.csv|name_en|2522a280b74030cff837e78ac03b3fee"
 msgstr "Riichi - Fish"
 
-#: ChestChestShop.csv:140
+#: ChestChestShop.csv:143
 msgctxt "Riichi - Green Onion"
 msgid "sheet|ChestChestShop.csv|name_en|d0e04002d1ed912be5aa71e327bc0670"
 msgstr "Riichi - Green Onion"
 
-#: ChestChestShop.csv:141
+#: ChestChestShop.csv:144
 msgctxt "Riichi - Bone"
 msgid "sheet|ChestChestShop.csv|name_en|9a2e8c1217aec141e80eeb63072ff420"
 msgstr "Riichi - Bone"
 
-#: ChestChestShop.csv:142
+#: ChestChestShop.csv:145
 msgctxt "Riichi - Crimson"
 msgid "sheet|ChestChestShop.csv|name_en|a41f57905f2415c4bd3847b2f1b7cc81"
 msgstr "Riichi - Crimson"
 
-#: ChestChestShop.csv:143
+#: ChestChestShop.csv:146
 msgctxt "24K Gold Riichi Bet"
 msgid "sheet|ChestChestShop.csv|name_en|0237efa23207c20891e2ff9e95305e5d"
 msgstr "24K Gold Riichi Bet"
 
-#: ChestChestShop.csv:144
+#: ChestChestShop.csv:147
 msgctxt "“Serious Game”"
 msgid "sheet|ChestChestShop.csv|name_en|7cc69a48001caa4bc5f8e4bb5612a02a"
 msgstr "“Serious Game”"
 
-#: ChestChestShop.csv:145
+#: ChestChestShop.csv:148
 msgctxt "“Intensive Battle”"
 msgid "sheet|ChestChestShop.csv|name_en|fef20c00ef25e4dcbd0b0a20e704d657"
 msgstr "“Intensive Battle”"
 
-#: ChestChestShop.csv:146
+#: ChestChestShop.csv:149
 msgctxt "Tablecloth - Lunar New Year"
 msgid "sheet|ChestChestShop.csv|name_en|974b6a72a81fe50f4de7470b4f68906d"
 msgstr "Tablecloth - Lunar New Year"
 
-#: ChestChestShop.csv:147
+#: ChestChestShop.csv:150
 msgctxt "Riichi - Phantom"
 msgid "sheet|ChestChestShop.csv|name_en|f1b94d9f563b494d6fe23312caf4560a"
 msgstr "Riichi - Phantom"
 
-#: ChestChestShop.csv:148
+#: ChestChestShop.csv:151
 msgctxt "Riichi - Feather"
 msgid "sheet|ChestChestShop.csv|name_en|801d8676ce05edf5b8dd435b4ae3e201"
 msgstr "Riichi - Feather"
 
-#: ChestChestShop.csv:149
+#: ChestChestShop.csv:152
 msgctxt "Winning - Firestorm"
 msgid "sheet|ChestChestShop.csv|name_en|908e2fff1a3741ac98c262964e905966"
 msgstr "Winning - Firestorm"
 
-#: ChestChestShop.csv:150
+#: ChestChestShop.csv:153
 msgctxt "Winning - Laser Blast"
 msgid "sheet|ChestChestShop.csv|name_en|a21543b86d2c412ec34a67cc632cea71"
 msgstr "Winning - Laser Blast"
 
-#: ChestChestShop.csv:151
+#: ChestChestShop.csv:154
 msgctxt "Winning - Dancing Rose"
 msgid "sheet|ChestChestShop.csv|name_en|60d2520cdbdf97027d507296114ff61a"
 msgstr "Winning - Dancing Rose"
 
-#: ChestChestShop.csv:152
+#: ChestChestShop.csv:155
 msgctxt "Xenia"
 msgid "sheet|ChestChestShop.csv|name_en|7a7b024e18f36ea754da68c7900e6195"
 msgstr "Xenia"
 
-#: ChestChestShop.csv:153
+#: ChestChestShop.csv:156
 msgctxt "Kavvi"
 msgid "sheet|ChestChestShop.csv|name_en|375ee71fe99f3f110ab14276c7ba19f4"
 msgstr "Kavvi"
 
-#: ChestChestShop.csv:154
+#: ChestChestShop.csv:157
 msgctxt "Natsuki Shinomiya"
 msgid "sheet|ChestChestShop.csv|name_en|0b45e930eee5e4a7ef2e153e2e060aee"
 msgstr "Natsuki Shinomiya"
 
-#: ChestChestShop.csv:155
+#: ChestChestShop.csv:158
 msgctxt "Wanjirou"
 msgid "sheet|ChestChestShop.csv|name_en|df84e7164a96c2d4943ca3c29a9a3fda"
 msgstr "Wanjirou"
 
-#: ChestChestShop.csv:156
+#: ChestChestShop.csv:159
 msgctxt "Sora Ichinose"
 msgid "sheet|ChestChestShop.csv|name_en|9546242e575cc40c98293eb006c3e29e"
 msgstr "Sora Ichinose"
 
-#: ChestChestShop.csv:157
+#: ChestChestShop.csv:160
 msgctxt "Hideki Akechi"
 msgid "sheet|ChestChestShop.csv|name_en|c71ed70434c10fc1b9c861b0113d611a"
 msgstr "Hideki Akechi"
 
-#: ChestChestShop.csv:158
+#: ChestChestShop.csv:161
 msgctxt "Riichi - \"Beep\"!"
 msgid "sheet|ChestChestShop.csv|name_en|b9d99e896baa4816c58a772ef131fb79"
 msgstr "Riichi - \"Beep\"!"
 
-#: ChestChestShop.csv:159
+#: ChestChestShop.csv:162
 msgctxt "Riichi - Dragon"
 msgid "sheet|ChestChestShop.csv|name_en|bc53e03f5f4b55bf1adff96dea3b6164"
 msgstr "Riichi - Dragon"
 
-#: ChestChestShop.csv:160
+#: ChestChestShop.csv:163
 msgctxt "Winning - K.O"
 msgid "sheet|ChestChestShop.csv|name_en|38245e9e73c17a693466743ec6457655"
 msgstr "Winning - K.O"
 
-#: ChestChestShop.csv:161
+#: ChestChestShop.csv:164
 msgctxt "Winning - Inverted Dragon Scale"
 msgid "sheet|ChestChestShop.csv|name_en|b415d9838a2145ffa619c9c45d59f268"
 msgstr "Winning - Inverted Dragon Scale"
 
-#: ChestChestShop.csv:162
+#: ChestChestShop.csv:165
 msgctxt "Riichi Bet - Sever"
 msgid "sheet|ChestChestShop.csv|name_en|454697cb097ba79b05c2f54acad0fa45"
 msgstr "Riichi Bet - Sever"
 
-#: ChestChestShop.csv:163
+#: ChestChestShop.csv:166
 msgctxt "Riichi Bet - Ice Cream"
 msgid "sheet|ChestChestShop.csv|name_en|0aa0846194c78c4b0bccdbaeeef3dfe8"
 msgstr "Riichi Bet - Ice Cream"
 
-#: ChestChestShop.csv:164
+#: ChestChestShop.csv:167
 msgctxt "Sara"
 msgid "sheet|ChestChestShop.csv|name_en|4733a44073c81970cccbca6e1ede188b"
 msgstr "Sara"
 
-#: ChestChestShop.csv:165
+#: ChestChestShop.csv:168
 msgctxt "Hana Ninomiya"
 msgid "sheet|ChestChestShop.csv|name_en|f6367b5eb55d5e575dc597e8bff7392a"
 msgstr "Hana Ninomiya"
 
-#: ChestChestShop.csv:166
+#: ChestChestShop.csv:169
 msgctxt "“Charge”"
 msgid "sheet|ChestChestShop.csv|name_en|74c4798b7559061db0ad6e98ec4852e5"
 msgstr "“Charge”"
 
-#: ChestChestShop.csv:167
+#: ChestChestShop.csv:170
 msgctxt "Tablecloth - Mahjong Ceremony"
 msgid "sheet|ChestChestShop.csv|name_en|37407cfbe47df9b02249162dccf97683"
 msgstr "Tablecloth - Mahjong Ceremony"
 
-#: ChestChestShop.csv:168
+#: ChestChestShop.csv:171
 msgctxt "Tablecloth - Melon"
 msgid "sheet|ChestChestShop.csv|name_en|b05c83afe6b187f91260a1af30d76edc"
 msgstr "Tablecloth - Melon"
 
-#: ChestChestShop.csv:169
+#: ChestChestShop.csv:172
 msgctxt "Winning - Screaming Ghost"
 msgid "sheet|ChestChestShop.csv|name_en|bf43a1e65eae7ad63376c7eb430db269"
 msgstr "Winning - Screaming Ghost"
 
-#: ChestChestShop.csv:170
+#: ChestChestShop.csv:173
 msgctxt "Riichi - Bat Swarm"
 msgid "sheet|ChestChestShop.csv|name_en|72688593682ec7d643eb2bffdc4ef236"
 msgstr "Riichi - Bat Swarm"
 
-#: ChestChestShop.csv:171
+#: ChestChestShop.csv:174
 msgctxt "Riichi Bet - Impish Bat"
 msgid "sheet|ChestChestShop.csv|name_en|b416db0e1f4d94730fc6e6fb96c9888e"
 msgstr "Riichi Bet - Impish Bat"
 
-#: ChestChestShop.csv:172
+#: ChestChestShop.csv:175
 msgctxt "Tile Back - Bumpkin"
 msgid "sheet|ChestChestShop.csv|name_en|f0bdeaa64d42e7ce59a2b1a8d5597702"
 msgstr "Tile Back - Bumpkin"
 
-#: ChestChestShop.csv:173
+#: ChestChestShop.csv:176
 msgctxt "Nana Shiraishi"
 msgid "sheet|ChestChestShop.csv|name_en|b75305e9cc7f97f895ca6a558bc80869"
 msgstr "Nana Shiraishi"
 
-#: ChestChestShop.csv:174
+#: ChestChestShop.csv:177
 msgctxt "Hinata Takanashi"
 msgid "sheet|ChestChestShop.csv|name_en|d59f0b29f74176d59e80380013916f90"
 msgstr "Hinata Takanashi"
 
-#: ChestChestShop.csv:175
+#: ChestChestShop.csv:178
 msgctxt "“On the Edge”"
 msgid "sheet|ChestChestShop.csv|name_en|933377ba470308c4868888aecccb5f57"
 msgstr "“On the Edge”"
 
-#: ChestChestShop.csv:176
+#: ChestChestShop.csv:179
 msgctxt "Winning - Opera Phantom"
 msgid "sheet|ChestChestShop.csv|name_en|975b6097fb5774295c2cfb4491558bf4"
 msgstr "Winning - Opera Phantom"
 
-#: ChestChestShop.csv:177
+#: ChestChestShop.csv:180
 msgctxt "Winning - Magical Girl"
 msgid "sheet|ChestChestShop.csv|name_en|77e3979e7a9d182b9292bee8a296cd14"
 msgstr "Winning - Magical Girl"
 
-#: ChestChestShop.csv:178
+#: ChestChestShop.csv:181
 msgctxt "Riichi - Emergency"
 msgid "sheet|ChestChestShop.csv|name_en|b7753318f081283bfd25258ad40df9e4"
 msgstr "Riichi - Emergency"
 
-#: ChestChestShop.csv:179
+#: ChestChestShop.csv:182
 msgctxt "Riichi - Magical Girl"
 msgid "sheet|ChestChestShop.csv|name_en|40fef63a83319bbefbb4e4e93e8895d8"
 msgstr "Riichi - Magical Girl"
 
-#: ChestChestShop.csv:180
+#: ChestChestShop.csv:183
 msgctxt "Riichi Bet - Magical Wand"
 msgid "sheet|ChestChestShop.csv|name_en|499174662fdfb75733dcd2766eed4af6"
 msgstr "Riichi Bet - Magical Wand"
 
-#: ChestChestShop.csv:181
+#: ChestChestShop.csv:184
 msgctxt "Haruna Igarashi"
 msgid "sheet|ChestChestShop.csv|name_en|1015546ceb4b0c8a6b57f2d0a17cfd4b"
 msgstr "Haruna Igarashi"
 
-#: ChestChestShop.csv:182
+#: ChestChestShop.csv:185
 msgctxt "Anju Suzumiya"
 msgid "sheet|ChestChestShop.csv|name_en|54a8c7a71e8b310cada53392c01e4765"
 msgstr "Anju Suzumiya"
 
-#: ChestChestShop.csv:183
+#: ChestChestShop.csv:186
 msgctxt "Joseph"
 msgid "sheet|ChestChestShop.csv|name_en|6a1a376d8169cfc1835f59ac934edbb7"
 msgstr "Joseph"
 
-#: ChestChestShop.csv:184
+#: ChestChestShop.csv:187
 msgctxt "Osamu Saitou"
 msgid "sheet|ChestChestShop.csv|name_en|e42a4519a75518546f59ff1301d53acd"
 msgstr "Osamu Saitou"
 
-#: ChestChestShop.csv:186
+#: ChestChestShop.csv:189
 msgctxt "Winning - Family Reunion"
 msgid "sheet|ChestChestShop.csv|name_en|fe542075e6445a5cb49556bd9ba0244c"
 msgstr "Winning - Family Reunion"
 
-#: ChestChestShop.csv:187
+#: ChestChestShop.csv:190
 msgctxt "Riichi - Rat Power"
 msgid "sheet|ChestChestShop.csv|name_en|22a6d5c1a62dbaaeb57c3063926e43e9"
 msgstr "Riichi - Rat Power"
 
-#: ChestChestShop.csv:190
+#: ChestChestShop.csv:193
 msgctxt "Riichi Bet - Gold Arowana"
 msgid "sheet|ChestChestShop.csv|name_en|94db46d17e233c85a47b15228648062b"
 msgstr "Riichi Bet - Gold Arowana"
 
-#: ChestChestShop.csv:191
+#: ChestChestShop.csv:194
 msgctxt "Tile Back - Red Packet"
 msgid "sheet|ChestChestShop.csv|name_en|20be89ac0e6f9075a9976229b7974f70"
 msgstr "Tile Back - Red Packet"
 
-#: ChestChestShop.csv:192
+#: ChestChestShop.csv:195
 msgctxt "Tablecloth - Swimming Koi"
 msgid "sheet|ChestChestShop.csv|name_en|68940a035e1b08f35fadf747df9ee82e"
 msgstr "Tablecloth - Swimming Koi"
 
-#: ChestChestShop.csv:193
+#: ChestChestShop.csv:196
 msgctxt "Sawako Kitami"
 msgid "sheet|ChestChestShop.csv|name_en|63a1f1f5e351e38c101802c6f6d22189"
 msgstr "Sawako Kitami"
 
-#: ChestChestShop.csv:194
+#: ChestChestShop.csv:197
 msgctxt "Ein"
 msgid "sheet|ChestChestShop.csv|name_en|86ef6ab5abf5d34602e179a1c3ce7309"
 msgstr "Ein"
 
-#: ChestChestShop.csv:195
+#: ChestChestShop.csv:198
 msgctxt "Winning - Silent Star"
 msgid "sheet|ChestChestShop.csv|name_en|aba5497ab568061b39641a38ba5eb2da"
 msgstr "Winning - Silent Star"
 
-#: ChestChestShop.csv:196
+#: ChestChestShop.csv:199
 msgctxt "Winning - Eye of Eris"
 msgid "sheet|ChestChestShop.csv|name_en|91048ba72ec9a92f6c334ea940b6b4c5"
 msgstr "Winning - Eye of Eris"
 
-#: ChestChestShop.csv:197
+#: ChestChestShop.csv:200
 msgctxt "Riichi - Starfall"
 msgid "sheet|ChestChestShop.csv|name_en|349c8bc5739846537643885b0c342608"
 msgstr "Riichi - Starfall"
 
-#: ChestChestShop.csv:198
+#: ChestChestShop.csv:201
 msgctxt "Riichi - Blood·Lance of Longinus"
 msgid "sheet|ChestChestShop.csv|name_en|b8fb5f4b9cb02a151f34d88b0aec4db0"
 msgstr "Riichi - Blood·Lance of Longinus"
 
-#: ChestChestShop.csv:199
+#: ChestChestShop.csv:202
 msgctxt "Riichi Bet - Crimson Thorns"
 msgid "sheet|ChestChestShop.csv|name_en|a1cdcd4f79d3af2bfe25d77fe569756b"
 msgstr "Riichi Bet - Crimson Thorns"
 
-#: ChestChestShop.csv:240
+#: ChestChestShop.csv:246
 msgctxt ""
 msgid "sheet|ChestChestShop.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ChestChestShop.csv:241
+#: ChestChestShop.csv:247
 msgctxt "Wishing Stone"
 msgid "sheet|ChestChestShop.csv|name_en|454d8e61db092ddc883bff14bd6b4798"
 msgstr "Wishing Stone"
@@ -33644,17 +33684,17 @@ msgid ""
 "sheet|ItemDefinitionCurrency.csv|desc_en|130562b250a41584c527f1595e035482"
 msgstr "A currency used to purchase outfits"
 
-#: ItemDefinitionItem.csv:272
+#: ItemDefinitionItem.csv:284
 msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:272
+#: ItemDefinitionItem.csv:284
 msgctxt ""
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionItem.csv:281
+#: ItemDefinitionItem.csv:289
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|d41d8cd98f00b204e9800998ecf8427e"
@@ -35221,21 +35261,35 @@ msgstr ""
 "nyaa.\"(Event limited, will be unobtainable after the end of event)"
 
 #: ItemDefinitionItem.csv:137
+msgctxt "Winning - Core Fission"
+msgid "sheet|ItemDefinitionItem.csv|name_en|bfa94f8fbd129eac513b87fe5af921eb"
+msgstr "Winning - Core Fission"
+
+#: ItemDefinitionItem.csv:137
+msgctxt ""
+"Another storm has come.(Event limited, will be unobtainable after the end of"
+" event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|24052662c86ab3173fc6d9c45cf80187"
+msgstr ""
+"Another storm has come.(Event limited, will be unobtainable after the end of"
+" event)"
+
+#: ItemDefinitionItem.csv:138
 msgctxt "Riichi - Bat Swarm"
 msgid "sheet|ItemDefinitionItem.csv|name_en|72688593682ec7d643eb2bffdc4ef236"
 msgstr "Riichi - Bat Swarm"
 
-#: ItemDefinitionItem.csv:137
+#: ItemDefinitionItem.csv:138
 msgctxt "The bats are here to claim your soul, or... to peek at your hand..."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|252aeb3390ef0562422ea2db2d937860"
 msgstr "The bats are here to claim your soul, or... to peek at your hand..."
 
-#: ItemDefinitionItem.csv:138
+#: ItemDefinitionItem.csv:139
 msgctxt "Riichi - Emergency"
 msgid "sheet|ItemDefinitionItem.csv|name_en|b7753318f081283bfd25258ad40df9e4"
 msgstr "Riichi - Emergency"
 
-#: ItemDefinitionItem.csv:138
+#: ItemDefinitionItem.csv:139
 msgctxt ""
 "\"Beep—beep— The system has detected a Riichi crisis! Players, please take "
 "immediate actions! This is an emergency!\""
@@ -35244,12 +35298,12 @@ msgstr ""
 "\"Beep—beep— The system has detected a Riichi crisis! Players, please take "
 "immediate actions! This is an emergency!\""
 
-#: ItemDefinitionItem.csv:139
+#: ItemDefinitionItem.csv:140
 msgctxt "Riichi - Magical Girl"
 msgid "sheet|ItemDefinitionItem.csv|name_en|40fef63a83319bbefbb4e4e93e8895d8"
 msgstr "Riichi - Magical Girl"
 
-#: ItemDefinitionItem.csv:139
+#: ItemDefinitionItem.csv:140
 msgctxt ""
 "Now that you have signed a magical pact with me, the stars will guide you to"
 " the right path."
@@ -35258,12 +35312,12 @@ msgstr ""
 "Now that you have signed a magical pact with me, the stars will guide you to"
 " the right path."
 
-#: ItemDefinitionItem.csv:140
+#: ItemDefinitionItem.csv:141
 msgctxt "Riichi - Rat Power"
 msgid "sheet|ItemDefinitionItem.csv|name_en|22a6d5c1a62dbaaeb57c3063926e43e9"
 msgstr "Riichi - Rat Power"
 
-#: ItemDefinitionItem.csv:140
+#: ItemDefinitionItem.csv:141
 msgctxt ""
 "\"If I can spin fast enough, no one can be as cool as me!\"(Spring "
 "Celebration Exclusive)"
@@ -35272,12 +35326,12 @@ msgstr ""
 "\"If I can spin fast enough, no one can be as cool as me!\"(Spring "
 "Celebration Exclusive)"
 
-#: ItemDefinitionItem.csv:141
+#: ItemDefinitionItem.csv:142
 msgctxt "Riichi - Starfall"
 msgid "sheet|ItemDefinitionItem.csv|name_en|349c8bc5739846537643885b0c342608"
 msgstr "Riichi - Starfall"
 
-#: ItemDefinitionItem.csv:141
+#: ItemDefinitionItem.csv:142
 msgctxt ""
 "Look, what's that twinkling in the sky…(Event limited, will be unobtainable "
 "after the end of event)"
@@ -35286,12 +35340,12 @@ msgstr ""
 "Look, what's that twinkling in the sky…(Event limited, will be unobtainable "
 "after the end of event)"
 
-#: ItemDefinitionItem.csv:142
+#: ItemDefinitionItem.csv:143
 msgctxt "Riichi - Blood·Lance of Longinus"
 msgid "sheet|ItemDefinitionItem.csv|name_en|b8fb5f4b9cb02a151f34d88b0aec4db0"
 msgstr "Riichi - Blood·Lance of Longinus"
 
-#: ItemDefinitionItem.csv:142
+#: ItemDefinitionItem.csv:143
 msgctxt ""
 "Once picked up, the bloody silhouette of the Lance of Longinus can never be "
 "put down.(Event limited, will be unobtainable after the end of event)"
@@ -35300,12 +35354,12 @@ msgstr ""
 "Once picked up, the bloody silhouette of the Lance of Longinus can never be "
 "put down.(Event limited, will be unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:143
+#: ItemDefinitionItem.csv:144
 msgctxt "Riichi - Judgement"
 msgid "sheet|ItemDefinitionItem.csv|name_en|2276a07916d38be6fc698530d923ad15"
 msgstr "Riichi - Judgement"
 
-#: ItemDefinitionItem.csv:143
+#: ItemDefinitionItem.csv:144
 msgctxt ""
 "Justice may be late, but it will always come in the end.(Event limited, will"
 " be unobtainable after the end of event)"
@@ -35314,12 +35368,12 @@ msgstr ""
 "Justice may be late, but it will always come in the end.(Event limited, will"
 " be unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:144
+#: ItemDefinitionItem.csv:145
 msgctxt "Riichi - Butterfly's Charm"
 msgid "sheet|ItemDefinitionItem.csv|name_en|aee0a7c6009418012967ca459a313249"
 msgstr "Riichi - Butterfly's Charm"
 
-#: ItemDefinitionItem.csv:144
+#: ItemDefinitionItem.csv:145
 msgctxt ""
 "The witch's charming words linger in your mind like butterflies. She "
 "said…(Event limited, will be unobtainable after the end of event)"
@@ -35328,12 +35382,12 @@ msgstr ""
 "The witch's charming words linger in your mind like butterflies. She "
 "said…(Event limited, will be unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:145
+#: ItemDefinitionItem.csv:146
 msgctxt "Riichi - The Sound of Waves"
 msgid "sheet|ItemDefinitionItem.csv|name_en|af89ef252eadcaab1f6117589c2377fe"
 msgstr "Riichi - The Sound of Waves"
 
-#: ItemDefinitionItem.csv:145
+#: ItemDefinitionItem.csv:146
 msgctxt ""
 "Listen! That's the sound of waves \"Riichi\"ing on the rocks!(Event limited,"
 " will be unobtainable after the end of event)"
@@ -35342,12 +35396,12 @@ msgstr ""
 "Listen! That's the sound of waves \"Riichi\"ing on the rocks!(Event limited,"
 " will be unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:146
+#: ItemDefinitionItem.csv:147
 msgctxt "Riichi - Intro"
 msgid "sheet|ItemDefinitionItem.csv|name_en|5dd96dcc86663dba59f97eb3efc87ae0"
 msgstr "Riichi - Intro"
 
-#: ItemDefinitionItem.csv:146
+#: ItemDefinitionItem.csv:147
 msgctxt ""
 "DJ, drop the beat!(Event limited, will be unobtainable after the end of "
 "event)"
@@ -35356,12 +35410,12 @@ msgstr ""
 "DJ, drop the beat!(Event limited, will be unobtainable after the end of "
 "event)"
 
-#: ItemDefinitionItem.csv:147
+#: ItemDefinitionItem.csv:148
 msgctxt "Riichi - Midas Touch"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f1dd1a5f484504cf447228cf84a8d80f"
 msgstr "Riichi - Midas Touch"
 
-#: ItemDefinitionItem.csv:147
+#: ItemDefinitionItem.csv:148
 msgctxt ""
 "\"Riichi, 1 Han.\" Don't let go a single chance of gaining Han.(Event "
 "limited, will be unobtainable after the end of event)"
@@ -35370,127 +35424,197 @@ msgstr ""
 "\"Riichi, 1 Han.\" Don't let go a single chance of gaining Han.(Event "
 "limited, will be unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:273
+#: ItemDefinitionItem.csv:149
+msgctxt "Riichi - Virtual Navigation"
+msgid "sheet|ItemDefinitionItem.csv|name_en|261b7403115f866ab4e9714ee9e854c9"
+msgstr "Riichi - Virtual Navigation"
+
+#: ItemDefinitionItem.csv:149
+msgctxt ""
+"\"You have reached your destination, Riichi Twister Bubble Tea Shop. Thank "
+"you for using Mahjong Soul Virtual Navigation.\"(Event limited, will be "
+"unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|f5e07368ccd5bcd92f6dd8ffce997c98"
+msgstr ""
+"\"You have reached your destination, Riichi Twister Bubble Tea Shop. Thank "
+"you for using Mahjong Soul Virtual Navigation.\"(Event limited, will be "
+"unobtainable after the end of event)"
+
+#: ItemDefinitionItem.csv:164
 msgctxt "Portrait Frame - Sprout"
 msgid "sheet|ItemDefinitionItem.csv|name_en|ded77b66c0d9137a45ab70974fa5f93e"
 msgstr "Portrait Frame - Sprout"
 
-#: ItemDefinitionItem.csv:273
+#: ItemDefinitionItem.csv:164
 msgctxt "A sprout to become something unknown"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|8e1ff5c8847adc11b352d5bca7f6ea0b"
 msgstr "A sprout to become something unknown"
 
-#: ItemDefinitionItem.csv:149
+#: ItemDefinitionItem.csv:151
 msgctxt "Portrait Frame"
 msgid "sheet|ItemDefinitionItem.csv|name_en|84810dd176be4ffb4069af99383a3f4a"
 msgstr "Portrait Frame"
 
-#: ItemDefinitionItem.csv:156
+#: ItemDefinitionItem.csv:160
 msgctxt "Limited Portrait Frame"
 msgid "sheet|ItemDefinitionItem.csv|name_en|df367db07175a73d1846fafa647ca9ed"
 msgstr "Limited Portrait Frame"
 
-#: ItemDefinitionItem.csv:156
+#: ItemDefinitionItem.csv:160
 msgctxt ""
 "A reward for Mahjong Soul official tournament winner. (Expires in 1 year)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d263ca1a9e7c0ee1bc30ca36f102c0cd"
 msgstr ""
 "A reward for Mahjong Soul official tournament winner. (Expires in 1 year)"
 
-#: ItemDefinitionItem.csv:150
+#: ItemDefinitionItem.csv:152
 msgctxt "2021年7月1日5時59分まで"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|306975bc9189f4878d14c4c5b0a51e34"
 msgstr "2021年7月1日5時59分まで"
 
-#: ItemDefinitionItem.csv:151
+#: ItemDefinitionItem.csv:153
 msgctxt "2021/7/31 1:59 P.M. (UTC-7)"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|5f06e7aa6826a85f4d4e51037b58e8c2"
 msgstr "2021/7/31 1:59 P.M. (UTC-7)"
 
-#: ItemDefinitionItem.csv:152
+#: ItemDefinitionItem.csv:154
 msgctxt "2021年10月1日5時59分まで"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|9c653f1190d4d0cb6c3004db624031a8"
 msgstr "2021年10月1日5時59分まで"
 
-#: ItemDefinitionItem.csv:153
+#: ItemDefinitionItem.csv:155
 msgctxt "2021/10/31 1:59 P.M. (UTC-7)"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|caa3171f5031e82ca945fa115baffe7c"
 msgstr "2021/10/31 1:59 P.M. (UTC-7)"
 
-#: ItemDefinitionItem.csv:154
+#: ItemDefinitionItem.csv:156
 msgctxt "2021-11-03 05:00:00"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|f67a0c92a7a57c1f41643f334f55976f"
 msgstr "2021-11-03 05:00:00"
 
-#: ItemDefinitionItem.csv:155
+#: ItemDefinitionItem.csv:157
 msgctxt "2021年12月29日5時59分まで"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|b839e534099f7d425e99782bd78b2712"
 msgstr "2021年12月29日5時59分まで"
 
-#: ItemDefinitionItem.csv:156
+#: ItemDefinitionItem.csv:158
 msgctxt "2022/1/31 11:59 P.M. (UTC-7)"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|a82dd585c613c14b2005f52ca94e600f"
 msgstr "2022/1/31 11:59 P.M. (UTC-7)"
 
-#: ItemDefinitionItem.csv:157
+#: ItemDefinitionItem.csv:159
+msgctxt "2022-03-15 05:00:00"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|12e518b0ad8e0ca8b0c6a50943966955"
+msgstr "2022-03-15 05:00:00"
+
+#: ItemDefinitionItem.csv:160
+msgctxt "2022年3月25日5時59分まで"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|f1d894de453329a349b9a3a04b76c5c5"
+msgstr "2022年3月25日5時59分まで"
+
+#: ItemDefinitionItem.csv:161
 msgctxt "Portrait Frame - Expert of Trials"
 msgid "sheet|ItemDefinitionItem.csv|name_en|24f31f6e1e697747175b6d2f14b8930d"
 msgstr "Portrait Frame - Expert of Trials"
 
-#: ItemDefinitionItem.csv:157
+#: ItemDefinitionItem.csv:161
 msgctxt "A certificate of excellent performer on Path of Trial"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|201073848d6b1f443648793865d303ef"
 msgstr "A certificate of excellent performer on Path of Trial"
 
-#: ItemDefinitionItem.csv:159
+#: ItemDefinitionItem.csv:163
 msgctxt "2021/2/21 1:59 P.M. (UTC-7)"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|76ec704c361b7b212343631330683270"
 msgstr "2021/2/21 1:59 P.M. (UTC-7)"
 
-#: ItemDefinitionItem.csv:158
+#: ItemDefinitionItem.csv:162
 msgctxt "Portrait Frame - Master of Trials"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e2b5c33176d1dc041ab4c5a61114af99"
 msgstr "Portrait Frame - Master of Trials"
 
-#: ItemDefinitionItem.csv:158
+#: ItemDefinitionItem.csv:162
 msgctxt "A certificate of outstanding performer on Path of Trial"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|7656530264710c6fe94fff9860720d70"
 msgstr "A certificate of outstanding performer on Path of Trial"
 
-#: ItemDefinitionItem.csv:159
+#: ItemDefinitionItem.csv:163
 msgctxt "Portrait Frame - Conqueror of Trials"
 msgid "sheet|ItemDefinitionItem.csv|name_en|ab55f6c72b71869f4c8ce91e275ffc8a"
 msgstr "Portrait Frame - Conqueror of Trials"
 
-#: ItemDefinitionItem.csv:159
+#: ItemDefinitionItem.csv:163
 msgctxt "A certificate of unparalleled grandmaster on Path of Trial"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|88c4d4293007a74dae2c155f2a1cf490"
 msgstr "A certificate of unparalleled grandmaster on Path of Trial"
 
-#: ItemDefinitionItem.csv:160
+#: ItemDefinitionItem.csv:165
+msgctxt "限时称号测试用"
+msgid "sheet|ItemDefinitionItem.csv|name_en|94ae1602d51a19aed87df8babb1c97e5"
+msgstr "限时称号测试用"
+
+#: ItemDefinitionItem.csv:165
+msgctxt "限时称号测试用"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|94ae1602d51a19aed87df8babb1c97e5"
+msgstr "限时称号测试用"
+
+#: ItemDefinitionItem.csv:166
+msgctxt "インターハイ王者"
+msgid "sheet|ItemDefinitionItem.csv|name_en|bd61c37d167c0021f71c892a6520162b"
+msgstr "インターハイ王者"
+
+#: ItemDefinitionItem.csv:166
+msgctxt "雀魂バーチャルインターハイ優勝チームに贈る称号。"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|5d78281debff1f5aae13a7ea1c75e4e4"
+msgstr "雀魂バーチャルインターハイ優勝チームに贈る称号。"
+
+#: ItemDefinitionItem.csv:166
+msgctxt "2021年11月23日23時59分まで"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|36ef0ac2949786ebf75d9f4faedac1a9"
+msgstr "2021年11月23日23時59分まで"
+
+#: ItemDefinitionItem.csv:167
+msgctxt "最強鴉天狗の愛弟子"
+msgid "sheet|ItemDefinitionItem.csv|name_en|c92685b6dd9717ad8f8170b937ef0e53"
+msgstr "最強鴉天狗の愛弟子"
+
+#: ItemDefinitionItem.csv:167
+msgctxt "にじさんじ麻雀杯2021優勝記念"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|3dad628a3269c556bbf5b76868eff541"
+msgstr "にじさんじ麻雀杯2021優勝記念"
+
+#: ItemDefinitionItem.csv:167
+msgctxt "2022年1月31日まで"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|f3641379df20dc14c21aabe7bd0e9112"
+msgstr "2022年1月31日まで"
+
+#: ItemDefinitionItem.csv:168
 msgctxt "Riichi Bet - Impish Bat"
 msgid "sheet|ItemDefinitionItem.csv|name_en|b416db0e1f4d94730fc6e6fb96c9888e"
 msgstr "Riichi Bet - Impish Bat"
 
-#: ItemDefinitionItem.csv:160
+#: ItemDefinitionItem.csv:168
 msgctxt "Tremble before my declaration of Riichi."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|356d377083bd45282a0c95f2c2b601f7"
 msgstr "Tremble before my declaration of Riichi."
 
-#: ItemDefinitionItem.csv:161
+#: ItemDefinitionItem.csv:169
 msgctxt "Riichi Bet - Magical Wand"
 msgid "sheet|ItemDefinitionItem.csv|name_en|499174662fdfb75733dcd2766eed4af6"
 msgstr "Riichi Bet - Magical Wand"
 
-#: ItemDefinitionItem.csv:161
+#: ItemDefinitionItem.csv:169
 msgctxt ""
 "A wand used by magical girls during their transformation. When placed on the"
 " table, it will enter a pact with all players on the table."
@@ -35499,12 +35623,12 @@ msgstr ""
 "A wand used by magical girls during their transformation. When placed on the"
 " table, it will enter a pact with all players on the table."
 
-#: ItemDefinitionItem.csv:162
+#: ItemDefinitionItem.csv:170
 msgctxt "Riichi Bet - Gold Arowana"
 msgid "sheet|ItemDefinitionItem.csv|name_en|94db46d17e233c85a47b15228648062b"
 msgstr "Riichi Bet - Gold Arowana"
 
-#: ItemDefinitionItem.csv:162
+#: ItemDefinitionItem.csv:170
 msgctxt ""
 "100% Gold Arowana Riichi bet, miracle will happen after you retweet (place) "
 "it. (Spring Celebration Exclusive)"
@@ -35513,12 +35637,12 @@ msgstr ""
 "100% Gold Arowana Riichi bet, miracle will happen after you retweet (place) "
 "it. (Spring Celebration Exclusive)"
 
-#: ItemDefinitionItem.csv:163
+#: ItemDefinitionItem.csv:171
 msgctxt "Riichi Bet - Crimson Thorns"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a1cdcd4f79d3af2bfe25d77fe569756b"
 msgstr "Riichi Bet - Crimson Thorns"
 
-#: ItemDefinitionItem.csv:163
+#: ItemDefinitionItem.csv:171
 msgctxt ""
 "This dagger has absorbed the blood of Abel and completely turned into "
 "crimson.(Event limited, will be unobtainable after the end of event)"
@@ -35527,12 +35651,12 @@ msgstr ""
 "This dagger has absorbed the blood of Abel and completely turned into "
 "crimson.(Event limited, will be unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:164
+#: ItemDefinitionItem.csv:172
 msgctxt "Riichi Bet - Riding the Tide"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d8e507fa15a552405df861123de40303"
 msgstr "Riichi Bet - Riding the Tide"
 
-#: ItemDefinitionItem.csv:164
+#: ItemDefinitionItem.csv:172
 msgctxt ""
 "When I step on my favorite surfboard, I fear no more the summer heat!(Event "
 "limited, will be unobtainable after the end of event)"
@@ -35541,12 +35665,12 @@ msgstr ""
 "When I step on my favorite surfboard, I fear no more the summer heat!(Event "
 "limited, will be unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:165
+#: ItemDefinitionItem.csv:173
 msgctxt "Riichi Bet - Cheer Stick"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4d4b269b6272d145eb41cf0ed506e1d6"
 msgstr "Riichi Bet - Cheer Stick"
 
-#: ItemDefinitionItem.csv:165
+#: ItemDefinitionItem.csv:173
 msgctxt ""
 "Remember our slogans and poses, and cheer with the right colors!(Event "
 "limited, will be unobtainable after the end of event)"
@@ -35555,12 +35679,12 @@ msgstr ""
 "Remember our slogans and poses, and cheer with the right colors!(Event "
 "limited, will be unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:166
+#: ItemDefinitionItem.csv:174
 msgctxt "Riichi Bet - Candied Hawthorn (Salty)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|80cf2a63a78bcf859820fb81b57203ca"
 msgstr "Riichi Bet - Candied Hawthorn (Salty)"
 
-#: ItemDefinitionItem.csv:166
+#: ItemDefinitionItem.csv:174
 msgctxt ""
 "Usumi Ishihara says that he has modified the recipe of this candied "
 "hawthorn. Looks fine...I think.(Event limited, will be unobtainable after "
@@ -35571,24 +35695,40 @@ msgstr ""
 "hawthorn. Looks fine...I think.(Event limited, will be unobtainable after "
 "the end of event)"
 
-#: ItemDefinitionItem.csv:167
+#: ItemDefinitionItem.csv:175
+msgctxt "Richi Bet - Bionic Kitten"
+msgid "sheet|ItemDefinitionItem.csv|name_en|854354e7c2f1ae48c8aa53d7b60f5f94"
+msgstr "Richi Bet - Bionic Kitten"
+
+#: ItemDefinitionItem.csv:175
+msgctxt ""
+"\"Except for the difference in appearance, I am also better at mahjong than "
+"ordinary cats. And if you like the sounds of cats, I'm also good at "
+"that—nyaa!”(Event limited, will be unobtainable after the end of event)"
+msgid "sheet|ItemDefinitionItem.csv|desc_en|9a680a67e92b3500e0b6936f7d7895a1"
+msgstr ""
+"\"Except for the difference in appearance, I am also better at mahjong than "
+"ordinary cats. And if you like the sounds of cats, I'm also good at "
+"that—nyaa!”(Event limited, will be unobtainable after the end of event)"
+
+#: ItemDefinitionItem.csv:176
 msgctxt "Tile Back - Bumpkin"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f0bdeaa64d42e7ce59a2b1a8d5597702"
 msgstr "Tile Back - Bumpkin"
 
-#: ItemDefinitionItem.csv:167
+#: ItemDefinitionItem.csv:176
 msgctxt ""
 "Grrr~ I... I am t-the scariest one! Y-you're supposed to run, aren't you?"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|84aae356b37cf7de2815043c85fdcb31"
 msgstr ""
 "Grrr~ I... I am t-the scariest one! Y-you're supposed to run, aren't you?"
 
-#: ItemDefinitionItem.csv:168
+#: ItemDefinitionItem.csv:177
 msgctxt "Tile Back - Red Packet"
 msgid "sheet|ItemDefinitionItem.csv|name_en|20be89ac0e6f9075a9976229b7974f70"
 msgstr "Tile Back - Red Packet"
 
-#: ItemDefinitionItem.csv:168
+#: ItemDefinitionItem.csv:177
 msgctxt ""
 "Hello, young player. Which of these have you lost? Is it this \"Under the "
 "Sea\" red packet? Or this \"After a Kan\" red packet? (Spring Celebration "
@@ -35599,12 +35739,12 @@ msgstr ""
 "Sea\" red packet? Or this \"After a Kan\" red packet? (Spring Celebration "
 "Exclusive)"
 
-#: ItemDefinitionItem.csv:169
+#: ItemDefinitionItem.csv:178
 msgctxt "Tile Back - Flower of Waves"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7259b54460708482a753f28875b84a90"
 msgstr "Tile Back - Flower of Waves"
 
-#: ItemDefinitionItem.csv:169
+#: ItemDefinitionItem.csv:178
 msgctxt ""
 "It's got to be a big hand when countless waves come together!(Event limited,"
 " will be unobtainable after the end of event)"
@@ -35613,12 +35753,12 @@ msgstr ""
 "It's got to be a big hand when countless waves come together!(Event limited,"
 " will be unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:170
+#: ItemDefinitionItem.csv:179
 msgctxt "Tile Back - Ice Crystal"
 msgid "sheet|ItemDefinitionItem.csv|name_en|c65b66fe86eae27cb15902c47a111bdf"
 msgstr "Tile Back - Ice Crystal"
 
-#: ItemDefinitionItem.csv:170
+#: ItemDefinitionItem.csv:179
 msgctxt ""
 "The dancing ice crystals dazzle on the snowy night.(Event limited, will be "
 "unobtainable after the end of event)"
@@ -35627,12 +35767,12 @@ msgstr ""
 "The dancing ice crystals dazzle on the snowy night.(Event limited, will be "
 "unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:171
+#: ItemDefinitionItem.csv:180
 msgctxt "Tablecloth - Swimming Koi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|68940a035e1b08f35fadf747df9ee82e"
 msgstr "Tablecloth - Swimming Koi"
 
-#: ItemDefinitionItem.csv:171
+#: ItemDefinitionItem.csv:180
 msgctxt ""
 "If you retweet this Hana Ninomiya (oops wrong) Koi fish, \"Blessing of "
 "Heaven\" and \"Thirteen Orphans\" will no longer be just an inaccessible "
@@ -35643,12 +35783,12 @@ msgstr ""
 "Heaven\" and \"Thirteen Orphans\" will no longer be just an inaccessible "
 "dream!(Spring Celebration Exclusive)"
 
-#: ItemDefinitionItem.csv:172
+#: ItemDefinitionItem.csv:181
 msgctxt "Tablecloth - Let's go!"
 msgid "sheet|ItemDefinitionItem.csv|name_en|c16f6edb9abb91c75f7ee5cca783a8ee"
 msgstr "Tablecloth - Let's go!"
 
-#: ItemDefinitionItem.csv:172
+#: ItemDefinitionItem.csv:181
 msgctxt ""
 "Who would have thought that Chiori needs a life ring? Wait, did I just find "
 "out some secret that I shouldn't know?(Event limited, will be unobtainable "
@@ -35659,12 +35799,12 @@ msgstr ""
 "out some secret that I shouldn't know?(Event limited, will be unobtainable "
 "after the end of event)"
 
-#: ItemDefinitionItem.csv:173
+#: ItemDefinitionItem.csv:182
 msgctxt "Tablecloth - Snowman Building"
 msgid "sheet|ItemDefinitionItem.csv|name_en|bfa1b3f5810a135e6131c1d320eed829"
 msgstr "Tablecloth - Snowman Building"
 
-#: ItemDefinitionItem.csv:173
+#: ItemDefinitionItem.csv:182
 msgctxt ""
 "Let’s make a snowman on this snowy night!(Event limited, will be "
 "unobtainable after the end of event)"
@@ -35673,12 +35813,12 @@ msgstr ""
 "Let’s make a snowman on this snowy night!(Event limited, will be "
 "unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:174
+#: ItemDefinitionItem.csv:183
 msgctxt "Tablecloth - New Year Celebration"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f496a368fd7b2d3e75d57e1b11a0cb48"
 msgstr "Tablecloth - New Year Celebration"
 
-#: ItemDefinitionItem.csv:174
+#: ItemDefinitionItem.csv:183
 msgctxt ""
 "Fireworks crackles as loud as mahjong tiles. Chii brings victory as well as "
 "Pon.(Event limited, will be unobtainable after the end of event)"
@@ -35687,22 +35827,22 @@ msgstr ""
 "Fireworks crackles as loud as mahjong tiles. Chii brings victory as well as "
 "Pon.(Event limited, will be unobtainable after the end of event)"
 
-#: ItemDefinitionItem.csv:175
+#: ItemDefinitionItem.csv:184
 msgctxt "Tile Call - Thunder & Lightning"
 msgid "sheet|ItemDefinitionItem.csv|name_en|c190e8cad3873af322cd0491943367f2"
 msgstr "Tile Call - Thunder & Lightning"
 
-#: ItemDefinitionItem.csv:175
+#: ItemDefinitionItem.csv:184
 msgctxt "To call or not to call? There is never enough time to think."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|37ee6ea133ad5cb27f0bcc24a4136738"
 msgstr "To call or not to call? There is never enough time to think."
 
-#: ItemDefinitionItem.csv:176
+#: ItemDefinitionItem.csv:185
 msgctxt "Sakura"
 msgid "sheet|ItemDefinitionItem.csv|name_en|ba7e5dcafbbfbc98c2f0e5ff2135481a"
 msgstr "Sakura"
 
-#: ItemDefinitionItem.csv:176
+#: ItemDefinitionItem.csv:185
 msgctxt ""
 "…they say the speed of a falling sakura petal is about five centimeters per "
 "second."
@@ -35711,52 +35851,52 @@ msgstr ""
 "…they say the speed of a falling sakura petal is about five centimeters per "
 "second."
 
-#: ItemDefinitionItem.csv:177
+#: ItemDefinitionItem.csv:186
 msgctxt "Midsummer"
 msgid "sheet|ItemDefinitionItem.csv|name_en|184f63d607c734e11bf81691d06d5ed1"
 msgstr "Midsummer"
 
-#: ItemDefinitionItem.csv:177
+#: ItemDefinitionItem.csv:186
 msgctxt "Watermelon and ice cream are the fundamental respect for summer!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3cee5a87c8a6b1e756fee7fb21bfc736"
 msgstr "Watermelon and ice cream are the fundamental respect for summer!"
 
-#: ItemDefinitionItem.csv:178
+#: ItemDefinitionItem.csv:187
 msgctxt "Autumn Chill"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f7b8e0ebd53aa18ed8ab96be68cb6140"
 msgstr "Autumn Chill"
 
-#: ItemDefinitionItem.csv:178
+#: ItemDefinitionItem.csv:187
 msgctxt "The sky is clear, and red leaves flutter."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|014cda6f5f775dfbd6a9f0513b5526cc"
 msgstr "The sky is clear, and red leaves flutter."
 
-#: ItemDefinitionItem.csv:179
+#: ItemDefinitionItem.csv:188
 msgctxt "Winter Arrival"
 msgid "sheet|ItemDefinitionItem.csv|name_en|ddddec0e8e9396ee9d7ea8cdc2dc009b"
 msgstr "Winter Arrival"
 
-#: ItemDefinitionItem.csv:179
+#: ItemDefinitionItem.csv:188
 msgctxt "As the snow covers everywhere, here comes a new year."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3329beb7968ceeeddcc7ab7b7c99a0d3"
 msgstr "As the snow covers everywhere, here comes a new year."
 
-#: ItemDefinitionItem.csv:180
+#: ItemDefinitionItem.csv:189
 msgctxt "Bamboo"
 msgid "sheet|ItemDefinitionItem.csv|name_en|515128d4d2783fc476a5680a22fb7fb1"
 msgstr "Bamboo"
 
-#: ItemDefinitionItem.csv:180
+#: ItemDefinitionItem.csv:189
 msgctxt "Mahjong fun is the real fun!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|8a5e7e71aa84008fb1b4e7df88481e4b"
 msgstr "Mahjong fun is the real fun!"
 
-#: ItemDefinitionItem.csv:181
+#: ItemDefinitionItem.csv:190
 msgctxt "Winding Stream Party"
 msgid "sheet|ItemDefinitionItem.csv|name_en|511aa7f4fbde74dab680ef39523db4ad"
 msgstr "Winding Stream Party"
 
-#: ItemDefinitionItem.csv:181
+#: ItemDefinitionItem.csv:190
 msgctxt ""
 "At the Orchid Pavilion, the literati are having a winding stream party to "
 "relaxing music and rustling flowers.(Event limited, will be unobtainable "
@@ -35767,12 +35907,12 @@ msgstr ""
 "relaxing music and rustling flowers.(Event limited, will be unobtainable "
 "after the end of event)"
 
-#: ItemDefinitionItem.csv:182
+#: ItemDefinitionItem.csv:191
 msgctxt "Shrine Yard · Sakura"
 msgid "sheet|ItemDefinitionItem.csv|name_en|adb83cb6f5613083cf9354d267cc1097"
 msgstr "Shrine Yard · Sakura"
 
-#: ItemDefinitionItem.csv:182
+#: ItemDefinitionItem.csv:191
 msgctxt ""
 "Every year when sakura blossoms, people will visit the shrine to offer "
 "Ichihime their delicious foods. What’s all that about? Nyaa~"
@@ -35781,22 +35921,22 @@ msgstr ""
 "Every year when sakura blossoms, people will visit the shrine to offer "
 "Ichihime their delicious foods. What’s all that about? Nyaa~"
 
-#: ItemDefinitionItem.csv:183
+#: ItemDefinitionItem.csv:192
 msgctxt "Shrine Yard · Midsummer"
 msgid "sheet|ItemDefinitionItem.csv|name_en|359f9b156e915d4d466c4ff3c3f4c4e4"
 msgstr "Shrine Yard · Midsummer"
 
-#: ItemDefinitionItem.csv:183
+#: ItemDefinitionItem.csv:192
 msgctxt "Summer Theme Background"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|c6fa15b3d46ce50f3e2a5291a7e2778b"
 msgstr "Summer Theme Background"
 
-#: ItemDefinitionItem.csv:184
+#: ItemDefinitionItem.csv:193
 msgctxt "Shrine Yard · Snow White"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f727622f1be30c20fbc342ed2b7047e1"
 msgstr "Shrine Yard · Snow White"
 
-#: ItemDefinitionItem.csv:184
+#: ItemDefinitionItem.csv:193
 msgctxt ""
 "Christmas Carnival Exclusive\\nWinter is the quietest season in Mahjong Soul"
 " Temple."
@@ -35805,12 +35945,12 @@ msgstr ""
 "Christmas Carnival Exclusive\\nWinter is the quietest season in Mahjong Soul"
 " Temple."
 
-#: ItemDefinitionItem.csv:185
+#: ItemDefinitionItem.csv:194
 msgctxt "Beach Party"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
 msgstr "Beach Party"
 
-#: ItemDefinitionItem.csv:185
+#: ItemDefinitionItem.csv:194
 msgctxt ""
 "Mahjong Festival - Beach Party Event Exclusive\\n\n"
 "\"Wow... The sea is here-nya!\" Enjoying Mahjong in the sea breeze is the best way to spend a hot summer day."
@@ -35819,112 +35959,112 @@ msgstr ""
 "Mahjong Festival - Beach Party Event Exclusive\\n\n"
 "\"Wow... The sea is here-nya!\" Enjoying Mahjong in the sea breeze is the best way to spend a hot summer day."
 
-#: ItemDefinitionItem.csv:186
+#: ItemDefinitionItem.csv:195
 msgctxt "Shrine Yard · Mid-Autumn"
 msgid "sheet|ItemDefinitionItem.csv|name_en|75079686604c6a307fd3d8e9f8e7ce3a"
 msgstr "Shrine Yard · Mid-Autumn"
 
-#: ItemDefinitionItem.csv:186
+#: ItemDefinitionItem.csv:195
 msgctxt "Autumn Theme Background"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d605d1914a746f689607bb7f0c9eae47"
 msgstr "Autumn Theme Background"
 
-#: ItemDefinitionItem.csv:187
+#: ItemDefinitionItem.csv:196
 msgctxt "Trial PT"
 msgid "sheet|ItemDefinitionItem.csv|name_en|70b4611a215a3f3dfdb68101655f1b07"
 msgstr "Trial PT"
 
-#: ItemDefinitionItem.csv:187
+#: ItemDefinitionItem.csv:196
 msgctxt "Trial PT"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|70b4611a215a3f3dfdb68101655f1b07"
 msgstr "Trial PT"
 
-#: ItemDefinitionItem.csv:188
+#: ItemDefinitionItem.csv:197
 msgctxt "Christmas Bells"
 msgid "sheet|ItemDefinitionItem.csv|name_en|8db8aaa1672b7fb8d822ac822769da3c"
 msgstr "Christmas Bells"
 
-#: ItemDefinitionItem.csv:188
+#: ItemDefinitionItem.csv:197
 msgctxt "Christmas Gift - Bells"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|644c14c2dbe40173ceee96b6f178d7ac"
 msgstr "Christmas Gift - Bells"
 
-#: ItemDefinitionItem.csv:189
+#: ItemDefinitionItem.csv:198
 msgctxt "Christmas Stocking"
 msgid "sheet|ItemDefinitionItem.csv|name_en|cc890e2c279b90dee54c1e3a10fa04bc"
 msgstr "Christmas Stocking"
 
-#: ItemDefinitionItem.csv:189
+#: ItemDefinitionItem.csv:198
 msgctxt "Christmas Gift - Stocking"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|365915f948d3f0f3d9c3136832f2a528"
 msgstr "Christmas Gift - Stocking"
 
-#: ItemDefinitionItem.csv:190
+#: ItemDefinitionItem.csv:199
 msgctxt "Lantern"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a22aaaf7741ee2c408141cb5b635a977"
 msgstr "Lantern"
 
-#: ItemDefinitionItem.csv:192
+#: ItemDefinitionItem.csv:201
 msgctxt "Lunar New Year event item."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3c7d00a8934e287e2b3695606661c875"
 msgstr "Lunar New Year event item."
 
-#: ItemDefinitionItem.csv:191
+#: ItemDefinitionItem.csv:200
 msgctxt "Firecracker"
 msgid "sheet|ItemDefinitionItem.csv|name_en|fead03d05d62002696a9b443cf42a62c"
 msgstr "Firecracker"
 
-#: ItemDefinitionItem.csv:192
+#: ItemDefinitionItem.csv:201
 msgctxt "Fu"
 msgid "sheet|ItemDefinitionItem.csv|name_en|6c019747e5eb4a721fa1c6be88119fff"
 msgstr "Fu"
 
-#: ItemDefinitionItem.csv:193
+#: ItemDefinitionItem.csv:202
 msgctxt "Instruction Tool"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1bdec1201617639bb6662aa30b8c8341"
 msgstr "Instruction Tool"
 
-#: ItemDefinitionItem.csv:193
+#: ItemDefinitionItem.csv:202
 msgctxt "An instruction tool awarded after completing Nikaidou's Class"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|c93318129dec7696575bcbe0550e187f"
 msgstr "An instruction tool awarded after completing Nikaidou's Class"
 
-#: ItemDefinitionItem.csv:194
+#: ItemDefinitionItem.csv:203
 msgctxt "Glasses"
 msgid "sheet|ItemDefinitionItem.csv|name_en|0f461e64d283177a15179b180fed353d"
 msgstr "Glasses"
 
-#: ItemDefinitionItem.csv:194
+#: ItemDefinitionItem.csv:203
 msgctxt "A pair of glasses  awarded after completing Nikaidou's Class"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|932f8464bf545a591493b9fa6c27eb7f"
 msgstr "A pair of glasses  awarded after completing Nikaidou's Class"
 
-#: ItemDefinitionItem.csv:195
+#: ItemDefinitionItem.csv:204
 msgctxt "Wind Chimes"
 msgid "sheet|ItemDefinitionItem.csv|name_en|65691b9c0d0319a2c527e5b76a44826d"
 msgstr "Wind Chimes"
 
-#: ItemDefinitionItem.csv:195
+#: ItemDefinitionItem.csv:204
 msgctxt "Ichihime asked Nadeshiko to hang this wind chimes in the shrine"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|104327abb15e36b27621f8bfe0a2babe"
 msgstr "Ichihime asked Nadeshiko to hang this wind chimes in the shrine"
 
-#: ItemDefinitionItem.csv:196
+#: ItemDefinitionItem.csv:205
 msgctxt "Ice Cream"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4905f67693c1e057a2d9b8c9de8f863b"
 msgstr "Ice Cream"
 
-#: ItemDefinitionItem.csv:196
+#: ItemDefinitionItem.csv:205
 msgctxt "Let's have some ice cream!!!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|ca3bc9e2a0f8c657c72465671ad0986b"
 msgstr "Let's have some ice cream!!!"
 
-#: ItemDefinitionItem.csv:197
+#: ItemDefinitionItem.csv:206
 msgctxt "Watermelon"
 msgid "sheet|ItemDefinitionItem.csv|name_en|9aa80c57478c55b3bcb34290d248d364"
 msgstr "Watermelon"
 
-#: ItemDefinitionItem.csv:197
+#: ItemDefinitionItem.csv:206
 msgctxt ""
 "Watermelon slices prepared by Kujou, the word says they are prepared for "
 "Mikami"
@@ -35933,12 +36073,12 @@ msgstr ""
 "Watermelon slices prepared by Kujou, the word says they are prepared for "
 "Mikami"
 
-#: ItemDefinitionItem.csv:198
+#: ItemDefinitionItem.csv:207
 msgctxt "Osmanthus Mead"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d168135e467782a2ea5027760dc5a984"
 msgstr "Osmanthus Mead"
 
-#: ItemDefinitionItem.csv:198
+#: ItemDefinitionItem.csv:207
 msgctxt ""
 "An item used for redeeming gifts from Moon Palace. It says 'No Underage "
 "Drinking' on its bottom, but Ichihime sips it anyway. “Sipping is not "
@@ -35949,12 +36089,12 @@ msgstr ""
 "Drinking' on its bottom, but Ichihime sips it anyway. “Sipping is not "
 "drinking, nyaa~”"
 
-#: ItemDefinitionItem.csv:199
+#: ItemDefinitionItem.csv:208
 msgctxt "Mooncake"
 msgid "sheet|ItemDefinitionItem.csv|name_en|50e74030067f097de636fdb9ea0a5ce0"
 msgstr "Mooncake"
 
-#: ItemDefinitionItem.csv:199
+#: ItemDefinitionItem.csv:208
 msgctxt ""
 "An item used for redeeming gifts from Moon Palace. Please keep Ichihime busy"
 " for the period that you are stocking these mooncakes."
@@ -35963,22 +36103,22 @@ msgstr ""
 "An item used for redeeming gifts from Moon Palace. Please keep Ichihime busy"
 " for the period that you are stocking these mooncakes."
 
-#: ItemDefinitionItem.csv:200
+#: ItemDefinitionItem.csv:209
 msgctxt "Pumpkin Witch"
 msgid "sheet|ItemDefinitionItem.csv|name_en|527377dc614781d79db1ab059aba5866"
 msgstr "Pumpkin Witch"
 
-#: ItemDefinitionItem.csv:200
+#: ItemDefinitionItem.csv:209
 msgctxt "Halloween Token\"Nobody can escape my witchcraft~\" (Noboday: ???)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3688543d9d3832d6b1e3fd617cd65eb0"
 msgstr "Halloween Token\"Nobody can escape my witchcraft~\" (Noboday: ???)"
 
-#: ItemDefinitionItem.csv:201
+#: ItemDefinitionItem.csv:210
 msgctxt "Candies"
 msgid "sheet|ItemDefinitionItem.csv|name_en|139148c3293387bb780412df0e4c3d94"
 msgstr "Candies"
 
-#: ItemDefinitionItem.csv:201
+#: ItemDefinitionItem.csv:210
 msgctxt ""
 "Halloween Token“Hek, hek, hek, wanna have a guess what is wrapped in this "
 "colorful candy paper?”"
@@ -35987,22 +36127,22 @@ msgstr ""
 "Halloween Token“Hek, hek, hek, wanna have a guess what is wrapped in this "
 "colorful candy paper?”"
 
-#: ItemDefinitionItem.csv:202
+#: ItemDefinitionItem.csv:211
 msgctxt "Rookie Ghost"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e29d220c7bcf4d507a3071ae09c6472e"
 msgstr "Rookie Ghost"
 
-#: ItemDefinitionItem.csv:202
+#: ItemDefinitionItem.csv:211
 msgctxt "Halloween Token \"Grrrr~ I am the scariest one!\""
 msgid "sheet|ItemDefinitionItem.csv|desc_en|784d412aec069df53c99331a53972ac1"
 msgstr "Halloween Token \"Grrrr~ I am the scariest one!\""
 
-#: ItemDefinitionItem.csv:203
+#: ItemDefinitionItem.csv:212
 msgctxt "Kagami Mochi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|00f1e8f0b7e5ce4183405694fd92c384"
 msgstr "Kagami Mochi"
 
-#: ItemDefinitionItem.csv:203
+#: ItemDefinitionItem.csv:212
 msgctxt ""
 "The Kagami Mochi is an offering prepared for the God of New Year. Make sure "
 "it is placed outside Ichihime's sight, otherwise she will steal it away."
@@ -36011,12 +36151,12 @@ msgstr ""
 "The Kagami Mochi is an offering prepared for the God of New Year. Make sure "
 "it is placed outside Ichihime's sight, otherwise she will steal it away."
 
-#: ItemDefinitionItem.csv:204
+#: ItemDefinitionItem.csv:213
 msgctxt "Straw Ring"
 msgid "sheet|ItemDefinitionItem.csv|name_en|eadafe6cb4ab37ea1c0e4f08e40e401f"
 msgstr "Straw Ring"
 
-#: ItemDefinitionItem.csv:204
+#: ItemDefinitionItem.csv:213
 msgctxt ""
 "An item used to separate the God's realm from the outside realm. Put it in "
 "the entryway, and you will be protected by the God in the New Year."
@@ -36025,22 +36165,22 @@ msgstr ""
 "An item used to separate the God's realm from the outside realm. Put it in "
 "the entryway, and you will be protected by the God in the New Year."
 
-#: ItemDefinitionItem.csv:205
+#: ItemDefinitionItem.csv:214
 msgctxt "测试骰子"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4090287f29e8f04be72099c73127e4d5"
 msgstr "测试骰子"
 
-#: ItemDefinitionItem.csv:205
+#: ItemDefinitionItem.csv:214
 msgctxt "测试用骰子，未实装"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|b8b0b5e406c5a6c03f156d35694fef91"
 msgstr "测试用骰子，未实装"
 
-#: ItemDefinitionItem.csv:206
+#: ItemDefinitionItem.csv:215
 msgctxt "Ruler"
 msgid "sheet|ItemDefinitionItem.csv|name_en|eada4723af6f51cf2391d85b5fde49b0"
 msgstr "Ruler"
 
-#: ItemDefinitionItem.csv:206
+#: ItemDefinitionItem.csv:215
 msgctxt ""
 "You are already a mature ruler and should learn to solve Math problem "
 "yourself. Don't you think so?"
@@ -36049,12 +36189,12 @@ msgstr ""
 "You are already a mature ruler and should learn to solve Math problem "
 "yourself. Don't you think so?"
 
-#: ItemDefinitionItem.csv:207
+#: ItemDefinitionItem.csv:216
 msgctxt "Propelling Pencil"
 msgid "sheet|ItemDefinitionItem.csv|name_en|ce667956c1ece172286a05034d5a2e7f"
 msgstr "Propelling Pencil"
 
-#: ItemDefinitionItem.csv:207
+#: ItemDefinitionItem.csv:216
 msgctxt ""
 "A propelling pencil produced by \"Catfood Studio\". Every lead of it can be "
 "used for almost one year."
@@ -36063,12 +36203,12 @@ msgstr ""
 "A propelling pencil produced by \"Catfood Studio\". Every lead of it can be "
 "used for almost one year."
 
-#: ItemDefinitionItem.csv:208
+#: ItemDefinitionItem.csv:217
 msgctxt "Note Book"
 msgid "sheet|ItemDefinitionItem.csv|name_en|25975f980e3f3eedd6f8e69f1cc690f5"
 msgstr "Note Book"
 
-#: ItemDefinitionItem.csv:208
+#: ItemDefinitionItem.csv:217
 msgctxt ""
 "A note book which is used to record daily life of Jyanshi. Wait... isn't it "
 "used to take notes?"
@@ -36077,22 +36217,22 @@ msgstr ""
 "A note book which is used to record daily life of Jyanshi. Wait... isn't it "
 "used to take notes?"
 
-#: ItemDefinitionItem.csv:209
+#: ItemDefinitionItem.csv:218
 msgctxt "dice"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f91614c13b0e6659f9b16a1d6f22f2db"
 msgstr "dice"
 
-#: ItemDefinitionItem.csv:209
+#: ItemDefinitionItem.csv:218
 msgctxt "An event-limited item. Use it to advance on the map."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|649ba2de8bb4ea3e9e54332f86f8def8"
 msgstr "An event-limited item. Use it to advance on the map."
 
-#: ItemDefinitionItem.csv:210
+#: ItemDefinitionItem.csv:219
 msgctxt "remote-control dice"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a16b252f2733a9cb3144997ca455abbc"
 msgstr "remote-control dice"
 
-#: ItemDefinitionItem.csv:210
+#: ItemDefinitionItem.csv:219
 msgctxt ""
 "An event-limited item. Use it to select the number of steps you'd like to "
 "move on the map."
@@ -36101,42 +36241,42 @@ msgstr ""
 "An event-limited item. Use it to select the number of steps you'd like to "
 "move on the map."
 
-#: ItemDefinitionItem.csv:211
+#: ItemDefinitionItem.csv:220
 msgctxt "Red bean rice dumpling"
 msgid "sheet|ItemDefinitionItem.csv|name_en|28dedc1804098625154d00debc465f6e"
 msgstr "Red bean rice dumpling"
 
-#: ItemDefinitionItem.csv:211
+#: ItemDefinitionItem.csv:220
 msgctxt "Sweet red bean rice dumpling, yummy!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|7bd8e7d980cdc09a09b269ad0b04eaed"
 msgstr "Sweet red bean rice dumpling, yummy!"
 
-#: ItemDefinitionItem.csv:212
+#: ItemDefinitionItem.csv:221
 msgctxt "Multi-grain rice dumpling"
 msgid "sheet|ItemDefinitionItem.csv|name_en|5bba8a03cd8d3301d4ea70692745f341"
 msgstr "Multi-grain rice dumpling"
 
-#: ItemDefinitionItem.csv:212
+#: ItemDefinitionItem.csv:221
 msgctxt "Healthy multi-grain rice dumpling, yummy!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|29c42ce8e05a875e5cbd6087d51f91f6"
 msgstr "Healthy multi-grain rice dumpling, yummy!"
 
-#: ItemDefinitionItem.csv:213
+#: ItemDefinitionItem.csv:222
 msgctxt "Vitellus rice dumpling"
 msgid "sheet|ItemDefinitionItem.csv|name_en|6371b13b1497c7077ed4771a8a332829"
 msgstr "Vitellus rice dumpling"
 
-#: ItemDefinitionItem.csv:213
+#: ItemDefinitionItem.csv:222
 msgctxt "Delicious egg yolk rice dumpling, yummy!"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|ac9e84ce8c3f60c368ac5c97f9d3a31d"
 msgstr "Delicious egg yolk rice dumpling, yummy!"
 
-#: ItemDefinitionItem.csv:214
+#: ItemDefinitionItem.csv:223
 msgctxt "Trumpet"
 msgid "sheet|ItemDefinitionItem.csv|name_en|142e3acd3610d6c670ac3f74b36347c6"
 msgstr "Trumpet"
 
-#: ItemDefinitionItem.csv:214
+#: ItemDefinitionItem.csv:223
 msgctxt ""
 "A Sports Day event token. When cheerleaders blow this trumpet together, the "
 "sound can be very loud."
@@ -36145,12 +36285,12 @@ msgstr ""
 "A Sports Day event token. When cheerleaders blow this trumpet together, the "
 "sound can be very loud."
 
-#: ItemDefinitionItem.csv:215
+#: ItemDefinitionItem.csv:224
 msgctxt "Pom-pom"
 msgid "sheet|ItemDefinitionItem.csv|name_en|c2326b58ae243a1a0135449bb2c29275"
 msgstr "Pom-pom"
 
-#: ItemDefinitionItem.csv:215
+#: ItemDefinitionItem.csv:224
 msgctxt ""
 "A Sports Day event token. This pom-pom flies around in the hands of "
 "cheerleaders."
@@ -36159,17 +36299,17 @@ msgstr ""
 "A Sports Day event token. This pom-pom flies around in the hands of "
 "cheerleaders."
 
-#: ItemDefinitionItem.csv:216
+#: ItemDefinitionItem.csv:225
 msgctxt "Cool Ticket"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a05a69e36d6d0b82dbb90e815ecffb0f"
 msgstr "Cool Ticket"
 
-#: ItemDefinitionItem.csv:217
+#: ItemDefinitionItem.csv:226
 msgctxt "Taiyaki"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a1c175a614f82dc15c772d4677442b72"
 msgstr "Taiyaki"
 
-#: ItemDefinitionItem.csv:217
+#: ItemDefinitionItem.csv:226
 msgctxt ""
 "Hot Spring Camp Event Token. It can be obtained via Hot Spring Battle and "
 "Tea Party. It can be used to donate at the Wishing Shrine or redeem rewards "
@@ -36180,12 +36320,48 @@ msgstr ""
 "Tea Party. It can be used to donate at the Wishing Shrine or redeem rewards "
 "in the Canteen."
 
-#: ItemDefinitionItem.csv:218
+#: ItemDefinitionItem.csv:227
+msgctxt "Weight Scale"
+msgid "sheet|ItemDefinitionItem.csv|name_en|39d11095405762ce71ffcb0b41035693"
+msgstr "Weight Scale"
+
+#: ItemDefinitionItem.csv:227
+msgctxt ""
+"The shoes don't count when measuring your weight, just like the way hair "
+"doesn't count when measuring your height."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|b04d931f6344d024293395cfc433acb4"
+msgstr ""
+"The shoes don't count when measuring your weight, just like the way hair "
+"doesn't count when measuring your height."
+
+#: ItemDefinitionItem.csv:228
+msgctxt "Stethoscope"
+msgid "sheet|ItemDefinitionItem.csv|name_en|38d29f33f22de8a79cc2964cc110e53d"
+msgstr "Stethoscope"
+
+#: ItemDefinitionItem.csv:228
+msgctxt "\"Breathe in—breathe out—breathe in again. Okay, next.\""
+msgid "sheet|ItemDefinitionItem.csv|desc_en|e6066bf0565411fcaeff4322612e499e"
+msgstr "\"Breathe in—breathe out—breathe in again. Okay, next.\""
+
+#: ItemDefinitionItem.csv:229
+msgctxt "Thermometer"
+msgid "sheet|ItemDefinitionItem.csv|name_en|d9cb7b5497a3fd10e4c6293bc2060dc3"
+msgstr "Thermometer"
+
+#: ItemDefinitionItem.csv:229
+msgctxt ""
+"Interesting fact: women have slightly higher body temperature than men."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|b53b0842e0e83dec6d74e5020ee67a8b"
+msgstr ""
+"Interesting fact: women have slightly higher body temperature than men."
+
+#: ItemDefinitionItem.csv:230
 msgctxt "Ichihime Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|724df3a2662f650c0438c39135c3a022"
 msgstr "Ichihime Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:218
+#: ItemDefinitionItem.csv:230
 msgctxt ""
 "Unlocks Ichihime's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -36194,12 +36370,12 @@ msgstr ""
 "Unlocks Ichihime's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:219
+#: ItemDefinitionItem.csv:231
 msgctxt "Miki Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d8d1987addc28172f55e1fed202449ea"
 msgstr "Miki Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:219
+#: ItemDefinitionItem.csv:231
 msgctxt ""
 "Unlocks Nikaido Miki's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
@@ -36208,12 +36384,12 @@ msgstr ""
 "Unlocks Nikaido Miki's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:220
+#: ItemDefinitionItem.csv:232
 msgctxt "Chiori Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|775bfe1e83ca81168c199ce2b94e39ed"
 msgstr "Chiori Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:220
+#: ItemDefinitionItem.csv:232
 msgctxt ""
 "Unlocks Mikami Chiori's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
@@ -36222,12 +36398,12 @@ msgstr ""
 "Unlocks Mikami Chiori's Lunar New Year limited-time Emoji. It will expire at"
 "  5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:221
+#: ItemDefinitionItem.csv:233
 msgctxt "Aihara Mai Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a1ece7b59271bb60f346ad841c6691ab"
 msgstr "Aihara Mai Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:221
+#: ItemDefinitionItem.csv:233
 msgctxt ""
 "Unlocks Aihara Mai's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -36236,12 +36412,12 @@ msgstr ""
 "Unlocks Aihara Mai's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:222
+#: ItemDefinitionItem.csv:234
 msgctxt "Kana Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f6d3cc1de1238c9bc76eb8a6a9f8f9e1"
 msgstr "Kana Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:222
+#: ItemDefinitionItem.csv:234
 msgctxt ""
 "Unlocks Fujita Kana's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -36250,12 +36426,12 @@ msgstr ""
 "Unlocks Fujita Kana's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:223
+#: ItemDefinitionItem.csv:235
 msgctxt "Nadeshiko Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e560a61363b2def3ab8b0066312ac233"
 msgstr "Nadeshiko Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:223
+#: ItemDefinitionItem.csv:235
 msgctxt ""
 "Unlocks Nadeshiko's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -36264,12 +36440,12 @@ msgstr ""
 "Unlocks Nadeshiko's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:224
+#: ItemDefinitionItem.csv:236
 msgctxt "Yui Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|837118daf2fa59e84b25f908d4932e92"
 msgstr "Yui Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:224
+#: ItemDefinitionItem.csv:236
 msgctxt ""
 "Unlocks Yagi Yui's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -36278,12 +36454,12 @@ msgstr ""
 "Unlocks Yagi Yui's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:225
+#: ItemDefinitionItem.csv:237
 msgctxt "Riu Spring Festival Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1e09915958e046859db9c1b580b792f6"
 msgstr "Riu Spring Festival Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:225
+#: ItemDefinitionItem.csv:237
 msgctxt ""
 "Unlocks Kujou Riu's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
@@ -36292,12 +36468,12 @@ msgstr ""
 "Unlocks Kujou Riu's Lunar New Year limited-time Emoji. It will expire at  "
 "5:00, 28 Feb 2019."
 
-#: ItemDefinitionItem.csv:226
+#: ItemDefinitionItem.csv:238
 msgctxt "Spring Exclusive Emotes"
 msgid "sheet|ItemDefinitionItem.csv|name_en|3d0238a563ca0fafd5039679a161cf49"
 msgstr "Spring Exclusive Emotes"
 
-#: ItemDefinitionItem.csv:226
+#: ItemDefinitionItem.csv:238
 msgctxt ""
 "Unlocks all the characters' Lunar New Year limited-time Emote (excluding the"
 " collab characters). The stickers will be unavailable after 2021/3/12 1:59 "
@@ -36308,143 +36484,143 @@ msgstr ""
 " collab characters). The stickers will be unavailable after 2021/3/12 1:59 "
 "P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:227
+#: ItemDefinitionItem.csv:239
 msgctxt "Spring Exclusive - Ichihime"
 msgid "sheet|ItemDefinitionItem.csv|name_en|5b43ce37b0d1c169a4f28377ee9de6e5"
 msgstr "Spring Exclusive - Ichihime"
 
-#: ItemDefinitionItem.csv:249
+#: ItemDefinitionItem.csv:261
 msgctxt "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|a59806152ded2152bada10701a78e278"
 msgstr "This sticker will be unavailable after 2020/2/28 1:59 P.M. (UTC-7)."
 
-#: ItemDefinitionItem.csv:228
+#: ItemDefinitionItem.csv:240
 msgctxt "Spring Exclusive - Miki Nikaidou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f1f992997462a6870f2d470df19a7032"
 msgstr "Spring Exclusive - Miki Nikaidou"
 
-#: ItemDefinitionItem.csv:229
+#: ItemDefinitionItem.csv:241
 msgctxt "Spring Exclusive - Kana Fujita"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7daeef1135de8785d6cf7546701e25f1"
 msgstr "Spring Exclusive - Kana Fujita"
 
-#: ItemDefinitionItem.csv:230
+#: ItemDefinitionItem.csv:242
 msgctxt "Spring Exclusive - Chiori Mikami"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d5132bfb23775265b231b3222f6d10ab"
 msgstr "Spring Exclusive - Chiori Mikami"
 
-#: ItemDefinitionItem.csv:231
+#: ItemDefinitionItem.csv:243
 msgctxt "Spring Exclusive - Mai Aihara"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e5ba197dca3c2f772f66afce683f17dd"
 msgstr "Spring Exclusive - Mai Aihara"
 
-#: ItemDefinitionItem.csv:232
+#: ItemDefinitionItem.csv:244
 msgctxt "Spring Exclusive - Nadeshiko"
 msgid "sheet|ItemDefinitionItem.csv|name_en|3526572d0816f075d24663cd78ac74ab"
 msgstr "Spring Exclusive - Nadeshiko"
 
-#: ItemDefinitionItem.csv:233
+#: ItemDefinitionItem.csv:245
 msgctxt "Spring Exclusive - Yui Yagi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|63a646103ae7c2d6c1703fa4bb68ab30"
 msgstr "Spring Exclusive - Yui Yagi"
 
-#: ItemDefinitionItem.csv:234
+#: ItemDefinitionItem.csv:246
 msgctxt "Spring Exclusive - Riu Kujou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|f7f034f38105e02405ae7d2d02999d6b"
 msgstr "Spring Exclusive - Riu Kujou"
 
-#: ItemDefinitionItem.csv:235
+#: ItemDefinitionItem.csv:247
 msgctxt "Spring Exclusive - Xenia"
 msgid "sheet|ItemDefinitionItem.csv|name_en|03f7fc3b68d60c09a01325e88ce9d288"
 msgstr "Spring Exclusive - Xenia"
 
-#: ItemDefinitionItem.csv:236
+#: ItemDefinitionItem.csv:248
 msgctxt "Spring Exclusive - Kaavi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4a17c9100b2f7540b952f5b02852cbd9"
 msgstr "Spring Exclusive - Kaavi"
 
-#: ItemDefinitionItem.csv:237
+#: ItemDefinitionItem.csv:249
 msgctxt "Spring Exclusive - Natsuki Shinomiya"
 msgid "sheet|ItemDefinitionItem.csv|name_en|916acd0b9c841b9e07995fc08576ca54"
 msgstr "Spring Exclusive - Natsuki Shinomiya"
 
-#: ItemDefinitionItem.csv:238
+#: ItemDefinitionItem.csv:250
 msgctxt "Spring Exclusive - Wanjirou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|0a26a934872727bb1c9a8bf6a091234b"
 msgstr "Spring Exclusive - Wanjirou"
 
-#: ItemDefinitionItem.csv:239
+#: ItemDefinitionItem.csv:251
 msgctxt "Spring Exclusive - Sora Ichinose"
 msgid "sheet|ItemDefinitionItem.csv|name_en|2c14f0fa9f98fed16764e67fa1155749"
 msgstr "Spring Exclusive - Sora Ichinose"
 
-#: ItemDefinitionItem.csv:240
+#: ItemDefinitionItem.csv:252
 msgctxt "Spring Exclusive - Hideki Akechi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|bd6c42b5e2b6cb68a8a6740558611e29"
 msgstr "Spring Exclusive - Hideki Akechi"
 
-#: ItemDefinitionItem.csv:241
+#: ItemDefinitionItem.csv:253
 msgctxt "Spring Exclusive - Keikumusume"
 msgid "sheet|ItemDefinitionItem.csv|name_en|8d21bde96f6caf6b185ec846133f4dd5"
 msgstr "Spring Exclusive - Keikumusume"
 
-#: ItemDefinitionItem.csv:242
+#: ItemDefinitionItem.csv:254
 msgctxt "Spring Exclusive - Sara"
 msgid "sheet|ItemDefinitionItem.csv|name_en|11c77d3c733b73cfec45ec2608577832"
 msgstr "Spring Exclusive - Sara"
 
-#: ItemDefinitionItem.csv:243
+#: ItemDefinitionItem.csv:255
 msgctxt "Spring Exclusive - Hana Ninomiya"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1d892a6654b025eb275e0173726c2882"
 msgstr "Spring Exclusive - Hana Ninomiya"
 
-#: ItemDefinitionItem.csv:244
+#: ItemDefinitionItem.csv:256
 msgctxt "Spring Exclusive - Nana Shiraishi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|22308b8445e36897a6eec06db5c3cca6"
 msgstr "Spring Exclusive - Nana Shiraishi"
 
-#: ItemDefinitionItem.csv:245
+#: ItemDefinitionItem.csv:257
 msgctxt "Spring Exclusive - Hinata Takanashi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|df0ed43f659122ef9afe6fcb223e28da"
 msgstr "Spring Exclusive - Hinata Takanashi"
 
-#: ItemDefinitionItem.csv:246
+#: ItemDefinitionItem.csv:258
 msgctxt "Spring Exclusive - Haruna Igarashi"
 msgid "sheet|ItemDefinitionItem.csv|name_en|d5b0795f64d18c3953c512516f7333ed"
 msgstr "Spring Exclusive - Haruna Igarashi"
 
-#: ItemDefinitionItem.csv:247
+#: ItemDefinitionItem.csv:259
 msgctxt "Spring Exclusive - Anju Suzumiya"
 msgid "sheet|ItemDefinitionItem.csv|name_en|47acf2b222660d0319923628e8fcbda8"
 msgstr "Spring Exclusive - Anju Suzumiya"
 
-#: ItemDefinitionItem.csv:248
+#: ItemDefinitionItem.csv:260
 msgctxt "Spring Exclusive - Joseph"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a7a20a831d57732506b04f8671a17df9"
 msgstr "Spring Exclusive - Joseph"
 
-#: ItemDefinitionItem.csv:249
+#: ItemDefinitionItem.csv:261
 msgctxt "Spring Exclusive - Osamu Saitou"
 msgid "sheet|ItemDefinitionItem.csv|name_en|73fb7c274e4f492df8f7103e7513d367"
 msgstr "Spring Exclusive - Osamu Saitou"
 
-#: ItemDefinitionItem.csv:262
+#: ItemDefinitionItem.csv:274
 msgctxt "Mooncake Emote"
 msgid "sheet|ItemDefinitionItem.csv|name_en|9112c435499e70c8bd483a449573bc58"
 msgstr "Mooncake Emote"
 
-#: ItemDefinitionItem.csv:262
+#: ItemDefinitionItem.csv:274
 msgctxt ""
 "Limited-time Mooncake Emote.It will expire at 10/27 2:00 P.M. (UTC-7)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|538010d5a27e7179e5e6ef0390b9e132"
 msgstr "Limited-time Mooncake Emote.It will expire at 10/27 2:00 P.M. (UTC-7)"
 
-#: ItemDefinitionItem.csv:266
+#: ItemDefinitionItem.csv:278
 msgctxt "Firework Emoji (Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f9bc5284e8602a38cd329a6d7aaa382"
 msgstr "Firework Emoji (Limited-time)"
 
-#: ItemDefinitionItem.csv:263
+#: ItemDefinitionItem.csv:275
 msgctxt ""
 "A limited-time emoji for celebrating victorious. Available until 10/30/2019 "
 "2:00 P.M. (PDT)"
@@ -36453,17 +36629,17 @@ msgstr ""
 "A limited-time emoji for celebrating victorious. Available until 10/30/2019 "
 "2:00 P.M. (PDT)"
 
-#: ItemDefinitionItem.csv:264
+#: ItemDefinitionItem.csv:276
 msgctxt "A limited-time emoji. Available until 11/09/2019 2:00 P.M. (PDT)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|93edfed0ab70fe860a6ea082cd790a02"
 msgstr "A limited-time emoji. Available until 11/09/2019 2:00 P.M. (PDT)"
 
-#: ItemDefinitionItem.csv:265
+#: ItemDefinitionItem.csv:277
 msgctxt "SURPRISE Emoji(Limited-time)"
 msgid "sheet|ItemDefinitionItem.csv|name_en|63b6b4e19db6af451d2367262d82dc89"
 msgstr "SURPRISE Emoji(Limited-time)"
 
-#: ItemDefinitionItem.csv:265
+#: ItemDefinitionItem.csv:277
 msgctxt ""
 "A limited-time emoji for Halloween 2019. Available until 12/11/2019 2:00 "
 "P.M. (PDT)"
@@ -36472,69 +36648,27 @@ msgstr ""
 "A limited-time emoji for Halloween 2019. Available until 12/11/2019 2:00 "
 "P.M. (PDT)"
 
-#: ItemDefinitionItem.csv:266
+#: ItemDefinitionItem.csv:278
 msgctxt "A limited-time emoji.Available until 12/26/2019 2:00 P.M. (UTC-7)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|7126b28b08645e77bcd8de63ccdb2d7f"
 msgstr "A limited-time emoji.Available until 12/26/2019 2:00 P.M. (UTC-7)"
 
-#: ItemDefinitionItem.csv:269
+#: ItemDefinitionItem.csv:281
 msgctxt "手-默认"
 msgid "sheet|ItemDefinitionItem.csv|name_en|7f3708f0158cf66b3fbe0b55d998a602"
 msgstr "手-默认"
 
-#: ItemDefinitionItem.csv:269
+#: ItemDefinitionItem.csv:281
 msgctxt "默认的手"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|76920ca2e27820f7a6be95710a88cd1b"
 msgstr "默认的手"
 
-#: ItemDefinitionItem.csv:274
-msgctxt "限时称号测试用"
-msgid "sheet|ItemDefinitionItem.csv|name_en|94ae1602d51a19aed87df8babb1c97e5"
-msgstr "限时称号测试用"
-
-#: ItemDefinitionItem.csv:274
-msgctxt "限时称号测试用"
-msgid "sheet|ItemDefinitionItem.csv|desc_en|94ae1602d51a19aed87df8babb1c97e5"
-msgstr "限时称号测试用"
-
-#: ItemDefinitionItem.csv:275
-msgctxt "インターハイ王者"
-msgid "sheet|ItemDefinitionItem.csv|name_en|bd61c37d167c0021f71c892a6520162b"
-msgstr "インターハイ王者"
-
-#: ItemDefinitionItem.csv:275
-msgctxt "雀魂バーチャルインターハイ優勝チームに贈る称号。"
-msgid "sheet|ItemDefinitionItem.csv|desc_en|5d78281debff1f5aae13a7ea1c75e4e4"
-msgstr "雀魂バーチャルインターハイ優勝チームに贈る称号。"
-
-#: ItemDefinitionItem.csv:275
-msgctxt "2021年11月23日23時59分まで"
-msgid ""
-"sheet|ItemDefinitionItem.csv|expire_desc_en|36ef0ac2949786ebf75d9f4faedac1a9"
-msgstr "2021年11月23日23時59分まで"
-
-#: ItemDefinitionItem.csv:276
-msgctxt "最強鴉天狗の愛弟子"
-msgid "sheet|ItemDefinitionItem.csv|name_en|c92685b6dd9717ad8f8170b937ef0e53"
-msgstr "最強鴉天狗の愛弟子"
-
-#: ItemDefinitionItem.csv:276
-msgctxt "にじさんじ麻雀杯2021優勝記念"
-msgid "sheet|ItemDefinitionItem.csv|desc_en|3dad628a3269c556bbf5b76868eff541"
-msgstr "にじさんじ麻雀杯2021優勝記念"
-
-#: ItemDefinitionItem.csv:276
-msgctxt "2022年1月31日まで"
-msgid ""
-"sheet|ItemDefinitionItem.csv|expire_desc_en|f3641379df20dc14c21aabe7bd0e9112"
-msgstr "2022年1月31日まで"
-
-#: ItemDefinitionItem.csv:277
+#: ItemDefinitionItem.csv:285
 msgctxt "Winning - Thunderball"
 msgid "sheet|ItemDefinitionItem.csv|name_en|e805195b77e441674c8a745c6ff9ccf2"
 msgstr "Winning - Thunderball"
 
-#: ItemDefinitionItem.csv:277
+#: ItemDefinitionItem.csv:285
 msgctxt ""
 "Look! Tiles are dancing with the lightning and thunder!\n"
 "(Tap Dorm - Decoration to equip)"
@@ -36543,12 +36677,12 @@ msgstr ""
 "Look! Tiles are dancing with the lightning and thunder!\n"
 "(Tap Dorm - Decoration to equip)"
 
-#: ItemDefinitionItem.csv:278
+#: ItemDefinitionItem.csv:286
 msgctxt "Riichi - Full Moon"
 msgid "sheet|ItemDefinitionItem.csv|name_en|dbeeadeb81a17f86c8654388434c8ac2"
 msgstr "Riichi - Full Moon"
 
-#: ItemDefinitionItem.csv:278
+#: ItemDefinitionItem.csv:286
 msgctxt ""
 "With the glow of the moon, the flower blooms magnificently.\n"
 "(Tap Dorm - Decoration to equip)"
@@ -36557,12 +36691,12 @@ msgstr ""
 "With the glow of the moon, the flower blooms magnificently.\n"
 "(Tap Dorm - Decoration to equip)"
 
-#: ItemDefinitionItem.csv:279
+#: ItemDefinitionItem.csv:287
 msgctxt "Riichi Bet - Taco"
 msgid "sheet|ItemDefinitionItem.csv|name_en|107122b47c162d46853b79d3b77d7e50"
 msgstr "Riichi Bet - Taco"
 
-#: ItemDefinitionItem.csv:279
+#: ItemDefinitionItem.csv:287
 msgctxt ""
 "I was born for Taco. I cannot live without it!\n"
 "(Tap Dorm - Decoration to equip)"
@@ -36571,12 +36705,12 @@ msgstr ""
 "I was born for Taco. I cannot live without it!\n"
 "(Tap Dorm - Decoration to equip)"
 
-#: ItemDefinitionItem.csv:280
+#: ItemDefinitionItem.csv:288
 msgctxt "Tablecloth - Cozy Nest"
 msgid "sheet|ItemDefinitionItem.csv|name_en|3fbb9e77ad6a58f65858eaee2c20a152"
 msgstr "Tablecloth - Cozy Nest"
 
-#: ItemDefinitionItem.csv:280
+#: ItemDefinitionItem.csv:288
 msgctxt ""
 "Indulge yourself in the peacefulness and relaxation at this moment.\n"
 "(Tap Dorm - Decoration to equip)"
@@ -36585,12 +36719,12 @@ msgstr ""
 "Indulge yourself in the peacefulness and relaxation at this moment.\n"
 "(Tap Dorm - Decoration to equip)"
 
-#: ItemDefinitionItem.csv:281
+#: ItemDefinitionItem.csv:289
 msgctxt "Tile Back - Etopen"
 msgid "sheet|ItemDefinitionItem.csv|name_en|dc6a539e3944c28d95d5e7cd6e71f993"
 msgstr "Tile Back - Etopen"
 
-#: ItemDefinitionItem.csv:281
+#: ItemDefinitionItem.csv:289
 msgctxt ""
 "It is said that anyone with this miraculous penguin can become stronger!\n"
 "(Tap Dorm - Decoration to equip)"
@@ -36609,7 +36743,7 @@ msgctxt ""
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
 
-#: ItemDefinitionSkin.csv:114
+#: ItemDefinitionSkin.csv:118
 msgctxt ""
 msgid ""
 "sheet|ItemDefinitionSkin.csv|lock_tips_en|d41d8cd98f00b204e9800998ecf8427e"
@@ -36625,7 +36759,7 @@ msgctxt "Ichihime’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|b60afd1b65f4c3d7b65e48894f98fb29"
 msgstr "Ichihime’s default look"
 
-#: ItemDefinitionSkin.csv:115
+#: ItemDefinitionSkin.csv:119
 msgctxt "Bond"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|7a3b691731db2969498907b960183633"
 msgstr "Bond"
@@ -36639,13 +36773,13 @@ msgstr ""
 "Available after making a Bonding Promise with Ichihime\\n\"Nyaa? Nyanyanya-"
 "nya! \""
 
-#: ItemDefinitionSkin.csv:115
+#: ItemDefinitionSkin.csv:119
 msgctxt "Bond"
 msgid ""
 "sheet|ItemDefinitionSkin.csv|lock_tips_en|7a3b691731db2969498907b960183633"
 msgstr "Bond"
 
-#: ItemDefinitionSkin.csv:68
+#: ItemDefinitionSkin.csv:70
 msgctxt "Beach Party"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
 msgstr "Beach Party"
@@ -36659,13 +36793,13 @@ msgstr ""
 "Beach Party Exclusive\\n\"Take this! Even if it's you, Master, Ichihime "
 "won't let you get an easy win-nya!\""
 
-#: ItemDefinitionSkin.csv:68
+#: ItemDefinitionSkin.csv:70
 msgctxt "Beach Party"
 msgid ""
 "sheet|ItemDefinitionSkin.csv|lock_tips_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
 msgstr "Beach Party"
 
-#: ItemDefinitionSkin.csv:57
+#: ItemDefinitionSkin.csv:58
 msgctxt "New Year's First Visit"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|93043c2bd4bf8905538f33a8a4fc93c7"
 msgstr "New Year's First Visit"
@@ -36679,7 +36813,7 @@ msgstr ""
 "New Year's First Visit Exclusive\\n\" I'm busy trying out the food for "
 "everybody, of course. This is the most important task-nya!\""
 
-#: ItemDefinitionSkin.csv:88
+#: ItemDefinitionSkin.csv:92
 msgctxt "New Year"
 msgid ""
 "sheet|ItemDefinitionSkin.csv|lock_tips_en|6bfa6743c8624b3490f7735b24c60295"
@@ -36704,7 +36838,7 @@ msgstr ""
 "Available after making a Bonding Promise with Miki Nikaidou\\n\"Sure. I'm "
 "all~ yours~ today.\""
 
-#: ItemDefinitionSkin.csv:51
+#: ItemDefinitionSkin.csv:52
 msgctxt "Halloween Party"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|8abdb88b878147625d1497f2a582faf7"
 msgstr "Halloween Party"
@@ -36718,13 +36852,13 @@ msgstr ""
 "Halloween Party Exclusive\\n \"If tonight's ball doesn't delight you, let me"
 " teach you something that will make you happy.\""
 
-#: ItemDefinitionSkin.csv:51
+#: ItemDefinitionSkin.csv:52
 msgctxt "Halloween Party"
 msgid ""
 "sheet|ItemDefinitionSkin.csv|lock_tips_en|8abdb88b878147625d1497f2a582faf7"
 msgstr "Halloween Party"
 
-#: ItemDefinitionSkin.csv:60
+#: ItemDefinitionSkin.csv:62
 msgctxt "Spring Celebration"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|112cb35a28c6adc384f0026a21fe1827"
 msgstr "Spring Celebration"
@@ -36738,7 +36872,7 @@ msgstr ""
 "Spring Celebration Exclusive\\n \"You know, it's not nice to sneak a peek "
 "while girls are putting on makeup! I want you to see me at my best today!\""
 
-#: ItemDefinitionSkin.csv:60
+#: ItemDefinitionSkin.csv:62
 msgctxt "Spring Celebration"
 msgid ""
 "sheet|ItemDefinitionSkin.csv|lock_tips_en|112cb35a28c6adc384f0026a21fe1827"
@@ -36777,7 +36911,7 @@ msgstr ""
 "Christmas Carnival Exclusive\\n\"Hi everyone! Thanks for coming to Kana's "
 "Christmas Eve concert. \""
 
-#: ItemDefinitionSkin.csv:91
+#: ItemDefinitionSkin.csv:95
 msgctxt "Christmas"
 msgid ""
 "sheet|ItemDefinitionSkin.csv|lock_tips_en|81b616fbff55b8698d44852f45c08630"
@@ -36848,7 +36982,7 @@ msgstr ""
 "Beach Party Exclusive\\n\"I'm not particularly good at swimming... But I "
 "will try my best. \""
 
-#: ItemDefinitionSkin.csv:83
+#: ItemDefinitionSkin.csv:86
 msgctxt "Wonderful Youth"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|fac339a3933e4abfda2c4f155d6e1abb"
 msgstr "Wonderful Youth"
@@ -36862,7 +36996,7 @@ msgstr ""
 "Wonderful Youth Exclusive\\n\"I was happy that you could celebrate Lunar New"
 " Year with me, so I tried this special outfit. Does Mai look good in it?\""
 
-#: ItemDefinitionSkin.csv:83
+#: ItemDefinitionSkin.csv:86
 msgctxt "Wonderful Youth"
 msgid ""
 "sheet|ItemDefinitionSkin.csv|lock_tips_en|fac339a3933e4abfda2c4f155d6e1abb"
@@ -36957,7 +37091,7 @@ msgstr ""
 "Beach Party Exclusive\\n\"I won't show you any mercy even if you praise my "
 "looks.\""
 
-#: ItemDefinitionSkin.csv:88
+#: ItemDefinitionSkin.csv:92
 msgctxt "Snowy New Year"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|3bf1604957d4650f9d5946efdc991bc3"
 msgstr "Snowy New Year"
@@ -37078,12 +37212,12 @@ msgstr ""
 
 #: ItemDefinitionSkin.csv:45
 msgctxt ""
-"Halloween Party Exclusive\\n“Sush… keep silent. Tonight, I am nothing but a "
-"quiet scarecrow.”"
-msgid "sheet|ItemDefinitionSkin.csv|desc_en|8ee81410497c68851aacc4a89a46a5c3"
+"Halloween Party Exclusive\\n\"Sush… keep silent. Tonight, I am nothing but a"
+" quiet scarecrow.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|16cc6ada7994aafb16e159c2e240d55a"
 msgstr ""
-"Halloween Party Exclusive\\n“Sush… keep silent. Tonight, I am nothing but a "
-"quiet scarecrow.”"
+"Halloween Party Exclusive\\n\"Sush… keep silent. Tonight, I am nothing but a"
+" quiet scarecrow.\""
 
 #: ItemDefinitionSkin.csv:46
 msgctxt "Sora Ichinose"
@@ -37113,17 +37247,41 @@ msgstr ""
 "Christmas Carnival Exclusive\\n \"This is my first Christmas with you... Can"
 " we celebrate it again in the future together?\""
 
+#: ItemDefinitionSkin.csv:89
+msgctxt "Spring Homecoming"
+msgid "sheet|ItemDefinitionSkin.csv|name_en|7801224c2cb245f3281d2a6545436c48"
+msgstr "Spring Homecoming"
+
 #: ItemDefinitionSkin.csv:49
+msgctxt ""
+"Spring Homecoming Exclusive\\n\"Long time no see? Didn't we see each other "
+"all the time during the vacation... But it indeed has been a while since the"
+" last time we read together in school. I just bought this picture book. Wan-"
+"Wanna read it together?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|5bcc2f31e11c46620160beb42a8f679c"
+msgstr ""
+"Spring Homecoming Exclusive\\n\"Long time no see? Didn't we see each other "
+"all the time during the vacation... But it indeed has been a while since the"
+" last time we read together in school. I just bought this picture book. Wan-"
+"Wanna read it together?\""
+
+#: ItemDefinitionSkin.csv:89
+msgctxt "Spring Homecoming"
+msgid ""
+"sheet|ItemDefinitionSkin.csv|lock_tips_en|7801224c2cb245f3281d2a6545436c48"
+msgstr "Spring Homecoming"
+
+#: ItemDefinitionSkin.csv:50
 msgctxt "Hideki Akechi"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|c71ed70434c10fc1b9c861b0113d611a"
 msgstr "Hideki Akechi"
 
-#: ItemDefinitionSkin.csv:49
+#: ItemDefinitionSkin.csv:50
 msgctxt "Hideki Akechi’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|e6fc8a2bf1f19d727d350a1672b99ed3"
 msgstr "Hideki Akechi’s default look"
 
-#: ItemDefinitionSkin.csv:50
+#: ItemDefinitionSkin.csv:51
 msgctxt ""
 "Available after making a Bonding Promise with Hideki Akechi\\n\"Could you "
 "sit here for a while? Just stay with me for a moment. \""
@@ -37132,7 +37290,7 @@ msgstr ""
 "Available after making a Bonding Promise with Hideki Akechi\\n\"Could you "
 "sit here for a while? Just stay with me for a moment. \""
 
-#: ItemDefinitionSkin.csv:51
+#: ItemDefinitionSkin.csv:52
 msgctxt ""
 "Halloween Party Exclusive\\n\"Good evening, Hideki Akechi, the messenger "
 "with dark wings, has come to greet you to that moonlit country with me.\""
@@ -37141,17 +37299,17 @@ msgstr ""
 "Halloween Party Exclusive\\n\"Good evening, Hideki Akechi, the messenger "
 "with dark wings, has come to greet you to that moonlit country with me.\""
 
-#: ItemDefinitionSkin.csv:52
+#: ItemDefinitionSkin.csv:53
 msgctxt "Keikumusume"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|f7aa7d3e8347224d57d1f63bbfb8a85b"
 msgstr "Keikumusume"
 
-#: ItemDefinitionSkin.csv:52
+#: ItemDefinitionSkin.csv:53
 msgctxt "Keikumusume’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|3319ff7151f1c458620ff575bdc22ef0"
 msgstr "Keikumusume’s default look"
 
-#: ItemDefinitionSkin.csv:53
+#: ItemDefinitionSkin.csv:54
 msgctxt ""
 "Available after making a Bonding Promise with Keikumusume\\n \"Do you also "
 "like to read light novels?\""
@@ -37160,7 +37318,7 @@ msgstr ""
 "Available after making a Bonding Promise with Keikumusume\\n \"Do you also "
 "like to read light novels?\""
 
-#: ItemDefinitionSkin.csv:54
+#: ItemDefinitionSkin.csv:55
 msgctxt ""
 "Limited Outfit from Summer Festival - Beach Party event\\n\"Apart from "
 "staying at home reading novels, I do occasionally go out!\""
@@ -37169,17 +37327,17 @@ msgstr ""
 "Limited Outfit from Summer Festival - Beach Party event\\n\"Apart from "
 "staying at home reading novels, I do occasionally go out!\""
 
-#: ItemDefinitionSkin.csv:55
+#: ItemDefinitionSkin.csv:56
 msgctxt "Sara"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|4733a44073c81970cccbca6e1ede188b"
 msgstr "Sara"
 
-#: ItemDefinitionSkin.csv:55
+#: ItemDefinitionSkin.csv:56
 msgctxt "Sara’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|fd83de12d4ae17368e07f8c1a8093a66"
 msgstr "Sara’s default look"
 
-#: ItemDefinitionSkin.csv:56
+#: ItemDefinitionSkin.csv:57
 msgctxt ""
 "Available after making a Bonding Promise with Sara\\nThe dancer comes along "
 "with the scent of rosemary."
@@ -37188,7 +37346,7 @@ msgstr ""
 "Available after making a Bonding Promise with Sara\\nThe dancer comes along "
 "with the scent of rosemary."
 
-#: ItemDefinitionSkin.csv:57
+#: ItemDefinitionSkin.csv:58
 msgctxt ""
 "New Year's First Visit Exclusive\\n\"Here's a dance that I learned "
 "specifically for the New Year.\""
@@ -37197,17 +37355,28 @@ msgstr ""
 "New Year's First Visit Exclusive\\n\"Here's a dance that I learned "
 "specifically for the New Year.\""
 
-#: ItemDefinitionSkin.csv:58
+#: ItemDefinitionSkin.csv:59
+msgctxt ""
+"Spring Homecoming Exclusive\\n\"Senpai, wanna go to the school with me "
+"today? Haha, just kidding. I tried my school uniform on a whim, and it "
+"looked surprisingly good. Should I wear it on the stage next time?\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|083f9edcd477c95d33705294a07db1e5"
+msgstr ""
+"Spring Homecoming Exclusive\\n\"Senpai, wanna go to the school with me "
+"today? Haha, just kidding. I tried my school uniform on a whim, and it "
+"looked surprisingly good. Should I wear it on the stage next time?\""
+
+#: ItemDefinitionSkin.csv:60
 msgctxt "Hana Ninomiya"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|f6367b5eb55d5e575dc597e8bff7392a"
 msgstr "Hana Ninomiya"
 
-#: ItemDefinitionSkin.csv:58
+#: ItemDefinitionSkin.csv:60
 msgctxt "Hana Ninomiya’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|47e1b083c0a4f15c4ec97f27216c9f45"
 msgstr "Hana Ninomiya’s default look"
 
-#: ItemDefinitionSkin.csv:59
+#: ItemDefinitionSkin.csv:61
 msgctxt ""
 "Available after making a Bonding Promise with Hana Ninomiya\\n\"It's my "
 "first time wearing something like this. How do I look? \""
@@ -37216,7 +37385,7 @@ msgstr ""
 "Available after making a Bonding Promise with Hana Ninomiya\\n\"It's my "
 "first time wearing something like this. How do I look? \""
 
-#: ItemDefinitionSkin.csv:60
+#: ItemDefinitionSkin.csv:62
 msgctxt ""
 "Spring Celebration Exclusive\\n\"Here you are, I just finished this "
 "calligraphy. I wish you a prosperous and healthy year of Gengzi (2020). \""
@@ -37225,23 +37394,23 @@ msgstr ""
 "Spring Celebration Exclusive\\n\"Here you are, I just finished this "
 "calligraphy. I wish you a prosperous and healthy year of Gengzi (2020). \""
 
-#: ItemDefinitionSkin.csv:61
+#: ItemDefinitionSkin.csv:63
 msgctxt "Nana Shiraishi"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|b75305e9cc7f97f895ca6a558bc80869"
 msgstr "Nana Shiraishi"
 
-#: ItemDefinitionSkin.csv:61
+#: ItemDefinitionSkin.csv:63
 msgctxt "Nana Shiraishi’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|7e400a7d282271cfe4b1eb30cd074f12"
 msgstr "Nana Shiraishi’s default look"
 
-#: ItemDefinitionSkin.csv:62
+#: ItemDefinitionSkin.csv:64
 msgctxt ""
 "An outfit acquired when your bond with Nana Shiraishi reaches maximum"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|6b1d5dc731f778ca07bcbaab85c0173b"
 msgstr "An outfit acquired when your bond with Nana Shiraishi reaches maximum"
 
-#: ItemDefinitionSkin.csv:63
+#: ItemDefinitionSkin.csv:65
 msgctxt ""
 "Beach Party Exclusive\\n\"Soon, I'll be able to swim here as much as I want."
 " Just this thought alone makes me full of energy to start cleaning.\""
@@ -37250,34 +37419,34 @@ msgstr ""
 "Beach Party Exclusive\\n\"Soon, I'll be able to swim here as much as I want."
 " Just this thought alone makes me full of energy to start cleaning.\""
 
-#: ItemDefinitionSkin.csv:64
+#: ItemDefinitionSkin.csv:66
 msgctxt "Hinata Takanashi"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|d59f0b29f74176d59e80380013916f90"
 msgstr "Hinata Takanashi"
 
-#: ItemDefinitionSkin.csv:64
+#: ItemDefinitionSkin.csv:66
 msgctxt "Hinata Takanashi’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|337b40bd942e3fdd3bff00be4e9fc5a5"
 msgstr "Hinata Takanashi’s default look"
 
-#: ItemDefinitionSkin.csv:65
+#: ItemDefinitionSkin.csv:67
 msgctxt ""
 "An outfit acquired when your bond with Hinata Takanashi reaches maximum"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|d08179dedb4fd3c50e8de6b3a811987e"
 msgstr ""
 "An outfit acquired when your bond with Hinata Takanashi reaches maximum"
 
-#: ItemDefinitionSkin.csv:66
+#: ItemDefinitionSkin.csv:68
 msgctxt "Haruna Igarashi"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|1015546ceb4b0c8a6b57f2d0a17cfd4b"
 msgstr "Haruna Igarashi"
 
-#: ItemDefinitionSkin.csv:66
+#: ItemDefinitionSkin.csv:68
 msgctxt "Haruna Igarashi’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|a11be1440a3a0fe756530f24585e7683"
 msgstr "Haruna Igarashi’s default look"
 
-#: ItemDefinitionSkin.csv:67
+#: ItemDefinitionSkin.csv:69
 msgctxt ""
 "\"Ta-da! Haruna's stray-cat-cafe is now open. Dear customer, would you like "
 "an ice pop?\""
@@ -37286,7 +37455,7 @@ msgstr ""
 "\"Ta-da! Haruna's stray-cat-cafe is now open. Dear customer, would you like "
 "an ice pop?\""
 
-#: ItemDefinitionSkin.csv:68
+#: ItemDefinitionSkin.csv:70
 msgctxt ""
 "Beach Party Exclusive\\n\"Alright, here's the deal! If Haruna wins the "
 "water-gun fight, you will treat Haruna to 10 ice pops today!\""
@@ -37295,17 +37464,28 @@ msgstr ""
 "Beach Party Exclusive\\n\"Alright, here's the deal! If Haruna wins the "
 "water-gun fight, you will treat Haruna to 10 ice pops today!\""
 
-#: ItemDefinitionSkin.csv:69
+#: ItemDefinitionSkin.csv:71
+msgctxt ""
+"Spring Homecoming Exclusive\\n\"Haruna drew this cat. Isn't it majestic? "
+"With the painting brush mom gave me, I can draw cats of all kinds of colors."
+" Haruna's cat legion will rise again!\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|c7ef0e4e04040f88b41e939a6b510215"
+msgstr ""
+"Spring Homecoming Exclusive\\n\"Haruna drew this cat. Isn't it majestic? "
+"With the painting brush mom gave me, I can draw cats of all kinds of colors."
+" Haruna's cat legion will rise again!\""
+
+#: ItemDefinitionSkin.csv:72
 msgctxt "Anju Suzumiya"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|54a8c7a71e8b310cada53392c01e4765"
 msgstr "Anju Suzumiya"
 
-#: ItemDefinitionSkin.csv:69
+#: ItemDefinitionSkin.csv:72
 msgctxt "Anju Suzumiya’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|7beb58bb6969dd2bbcadb88e07100e50"
 msgstr "Anju Suzumiya’s default look"
 
-#: ItemDefinitionSkin.csv:70
+#: ItemDefinitionSkin.csv:73
 msgctxt ""
 "\"Question: Why is KR-976 appearing more often in the life report of "
 "{name}?\""
@@ -37314,22 +37494,22 @@ msgstr ""
 "\"Question: Why is KR-976 appearing more often in the life report of "
 "{name}?\""
 
-#: ItemDefinitionSkin.csv:71
+#: ItemDefinitionSkin.csv:74
 msgctxt "Joseph"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|6a1a376d8169cfc1835f59ac934edbb7"
 msgstr "Joseph"
 
-#: ItemDefinitionSkin.csv:71
+#: ItemDefinitionSkin.csv:74
 msgctxt "Joseph’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|b6cd0752e286017347111095582364ea"
 msgstr "Joseph’s default look"
 
-#: ItemDefinitionSkin.csv:72
+#: ItemDefinitionSkin.csv:75
 msgctxt "\"Yo, partner! I've found a new destination for us. Let's go!\""
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|020787de672a0aac3bb2d11d8abc75fe"
 msgstr "\"Yo, partner! I've found a new destination for us. Let's go!\""
 
-#: ItemDefinitionSkin.csv:73
+#: ItemDefinitionSkin.csv:76
 msgctxt ""
 "Snowy New Year Exclusive\\n\"Happy New Year! My friend. Never have I "
 "expected that one would like a gentleman in traditional Japanese clothes.\""
@@ -37338,17 +37518,17 @@ msgstr ""
 "Snowy New Year Exclusive\\n\"Happy New Year! My friend. Never have I "
 "expected that one would like a gentleman in traditional Japanese clothes.\""
 
-#: ItemDefinitionSkin.csv:74
+#: ItemDefinitionSkin.csv:77
 msgctxt "Osamu Saitou"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|e42a4519a75518546f59ff1301d53acd"
 msgstr "Osamu Saitou"
 
-#: ItemDefinitionSkin.csv:74
+#: ItemDefinitionSkin.csv:77
 msgctxt "Osamu Saitou’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|8c5833a2a2f459c46a40adb4b562b1a5"
 msgstr "Osamu Saitou’s default look"
 
-#: ItemDefinitionSkin.csv:75
+#: ItemDefinitionSkin.csv:78
 msgctxt ""
 "\"Like I said, you just have to be yourself in front of me. I like just the "
 "way you are.\""
@@ -37357,17 +37537,17 @@ msgstr ""
 "\"Like I said, you just have to be yourself in front of me. I like just the "
 "way you are.\""
 
-#: ItemDefinitionSkin.csv:76
+#: ItemDefinitionSkin.csv:79
 msgctxt "Sawako Kitami"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|63a1f1f5e351e38c101802c6f6d22189"
 msgstr "Sawako Kitami"
 
-#: ItemDefinitionSkin.csv:76
+#: ItemDefinitionSkin.csv:79
 msgctxt "Sawako Kitami’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|0bb06c1553e68bbb0168b835040b2bd9"
 msgstr "Sawako Kitami’s default look"
 
-#: ItemDefinitionSkin.csv:77
+#: ItemDefinitionSkin.csv:80
 msgctxt ""
 "\"Summer's coming soon! I'm really looking forward to it, because it's the "
 "first summer we will spend together since I met you!\""
@@ -37376,12 +37556,12 @@ msgstr ""
 "\"Summer's coming soon! I'm really looking forward to it, because it's the "
 "first summer we will spend together since I met you!\""
 
-#: ItemDefinitionSkin.csv:91
+#: ItemDefinitionSkin.csv:95
 msgctxt "Snowy Night Whisper"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|85e341ebd79809d011cac102b59570d4"
 msgstr "Snowy Night Whisper"
 
-#: ItemDefinitionSkin.csv:78
+#: ItemDefinitionSkin.csv:81
 msgctxt ""
 "Snowy Night Whisper Exclusive\\n\"While preparing Christmas gifts for the "
 "kids, I've also prepared yours! Take a seat here. I can't wait to see you "
@@ -37392,17 +37572,17 @@ msgstr ""
 "kids, I've also prepared yours! Take a seat here. I can't wait to see you "
 "unbox it.\""
 
-#: ItemDefinitionSkin.csv:79
+#: ItemDefinitionSkin.csv:82
 msgctxt "Ein"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|86ef6ab5abf5d34602e179a1c3ce7309"
 msgstr "Ein"
 
-#: ItemDefinitionSkin.csv:79
+#: ItemDefinitionSkin.csv:82
 msgctxt "Ein’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|1df7ff96cd433395ca208d5b7725f69a"
 msgstr "Ein’s default look"
 
-#: ItemDefinitionSkin.csv:80
+#: ItemDefinitionSkin.csv:83
 msgctxt ""
 "\"Hold on to my tail. Make sure you follow me! I'll be in great trouble if I"
 " lose you while hunting. But don't worry, even if you do get lost, I can "
@@ -37413,17 +37593,17 @@ msgstr ""
 " lose you while hunting. But don't worry, even if you do get lost, I can "
 "always find you. Haha!\""
 
-#: ItemDefinitionSkin.csv:81
+#: ItemDefinitionSkin.csv:84
 msgctxt "Momo Hina"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|0fea285e212519578bff69471813e718"
 msgstr "Momo Hina"
 
-#: ItemDefinitionSkin.csv:81
+#: ItemDefinitionSkin.csv:84
 msgctxt "Momo Hina’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|8899d8fb9b28f83a4067c2ba1c2a0f51"
 msgstr "Momo Hina’s default look"
 
-#: ItemDefinitionSkin.csv:82
+#: ItemDefinitionSkin.csv:85
 msgctxt ""
 "\"Wow, what to do, I'm late for the tea party! Mr. Rabbit, what should I "
 "do?\""
@@ -37432,7 +37612,7 @@ msgstr ""
 "\"Wow, what to do, I'm late for the tea party! Mr. Rabbit, what should I "
 "do?\""
 
-#: ItemDefinitionSkin.csv:83
+#: ItemDefinitionSkin.csv:86
 msgctxt ""
 "Wonderful Youth Exclusive\\n \"Why does Momo like Mr.Rabbit? Eh? Isn't this "
 "just as natural as how flowers bloom when spring comes?\""
@@ -37441,17 +37621,17 @@ msgstr ""
 "Wonderful Youth Exclusive\\n \"Why does Momo like Mr.Rabbit? Eh? Isn't this "
 "just as natural as how flowers bloom when spring comes?\""
 
-#: ItemDefinitionSkin.csv:84
+#: ItemDefinitionSkin.csv:87
 msgctxt "Zan Tsukimi"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|048f34af0dab6c9c4f8f29d94a148d20"
 msgstr "Zan Tsukimi"
 
-#: ItemDefinitionSkin.csv:84
+#: ItemDefinitionSkin.csv:87
 msgctxt "Zan Tsukimi’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|2ffcaafe4a4e5df52a15549979596916"
 msgstr "Zan Tsukimi’s default look"
 
-#: ItemDefinitionSkin.csv:85
+#: ItemDefinitionSkin.csv:88
 msgctxt ""
 "\"Although today is just a regular day like any other, shall we make it our "
 "secret anniversary?\""
@@ -37460,22 +37640,35 @@ msgstr ""
 "\"Although today is just a regular day like any other, shall we make it our "
 "secret anniversary?\""
 
-#: ItemDefinitionSkin.csv:86
+#: ItemDefinitionSkin.csv:89
+msgctxt ""
+"Spring Homecoming Exclusive\\n\"It's your turn. Take off your shoes and get "
+"on the scale... Well, inconvenient as it is, it's necessary to take the "
+"regular physical examination. Don't worry, I won't tell anyone about your "
+"height or weight.\""
+msgid "sheet|ItemDefinitionSkin.csv|desc_en|f8b2b8145c788c62f95f7c1df09d77b8"
+msgstr ""
+"Spring Homecoming Exclusive\\n\"It's your turn. Take off your shoes and get "
+"on the scale... Well, inconvenient as it is, it's necessary to take the "
+"regular physical examination. Don't worry, I won't tell anyone about your "
+"height or weight.\""
+
+#: ItemDefinitionSkin.csv:90
 msgctxt "Kirara Fujimoto"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|9cad174d2b2ecd6c27f2d74ac2395ade"
 msgstr "Kirara Fujimoto"
 
-#: ItemDefinitionSkin.csv:86
+#: ItemDefinitionSkin.csv:90
 msgctxt "Kirara Fujimoto’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|c403027b781576b89d454480f4ac04f7"
 msgstr "Kirara Fujimoto’s default look"
 
-#: ItemDefinitionSkin.csv:87
+#: ItemDefinitionSkin.csv:91
 msgctxt "\"Look at me! Cheers—yeah! This photo marks our first date!\""
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|ebeb01850b5be8dba9d849ad0975b0e9"
 msgstr "\"Look at me! Cheers—yeah! This photo marks our first date!\""
 
-#: ItemDefinitionSkin.csv:88
+#: ItemDefinitionSkin.csv:92
 msgctxt ""
 "Snowy New Year Exclusive\\n\"Ta-da! Hot and fresh New Year Kirara. As you "
 "can see, traditional clothes can also be stylish on Kirara!\""
@@ -37484,17 +37677,17 @@ msgstr ""
 "Snowy New Year Exclusive\\n\"Ta-da! Hot and fresh New Year Kirara. As you "
 "can see, traditional clothes can also be stylish on Kirara!\""
 
-#: ItemDefinitionSkin.csv:89
+#: ItemDefinitionSkin.csv:93
 msgctxt "Kaguyahime"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|cfec7ca422797436a25eed01207fba0e"
 msgstr "Kaguyahime"
 
-#: ItemDefinitionSkin.csv:89
+#: ItemDefinitionSkin.csv:93
 msgctxt "Kaguyahime’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|596805e7d1d6a7257eb6191727e8fcc5"
 msgstr "Kaguyahime’s default look"
 
-#: ItemDefinitionSkin.csv:90
+#: ItemDefinitionSkin.csv:94
 msgctxt ""
 "\"Countless people want to serve me, but you are my favorite. From now on, "
 "you are my general for conquering the world!\""
@@ -37503,7 +37696,7 @@ msgstr ""
 "\"Countless people want to serve me, but you are my favorite. From now on, "
 "you are my general for conquering the world!\""
 
-#: ItemDefinitionSkin.csv:91
+#: ItemDefinitionSkin.csv:95
 msgctxt ""
 "Snowy Night Whisper Exclusive\\n\"Tired already, mortal? Catch up! Hehe! "
 "Tonight I'm going to 'surprise' those who are expecting their Christmas "
@@ -37514,17 +37707,17 @@ msgstr ""
 "Tonight I'm going to 'surprise' those who are expecting their Christmas "
 "gifts!\""
 
-#: ItemDefinitionSkin.csv:92
+#: ItemDefinitionSkin.csv:96
 msgctxt "Ren Kisaragi"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|1acdef897729ba995c613617f78da3b8"
 msgstr "Ren Kisaragi"
 
-#: ItemDefinitionSkin.csv:92
+#: ItemDefinitionSkin.csv:96
 msgctxt "Ren Kisaragi’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|3347f4490e22fff31887b19b650ef0d5"
 msgstr "Ren Kisaragi’s default look"
 
-#: ItemDefinitionSkin.csv:93
+#: ItemDefinitionSkin.csv:97
 msgctxt ""
 "\"Hmm? Since when did you like to watch others get changed? Do you want to "
 "appear on my 'trouble students' list so much?\""
@@ -37533,17 +37726,17 @@ msgstr ""
 "\"Hmm? Since when did you like to watch others get changed? Do you want to "
 "appear on my 'trouble students' list so much?\""
 
-#: ItemDefinitionSkin.csv:94
+#: ItemDefinitionSkin.csv:98
 msgctxt "Usumi Ishihara"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|b9aa4d4c138b447d00f8a9e11126a3ad"
 msgstr "Usumi Ishihara"
 
-#: ItemDefinitionSkin.csv:94
+#: ItemDefinitionSkin.csv:98
 msgctxt "Usumi Ishihara’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|f62114c0bc5cec6177454545f17004fd"
 msgstr "Usumi Ishihara’s default look"
 
-#: ItemDefinitionSkin.csv:95
+#: ItemDefinitionSkin.csv:99
 msgctxt ""
 "\"As my member, are you really only going to eat? If you don't come and "
 "help, I will take away your desserts for the week with no m-e-r-c-y!\""
@@ -37552,17 +37745,17 @@ msgstr ""
 "\"As my member, are you really only going to eat? If you don't come and "
 "help, I will take away your desserts for the week with no m-e-r-c-y!\""
 
-#: ItemDefinitionSkin.csv:96
+#: ItemDefinitionSkin.csv:100
 msgctxt "Eliisa"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|dd3934769e00bcb44b76b6cf80276120"
 msgstr "Eliisa"
 
-#: ItemDefinitionSkin.csv:96
+#: ItemDefinitionSkin.csv:100
 msgctxt "Eliisa’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|325c9ac0b36413467534a0ba8cc1f491"
 msgstr "Eliisa’s default look"
 
-#: ItemDefinitionSkin.csv:97
+#: ItemDefinitionSkin.csv:101
 msgctxt ""
 "\"Hey! Mr. Wolf, look! The ranch had a bumper harvest this year. Grandma "
 "sent these from the ranch and asked me to give them to you, hehe!\""
@@ -37571,17 +37764,17 @@ msgstr ""
 "\"Hey! Mr. Wolf, look! The ranch had a bumper harvest this year. Grandma "
 "sent these from the ranch and asked me to give them to you, hehe!\""
 
-#: ItemDefinitionSkin.csv:98
+#: ItemDefinitionSkin.csv:102
 msgctxt "Chihori Terasaki"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|4b5808825aa13829d150a0fc525e7c83"
 msgstr "Chihori Terasaki"
 
-#: ItemDefinitionSkin.csv:98
+#: ItemDefinitionSkin.csv:102
 msgctxt "Chihori Terasaki’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|a8ff345199502aa69ef4faf32fd62781"
 msgstr "Chihori Terasaki’s default look"
 
-#: ItemDefinitionSkin.csv:99
+#: ItemDefinitionSkin.csv:103
 msgctxt ""
 "\"I'm wondering if this leisurely afternoon you've brought here is a good "
 "thing or a bad thing for me... It looks like I'm getting 'lazy' too, haha!\""
@@ -37590,27 +37783,27 @@ msgstr ""
 "\"I'm wondering if this leisurely afternoon you've brought here is a good "
 "thing or a bad thing for me... It looks like I'm getting 'lazy' too, haha!\""
 
-#: ItemDefinitionSkin.csv:100
+#: ItemDefinitionSkin.csv:104
 msgctxt "Saki Miyanaga"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|fed99e7843a75a26f48a01bf9bd2cabb"
 msgstr "Saki Miyanaga"
 
-#: ItemDefinitionSkin.csv:100
+#: ItemDefinitionSkin.csv:104
 msgctxt "Saki Miyanaga’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|ad113c4de178f95d40347f6467ae95b5"
 msgstr "Saki Miyanaga’s default look"
 
-#: ItemDefinitionSkin.csv:101
+#: ItemDefinitionSkin.csv:105
 msgctxt "Available after making a Bonding Promise with Saki Miyanaga"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|2d96429f12c94233bf6352ddd9fd86c2"
 msgstr "Available after making a Bonding Promise with Saki Miyanaga"
 
-#: ItemDefinitionSkin.csv:111
+#: ItemDefinitionSkin.csv:115
 msgctxt "The Exalted Blossom"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|00b24070a132272f2eebdb2ea0d8d33c"
 msgstr "The Exalted Blossom"
 
-#: ItemDefinitionSkin.csv:102
+#: ItemDefinitionSkin.csv:106
 msgctxt ""
 "Saki: The Nationals x Mahjong Soul Limited-time Collab\\nThe unattainable "
 "orange flower in bright bloom, subtle but powerful."
@@ -37619,28 +37812,28 @@ msgstr ""
 "Saki: The Nationals x Mahjong Soul Limited-time Collab\\nThe unattainable "
 "orange flower in bright bloom, subtle but powerful."
 
-#: ItemDefinitionSkin.csv:111
+#: ItemDefinitionSkin.csv:115
 msgctxt "Collab"
 msgid ""
 "sheet|ItemDefinitionSkin.csv|lock_tips_en|ee27b7add7f90bd9c9cb2b803a480d8d"
 msgstr "Collab"
 
-#: ItemDefinitionSkin.csv:103
+#: ItemDefinitionSkin.csv:107
 msgctxt "Nodoka Haramura"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|da44aa06ec806926b8778ecd0e5e7bd0"
 msgstr "Nodoka Haramura"
 
-#: ItemDefinitionSkin.csv:103
+#: ItemDefinitionSkin.csv:107
 msgctxt "Nodoka Haramura’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|5b78d600fd089ae6a427c181fed4042c"
 msgstr "Nodoka Haramura’s default look"
 
-#: ItemDefinitionSkin.csv:104
+#: ItemDefinitionSkin.csv:108
 msgctxt "Available after making a Bonding Promise with Nodoka Haramura"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|04af3460bbb6b3561aced102063986e1"
 msgstr "Available after making a Bonding Promise with Nodoka Haramura"
 
-#: ItemDefinitionSkin.csv:105
+#: ItemDefinitionSkin.csv:109
 msgctxt ""
 "Saki: The Nationals x Mahjong Soul Limited-time Collab\\nEnjoy, the sweet "
 "scent that is embalmed in the heart."
@@ -37649,22 +37842,22 @@ msgstr ""
 "Saki: The Nationals x Mahjong Soul Limited-time Collab\\nEnjoy, the sweet "
 "scent that is embalmed in the heart."
 
-#: ItemDefinitionSkin.csv:106
+#: ItemDefinitionSkin.csv:110
 msgctxt "Koromo Amae"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|bd68333a3a029b654d58c95cdc66a908"
 msgstr "Koromo Amae"
 
-#: ItemDefinitionSkin.csv:106
+#: ItemDefinitionSkin.csv:110
 msgctxt "Koromo Amae’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|a19a83aab0061c5d2500b714ef2a1486"
 msgstr "Koromo Amae’s default look"
 
-#: ItemDefinitionSkin.csv:107
+#: ItemDefinitionSkin.csv:111
 msgctxt "Available after making a Bonding Promise with Koromo Amae"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|b56730d3ceed88715505404c66334c01"
 msgstr "Available after making a Bonding Promise with Koromo Amae"
 
-#: ItemDefinitionSkin.csv:108
+#: ItemDefinitionSkin.csv:112
 msgctxt ""
 "Saki: The Nationals x Mahjong Soul Limited-time Collab\\nThe innocence and "
 "enthusiasm bursting out between red and white!"
@@ -37673,22 +37866,22 @@ msgstr ""
 "Saki: The Nationals x Mahjong Soul Limited-time Collab\\nThe innocence and "
 "enthusiasm bursting out between red and white!"
 
-#: ItemDefinitionSkin.csv:109
+#: ItemDefinitionSkin.csv:113
 msgctxt "Teru Miyanaga"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|ff36e747d581e8b22b4be9a763a741b6"
 msgstr "Teru Miyanaga"
 
-#: ItemDefinitionSkin.csv:109
+#: ItemDefinitionSkin.csv:113
 msgctxt "Teru Miyanaga’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|f8bdc446a0bd00de9e2d3f0ec0e1a5d6"
 msgstr "Teru Miyanaga’s default look"
 
-#: ItemDefinitionSkin.csv:110
+#: ItemDefinitionSkin.csv:114
 msgctxt "Available after making a Bonding Promise with Teru Miyanaga"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|df59ca5a54cac75de07cb23f3206c3ad"
 msgstr "Available after making a Bonding Promise with Teru Miyanaga"
 
-#: ItemDefinitionSkin.csv:111
+#: ItemDefinitionSkin.csv:115
 msgctxt ""
 "Saki: The Nationals x Mahjong Soul Limited-time Collab\\nDeep and noble "
 "eyes, like the stars in the night sky."
@@ -37697,17 +37890,17 @@ msgstr ""
 "Saki: The Nationals x Mahjong Soul Limited-time Collab\\nDeep and noble "
 "eyes, like the stars in the night sky."
 
-#: ItemDefinitionSkin.csv:112
+#: ItemDefinitionSkin.csv:116
 msgctxt "Fu Ji"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|885b496ea087da239e32a504ef67a08a"
 msgstr "Fu Ji"
 
-#: ItemDefinitionSkin.csv:112
+#: ItemDefinitionSkin.csv:116
 msgctxt "Fu Ji’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|d24ba2be1a22e6fde163eefbdcfb68ad"
 msgstr "Fu Ji’s default look"
 
-#: ItemDefinitionSkin.csv:113
+#: ItemDefinitionSkin.csv:117
 msgctxt ""
 "\"You look luckier recently. It's definitely because you have been visiting "
 "my dojo. Good kid! Remember to keep doing it, haha!\""
@@ -37716,17 +37909,17 @@ msgstr ""
 "\"You look luckier recently. It's definitely because you have been visiting "
 "my dojo. Good kid! Remember to keep doing it, haha!\""
 
-#: ItemDefinitionSkin.csv:114
+#: ItemDefinitionSkin.csv:118
 msgctxt "Qi Xi"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|2ef4cb8771e3a4972be65a31037eab20"
 msgstr "Qi Xi"
 
-#: ItemDefinitionSkin.csv:114
+#: ItemDefinitionSkin.csv:118
 msgctxt "Qi Xi’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|8c7c5a23c40a20412d98b5f052709dd0"
 msgstr "Qi Xi’s default look"
 
-#: ItemDefinitionSkin.csv:115
+#: ItemDefinitionSkin.csv:119
 msgctxt ""
 "\"I've spent all my time on that old woman's mission. It won't hurt if I "
 "occasionally take a break. Look, aren't my red strings stunning? Hehe, I "
@@ -38122,6 +38315,16 @@ msgstr "最強鴉天狗の愛弟子"
 msgctxt "にじさんじ麻雀杯2021優勝記念"
 msgid "sheet|ItemDefinitionTitle.csv|desc_en|3dad628a3269c556bbf5b76868eff541"
 msgstr "にじさんじ麻雀杯2021優勝記念"
+
+#: ItemDefinitionTitle.csv:42
+msgctxt "麒麟位2021"
+msgid "sheet|ItemDefinitionTitle.csv|name_en|f66a3c5bb89dde97afb76e4fee767d2c"
+msgstr "麒麟位2021"
+
+#: ItemDefinitionTitle.csv:42
+msgctxt "麒麟戦2021優勝記念"
+msgid "sheet|ItemDefinitionTitle.csv|desc_en|21a1020d16de15c894911b57aa90e700"
+msgstr "麒麟戦2021優勝記念"
 
 #: LevelDefinitionCharacter.csv:2
 msgctxt "New daily voice unlocked!\\nNew match voice unlocked!"
@@ -39057,7 +39260,7 @@ msgctxt "Yui Yagi's outfit"
 msgid "sheet|ShopsGoods.csv|desc_en|8ab867f7bb4f11efc32b0eded37ffde4"
 msgstr "Yui Yagi's outfit"
 
-#: ShopsGoods.csv:75
+#: ShopsGoods.csv:92
 msgctxt "Sora Ichinose's outfit"
 msgid "sheet|ShopsGoods.csv|desc_en|c4c5639cd9ef944a1564f72811b14fee"
 msgstr "Sora Ichinose's outfit"
@@ -39072,7 +39275,7 @@ msgctxt "New Year's First Visit"
 msgid "sheet|ShopsGoods.csv|name_en|93043c2bd4bf8905538f33a8a4fc93c7"
 msgstr "New Year's First Visit"
 
-#: ShopsGoods.csv:81
+#: ShopsGoods.csv:91
 msgctxt "Sara's outfit"
 msgid "sheet|ShopsGoods.csv|desc_en|f29f66c21c3c6f82b7920845bc8edec0"
 msgstr "Sara's outfit"
@@ -39097,7 +39300,7 @@ msgctxt "Nana Shiraishi's outfit"
 msgid "sheet|ShopsGoods.csv|desc_en|8e87bf5da8ccbd7b2de9ea292856dbd5"
 msgstr "Nana Shiraishi's outfit"
 
-#: ShopsGoods.csv:62
+#: ShopsGoods.csv:90
 msgctxt "Haruna Igarashi's outfit"
 msgid "sheet|ShopsGoods.csv|desc_en|218811d313a4cf8492378c136814f5ed"
 msgstr "Haruna Igarashi's outfit"
@@ -39191,6 +39394,16 @@ msgstr "Wonderful Youth"
 msgctxt "Momo Hina's outfit"
 msgid "sheet|ShopsGoods.csv|desc_en|08269f9b36e93768a8fbf011fb1db1de"
 msgstr "Momo Hina's outfit"
+
+#: ShopsGoods.csv:93
+msgctxt "Spring Homecoming"
+msgid "sheet|ShopsGoods.csv|name_en|7801224c2cb245f3281d2a6545436c48"
+msgstr "Spring Homecoming"
+
+#: ShopsGoods.csv:93
+msgctxt "Zan Tsukimi's outfit"
+msgid "sheet|ShopsGoods.csv|desc_en|6e1ec84e479b7b68220777d88f8ba69d"
+msgstr "Zan Tsukimi's outfit"
 
 #: ShopsZhpGoods.csv:2
 msgctxt "Handmade Cookie"
@@ -40369,18 +40582,16 @@ msgstr ""
 
 #: StrStr.csv:27
 msgctxt ""
-"ATK: This stat increases with your average points won in the last 100 "
-"games;\\nDEF: This stat increases as your deal-in rate over the last 100 "
-"games decreases;\\nSPD: This stat increases as your win rate over the last "
-"100 games increases;\\nLUK: This stat is higher when you had more Dora-Yaku "
-"(Dora, Ura Dora, Red Five & Ippatsu) in the last 20 wins."
-msgid "sheet|StrStr.csv|en|25776c0f00ec4f4e6f39fd3851c6ac3d"
+"ATK: This stat increases with your average points won in the last 100 games;\\n\n"
+"DEF: This stat increases as your deal-in rate over the last 100 games decreases;\\n\n"
+"SPD: This stat increases as your win rate over the last 100 games increases;\\n\n"
+"LUK: This stat is higher when you had more Dora-Yaku (Dora, Ura Dora, Red Five & Ippatsu) in the last 20 wins."
+msgid "sheet|StrStr.csv|en|902e2ae73895e4cfe98d3fd2ccbbe133"
 msgstr ""
-"ATK: This stat increases with your average points won in the last 100 "
-"games;\\nDEF: This stat increases as your deal-in rate over the last 100 "
-"games decreases;\\nSPD: This stat increases as your win rate over the last "
-"100 games increases;\\nLUK: This stat is higher when you had more Dora-Yaku "
-"(Dora, Ura Dora, Red Five & Ippatsu) in the last 20 wins."
+"ATK: This stat increases with your average points won in the last 100 games;\\n\n"
+"DEF: This stat increases as your deal-in rate over the last 100 games decreases;\\n\n"
+"SPD: This stat increases as your win rate over the last 100 games increases;\\n\n"
+"LUK: This stat is higher when you had more Dora-Yaku (Dora, Ura Dora, Red Five & Ippatsu) in the last 20 wins."
 
 #: StrStr.csv:28
 msgctxt "You have been removed from the room"
