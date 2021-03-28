@@ -1,0 +1,64 @@
+name: Update original translation manually
+on:
+  workflow_dispatch:
+
+jobs:
+  authorize: 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: octokit/request-action@v2.0.26
+        with:
+          route: GET /repos/:repository/collaborators/${{ github.actor }}
+          repository: ${{ github.repository }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  update:
+    runs-on: ubuntu-latest
+    needs: [authorize]
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Cache data
+        id: cache
+        uses: actions/cache@v2
+        with:
+          path: ./data/assets-original
+          key: ${{ needs.check-majsoul-version.outputs.cache-key }}
+
+      - name: Login to Github Package Registry
+        run: echo ${{ secrets.GITHUB_TOKEN }} | docker login docker.pkg.github.com -u $GITHUB_ACTOR --password-stdin
+
+      - name: Pull image from Github Package Registry or Build image
+        run: docker-compose pull || docker-compose build --force-rm
+        working-directory: ./data
+
+      - name: Run docker image to download
+        run: docker-compose run --rm mpk download
+        working-directory: ./data
+
+      - name: Run docker image to generate translation templates
+        run: docker-compose run --rm mpk template
+        working-directory: ./data
+
+      - name: Push image to Github Package Registry
+        run: docker-compose push mpk || true
+        working-directory: ./data
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Github Action
+          author_email: github-action@nothing.local
+          message: "Update original translation"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Emit repository_dispatch
+        uses: mvasigh/dispatch-action@main
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          event_type: build
+          repo: majsoul-plus-korean
+          owner: yf-dev
