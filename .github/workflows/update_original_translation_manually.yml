@@ -13,9 +13,28 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  update:
+  check-majsoul-version:
     runs-on: ubuntu-latest
     needs: [authorize]
+    outputs:
+      cache-hit: ${{ steps.cache.outputs.cache-hit }}
+      cache-key: ${{ runner.os }}-${{ steps.get-majsoul-version.outputs.json }}
+    steps:
+      - name: Get majsoul version
+        id: get-majsoul-version
+        run: |
+          echo "::set-output name=json::$(curl https://mahjongsoul.game.yo-star.com/version.json | md5sum)"
+
+      - name: Cache data
+        id: cache
+        uses: actions/cache@v2
+        with:
+          path: ./data/assets-original
+          key: ${{ runner.os }}-${{ steps.get-majsoul-version.outputs.json }}
+
+  update:
+    runs-on: ubuntu-latest
+    needs: [check-majsoul-version]
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
