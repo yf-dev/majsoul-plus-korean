@@ -1,14 +1,14 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020, 2021.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-27 01:00+0000\n"
+"PO-Revision-Date: 2021-03-28 09:44+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 4.5.2\n"
 
 #: translate_json.csv:7
 msgctxt "绑定邮箱"
@@ -71133,3 +71133,1035 @@ msgid "json|lobby/page_sign_chs|1|3|1263f951609d13d2a73fdb89e117bc57"
 msgstr ""
 "3/3 14:00 - \n"
 "3/13 13:59 (UTC-7)"
+
+#: ItemDefinitionItem.csv:229
+msgctxt ""
+"Interesting fact: women have slightly higher body temperature than men."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|b53b0842e0e83dec6d74e5020ee67a8b"
+msgstr "여성의 체온은 평균적으로 남성보다 약간 높습니다."
+
+#: ItemDefinitionItem.csv:229
+msgctxt "Thermometer"
+msgid "sheet|ItemDefinitionItem.csv|name_en|d9cb7b5497a3fd10e4c6293bc2060dc3"
+msgstr "온도계"
+
+#: ItemDefinitionItem.csv:228
+msgctxt "\"Breathe in—breathe out—breathe in again. Okay, next.\""
+msgid "sheet|ItemDefinitionItem.csv|desc_en|e6066bf0565411fcaeff4322612e499e"
+msgstr "\"숨을 들이쉬고... 내쉬고... 다시 들이쉬고. 네, 다음. \""
+
+#: ItemDefinitionItem.csv:228
+msgctxt "Stethoscope"
+msgid "sheet|ItemDefinitionItem.csv|name_en|38d29f33f22de8a79cc2964cc110e53d"
+msgstr "청진기"
+
+#: ItemDefinitionItem.csv:227
+msgctxt ""
+"The shoes don't count when measuring your weight, just like the way hair "
+"doesn't count when measuring your height."
+msgid "sheet|ItemDefinitionItem.csv|desc_en|b04d931f6344d024293395cfc433acb4"
+msgstr "신발 무게는 체중에 포함되지 않습니다. 참고로 머리카락 길이도 키에 포함되지 않습니다."
+
+#: ItemDefinitionItem.csv:227
+msgctxt "Weight Scale"
+msgid "sheet|ItemDefinitionItem.csv|name_en|39d11095405762ce71ffcb0b41035693"
+msgstr "체중계"
+
+#: ItemDefinitionItem.csv:175
+msgctxt "Richi Bet - Bionic Kitten"
+msgid "sheet|ItemDefinitionItem.csv|name_en|854354e7c2f1ae48c8aa53d7b60f5f94"
+msgstr "리치 봉 - 바이오닉 고양이"
+
+#: ItemDefinitionItem.csv:160
+#, fuzzy
+msgctxt "2022年3月25日5時59分まで"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|f1d894de453329a349b9a3a04b76c5c5"
+msgstr "2022年3月25日5時59分まで"
+
+#: ItemDefinitionItem.csv:159
+#, fuzzy
+msgctxt "2022-03-15 05:00:00"
+msgid ""
+"sheet|ItemDefinitionItem.csv|expire_desc_en|12e518b0ad8e0ca8b0c6a50943966955"
+msgstr "2022-03-15 05:00:00"
+
+#: ItemDefinitionItem.csv:149
+msgctxt "Riichi - Virtual Navigation"
+msgid "sheet|ItemDefinitionItem.csv|name_en|261b7403115f866ab4e9714ee9e854c9"
+msgstr "리치 - 버추얼 내비게이션"
+
+#: ItemDefinitionItem.csv:137
+msgctxt "Winning - Core Fission"
+msgid "sheet|ItemDefinitionItem.csv|name_en|bfa94f8fbd129eac513b87fe5af921eb"
+msgstr "승리 - 핵분열"
+
+#: ActivityActivity.csv:160
+msgctxt "Physical Exam Report"
+msgid "sheet|ActivityActivity.csv|name_en|1ee0fca13706b219ba1bf3c50eec54a9"
+msgstr "건강검진 결과"
+
+#: ActivityActivity.csv:159
+msgctxt "Regular Physical Exam"
+msgid "sheet|ActivityActivity.csv|name_en|db154d53e5a7bf4d2234dc0eb81a89d6"
+msgstr "정기 건강검진"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|2|9|0|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "Copy"
+msgid "json|lobby/waitingroom|1|6|0|5fb63579fc981698f97d55bfecb213ea"
+msgstr "복사"
+
+#: ui_en.json
+msgctxt "Copy the room link and send it to your friends"
+msgid "json|lobby/waitingroom|1|3|fc5094a0256ebe43eb41b7e575af6fd9"
+msgstr "방 링크를 복사해서 친구에게 보내세요"
+
+#: ui_en.json
+msgctxt "Anonymously Share"
+msgid "json|lobby/paipu|2|7|1|ba7c7953bc95b44234abb36597d65c14"
+msgstr "익명 공유"
+
+#: ui_en.json
+msgctxt "Confirm"
+msgid "json|lobby/paipu|2|4|0|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
+
+#: ui_en.json
+msgctxt "Enter Log Number"
+msgid "json|lobby/paipu|2|3|cec8c7186aa3fc2419f6f0c8956fd991"
+msgstr "로그 번호 입력"
+
+#: ui_en.json
+msgctxt "风铃"
+msgid ""
+"json|lobby/activitys/activity_task_zhongxia|0|0|3|1|14|f5656e57a0952c31933ac82c9d8ee3f5"
+msgstr "风铃"
+
+#: ui_en.json
+msgctxt "风铃"
+msgid ""
+"json|lobby/activitys/activity_task_zhongxia|0|0|2|1|14|f5656e57a0952c31933ac82c9d8ee3f5"
+msgstr "风铃"
+
+#: ui_en.json
+msgctxt "风铃"
+msgid ""
+"json|lobby/activitys/activity_task_zhongxia|0|0|1|1|14|f5656e57a0952c31933ac82c9d8ee3f5"
+msgstr "风铃"
+
+#: ui_en.json
+msgctxt "x10"
+msgid ""
+"json|lobby/activitys/activity_exchange_zhongxia|0|0|1|1|9|0|1|2040a28d572e0889b2b34e9c66814f57"
+msgstr "x10"
+
+#: ui_en.json
+msgctxt "Redeem"
+msgid ""
+"json|lobby/activitys/activity_exchange_zhongxia|0|0|1|1|9|0|0|81ed4dcb851fefbbbc791eeef4cd97a2"
+msgstr "교환"
+
+#: ui_en.json
+msgctxt "User Agreement"
+msgid "json|common/user_xieyi|0|0|3|5ac23f06000fafde2c8f7501a80ebbfe"
+msgstr "이용 약관"
+
+#: ui_en.json
+msgctxt "Message"
+msgid "json|both_ui/otherplayerinfo_en|1|7|0|4c2a8fe7eaf24721cc7a9f0175115bd4"
+msgstr "메시지"
+
+#: ui_en.json
+msgctxt "3-Player"
+msgid "json|both_ui/otherplayerinfo_en|1|6|0|493c1194804e829e28dead722b2ac772"
+msgstr "3인"
+
+#: ui_en.json
+msgctxt "4-Player"
+msgid "json|both_ui/otherplayerinfo_en|1|5|0|5dc72846529d753fec588a14a68f97f6"
+msgstr "4인"
+
+#: ui_en.json
+msgctxt "Signature"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|3|8|3|8c09001c99ecb6fdd8d6023fcf039054"
+msgstr "서명"
+
+#: ui_en.json
+msgctxt "No signature yet"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|3|8|2|92bc3e31fe25efb615f0fd161ab415c7"
+msgstr "서명 없음"
+
+#: ui_en.json
+msgctxt "All"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|3|6|1|4|0|2|b1c94ca2fbc3e78fc30069c8d0f01680"
+msgstr "전체"
+
+#: ui_en.json
+msgctxt "Recently used"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|3|6|1|4|0|0|042be00d927cff11fd00361b3dda1817"
+msgstr "최근 사용"
+
+#: ui_en.json
+msgctxt "This player only allows friends to leave messages"
+msgid "json|both_ui/otherplayerinfo_en|1|3|4|b7e757661d408865219b3bd2ae7372fc"
+msgstr "이 플레이어에게는 친구만 메시지를 전송할 수 있습니다"
+
+#: ui_en.json
+msgctxt "Send"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|3|3|0|0|94966d90747b97d1f0f206c98a8b1ac3"
+msgstr "전송"
+
+#: ui_en.json
+msgctxt "Empty"
+msgid "json|both_ui/otherplayerinfo_en|1|3|1|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
+msgstr "비어있음"
+
+#: ui_en.json
+msgctxt "Achievement:"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|8|1|085617bb032b1d34a2baf555cc8047db"
+msgstr "도전 과제:"
+
+#: ui_en.json
+msgctxt "Ranked Match"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|6|3|0|76e1ad3f9b76ba224adc3f89dc021fbe"
+msgstr "단위전"
+
+#: ui_en.json
+msgctxt "Friendly Match"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|6|2|0|e933fed1bdd6f754fb8232129c38716b"
+msgstr "친선전"
+
+#: ui_en.json
+msgctxt "Event Match"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|6|1|0|d97f31fd695c04623859aef5ff3b6f57"
+msgstr "이벤트전"
+
+#: ui_en.json
+msgctxt "No record available. Good luck!"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|8|1|2767cb7fc9c3dced54a3f30595125332"
+msgstr "기록이 없습니다. 행운을 빌어요!"
+
+#: ui_en.json
+msgctxt "Path of Trial"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|8|0|0|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
+
+#: ui_en.json
+msgctxt "Local Yaku Achieved"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|7|0|2|bf287837967c7c81eddd08da78f7d92f"
+msgstr "달성한 로컬역"
+
+#: ui_en.json
+msgctxt "Yaku Achieved"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|6|0|2|3603833487a89784c5c1e4d6d9d0206a"
+msgstr "달성한 역"
+
+#: ui_en.json
+msgctxt "Riichi Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|26|a27ffd0a6f4076f298f02add1dea77e9"
+msgstr "리치율"
+
+#: ui_en.json
+msgctxt "Call Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|24|3a4925e19e02fb44df9d672c6e0724d3"
+msgstr "후로율"
+
+#: ui_en.json
+msgctxt "Deal-in Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|22|3f2df764788280fe9aa53229fdc127fd"
+msgstr "방총률"
+
+#: ui_en.json
+msgctxt "Tsumo Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|20|f09fc617ff40790b7c0576a6c21b3bff"
+msgstr "쯔모율"
+
+#: ui_en.json
+msgctxt "Win Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
+msgstr "화료율"
+
+#: ui_en.json
+msgctxt "Avg Turns"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|16|ad2192da9ca93ed2365636871922f796"
+msgstr "평균 화료순"
+
+#: ui_en.json
+msgctxt "Max Repeats"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|14|1421256f92c4ddbfa64cace74f63aa73"
+msgstr "최대 연장"
+
+#: ui_en.json
+msgctxt "Avg Rank"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|12|78f17c40778452d853ecf5d93ef34fdd"
+msgstr "평균 순위"
+
+#: ui_en.json
+msgctxt "Avg Score"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|10|24b362a521bc6bbba7ca7f634f257cf2"
+msgstr "평균 점수"
+
+#: ui_en.json
+msgctxt "Total Played"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|8|9f489bc2f6bfada1c7495786b50c4184"
+msgstr "총 플레이 횟수"
+
+#: ui_en.json
+msgctxt "Negative"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
+msgstr "들통"
+
+#: ui_en.json
+msgctxt "4th"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
+msgstr "4위"
+
+#: ui_en.json
+msgctxt "3rd"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|4|b7b655045b89200c7a4dedb1303ca2f1"
+msgstr "3위"
+
+#: ui_en.json
+msgctxt "2nd"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
+msgstr "2위"
+
+#: ui_en.json
+msgctxt "1st"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|1|0|ec31383cc75b7ef7915803f99562cbe8"
+msgstr "1위"
+
+#: ui_en.json
+msgctxt "South Round"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|5|0|2|23a893f962bd1ba64fd3534612197997"
+msgstr "반장전"
+
+#: ui_en.json
+msgctxt "Riichi Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|26|a27ffd0a6f4076f298f02add1dea77e9"
+msgstr "리치율"
+
+#: ui_en.json
+msgctxt "Call Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|24|3a4925e19e02fb44df9d672c6e0724d3"
+msgstr "후로율"
+
+#: ui_en.json
+msgctxt "Deal-in Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|22|3f2df764788280fe9aa53229fdc127fd"
+msgstr "방총률"
+
+#: ui_en.json
+msgctxt "Tsumo Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|20|f09fc617ff40790b7c0576a6c21b3bff"
+msgstr "쯔모율"
+
+#: ui_en.json
+msgctxt "Win Rate"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
+msgstr "화료율"
+
+#: ui_en.json
+msgctxt "Avg Turns"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|16|ad2192da9ca93ed2365636871922f796"
+msgstr "평균 화료순"
+
+#: ui_en.json
+msgctxt "Max Repeats"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|14|1421256f92c4ddbfa64cace74f63aa73"
+msgstr "최대 연장"
+
+#: ui_en.json
+msgctxt "Avg Rank"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|12|78f17c40778452d853ecf5d93ef34fdd"
+msgstr "평균 순위"
+
+#: ui_en.json
+msgctxt "Avg Score"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|10|24b362a521bc6bbba7ca7f634f257cf2"
+msgstr "평균 점수"
+
+#: ui_en.json
+msgctxt "Total Played"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|8|9f489bc2f6bfada1c7495786b50c4184"
+msgstr "총 플레이 횟수"
+
+#: ui_en.json
+msgctxt "Negative"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
+msgstr "들통"
+
+#: ui_en.json
+msgctxt "4th"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
+msgstr "4위"
+
+#: ui_en.json
+msgctxt "3rd"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|4|b7b655045b89200c7a4dedb1303ca2f1"
+msgstr "3위"
+
+#: ui_en.json
+msgctxt "2nd"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
+msgstr "2위"
+
+#: ui_en.json
+msgctxt "1st"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|1|0|ec31383cc75b7ef7915803f99562cbe8"
+msgstr "1위"
+
+#: ui_en.json
+msgctxt "East Round"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|4|0|2|b854db72888d259be819bfde4fabb4e8"
+msgstr "동풍전"
+
+#: ui_en.json
+msgctxt "Detailed Info"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|3|0|0|b8a1f13f2a5318ec0079b7be00f9130b"
+msgstr "상세 정보"
+
+#: ui_en.json
+msgctxt "Trends"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|10|0|9cf69763de83f9db7f4a87c51fe6ae23"
+msgstr "트렌드"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|9|0|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "1"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|9|c4ca4238a0b923820dcc509a6f75849b"
+msgstr "1"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|8|0|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "2"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|8|c81e728d9d4c2f636f067f89cc14862c"
+msgstr "2"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|7|0|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "3"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|7|eccbc87e4b5ce2fe28308fd9f2a7baf3"
+msgstr "3"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|6|0|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "4"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|2|6|a87ff679a2f3e71d9181a67b7542122c"
+msgstr "4"
+
+#: ui_en.json
+msgctxt "Play Style"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|9|0|4c21dd25c08f117cd644b37484cb60a9"
+msgstr "플레이 경향"
+
+#: ui_en.json
+msgctxt "LUK"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|8|3|f88d79c11b5b643625fa1c5df243ccd5"
+msgstr "행운"
+
+#: ui_en.json
+msgctxt "SPD"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|8|2|ed504d8761c0f48e13d9d14e94a23627"
+msgstr "속도"
+
+#: ui_en.json
+msgctxt "DEF"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|8|1|822dd494b3e14a82aa76bd455e6b6f4b"
+msgstr "수비"
+
+#: ui_en.json
+msgctxt "ATK"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|8|0|96cc5c725ae8f5ccb76056b7d12ed095"
+msgstr "공격"
+
+#: ui_en.json
+msgctxt "LUK"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|6|f88d79c11b5b643625fa1c5df243ccd5"
+msgstr "행운"
+
+#: ui_en.json
+msgctxt "SPD"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|4|ed504d8761c0f48e13d9d14e94a23627"
+msgstr "속도"
+
+#: ui_en.json
+msgctxt "DEF"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|2|822dd494b3e14a82aa76bd455e6b6f4b"
+msgstr "수비"
+
+#: ui_en.json
+msgctxt "ATK"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|1|0|96cc5c725ae8f5ccb76056b7d12ed095"
+msgstr "공격"
+
+#: ui_en.json
+msgctxt "No record available. Good luck!"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|0|3|2767cb7fc9c3dced54a3f30595125332"
+msgstr "기록이 없습니다. 행운을 빌어요!"
+
+#: ui_en.json
+msgctxt "Recent High Score"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|5|1|0|0|0|fee382ba20496eafced1bc721b85304c"
+msgstr "최근 고득점"
+
+#: ui_en.json
+msgctxt "/"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|4|5|2|6666cd76f96956469e7be39d750cc7d9"
+msgstr "/"
+
+#: ui_en.json
+msgctxt "Add"
+msgid ""
+"json|both_ui/otherplayerinfo_en|1|2|1|1|ec211f7c20af43e742bf2570c3cb84f9"
+msgstr "추가"
+
+#: ui_en.json
+msgctxt "Message"
+msgid "json|both_ui/otherplayerinfo|1|7|0|4c2a8fe7eaf24721cc7a9f0175115bd4"
+msgstr "메시지"
+
+#: ui_en.json
+msgctxt "3-Player"
+msgid "json|both_ui/otherplayerinfo|1|6|0|493c1194804e829e28dead722b2ac772"
+msgstr "3인"
+
+#: ui_en.json
+msgctxt "4-Player"
+msgid "json|both_ui/otherplayerinfo|1|5|0|5dc72846529d753fec588a14a68f97f6"
+msgstr "4인"
+
+#: ui_en.json
+msgctxt "Signature"
+msgid "json|both_ui/otherplayerinfo|1|3|8|3|8c09001c99ecb6fdd8d6023fcf039054"
+msgstr "서명"
+
+#: ui_en.json
+msgctxt "No signature yet"
+msgid "json|both_ui/otherplayerinfo|1|3|8|2|92bc3e31fe25efb615f0fd161ab415c7"
+msgstr "서명 없음"
+
+#: ui_en.json
+msgctxt "All"
+msgid ""
+"json|both_ui/otherplayerinfo|1|3|6|1|4|0|2|b1c94ca2fbc3e78fc30069c8d0f01680"
+msgstr "전체"
+
+#: ui_en.json
+msgctxt "Recently used"
+msgid ""
+"json|both_ui/otherplayerinfo|1|3|6|1|4|0|0|042be00d927cff11fd00361b3dda1817"
+msgstr "최근 사용"
+
+#: ui_en.json
+msgctxt "This player only allows friends to leave messages"
+msgid "json|both_ui/otherplayerinfo|1|3|4|b7e757661d408865219b3bd2ae7372fc"
+msgstr "이 플레이어에게는 친구만 메시지를 전송할 수 있습니다"
+
+#: ui_en.json
+msgctxt "Send"
+msgid ""
+"json|both_ui/otherplayerinfo|1|3|3|0|0|94966d90747b97d1f0f206c98a8b1ac3"
+msgstr "전송"
+
+#: ui_en.json
+msgctxt "Empty"
+msgid "json|both_ui/otherplayerinfo|1|3|1|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
+msgstr "비어있음"
+
+#: ui_en.json
+msgctxt "Achievement:"
+msgid "json|both_ui/otherplayerinfo|1|2|8|1|085617bb032b1d34a2baf555cc8047db"
+msgstr "도전 과제:"
+
+#: ui_en.json
+msgctxt "No record available. Good luck!"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|8|1|2767cb7fc9c3dced54a3f30595125332"
+msgstr "기록이 없습니다. 행운을 빌어요!"
+
+#: ui_en.json
+msgctxt "Path of Trial"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|8|0|0|c018f58f4c2074df948bc2e872faa998"
+msgstr "시련의 길"
+
+#: ui_en.json
+msgctxt "Local Yaku Achieved"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|7|0|2|bf287837967c7c81eddd08da78f7d92f"
+msgstr "달성한 로컬역"
+
+#: ui_en.json
+msgctxt "Yaku Achieved"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|6|0|2|3603833487a89784c5c1e4d6d9d0206a"
+msgstr "달성한 역"
+
+#: ui_en.json
+msgctxt "Riichi Rate"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|26|a27ffd0a6f4076f298f02add1dea77e9"
+msgstr "리치율"
+
+#: ui_en.json
+msgctxt "Call Rate"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|24|3a4925e19e02fb44df9d672c6e0724d3"
+msgstr "후로율"
+
+#: ui_en.json
+msgctxt "Deal-in Rate"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|22|3f2df764788280fe9aa53229fdc127fd"
+msgstr "방총률"
+
+#: ui_en.json
+msgctxt "Tsumo Rate"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|20|f09fc617ff40790b7c0576a6c21b3bff"
+msgstr "쯔모율"
+
+#: ui_en.json
+msgctxt "Win Rate"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
+msgstr "화료율"
+
+#: ui_en.json
+msgctxt "Avg Turns"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|16|ad2192da9ca93ed2365636871922f796"
+msgstr "평균 화료순"
+
+#: ui_en.json
+msgctxt "Max Repeats"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|14|1421256f92c4ddbfa64cace74f63aa73"
+msgstr "최대 연장"
+
+#: ui_en.json
+msgctxt "Avg Rank"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|12|78f17c40778452d853ecf5d93ef34fdd"
+msgstr "평균 순위"
+
+#: ui_en.json
+msgctxt "Avg Score"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|10|24b362a521bc6bbba7ca7f634f257cf2"
+msgstr "평균 점수"
+
+#: ui_en.json
+msgctxt "Total Played"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|8|9f489bc2f6bfada1c7495786b50c4184"
+msgstr "총 플레이 횟수"
+
+#: ui_en.json
+msgctxt "Negative"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
+msgstr "들통"
+
+#: ui_en.json
+msgctxt "4th"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
+msgstr "4위"
+
+#: ui_en.json
+msgctxt "3rd"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|4|b7b655045b89200c7a4dedb1303ca2f1"
+msgstr "3위"
+
+#: ui_en.json
+msgctxt "2nd"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
+msgstr "2위"
+
+#: ui_en.json
+msgctxt "1st"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|1|0|ec31383cc75b7ef7915803f99562cbe8"
+msgstr "1위"
+
+#: ui_en.json
+msgctxt "South Round"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|5|0|2|23a893f962bd1ba64fd3534612197997"
+msgstr "반장전"
+
+#: ui_en.json
+msgctxt "Riichi Rate"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|26|a27ffd0a6f4076f298f02add1dea77e9"
+msgstr "리치율"
+
+#: ui_en.json
+msgctxt "Call Rate"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|24|3a4925e19e02fb44df9d672c6e0724d3"
+msgstr "후로율"
+
+#: ui_en.json
+msgctxt "Deal-in Rate"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|22|3f2df764788280fe9aa53229fdc127fd"
+msgstr "방총률"
+
+#: ui_en.json
+msgctxt "Tsumo Rate"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|20|f09fc617ff40790b7c0576a6c21b3bff"
+msgstr "쯔모율"
+
+#: ui_en.json
+msgctxt "Win Rate"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
+msgstr "화료율"
+
+#: ui_en.json
+msgctxt "Avg Turns"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|16|ad2192da9ca93ed2365636871922f796"
+msgstr "평균 화료순"
+
+#: ui_en.json
+msgctxt "Max Repeats"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|14|1421256f92c4ddbfa64cace74f63aa73"
+msgstr "최대 연장"
+
+#: ui_en.json
+msgctxt "Avg Rank"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|12|78f17c40778452d853ecf5d93ef34fdd"
+msgstr "평균 순위"
+
+#: ui_en.json
+msgctxt "Avg Score"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|10|24b362a521bc6bbba7ca7f634f257cf2"
+msgstr "평균 점수"
+
+#: ui_en.json
+msgctxt "Total Played"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|8|9f489bc2f6bfada1c7495786b50c4184"
+msgstr "총 플레이 횟수"
+
+#: ui_en.json
+msgctxt "Negative"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|7|0|ffb9356ff2b7da85c75c92fa7ea03b8b"
+msgstr "들통"
+
+#: ui_en.json
+msgctxt "4th"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|6|0|534810343c47f3c4ae1969bff1d4a5bc"
+msgstr "4위"
+
+#: ui_en.json
+msgctxt "3rd"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|4|b7b655045b89200c7a4dedb1303ca2f1"
+msgstr "3위"
+
+#: ui_en.json
+msgctxt "2nd"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|2|9d5f1209e8ed0e9c93f363bc81f7272c"
+msgstr "2위"
+
+#: ui_en.json
+msgctxt "1st"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|1|0|ec31383cc75b7ef7915803f99562cbe8"
+msgstr "1위"
+
+#: ui_en.json
+msgctxt "East Round"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|4|0|2|b854db72888d259be819bfde4fabb4e8"
+msgstr "동풍전"
+
+#: ui_en.json
+msgctxt "Detailed Info"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|3|0|0|b8a1f13f2a5318ec0079b7be00f9130b"
+msgstr "상세 정보"
+
+#: ui_en.json
+msgctxt "Trends"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|2|10|0|9cf69763de83f9db7f4a87c51fe6ae23"
+msgstr "트렌드"
+
+#: ui_en.json
+msgctxt "1"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|2|9|c4ca4238a0b923820dcc509a6f75849b"
+msgstr "1"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|2|8|0|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "2"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|2|8|c81e728d9d4c2f636f067f89cc14862c"
+msgstr "2"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|2|7|0|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "3"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|2|7|eccbc87e4b5ce2fe28308fd9f2a7baf3"
+msgstr "3"
+
+#: ui_en.json
+msgctxt "Rank"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|2|6|0|021da1b20f73dc252361a54d80497ef3"
+msgstr "순위"
+
+#: ui_en.json
+msgctxt "4"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|2|6|a87ff679a2f3e71d9181a67b7542122c"
+msgstr "4"
+
+#: ui_en.json
+msgctxt "Play Style"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|1|9|0|4c21dd25c08f117cd644b37484cb60a9"
+msgstr "플레이 경향"
+
+#: ui_en.json
+msgctxt "LUK"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|1|8|3|f88d79c11b5b643625fa1c5df243ccd5"
+msgstr "행운"
+
+#: ui_en.json
+msgctxt "SPD"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|1|8|2|ed504d8761c0f48e13d9d14e94a23627"
+msgstr "속도"
+
+#: ui_en.json
+msgctxt "DEF"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|1|8|1|822dd494b3e14a82aa76bd455e6b6f4b"
+msgstr "수비"
+
+#: ui_en.json
+msgctxt "ATK"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|1|8|0|96cc5c725ae8f5ccb76056b7d12ed095"
+msgstr "공격"
+
+#: ui_en.json
+msgctxt "LUK"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|1|6|f88d79c11b5b643625fa1c5df243ccd5"
+msgstr "행운"
+
+#: ui_en.json
+msgctxt "SPD"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|1|4|ed504d8761c0f48e13d9d14e94a23627"
+msgstr "속도"
+
+#: ui_en.json
+msgctxt "DEF"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|1|2|822dd494b3e14a82aa76bd455e6b6f4b"
+msgstr "수비"
+
+#: ui_en.json
+msgctxt "ATK"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|1|0|96cc5c725ae8f5ccb76056b7d12ed095"
+msgstr "공격"
+
+#: ui_en.json
+msgctxt "No record available. Good luck!"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|0|3|2767cb7fc9c3dced54a3f30595125332"
+msgstr "기록이 없습니다. 행운을 빌어요!"
+
+#: ui_en.json
+msgctxt "Recent High Score"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|6|1|0|0|0|fee382ba20496eafced1bc721b85304c"
+msgstr "최근 고득점"
+
+#: ui_en.json
+msgctxt "Ranked Match"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|5|3|0|76e1ad3f9b76ba224adc3f89dc021fbe"
+msgstr "단위전"
+
+#: ui_en.json
+msgctxt "Friendly Match"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|5|2|0|e933fed1bdd6f754fb8232129c38716b"
+msgstr "친선전"
+
+#: ui_en.json
+msgctxt "Event Match"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|5|1|0|d97f31fd695c04623859aef5ff3b6f57"
+msgstr "이벤트전"
+
+#: ui_en.json
+msgctxt "/"
+msgid ""
+"json|both_ui/otherplayerinfo|1|2|4|5|2|6666cd76f96956469e7be39d750cc7d9"
+msgstr "/"
+
+#: ui_en.json
+msgctxt "Add"
+msgid "json|both_ui/otherplayerinfo|1|2|1|1|ec211f7c20af43e742bf2570c3cb84f9"
+msgstr "추가"
+
+#: yiji/100004_en.bytes:1
+msgctxt "     \n"
+msgid ""
+"bytes|yiji/100004_en.bytes|yiji/100004|0|3d2a1d259f128201c1185efc7b92c7b3"
+msgstr ""
+
+#: lianggong/210006_en.bytes:172
+msgctxt "\n"
+msgid ""
+"bytes|lianggong/210006_en.bytes|lianggong/210006|232|68b329da9893e34099c7d8ad5cb9c940"
+msgstr ""
+
+#: lianggong/210006_en.bytes:171
+msgctxt "\n"
+msgid ""
+"bytes|lianggong/210006_en.bytes|lianggong/210006|231|68b329da9893e34099c7d8ad5cb9c940"
+msgstr ""
+
+#: lianggong/210004_en.bytes:29
+msgctxt "\n"
+msgid ""
+"bytes|lianggong/210004_en.bytes|lianggong/210004|290|68b329da9893e34099c7d8ad5cb9c940"
+msgstr ""
+
+#: lianggong/210004_en.bytes:9
+#, fuzzy
+msgctxt "\n"
+msgid ""
+"bytes|lianggong/210004_en.bytes|lianggong/210004|16|68b329da9893e34099c7d8ad5cb9c940"
+msgstr ""
+
+#: erjietang/200006_en.bytes:22
+#, fuzzy
+msgctxt "\n"
+msgid ""
+"bytes|erjietang/200006_en.bytes|erjietang/200006|152|68b329da9893e34099c7d8ad5cb9c940"
+msgstr ""
