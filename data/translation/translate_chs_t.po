@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-22 00:34:19\n"
+"PO-Revision-Date: 2021-04-22 03:17:53\n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -46846,13 +46846,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/yiji/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:116
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/yiji/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:117
 msgctxt "Pure Triplets"
@@ -46918,13 +46918,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/yiji/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:122
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/yiji/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:123
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -48438,13 +48438,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/erjietang/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:245
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/erjietang/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:246
 msgctxt "Pure Triplets"
@@ -48510,13 +48510,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/erjietang/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:251
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/erjietang/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:252
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -50018,13 +50018,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/jianai/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:374
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/jianai/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:375
 msgctxt "Pure Triplets"
@@ -50090,13 +50090,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/jianai/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:380
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/jianai/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:381
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -51616,13 +51616,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/qianzhi/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:503
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/qianzhi/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:504
 msgctxt "Pure Triplets"
@@ -51688,13 +51688,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/qianzhi/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:509
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/qianzhi/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:510
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -53205,13 +53205,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/xiangyuan/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:632
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/xiangyuan/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:633
 msgctxt "Pure Triplets"
@@ -53277,13 +53277,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/xiangyuan/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:638
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/xiangyuan/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:639
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -54789,13 +54789,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/fuzi/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:761
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/fuzi/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:762
 msgctxt "Pure Triplets"
@@ -54861,13 +54861,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/fuzi/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:767
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/fuzi/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:768
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -56352,13 +56352,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/bamuwei/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:890
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/bamuwei/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:891
 msgctxt "Pure Triplets"
@@ -56424,13 +56424,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/bamuwei/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:896
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/bamuwei/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:897
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -57929,13 +57929,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/jiutiao/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1019
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/jiutiao/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1020
 msgctxt "Pure Triplets"
@@ -58001,13 +58001,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/jiutiao/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1025
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/jiutiao/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1026
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -59518,13 +59518,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/zeniya/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1148
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/zeniya/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1149
 msgctxt "Pure Triplets"
@@ -59590,13 +59590,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/zeniya/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1154
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/zeniya/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1155
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -61102,13 +61102,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/kawei/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1277
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/kawei/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1278
 msgctxt "Pure Triplets"
@@ -61174,13 +61174,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/kawei/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1283
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/kawei/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1284
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -62689,13 +62689,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/sigongxiasheng/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1406
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/sigongxiasheng/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1407
 msgctxt "Pure Triplets"
@@ -62761,13 +62761,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/sigongxiasheng/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1412
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/sigongxiasheng/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1413
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -64267,13 +64267,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/wangcilang/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1535
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/wangcilang/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1536
 msgctxt "Pure Triplets"
@@ -64339,13 +64339,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/wangcilang/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1541
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/wangcilang/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1542
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -65875,13 +65875,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/yizhilaikong/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1664
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/yizhilaikong/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1665
 msgctxt "Pure Triplets"
@@ -65947,13 +65947,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/yizhilaikong/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1670
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/yizhilaikong/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1671
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -67467,13 +67467,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/mingzhiyingshu/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1793
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/mingzhiyingshu/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1794
 msgctxt "Pure Triplets"
@@ -67539,13 +67539,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/mingzhiyingshu/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1799
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/mingzhiyingshu/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1800
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -69033,13 +69033,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/qingkuniang/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1922
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/qingkuniang/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:1923
 msgctxt "Pure Triplets"
@@ -69105,13 +69105,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/qingkuniang/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1928
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/qingkuniang/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:1929
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -70629,13 +70629,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/shala/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2051
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shala/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2052
 msgctxt "Pure Triplets"
@@ -70701,13 +70701,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/shala/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2057
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shala/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2058
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -72220,13 +72220,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/erzhigonghua/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2180
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/erzhigonghua/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2181
 msgctxt "Pure Triplets"
@@ -72292,13 +72292,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/erzhigonghua/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2186
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/erzhigonghua/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2187
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -73829,13 +73829,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/baishinainai/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2309
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/baishinainai/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2310
 msgctxt "Pure Triplets"
@@ -73901,13 +73901,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/baishinainai/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2315
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/baishinainai/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2316
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -75433,13 +75433,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/xiaoniaoyouchutian/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2438
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/xiaoniaoyouchutian/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2439
 msgctxt "Pure Triplets"
@@ -75505,13 +75505,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/xiaoniaoyouchutian/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2444
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/xiaoniaoyouchutian/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2445
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -75965,7 +75965,7 @@ msgctxt ""
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/wushilanyangcai/lobby_manjiban)|86c324aa950ae3c20e0ecf00fc3c14fa"
 msgstr ""
-"今後，也會一直陪陽菜玩嗎？真的嗎？那，打鉤鉤！打鉤鉤就不能反悔了！打鉤鉤、拉鉤鉤、說謊的人要吞一千根針……嗚哇！好可怕，果然吞千針還是不要了！"
+"今後，也會一直陪陽菜玩嗎？真的嗎？那，打鈎鈎！打鈎鈎就不能反悔了！打鈎鈎、拉鈎鈎、說謊的人要吞一千根針……嗚哇！好可怕，果然吞千針還是不要了！"
 
 #: VoiceSound.csv:2480
 msgctxt "Bond"
@@ -77021,13 +77021,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/wushilanyangcai/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2567
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/wushilanyangcai/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2568
 msgctxt "Pure Triplets"
@@ -77093,13 +77093,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/wushilanyangcai/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2573
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/wushilanyangcai/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2574
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -78665,13 +78665,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/lianggongxingshu/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2696
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/lianggongxingshu/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2697
 msgctxt "Pure Triplets"
@@ -78737,13 +78737,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/lianggongxingshu/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2702
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/lianggongxingshu/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2703
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -80253,13 +80253,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/yuesefu/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2825
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/yuesefu/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2826
 msgctxt "Pure Triplets"
@@ -80325,13 +80325,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/yuesefu/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2831
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/yuesefu/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2832
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -81870,13 +81870,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/zhaitengzhi/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2954
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/zhaitengzhi/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:2955
 msgctxt "Pure Triplets"
@@ -81942,13 +81942,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/zhaitengzhi/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2960
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/zhaitengzhi/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:2961
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -83498,13 +83498,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/beijianshahezi/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3083
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/beijianshahezi/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3084
 msgctxt "Pure Triplets"
@@ -83570,13 +83570,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/beijianshahezi/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3089
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/beijianshahezi/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3090
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -85088,13 +85088,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/aiyin/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3212
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/aiyin/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3213
 msgctxt "Pure Triplets"
@@ -85160,13 +85160,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/aiyin/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3218
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/aiyin/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3219
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -85250,7 +85250,7 @@ msgstr "特殊語音 - 役滿聽牌"
 msgctxt "Oh! Great. Now let me see who falls for this."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/aiyin/ingame_yiman)|00cf7ee1d3f2852f6bfe2601792127b9"
-msgstr "哦！好極了，再來就是看看誰會上鉤了。"
+msgstr "哦！好極了，再來就是看看誰會上鈎了。"
 
 #: VoiceSound.csv:3226
 msgctxt "SP - Tenpai with Baiman/Sanbaiman"
@@ -86715,13 +86715,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/chutao/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3341
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/chutao/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3342
 msgctxt "Pure Triplets"
@@ -86787,13 +86787,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/chutao/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3347
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/chutao/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3348
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -88338,13 +88338,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/yuejianshan/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3470
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/yuejianshan/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3471
 msgctxt "Pure Triplets"
@@ -88410,13 +88410,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/yuejianshan/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3476
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/yuejianshan/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3477
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -89949,13 +89949,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/tengbenqiluo/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3599
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/tengbenqiluo/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3600
 msgctxt "Pure Triplets"
@@ -90021,13 +90021,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/tengbenqiluo/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3605
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/tengbenqiluo/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3606
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -91583,13 +91583,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/huiyeji/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3728
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/huiyeji/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3729
 msgctxt "Pure Triplets"
@@ -91655,13 +91655,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/huiyeji/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3734
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/huiyeji/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3735
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -93216,13 +93216,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/ruyuelian/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3857
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/ruyuelian/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3858
 msgctxt "Pure Triplets"
@@ -93288,13 +93288,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/ruyuelian/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3863
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/ruyuelian/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3864
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -94827,13 +94827,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/shiyuanduihai/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3986
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shiyuanduihai/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:3987
 msgctxt "Pure Triplets"
@@ -94899,13 +94899,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/shiyuanduihai/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3992
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shiyuanduihai/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:3993
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -96444,13 +96444,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/ailisha/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4115
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/ailisha/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4116
 msgctxt "Pure Triplets"
@@ -96516,13 +96516,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/ailisha/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4121
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/ailisha/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4122
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -98058,13 +98058,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/siqiqiansuili/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4244
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/siqiqiansuili/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4245
 msgctxt "Pure Triplets"
@@ -98130,13 +98130,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/siqiqiansuili/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4250
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/siqiqiansuili/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4251
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -99590,7 +99590,7 @@ msgstr "四槓流局"
 msgctxt "Four-kan… Abortive Draw."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/gongyongxiao/gameend_sigangliuju)|19961951a539e23baa97c9ff622ab7d1"
-msgstr "四杠……流局"
+msgstr "四槓……流局"
 
 #: VoiceSound.csv:4369
 msgctxt "Nine Different Terminals and Honors"
@@ -99644,13 +99644,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/gongyongxiao/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4373
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/gongyongxiao/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4374
 msgctxt "Pure Triplets"
@@ -99716,13 +99716,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/gongyongxiao/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4379
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/gongyongxiao/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4380
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -101186,7 +101186,7 @@ msgstr "四槓流局"
 msgctxt "Four-kan Abortive Draw."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/yuancunhe/gameend_sigangliuju)|8c92671c53cde67a38d7a10dc8890fed"
-msgstr "四杠流局"
+msgstr "四槓流局"
 
 #: VoiceSound.csv:4498
 msgctxt "Nine Different Terminals and Honors"
@@ -101240,13 +101240,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/yuancunhe/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4502
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/yuancunhe/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4503
 msgctxt "Pure Triplets"
@@ -101312,13 +101312,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/yuancunhe/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4508
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/yuancunhe/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4509
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -102784,7 +102784,7 @@ msgstr "四槓流局"
 msgctxt "Four-kan Abortive Draw."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/tianjiangyi/gameend_sigangliuju)|8c92671c53cde67a38d7a10dc8890fed"
-msgstr "四杠流局"
+msgstr "四槓流局"
 
 #: VoiceSound.csv:4627
 msgctxt "Nine Different Terminals and Honors"
@@ -102838,13 +102838,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/tianjiangyi/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4631
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/tianjiangyi/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4632
 msgctxt "Pure Triplets"
@@ -102910,13 +102910,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/tianjiangyi/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4637
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/tianjiangyi/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4638
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -104366,7 +104366,7 @@ msgstr "四槓流局"
 msgctxt "Four-kan Abortive Draw."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/gongyongzhao/gameend_sigangliuju)|8c92671c53cde67a38d7a10dc8890fed"
-msgstr "四杠流局。"
+msgstr "四槓流局。"
 
 #: VoiceSound.csv:4756
 msgctxt "Nine Different Terminals and Honors"
@@ -104420,13 +104420,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/gongyongzhao/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4760
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/gongyongzhao/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4761
 msgctxt "Pure Triplets"
@@ -104492,13 +104492,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/gongyongzhao/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4766
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/gongyongzhao/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4767
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -106001,7 +106001,7 @@ msgstr "四槓流局"
 msgctxt "Four-kan Abortive Draw."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/fuji/gameend_sigangliuju)|8c92671c53cde67a38d7a10dc8890fed"
-msgstr "四杠流局。"
+msgstr "四槓流局。"
 
 #: VoiceSound.csv:4885
 msgctxt "Nine Different Terminals and Honors"
@@ -106055,13 +106055,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/fuji/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4889
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/fuji/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:4890
 msgctxt "Pure Triplets"
@@ -106127,13 +106127,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/fuji/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4895
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/fuji/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:4896
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -106290,7 +106290,7 @@ msgstr "槓"
 msgctxt "Kan"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/qixi/act_kan)|f60e8dbbc0c325f558c189cc9c7c3e06"
-msgstr "杠"
+msgstr "槓"
 
 #: VoiceSound.csv:4909
 msgctxt "Kita"
@@ -107619,7 +107619,7 @@ msgstr "四槓流局"
 msgctxt "Four-kan Abortive Draw."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/qixi/gameend_sigangliuju)|8c92671c53cde67a38d7a10dc8890fed"
-msgstr "四杠流局。"
+msgstr "四槓流局。"
 
 #: VoiceSound.csv:5014
 msgctxt "Nine Different Terminals and Honors"
@@ -107673,13 +107673,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/qixi/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:5018
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/qixi/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:5019
 msgctxt "Pure Triplets"
@@ -107745,13 +107745,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/qixi/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:5024
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/qixi/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:5025
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -107908,7 +107908,7 @@ msgstr "槓"
 msgctxt "Kan."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shecan/act_kan)|f33738409c9d0c793af67762dba38178"
-msgstr "杠"
+msgstr "槓"
 
 #: VoiceSound.csv:5038
 msgctxt "Kita"
@@ -109214,7 +109214,7 @@ msgstr "四槓流局"
 msgctxt "Four-kan Abortive Draw."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shecan/gameend_sigangliuju)|8c92671c53cde67a38d7a10dc8890fed"
-msgstr "四杠流局"
+msgstr "四槓流局"
 
 #: VoiceSound.csv:5143
 msgctxt "Nine Different Terminals and Honors"
@@ -109232,7 +109232,7 @@ msgstr "九種九牌"
 msgctxt "Dealing into Win after Kan"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/shecan/extra/scfan_lingshangfangchong)|4cce2d5d267ae6a432b0b8c9f9f5f0d1"
-msgstr "杠上炮"
+msgstr "槓上炮"
 
 #: VoiceSound.csv:5144
 msgctxt "Dealing into Win after Kan"
@@ -109268,13 +109268,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/shecan/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:5147
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shecan/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:5148
 msgctxt "Pure Triplets"
@@ -109340,13 +109340,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/shecan/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:5153
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shecan/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:5154
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -109502,7 +109502,7 @@ msgstr "槓"
 msgctxt "Kan."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/zaoyinv/act_kan)|f33738409c9d0c793af67762dba38178"
-msgstr "杠"
+msgstr "槓"
 
 #: VoiceSound.csv:5167
 msgctxt "Kita"
@@ -110804,7 +110804,7 @@ msgstr "四槓流局"
 msgctxt "Four-kan Abortive Draw."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/zaoyinv/gameend_sigangliuju)|8c92671c53cde67a38d7a10dc8890fed"
-msgstr "四杠流局"
+msgstr "四槓流局"
 
 #: VoiceSound.csv:5272
 msgctxt "Nine Different Terminals and Honors"
@@ -110822,7 +110822,7 @@ msgstr "九種九牌"
 msgctxt "Dealing into Win after Kan"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/zaoyinv/extra/scfan_lingshangfangchong)|4cce2d5d267ae6a432b0b8c9f9f5f0d1"
-msgstr "杠上炮"
+msgstr "槓上炮"
 
 #: VoiceSound.csv:5273
 msgctxt "Dealing into Win after Kan"
@@ -110858,13 +110858,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/zaoyinv/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:5276
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/zaoyinv/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:5277
 msgctxt "Pure Triplets"
@@ -110930,13 +110930,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/zaoyinv/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:5282
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/zaoyinv/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:5283
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -111092,7 +111092,7 @@ msgstr "槓"
 msgctxt "Kan."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shengzhimo/act_kan)|f33738409c9d0c793af67762dba38178"
-msgstr "杠"
+msgstr "槓"
 
 #: VoiceSound.csv:5296
 msgctxt "Kita"
@@ -112398,7 +112398,7 @@ msgstr "四槓流局"
 msgctxt "Four-kan Abortive Draw."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shengzhimo/gameend_sigangliuju)|8c92671c53cde67a38d7a10dc8890fed"
-msgstr "四杠流局"
+msgstr "四槓流局"
 
 #: VoiceSound.csv:5401
 msgctxt "Nine Different Terminals and Honors"
@@ -112416,7 +112416,7 @@ msgstr "九種九牌"
 msgctxt "Dealing into Win after Kan"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/shengzhimo/extra/scfan_lingshangfangchong)|4cce2d5d267ae6a432b0b8c9f9f5f0d1"
-msgstr "杠上炮"
+msgstr "槓上炮"
 
 #: VoiceSound.csv:5402
 msgctxt "Dealing into Win after Kan"
@@ -112452,13 +112452,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/shengzhimo/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:5405
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shengzhimo/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:5406
 msgctxt "Pure Triplets"
@@ -112524,13 +112524,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/shengzhimo/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:5411
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shengzhimo/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:5412
 msgctxt "Pure Seven Pairs with One Duplicate"
@@ -112686,7 +112686,7 @@ msgstr "槓"
 msgctxt "Kan."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/taocan/act_kan)|f33738409c9d0c793af67762dba38178"
-msgstr "杠"
+msgstr "槓"
 
 #: VoiceSound.csv:5425
 msgctxt "Kita"
@@ -113991,7 +113991,7 @@ msgstr "四槓流局"
 msgctxt "Four-kan Abortive Draw."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/taocan/gameend_sigangliuju)|8c92671c53cde67a38d7a10dc8890fed"
-msgstr "四杠流局"
+msgstr "四槓流局"
 
 #: VoiceSound.csv:5530
 msgctxt "Nine Different Terminals and Honors"
@@ -114009,7 +114009,7 @@ msgstr "九種九牌"
 msgctxt "Dealing into Win after Kan"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/taocan/extra/scfan_lingshangfangchong)|4cce2d5d267ae6a432b0b8c9f9f5f0d1"
-msgstr "杠上炮"
+msgstr "槓上炮"
 
 #: VoiceSound.csv:5531
 msgctxt "Dealing into Win after Kan"
@@ -114045,13 +114045,13 @@ msgstr "帶么九"
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/taocan/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:5534
 msgctxt "Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/taocan/extra/scfan_jingoudiao)|ec62e099bd474fe3666a6ac006084282"
-msgstr "金鉤釣"
+msgstr "金鈎釣"
 
 #: VoiceSound.csv:5535
 msgctxt "Pure Triplets"
@@ -114117,13 +114117,13 @@ msgstr "清么九"
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/taocan/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:5540
 msgctxt "Pure Single Wait after 4 Triplets"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/taocan/extra/scfan_qingjindoudiao)|ea3dee7a865c3ed3932841a98d7ff5ae"
-msgstr "清金鉤釣"
+msgstr "清金鈎釣"
 
 #: VoiceSound.csv:5541
 msgctxt "Pure Seven Pairs with One Duplicate"
