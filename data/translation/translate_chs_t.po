@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-22 03:17:53\n"
+"PO-Revision-Date: 2021-04-22 06:13:30\n"
 "Language: zh-TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -593,9 +593,9 @@ msgid ""
 msgstr "/"
 
 #: ui_chs_t.json
-msgctxt "Event Match"
+msgctxt "Others"
 msgid ""
-"json|both_ui/otherplayerinfo|1|2|5|1|0|d97f31fd695c04623859aef5ff3b6f57"
+"json|both_ui/otherplayerinfo|1|2|5|1|0|52ef9633d88a7480b3a938ff9eaa2a25"
 msgstr "活動場"
 
 #: ui_chs_t.json
@@ -1365,9 +1365,9 @@ msgid ""
 msgstr "暫無記錄，請加油"
 
 #: ui_chs_t.json
-msgctxt "Event Match"
+msgctxt "Others"
 msgid ""
-"json|both_ui/otherplayerinfo_en|1|2|6|1|0|d97f31fd695c04623859aef5ff3b6f57"
+"json|both_ui/otherplayerinfo_en|1|2|6|1|0|52ef9633d88a7480b3a938ff9eaa2a25"
 msgstr "活動場"
 
 #: ui_chs_t.json
@@ -5754,8 +5754,8 @@ msgid "json|lobby/playerinfo|1|5|3|1|23a0ca84a7fd64eee8248bd1dfc77185"
 msgstr "更改暱稱"
 
 #: ui_chs_t.json
-msgctxt "Event Match"
-msgid "json|lobby/playerinfo|1|5|6|1|0|d97f31fd695c04623859aef5ff3b6f57"
+msgctxt "Others"
+msgid "json|lobby/playerinfo|1|5|6|1|0|52ef9633d88a7480b3a938ff9eaa2a25"
 msgstr "活動場"
 
 #: ui_chs_t.json
@@ -6110,8 +6110,8 @@ msgid "json|lobby/playerinfo_en|1|5|3|1|23a0ca84a7fd64eee8248bd1dfc77185"
 msgstr "更改暱稱"
 
 #: ui_chs_t.json
-msgctxt "Event Match"
-msgid "json|lobby/playerinfo_en|1|5|6|1|0|d97f31fd695c04623859aef5ff3b6f57"
+msgctxt "Others"
+msgid "json|lobby/playerinfo_en|1|5|6|1|0|52ef9633d88a7480b3a938ff9eaa2a25"
 msgstr "活動場"
 
 #: ui_chs_t.json
@@ -40492,10 +40492,10 @@ msgctxt "Forbid all"
 msgid "sheet|StrStr.csv|en|db0344d44a8b07702f310ce26eb2aa91"
 msgstr "禁止所有留言"
 
-#: StrStr.csv:311
+#: StrStr.csv:1284
 msgctxt "Others"
 msgid "sheet|StrStr.csv|en|52ef9633d88a7480b3a938ff9eaa2a25"
-msgstr "其他"
+msgstr "活動場"
 
 #: StrStr.csv:312
 msgctxt "High FPS mode"
@@ -44666,11 +44666,6 @@ msgstr "跳過"
 msgctxt "Got it"
 msgid "sheet|StrStr.csv|en|78e981599281c16fe016b55b136edf5f"
 msgstr "我知道啦"
-
-#: StrStr.csv:1284
-msgctxt "Event Match"
-msgid "sheet|StrStr.csv|en|d97f31fd695c04623859aef5ff3b6f57"
-msgstr "活動場"
 
 #: StrStr.csv:1285
 msgctxt "RECOM"

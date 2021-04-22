@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-22 03:17:53\n"
+"PO-Revision-Date: 2021-04-22 06:13:30\n"
 "Language: jp\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -528,9 +528,9 @@ msgid ""
 msgstr "/"
 
 #: ui_jp.json
-msgctxt "Event Match"
+msgctxt "Others"
 msgid ""
-"json|both_ui/otherplayerinfo|1|2|5|1|0|d97f31fd695c04623859aef5ff3b6f57"
+"json|both_ui/otherplayerinfo|1|2|5|1|0|52ef9633d88a7480b3a938ff9eaa2a25"
 msgstr "その他"
 
 #: ui_jp.json
@@ -1300,9 +1300,9 @@ msgid ""
 msgstr "まだありません"
 
 #: ui_jp.json
-msgctxt "Event Match"
+msgctxt "Others"
 msgid ""
-"json|both_ui/otherplayerinfo_en|1|2|6|1|0|d97f31fd695c04623859aef5ff3b6f57"
+"json|both_ui/otherplayerinfo_en|1|2|6|1|0|52ef9633d88a7480b3a938ff9eaa2a25"
 msgstr "その他"
 
 #: ui_jp.json
@@ -5490,8 +5490,8 @@ msgid "json|lobby/playerinfo|1|5|3|1|23a0ca84a7fd64eee8248bd1dfc77185"
 msgstr "名前変更"
 
 #: ui_jp.json
-msgctxt "Event Match"
-msgid "json|lobby/playerinfo|1|5|6|1|0|d97f31fd695c04623859aef5ff3b6f57"
+msgctxt "Others"
+msgid "json|lobby/playerinfo|1|5|6|1|0|52ef9633d88a7480b3a938ff9eaa2a25"
 msgstr "その他"
 
 #: ui_jp.json
@@ -5846,8 +5846,8 @@ msgid "json|lobby/playerinfo_en|1|5|3|1|23a0ca84a7fd64eee8248bd1dfc77185"
 msgstr "名前変更"
 
 #: ui_jp.json
-msgctxt "Event Match"
-msgid "json|lobby/playerinfo_en|1|5|6|1|0|d97f31fd695c04623859aef5ff3b6f57"
+msgctxt "Others"
+msgid "json|lobby/playerinfo_en|1|5|6|1|0|52ef9633d88a7480b3a938ff9eaa2a25"
 msgstr "その他"
 
 #: ui_jp.json
@@ -40473,7 +40473,7 @@ msgctxt "Forbid all"
 msgid "sheet|StrStr.csv|en|db0344d44a8b07702f310ce26eb2aa91"
 msgstr "無効"
 
-#: StrStr.csv:311
+#: StrStr.csv:1284
 msgctxt "Others"
 msgid "sheet|StrStr.csv|en|52ef9633d88a7480b3a938ff9eaa2a25"
 msgstr "その他"
@@ -44668,11 +44668,6 @@ msgstr "スキップ"
 msgctxt "Got it"
 msgid "sheet|StrStr.csv|en|78e981599281c16fe016b55b136edf5f"
 msgstr "わかりました"
-
-#: StrStr.csv:1284
-msgctxt "Event Match"
-msgid "sheet|StrStr.csv|en|d97f31fd695c04623859aef5ff3b6f57"
-msgstr "その他"
 
 #: StrStr.csv:1285
 msgctxt "RECOM"
