@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-22 12:15:30\n"
+"PO-Revision-Date: 2021-04-23 12:15:05\n"
 "Language: jp\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -28426,7 +28426,7 @@ msgctxt "Win a hand with two identical Sequences"
 msgid "sheet|FandescFandesc.csv|desc_en|4625009143b963a70900fb10a51a6216"
 msgstr "同種同数の順子が2組あった場合に成立する"
 
-#: FandescFandesc.csv:70
+#: FandescFandesc.csv:10
 msgctxt "Robbing a Kan"
 msgid "sheet|FandescFandesc.csv|name_en|ed51bd96928fac2b94f12b757b6553a6"
 msgstr "槍槓（チャンカン）"
@@ -28438,7 +28438,7 @@ msgctxt ""
 msgid "sheet|FandescFandesc.csv|desc_en|1c81b394496c5984b7e88f8ceed7cdde"
 msgstr "他家が加槓を宣言した牌が自らの和了牌であればロン和了可能で、その場合に成立する（国士無双は暗槓に対しても槍槓可能）"
 
-#: FandescFandesc.csv:68
+#: FandescFandesc.csv:11
 msgctxt "After a Kan"
 msgid "sheet|FandescFandesc.csv|name_en|8d1e2f6f5f26455a18916a4771dba2d8"
 msgstr "嶺上開花（リンシャン）"
@@ -28450,7 +28450,7 @@ msgctxt ""
 msgid "sheet|FandescFandesc.csv|desc_en|0050e4509d325db456b1aaa62d573c6b"
 msgstr "嶺上牌で和了した場合に成立する"
 
-#: FandescFandesc.csv:71
+#: FandescFandesc.csv:12
 msgctxt "Under the Sea"
 msgid "sheet|FandescFandesc.csv|name_en|41fd01ff85357984bc66c12be95d24f6"
 msgstr "海底摸月（ハイテイ）"
@@ -29095,10 +29095,15 @@ msgstr "無番和（ウーファンホー）"
 
 #: FandescFandesc.csv:67
 msgctxt ""
-"The basic winning hand that does not satisfy any Yaku in the Bloodshed "
-"Skirmish."
-msgid "sheet|FandescFandesc.csv|desc_en|996e8054fa73f4afca98037d8eab7ab2"
+"The basic winning hand that does not satisfy any Yaku (except bonus Yaku) in"
+" the Bloodshed Skirmish."
+msgid "sheet|FandescFandesc.csv|desc_en|81ddd911ff99286a99a952d9630a0ff1"
 msgstr "（赤血の戦限定）役が一切成立しない状態で和了の形を完成した場合に成立する"
+
+#: FandescFandesc.csv:68
+msgctxt "Bonus Yaku:After a Kan"
+msgid "sheet|FandescFandesc.csv|name_en|e3ad7aebf90bafce76f6792a484430ca"
+msgstr "嶺上開花（リンシャン）"
 
 #: FandescFandesc.csv:68
 msgctxt ""
@@ -29108,8 +29113,8 @@ msgid "sheet|FandescFandesc.csv|desc_en|67a8191b3dd7d62a072daacf72dd45cf"
 msgstr "嶺上牌で和了した場合に成立する"
 
 #: FandescFandesc.csv:69
-msgctxt "Dealing into Win after Kan"
-msgid "sheet|FandescFandesc.csv|name_en|4cce2d5d267ae6a432b0b8c9f9f5f0d1"
+msgctxt "Bonus Yaku:Dealing into Win after Kan"
+msgid "sheet|FandescFandesc.csv|name_en|c52fd712a23a00d7dd99c304fc1aba57"
 msgstr "嶺上放銃（リンシャンホウジュウ）"
 
 #: FandescFandesc.csv:69
@@ -29119,9 +29124,19 @@ msgid "sheet|FandescFandesc.csv|desc_en|a64bbacdc76ad4d0e472439e2598d0bb"
 msgstr "（赤血の戦限定）他家が槓した後の打牌でロン和了した場合に成立する"
 
 #: FandescFandesc.csv:70
+msgctxt "Bonus Yaku:Robbing a Kan"
+msgid "sheet|FandescFandesc.csv|name_en|a38d6381b7ff27d719eda6debe721158"
+msgstr "槍槓（チャンカン）"
+
+#: FandescFandesc.csv:70
 msgctxt "Win a hand when another player adds to an Open Triplet."
 msgid "sheet|FandescFandesc.csv|desc_en|673c44b06c0bd76ea6f7299a8009b59f"
 msgstr "他家加槓を宣言した牌が自らの和了牌であればロン和了可能で、その場合に成立する"
+
+#: FandescFandesc.csv:71
+msgctxt "Bonus Yaku:Under the Sea"
+msgid "sheet|FandescFandesc.csv|name_en|65b94b0ff3fdd7d291805cf6d8c9c80d"
+msgstr "海底摸月（ハイテイ）"
 
 #: FandescFandesc.csv:71
 msgctxt "Win a hand by Ron or Tsumo with the last tile drawn from the Wall."
@@ -29129,8 +29144,8 @@ msgid "sheet|FandescFandesc.csv|desc_en|9db93c2ca21b438c2c912fc6e1e831e9"
 msgstr "（赤血の戦限定）その局最後の捨て牌またはツモ牌で和了した場合に成立する"
 
 #: FandescFandesc.csv:72
-msgctxt "Root"
-msgid "sheet|FandescFandesc.csv|name_en|fa03eb688ad8aa1db593d33dabd89bad"
+msgctxt "Bonus Yaku:Root"
+msgid "sheet|FandescFandesc.csv|name_en|823a33407cd0fcbeb3bfca37293185cb"
 msgstr "根（ルート）"
 
 #: FandescFandesc.csv:72
@@ -36269,7 +36284,7 @@ msgctxt ""
 "Mahjong Soul X Kakegurui xx Collab\n"
 "Welcome to the Floral Dance Special Show! Please have a nice time!"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|9feb8b87d8e5a0d106e28bbcc30549bd"
-msgstr "雀魂×賭ケグルイ××コラボイベントにで入手できる限定の着せ替え衣装"
+msgstr "雀魂×賭ケグルイ××コラボイベントにて入手できる限定の着せ替え衣装"
 
 #: ItemDefinitionSkin.csv:123
 msgctxt "Mary Saotome"
@@ -36291,7 +36306,7 @@ msgctxt ""
 "Mahjong Soul X Kakegurui xx Collab\n"
 "The moment this outfit stole your attention, defeat is almost inevitable."
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|2a788b0d2681dfac75151905383c05d3"
-msgstr "雀魂×賭ケグルイ××コラボイベントにで入手できる限定の着せ替え衣装"
+msgstr "雀魂×賭ケグルイ××コラボイベントにて入手できる限定の着せ替え衣装"
 
 #: ItemDefinitionSkin.csv:126
 msgctxt "Midari Ikishima"
@@ -36313,7 +36328,7 @@ msgctxt ""
 "Mahjong Soul X Kakegurui xx Collab\n"
 "Don't you want some octopus balls made by the Beautification Council President using the \"special sauce recipe\"? Just open your mouth!"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|de1fcd09fb917c03251df06887ddfe6c"
-msgstr "雀魂×賭ケグルイ××コラボイベントにで入手できる限定の着せ替え衣装"
+msgstr "雀魂×賭ケグルイ××コラボイベントにて入手できる限定の着せ替え衣装"
 
 #: ItemDefinitionSkin.csv:129
 msgctxt "Kirari Momobami"
@@ -36335,7 +36350,7 @@ msgctxt ""
 "Mahjong Soul X Kakegurui xx Collab\n"
 "The mortals can only kneel before the secret abyss in Hyakkaou Private Academy."
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|bad167fdbcf75688cee605f24856118c"
-msgstr "雀魂×賭ケグルイ××コラボイベントにで入手できる限定の着せ替え衣装"
+msgstr "雀魂×賭ケグルイ××コラボイベントにて入手できる限定の着せ替え衣装"
 
 #: ItemDefinitionTitle.csv:2
 msgctxt "N/A"

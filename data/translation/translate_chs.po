@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-22 12:15:30\n"
+"PO-Revision-Date: 2021-04-23 12:15:05\n"
 "Language: zh-CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -28500,10 +28500,10 @@ msgctxt "Win a hand with two identical Sequences"
 msgid "sheet|FandescFandesc.csv|desc_en|4625009143b963a70900fb10a51a6216"
 msgstr "2组完全相同的顺子"
 
-#: FandescFandesc.csv:70
+#: FandescFandesc.csv:10
 msgctxt "Robbing a Kan"
 msgid "sheet|FandescFandesc.csv|name_en|ed51bd96928fac2b94f12b757b6553a6"
-msgstr "奖励役：抢杠"
+msgstr "枪杠"
 
 #: FandescFandesc.csv:10
 msgctxt ""
@@ -28512,10 +28512,10 @@ msgctxt ""
 msgid "sheet|FandescFandesc.csv|desc_en|1c81b394496c5984b7e88f8ceed7cdde"
 msgstr "别家加杠的时候荣和（国士无双可以抢暗杠）"
 
-#: FandescFandesc.csv:68
+#: FandescFandesc.csv:11
 msgctxt "After a Kan"
 msgid "sheet|FandescFandesc.csv|name_en|8d1e2f6f5f26455a18916a4771dba2d8"
-msgstr "奖励役：杠上花"
+msgstr "岭上开花"
 
 #: FandescFandesc.csv:11
 msgctxt ""
@@ -28524,10 +28524,10 @@ msgctxt ""
 msgid "sheet|FandescFandesc.csv|desc_en|0050e4509d325db456b1aaa62d573c6b"
 msgstr "用摸到的岭上牌和牌"
 
-#: FandescFandesc.csv:71
+#: FandescFandesc.csv:12
 msgctxt "Under the Sea"
 msgid "sheet|FandescFandesc.csv|name_en|41fd01ff85357984bc66c12be95d24f6"
-msgstr "奖励役：海底捞月"
+msgstr "海底摸月"
 
 #: FandescFandesc.csv:12
 msgctxt ""
@@ -29168,10 +29168,15 @@ msgstr "底和"
 
 #: FandescFandesc.csv:67
 msgctxt ""
-"The basic winning hand that does not satisfy any Yaku in the Bloodshed "
-"Skirmish."
-msgid "sheet|FandescFandesc.csv|desc_en|996e8054fa73f4afca98037d8eab7ab2"
+"The basic winning hand that does not satisfy any Yaku (except bonus Yaku) in"
+" the Bloodshed Skirmish."
+msgid "sheet|FandescFandesc.csv|desc_en|81ddd911ff99286a99a952d9630a0ff1"
 msgstr "不满足任何役种的基础和牌型"
+
+#: FandescFandesc.csv:68
+msgctxt "Bonus Yaku:After a Kan"
+msgid "sheet|FandescFandesc.csv|name_en|e3ad7aebf90bafce76f6792a484430ca"
+msgstr "奖励役：杠上花"
 
 #: FandescFandesc.csv:68
 msgctxt ""
@@ -29181,8 +29186,8 @@ msgid "sheet|FandescFandesc.csv|desc_en|67a8191b3dd7d62a072daacf72dd45cf"
 msgstr "使用杠后摸到的牌和牌"
 
 #: FandescFandesc.csv:69
-msgctxt "Dealing into Win after Kan"
-msgid "sheet|FandescFandesc.csv|name_en|4cce2d5d267ae6a432b0b8c9f9f5f0d1"
+msgctxt "Bonus Yaku:Dealing into Win after Kan"
+msgid "sheet|FandescFandesc.csv|name_en|c52fd712a23a00d7dd99c304fc1aba57"
 msgstr "奖励役：杠上炮"
 
 #: FandescFandesc.csv:69
@@ -29192,9 +29197,19 @@ msgid "sheet|FandescFandesc.csv|desc_en|a64bbacdc76ad4d0e472439e2598d0bb"
 msgstr "荣和别家杠后打出的牌"
 
 #: FandescFandesc.csv:70
+msgctxt "Bonus Yaku:Robbing a Kan"
+msgid "sheet|FandescFandesc.csv|name_en|a38d6381b7ff27d719eda6debe721158"
+msgstr "奖励役：抢杠"
+
+#: FandescFandesc.csv:70
 msgctxt "Win a hand when another player adds to an Open Triplet."
 msgid "sheet|FandescFandesc.csv|desc_en|673c44b06c0bd76ea6f7299a8009b59f"
 msgstr "别家加杠的时候荣和"
+
+#: FandescFandesc.csv:71
+msgctxt "Bonus Yaku:Under the Sea"
+msgid "sheet|FandescFandesc.csv|name_en|65b94b0ff3fdd7d291805cf6d8c9c80d"
+msgstr "奖励役：海底捞月"
 
 #: FandescFandesc.csv:71
 msgctxt "Win a hand by Ron or Tsumo with the last tile drawn from the Wall."
@@ -29202,8 +29217,8 @@ msgid "sheet|FandescFandesc.csv|desc_en|9db93c2ca21b438c2c912fc6e1e831e9"
 msgstr "最后一张牌荣和或自摸"
 
 #: FandescFandesc.csv:72
-msgctxt "Root"
-msgid "sheet|FandescFandesc.csv|name_en|fa03eb688ad8aa1db593d33dabd89bad"
+msgctxt "Bonus Yaku:Root"
+msgid "sheet|FandescFandesc.csv|name_en|823a33407cd0fcbeb3bfca37293185cb"
 msgstr "奖励役：根"
 
 #: FandescFandesc.csv:72
@@ -108182,7 +108197,7 @@ msgctxt ""
 "from imagining it!"
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/shecan/lobby_levelmax)|08c12b5b2de3f4fe548c1e10d8f9c0d7"
-msgstr "芽亚里同学、豆生田同学、会长、还有来到这间神社遇到的大家……这世界上还有那么多有趣的人，那么多有意思的游戏，光是想想……就让人兴奋不已呢！"
+msgstr "芽亚里同学、铃井同学、会长、还有来到这间神社遇到的大家……这世界上还有那么多有趣的人，那么多有意思的游戏，光是想想……就让人兴奋不已呢！"
 
 #: VoiceSound.csv:5059
 msgctxt "Bond Level Up Voice 5"

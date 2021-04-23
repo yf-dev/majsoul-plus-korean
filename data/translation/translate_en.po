@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-22 12:15:30\n"
+"PO-Revision-Date: 2021-04-23 12:15:05\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -30398,7 +30398,7 @@ msgctxt "Win a hand with two identical Sequences"
 msgid "sheet|FandescFandesc.csv|desc_en|4625009143b963a70900fb10a51a6216"
 msgstr "Win a hand with two identical Sequences"
 
-#: FandescFandesc.csv:70
+#: FandescFandesc.csv:10
 msgctxt "Robbing a Kan"
 msgid "sheet|FandescFandesc.csv|name_en|ed51bd96928fac2b94f12b757b6553a6"
 msgstr "Robbing a Kan"
@@ -30412,7 +30412,7 @@ msgstr ""
 "Call a Ron (declare winning) on another player’s Kan (when you have a Tenpai"
 " for Thirteen Orphans, you can call on a Closed Kan)"
 
-#: FandescFandesc.csv:68
+#: FandescFandesc.csv:11
 msgctxt "After a Kan"
 msgid "sheet|FandescFandesc.csv|name_en|8d1e2f6f5f26455a18916a4771dba2d8"
 msgstr "After a Kan"
@@ -30426,7 +30426,7 @@ msgstr ""
 "Win a hand with the tile drawn from the Dead Wall after immediately calling "
 "a Kan"
 
-#: FandescFandesc.csv:71
+#: FandescFandesc.csv:12
 msgctxt "Under the Sea"
 msgid "sheet|FandescFandesc.csv|name_en|41fd01ff85357984bc66c12be95d24f6"
 msgstr "Under the Sea"
@@ -31130,12 +31130,17 @@ msgstr "Yakuless Win"
 
 #: FandescFandesc.csv:67
 msgctxt ""
-"The basic winning hand that does not satisfy any Yaku in the Bloodshed "
-"Skirmish."
-msgid "sheet|FandescFandesc.csv|desc_en|996e8054fa73f4afca98037d8eab7ab2"
+"The basic winning hand that does not satisfy any Yaku (except bonus Yaku) in"
+" the Bloodshed Skirmish."
+msgid "sheet|FandescFandesc.csv|desc_en|81ddd911ff99286a99a952d9630a0ff1"
 msgstr ""
-"The basic winning hand that does not satisfy any Yaku in the Bloodshed "
-"Skirmish."
+"The basic winning hand that does not satisfy any Yaku (except bonus Yaku) in"
+" the Bloodshed Skirmish."
+
+#: FandescFandesc.csv:68
+msgctxt "Bonus Yaku:After a Kan"
+msgid "sheet|FandescFandesc.csv|name_en|e3ad7aebf90bafce76f6792a484430ca"
+msgstr "Bonus Yaku:After a Kan"
 
 #: FandescFandesc.csv:68
 msgctxt ""
@@ -31147,9 +31152,9 @@ msgstr ""
 "a Kan."
 
 #: FandescFandesc.csv:69
-msgctxt "Dealing into Win after Kan"
-msgid "sheet|FandescFandesc.csv|name_en|4cce2d5d267ae6a432b0b8c9f9f5f0d1"
-msgstr "Dealing into Win after Kan"
+msgctxt "Bonus Yaku:Dealing into Win after Kan"
+msgid "sheet|FandescFandesc.csv|name_en|c52fd712a23a00d7dd99c304fc1aba57"
+msgstr "Bonus Yaku:Dealing into Win after Kan"
 
 #: FandescFandesc.csv:69
 msgctxt ""
@@ -31159,9 +31164,19 @@ msgstr ""
 "Win a hand with the discarded tile of another player who just called a Kan."
 
 #: FandescFandesc.csv:70
+msgctxt "Bonus Yaku:Robbing a Kan"
+msgid "sheet|FandescFandesc.csv|name_en|a38d6381b7ff27d719eda6debe721158"
+msgstr "Bonus Yaku:Robbing a Kan"
+
+#: FandescFandesc.csv:70
 msgctxt "Win a hand when another player adds to an Open Triplet."
 msgid "sheet|FandescFandesc.csv|desc_en|673c44b06c0bd76ea6f7299a8009b59f"
 msgstr "Win a hand when another player adds to an Open Triplet."
+
+#: FandescFandesc.csv:71
+msgctxt "Bonus Yaku:Under the Sea"
+msgid "sheet|FandescFandesc.csv|name_en|65b94b0ff3fdd7d291805cf6d8c9c80d"
+msgstr "Bonus Yaku:Under the Sea"
 
 #: FandescFandesc.csv:71
 msgctxt "Win a hand by Ron or Tsumo with the last tile drawn from the Wall."
@@ -31169,9 +31184,9 @@ msgid "sheet|FandescFandesc.csv|desc_en|9db93c2ca21b438c2c912fc6e1e831e9"
 msgstr "Win a hand by Ron or Tsumo with the last tile drawn from the Wall."
 
 #: FandescFandesc.csv:72
-msgctxt "Root"
-msgid "sheet|FandescFandesc.csv|name_en|fa03eb688ad8aa1db593d33dabd89bad"
-msgstr "Root"
+msgctxt "Bonus Yaku:Root"
+msgid "sheet|FandescFandesc.csv|name_en|823a33407cd0fcbeb3bfca37293185cb"
+msgstr "Bonus Yaku:Root"
 
 #: FandescFandesc.csv:72
 msgctxt ""
