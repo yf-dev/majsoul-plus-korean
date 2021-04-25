@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-23 12:15:05\n"
+"PO-Revision-Date: 2021-04-25 15:10:53\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -112978,13 +112978,13 @@ msgstr "Bond Level Up Voice 4"
 
 #: VoiceSound.csv:5058
 msgctxt ""
-"Mary, Manyuuda, President, and everyone I met in the shrine... There are so "
+"Mary, Suzui, President, and everyone I met in the shrine... There are so "
 "many interesting people and fun games in this world... I am excited just "
 "from imagining it!"
 msgid ""
-"sheet|VoiceSound.csv|words_en(audio/sound/shecan/lobby_levelmax)|08c12b5b2de3f4fe548c1e10d8f9c0d7"
+"sheet|VoiceSound.csv|words_en(audio/sound/shecan/lobby_levelmax)|7bfc47681b2654857a8402463457bb85"
 msgstr ""
-"Mary, Manyuuda, President, and everyone I met in the shrine... There are so "
+"Mary, Suzui, President, and everyone I met in the shrine... There are so "
 "many interesting people and fun games in this world... I am excited just "
 "from imagining it!"
 
