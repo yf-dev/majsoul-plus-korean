@@ -239,6 +239,14 @@ class Translator:
         self._translation_dataset = TranslationDataset(mpk_lang)
         self.source_type = "unknown"
 
+    @classmethod
+    def parse_language(cls, filename):
+        for language in AVAILABLE_LANGS:
+            if filename.endswith(language):
+                return language
+        log_warn(f"Unacceptable language: {filename}")
+        return "unknown"
+
     def load_from_game_objects(self, game_objects_root_path):
         raise NotImplementedError()
 
@@ -277,7 +285,7 @@ class UiJsonTranslator(Translator):
         for json_path in json_paths:
             log_info(f"Read {json_path}...")
             source_filepath = json_path.name
-            language = json_path.name[len("ui_") : -len(".json")]
+            language = UiJsonTranslator.parse_language(json_path.name[: -len(".json")])
 
             with open(json_path, "r", encoding="utf-8") as jsonfile:
                 json_data = json.load(jsonfile)
@@ -382,7 +390,9 @@ class XinshouyindaoJsonTranslator(Translator):
         for json_path in json_paths:
             log_info(f"Read {json_path}...")
             source_filepath = json_path.name
-            language = json_path.name[len("xinshouyindao_") : -len(".json")]
+            language = XinshouyindaoJsonTranslator.parse_language(
+                json_path.name[: -len(".json")]
+            )
             with open(json_path, "r", encoding="utf-8") as jsonfile:
                 json_data = json.load(jsonfile)
             for page in json_data["datas"]:
@@ -466,7 +476,7 @@ class BytesTranslator(Translator):
         for bytes_path in bytes_paths:
             log_info(f"Read {bytes_path}...")
             source_filepath = f"{bytes_path.parent.name}/{bytes_path.name}"
-            language = bytes_path.name[len("100004_") : -len(".bytes")]
+            language = BytesTranslator.parse_language(bytes_path.name[: -len(".bytes")])
             with open(bytes_path, "r", encoding="utf-8-sig") as bytesfile:
                 source_lineno = 1
                 for line in bytesfile:
