@@ -641,7 +641,7 @@ class CsvTranslator(Translator):
                 continue
 
             log_info(f"Write {csv_path}...")
-            with open(csv_path, "w", encoding="utf-8-sig") as csvfile:
+            with open(csv_path, "w", encoding="utf-8-sig", newline="") as csvfile:
                 sheet_writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 sheet_writer.writeheader()
                 sheet_writer.writerows(rows)
