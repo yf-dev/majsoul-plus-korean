@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-25 15:10:53\n"
+"PO-Revision-Date: 2021-05-07 12:07:04\n"
 "Language: zh-CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -11797,6 +11797,2745 @@ msgid ""
 "bytes|erjietang/200006_en.bytes|erjietang/200006|216|8170be3e5213763533f0af1897e42983"
 msgstr ""
 "虽然还是一贯捉弄人的声调，却夹杂着一丝丝的颤抖。没想到平时里看起来冷静知性的二阶堂美树居然还有这样的一面，仿佛刚破茧的蝴蝶正在颤颤巍巍地展开自己的双翼。\n"
+
+#: event/kakekuru00_chs.bytes:1
+msgctxt "Hyakkaou Private Academy, a prestigious school.\n"
+msgid ""
+"bytes|event/kakekuru00_en.bytes|event/kakekuru00|1|e02e2a5862489e4c9077461f5f1e7891"
+msgstr "名门·私立百花王学园。\n"
+
+#: event/kakekuru00_chs.bytes:2
+msgctxt "A winner's heaven.\n"
+msgid ""
+"bytes|event/kakekuru00_en.bytes|event/kakekuru00|3|60b61ffdbf7a8d17d60b03991ef23342"
+msgstr "是赢家的天堂。\n"
+
+#: event/kakekuru00_chs.bytes:3
+msgctxt "And a loser's hell.\n"
+msgid ""
+"bytes|event/kakekuru00_en.bytes|event/kakekuru00|4|596156075e938f4f390748ec27abf885"
+msgstr "是败者的地狱。\n"
+
+#: event/kakekuru00_chs.bytes:4
+msgctxt ""
+"You are welcome to join the revelry in this crazy world where the winner "
+"takes it all.\n"
+msgid ""
+"bytes|event/kakekuru00_en.bytes|event/kakekuru00|5|cf84cb6a44326c0e372255ce180cc50f"
+msgstr "欢迎来到由胜负支配的疯狂世界，加入这场令人心潮澎湃的狂欢。\n"
+
+#: event/kakekuru00_chs.bytes:5
+msgctxt "The competition never ends...\n"
+msgid ""
+"bytes|event/kakekuru00_en.bytes|event/kakekuru00|6|e491881890eb7ad903c011157c5cf154"
+msgstr "胜负无时无刻都存在，即便……\n"
+
+#: event/kakekuru00_chs.bytes:6
+msgctxt ""
+"With the Student Council in charge, this place is also a class society where"
+" students follow the law of the jungle.\n"
+msgid ""
+"bytes|event/kakekuru00_en.bytes|event/kakekuru00|8|b197a4529b28b6be8112d2041e2d1718"
+msgstr "以学生会为顶点的此处是学校，亦是弱肉强食的阶级社会。\n"
+
+#: event/kakekuru00_chs.bytes:7
+msgctxt "Even if it's just a casual field trip, but so what!\n"
+msgid ""
+"bytes|event/kakekuru00_en.bytes|event/kakekuru00|9|366cfada60fc36635cefdf516157b044"
+msgstr "是轻轻松松的修学旅行，那又何妨~\n"
+
+#: event/kakekuru01_chs.bytes:1
+msgctxt "……\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|1|2dd9520cb1867139ab0c3e288b02ec3a"
+msgstr "……\n"
+
+#: event/kakekuru01_chs.bytes:2
+msgctxt "Ah... The wind is just so nice.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|3|0fa7cf67ce365c389f58f80633e4f2b4"
+msgstr "啊……好舒服的风。\n"
+
+#: event/kakekuru01_chs.bytes:3
+msgctxt "So nice that I just want to close my eyes and enjoy it...\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|4|e51c195a13ffc127db03109b4215fb91"
+msgstr "舒服到让人不想把眼皮抬起来……\n"
+
+#: event/kakekuru01_chs.bytes:4
+msgctxt "Who's there? I was enjoying my sleep...\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|9|ccbadc60884c359fa5d55a31c7558339"
+msgstr "谁啊？难得能睡得这么舒服……\n"
+
+#: event/kakekuru01_chs.bytes:5
+msgctxt "Never mind.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|10|cdbc8b6a2456be2043533781c817264f"
+msgstr "不理会。\n"
+
+#: event/kakekuru01_chs.bytes:6
+msgctxt "{character:Mary Saotome}... So noisy.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|14|c6972a12a9ac9f4d8f49e9b4e5c0856e"
+msgstr "{character:早乙女芽亚里}……好吵。\n"
+
+#: event/kakekuru01_chs.bytes:7
+msgctxt "{character:???}She looks conscious but hasn't fully woken up yet.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|15|38e80fe8a0fd12adccdb59e0b1e805c1"
+msgstr "{character:???}好像已经恢复意识了，但还没醒过来呢。\n"
+
+#: event/kakekuru01_chs.bytes:8
+msgctxt "Br—breathe...\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|18|228e4c8b8a6b5cea72fffdaea31e588b"
+msgstr "呼、呼吸……\n"
+
+#: event/kakekuru01_chs.bytes:9
+msgctxt "???\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|20|8df265b3eeaa509e34296426465d409f"
+msgstr "???\n"
+
+#: event/kakekuru01_chs.bytes:10
+msgctxt "{character:Mary Saotome}Hmm... Hmm...\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|21|24c0cfc95f81218e29fd6948e04a5080"
+msgstr "{character:早乙女芽亚里}唔……唔……\n"
+
+#: event/kakekuru01_chs.bytes:11
+msgctxt "{character:Mary Saotome}Hmmmmm! I—I can't breathe!\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|22|2d26a350f302f18ea99cf75360681e8b"
+msgstr "{character:早乙女芽亚里}唔唔唔！喘、喘不过气了！\n"
+
+#: event/kakekuru01_chs.bytes:12
+msgctxt ""
+"{character:Mary Saotome}Who are you?! Pinching my nose while I'm sleeping? "
+"What's wrong with you?!\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|23|55a1f7606fb67afba01431694c630520"
+msgstr "{character:早乙女芽亚里}谁啊！没事捏别人鼻子，搞这种恶作剧干嘛？！小学生吗？！\n"
+
+#: event/kakekuru01_chs.bytes:13
+msgctxt "Mary Saotome\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|25|c5c4bf383fd53818f6cfefa79d6c7384"
+msgstr "早乙女芽亚里\n"
+
+#: event/kakekuru01_chs.bytes:14
+msgctxt "{character:Yumeko Jabami}Ah, you're finally awake.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|27|3c981172e838d398c35805a16aaeca1e"
+msgstr "{character:蛇喰梦子}啊，你醒了啊。\n"
+
+#: event/kakekuru01_chs.bytes:15
+msgctxt "Yumeko Jabami\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|28|6a94fe06a3fae1b268213881db2f0533"
+msgstr "蛇喰梦子\n"
+
+#: event/kakekuru01_chs.bytes:16
+msgctxt "{character:Mary Saotome}Yumeko... Jabami?\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|29|8baa2649c5a7e5e638df5b2ef9c1655e"
+msgstr "{character:早乙女芽亚里}蛇喰……梦子？\n"
+
+#: event/kakekuru01_chs.bytes:17
+msgctxt "{character:Yumeko Jabami}Yep, it's me.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|30|774a6852cf71a384b4568dd6ba6d8f7d"
+msgstr "{character:蛇喰梦子}嗯，是我哦。\n"
+
+#: event/kakekuru01_chs.bytes:18
+msgctxt ""
+"{character:Yumeko Jabami}I wasn't the one who blocked your nose, by the way."
+" It was the sakura petals.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|31|b2d3387111657668a878adb8759e070a"
+msgstr "{character:蛇喰梦子}顺便一提，刚才不是我，是樱花堵住了你的鼻子哦。\n"
+
+#: event/kakekuru01_chs.bytes:19
+msgctxt ""
+"{character:Mary Saotome}Oh, that's why... No! Stop lying, who else except "
+"you—Eh?\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|32|29825f976ed941cff36870553ee5ddbe"
+msgstr "{character:早乙女芽亚里}哦，原来是这样……才怪咧！少骗人了，除了你还有谁会——诶？\n"
+
+#: event/kakekuru01_chs.bytes:20
+msgctxt ""
+"{character:Mary Saotome}... Uh, Yumeko, isn't there a shrine like this near "
+"the school?\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|35|d7e8ab4002b5da0e1962888340bc6b81"
+msgstr "{character:早乙女芽亚里}……我说，梦子，学园附近，有这样的一处神社吗？\n"
+
+#: event/kakekuru01_chs.bytes:21
+msgctxt ""
+"{character:Mary Saotome}(Forget about the shrine, sakuras aren't supposed to"
+" bloom this time of year.)\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|37|706288a83c673bccc84d40b51a4d3f33"
+msgstr "{character:早乙女芽亚里}（先不论有没有这样的神社，现在也不是樱花会盛开得如此茂盛的时节啊。）\n"
+
+#: event/kakekuru01_chs.bytes:22
+msgctxt "{character:Mary Saotome}(We shouldn't be 'here'.)\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|39|05feafc2ae61de618868597a85df7ee3"
+msgstr "{character:早乙女芽亚里}（我们不该出现在「这种地方」才对啊。）\n"
+
+#: event/kakekuru01_chs.bytes:23
+msgctxt ""
+"{character:Mary Saotome}(But then again, in this globalized modern world, "
+"it's not completely impossible to see such a delicate shrine outside of "
+"Japan.)\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|42|c2bb974c6dfadcbd7e51e52b69c9df32"
+msgstr "{character:早乙女芽亚里}（不过，现在这种国际化时代，即便在海外见到个精致的神社倒也不是什么怪事。）\n"
+
+#: event/kakekuru01_chs.bytes:24
+msgctxt "{character:Mary Saotome}One, two, three, four...\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|43|1b3cb5868f0bb357fc00d6c2c069ed08"
+msgstr "{character:早乙女芽亚里}一、二、三、四……\n"
+
+#: event/kakekuru01_chs.bytes:25
+msgctxt ""
+"{character:Mary Saotome}Torii. There are too many to count. Don't tell me "
+"they also have a Senbon Torii here.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|45|189a5a42a6c1faf137be0f76f1d898d9"
+msgstr "{character:早乙女芽亚里}鸟居的数量，太多了，根本看不到头，该不会这也有个千本鸟居吧？\n"
+
+#: event/kakekuru01_chs.bytes:26
+msgctxt ""
+"{character:Mary Saotome}(That's a little more \"authentic\" than necessary. "
+"Where are we, anyway?)\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|46|46985218081bf993cb51a56672f37c23"
+msgstr "{character:早乙女芽亚里}（再怎么地道这也未免「地道」过头了。这里到底是？）\n"
+
+#: event/kakekuru01_chs.bytes:27
+msgctxt ""
+"{character:Mary Saotome}If anything happened to me, it'd be because you "
+"pinched my nose. And aren't you the one who fainted out of the blue?\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|48|f3802cd34c99eb2516dd2016b8a202c3"
+msgstr "{character:早乙女芽亚里}我要真有什么事那也跟你捏着我鼻子脱不了干系，更何况反了吧，突然昏倒的不是你吗？\n"
+
+#: event/kakekuru01_chs.bytes:28
+msgctxt ""
+"{character:Mary Saotome}You wanted to try some authentic local cuisines and "
+"told the chef to serve you their signature Mapo Tofu. Then you passed out "
+"after the first bite with a smile on your face.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|49|99ccd2f063f67cfe34bf1fbb09121f78"
+msgstr "{character:早乙女芽亚里}说要品尝地道的当地料理，让店家拿出招牌的麻婆豆腐，结果才吃了一口就面带微笑地当场失去意识。\n"
+
+#: event/kakekuru01_chs.bytes:29
+msgctxt ""
+"{character:Mary Saotome}With that smile, you looked like you went to heaven."
+" And as your roommate, I had to be the one to carry you back. "
+"Unbelievable...\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|51|9263964eb98726d31336823311ed657b"
+msgstr "{character:早乙女芽亚里}看你那安详的表情，差点以为你当场就直接成佛了。到最后还得让同房间的我背你回去，真是的……\n"
+
+#: event/kakekuru01_chs.bytes:30
+msgctxt ""
+"{character:???}Woof? How rare, I'm usually not expecting anyone at this "
+"point of time, woof.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|52|60fb6e9bf776766fc63444ec1ce887f7"
+msgstr "{character:???}汪？这个时间点还有客人来，倒也是稀罕汪。\n"
+
+#: event/kakekuru01_chs.bytes:31
+msgctxt "{character:Mary Saotome}Who's there?\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|54|a73a7956088de1edfab9e2f2e1b7924b"
+msgstr "{character:早乙女芽亚里}谁？\n"
+
+#: event/kakekuru01_chs.bytes:32
+msgctxt ""
+"{character:Yumeko Jabami}He speaks Japanese. It's someone we can communicate"
+" with.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|55|21fa070b360cf60981d6cb5b0b8e8d2e"
+msgstr "{character:蛇喰梦子}对方在说日语，是可以交流的人呢。\n"
+
+#: event/kakekuru01_chs.bytes:33
+msgctxt "{character:???}Woof, why do I sense anticipation?!\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|56|4cf01aa313138f0f1edf10ac39de7cfa"
+msgstr "{character:???}汪，感觉到了莫名的期待？！\n"
+
+#: event/kakekuru01_chs.bytes:34
+msgctxt "{character:Mary Saotome}... Dog.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|62|6f60f820deb02b0b0c0a0908d7bbc7d4"
+msgstr "{character:早乙女芽亚里}……犬。\n"
+
+#: event/kakekuru01_chs.bytes:35
+msgctxt "Wanjirou\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|66|a4457ec774822eb36a119f52d615aa0f"
+msgstr "汪次郎\n"
+
+#: event/kakekuru01_chs.bytes:36
+msgctxt "{character:Mary Saotome}D-D-D-DOOOOOOOOG MONSTER!{var:ShakeChar}\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|71|1226c5f88c1917b8e61bf80a0a353f23"
+msgstr "{character:早乙女芽亚里}犬犬犬犬犬妖啊——！{var:ShakeChar}\n"
+
+#: event/kakekuru01_chs.bytes:37
+msgctxt "{character:Mary&Yumeko}……//n……\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|135|b442cd8e3a420c2291a70b9582deb63d"
+msgstr "{character:芽亚里&梦子}……//n……\n"
+
+#: event/kakekuru01_chs.bytes:38
+msgctxt " \n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|136|d784fa8b6d98d27699781bd9a7cf19f0"
+msgstr " \n"
+
+#: event/kakekuru01_chs.bytes:39
+msgctxt "{character:Mary&Yumeko}Eh...//nAh.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|145|55c3b1264156be0a22976484d9e1e090"
+msgstr "{character:芽亚里&梦子}诶……//n啊啦。\n"
+
+#: event/kakekuru01_chs.bytes:40
+msgctxt "{character:???}... Mary... Mary.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|147|e72d448d6a4eb9195c4b6dabf262b5ef"
+msgstr "{character:???}……芽亚里……芽亚里。\n"
+
+#: event/kakekuru01_chs.bytes:41
+msgctxt "{character:Yumeko Jabami}Yes? What's wrong, Mary? You look confused.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|148|656a48331dc427cd69b93c0da164051e"
+msgstr "{character:蛇喰梦子}嗯？怎么了芽亚里？愣愣的。\n"
+
+#: event/kakekuru01_chs.bytes:42
+msgctxt ""
+"As Mary comes to her senses, she remembers what happened before she passed "
+"out. She and Yumeko should be on the school's field trip overseas right "
+"now.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|149|c958b9110a3781db2aeb0355faa82a08"
+msgstr "逐渐清醒过来的芽亚里，慢慢地捕捉到了断片前的记忆。此时的她和梦子，应该正在参加学园的海外修学旅行才对。\n"
+
+#: event/kakekuru01_chs.bytes:43
+msgctxt "{character:Yumeko Jabami}Eh? What are you counting, Mary?\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|150|31ca7f33e1a8e82072ab39c9325ca028"
+msgstr "{character:蛇喰梦子}啊啦？在数什么呢？芽亚里。\n"
+
+#: event/kakekuru01_chs.bytes:44
+msgctxt "Mary&Yumeko\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|228|c41df279fb8e6ecea9309e9facd79c32"
+msgstr "芽亚里&梦子\n"
+
+#: event/kakekuru01_chs.bytes:45
+msgctxt "{character:Mary Saotome}... Hmm.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|229|a7a7cde652f3ef61fe7ddc381f970933"
+msgstr "{character:早乙女芽亚里}……唔。\n"
+
+#: event/kakekuru01_chs.bytes:46
+msgctxt "{character:Mary Saotome}What time is it…?\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|230|1b02582e9ea4f3f72ec03905cb9beca7"
+msgstr "{character:早乙女芽亚里}现在是什么时候……\n"
+
+#: event/kakekuru01_chs.bytes:47
+msgctxt ""
+"{character:Mary Saotome}... Never mind, I'll sleep a little longer. The "
+"alarm hasn't gone off anyway.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|231|98285ed24b27117c114a3bf0fea8f9c2"
+msgstr "{character:早乙女芽亚里}……不管了，再一会儿，反正闹铃还没响。\n"
+
+#: event/kakekuru01_chs.bytes:48
+msgctxt "{character:Mary Saotome}(Sakura... Petals?)\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|232|20f865ca2badb3b3c52cc80d983db0a9"
+msgstr "{character:早乙女芽亚里}（樱花的……花瓣？）\n"
+
+#: event/kakekuru01_chs.bytes:49
+msgctxt ""
+"Puzzled and confused, Mary looks around, with her eyes following the sakura "
+"petals. She then realizes... They are under a huge torii.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|233|a475d77f6ce22c1b8573402d823534f2"
+msgstr "尚未摸清当下状况的芽亚里四下张望，视线尾随着樱花飘舞，然后察觉到了……她们正身处于一处巨大的鸟居之下。\n"
+
+#: event/kakekuru01_chs.bytes:50
+msgctxt ""
+"{character:Mary Saotome}(No, no, no, no... What am I talking about? Aside "
+"from these trivial matters, the weirdest thing is...)\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|236|9d40ef61b388964f137855bcbd7a3096"
+msgstr "{character:早乙女芽亚里}（不不不不……我到底在说什么啊，比起神社和季节之类的琐事，更离谱的应该是……）\n"
+
+#: event/kakekuru01_chs.bytes:51
+msgctxt ""
+"Considering the destination of their trip, this Japanese-styled scene "
+"doesn't really make any sense…\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|237|dd73a5c90c102669db587966aa506bc2"
+msgstr "考虑到旅行的目的地，眼前这和风浓郁的景象理应不存在才是……\n"
+
+#: event/kakekuru01_chs.bytes:52
+msgctxt ""
+"{character:Yumeko Jabami}But I'm so glad you woke up, Mary. I panicked when "
+"I saw you faint out of the blue like that. You scared me.\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|238|fcce8fdb019929fe9c37f35234d9866e"
+msgstr "{character:蛇喰梦子}不过。还好芽亚里你醒过来了，刚才看你突然晕倒，真不知该怎么办呢。吓了我一跳。\n"
+
+#: event/kakekuru01_chs.bytes:53
+msgctxt ""
+"{character:Wanjirou}Is it true that high school girls are into the fluffy "
+"type of guys like me nowadays? I'm nervous, woof, woof, haha!\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|239|9e4952c4653e59ee0ae0193195ce6d84"
+msgstr "{character:汪次郎}莫非现在的女高中生都喜欢本大爷这种毛茸茸的类型吗？真是让人不好意思，汪哈哈！\n"
+
+#: event/kakekuru01_chs.bytes:54
+msgctxt ""
+"{character:Wanjirou}It's the era of the dog! My time has come, woof! I'll "
+"show up that silly cat, woof!\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|241|2dc9b302829f96765fd21a835fcbfef2"
+msgstr "{character:汪次郎}如今果然是犬系的时代！好时代，来了汪！回头可以跟一姬那家伙好好炫耀一番了！\n"
+
+#: event/kakekuru01_chs.bytes:55
+msgctxt ""
+"{character:Wanjirou}Umm? What's wrong? Something on my face? Ah, did I get "
+"something on my face when I was eating?\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|242|7555af2b6f8f989e7ea87d6d9eb47df4"
+msgstr "{character:汪次郎}嗯？怎么了？本大爷脸上有什么东西吗？啊，难道刚才吃东西沾了什么在脸上……\n"
+
+#: event/kakekuru01_chs.bytes:56
+msgctxt ""
+"{character:Wanjirou}Woof? You have sharp eyes. Yes, I am the noble Dog—\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|243|c85fc5ae7bd6a2294680aa44bd3c39c8"
+msgstr "{character:汪次郎}汪？很识货嘛，没错，我就是高贵的——\n"
+
+#: event/kakekuru01_chs.bytes:57
+msgctxt ""
+"{character:Wanjirou}I'm not a monster! I'm the Dog God! "
+"Woof!{var:ShakeChar}\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|245|125a1076eda2c5fa35cfdedbb03443aa"
+msgstr "{character:汪次郎}谁是犬妖啊？！不识货！好歹也说是犬神吧！{var:ShakeChar}\n"
+
+#: event/kakekuru01_chs.bytes:58
+msgctxt "{character:???}Eh!\n"
+msgid ""
+"bytes|event/kakekuru01_en.bytes|event/kakekuru01|247|5b06e575db15efdbbf10bfbf5a09a6e7"
+msgstr "{character:???}诶~\n"
+
+#: event/kakekuru02_chs.bytes:1
+msgctxt ""
+"{character:Miki Nikaidou}Hehe... They were already pretty confused, and then"
+" you pop up out of nowhere. It would be weird if they didn't react that "
+"way.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|2|54dfcc0eb7cf838ae8af6580e778bce3"
+msgstr "{character:二阶堂美树}呵呵……正一头雾水的时候突然见到汪次郎，那样才是正常反应吧。\n"
+
+#: event/kakekuru02_chs.bytes:2
+msgctxt "{character:Wanjirou}Don't worry, I don't really mind, woof.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|5|0aaf21ab00c57779c227abe15e8ea8a5"
+msgstr "{character:汪次郎}放心，我也没有真的在意汪。\n"
+
+#: event/kakekuru02_chs.bytes:3
+msgctxt "Wanjirou\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|6|a4457ec774822eb36a119f52d615aa0f"
+msgstr "汪次郎\n"
+
+#: event/kakekuru02_chs.bytes:4
+msgctxt "Miki Nikaidou\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|7|a2b728730180f34a40fdf0be901a6778"
+msgstr "二阶堂美树\n"
+
+#: event/kakekuru02_chs.bytes:5
+msgctxt "Yumeko Jabami\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|8|6a94fe06a3fae1b268213881db2f0533"
+msgstr "蛇喰梦子\n"
+
+#: event/kakekuru02_chs.bytes:6
+msgctxt "{character:Wanjirou}Nyaa?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|11|51a3f59168bdd795834487d169cbe3bd"
+msgstr "{character:汪次郎}喵？\n"
+
+#: event/kakekuru02_chs.bytes:7
+msgctxt ""
+"{character:Wanjirou}Eh... You are a cat person, then. So dogs haven't become"
+" that popular...\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|13|088f2095541a6a363e2b5a7b9bd9b67b"
+msgstr "{character:汪次郎}呃……小妹妹原来是猫派啊，犬派果然还没流行起来吗……\n"
+
+#: event/kakekuru02_chs.bytes:8
+msgctxt "{character:Wanjirou}Woof? What did you just say, Miki?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|16|16c420751da362b1aa2c1afff5917c07"
+msgstr "{character:汪次郎}汪？二阶堂你说啥？\n"
+
+#: event/kakekuru02_chs.bytes:9
+msgctxt "{character:Miki Nikaidou}Nothing, never mind.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|17|583badef4fd6360c7658e2e08c0d2e98"
+msgstr "{character:二阶堂美树}没什么，不必在意。\n"
+
+#: event/kakekuru02_chs.bytes:10
+msgctxt ""
+"{character:Wanjirou}By the way, why are you here with me to welcome guests? "
+"What happened to her, woof?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|18|708fe96d395f349ae002640b412e85b9"
+msgstr "{character:汪次郎}说起来，怎么是二阶堂你出来跟我迎接客人汪？那家伙怎么了汪？\n"
+
+#: event/kakekuru02_chs.bytes:11
+msgctxt ""
+"{character:Miki Nikaidou}Ichihime's fine, she just ate too much spicy food, "
+"so she has a stomachache, hehe... She just needs some rest.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|19|3b7741e326433330fa0c4eb8f336f84c"
+msgstr "{character:二阶堂美树}一姬的状况还好，只是吃了太多麻辣料理不小心吃坏肚子罢了，呵呵……休息一下就好。\n"
+
+#: event/kakekuru02_chs.bytes:12
+msgctxt "{character:Yumeko Jabami}What? Mr. Wanjirou?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|21|cb2d183ae5cc011fdef4d05af3bccf17"
+msgstr "{character:蛇喰梦子}怎么了？汪次郎先生？\n"
+
+#: event/kakekuru02_chs.bytes:13
+msgctxt ""
+"{character:Miki Nikaidou}A high school girl who's that adaptable is kinda "
+"scary...\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|22|97a2ccdc4f1e89c0c188eef733b85194"
+msgstr "{character:二阶堂美树}能轻易适应这种状况的女高中生，反而有点恐怖吧……\n"
+
+#: event/kakekuru02_chs.bytes:14
+msgctxt ""
+"{character:Wanjirou}I knew it! I know why your uniform looks familiar to me,"
+" woof. Miki, do you remember the high school student who came earlier?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|23|87b30d801e2e8a94bf71a0f614375139"
+msgstr "{character:汪次郎}我就说怎么觉得梦子你的校服看起来眼熟汪，美树，还记得先前过来的高中生吗？\n"
+
+#: event/kakekuru02_chs.bytes:15
+msgctxt ""
+"{character:Miki Nikaidou}Now that you mention it, although their uniforms "
+"are a little different, they do look like they're from the same school.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|24|aee5b602c55217adea9d2493a3ea3e14"
+msgstr "{character:二阶堂美树}这么一说，虽然样子有点不同，确实是同一所学校的制服呢。\n"
+
+#: event/kakekuru02_chs.bytes:16
+msgctxt "{character:Yumeko Jabami}Oh, somebody got here before us?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|25|7627f50721706dca8601617a6f49165d"
+msgstr "{character:蛇喰梦子}啊啦，在我们之前还有其他人来了吗？\n"
+
+#: event/kakekuru02_chs.bytes:17
+msgctxt ""
+"{character:Wanjirou}Woof, she should still be in the reception room. Maybe "
+"you know each other.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|26|b9084d7836c574e4fe49d2384722638e"
+msgstr "{character:汪次郎}汪，她应该还在客室里待着，说不定你们认识。\n"
+
+#: event/kakekuru02_chs.bytes:18
+msgctxt "{character:Yumeko Jabami}Maybe it’s fate. Who might it be?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|27|3c893494a98ee3baf2305c309015687f"
+msgstr "{character:蛇喰梦子}真是有缘，不知道是谁呢？\n"
+
+#: event/kakekuru02_chs.bytes:19
+msgctxt "{character:Wanjirou}Please come in.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|28|b78aaf24bae3c3f23b0be91c2879924a"
+msgstr "{character:汪次郎}请进。\n"
+
+#: event/kakekuru02_chs.bytes:20
+msgctxt ""
+"{character:Yumeko Jabami}Wow, there really is a mahjong table in here. So we"
+" can gamble now? Alright, didn't you just mention there's another person? "
+"Wanna play mahjong together?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|30|8c225246defe9a0255a8569b98596cfa"
+msgstr "{character:蛇喰梦子}啊啦，还真是，居然有麻将桌，这不就能赌博了吗？对了，你们刚才不是还提到一个人吗？要不要一起打牌啊？\n"
+
+#: event/kakekuru02_chs.bytes:21
+msgctxt ""
+"{character:Wanjirou}Compared to her schoolmate, she cares more about "
+"mahjong, woof...\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|32|db70929fcb81aaa034e156b518a56598"
+msgstr "{character:汪次郎}比起同学居然更在乎的是麻将汪……\n"
+
+#: event/kakekuru02_chs.bytes:22
+msgctxt ""
+"{character:Yumeko Jabami}Ah, sorry, I almost forgot. Who was the one who "
+"arrived earlier—\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|34|21fa6600667f400a96b9aeccf29224d1"
+msgstr "{character:蛇喰梦子}啊，抱歉，差点把那件事给忘了，先来这里的人是谁——\n"
+
+#: event/kakekuru02_chs.bytes:23
+msgctxt "{character:Midari Ikishima}Yo! Yumeko!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|35|1a02b113b2430101638c0ede923a0d42"
+msgstr "{character:生志摩妄}哟！梦子！\n"
+
+#: event/kakekuru02_chs.bytes:24
+msgctxt "{character:Yumeko Jabami}... Oh, it's you.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|36|d08ce71a1881023f6ad325a77e21dc01"
+msgstr "{character:蛇喰梦子}……哦，是你啊。\n"
+
+#: event/kakekuru02_chs.bytes:25
+msgctxt ""
+"{character:Wanjirou}Woof?! You could cut the tension with a knife! Is it "
+"normal for high school girls to look at each other like that?!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|39|f977205600c86e7a72bd610112cf5843"
+msgstr "{character:汪次郎}汪？！气氛好差！女高中生是会露出这种冷淡表情的生物吗汪？！\n"
+
+#: event/kakekuru02_chs.bytes:26
+msgctxt ""
+"{character:Miki Nikaidou}It seems there is a story behind it that we don't "
+"know about.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|40|966657ad6020f96bc5aa67d017301961"
+msgstr "{character:二阶堂美树}看来，有些我们不知道的内情呢。\n"
+
+#: event/kakekuru02_chs.bytes:27
+msgctxt "Midari Ikishima\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|41|27d18b3b86c656f6e3e3f09befb8b5c5"
+msgstr "生志摩妄\n"
+
+#: event/kakekuru02_chs.bytes:28
+msgctxt ""
+"{character:Midari Ikishima}Hehe, hehehe... The wait was totally worth it.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|42|c7287beafec19df9fcf7f4372b2eb108"
+msgstr "{character:生志摩妄}呜嘿，呜嘿嘿……等那么久真是等对了。\n"
+
+#: event/kakekuru02_chs.bytes:29
+msgctxt ""
+"{character:Midari Ikishima}To be meeting you, even in this weird place. Must"
+" be destiny!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|44|b5e83751b5563ac1bf6cebf09630c8cd"
+msgstr "{character:生志摩妄}连在这种莫名其妙的地方都能碰面，所谓命运不就是这么回事吗！\n"
+
+#: event/kakekuru02_chs.bytes:30
+msgctxt "{character:Yumeko Jabami}Yeah, some terrible misfortune.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|45|3e9ee995e44acf446fedc5adb9beea8f"
+msgstr "{character:蛇喰梦子}嗯，是糟糕的厄运。\n"
+
+#: event/kakekuru02_chs.bytes:31
+msgctxt ""
+"{character:Midari Ikishima}Fortune or misfortune! That doesn't matter!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|46|43c3ab2bf81b7dd4fb5fbb229a25da47"
+msgstr "{character:生志摩妄}幸运也好厄运也罢！那种东西无关紧要！\n"
+
+#: event/kakekuru02_chs.bytes:32
+msgctxt ""
+"{character:Wanjirou}Woof?! Are high school girls supposed to say things... "
+"like that?! Woof?!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|50|c32e3ed9ea7ca24c45bb81c93ba17ceb"
+msgstr "{character:汪次郎}汪？！这是女高中生该有的措辞吗汪？！\n"
+
+#: event/kakekuru02_chs.bytes:33
+msgctxt "{character:Yumeko Jabami}I refuse.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|53|d22d8ce967b7b5056ec15f56b79a089a"
+msgstr "{character:蛇喰梦子}我拒绝。\n"
+
+#: event/kakekuru02_chs.bytes:34
+msgctxt "{character:Midari Ikishima}Huh?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|54|f26b7a1f0a39c2d9b2d090060bb469b6"
+msgstr "{character:生志摩妄}哈？\n"
+
+#: event/kakekuru02_chs.bytes:35
+msgctxt ""
+"{character:Yumeko Jabami}Dream all you want, but I've never said I'm down.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|55|43596ddc1887000443bbee3e7c50a184"
+msgstr "{character:蛇喰梦子}要怎么样妄想随便你，我没说过要跟你赌。\n"
+
+#: event/kakekuru02_chs.bytes:36
+msgctxt "{character:Midari Ikishima}You... You must be joking, Yumeko.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|56|dd7f0a6bc596bad23995d5cfe964d057"
+msgstr "{character:生志摩妄}开……开玩笑吧，梦子。\n"
+
+#: event/kakekuru02_chs.bytes:37
+msgctxt ""
+"{character:Midari Ikishima}You've revved the engine, and now you wanna hit "
+"the brakes?! Come on, you can't be like that!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|57|6b59d9c2b87a686f68c0729559730171"
+msgstr "{character:生志摩妄}引擎都已经发动了，事到如今你才要踩刹车吗？！没有这种事情吧！\n"
+
+#: event/kakekuru02_chs.bytes:38
+msgctxt "{character:Yumeko Jabami}…\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|58|20ca599da06f15a5b6718b88c65569e6"
+msgstr "{character:蛇喰梦子}……\n"
+
+#: event/kakekuru02_chs.bytes:39
+msgctxt "{character:Midari Ikishima}... P—please, don't give me that look...\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|59|52055086c677d81ca37eb4a9e76ebb18"
+msgstr "{character:生志摩妄}……拜、拜托，不要摆出那种表情……\n"
+
+#: event/kakekuru02_chs.bytes:40
+msgctxt ""
+"{character:Midari Ikishima}If you don't want to play with me, then what "
+"should I do with my... I can't get it out of my system...\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|60|08750dc305731ad743088518109ef589"
+msgstr "{character:生志摩妄}要是梦子你不陪我的话，那我……那我这无处宣泄的……到底该怎么办才好？\n"
+
+#: event/kakekuru02_chs.bytes:41
+msgctxt "{character:Yumeko Jabami}That's none of my business.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|61|c9134322ed923e8ac3e45c8b4864d476"
+msgstr "{character:蛇喰梦子}那跟我无关。\n"
+
+#: event/kakekuru02_chs.bytes:42
+msgctxt ""
+"{character:Midari Ikishima}Ah... T—This is just too much... Yumeko? Where "
+"are you going?!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|62|c952dc5d46c6fb40d8fe2523381c5fa0"
+msgstr "{character:生志摩妄}呜……太、太过分了……梦子？梦子你上哪去？！\n"
+
+#: event/kakekuru02_chs.bytes:43
+msgctxt "{character:Yumeko Jabami}That's none of your business...\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|63|b8201265071d2e917e75e5a0edaa1de1"
+msgstr "{character:蛇喰梦子}不关你的事……\n"
+
+#: event/kakekuru02_chs.bytes:44
+msgctxt "{character:Miki Nikaidou}Wait a second.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|64|73c654e73fd0cddac444d19d76f8256c"
+msgstr "{character:二阶堂美树}且慢。\n"
+
+#: event/kakekuru02_chs.bytes:45
+msgctxt ""
+"{character:Wanjirou}Right, right, woof. We're all friends. Why make it "
+"awkward? Let's do what she suggested: sit down, play mahjong, and chill. "
+"Wouldn't that be nice?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|65|5d6977e509fb95b83160a2877432c670"
+msgstr "{character:汪次郎}对、对汪，都是熟人，气氛何必搞得那么僵，就如她说的，坐下来打打麻将聊聊天不也挺好的吗？\n"
+
+#: event/kakekuru02_chs.bytes:46
+msgctxt "{character:Yumeko Jabami}I refuse. I'll play with anyone except her.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|66|91ac16e09821c6ec43fa3daed3f528c0"
+msgstr "{character:蛇喰梦子}我拒绝，其他人都可以，唯独不愿意跟她一起。\n"
+
+#: event/kakekuru02_chs.bytes:47
+msgctxt "{character:Midari Ikishima}Don't—don't say that... Yumeko, Yumeko!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|67|2edf76a981079849819953f48c31af9c"
+msgstr "{character:生志摩妄}不、不要这么说嘛……梦子，梦子！\n"
+
+#: event/kakekuru02_chs.bytes:48
+msgctxt ""
+"{character:Miki Nikaidou}Is there a reason you hate playing with her so "
+"much?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|69|c7eb6d2845b31dd67e1469d61b02f3e7"
+msgstr "{character:二阶堂美树}你那么抗拒跟她玩，是有什么原因吗？\n"
+
+#: event/kakekuru02_chs.bytes:49
+msgctxt ""
+"{character:Yumeko Jabami}Because she broke the rules so many times in the "
+"first place.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|70|9aa9cff4ebae4e4fb1ecd07347fb4cae"
+msgstr "{character:蛇喰梦子}是她一而再再而三不守规矩在先。\n"
+
+#: event/kakekuru02_chs.bytes:50
+msgctxt "{character:Miki Nikaidou}I see. So it's Midari's fault, hehe...\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|71|3aa717f1d5b0ad7ca22b0e9601c5eee1"
+msgstr "{character:二阶堂美树}原来如此，那的确是妄的不是呢，呵呵……\n"
+
+#: event/kakekuru02_chs.bytes:51
+msgctxt "{character:Yumeko Jabami}Eh? What do you mean?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|73|0f398563c669bbdfff4b73e3afee7ff8"
+msgstr "{character:蛇喰梦子}诶？什么意思？\n"
+
+#: event/kakekuru02_chs.bytes:52
+msgctxt ""
+"{character:Miki Nikaidou}Let me guess, you must love gambling, right?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|74|0b566d2d0f2961c6c9e1220fcfe6c44b"
+msgstr "{character:二阶堂美树}容我猜猜，梦子你应该，很喜欢赌博吧？\n"
+
+#: event/kakekuru02_chs.bytes:53
+msgctxt "{character:Yumeko Jabami}Yep, of course. Gambling is my jam!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|75|d4687cabed5c440388d0b9b55e03d77b"
+msgstr "{character:蛇喰梦子}嗯，当然，我最喜欢赌博了！\n"
+
+#: event/kakekuru02_chs.bytes:54
+msgctxt ""
+"{character:Miki Nikaidou}Right. It's strange, then. You refuse to do your "
+"favorite thing just because you don't like Ikishima.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|76|c66ee68ebf222124f95e3dfc35fdafe0"
+msgstr "{character:二阶堂美树}果然啊，那这么说就很奇怪咯，因为讨厌妄的关系，而拒绝了最喜欢的赌博。\n"
+
+#: event/kakekuru02_chs.bytes:55
+msgctxt "{character:Yumeko Jabami}Ah, well...\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|78|a98ba2d31daef2d56f0905056f261297"
+msgstr "{character:蛇喰梦子}啊，这……\n"
+
+#: event/kakekuru02_chs.bytes:56
+msgctxt ""
+"{character:Miki Nikaidou}It may sound like a sophistry, but putting that "
+"aside, mahjong is a four-player game.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|81|c6ff59b3f13f3649b929444d6644b5aa"
+msgstr "{character:二阶堂美树}这说法虽稍有点诡辩的意思，但抛开这点，麻将可是四人参与的游戏。\n"
+
+#: event/kakekuru02_chs.bytes:57
+msgctxt "{character:Yumeko Jabami}No, I didn't mean it... Ok, I got it.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|83|30471e1cd731f17b69e5bb0f8a5b89ec"
+msgstr "{character:蛇喰梦子}不，我没这个意思……好吧，我明白了。\n"
+
+#: event/kakekuru02_chs.bytes:58
+msgctxt ""
+"{character:Yumeko Jabami}Just this time, then. Mr. Wanjirou, Miss "
+"Nikaidou.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|84|cb9ca87f892af450093541f1ad5bc1f3"
+msgstr "{character:蛇喰梦子}那就只玩一次，汪次郎先生，二阶堂小姐。\n"
+
+#: event/kakekuru02_chs.bytes:59
+msgctxt ""
+"{character:Miki Nikaidou}Hehe, that's my girl. Don't think too much, just "
+"have fun.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|85|d00fe24d866b3dde74811067522fc486"
+msgstr "{character:二阶堂美树}呵呵，这就对了，不用想得那么复杂，开心一把再说。\n"
+
+#: event/kakekuru02_chs.bytes:60
+msgctxt "{character:Midari Ikishima}Oh oh oh?! Yumeko, you are staying?!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|86|05d856cc44bfb26761ca0fb73d4ee722"
+msgstr "{character:生志摩妄}哦哦哦？！梦子你肯留下来了？！\n"
+
+#: event/kakekuru02_chs.bytes:61
+msgctxt ""
+"{character:Wanjirou}That's Nikaidou for you. So good at persuading, woof.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|87|5b8779e6377558df9bdf7316a5f6e13c"
+msgstr "{character:汪次郎}不愧是二阶堂，劝人有一套汪。\n"
+
+#: event/kakekuru02_chs.bytes:62
+msgctxt "{character:Miki Nikaidou}Midari, come join us, too.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|88|4feb4e396b76ac00e5722d74f6295e0f"
+msgstr "{character:二阶堂美树}妄，你也过来吧。\n"
+
+#: event/kakekuru02_chs.bytes:63
+msgctxt ""
+"{character:Miki Nikaidou}Don't worry, Yumeko. I just played with Midari, so "
+"I know a thing or two about her now.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|89|32e43aba60e22169f8c73a3100f73e15"
+msgstr "{character:二阶堂美树}不用担心，梦子，我刚才和妄她交过手，也对她有个大概的了解。\n"
+
+#: event/kakekuru02_chs.bytes:64
+msgctxt ""
+"{character:Miki Nikaidou}She is indeed a slightly dangerous kid, but she "
+"cares about winning. She'll behave herself. Right, Midari?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|90|b4522bcebad6e79b81d78a0d6634721b"
+msgstr "{character:二阶堂美树}的确是个稍微有点危险的孩子，可在胜负上还是很认真的。我相信她会老老实实地，对吧，妄？\n"
+
+#: event/kakekuru02_chs.bytes:65
+msgctxt ""
+"{character:Midari Ikishima}Of—of course. Yumeko, come... Come play with "
+"us.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|91|afecedaff5fd20a8119d1d3317b92022"
+msgstr "{character:生志摩妄}当、当然，梦子，来……来玩吧。\n"
+
+#: event/kakekuru02_chs.bytes:66
+msgctxt "{character:Yumeko Jabami}... If Miss Nikaidou says so.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|92|56cbbc4e980f31a27dc867b425cc1e68"
+msgstr "{character:蛇喰梦子}……既然二阶堂小姐这么说了。\n"
+
+#: event/kakekuru02_chs.bytes:67
+msgctxt "{character:Midari Ikishima}Good... Good! Miki! It's so kind of you!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|93|84eca12ca2b3679f095dce7f4136fe01"
+msgstr "{character:生志摩妄}好……好！美树！你这家伙人不错啊！\n"
+
+#: event/kakekuru02_chs.bytes:68
+msgctxt "{character:Yumeko Jabami}A little bit.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|95|f9b9a2225914e7f954f4e66fa1f68026"
+msgstr "{character:蛇喰梦子}稍微玩过一点。\n"
+
+#: event/kakekuru02_chs.bytes:69
+msgctxt ""
+"{character:Yumeko Jabami}What's special with the rules, Miss Nikaidou?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|97|73b97f65f81d9b33e9bd29e40b42353d"
+msgstr "{character:蛇喰梦子}规则上有什么特别吗？二阶堂小姐。\n"
+
+#: event/kakekuru02_chs.bytes:70
+msgctxt ""
+"{character:Yumeko Jabami}I'm interested just imagining it! Let's go! I want "
+"to play it!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|109|00081e2edd652530b1af0f8cbeeaeb20"
+msgstr "{character:蛇喰梦子}光是想想就觉得好有趣！开始吧！我想快点体验一下！\n"
+
+#: event/kakekuru02_chs.bytes:71
+msgctxt "{character:Wanjirou}Woof woof woof?!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|110|387d473255f119be73242e36344da0b7"
+msgstr "{character:汪次郎}汪汪汪？！\n"
+
+#: event/kakekuru02_chs.bytes:72
+msgctxt ""
+"{character:Miki Nikaidou}Hehe... Wonderful. Your new rules are quite "
+"popular.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|111|8727855e5b36fb30d2869d37e8e1ea0f"
+msgstr "{character:二阶堂美树}呵呵……太好了，汪次郎你设计的规则很讨人喜欢呢。\n"
+
+#: event/kakekuru02_chs.bytes:73
+msgctxt "{character:Wanjirou}Why do I feel a little frustrated…?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|112|841ff794589ab5c5477642f2dd048bd7"
+msgstr "{character:汪次郎}总觉得有种挫败感……\n"
+
+#: event/kakekuru02_chs.bytes:74
+msgctxt ""
+"{character:Miki Nikaidou}I want to play, too. But I'm worried about "
+"Ichihime. I'll go check up on her first. Please give me a few minutes.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|113|4b90a7fa0b95497be1f3e90069334c7b"
+msgstr "{character:二阶堂美树}我也想早点开始玩，不过一姬的状况有点让人担心，我想先去看看。梦子你们稍等一下。\n"
+
+#: event/kakekuru02_chs.bytes:75
+msgctxt ""
+"{character:Wanjirou}Nikaidou, why did you insist Yumeko join the game, "
+"woof?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|116|cdcac0e38ed3661998c07e6a71022033"
+msgstr "{character:汪次郎}二阶堂，你为什么那么执着于让梦子参与游戏汪？\n"
+
+#: event/kakekuru02_chs.bytes:76
+msgctxt "{character:Miki Nikaidou}To lighten up the mood, I suppose?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|117|268354fca49b8afaad50ea0ca7edba43"
+msgstr "{character:二阶堂美树}不是为了缓和气氛吗？\n"
+
+#: event/kakekuru02_chs.bytes:77
+msgctxt ""
+"{character:Miki Nikaidou}You are surprisingly sharp today... Wanjirou, why "
+"do you think they came to this shrine?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|119|9bad3f3f681dd19d36d627a7ef71b3d3"
+msgstr "{character:二阶堂美树}今天意外的敏锐呢……汪次郎，你觉得她们，为什么会来到这间神社？\n"
+
+#: event/kakekuru02_chs.bytes:78
+msgctxt "{character:Wanjirou}How am I supposed to know, woof?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|120|4670483825a711fbcacad10d16ae8d66"
+msgstr "{character:汪次郎}我怎么知道汪。\n"
+
+#: event/kakekuru02_chs.bytes:79
+msgctxt ""
+"{character:Miki Nikaidou}At the moment, I don't know what their wishes are. "
+"So, according to the tradition in the shrine, we can only treat them with "
+"mahjong first.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|122|ad0ea229607c6098d9228fdf8a093d65"
+msgstr "{character:二阶堂美树}眼下也不知道她们的愿望为何，既然如此，按照神社的老规矩，只能先用麻将来招待她们了。\n"
+
+#: event/kakekuru02_chs.bytes:80
+msgctxt ""
+"{character:Wanjirou}You've got a point. Well, doing something is better than"
+" doing nothing, woof.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|123|9aaed1b23fa289fb97811e349b3a4f50"
+msgstr "{character:汪次郎}说是这么说没错，算了，做点事打发时间，总比干等着要好汪。\n"
+
+#: event/kakekuru02_chs.bytes:81
+msgctxt "{character:Wanjirou}Madness?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|125|2beb8921e6f6a0805a6856d9a163703e"
+msgstr "{character:汪次郎}狂？\n"
+
+#: event/kakekuru02_chs.bytes:82
+msgctxt ""
+"{character:Miki Nikaidou}That kid is… Well, she's clearly a gambling "
+"maniac.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|126|c4f0e726343decec2c30620575b54c67"
+msgstr "{character:二阶堂美树}那孩子……显而易见，是个能为赌博痴醉的狂人呢。\n"
+
+#: event/kakekuru02_chs.bytes:83
+msgctxt ""
+"{character:Miki Nikaidou}What will the games be like? I can't wait, "
+"hehe...\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|127|fc274710f463eecb5f729b1762cad9fa"
+msgstr "{character:二阶堂美树}待会儿会有什么样的对局？真是令人期待呢，呵呵……\n"
+
+#: event/kakekuru02_chs.bytes:84
+msgctxt " \n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|129|d784fa8b6d98d27699781bd9a7cf19f0"
+msgstr " \n"
+
+#: event/kakekuru02_chs.bytes:85
+msgctxt ""
+"{character:Wanjirou}(Ikishima is completely ignored... But she doesn't seem "
+"to mind at all. And she even looks somewhat infatuated?)\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|130|8c5553058d5990b98d96dbf9c303fbf4"
+msgstr "{character:汪次郎}完全被无视了汪，生志摩……不过她别说不在意了，反倒还一副痴痴的表情？！\n"
+
+#: event/kakekuru02_chs.bytes:86
+msgctxt ""
+"{character:Yumeko Jabami}Sorry, I'm sure Mary didn't mean to be rude. She "
+"just panicked.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|153|9ee9771c31915b44fb84a258aeb3caac"
+msgstr "{character:蛇喰梦子}不好意思啊，我相信芽亚里没有恶意，刚才她只是一时混乱。\n"
+
+#: event/kakekuru02_chs.bytes:87
+msgctxt ""
+"{character:Wanjirou}Woof! Rude. High school girls scare too easy these "
+"days.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|247|290edca572affe5740d3872806f38349"
+msgstr "{character:汪次郎}真失礼汪，现在的女高中生怎么都一惊一乍的。\n"
+
+#: event/kakekuru02_chs.bytes:88
+msgctxt ""
+"{character:Wanjirou}A god needs respect, not fear! Besides, I'm not scary at"
+" all. Seriously, I'm cute, am I not?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|248|e64b8127d0e119743827f14b3f288173"
+msgstr ""
+"{character:汪次郎}像本大爷这样高贵的存在需要的是尊重而不是恐惧！更何况我又不是长得凶神恶煞，真要说也该是惹人怜爱的可爱型才对吧？\n"
+
+#: event/kakekuru02_chs.bytes:89
+msgctxt ""
+"{character:Yumeko Jabami}Nice to meet you, too, woof! Ah, I guess I should "
+"have said 'nyaa.'\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|250|6186c74eae94af3f4634b4b59bb1818b"
+msgstr "{character:蛇喰梦子}我也很高兴汪~啊，我的情况应该说「喵」才对呢。\n"
+
+#: event/kakekuru02_chs.bytes:90
+msgctxt "{character:Wanjirou}A silly cat, for sure... Ah, yes, Yumeko.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|251|1a23e52fad3243ef5dd686507dd84435"
+msgstr "{character:汪次郎}搞什么啊她……啊，对了，梦子。\n"
+
+#: event/kakekuru02_chs.bytes:91
+msgctxt "{character:Yumeko Jabami}Excuse me! Ah, is that a mahjong table?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|252|4809b3a37c1a73aff654315c6118cdbe"
+msgstr "{character:蛇喰梦子}打扰了~啊，那个，莫非是麻将桌吗？\n"
+
+#: event/kakekuru02_chs.bytes:92
+msgctxt ""
+"Wanjirou and Miki don't know how to react after seeing how excited Yumeko "
+"got when she noticed the mahjong table.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|253|f0b25e9d07d8376ee352645f4c0fb736"
+msgstr "看到发现麻将桌后突然兴奋到两眼闪闪发亮的梦子，汪次郎和美树一时不知作何反应。\n"
+
+#: event/kakekuru02_chs.bytes:93
+msgctxt ""
+"{character:Miki Nikaidou}It'd be more accurate to say she cares more about "
+"'gambling', hehe...\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|254|fb5dc35cbb875493dfc369c51c1e5731"
+msgstr "{character:二阶堂美树}真要说的话，应该是「赌博」这件事吧，呵呵……\n"
+
+#: event/kakekuru02_chs.bytes:94
+msgctxt ""
+"{character:Midari Ikishima}I suddenly appeared in this garbage shrine. "
+"Although I didn't know what was going on, I had a hunch that I'd see you "
+"here!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|255|b5dfa109a97de7e70e53cd9f30ce63d1"
+msgstr "{character:生志摩妄}突然来到这么间破烂神社，虽然不知道发生了什么，但总有种预感，在这里会碰上你！\n"
+
+#: event/kakekuru02_chs.bytes:95
+msgctxt ""
+"{character:Midari Ikishima}Hehe, come and turn me on, Yumeko. I've been "
+"imagining what will go down between us. I almost... Can't hold it anymore—\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|258|86c089e1733a326fa3e50e28e594de7e"
+msgstr "{character:生志摩妄}呜嘿，来嘛，梦子。刚才我一直坐在这脑补着即将发生的种种，已经快……快忍不住了——\n"
+
+#: event/kakekuru02_chs.bytes:96
+msgctxt ""
+"{character:Midari Ikishima}See that mahjong table over there? With that, "
+"there is only one thing left for us to do... Let's get down to it, Yumeko!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|259|2a3434142f1ebb2965a53cf56d3a1474"
+msgstr ""
+"{character:生志摩妄}看到那边的麻将桌没？既然有这玩意在，那我们之间能做的只有一件事……虽然今天没带左轮很可惜，但并不妨碍我们「来一发」是吧~梦—子~\n"
+
+#: event/kakekuru02_chs.bytes:97
+msgctxt "{character:Wanjirou}Woof... Why did things turn out this way, woof…?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|260|b245162ec296619899948f268e8d5a8d"
+msgstr "{character:汪次郎}怎……怎么突然变成这样了汪……\n"
+
+#: event/kakekuru02_chs.bytes:98
+msgctxt ""
+"{character:Miki Nikaidou}Does that mean you care more about holding a grudge"
+" than you do about the gambling you say you love?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|261|df9bd78f49d321f25ffd34cec007887d"
+msgstr "{character:二阶堂美树}那不就证明，梦子你比起最喜欢的赌博，更在乎的是「讨厌某人」的这件事吗？\n"
+
+#: event/kakekuru02_chs.bytes:99
+msgctxt ""
+"Yumeko intended to leave the reception room to keep herself from getting "
+"\"jinxed,\" but Nikaidou's words stopped her.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|262|32f3efe1a7831768adcd03c1d4778ef4"
+msgstr "本想尽快离开客室远离「瘟神」，可二阶堂的一番话却让梦子寸步难行。\n"
+
+#: event/kakekuru02_chs.bytes:100
+msgctxt ""
+"{character:Miki Nikaidou}You are welcome! Yumeko, have you ever played "
+"mahjong?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|264|ed156880914c087aa532dbfc5d7b9051"
+msgstr "{character:二阶堂美树}不客气~梦子，有玩过麻将吗？\n"
+
+#: event/kakekuru02_chs.bytes:101
+msgctxt ""
+"{character:Miki Nikaidou}The Yaku and Han are the same as Riichi Mahjong, "
+"but the process is a little different. Yumeko, have you heard of 'Bloody "
+"Mahjong'?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|267|a5e23659af090d8a786377b94d76acef"
+msgstr "{character:二阶堂美树}基础规则和普通的麻将没什么区别，但流程稍微有点不同，梦子你对异国的麻将规则了解吗？\n"
+
+#: event/kakekuru02_chs.bytes:102
+msgctxt ""
+"{character:Yumeko Jabami}It rings a bell. Its name comes from the local "
+"rules called \"Battle to the Bloody End\" in Sichuan, China. Am I right?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|268|adb02dcd5c204ac69e4d8b875393237e"
+msgstr "{character:蛇喰梦子}在学校偶尔会跟同学玩点比较特殊的规则，不知二阶堂小姐说的是哪种？\n"
+
+#: event/kakekuru02_chs.bytes:103
+msgctxt ""
+"{character:Miki Nikaidou}This time's special rules will introduce some "
+"features based on 'Battle to the Bloody End' to Riichi Mahjong when a player"
+" wins.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|272|bb814da37da22a064bacefa8cc6742bd"
+msgstr "{character:二阶堂美树}这个特殊规则的关键，在于「持续到底」。\n"
+
+#: event/kakekuru02_chs.bytes:104
+msgctxt "{character:Yumeko Jabami}Oh? Could it be?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|274|f2f660f2479ab8b3097195df1a1e8214"
+msgstr "{character:蛇喰梦子}「持续到底」吗……啊啦？！难道说？\n"
+
+#: event/kakekuru02_chs.bytes:105
+msgctxt ""
+"{character:Miki Nikaidou}I'm guessing you've already figured it out. Yes, "
+"the game keeps going even after someone wins.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|275|0f396ca0066ac9365f43d5784d4be539"
+msgstr ""
+"{character:二阶堂美树}相信你应该明白了，没错，一人和牌并不会立刻结束当局，其他人仍有和牌的机会，直到只剩下最后一人，或者流局为止。\n"
+
+#: event/kakekuru02_chs.bytes:106
+msgctxt ""
+"{character:Yumeko Jabami}In other words, when there are winners, the other "
+"players have more chances to draw. I'd even call it the perfect opportunity "
+"to optimize their hand.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|276|4ef8c62bafb57be97b57de3ce6968778"
+msgstr "{character:蛇喰梦子}原来如此，也就是说，自以为稳操胜券的时候，依然可能被别人迎头赶上……\n"
+
+#: event/kakekuru02_chs.bytes:107
+msgctxt "{character:Wanjirou}Hehe, terrifying, right? I designed it, myself—\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|277|50e4c086c5060a036c344888a9dadc09"
+msgstr "{character:汪次郎}哼哼，是不是很恐怖汪，这可是本大爷亲自设计的——\n"
+
+#: event/kakekuru02_chs.bytes:108
+msgctxt "{character:Wanjirou}I'll go check on that silly cat, too, woof.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|278|6d0f578c1704f073f289808b42c32e56"
+msgstr "{character:汪次郎}本大爷也去看看汪，她还真是不让人省心。\n"
+
+#: event/kakekuru02_chs.bytes:109
+msgctxt ""
+"{character:Wanjirou}I've known you for a long time, woof! You definitely had"
+" some other reasons for doing it, woof.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|279|4de06ce91ad131b6201a44e2c70ee679"
+msgstr "{character:汪次郎}我是第一天认识你汪？你会那么做是有其他理由吧。\n"
+
+#: event/kakekuru02_chs.bytes:110
+msgctxt ""
+"{character:Miki Nikaidou}You don't sound like a shrine staff member. They "
+"came here because they have wishes.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|281|28001809d159378b3bbced39d5da88c3"
+msgstr "{character:二阶堂美树}啊啦，在那装糊涂呢。会来到这里，当然是带有愿望。\n"
+
+#: event/kakekuru02_chs.bytes:111
+msgctxt ""
+"{character:Wanjirou}And it's weird to ask a little girl to apologize. "
+"Yumeko, right? Nice to meet a kind girl like you, woof!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|299|a199d2f03664ab6cc651110ca16d15d5"
+msgstr "{character:汪次郎}况且让你道歉也很奇怪，你叫梦子对吧？很高兴认识你这样和善的人类汪~\n"
+
+#: event/kakekuru02_chs.bytes:112
+msgctxt ""
+"{character:Miki Nikaidou}Don't let them surprise you so easily. These are no"
+" ordinary high school girls, Wanjirou.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|319|35e0cb6ab7bcf65dd9867929ec9c5b17"
+msgstr "{character:二阶堂美树}事到如今还是别把她们当作普通的女高中生在那大惊小怪了，汪次郎。\n"
+
+#: event/kakekuru02_chs.bytes:113
+msgctxt "{character:Miki Nikaidou}But you aren't any better, are you, Yumeko?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|320|124e7b74035498d07ce5e96844a565f6"
+msgstr "{character:二阶堂美树}可梦子你不是一样有问题吗？\n"
+
+#: event/kakekuru02_chs.bytes:114
+msgctxt ""
+"{character:Midari Ikishima}The rules here are slightly different from what "
+"you've played, Yumeko.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|322|dc6ca9113456dfacff20067a481dd423"
+msgstr "{character:生志摩妄}这里的规则和梦子你玩的不太一样哦。\n"
+
+#: event/kakekuru02_chs.bytes:115
+msgctxt ""
+"{character:Miki Nikaidou}Leaving Wanjirou and me behind just because you "
+"want to shun someone makes us a little upset. And, your leaving keeps us "
+"from being able to start the game. Is that how you want to treat your "
+"beloved gambling?\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|323|3dcbb340d08f1b05b5c6015217834e8b"
+msgstr ""
+"{character:二阶堂美树}为了回避一人而抛下我和汪次郎，稍微让人有点伤心呢~况且，因为你而出现三缺一的情况，对最喜欢的赌博不也很失礼吗？\n"
+
+#: event/kakekuru02_chs.bytes:116
+msgctxt ""
+"{character:Miki Nikaidou}You're a knowledgeable gambler, indeed. Since "
+"you've heard of it, it'll be easier for me to explain.\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|324|5615440fa368d0c454eb48b10e9d4bd8"
+msgstr "{character:二阶堂美树}不愧是喜欢赌博的人，乐于尝试点新鲜东西。\n"
+
+#: event/kakekuru02_chs.bytes:117
+msgctxt ""
+"{character:Yumeko Jabami}In that case, the first winner might just run into "
+"the biggest trouble... Ah... Just thinking about it makes me...\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|325|2b07843d9c82cd4c2c875d8f9096a962"
+msgstr "{character:蛇喰梦子}每一局如果无法和牌，最糟糕的情况，甚至有可能一直放铳好多次……啊，啊啊……光是想想……\n"
+
+#: event/kakekuru02_chs.bytes:118
+msgctxt "{character:Yumeko Jabami}After all, I'm the 'loser-cat'. Nyaa! Nyaa!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|327|60bef63d33fa11a41ae8b67de57f2047"
+msgstr "{character:蛇喰梦子}毕竟我是「杂猫」嘛，喵~喵~\n"
+
+#: event/kakekuru02_chs.bytes:119
+msgctxt "{character:Yumeko Jabami}Okay, come back soon!\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|328|71264a706223ea8c17cbf7726707894e"
+msgstr "{character:蛇喰梦子}好的，快点回来哦~\n"
+
+#: event/kakekuru02_chs.bytes:120
+msgctxt ""
+"{character:Miki Nikaidou}Right? Besides, I'm looking forward to seeing the "
+"'madness' in that Yumeko kid\n"
+msgid ""
+"bytes|event/kakekuru02_en.bytes|event/kakekuru02|331|e99251b5a719ff371d044d765c8304f8"
+msgstr "{character:二阶堂美树}对吧~而且，我也很期待呢，那个叫梦子的孩子，她的「狂」。\n"
+
+#: event/kakekuru03_chs.bytes:1
+msgctxt ""
+"{character:Wanjirou}She was so angry when she left. Hope she didn't do "
+"anything stupid...\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|6|16528a79ff13bb865c2f3078407b2c7d"
+msgstr "{character:汪次郎}看她走之前火气那么大，不会一时冲动做出什么事吧……\n"
+
+#: event/kakekuru03_chs.bytes:2
+msgctxt "Wanjirou\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|7|a4457ec774822eb36a119f52d615aa0f"
+msgstr "汪次郎\n"
+
+#: event/kakekuru03_chs.bytes:3
+msgctxt "Midari Ikishima\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|8|27d18b3b86c656f6e3e3f09befb8b5c5"
+msgstr "生志摩妄\n"
+
+#: event/kakekuru03_chs.bytes:4
+msgctxt "Miki Nikaidou\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|9|a2b728730180f34a40fdf0be901a6778"
+msgstr "二阶堂美树\n"
+
+#: event/kakekuru03_chs.bytes:5
+msgctxt "Yumeko Jabami\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|10|6a94fe06a3fae1b268213881db2f0533"
+msgstr "蛇喰梦子\n"
+
+#: event/kakekuru03_chs.bytes:6
+msgctxt "{character:Mary Saotome}D-D-D-DOOOOOOOG MONSTER!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|11|4f614b5333d7c78848ca553529be0dce"
+msgstr "{character:早乙女芽亚里}犬犬犬犬犬妖——！\n"
+
+#: event/kakekuru03_chs.bytes:7
+msgctxt "Mary Saotome\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|14|c5c4bf383fd53818f6cfefa79d6c7384"
+msgstr "早乙女芽亚里\n"
+
+#: event/kakekuru03_chs.bytes:8
+msgctxt ""
+"{character:Mary Saotome}How can you be so calm? You are the one who's being "
+"weird!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|15|01f12b5498f32dea4cc34d1d8e385ba3"
+msgstr "{character:早乙女芽亚里}现在还冷静的你才奇怪吧！\n"
+
+#: event/kakekuru03_chs.bytes:9
+msgctxt ""
+"{character:Miki Nikaidou}Oh, what's the matter, Wanjirou? Did you offend our"
+" guests?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|16|fdf09cd962eb9e2aa06b7c6135baa776"
+msgstr "{character:二阶堂美树}啊啦，怎么了汪次郎，莫非是冒犯了客人？\n"
+
+#: event/kakekuru03_chs.bytes:10
+msgctxt "{character:Wanjirou}I'm the one being offended, woof!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|17|6e115471f81f53675d64e4ff8f67145f"
+msgstr "{character:汪次郎}我才是被冒犯的那个汪！\n"
+
+#: event/kakekuru03_chs.bytes:11
+msgctxt ""
+"{character:Mary Saotome}A human? Are you an exorcist? Please! Dispel this "
+"monster!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|18|2a960607ef6d993201eb0e392e5f7cb4"
+msgstr "{character:早乙女芽亚里}人类？是退魔师吗？拜托了！赶紧把这妖怪驱逐掉！\n"
+
+#: event/kakekuru03_chs.bytes:12
+msgctxt ""
+"{character:Mary Saotome}Ah, wait a second. If you've appeared in a place "
+"like this, who knows what you are? What monster are you? A beautiful lady in"
+" a kimono... I get it! You're the Snow Woman!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|19|93fd10aba12aa07462e89bf942d990df"
+msgstr "{character:早乙女芽亚里}啊，不对，会在这种地方出现的谁知道是什么东西，你又是什么妖怪？穿和服的美女……我知道了！是雪女！\n"
+
+#: event/kakekuru03_chs.bytes:13
+msgctxt ""
+"{character:Miki Nikaidou}The Snow Woman doesn't appear at this time of year."
+" Don't worry, I'm a human and a guest here, just like you.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|20|a7b846fbaebff1c1d7b0ba54d888e895"
+msgstr "{character:二阶堂美树}这个季节雪女可不会来神社乱逛哦，不用担心，我是人类，和你们一样是来此处作客的客人罢了。\n"
+
+#: event/kakekuru03_chs.bytes:14
+msgctxt ""
+"{character:Wanjirou}You come here too often to be a guest, don't you think, "
+"woof?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|21|dba01c565fad2dfd4721ccba4dc64e82"
+msgstr "{character:汪次郎}作为客人上门频率是不是过高了点汪？\n"
+
+#: event/kakekuru03_chs.bytes:15
+msgctxt ""
+"{character:Wanjirou}I'm not good at this... It's my fault. I'm counting on "
+"you, Nikaidou.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|23|6d002565864ce11ce9a15df71c461b29"
+msgstr "{character:汪次郎}我不擅长这个汪……是我的错，拜托你了二阶堂。\n"
+
+#: event/kakekuru03_chs.bytes:16
+msgctxt ""
+"{character:Mary Saotome}What are you two whispering about? Where on earth is"
+" this place? Who are you guys? Explain! Immediately! Now!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|24|c9b14126594ab39dc0b52545a02108d4"
+msgstr "{character:早乙女芽亚里}你们自顾自在聊什么相声，这里到底是哪？你们又是谁？请马上立刻赶快解释清楚。\n"
+
+#: event/kakekuru03_chs.bytes:17
+msgctxt ""
+"{character:Miki Nikaidou}Such an impatient guest. Before we explain, let's "
+"go through the routine first.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|25|8ca5cdf445a8e8a86711a4684a10b21b"
+msgstr "{character:二阶堂美树}真是个心急的客人呢，在说明之前，还是按照惯例吧。\n"
+
+#: event/kakekuru03_chs.bytes:18
+msgctxt "{character:Yumeko Jabami}The Mahjong Soul...\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|27|029d21fa6486f96ed90baff8e18a6273"
+msgstr "{character:蛇喰梦子}魂天……\n"
+
+#: event/kakekuru03_chs.bytes:19
+msgctxt "{character:Mary Saotome}Shrine?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|28|5a626f33dc9d3791e345532021af19e2"
+msgstr "{character:早乙女芽亚里}神社？\n"
+
+#: event/kakekuru03_chs.bytes:20
+msgctxt ""
+"{character:Mary Saotome}Hmm... So, this is a shrine where any wish can be "
+"granted. And we're here because we have some wishes, right?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|29|5edb2ccb3e24ae8578a7c86e7566d179"
+msgstr "{character:早乙女芽亚里}唔……也就是说，这是个什么愿望都能实现的神社，我们是因为有什么愿望才会来到这，是吧？\n"
+
+#: event/kakekuru03_chs.bytes:21
+msgctxt "{character:Yumeko Jabami}Any wish can be granted? Sounds awesome.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|30|50306ae0383eacf0b0f8eb3b0c1cc65d"
+msgstr "{character:蛇喰梦子}什么愿望都能实现？听起来很棒呢。\n"
+
+#: event/kakekuru03_chs.bytes:22
+msgctxt ""
+"{character:Mary Saotome}Not awesome at all! Doesn't it sound like a "
+"religious scam?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|31|2efdd7ed784b301b27a21bdc9c566ba8"
+msgstr "{character:早乙女芽亚里}哪里棒了，听起来完全就是诈骗型可疑宗教不是吗？\n"
+
+#: event/kakekuru03_chs.bytes:23
+msgctxt ""
+"{character:Mary Saotome}I can't think of any off the top of my head. We're "
+"perfectly happy and healthy, so we're good.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|34|99b0f27c445e61f528dced99b514405c"
+msgstr "{character:早乙女芽亚里}这种事哪能一下子想得到，总之我们生活充实，身体健康，不劳你们费心。\n"
+
+#: event/kakekuru03_chs.bytes:24
+msgctxt ""
+"{character:Mary Saotome}Let's quit wasting our time here. Let's go, "
+"Yumeko.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|35|5b9e7cdb29850cdc2819312978abca4a"
+msgstr "{character:早乙女芽亚里}别在这种地方浪费时间了。走咯，梦子。\n"
+
+#: event/kakekuru03_chs.bytes:25
+msgctxt ""
+"{character:Yumeko Jabami}Eh? But they can grant our wishes here. Wouldn't it"
+" be a big waste to leave?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|36|4672facd4595bd05f0503a60eb2b6daa"
+msgstr "{character:蛇喰梦子}诶？这可是能实现愿望哦，就这么回去不觉得浪费吗？\n"
+
+#: event/kakekuru03_chs.bytes:26
+msgctxt ""
+"{character:Mary Saotome}You actually believe in this... Stay, then. I'll go "
+"without you. Uh, how do I get out of here?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|37|77ed0392593d3af9416f5636990facef"
+msgstr "{character:早乙女芽亚里}你还真信啊……那你留下来好了，我不奉陪。话说回来，回去的路怎么走？\n"
+
+#: event/kakekuru03_chs.bytes:27
+msgctxt ""
+"{character:Wanjirou}I'm not quite sure about how to answer your question, "
+"woof. This shrine is not a place that you can just come and go as you "
+"wish.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|38|81c6efc2d550d17deab16684fd9147db"
+msgstr "{character:汪次郎}你这么问，我也不好办汪，这神社并非想离开就能离开的地方。\n"
+
+#: event/kakekuru03_chs.bytes:28
+msgctxt "{character:Mary Saotome}Huh?!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|39|9ba6e273216009441896fcfabe21bcf0"
+msgstr "{character:早乙女芽亚里}哈？！\n"
+
+#: event/kakekuru03_chs.bytes:29
+msgctxt "{character:Mary Saotome}Are you... kidding me?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|41|4496abe31dcc730654d3b256880892a1"
+msgstr "{character:早乙女芽亚里}你们……是在耍我吗？\n"
+
+#: event/kakekuru03_chs.bytes:30
+msgctxt "Miki&Yumeko\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|46|0342b5a2afabe4ef672f22d470f7ac1b"
+msgstr "美树&梦子\n"
+
+#: event/kakekuru03_chs.bytes:31
+msgctxt ""
+"{character:Miki Nikaidou}It's windy tonight. I'm sure the wind has calmed "
+"her down by now.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|47|40ee1c8cc0fd46a6ad9a929627683f10"
+msgstr "{character:二阶堂美树}今晚的风很凉快，相信她现在已经冷静下来了。\n"
+
+#: event/kakekuru03_chs.bytes:32
+msgctxt "{character:Yumeko Jabami}…\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|50|20ca599da06f15a5b6718b88c65569e6"
+msgstr "{character:蛇喰梦子}……\n"
+
+#: event/kakekuru03_chs.bytes:33
+msgctxt ""
+"{character:Midari Ikishima}Still ignoring me. Never mind, as long as we "
+"continue the game... You'll look at me eventually. Look at me! Yumeko!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|51|26b06754d55a92e7855a13d2d0438cf1"
+msgstr "{character:生志摩妄}还是无视我啊，无所谓，只要对局下去……梦子你一定会看向我，看着我！梦子！\n"
+
+#: event/kakekuru03_chs.bytes:34
+msgctxt "{character:Miki Nikaidou}Wow, so energetic.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|52|6b997e6bb45c0a9536e62effb2c831a6"
+msgstr "{character:二阶堂美树}啊啦，真是精神呢。\n"
+
+#: event/kakekuru03_chs.bytes:35
+msgctxt ""
+"{character:Miki Nikaidou}(Her own plans, hmm... But that look wasn't really "
+"reassuring.)\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|53|87dd4f20d34b5bd33867e023608e0255"
+msgstr "{character:二阶堂美树}（有自己的打算吗……不过看到那副样子，多少都还是让人放心不下呢。）\n"
+
+#: event/kakekuru03_chs.bytes:36
+msgctxt ""
+"{character:Miki Nikaidou}(After all, this shrine is bigger than you'd think…"
+" She's probably lost her way by now, hehe.)\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|54|c2488603aa8aa9cc59ba44f4971cca67"
+msgstr "{character:二阶堂美树}（毕竟这间神社可比想象的要大，现在的话……大概已经迷路了吧，呵呵。）\n"
+
+#: event/kakekuru03_chs.bytes:37
+msgctxt ""
+"{character:Yumeko Jabami}I'm familiar with the rules now. Let's start the "
+"next game. Yet... I can't help but feel something is missing.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|55|b8f9ee36a5f9948057a6d40a7f91e363"
+msgstr "{character:蛇喰梦子}已经熟悉规则了，继续下一局吧，不过……总觉得缺点什么呢。\n"
+
+#: event/kakekuru03_chs.bytes:38
+msgctxt ""
+"{character:Miki Nikaidou}You've got a point. The night is long. Mahjong "
+"alone won't be enough to pass the time.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|56|bab43108ba38f361f519af7d64d6ca52"
+msgstr "{character:二阶堂美树}说得也是，就这么打打麻将，作为漫漫长夜的调剂的确缺点什么。\n"
+
+#: event/kakekuru03_chs.bytes:39
+msgctxt ""
+"{character:Yumeko Jabami}Wow, Miss Nikaidou and I are on the same "
+"wavelength. What kind of penalty, then?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|58|1e7b0dc29a30595a7d4f9e936116c3e0"
+msgstr "{character:蛇喰梦子}啊啦，二阶堂小姐也是这么想的吗？来点什么样的惩罚游戏呢？\n"
+
+#: event/kakekuru03_chs.bytes:40
+msgctxt ""
+"{character:Miki Nikaidou}So impatient... Wanjirou, we haven't finished the "
+"takeout Ichihime ordered today, right?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|59|89cf2caa725f8b3db39e3602e825475a"
+msgstr "{character:二阶堂美树}真是心急呢……汪次郎，一姬今天点的外卖，好像还剩了不少吧？\n"
+
+#: event/kakekuru03_chs.bytes:41
+msgctxt ""
+"{character:Miki Nikaidou}That's right, hehe. The one who finishes in the "
+"last place will eat a whole plate of spicy food as a penalty.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|61|039e93d2f815aa67134d44f3ee0332fe"
+msgstr "{character:二阶堂美树}就是那么回事，呵呵。接下来末位的人，作为惩罚要一口气吃下一整盘的麻辣料理。\n"
+
+#: event/kakekuru03_chs.bytes:42
+msgctxt "{character:Yumeko Jabami}Oh?! Does it taste legit?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|62|50ba901aec18a3f5d3d6b9273238fe9a"
+msgstr "{character:蛇喰梦子}哦？！是特别地道的那种吗？\n"
+
+#: event/kakekuru03_chs.bytes:43
+msgctxt ""
+"{character:Midari Ikishima}So it's deadly spicy, right? Hehe, it's so spicy "
+"it'll burn your nerves off, right…? Alright! Deal!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|64|dc503e184df56c846861e365bab8625a"
+msgstr "{character:生志摩妄}也就是说辣死人的哪种吧？呜嘿，那东西会辣到把神经都烧坏掉吧……好！就这么决定了！\n"
+
+#: event/kakekuru03_chs.bytes:44
+msgctxt "{character:Wanjirou}Wait, woof! Doesn't my opinion matter, woof?!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|65|bae9f36a47ed58215c6043f86ff13571"
+msgstr "{character:汪次郎}慢着汪！我的意见就不重要了汪？！\n"
+
+#: event/kakekuru03_chs.bytes:45
+msgctxt "Meanwhile...\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|66|2afe2943e016c2e05cf733e5c58a0447"
+msgstr "另一边……\n"
+
+#: event/kakekuru03_chs.bytes:46
+msgctxt "{character:Mary Saotome}... I'm completely lost.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|67|22e9634415d72abc31e1ba5419325b6f"
+msgstr "{character:早乙女芽亚里}……完全迷路了。\n"
+
+#: event/kakekuru03_chs.bytes:47
+msgctxt "{character:Mary Saotome}*Sigh*... What time is it?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|69|537d1a26e2a8e3a3aaf0c2d0923c7343"
+msgstr "{character:早乙女芽亚里}唉……现在到底几点了？\n"
+
+#: event/kakekuru03_chs.bytes:48
+msgctxt ""
+"{character:Mary Saotome}(I should be able to see more clearly during the "
+"day. Generally speaking, I'd better find somewhere to stay overnight, but "
+"how am I gonna fall asleep somewhere this sketchy?)\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|70|b2886032d037ad03ec2714ad016548bf"
+msgstr "{character:早乙女芽亚里}（白天的视野应该会清晰点，照理来说随便找个地方将就一晚比较明智，但在这种可疑的地方怎么可能睡得着嘛。）\n"
+
+#: event/kakekuru03_chs.bytes:49
+msgctxt ""
+"{character:Mary Saotome}How long am I gonna stay here…? I have things to do "
+"tomorrow. And... Tomorrow is the last day of the field trip.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|71|1767a82b25689ff643a42139be380035"
+msgstr "{character:早乙女芽亚里}我到底还要在这呆到什么时候……明天还有行程。而且……明天就是修学旅行的最后一天了。\n"
+
+#: event/kakekuru03_chs.bytes:50
+msgctxt ""
+"{character:Mary Saotome}The research topic... I haven't even started on it "
+"yet.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|72|dabffb05e1db939dc68f17b62a433fdb"
+msgstr "{character:早乙女芽亚里}课题……还是完全没有着落啊。\n"
+
+#: event/kakekuru03_chs.bytes:51
+msgctxt "This field trip isn't just about relaxing.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|73|e32676ef41305532a4306709051775de"
+msgstr "这次的修学旅行，并非只是纯粹的游山玩水。\n"
+
+#: event/kakekuru03_chs.bytes:52
+msgctxt ""
+"{character:Mary Saotome}That Student Council President chose this specific "
+"topic just for fun. I'm sure of it.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|76|7e03a9cca053a518bdd2d6037d53bd0d"
+msgstr "{character:早乙女芽亚里}这种乱七八糟的课题，绝对是那个学生会长为了有趣才提出来的。\n"
+
+#: event/kakekuru03_chs.bytes:53
+msgctxt ""
+"{character:Mary Saotome}Like what is the meaning of this? Is she looking "
+"down upon the meaning of education?!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|77|ed31b16839d23974d589c5ff47a3e625"
+msgstr "{character:早乙女芽亚里}这算什么啊，是在小看素质教育吗？！\n"
+
+#: event/kakekuru03_chs.bytes:54
+msgctxt ""
+"{character:???}Just for fun, yes. But I did consider carefully before "
+"choosing the topic.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|78|d93c0675961da7a83099ba844c7a805c"
+msgstr "{character:???}为了有趣不否认，不过，我也是认真考虑后才选择这个课题哦。\n"
+
+#: event/kakekuru03_chs.bytes:55
+msgctxt "{character:Mary Saotome}Eh? Did somebody just say something?!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|79|bb9ee8035de5866ba5397b33a28dfd8e"
+msgstr "{character:早乙女芽亚里}诶？这个声音是？！\n"
+
+#: event/kakekuru03_chs.bytes:56
+msgctxt "{character:Mary Saotome}President... Kirari Momobami.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|81|43d62998c86b2997af4f1bcc4b4814bf"
+msgstr "{character:早乙女芽亚里}桃喰绮罗莉……会长。\n"
+
+#: event/kakekuru03_chs.bytes:57
+msgctxt "???\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|82|8df265b3eeaa509e34296426465d409f"
+msgstr "???\n"
+
+#: event/kakekuru03_chs.bytes:58
+msgctxt "Kirari Momobami\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|83|0e26827a36d3438c2b164d435231c925"
+msgstr "桃喰绮罗莉\n"
+
+#: event/kakekuru03_chs.bytes:59
+msgctxt " \n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|131|d784fa8b6d98d27699781bd9a7cf19f0"
+msgstr " \n"
+
+#: event/kakekuru03_chs.bytes:60
+msgctxt "{character:Yumeko Jabami}Calm down, Mary.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|155|216042bd83036905406e8e84959e5c51"
+msgstr "{character:蛇喰梦子}芽亚里你冷静一点。\n"
+
+#: event/kakekuru03_chs.bytes:61
+msgctxt ""
+"Mary ignores Yumeko's calls and leaves on her own. In a matter of seconds, "
+"she is out of sight.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|157|cb4dc845d7728bad496db20779940aac"
+msgstr "无视梦子的呼唤，芽亚里自顾自离开，转眼间便不见了人影。\n"
+
+#: event/kakekuru03_chs.bytes:62
+msgctxt ""
+"{character:Yumeko Jabami}Mary probably has her own plans. Don't worry, she "
+"can take care of herself.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|158|2cc4919234b57f32b34823d834e01898"
+msgstr "{character:蛇喰梦子}芽亚里她应该有自己的打算，不用担心，她很可靠呢。\n"
+
+#: event/kakekuru03_chs.bytes:63
+msgctxt ""
+"Saotome, who has lost count of how many times she has returned to the shrine"
+" gate, is resting against the torii pillar.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|159|e8c6606f7964890b32143809009837e6"
+msgstr "已经懒得数自己是第几次转悠回神社大门口的芽亚里，倚在鸟居的柱子旁稍作休息。\n"
+
+#: event/kakekuru03_chs.bytes:64
+msgctxt ""
+"{character:Kirari Momobami}Good evening, Mary Saotome. Are you also here to "
+"visit?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|160|1cf5f918cd3f3cd02e4095bd1b8c3948"
+msgstr "{character:桃喰绮罗莉}晚上好，早乙女芽亚里，你也是来这里作客的吗？\n"
+
+#: event/kakekuru03_chs.bytes:65
+msgctxt "{character:Wanjirou}Ron!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|283|74291fab7fe01f271e43a77f4e7ac61a"
+msgstr "{character:汪次郎}和！\n"
+
+#: event/kakekuru03_chs.bytes:66
+msgctxt ""
+"{character:Wanjirou}I told you I'm not a dog monster! I'm the Dog God, "
+"woof!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|285|2a7bb07e0e2ef834703ca5b1fa4a3984"
+msgstr "{character:汪次郎}都说过不是犬妖！至少也说是犬神汪！\n"
+
+#: event/kakekuru03_chs.bytes:67
+msgctxt ""
+"{character:Wanjirou}Nonsense, woof! We are an authentic shrine, and I am an "
+"authentic god.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|286|fe97cdb4be59ab8242b742c6fd824ac8"
+msgstr "{character:汪次郎}胡说什么汪！这里可是正经神社。\n"
+
+#: event/kakekuru03_chs.bytes:68
+msgctxt ""
+"{character:Wanjirou}How dare you mortals be so rude... Never mind. I'm not "
+"some inferior god who bickers with mortals. Tell me, what are your wishes, "
+"woof?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|287|96e227e34b6abb8fd78df4c9a593ede5"
+msgstr "{character:汪次郎}算了，本大爷跟一个人类计较个什么劲汪……说说吧，你们有什么愿望汪？\n"
+
+#: event/kakekuru03_chs.bytes:69
+msgctxt ""
+"{character:Mary Saotome}Screw it. There's a path there. If you don't show me"
+" the way, I'll find my own way.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|288|9aa407e5d63480902321e84f5016440b"
+msgstr "{character:早乙女芽亚里}算了，反正面前就有条路，不告诉我我自己找出路。\n"
+
+#: event/kakekuru03_chs.bytes:70
+msgctxt "{character:Yumeko Jabami}Wait, Mary, Mary—\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|289|f4e86e2a10ca0c503251714ed53bdb43"
+msgstr "{character:蛇喰梦子}慢着，芽亚里，芽亚里——\n"
+
+#: event/kakekuru03_chs.bytes:71
+msgctxt ""
+"{character:Midari Ikishima}Wait, that 'blonde loser-cat' is here, too?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|290|a2a973016e244a5da7bc6f6c2ea98ad9"
+msgstr "{character:生志摩妄}什么啊，那「金发杂猫」也来了吗？\n"
+
+#: event/kakekuru03_chs.bytes:72
+msgctxt ""
+"{character:Miki Nikaidou}So, shall we place some bets? Like... Do you want "
+"to play a penalty game?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|291|a319f1a61a8bfc1b6781782eeb604ca2"
+msgstr "{character:二阶堂美树}既然如此，要不要赌点什么？比如……来点惩罚游戏之类的~\n"
+
+#: event/kakekuru03_chs.bytes:73
+msgctxt ""
+"{character:Wanjirou}Woof?! What? Are you thinking what I'm thinking?!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|292|65318513228fcc10c8c756d70409342b"
+msgstr "{character:汪次郎}汪？！什么啊，你该不会想？！\n"
+
+#: event/kakekuru03_chs.bytes:74
+msgctxt "{character:Miki&Yumeko}Oops.//nOops.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|293|a03ce0d6029961302d3f900efa188fa1"
+msgstr "{character:美树&梦子}啊啦啦。//n啊啦啦。\n"
+
+#: event/kakekuru03_chs.bytes:75
+msgctxt ""
+"{character:Miki Nikaidou}Of course! Ichihime has confirmed it's spicy and "
+"delicious.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|295|5ec2dc4d8cd48a1425de33c0c36f2499"
+msgstr "{character:二阶堂美树}当然~辣味和美味，已经尝过的一姬皆可以保证哦。\n"
+
+#: event/kakekuru03_chs.bytes:76
+msgctxt ""
+"Hyakkaou Private Academy sees field trips as an important part of education,"
+" so, naturally they have given the students a \"research topic\" to "
+"finish.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|296|9fb0c685328304d93a3766dccb1ce427"
+msgstr "百花王学园将修学旅行视为教育的一环，理所当然给予了学生需要完成的「课题」。\n"
+
+#: event/kakekuru03_chs.bytes:77
+msgctxt "And of course, this topic is really Hyakkaou-styled.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|297|2d061c0ac19e0c4f9f4a180040ec299b"
+msgstr "当然，这个课题，也相当富有百花王学园的「特色」。\n"
+
+#: event/kakekuru03_chs.bytes:78
+msgctxt ""
+"{character:Miki Nikaidou}Welcome to the Mahjong Soul Shrine, our two lost "
+"guests.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|327|fdf71cf01de0d89f4688e5339f6e16cd"
+msgstr "{character:二阶堂美树}欢迎来到「魂天神社」，两位迷途的旅人。\n"
+
+#: event/kakekuru03_chs.bytes:79
+msgctxt ""
+"{character:Miki Nikaidou}Oops, my bad. Then, please let the shrine staff "
+"member meticulously comfort our nervous guests!\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|328|7e15e76ceacbdf1f95a4762f89b4be50"
+msgstr "{character:二阶堂美树}啊啦，失礼了，那就请高贵的汪次郎大人来好好安抚两位慌乱的客人吧~\n"
+
+#: event/kakekuru03_chs.bytes:80
+msgctxt ""
+"{character:Miki Nikaidou}To leave, you need some help from 'fate', hehe.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|329|4e296e82979ea90d4929bbfb3e89087e"
+msgstr "{character:二阶堂美树}要离开的话，多少得需要点「缘分」呢，呵呵。\n"
+
+#: event/kakekuru03_chs.bytes:81
+msgctxt "{character:Midari Ikishima}Tsk, Mangan? That's more points than me.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|334|904dcfc1d83fbb22d44cd15eadbf3add"
+msgstr "{character:生志摩妄}啧，这牌比我刚才和的更大啊。\n"
+
+#: event/kakekuru03_chs.bytes:82
+msgctxt ""
+"{character:Miki Nikaidou}Three consecutive Mangan. You are on a roll, "
+"Wanjirou.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|335|83fd77c39168b928413b6a3654d817e9"
+msgstr "{character:二阶堂美树}状态不错啊，汪次郎。\n"
+
+#: event/kakekuru03_chs.bytes:83
+msgctxt ""
+"{character:Yumeko Jabami}Here! 8,000 points. These rules are so exciting, "
+"just like I thought they'd be.\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|336|be8478201b2a8fdd882bd32b356ce5bf"
+msgstr "{character:蛇喰梦子}啊啦，又放铳了呢，果然如我想的，真是令人心跳不已的规则。\n"
+
+#: event/kakekuru03_chs.bytes:84
+msgctxt ""
+"{character:Wanjirou}You've dealt in 2 Mangan in a row, and you're still so "
+"chill, woof? By the way, is your friend really okay on her own?\n"
+msgid ""
+"bytes|event/kakekuru03_en.bytes|event/kakekuru03|337|770f2c5aa874cc1ecb31a257b8635962"
+msgstr "{character:汪次郎}连续放铳了几次怎么跟个没事人一样汪……话说回来，你那个朋友，让她单独行动没关系吗？\n"
+
+#: event/kakekuru04_chs.bytes:1
+msgctxt "Mary Saotome\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|2|c5c4bf383fd53818f6cfefa79d6c7384"
+msgstr "早乙女芽亚里\n"
+
+#: event/kakekuru04_chs.bytes:2
+msgctxt "Yumeko Jabami\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|9|6a94fe06a3fae1b268213881db2f0533"
+msgstr "蛇喰梦子\n"
+
+#: event/kakekuru04_chs.bytes:3
+msgctxt "{character:Kirari Momobami}…\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|25|5616002fd2f1345522bd84cbaac9937b"
+msgstr "{character:桃喰绮罗莉}……\n"
+
+#: event/kakekuru04_chs.bytes:4
+msgctxt "Wanjirou\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|41|a4457ec774822eb36a119f52d615aa0f"
+msgstr "汪次郎\n"
+
+#: event/kakekuru04_chs.bytes:5
+msgctxt "Miki Nikaidou\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|42|a2b728730180f34a40fdf0be901a6778"
+msgstr "二阶堂美树\n"
+
+#: event/kakekuru04_chs.bytes:6
+msgctxt "Midari Ikishima\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|43|27d18b3b86c656f6e3e3f09befb8b5c5"
+msgstr "生志摩妄\n"
+
+#: event/kakekuru04_chs.bytes:7
+msgctxt ""
+"{character:Wanjirou}Woof... I can't take it anymore. I give up, woof...\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|147|b246d018453475af9013118873432ae8"
+msgstr "{character:汪次郎}汪……不行，投、投降汪……\n"
+
+#: event/kakekuru04_chs.bytes:8
+msgctxt ""
+"{character:Yumeko Jabami}Mr. Wanjirou's mouth is all swollen. Here, have a "
+"cup of water.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|148|49b360fdf8eca9f0dfce7f9512b07a72"
+msgstr "{character:蛇喰梦子}汪次郎先生的嘴肿起来了呢，来，喝杯凉水。\n"
+
+#: event/kakekuru04_chs.bytes:9
+msgctxt "{character:Wanjirou}Thanks, woof...\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|149|055d9a7d2fe69302f02877a191a5c8b6"
+msgstr "{character:汪次郎}谢谢汪……\n"
+
+#: event/kakekuru04_chs.bytes:10
+msgctxt ""
+"{character:Wanjirou}(What happened... I was on a roll... Why did I lose so "
+"hard once bets got involved, woof...)\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|150|80393e4825ea15b7540215ca3b6a5f65"
+msgstr "{character:汪次郎}（怎么回事……刚才明明是我运势爆棚，怎么一扯上赌注就输得一塌糊涂汪……）\n"
+
+#: event/kakekuru04_chs.bytes:11
+msgctxt ""
+"{character:Midari Ikishima}Tsk, it's just because you suck. Because of you, "
+"I didn't taste that deadly, spicy pain. Get your head in the game, silly "
+"dog, or I might kill you!\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|152|9fcd15cf11c55a9e6346f47400ee436c"
+msgstr "{character:生志摩妄}切，还不是你太菜了，因为你的关系，我都没尝到那辣到冒火的痛楚。别故意放水啊蠢狗？宰了你哦！\n"
+
+#: event/kakekuru04_chs.bytes:12
+msgctxt "{character:Wanjirou}Yes, I suck, woof... (dejected)\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|153|bb21ff64ae9dbac62e7a17870fe4f371"
+msgstr "{character:汪次郎}是我太菜了，汪……（没出息的叫声）\n"
+
+#: event/kakekuru04_chs.bytes:13
+msgctxt "{character:Midari Ikishima}Tsk, hurry up. Let's start the next game.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|154|e01afe9dda9ae3d313d5888ffe1266ad"
+msgstr "{character:生志摩妄}切，快点继续，下一局。\n"
+
+#: event/kakekuru04_chs.bytes:14
+msgctxt ""
+"{character:Miki Nikaidou}Wanjirou looks done for. I would like to take a "
+"break, too. Excuse me.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|157|acb222d1f92ced41ba29924270224faa"
+msgstr "{character:二阶堂美树}汪次郎的话看来到此为止了，我也想休息一下，先离席咯。\n"
+
+#: event/kakekuru04_chs.bytes:15
+msgctxt ""
+"{character:Yumeko Jabami}It's finished, then. What a bummer, I was having a "
+"hot hand.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|158|41c727d0fb3655eb36e80f7168f74c35"
+msgstr "{character:蛇喰梦子}结束了啊，真可惜，好不容易开始火热起来了。\n"
+
+#: event/kakekuru04_chs.bytes:16
+msgctxt "{character:Kirari Momobami}Excuse me.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|160|246f444eee4e08415e623250f0646cf1"
+msgstr "{character:桃喰绮罗莉}打扰了。\n"
+
+#: event/kakekuru04_chs.bytes:17
+msgctxt ""
+"{character:Miki Nikaidou}Ah, you're back, Kirari. How do you like the night "
+"view in the Mahjong Soul Shrine?\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|161|af58370287249c15b4134e66c657137a"
+msgstr "{character:二阶堂美树}啊啦，回来了吗绮罗莉，魂天神社的夜景怎么样？\n"
+
+#: event/kakekuru04_chs.bytes:18
+msgctxt "{character:Kirari Momobami}Not bad. I loved the evening breeze.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|162|d0c5e134b8704732a903c2154a4b39dd"
+msgstr "{character:桃喰绮罗莉}不错，晚风很舒服。\n"
+
+#: event/kakekuru04_chs.bytes:19
+msgctxt ""
+"{character:Miki Nikaidou}As for the other one, you must be tired. Looks like"
+" you didn't find your way back, did you?\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|163|97ffd7866c41c9906ff48ac93f59ec77"
+msgstr "{character:二阶堂美树}至于另一位，辛苦了，看来是没找到回去的路啊。\n"
+
+#: event/kakekuru04_chs.bytes:20
+msgctxt ""
+"{character:Mary Saotome}... You already knew the answer to that. Why bother "
+"asking?\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|164|20b0a1b600b4ffc5afdedde4e80ae8d9"
+msgstr "{character:早乙女芽亚里}……明知故问。\n"
+
+#: event/kakekuru04_chs.bytes:21
+msgctxt "Kirari Momobami\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|166|0e26827a36d3438c2b164d435231c925"
+msgstr "桃喰绮罗莉\n"
+
+#: event/kakekuru04_chs.bytes:22
+msgctxt "{character:Mary Saotome}Tsk, of course you are here.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|167|4ac1b8fecd063470bb6a3a4dc8b50e48"
+msgstr "{character:早乙女芽亚里}啧，果然你也在这啊。\n"
+
+#: event/kakekuru04_chs.bytes:23
+msgctxt ""
+"{character:Midari Ikishima}Hehe, President, are you interested in joining us"
+" too?\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|168|f508ed36fdb62d136d7692e26be79452"
+msgstr "{character:生志摩妄}呜嘿，会长你也有兴趣来参一脚？\n"
+
+#: event/kakekuru04_chs.bytes:24
+msgctxt ""
+"{character:Mary Saotome}I don't have as much spare time as you. Let's stop "
+"wasting time and play.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|171|c4f8d69d1451917a9d53ee6f5f1dd224"
+msgstr "{character:早乙女芽亚里}我可没你们那种闲情逸致，要打快打，别浪费时间。\n"
+
+#: event/kakekuru04_chs.bytes:25
+msgctxt ""
+"{character:Mary Saotome}It was her order. God knows what would happen to me "
+"if I disobeyed her.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|174|cf8f839f076afa10bbacff3185904c62"
+msgstr "{character:早乙女芽亚里}是她的命令，天知道违抗她的命令会被怎么处置。\n"
+
+#: event/kakekuru04_chs.bytes:26
+msgctxt ""
+"{character:Kirari Momobami}I don't remember saying anything like that.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|175|ac45e92199dc998d1b6edd93339dc418"
+msgstr "{character:桃喰绮罗莉}我不记得说过这种话哟。\n"
+
+#: event/kakekuru04_chs.bytes:27
+msgctxt ""
+"{character:Mary Saotome}Wait! You trust this woman? Who are you with?\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|177|c08ad706e198d1ba022dec57969bed23"
+msgstr "{character:早乙女芽亚里}慢着！你就这么相信这女人说的？你到底是谁的同伴啊！\n"
+
+#: event/kakekuru04_chs.bytes:28
+msgctxt ""
+"{character:Yumeko Jabami}I've always been with the ones who enjoy "
+"gambling.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|178|1830935a6b85e08848878b2c9e685990"
+msgstr "{character:蛇喰梦子}我一直都是享受赌博乐趣之人的同伴哦。\n"
+
+#: event/kakekuru04_chs.bytes:29
+msgctxt ""
+"{character:Midari Ikishima}Stop it, Saotome. Yumeko saw right through you. "
+"She's not stupid.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|179|1f0acb8d4dc26741613a5891d21dfd6d"
+msgstr "{character:生志摩妄}算了吧，早乙女，你的那点小心思早就被看穿了，梦子可没那么迟钝。\n"
+
+#: event/kakekuru04_chs.bytes:30
+msgctxt ""
+"{character:Mary Saotome}The president says this is a place where our mahjong"
+" skills do all the talking. If anyone wants to leave, they could try winning"
+" on the mahjong table.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|182|355af4e61aee70a37f1fa198fef807be"
+msgstr "{character:早乙女芽亚里}会长她说这里是个一切靠麻将说话的地方，如果想要离开这的话，不妨试试在牌桌上取得头筹。\n"
+
+#: event/kakekuru04_chs.bytes:31
+msgctxt ""
+"{character:Wanjirou}Woof woof woof? This is indeed a place where people are "
+"judged by their mahjong skills, but as for the 'winning' part... Woof?\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|183|b44c2827a07a31caff43955a1e264b37"
+msgstr "{character:汪次郎}汪汪汪？这里的确是个靠麻将说话的地方，不过取得头筹啥的……汪？\n"
+
+#: event/kakekuru04_chs.bytes:32
+msgctxt "\"Don't tell her yet. I have my reasons.\"\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|184|06b2d32492bdac19291268edb4a8d732"
+msgstr "『不必告诉她，一切，我自有说法。』\n"
+
+#: event/kakekuru04_chs.bytes:33
+msgctxt " \"Now this is where the fun begins. So, let's enjoy the game first.\"\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|185|c174b822172ee40831bd6e87632fc15f"
+msgstr "『现在正是有意思的时候，总之，先享受对局吧。』\n"
+
+#: event/kakekuru04_chs.bytes:34
+msgctxt ""
+"After reading Momobami's lips, Wanjirou abruptly swallowed the words he was "
+"going to say.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|186|6a3b24030fd52edf03db565683c66a1b"
+msgstr "读到桃喰的唇语，汪次郎硬生生将本想说出口的话咽了下去。\n"
+
+#: event/kakekuru04_chs.bytes:35
+msgctxt ""
+"{character:Miki Nikaidou}Wanjirou, you don't want to ruin the mood, do "
+"you?\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|187|9477bedfb6194621b066d277ba6876a3"
+msgstr "{character:二阶堂美树}汪次郎，难得大家这么开心，扫兴的话就不用说了吧。\n"
+
+#: event/kakekuru04_chs.bytes:36
+msgctxt "{character:Wanjirou}... Okay, okay. I understand, woof.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|188|716a8b6be3427bf08a102b62db43e503"
+msgstr "{character:汪次郎}……好吧好吧，我明白了汪。\n"
+
+#: event/kakekuru04_chs.bytes:37
+msgctxt "{character:Mary Saotome}What's the matter? You look suspicious.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|189|e4d08351223a39d02077b80de50f1135"
+msgstr "{character:早乙女芽亚里}怎么了？可疑兮兮的。\n"
+
+#: event/kakekuru04_chs.bytes:38
+msgctxt ""
+"{character:Midari Ikishima}What's the hurry, Saotome... You should take your"
+" time and have fun. Hehe, or could it be that you just can't wait to taste "
+"the pleasure of getting destroyed?\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|191|7aac622a04326862d26e2c5bbaa2deab"
+msgstr "{character:生志摩妄}何必这么着急呢早乙女……慢慢享受才是。呜嘿，难道说，你也是想迫不及待赶快享受被干掉的快感？\n"
+
+#: event/kakekuru04_chs.bytes:39
+msgctxt ""
+"{character:Mary Saotome}I'm not interested in that kind of thing. I play to "
+"win.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|192|25fc12bda5902673e4b6342e6f8aee1a"
+msgstr "{character:早乙女芽亚里}我没那种兴趣，既然上桌，那就要赢。\n"
+
+#: event/kakekuru04_chs.bytes:40
+msgctxt ""
+"{character:Mary Saotome}If we keep wasting time like this, we'll get fined "
+"for not finishing the topic. I don't have money for that...\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|193|6bb8f2dcc3b7033fe030d3ec9ece2f5b"
+msgstr "{character:早乙女芽亚里}再这样继续浪费时间，交不出课题可是要罚钱的，我才没那么多闲钱……\n"
+
+#: event/kakekuru04_chs.bytes:41
+msgctxt "{character:Mary Saotome}Damnit, what's wrong with these people…?\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|196|e8e75a2c8efe62976a65f236f56c9395"
+msgstr "{character:早乙女芽亚里}靠，这群人怎么回事……\n"
+
+#: event/kakekuru04_chs.bytes:42
+msgctxt ""
+"{character:Mary Saotome}(One is already enough. And now I've got three. If I"
+" were a rookie like Suzui, I'd be so nervous that I'd already been puking in"
+" the bathroom.)\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|197|a6caf3b9efb1432ed02fa2000d7e3777"
+msgstr "{character:早乙女芽亚里}（一个就够受了，一下子要同时面对这三个人，换做是铃井那种菜鸟，估计早就紧张得去厕所吐了。）\n"
+
+#: event/kakekuru04_chs.bytes:43
+msgctxt ""
+"{character:Mary Saotome}(... Stop thinking about it. No matter who I'm "
+"facing, I need to win! Win and go back to where I came from!)\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|198|1384696c7ca75b2121363853e99960ce"
+msgstr "{character:早乙女芽亚里}（……不要再想些有的没的了，不管对手是谁都要赢！赢下来，回到原来的地方！）\n"
+
+#: event/kakekuru04_chs.bytes:44
+msgctxt "{character:Miki Nikaidou}... Let's go, Wanjirou.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|201|fcc3702fb49c7c22eaa6c436363cff4f"
+msgstr "{character:二阶堂美树}……那我们走吧，汪次郎。\n"
+
+#: event/kakekuru04_chs.bytes:45
+msgctxt ""
+"{character:Wanjirou}What? You don't want to watch them for a while? These "
+"four are all experts. Should be fun to watch, woof.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|202|47c298cd4f49e69a68844a25fe6b6e0f"
+msgstr "{character:汪次郎}嗯？不留下来看两圈汪？四个人好像都挺强的，应该挺有看点汪。\n"
+
+#: event/kakekuru04_chs.bytes:46
+msgctxt ""
+"{character:Miki Nikaidou}Watching the game is fine, but... Take a good look "
+"at them.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|203|a165f133548b146c45b20e1dc95aa069"
+msgstr "{character:二阶堂美树}看两圈倒也无妨，不过……你仔细看看她们。\n"
+
+#: event/kakekuru04_chs.bytes:47
+msgctxt "{character:Mary&Yumeko}…//n…\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|204|b0ad0b13930ea09912e3e5489717f51c"
+msgstr "{character:芽亚里&梦子}……//n……\n"
+
+#: event/kakekuru04_chs.bytes:48
+msgctxt "{character:Kirari&Midari}……//nHehe...\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|206|4eb98cf48c7b5fcf400098ddfa79c8f7"
+msgstr "{character:绮罗莉&妄}……//n呜嘿……\n"
+
+#: event/kakekuru04_chs.bytes:49
+msgctxt "Kirari&Midari\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|208|21a5f9be4c8f28fb37a6909383da9182"
+msgstr "绮罗莉&妄\n"
+
+#: event/kakekuru04_chs.bytes:50
+msgctxt "Feeling the tense atmosphere, Wanjirou and Miki left quietly.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|211|d4692c67958aa8b174289d524565b3d0"
+msgstr "感受到逐渐变得异常的氛围，汪次郎他们识趣地悄悄离开。\n"
+
+#: event/kakekuru04_chs.bytes:51
+msgctxt ""
+"It's already late, but for these gamblers, the evening has only just "
+"begun…\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|212|cc423e05e4e3c32c78bf8a2e48153b90"
+msgstr "夜已深，然而属于赌徒们的夜晚，才刚刚开始……\n"
+
+#: event/kakekuru04_chs.bytes:52
+msgctxt "{character:Yumeko Jabami}President, Mary. You guys are here, too.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|214|2dc719117e39468ac9f861e520e9503f"
+msgstr "{character:蛇喰梦子}会长，还有芽亚里，你们也过来啦。\n"
+
+#: event/kakekuru04_chs.bytes:53
+msgctxt ""
+"{character:Kirari Momobami}Mary said you're here, too. I thought it would be"
+" quite fun for the four of us to play together.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|215|a25a5f1dddaadef0d96005357c2a4738"
+msgstr "{character:桃喰绮罗莉}听芽亚里说你们也在这里，想着这一桌人凑齐倒是挺有趣。\n"
+
+#: event/kakekuru04_chs.bytes:54
+msgctxt ""
+"{character:Kirari Momobami}The game is definitely going to be fun, right, "
+"Mary?\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|216|3d6420b5d5abcd0fa99d8d9bbba879d2"
+msgstr "{character:桃喰绮罗莉}接下来对局想必颇为有趣，对吧？芽亚里？\n"
+
+#: event/kakekuru04_chs.bytes:55
+msgctxt ""
+"{character:Yumeko Jabami}But Mary. weren't you in a rush to leave? Why did "
+"you come back?\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|217|a5d63b4d59bd475da1ae5ac60fc7ba86"
+msgstr "{character:蛇喰梦子}不过，芽亚里你不是急着要回去吗？怎么突然回来了。\n"
+
+#: event/kakekuru04_chs.bytes:56
+msgctxt ""
+"{character:Yumeko Jabami}President and Mary still don't know the new rules, "
+"right? Let me explain, then. First...\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|221|e74bc299436d661d6d4ab2bcac813500"
+msgstr "{character:蛇喰梦子}会长和芽亚里都还不知道规则吧？那我先说明一下，首先……\n"
+
+#: event/kakekuru04_chs.bytes:57
+msgctxt "Mary&Yumeko\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|222|c41df279fb8e6ecea9309e9facd79c32"
+msgstr "芽亚里&梦子\n"
+
+#: event/kakekuru04_chs.bytes:58
+msgctxt ""
+"{character:Miki Nikaidou}(It's not that they are too 'powerful'. More like "
+"Wanjirou was just overwhelmed by their enthusiasm.)\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|299|ed4187243ae51f69e45f661b1adaba55"
+msgstr "{character:二阶堂美树}（与其说是「恐怖」，不如说是汪次郎被她们的狂热给压倒了吧。）\n"
+
+#: event/kakekuru04_chs.bytes:59
+msgctxt ""
+"{character:Wanjirou}The girl who came earlier was also unbeatable. Are high "
+"school girls all so powerful nowadays?! Woof?!\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|304|d071e794f3392c7566169f2709e3ad0b"
+msgstr "{character:汪次郎}之前来的女孩子也强得不讲道理，这年头的女高中生水平都这么恐怖汪？！\n"
+
+#: event/kakekuru04_chs.bytes:60
+msgctxt ""
+"{character:Miki Nikaidou}It's alright! You've got some better opponents "
+"here.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|305|cc5ee105806c87a909b250afc99c1cd7"
+msgstr "{character:二阶堂美树}没关系~比我们更适合的对手已经来了~\n"
+
+#: event/kakekuru04_chs.bytes:61
+msgctxt ""
+"{character:Yumeko Jabami}Mr. Wanjirou, are you alright? If you are, let's "
+"start the next game!\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|306|06e56e907a120487b5df9b3cd500178a"
+msgstr "{character:蛇喰梦子}汪次郎先生，你还好吗？要是没事的话，开始下一局吧~\n"
+
+#: event/kakekuru04_chs.bytes:62
+msgctxt "{character:Yumeko Jabami}Oh! So Mary's the one who wants to play.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|307|da9cb0b3a9ff846bade2618cf857fcf7"
+msgstr "{character:蛇喰梦子}哦~是芽亚里想玩啊。\n"
+
+#: event/kakekuru04_chs.bytes:63
+msgctxt ""
+"{character:Mary Saotome}Eww, she's indulging in her imagination again... "
+"Yes, I came because I wanted to. But not just for fun.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|309|b65732e5d5003f42e03d1c22fabbb216"
+msgstr "{character:早乙女芽亚里}噫，又在那自顾自陶醉个起劲……没错，我的确是自愿的，但我可不是为了玩才过来。\n"
+
+#: event/kakekuru04_chs.bytes:64
+msgctxt ""
+"{character:Mary Saotome}Never mind. Let's start already! The earlier we "
+"start, the earlier we finish!\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|310|098e96e2b611c61b84ae0c9cc671fc1b"
+msgstr "{character:早乙女芽亚里}算了，快开始吧！早点打完早点结束！\n"
+
+#: event/kakekuru04_chs.bytes:65
+msgctxt "{character:Midari Ikishima}Tsk, that's a poor person problem.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|311|3c6a475718f34b8135f42142fe4d206b"
+msgstr "{character:生志摩妄}切~真是穷酸的烦恼。\n"
+
+#: event/kakekuru04_chs.bytes:66
+msgctxt ""
+"{character:Yumeko Jabami}The new rules are pretty interesting, Mary. Let's "
+"have some fun!\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|312|4f8ad63e96208fc07eb7ea9ad0ddc392"
+msgstr "{character:蛇喰梦子}芽亚里，这次的规则可有趣了，让我们一起享受其中吧~\n"
+
+#: event/kakekuru04_chs.bytes:67
+msgctxt ""
+"{character:Miki Nikaidou}Although it might be a brilliant battle to behold, "
+"it's a duel within the 'Bami' family. If you're not careful, you might get "
+"caught up in this madness.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|313|2ae760fc3f9434732ce80df0b750f052"
+msgstr "{character:二阶堂美树}虽说是百花争艳，但毕竟是「喰」之间的认真对决呢，一个不留神，可是会被这阵疯狂卷入其中的哦。\n"
+
+#: event/kakekuru04_chs.bytes:68
+msgctxt ""
+"{character:Wanjirou}Even though I don't know what a 'Bami' is, staying here "
+"doesn't seem like a good idea, woof. Let's go...\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|314|4e218d2c507d154b650f56fd509d5a6e"
+msgstr "{character:汪次郎}虽然不知道你在说的「喰」是个什么东西，但继续留下来好像不太妙汪，走、走吧……\n"
+
+#: event/kakekuru04_chs.bytes:69
+msgctxt ""
+"{character:Midari Ikishima}This is the chance of a lifetime to play with "
+"both of them together. No one would let go of such a rare chance. Getting "
+"down on them simultaneously... Hehe, hehehe... I can't wait!\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|316|8effcb2f0b8ecd17c1aa885cf55fb6c2"
+msgstr ""
+"{character:生志摩妄}这可是难得能跟她们两人同桌对局的大好机会，是个人都不会放过，能一次性跟她们都对上……呜嘿，呜嘿嘿……真不知道会变成什么样啊！\n"
+
+#: event/kakekuru04_chs.bytes:70
+msgctxt ""
+"\"I'll just try my best!\" Mary takes a deep breath and encourages "
+"herself.\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|331|80c1cecd6bfc9f7299eec88e4c9bb6c4"
+msgstr "「全力以赴即可！」芽亚里深吸一口气，暗暗为自己鼓劲。\n"
+
+#: event/kakekuru04_chs.bytes:71
+msgctxt "{character:Wanjirou}Woof? Woof?! Woof... (scared)\n"
+msgid ""
+"bytes|event/kakekuru04_en.bytes|event/kakekuru04|332|a41ed13dfb54e7d99b7de344d1297ba1"
+msgstr "{character:汪次郎}汪？汪？！汪……\n"
+
+#: event/kakekuru05_chs.bytes:1
+msgctxt "{character:Mary Saotome}Yawn!\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|1|fcd53e3b2ce90cf3515e58c74932b3ea"
+msgstr "{character:早乙女芽亚里}哈~欠。\n"
+
+#: event/kakekuru05_chs.bytes:2
+msgctxt "Mary Saotome\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|2|c5c4bf383fd53818f6cfefa79d6c7384"
+msgstr "早乙女芽亚里\n"
+
+#: event/kakekuru05_chs.bytes:3
+msgctxt ""
+"With the rising sun, the high school girls who fought all night are on their"
+" way back.\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|3|c76b605e5e24faa89705d1629484f834"
+msgstr "迎着清爽的朝阳，酣战一宿的女高中生们缓缓踏上归途。\n"
+
+#: event/kakekuru05_chs.bytes:4
+msgctxt ""
+"{character:Mary Saotome}We were duped. If we just let any one of us win, "
+"everyone else can just follow the winner out of here, right?\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|4|922e36bc9f36d1493774bf444ab158f6"
+msgstr "{character:早乙女芽亚里}彻底被骗了，仔细想想随便一个人取得Top，其他人不就能跟着一起离开吗？\n"
+
+#: event/kakekuru05_chs.bytes:5
+msgctxt ""
+"{character:Mary Saotome}Can't believe we didn't think of this and played "
+"mahjong all night long like idiots. So stupid! I have things to do today. "
+"And now I have to go there with these dark circles under my eyes...\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|5|445b4fdab10941b2e6072f0eaa6b4aef"
+msgstr ""
+"{character:早乙女芽亚里}居然忽略了这么简单的事情，像个白痴一样在那通宵打牌，蠢爆了！今天可是还有其他的安排，我要这样顶着熊猫眼去吗……\n"
+
+#: event/kakekuru05_chs.bytes:6
+msgctxt ""
+"{character:Mary Saotome}...Well, that's true. If I lose, who knows how you "
+"guys will make fun of me?\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|7|b2fe23237822f019893261f76a9e0a7d"
+msgstr "{character:早乙女芽亚里}……嘛，的确，要是输得太难看，鬼知道会被你们怎么嘲笑。\n"
+
+#: event/kakekuru05_chs.bytes:7
+msgctxt ""
+"{character:Mary Saotome}(I won't call that a victory though. It was too "
+"close.)\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|8|e68a37e6e43214bcbcdabba3234b9d92"
+msgstr "{character:早乙女芽亚里}（不过也谈不上什么胜利，那战绩只能说不上不下。）\n"
+
+#: event/kakekuru05_chs.bytes:8
+msgctxt "Yumeko Jabami\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|9|6a94fe06a3fae1b268213881db2f0533"
+msgstr "蛇喰梦子\n"
+
+#: event/kakekuru05_chs.bytes:9
+msgctxt ""
+"{character:Yumeko Jabami}I really want to play for another night like this. "
+"Speaking of which, we don't need to worry about our research topic "
+"anymore.\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|10|18f91e1cfa4f444ea47873f3e5ca097b"
+msgstr "{character:蛇喰梦子}好想再这么打一晚上，话说，这么一来修学旅行的课题也不用担心了呢。\n"
+
+#: event/kakekuru05_chs.bytes:10
+msgctxt ""
+"{character:Yumeko Jabami}It'll be fine. The president seemed to have fun, "
+"too.\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|13|b24bad36f4ce41fce518c762a052913e"
+msgstr "{character:蛇喰梦子}看会长玩得也很开心，应该不用太担心才是。\n"
+
+#: event/kakekuru05_chs.bytes:11
+msgctxt ""
+"{character:Yumeko Jabami}Speaking of which, where is the president? She said"
+" she wanted to walk around, but now she's nowhere to be seen.\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|14|20bf2ad864db5f030f49740ced2d88e7"
+msgstr "{character:蛇喰梦子}话说起来，会长不知上哪去了呢？说着想再到处转转，转眼间人就不见了。\n"
+
+#: event/kakekuru05_chs.bytes:12
+msgctxt ""
+"{character:Mary Saotome}I need to catch up on some sleep when we're back. "
+"Can you cover for me this afternoon, Yumeko?\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|16|d16827337fa909d2ee3b8441f2bd9d36"
+msgstr "{character:早乙女芽亚里}回去一定要好好补眠，下午的行程梦子你能帮我应付一下吗？\n"
+
+#: event/kakekuru05_chs.bytes:13
+msgctxt ""
+"{character:Yumeko Jabami}By the way, Mr. Wanjirou said that only people with"
+" wishes can visit this shrine.\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|19|f4b4dd42f3a3a99367e90f291e007249"
+msgstr "{character:蛇喰梦子}说起来，听汪次郎先生说，这间神社，是怀着某种愿望的人才能造访的地方。\n"
+
+#: event/kakekuru05_chs.bytes:14
+msgctxt ""
+"{character:Yumeko Jabami}We can leave now. Does that mean our wishes are "
+"already fulfilled?\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|20|4f9d994ea9f4df6112844b89f93c8ebe"
+msgstr "{character:蛇喰梦子}我们现在能离开，是不是意味着愿望已经实现了呢？\n"
+
+#: event/kakekuru05_chs.bytes:15
+msgctxt ""
+"{character:Mary Saotome}Huh? You believe in that silly dog's nonsense? "
+"There's no such thing.\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|21|67534470cbc901482e02b7d83d357d07"
+msgstr "{character:早乙女芽亚里}哈？你还真相信那蠢狗的胡扯啊？那种事当然是不存在的。\n"
+
+#: event/kakekuru05_chs.bytes:16
+msgctxt ""
+"{character:Mary Saotome}More importantly, I'm starving... Let's go have "
+"breakfast somewhere before we head back...\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|24|2b547f712152d1b4741f222249e17391"
+msgstr "{character:早乙女芽亚里}比起这个，肚子都饿了……先去哪里吃个早饭再回去吧……\n"
+
+#: event/kakekuru05_chs.bytes:17
+msgctxt "……\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|25|2dd9520cb1867139ab0c3e288b02ec3a"
+msgstr "……\n"
+
+#: event/kakekuru05_chs.bytes:18
+msgctxt "{stop:1000}\"The wishes.\"\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|27|8ab1a78946334dc9e047f6a128f40604"
+msgstr "{stop:1000}「愿望。」\n"
+
+#: event/kakekuru05_chs.bytes:19
+msgctxt "\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|28|68b329da9893e34099c7d8ad5cb9c940"
+msgstr " \n"
+
+#: event/kakekuru05_chs.bytes:20
+msgctxt "\"The wish for another battle.\"\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|29|d7ffa7e8c258e3e3906e1fb1c5495b13"
+msgstr "「憧憬再战之愿。」\n"
+
+#: event/kakekuru05_chs.bytes:21
+msgctxt "\"The wish to follow her true nature.\"\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|30|0286a7b798e16ede962199a2042f741a"
+msgstr "「遵从本性之愿。」\n"
+
+#: event/kakekuru05_chs.bytes:22
+msgctxt "\"The wish to stop feeling adrift.\"\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|31|da779cefe81c0cbe0cb4a1ee31f7dcc7"
+msgstr "「离开迷途之愿。」\n"
+
+#: event/kakekuru05_chs.bytes:23
+msgctxt "\"They've all been fulfilled, at least kinda, hehe...\"\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|32|1a0163f1be1c1224d6ff13d745d15c4e"
+msgstr "「姑且，都算实现了吧，呵呵……」\n"
+
+#: event/kakekuru05_chs.bytes:24
+msgctxt "{character:Mary's voice}... Did we forget about someone?\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|33|75c995efa73981352c16e8d363b03d0d"
+msgstr "{character:芽亚里的声音}……我们，是不是忘了什么人？\n"
+
+#: event/kakekuru05_chs.bytes:25
+msgctxt "{character:Yumeko's voice}Did we?\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|35|27dcda7f033b2940b677419e3419e7bf"
+msgstr "{character:梦子的声音}有这种事吗？\n"
+
+#: event/kakekuru05_chs.bytes:26
+msgctxt ""
+"{character:Wanjirou}Nikaidou... How long is this girl going to stay, woof?\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|36|f953f7e1ff4c1b793ea092569835ebc9"
+msgstr "{character:汪次郎}二阶堂……这小姑娘，到底要待到什么时候汪？\n"
+
+#: event/kakekuru05_chs.bytes:27
+msgctxt ""
+"{character:Miki Nikaidou}You'll be condemned by the gods if you interrupt "
+"others' sweet dreams, Wanjirou.\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|37|373445d27ce10ec0aa06d65436884162"
+msgstr "{character:二阶堂美树}打扰别人美梦会遭天谴的哦，汪次郎。\n"
+
+#: event/kakekuru05_chs.bytes:28
+msgctxt "{character:Midari Ikishima}Hehe... So hot... I'm coming...\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|38|c901c2b6d9a7ca5ae4b0964aa7abf64c"
+msgstr "{character:生志摩妄}呜嘿……好辣，感觉……快升天了……\n"
+
+#: event/kakekuru05_chs.bytes:29
+msgctxt ""
+"{character:Midari Ikishima}... Yumeko... Yumeko. Yumeko! Only you can "
+"satisfy me. You... You are indeed the best woman!\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|39|59ef73f6f649fbbe571130aad5948762"
+msgstr "{character:生志摩妄}……梦子……梦子，梦子！只有你才能满足我，你……果然是最棒的女人啊！\n"
+
+#: event/kakekuru05_chs.bytes:30
+msgctxt "Yumeko's voice\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|40|510a9630104351c0f7bbb7793d0b075c"
+msgstr "梦子的声音\n"
+
+#: event/kakekuru05_chs.bytes:31
+msgctxt "Wanjirou\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|41|a4457ec774822eb36a119f52d615aa0f"
+msgstr "汪次郎\n"
+
+#: event/kakekuru05_chs.bytes:32
+msgctxt "Miki Nikaidou\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|42|a2b728730180f34a40fdf0be901a6778"
+msgstr "二阶堂美树\n"
+
+#: event/kakekuru05_chs.bytes:33
+msgctxt "Midari Ikishima\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|43|27d18b3b86c656f6e3e3f09befb8b5c5"
+msgstr "生志摩妄\n"
+
+#: event/kakekuru05_chs.bytes:34
+msgctxt ""
+"{character:Yumeko Jabami}But even so, the Mary I know is not the kind of "
+"person who would treat victory so lightly.\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|224|e4392dc7579bc7296d72d37bb31d2be7"
+msgstr "{character:蛇喰梦子}可就算如此，芽亚里也不是那种会对胜负马虎的人吧。\n"
+
+#: event/kakekuru05_chs.bytes:35
+msgctxt "Mary's voice\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|226|3f8df4ef0729527d6a07394b1671bc1d"
+msgstr "芽亚里的声音\n"
+
+#: event/kakekuru05_chs.bytes:36
+msgctxt ""
+"{character:Mary Saotome}Who cares? She doesn't need to worry about the "
+"research topic, anyway. If she wants to walk around, just let her.\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|229|082f417ffa4447b8ba0597e53b3890d2"
+msgstr "{character:早乙女芽亚里}管她的，反正她也不用担心课题之类的，喜欢逛就随她去吧。\n"
+
+#: event/kakekuru05_chs.bytes:37
+msgctxt "{character:Yumeko Jabami}But he's the Dog God.\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|230|d1fc392b09082c88db06726552975466"
+msgstr "{character:蛇喰梦子}可二阶堂小姐好像也这么说哦。\n"
+
+#: event/kakekuru05_chs.bytes:38
+msgctxt "\"The wish for joy.\"\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|232|ad6fdd557bbf628a8ffb279b96aca3fc"
+msgstr "「寻求愉悦之愿。」\n"
+
+#: event/kakekuru05_chs.bytes:39
+msgctxt ""
+"{character:Mary Saotome}Dog monster or Dog God, I don't think wishes can be "
+"granted just by playing a few games of mahjong. Nothing in life is free. "
+"After all, it's our work that makes the wishes come true.\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|301|67983b22033e915d9d89eea01ff94de5"
+msgstr "{character:早乙女芽亚里}不管是谁说的，只是打几局麻将就能实现的愿望，哪有这么便宜的事情。愿望终归还是要靠自己实现。\n"
+
+#: event/kakekuru05_chs.bytes:40
+msgctxt ""
+"{character:Yumeko Jabami}You've got some nerve, Mary. If the president knows"
+" you're absent from school activities, it won't end well for you.\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|334|f617d20085a2504625f3bb4c3d76cfdf"
+msgstr "{character:蛇喰梦子}还真是大胆呢，芽亚里，要是被会长她们知道翘掉了学校活动，可不知道会怎么样哦。\n"
+
+#: event/kakekuru05_chs.bytes:41
+msgctxt ""
+"{character:Mary Saotome}Ah, you're right. That messy game we played is more "
+"than enough for the 'interesting gamble' topic.\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|336|e65de8eedff589c9b5a1aa259adb624e"
+msgstr "{character:早乙女芽亚里}啊，说的也是，这种乱七八糟的赌局，作为「有趣的课题」来提交，怎么说也足够了。\n"
+
+#: event/kakekuru05_chs.bytes:42
+msgctxt ""
+"{character:Mary Saotome}If the president says it's not a good enough answer,"
+" I won't buy it. Because that means she doesn't consider us to be acceptable"
+" opponents, right?\n"
+msgid ""
+"bytes|event/kakekuru05_en.bytes|event/kakekuru05|337|f864fbcdcf434d8d3b1034f62d1b26fc"
+msgstr "{character:早乙女芽亚里}要是这被认为不合格我可不接受，那不就意味着我们作为对手被那个会长彻底小看吗？\n"
 
 #: lianggong/210004_chs.bytes:1
 msgctxt ""
@@ -29639,7 +32378,7 @@ msgctxt "手机格式错误"
 msgid "sheet|InfoError.csv|en|0eb3faa6af459c240c5e6072ac1a3889"
 msgstr "手机格式错误"
 
-#: InfoError.csv:247
+#: InfoError.csv:250
 msgctxt ""
 msgid "sheet|InfoError.csv|en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr "支付平台错误，请检查一下您的steam钱包是否有未支付的订单，请完成或取消该订单后再重试"
@@ -29675,923 +32414,923 @@ msgctxt ""
 msgid "sheet|InfoError.csv|en|9260acc27c8369d92a65cd04e40d0bee"
 msgstr "你不能对其他区域的玩家进行添加好友或发送留言的操作"
 
-#: InfoError.csv:55
+#: InfoError.csv:56
 msgctxt "This account has already been registered."
 msgid "sheet|InfoError.csv|en|5b2fd96b97c8ee00a2bbe11229b960cf"
 msgstr "嗨呀，这个账号已经注册过了"
 
-#: InfoError.csv:56
+#: InfoError.csv:57
 msgctxt "Account does not exist. Please create an account first."
 msgid "sheet|InfoError.csv|en|310e8322a0843bc05b7bf5cf66637d08"
 msgstr "账号不存在"
 
-#: InfoError.csv:57
+#: InfoError.csv:58
 msgctxt "Oops, wrong password."
 msgid "sheet|InfoError.csv|en|64f6ec9041911c5ff797cfa0c1cea41d"
 msgstr "嗨呀，密码错啦"
 
-#: InfoError.csv:58
+#: InfoError.csv:59
 msgctxt "Connection failed. Please try to refresh the page."
 msgid "sheet|InfoError.csv|en|3ebbd7264a409fd0ffbc1aa22590fa4d"
 msgstr "链接丢失，请尝试刷新页面"
 
-#: InfoError.csv:59
+#: InfoError.csv:60
 msgctxt "Your account is already logged in."
 msgid "sheet|InfoError.csv|en|5c2e0f40f5da69edd976c76bbcd1823b"
 msgstr "你的账号已经登录了"
 
-#: InfoError.csv:60
+#: InfoError.csv:61
 msgctxt "Oops, account does not exist."
 msgid "sheet|InfoError.csv|en|3c194b6b89d582f748d8f36df37a053d"
 msgstr "嗨呀，账号不存在"
 
-#: InfoError.csv:187
+#: InfoError.csv:190
 msgctxt "You don’t have this character yet."
 msgid "sheet|InfoError.csv|en|c5087b1a6ec6c3bcfb898aef5aaf0242"
 msgstr "你尚未获得这个形象"
 
-#: InfoError.csv:62
+#: InfoError.csv:63
 msgctxt "Character has been unlocked."
 msgid "sheet|InfoError.csv|en|9fd27867b3ba338d3f65a90b95fcf373"
 msgstr "人物角色已解锁"
 
-#: InfoError.csv:63
+#: InfoError.csv:64
 msgctxt "You are already logged in on another device."
 msgid "sheet|InfoError.csv|en|f0989f2d9a566a5dd872cf81a870d247"
 msgstr "你已在另一台设备登录"
 
-#: InfoError.csv:64
+#: InfoError.csv:65
 msgctxt "This name has already been taken. Please try another one."
 msgid "sheet|InfoError.csv|en|45d1b1e8a20de093348ce3af9c7f8cef"
 msgstr "这个名字已被使用，请换一个"
 
-#: InfoError.csv:65
+#: InfoError.csv:66
 msgctxt "You don’t have a nickname yet."
 msgid "sheet|InfoError.csv|en|e7c82074828d0cc28b58f9bb91179dd1"
 msgstr "尚未取名"
 
-#: InfoError.csv:66
+#: InfoError.csv:67
 msgctxt "You already have a nickname."
 msgid "sheet|InfoError.csv|en|c90d320a270fcbf1ae59fc01d77556f4"
 msgstr "已有昵称，无需重复命名"
 
-#: InfoError.csv:67
+#: InfoError.csv:68
 msgctxt "You need a Rename Scroll to change your nickname."
 msgid "sheet|InfoError.csv|en|314183ae1c820566635a984cb6f8421a"
 msgstr "需要持有更名卷轴才能变更昵称"
 
-#: InfoError.csv:68
+#: InfoError.csv:69
 msgctxt "You can only change your name once in the 30 days."
 msgid "sheet|InfoError.csv|en|a6010c70ba8af7ef03186699d63a2263"
 msgstr "你最近30天内已经改过名字了，请不要频繁改名"
 
-#: InfoError.csv:69
+#: InfoError.csv:70
 msgctxt "Real name authentication has already been completed."
 msgid "sheet|InfoError.csv|en|dd90c8f6e903ab242b2c0f8f04988e17"
 msgstr "你已经完成了实名认证，无需重复认证"
 
-#: InfoError.csv:70
+#: InfoError.csv:71
 msgctxt "Registration closed."
 msgid "sheet|InfoError.csv|en|42b0f9fe9c19f868ad4696d80d3ff7ef"
 msgstr "注册关闭"
 
-#: InfoError.csv:71
+#: InfoError.csv:72
 msgctxt "Insufficient VIP level."
 msgid "sheet|InfoError.csv|en|b480c0758b29fb22bf1f787b80824fd6"
 msgstr "契约等级不足"
 
-#: InfoError.csv:253
+#: InfoError.csv:256
 msgctxt "You have already claimed this reward."
 msgid "sheet|InfoError.csv|en|bbbe843ee8c1471a34d3124bd53e7ae8"
 msgstr "您已经领取过此奖励了"
 
-#: InfoError.csv:161
+#: InfoError.csv:164
 msgctxt "Unknown error. Please try to refresh the page.(Age)"
 msgid "sheet|InfoError.csv|en|2970472dc1cc4d1daccfef8ecbf5bf1e"
 msgstr "清先进行年龄认证"
 
-#: InfoError.csv:75
+#: InfoError.csv:76
 msgctxt "You are currently in a match."
 msgid "sheet|InfoError.csv|en|a1c2d59dc6f0f5b0eecbdf56df37671d"
 msgstr "你正在游戏中"
 
-#: InfoError.csv:76
+#: InfoError.csv:77
 msgctxt "Your character name is too long."
 msgid "sheet|InfoError.csv|en|e02ce1fc16302b081e45f8981ed2fbe8"
 msgstr "昵称过长"
 
-#: InfoError.csv:77
+#: InfoError.csv:78
 msgctxt "Multiple login attempts. Please try to quit the game and enter again"
 msgid "sheet|InfoError.csv|en|351fbe4359e919289196da2f31d309e2"
 msgstr "重复登录，请尝试退出后重新进入游戏"
 
-#: InfoError.csv:78
+#: InfoError.csv:79
 msgctxt "Can`t find this room, please check the room number"
 msgid "sheet|InfoError.csv|en|d501940f5e9ae66667d73bbea6b77180"
 msgstr "你输入的房间号不存在"
 
-#: InfoError.csv:79
+#: InfoError.csv:80
 msgctxt "Oops, room is full."
 msgid "sheet|InfoError.csv|en|2bfed0586471fc5f46769780697e79c3"
 msgstr "嗨呀，房间满啦"
 
-#: InfoError.csv:80
+#: InfoError.csv:81
 msgctxt ""
 "This player is no longer in the room. Try refreshing this page if you keep "
 "seeing this message."
 msgid "sheet|InfoError.csv|en|c10a30c410d0bd6ec22cec3a575ecd01"
 msgstr "这个玩家已经不在房间中了，如果继续出现此提示请尝试刷新页面"
 
-#: InfoError.csv:81
+#: InfoError.csv:82
 msgctxt "Unable to perform this action as you are not the room host."
 msgid "sheet|InfoError.csv|en|173c278409b933d5937e8eb0203d1211"
 msgstr "你不是房主，无法执行这个操作"
 
-#: InfoError.csv:82
+#: InfoError.csv:83
 msgctxt "One or more players are not ready yet. Please wait."
 msgid "sheet|InfoError.csv|en|cb3255d821216327415c87c85ef42935"
 msgstr "还有玩家尚未准备，请稍等"
 
-#: InfoError.csv:83
+#: InfoError.csv:84
 msgctxt "You have already joined this room."
 msgid "sheet|InfoError.csv|en|df5f822604d711ebc404f0876218b5c2"
 msgstr "你已经加入这个房间了"
 
-#: InfoError.csv:84
+#: InfoError.csv:85
 msgctxt "You have not joined any room."
 msgid "sheet|InfoError.csv|en|14babaceacfd68d3ce0443b7becb2548"
 msgstr "你没有加入任何房间"
 
-#: InfoError.csv:85
+#: InfoError.csv:86
 msgctxt "The player you are looking for is not in the room."
 msgid "sheet|InfoError.csv|en|9f0adf6de7e9217df84c4ee7d5e2e527"
 msgstr "你要找的玩家好像不在房间里"
 
-#: InfoError.csv:86
+#: InfoError.csv:87
 msgctxt "You cannot kick yourself from the room."
 msgid "sheet|InfoError.csv|en|e2742c66fd151aa8decd88501bbeae46"
 msgstr "自己踢自己还行，怕不是石乐志"
 
-#: InfoError.csv:87
+#: InfoError.csv:88
 msgctxt "The match in this room has started"
 msgid "sheet|InfoError.csv|en|132dfd49618ae488be4a0a754d2b4306"
 msgstr "该房间对局已经开始"
 
-#: InfoError.csv:88
+#: InfoError.csv:89
 msgctxt "Oops, there are no rooms available. Please try again later."
 msgid "sheet|InfoError.csv|en|19aaec90773ec3dfb2334695b21d643d"
 msgstr "咦，暂时没有可用的房间呢，请稍后重试"
 
-#: InfoError.csv:89
+#: InfoError.csv:90
 msgctxt "The room is full. Cannot add AI players."
 msgid "sheet|InfoError.csv|en|4366f9aa0ca5412dd1cc34f768c401de"
 msgstr "房间已满，无法添加AI"
 
-#: InfoError.csv:90
+#: InfoError.csv:91
 msgctxt "Room mode error. Try restarting the game."
 msgid "sheet|InfoError.csv|en|844feda0b359dc093b55044edf28d21f"
 msgstr "房间模式错误，请尝试重开游戏"
 
-#: InfoError.csv:91
+#: InfoError.csv:92
 msgctxt "Cannot change decoration when you are ready for a game"
 msgid "sheet|InfoError.csv|en|664cb957f9590720c310c8d581f72b03"
 msgstr "不能在准备的情况下进行装扮"
 
-#: InfoError.csv:96
+#: InfoError.csv:97
 msgctxt "The previous match has ended."
 msgid "sheet|InfoError.csv|en|cbf139ec97dc227f27af2fc2b295eb94"
 msgstr "之前的对局已结束"
 
-#: InfoError.csv:94
+#: InfoError.csv:95
 msgctxt "This game does not exist."
 msgid "sheet|InfoError.csv|en|90aaad920278c2c3c1e728780f0b3114"
 msgstr "这局游戏不存在"
 
-#: InfoError.csv:95
+#: InfoError.csv:96
 msgctxt "Oops, you don’t seem to satisfy the entry criteria."
 msgid "sheet|InfoError.csv|en|9d5cad1a002c362ff35b91294982b5d3"
 msgstr "嗨呀，你好像不满足进入这里的条件"
 
-#: InfoError.csv:97
+#: InfoError.csv:98
 msgctxt "Game has already ended."
 msgid "sheet|InfoError.csv|en|d72609b3808456505dad757b17e11fde"
 msgstr "游戏已经结束"
 
-#: InfoError.csv:98
+#: InfoError.csv:99
 msgctxt "Cannot manually end the game."
 msgid "sheet|InfoError.csv|en|c701005bef6c89704b256abe0eef0d98"
 msgstr "无法手动中断游戏"
 
-#: InfoError.csv:99
+#: InfoError.csv:100
 msgctxt "Failed to open match. Please try again later."
 msgid "sheet|InfoError.csv|en|a5884b111fb2a3f69a1b7ba688374cb3"
 msgstr "对局开启失败，请稍后重试"
 
-#: InfoError.csv:100
+#: InfoError.csv:101
 msgctxt "Game paused."
 msgid "sheet|InfoError.csv|en|8a02244b73e616126614bb72dbfbfb3b"
 msgstr "游戏暂停中"
 
-#: InfoError.csv:101
+#: InfoError.csv:102
 msgctxt "Game in progress (1210)"
 msgid "sheet|InfoError.csv|en|3c6b4dc4759d046e0f03c31beb661a16"
 msgstr "游戏进行中（1210）"
 
-#: InfoError.csv:102
+#: InfoError.csv:103
 msgctxt "The game has been paused for too long."
 msgid "sheet|InfoError.csv|en|93fba164360fa33c31a17a4a082bc5cd"
 msgstr "累计暂停时间过长"
 
-#: InfoError.csv:103
+#: InfoError.csv:104
 msgctxt "You have voted too frequently"
 msgid "sheet|InfoError.csv|en|ea61a40f8143caaa2397a017d330e1c1"
 msgstr "退出投票过于频繁"
 
-#: InfoError.csv:104
+#: InfoError.csv:105
 msgctxt "The voting has already ended"
 msgid "sheet|InfoError.csv|en|9188881c19c73191e425df5bf8a73f1e"
 msgstr "退出投票已结束"
 
-#: InfoError.csv:105
+#: InfoError.csv:106
 msgctxt "You can only quit the match in the Friendly Match room"
 msgid "sheet|InfoError.csv|en|18b3a2b5d77c1076d78cbb1c54b93a1e"
 msgstr "只有友人房可以退出比赛"
 
-#: InfoError.csv:106
+#: InfoError.csv:107
 msgctxt "Amount of spectators in this room has reached the limit"
 msgid "sheet|InfoError.csv|en|7f4ef2e1e89ec2738f4937ada8154369"
 msgstr "观战人员数量限制"
 
-#: InfoError.csv:107
+#: InfoError.csv:108
 msgctxt "You aren't allowed for this type of real-time spectating"
 msgid "sheet|InfoError.csv|en|1e9ed26a9981568e026b2106f90b1cfd"
 msgstr "不支持的实时OB类型"
 
-#: InfoError.csv:108
+#: InfoError.csv:109
 msgctxt "You aren't allowed to real-time spectate"
 msgid "sheet|InfoError.csv|en|ee7e23601f7ee3bf51506bc2824239ee"
 msgstr "没有实时OB的权限"
 
-#: InfoError.csv:109
+#: InfoError.csv:110
 msgctxt "You're already in matchmaking."
 msgid "sheet|InfoError.csv|en|d7da68afbd7fe9cc04eb1e24d4f7a651"
 msgstr "你已经在匹配中了"
 
-#: InfoError.csv:110
+#: InfoError.csv:111
 msgctxt "Oops, a strange error happened. Please close the pop up window."
 msgid "sheet|InfoError.csv|en|07e15c8cfe95629e4e2009e83f463a72"
 msgstr "嗨呀，发生了奇怪的错误，叉掉这个提示窗就好了"
 
-#: InfoError.csv:111
+#: InfoError.csv:112
 msgctxt "A strange error happened. Please try a different way."
 msgid "sheet|InfoError.csv|en|c3087c09a847c454941f226bbf16fa5c"
 msgstr "出现了奇怪的错误，请换个姿势试试"
 
-#: InfoError.csv:112
+#: InfoError.csv:113
 msgctxt ""
 "You don’t have enough Coins to enter this room. You can claim Revival Tokens"
 " in “Event” once per day."
 msgid "sheet|InfoError.csv|en|ae38025ea290c8b4653d41417c3034a3"
 msgstr "你的铜钱太少，无法进入这个房间，可在“活动”中领取复活币，每日一次"
 
-#: InfoError.csv:113
+#: InfoError.csv:114
 msgctxt ""
 "Unable to enter this room with your current rank. Please try another room."
 msgid "sheet|InfoError.csv|en|e83a848bb2572b470563328d75533157"
 msgstr "你的段位不适合进入这里，请换个地方吧"
 
-#: InfoError.csv:114
+#: InfoError.csv:115
 msgctxt "This room is under renovation. Please visit somewhere else."
 msgid "sheet|InfoError.csv|en|f6a98297526406799861e6cfbeb042ed"
 msgstr "该房间正在装修中，客官请去别处看看"
 
-#: InfoError.csv:115
+#: InfoError.csv:116
 msgctxt "Invalid login information, please try to relog your game"
 msgid "sheet|InfoError.csv|en|6e57ddec903cbd6cb757c5017433be03"
 msgstr "不正确的登录信息，请重启试试"
 
-#: InfoError.csv:116
+#: InfoError.csv:117
 msgctxt "Matching successful. Game starting soon."
 msgid "sheet|InfoError.csv|en|4e399b765867d2fe9d8ad1f9e432b102"
 msgstr "已经成功匹配，即将开始对局"
 
-#: InfoError.csv:117
+#: InfoError.csv:118
 msgctxt "Matching failed. Please try again later."
 msgid "sheet|InfoError.csv|en|90b27408d2b255ceb8175ca40e602883"
 msgstr "匹配失败，请稍后重新尝试匹配"
 
-#: InfoError.csv:118
+#: InfoError.csv:119
 msgctxt "You are not friends yet."
 msgid "sheet|InfoError.csv|en|43cf0b59a43ed2b3ce36a7f82bba27d8"
 msgstr "你们还不是朋友"
 
-#: InfoError.csv:119
+#: InfoError.csv:120
 msgctxt "You are already friends."
 msgid "sheet|InfoError.csv|en|0978ccf72ebd92465611e1f318825c99"
 msgstr "你们已经是朋友了"
 
-#: InfoError.csv:120
+#: InfoError.csv:121
 msgctxt ""
 "A strange problem happened while searching. Please try a different way."
 msgid "sheet|InfoError.csv|en|70e140594fe1505ba1c3ec4d114ac3bc"
 msgstr "查找时出现了奇怪的问题，请换个姿势试试"
 
-#: InfoError.csv:121
+#: InfoError.csv:122
 msgctxt "We can’t seem to process your query. Please try a different one."
 msgid "sheet|InfoError.csv|en|580d7944299dfd7aa2a840ac1ae9503c"
 msgstr "我们好像无法处理你的查询内容，请换一个试试"
 
-#: InfoError.csv:122
+#: InfoError.csv:123
 msgctxt ""
 "A strange problem happened during the application. Please try a different "
 "way."
 msgid "sheet|InfoError.csv|en|ad71d6bc1af4aa465d563c2adaf2e69b"
 msgstr "申请的过程中出现了奇怪的问题，请换个姿势试试"
 
-#: InfoError.csv:123
+#: InfoError.csv:124
 msgctxt "This player’s application list is full. Unable to send invitation."
 msgid "sheet|InfoError.csv|en|03be399641112a5a3f98d8d1af49b87d"
 msgstr "对方的申请列表已满，无法发起申请"
 
-#: InfoError.csv:124
+#: InfoError.csv:125
 msgctxt "You cannot have any more friends."
 msgid "sheet|InfoError.csv|en|3461c655742e6d22ce66912742de7535"
 msgstr "你的好友数量已达上限"
 
-#: InfoError.csv:125
+#: InfoError.csv:126
 msgctxt "You cannot add yourself as a friend."
 msgid "sheet|InfoError.csv|en|5791119957817c0a2618eba0baed21e6"
 msgstr "你不能将自己加为好友"
 
-#: InfoError.csv:126
+#: InfoError.csv:127
 msgctxt "This player cannot have any more friends."
 msgid "sheet|InfoError.csv|en|9effddf54cd1c1234c1da6909eee544d"
 msgstr "对方好友已满"
 
-#: InfoError.csv:127
+#: InfoError.csv:128
 msgctxt "You don’t have this item."
 msgid "sheet|InfoError.csv|en|10a4e64c4e8fabf4689bdd31a09fd7e9"
 msgstr "你没有这个道具"
 
-#: InfoError.csv:128
+#: InfoError.csv:129
 msgctxt "Insufficient items."
 msgid "sheet|InfoError.csv|en|5b5892ac17258ac2f2943c0717682d4e"
 msgstr "道具数量不足哦"
 
-#: InfoError.csv:129
+#: InfoError.csv:130
 msgctxt "This item cannot be used."
 msgid "sheet|InfoError.csv|en|d20275f020ecd8796f3b8f8030721139"
 msgstr "这个东西没办法使用，别弄了"
 
-#: InfoError.csv:130
+#: InfoError.csv:131
 msgctxt "This item cannot be created."
 msgid "sheet|InfoError.csv|en|d52f84bcf450ae1754da441b4f75e63e"
 msgstr "这个东西没办法合成，别挤了"
 
-#: InfoError.csv:131
+#: InfoError.csv:132
 msgctxt "You have not completed this achievement yet"
 msgid "sheet|InfoError.csv|en|4b51b85fd83c25d2bd294ea347972e86"
 msgstr "你还没有完成这个成就"
 
-#: InfoError.csv:132
+#: InfoError.csv:133
 msgctxt "You have already claimed the reward of this achievement"
 msgid "sheet|InfoError.csv|en|17ee706ac79215baa099997491764628"
 msgstr "你已经领取过这个成就的奖励了"
 
-#: InfoError.csv:133
+#: InfoError.csv:134
 msgctxt "This achievement does not give rewards"
 msgid "sheet|InfoError.csv|en|a9c8bad6f640d59cfe912d2e8b28110b"
 msgstr "这个成就没有配置奖励哦"
 
-#: InfoError.csv:134
+#: InfoError.csv:135
 msgctxt "Unable to find this daily quest."
 msgid "sheet|InfoError.csv|en|4ff07d9d227969b58cf60f1a86588ef3"
 msgstr "找不到该每日任务"
 
-#: InfoError.csv:135
+#: InfoError.csv:136
 msgctxt "The refresh attempts will reset at 5 A.M. tomorrow morning."
 msgid "sheet|InfoError.csv|en|34ac93d090bd2f2d65907ac3f33e772e"
 msgstr "你今天已经刷新过了，明天早上5点将会重置次数"
 
-#: InfoError.csv:136
+#: InfoError.csv:137
 msgctxt "Mailbox is empty."
 msgid "sheet|InfoError.csv|en|eef1596c9f360501a07bf8433c4eb96b"
 msgstr "不存在邮件"
 
-#: InfoError.csv:137
+#: InfoError.csv:138
 msgctxt "This mail does not have any attachments."
 msgid "sheet|InfoError.csv|en|5980161052f49b298591428d881bad2a"
 msgstr "该邮件没有附件，无法领取附件"
 
-#: InfoError.csv:138
+#: InfoError.csv:139
 msgctxt "You have already claimed the attachment."
 msgid "sheet|InfoError.csv|en|ddba74cae36439f2a90e23582f832296"
 msgstr "附件已领取，无需重复领取"
 
-#: InfoError.csv:139
+#: InfoError.csv:140
 msgctxt "Please claim your uncollected reward first"
 msgid "sheet|InfoError.csv|en|7f7dd9f63b7cf8f9e81b97c9ea0f5180"
 msgstr "你有奖励尚未领取，清先领取奖励"
 
-#: InfoError.csv:140
+#: InfoError.csv:141
 msgctxt "Live cast not found. Please try again."
 msgid "sheet|InfoError.csv|en|1e4f51316025ef5b1aedec6b6522b3a6"
 msgstr "没找到该直播，请刷新重试"
 
-#: InfoError.csv:141
+#: InfoError.csv:142
 msgctxt "You can`t view other region`s match."
 msgid "sheet|InfoError.csv|en|e8cdbd669de8c6be4074205c4533c7d2"
 msgstr "暂时不支持观看其他区域的对局，非常抱歉！"
 
-#: InfoError.csv:142
+#: InfoError.csv:143
 msgctxt "Recharge feature is temporarily unavailable."
 msgid "sheet|InfoError.csv|en|0c1f9e64100066e9b1ec7b105a89cb5b"
 msgstr "充值功能暂不可用"
 
-#: InfoError.csv:143
+#: InfoError.csv:144
 msgctxt "Order not found."
 msgid "sheet|InfoError.csv|en|149ad34562bd32ca88aac01cd023fce5"
 msgstr "未找到该订单"
 
-#: InfoError.csv:144
+#: InfoError.csv:145
 msgctxt "Order has been processed."
 msgid "sheet|InfoError.csv|en|a74bb3b320a64d53c70b364f68d114cf"
 msgstr "订单已经处理"
 
-#: InfoError.csv:145
+#: InfoError.csv:146
 msgctxt "Payment platform error."
 msgid "sheet|InfoError.csv|en|af449cd497011dfe44a5d9f1eb510197"
 msgstr "支付平台错误"
 
-#: InfoError.csv:146
+#: InfoError.csv:147
 msgctxt "Unable to find item ID."
 msgid "sheet|InfoError.csv|en|a4b8f5dd40d0ae27b6714ff021f92527"
 msgstr "找不到该商品ID"
 
-#: InfoError.csv:147
+#: InfoError.csv:148
 msgctxt "The payment platform is temporarily unavailable."
 msgid "sheet|InfoError.csv|en|30c95147eba965b15ebe52d10c44c32b"
 msgstr "该支付平台暂不可用"
 
-#: InfoError.csv:149
+#: InfoError.csv:152
 msgctxt "Google platform validation error. Please contact customer support."
 msgid "sheet|InfoError.csv|en|fafcf8dd0b5430bdc21c4730fd78f252"
 msgstr "谷歌平台验证签名错误，请联系游戏客服"
 
-#: InfoError.csv:150
+#: InfoError.csv:153
 msgctxt "WeChat Pay cannot be used at the moment."
 msgid "sheet|InfoError.csv|en|bc2df5cacacfe04c319795da32cf6387"
 msgstr "目前暂时无法使用微信支付"
 
-#: InfoError.csv:151
+#: InfoError.csv:154
 msgctxt "Payment expired. Please purchase again."
 msgid "sheet|InfoError.csv|en|15346d287b2afb0cf434aa09aa59d819"
 msgstr "付款凭证过期，请重新发起购买"
 
-#: InfoError.csv:152
+#: InfoError.csv:155
 msgctxt "Alipay cannot be used at the moment."
 msgid "sheet|InfoError.csv|en|c02e70c7e9f8f9d170bd9d9a215ae56c"
 msgstr "目前暂时无法使用支付宝支付"
 
-#: InfoError.csv:153
+#: InfoError.csv:156
 msgctxt "This payment method is currently unavailable."
 msgid "sheet|InfoError.csv|en|c2e4b435e3af6d3739a8dc53aa6dcc05"
 msgstr "目前暂时无法使用该方式付款"
 
-#: InfoError.csv:155
+#: InfoError.csv:158
 msgctxt "Failed to create the purchase order, please try again later(JP)"
 msgid "sheet|InfoError.csv|en|0fd871d53a924d2053fee5e733cdaac6"
 msgstr "创建订单失败，请稍后重试(JP)"
 
-#: InfoError.csv:156
+#: InfoError.csv:159
 msgctxt "In-game recharge is temporarily unavailable, sorry(JP)"
 msgid "sheet|InfoError.csv|en|7f2d9bfd8368cca62dc17083b9d61314"
 msgstr "充值功能暂时关闭，非常抱歉(JP)"
 
-#: InfoError.csv:157
+#: InfoError.csv:160
 msgctxt "Failed to create the purchase order, please try again later(YoStar)"
 msgid "sheet|InfoError.csv|en|52e9f96c4a066f290e3bca077d5728a1"
 msgstr "创建订单失败，请稍后重试(YoStar)"
 
-#: InfoError.csv:158
+#: InfoError.csv:161
 msgctxt "Failed to create the purchase order, please try again later(EN)"
 msgid "sheet|InfoError.csv|en|08329a08bd70b13f7bfb6348d1862a54"
 msgstr "创建订单失败，请稍后重试(EN)"
 
-#: InfoError.csv:159
+#: InfoError.csv:162
 msgctxt "In-game recharge is temporarily unavailable, sorry(EN)"
 msgid "sheet|InfoError.csv|en|6efb1dcb57e347c3d3a2d61320450b22"
 msgstr "充值功能暂时关闭，非常抱歉(EN)"
 
-#: InfoError.csv:168
+#: InfoError.csv:171
 msgctxt "An Email must be linked before making any purchase"
 msgid "sheet|InfoError.csv|en|abfc67efef53fefbfd20ce4f723dcef9"
 msgstr "支付需要绑定邮箱"
 
-#: InfoError.csv:169
+#: InfoError.csv:172
 msgctxt "You have already claimed Revival Tokens today."
 msgid "sheet|InfoError.csv|en|86992d68e41eab80b5da4de06b895830"
 msgstr "今天的复活币已经领过了，请明天再来"
 
-#: InfoError.csv:170
+#: InfoError.csv:173
 msgctxt "You still have lots of Coins and don’t need Revival Tokens."
 msgid "sheet|InfoError.csv|en|2379dfc81b392dc199b04adf1ff036b0"
 msgstr "你身上的铜币还很多，不需要复活币"
 
-#: InfoError.csv:171
+#: InfoError.csv:174
 msgctxt "You don’t have this title yet."
 msgid "sheet|InfoError.csv|en|f6314e5d8343e1caa4e5d9c7f9a4210b"
 msgstr "你尚未拥有该称号"
 
-#: InfoError.csv:172
+#: InfoError.csv:175
 msgctxt "This player only allows friends to leave messages."
 msgid "sheet|InfoError.csv|en|9ac972d51245334d0e8910a965080f18"
 msgstr "该玩家只允许好友留言"
 
-#: InfoError.csv:173
+#: InfoError.csv:176
 msgctxt "The player does not allow anyone to leave a message."
 msgid "sheet|InfoError.csv|en|b079680f92925f8bbc9052812a23a322"
 msgstr "该玩家不允许任何人留言"
 
-#: InfoError.csv:174
+#: InfoError.csv:177
 msgctxt "You cannot leave yourself a message."
 msgid "sheet|InfoError.csv|en|b158040edb22aa27167b8562d13ede6f"
 msgstr "你不能给自己留言"
 
-#: InfoError.csv:175
+#: InfoError.csv:178
 msgctxt "You cannot send message while in a match."
 msgid "sheet|InfoError.csv|en|dd6043039f80d2dccae9e0db60f8a98c"
 msgstr "游戏中不能发送留言哦"
 
-#: InfoError.csv:176
+#: InfoError.csv:179
 msgctxt "You cannot delete messages from other people."
 msgid "sheet|InfoError.csv|en|8a85dbc94cc224df81cf7c13f8debf46"
 msgstr "你不能删除其他人的留言"
 
-#: InfoError.csv:177
+#: InfoError.csv:180
 msgctxt ""
 "You are sending messages too frequently. Please wait for 8 seconds before "
 "sending again."
 msgid "sheet|InfoError.csv|en|2d38159a49260cf4fca362af744d974a"
 msgstr "你留言太频繁了，请8秒后再发"
 
-#: InfoError.csv:178
+#: InfoError.csv:181
 msgctxt "Unable to find this chest."
 msgid "sheet|InfoError.csv|en|76e661b145294cca1688c972ad8448a2"
 msgstr "未找到该抽卡宝箱"
 
-#: InfoError.csv:179
+#: InfoError.csv:182
 msgctxt "Incorrect summon attempts."
 msgid "sheet|InfoError.csv|en|b63579f489b24b32d436da3bc554b377"
 msgstr "错误的抽取次数"
 
-#: InfoError.csv:180
+#: InfoError.csv:183
 msgctxt "Game logs you saved have reached the limit"
 msgid "sheet|InfoError.csv|en|1ce4ac5f4f01906a126adafe439ed2ae"
 msgstr "收藏牌谱数量达到上限"
 
-#: InfoError.csv:181
+#: InfoError.csv:184
 msgctxt ""
 "Daily reward was already collected or Fortune Charm wasn't purchased yet"
 msgid "sheet|InfoError.csv|en|7b0cdcf0119e03ddad643f65762ee97f"
 msgstr "尚未购买月卡，或今天已经领取过每日奖励了"
 
-#: InfoError.csv:182
+#: InfoError.csv:185
 msgctxt "Fortune Charm maximum duration exseeded"
 msgid "sheet|InfoError.csv|en|8054092f94d6a2d07e54829106d72469"
 msgstr "月卡购买天数超过上限"
 
-#: InfoError.csv:183
+#: InfoError.csv:186
 msgctxt ""
 "The number of purchases has reached the ceiling and cannot be re-purchased"
 msgid "sheet|InfoError.csv|en|fcd3354cdcdcfbf93779f36790c7c2bd"
 msgstr "月卡购买次数已达上限，无法再次购买"
 
-#: InfoError.csv:185
+#: InfoError.csv:188
 msgctxt "This item cannot be sent as a gift. Keep it to yourself."
 msgid "sheet|InfoError.csv|en|cf832a9ca24aed3c11ebeb4e23a7df50"
 msgstr "这个东西没办法拿来送人，你自己留着吧"
 
-#: InfoError.csv:186
+#: InfoError.csv:189
 msgctxt "Cannot send any more gifts today."
 msgid "sheet|InfoError.csv|en|2899e96945a16e0e30500f01c07550b9"
 msgstr "今日送礼次数已经用完，请明天再来"
 
-#: InfoError.csv:188
+#: InfoError.csv:191
 msgctxt "Maximum Bond reached."
 msgid "sheet|InfoError.csv|en|11ed5c3d3eb742e85c42107217ef7a5e"
 msgstr "雀士羁绊等级已达MAX"
 
-#: InfoError.csv:189
+#: InfoError.csv:192
 msgctxt "The Bond between you and this character is not deep enough."
 msgid "sheet|InfoError.csv|en|96c6a84d287dd84d3735f15d302a80aa"
 msgstr "你和这名雀士之间的羁绊还不够深"
 
-#: InfoError.csv:190
+#: InfoError.csv:193
 msgctxt "You cannot have a bonding promise with this character yet."
 msgid "sheet|InfoError.csv|en|1c54e7c0599fd407dda37f56655c18b8"
 msgstr "这名雀士暂时无法缔结契约"
 
-#: InfoError.csv:191
+#: InfoError.csv:194
 msgctxt "Emoji locked. Unable to be used."
 msgid "sheet|InfoError.csv|en|be3220231b2e7bbf329f5a18e1b79595"
 msgstr "表情尚未解锁，无法使用"
 
-#: InfoError.csv:192
+#: InfoError.csv:195
 msgctxt "This outfit doesn't match the correct Jyanshi."
 msgid "sheet|InfoError.csv|en|cb59e27ad997be9bfd84b5720e1b468e"
 msgstr "服装与雀士不匹配"
 
-#: InfoError.csv:193
+#: InfoError.csv:196
 msgctxt "You have not bonded with this Jyanshi."
 msgid "sheet|InfoError.csv|en|1d274c23457eea742d0f2ab1762bcead"
 msgstr "你还没有和这位雀士缔结契约"
 
-#: InfoError.csv:194
+#: InfoError.csv:197
 msgctxt "Please finish watching the story to receive the reward."
 msgid "sheet|InfoError.csv|en|b4e1f071c0e59dc4036f1f9cd1384aba"
 msgstr "这段剧情尚未完成，完成后即可领取奖励"
 
-#: InfoError.csv:195
+#: InfoError.csv:198
 msgctxt "You have already received the story reward."
 msgid "sheet|InfoError.csv|en|44a66f1a9e88edab954a32e7baa503f9"
 msgstr "你已经领取过本段剧情的奖励了"
 
-#: InfoError.csv:196
+#: InfoError.csv:199
 msgctxt "The God doesn’t like this item."
 msgid "sheet|InfoError.csv|en|63cc66a821a36913fa84e079ff997ff3"
 msgstr "神并不喜欢这个东西"
 
-#: InfoError.csv:197
+#: InfoError.csv:200
 msgctxt "Item not found."
 msgid "sheet|InfoError.csv|en|eb54be9c4f538c494adafef0dc984ad4"
 msgstr "未找到该商品"
 
-#: InfoError.csv:198
+#: InfoError.csv:201
 msgctxt "Item sold out."
 msgid "sheet|InfoError.csv|en|a56ba75bbcb01a3a2f55dfd424714599"
 msgstr "商品已售罄"
 
-#: InfoError.csv:199
+#: InfoError.csv:202
 msgctxt "Attempt to buy items that have not appeared in Misc Shop."
 msgid "sheet|InfoError.csv|en|591d21c94dac9a2c9eded6ac3ec0474d"
 msgstr "尝试在杂货铺购买没有刷出来的道具"
 
-#: InfoError.csv:200
+#: InfoError.csv:203
 msgctxt "No more refresh chances today."
 msgid "sheet|InfoError.csv|en|5c1b28440ace4ea127204091d87d36f7"
 msgstr "今日刷新此时已用完"
 
-#: InfoError.csv:201
+#: InfoError.csv:204
 msgctxt "Item infor not received"
 msgid "sheet|InfoError.csv|en|480a01279e0bdf16fd1ccf4694596607"
 msgstr "购买礼包时没有传递礼包详细信息"
 
-#: InfoError.csv:202
+#: InfoError.csv:205
 msgctxt "Item price has changed, please refresh the page and purchase again"
 msgid "sheet|InfoError.csv|en|85d5754ea864f81cdc6ddb67aac118e0"
 msgstr "商品价格已变化，请刷新界面重新购买"
 
-#: InfoError.csv:203
+#: InfoError.csv:206
 msgctxt "Item can only be purchased once"
 msgid "sheet|InfoError.csv|en|fc59a1b53066f0730d6be2e86a94746d"
 msgstr "礼包只能一次购买一个"
 
-#: InfoError.csv:204
+#: InfoError.csv:207
 msgctxt "Item was not Offering period expired"
 msgid "sheet|InfoError.csv|en|7fd2c103eb7318006039729b282c639b"
 msgstr "商品没有在销售时间内"
 
-#: InfoError.csv:205
+#: InfoError.csv:208
 msgctxt "This product is not available in your area."
 msgid "sheet|InfoError.csv|en|4165490d7a6b67d1e842c144d6fba5cc"
 msgstr "您所在的地区不提供此商品"
 
-#: InfoError.csv:206
+#: InfoError.csv:209
 msgctxt "Cannot find this tournament. Refresh the page and try again."
 msgid "sheet|InfoError.csv|en|d1ade5c6ef9edebcb5b641085c7ec55e"
 msgstr "找不到该赛事，请刷新页面重试"
 
-#: InfoError.csv:207
+#: InfoError.csv:210
 msgctxt "Maximum number of tournaments reached."
 msgid "sheet|InfoError.csv|en|f2338ace40e74d90c38b693eddeb88f0"
 msgstr "赛事数量已达上限"
 
-#: InfoError.csv:208
+#: InfoError.csv:211
 msgctxt "Tournament ID generation error. Please try again later."
 msgid "sheet|InfoError.csv|en|4f21e135ed5753a3eb3af6a4ae9c8fda"
 msgstr "赛事ID生成出错，请稍后重试"
 
-#: InfoError.csv:209
+#: InfoError.csv:212
 msgctxt "Repeated login. Please try to refresh the page."
 msgid "sheet|InfoError.csv|en|85c6364af63d52957347f1c37bf44884"
 msgstr "重复登录，请刷新页面重试"
 
-#: InfoError.csv:210
+#: InfoError.csv:213
 msgctxt "Not logged in. Please login."
 msgid "sheet|InfoError.csv|en|a8dfaa77627a3b1cb435c4f3d66f7636"
 msgstr "尚未登录，请重新登录"
 
-#: InfoError.csv:211
+#: InfoError.csv:214
 msgctxt "You do not have the permission to do this."
 msgid "sheet|InfoError.csv|en|94f2b8f1094a94a5a776022bcba662a1"
 msgstr "你无权这么做"
 
-#: InfoError.csv:212
+#: InfoError.csv:215
 msgctxt "Tournament has not started yet."
 msgid "sheet|InfoError.csv|en|3adcb8fb44f67dcf617090dabee02404"
 msgstr "赛事尚未开始"
 
-#: InfoError.csv:213
+#: InfoError.csv:216
 msgctxt "Tournament has already ended."
 msgid "sheet|InfoError.csv|en|6f82873e791a7cf30221f433413c826d"
 msgstr "赛事已经结束"
 
-#: InfoError.csv:214
+#: InfoError.csv:217
 msgctxt ""
 "This player is not in the waiting list. Please try to refresh the page."
 msgid "sheet|InfoError.csv|en|ee5f63ac6191e77cb1da7c691bec2283"
 msgstr "该玩家不在等待列表中，请刷新页面重试"
 
-#: InfoError.csv:215
+#: InfoError.csv:218
 msgctxt "Other admin is working on this player."
 msgid "sheet|InfoError.csv|en|1a0ecd6d73cbbb87be7c19d38fc082ec"
 msgstr "该玩家整备其他管理员操作"
 
-#: InfoError.csv:216
+#: InfoError.csv:219
 msgctxt ""
 "You cannot participate in this tournament due to the name list restriction. "
 "Please contact a tournament admin."
 msgid "sheet|InfoError.csv|en|8881de2008ca1e456a106c774399297e"
 msgstr "由于比赛名单限制，你无法参加该比赛，请联系赛事管理员"
 
-#: InfoError.csv:217
+#: InfoError.csv:220
 msgctxt "You cannot send chat messages due to tournament room restrictions."
 msgid "sheet|InfoError.csv|en|b9d13823d31d6dd3afe0e7b807ea9f26"
 msgstr "由于比赛会场限制，你无法发送聊天信息"
 
-#: InfoError.csv:218
+#: InfoError.csv:221
 msgctxt "Only the tournament creator can perform this action."
 msgid "sheet|InfoError.csv|en|0e3bdaefdcf16738ca53f4c90d18ddf8"
 msgstr "只有比赛创建者可以这么做"
 
-#: InfoError.csv:219
+#: InfoError.csv:222
 msgctxt "You can only assign up to 20 admins."
 msgid "sheet|InfoError.csv|en|918343e8bed1f43084899f7b6ffc1292"
 msgstr "管理员最多只能有20个"
 
-#: InfoError.csv:220
+#: InfoError.csv:223
 msgctxt "Each account can only create up to 1 tournament every 7 days."
 msgid "sheet|InfoError.csv|en|6aa7b5d105d8e85d3f406a7e1ac6fa23"
 msgstr "每个账号每7天只能创建一个赛事"
 
-#: InfoError.csv:221
+#: InfoError.csv:224
 msgctxt "Your account does not have the permission to create a tournament."
 msgid "sheet|InfoError.csv|en|edceebfb5cd82fa2fd908d765997ca42"
 msgstr "你的账号无权创建赛事"
 
-#: InfoError.csv:222
+#: InfoError.csv:225
 msgctxt "Tournament parameter configuration error."
 msgid "sheet|InfoError.csv|en|a7b361ef2f557d4a5cbf85832fffd02b"
 msgstr "赛事设置参数错误"
 
-#: InfoError.csv:223
+#: InfoError.csv:226
 msgctxt ""
 "You cannot participate in this tournament because you have not reached the "
 "required rank. Please consult the tournament organizer for more details."
 msgid "sheet|InfoError.csv|en|771a7c28d0b59798f506b7b77a0ba1a0"
 msgstr "你的段位不足无法参赛，详情请咨询赛事举办者"
 
-#: InfoError.csv:224
+#: InfoError.csv:227
 msgctxt ""
 "You have played too many matches and cannot continue to take part in this "
 "tournament. Please consult the tournament organizer for more details."
 msgid "sheet|InfoError.csv|en|3e0e3590264aa78c0ac6738166c2511b"
 msgstr "你的对局数过多，无法继续参赛，详情请咨询赛事举办者"
 
-#: InfoError.csv:225
+#: InfoError.csv:228
 msgctxt "This player is in matchmaking."
 msgid "sheet|InfoError.csv|en|ffd0197ad4dbd701abf68465f614c12c"
 msgstr "玩家已经在匹配中"
 
-#: InfoError.csv:227
+#: InfoError.csv:230
 msgctxt ""
 "Due to the server entry limit, you cannot participate in this tournament."
 msgid "sheet|InfoError.csv|en|8b8afa90ec1fd5b8a05c043a76ca7d23"
 msgstr "由于赛事主办方设置的参赛限制，您的账号无法参加该比赛"
 
-#: InfoError.csv:228
+#: InfoError.csv:231
 msgctxt "Event does not exist. Please try to refresh the page."
 msgid "sheet|InfoError.csv|en|c400915f74a668736d9b12033ad4624d"
 msgstr "不存在的活动，请刷新界面重试"
 
-#: InfoError.csv:229
+#: InfoError.csv:232
 msgctxt "This event has already ended."
 msgid "sheet|InfoError.csv|en|5808c6ee4135178029c06817d4e44031"
 msgstr "这个活动已经结束了哦"
 
-#: InfoError.csv:230
+#: InfoError.csv:233
 msgctxt "You have claimed all available rewards."
 msgid "sheet|InfoError.csv|en|e75444345de8029076c61f1be9b58764"
 msgstr "你已经搬空了该奖励"
 
-#: InfoError.csv:231
+#: InfoError.csv:234
 msgctxt "Quest has not been accepted."
 msgid "sheet|InfoError.csv|en|71069eee24508bed8c0f527e0e0631cf"
 msgstr "未领取该任务"
 
-#: InfoError.csv:233
+#: InfoError.csv:236
 msgctxt "Quest incomplete."
 msgid "sheet|InfoError.csv|en|4f389a6871e058ebd253be9d0476a456"
 msgstr "这个任务尚未完成"
 
-#: InfoError.csv:234
+#: InfoError.csv:237
 msgctxt "Upper limit of collection"
 msgid "sheet|InfoError.csv|en|087f7e0549f4eeb04291378b78da92a1"
 msgstr "收藏牌谱数量达到上限"
 
-#: InfoError.csv:235
+#: InfoError.csv:238
 msgctxt "Unable to claim the rewards right now"
 msgid "sheet|InfoError.csv|en|5c5c010e0fa7b780d2dff9d035400b98"
 msgstr "当前无法领取奖励"
 
-#: InfoError.csv:236
+#: InfoError.csv:239
 msgctxt "The rewards has already been claimed"
 msgid "sheet|InfoError.csv|en|a9492c9f427221b753bc6b80f7dd88c6"
 msgstr "已经领取过该任务了"
 
-#: InfoError.csv:237
+#: InfoError.csv:240
 msgctxt "Not enough attempts"
 msgid "sheet|InfoError.csv|en|77904a17da6beffcd37f43ac06d89a5e"
 msgstr "翻牌次数用尽"
 
-#: InfoError.csv:238
+#: InfoError.csv:241
 msgctxt "Invalid block"
 msgid "sheet|InfoError.csv|en|f770812b420f5010617cb6c68d30899a"
 msgstr "不是奖励格子"
 
-#: InfoError.csv:239
+#: InfoError.csv:242
 msgctxt "Unable to claim rewards from this block"
 msgid "sheet|InfoError.csv|en|91c2383aaf0709c26b7fc87cfa2badf0"
 msgstr "奖励格任务不可领取"
 
-#: InfoError.csv:240
+#: InfoError.csv:243
 msgctxt "You have already checked in"
 msgid "sheet|InfoError.csv|en|1f3c5b2975bc67308ade37bf9c941817"
 msgstr "今天已经签到过了"
 
-#: InfoError.csv:241
+#: InfoError.csv:244
 msgctxt "The reward cannot be claimed yet."
 msgid "sheet|InfoError.csv|en|ce7c53c40558d54d41a90b428d08091d"
 msgstr "还没到可以领取奖励的时候哦"
 
-#: InfoError.csv:242
+#: InfoError.csv:245
 msgctxt ""
 "Mahjong Soul Shrine has received your response. Thank you for your "
 "contribution in making a better gaming environment!"
 msgid "sheet|InfoError.csv|en|11bf9a202a2d99ad289c54c4f344ecb9"
 msgstr "魂天神社已经收到了您的举报，感谢您为净化游戏环境做出的努力！"
 
-#: InfoError.csv:248
+#: InfoError.csv:251
 msgctxt "You have uncompleted quests on the Goal Ticket."
 msgid "sheet|InfoError.csv|en|cd8c01d6af67dcdc198857b87435aa54"
 msgstr "课题券上有尚未完成的任务"
 
-#: InfoError.csv:249
+#: InfoError.csv:252
 msgctxt ""
 "You have reached the max number of Goal Ticket re-publishing today. Please "
 "try again tomorrow."
 msgid "sheet|InfoError.csv|en|f90920b58d52d4ea85195913d0c7884f"
 msgstr "本日课题券的再发行次数已达到上限，请明天再尝试"
 
-#: InfoError.csv:250
+#: InfoError.csv:253
 msgctxt "There is no Path of Trial event in progress."
 msgid "sheet|InfoError.csv|en|1ba05ef5bcd812c4b82614fdf0ad3476"
 msgstr "目前没有正在进行的试炼之道活动"
 
-#: InfoError.csv:251
+#: InfoError.csv:254
 msgctxt ""
 "This Goal Ticket has been completed. Please refresh to see the result."
 msgid "sheet|InfoError.csv|en|40696d433787b94f965ce7f2adff0147"
 msgstr "此课题券已挑战完毕，请刷新查看结果"
 
-#: InfoError.csv:252
+#: InfoError.csv:255
 msgctxt "Current season of Path of Trial has not ended yet."
 msgid "sheet|InfoError.csv|en|521db4ed3f29f2c536146625e1a84061"
 msgstr "本期试炼之道尚未结束"
 
-#: InfoError.csv:254
+#: InfoError.csv:257
 msgctxt ""
 "Please wait until the ranking of the current season of Path of Trial is finalized."
 msgid "sheet|InfoError.csv|en|b87712624eb18f25b52be8634a081e1e"
 msgstr "本期试炼之道的排名正在统计中，请稍后查看"
 
-#: InfoError.csv:255
+#: InfoError.csv:258
 msgctxt "The record of this season is not found."
 msgid "sheet|InfoError.csv|en|154bd6128289e3b60f9f340e384583eb"
 msgstr "没有找到该赛季的信息"
 
-#: InfoError.csv:256
+#: InfoError.csv:259
 msgctxt ""
 "You have completed this Goal Ticket successfully. Please refresh to see the "
 "result."
@@ -32306,9 +35045,9 @@ msgid ""
 msgstr "私立百花王学园三年级"
 
 #: ItemDefinitionCharacter.csv:44
-msgctxt "Miyuki Sawashiroi"
+msgctxt "Miyuki Sawashiro"
 msgid ""
-"sheet|ItemDefinitionCharacter.csv|desc_cv_en|3f12ee817981a442a013333e1e2676d5"
+"sheet|ItemDefinitionCharacter.csv|desc_cv_en|e127a73f5db3b7c98d77391d56dd3ae4"
 msgstr "泽城美雪"
 
 #: ItemDefinitionCharacter.csv:44
@@ -39195,7 +41934,7 @@ msgctxt ""
 msgid "sheet|StrStr.csv|en|83b7514cf21aa855a87ac4592225b829"
 msgstr "嗨呀，您当前的段位无法进入这个房间，请去合适的场次"
 
-#: StrStr.csv:1361
+#: StrStr.csv:1504
 msgctxt ""
 msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
@@ -45241,21 +47980,21 @@ msgstr ""
 "\n"
 "特殊规则：宝牌狂热说明\\n\n"
 "开始时会翻开3张宝牌指示牌，最多翻开5张宝牌指示牌，之后开杠不再增加\\n\n"
-"段位限制：无\\n马点：1位+15，2位+5，3位-5，4位-15\\n入场料：3500铜币\\n兑换比例：1000点=100铜币\\n场代：1000铜币\\n不计算段位分\\n一姬的礼物盒获取进度：1位+260，2位+130，3位+95，4位+60\\n当自己最终精算点数为正时可以获得铜币，反之失去铜币"
+"段位限制：无\\n马点：1位+15，2位+5，3位-5，4位-15\\n入场料：5000铜币\\n兑换比例：1000点=100铜币\\n场代：1000铜币\\n不计算段位分\\n一姬的礼物盒获取进度：1位+260，2位+130，3位+95，4位+60\\n当自己最终精算点数为正时可以获得铜币，反之失去铜币"
 
 #: StrStr.csv:1347
 msgctxt "Locked"
 msgid "sheet|StrStr.csv|en|d0f2e5376298c880665077b565ffd7dd"
 msgstr "未解锁"
 
-#: StrStr.csv:1362
+#: StrStr.csv:1505
 msgctxt ""
 "請確認重啟後的語言版本所顯示的時間皆為UTC+8時區時間。\\nPlease confirm that the time displays in-"
 "game will be in (UTC+8) after restarting."
 msgid "sheet|StrStr.csv|en|0ee3555f0a4992a6d6088baf057992a6"
 msgstr ""
 
-#: StrStr.csv:1363
+#: StrStr.csv:1506
 msgctxt ""
 "Please confirm that the time displays in-game will be in (UTC-7) after "
 "restarting.\\n請確認重啟後的語言版本所顯示的時間皆為UTC-7時區時間。"
