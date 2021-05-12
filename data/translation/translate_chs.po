@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-05-07 12:07:04\n"
+"PO-Revision-Date: 2021-05-12 15:08:23\n"
 "Language: zh-CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -32378,7 +32378,7 @@ msgctxt "手机格式错误"
 msgid "sheet|InfoError.csv|en|0eb3faa6af459c240c5e6072ac1a3889"
 msgstr "手机格式错误"
 
-#: InfoError.csv:250
+#: InfoError.csv:247
 msgctxt ""
 msgid "sheet|InfoError.csv|en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr "支付平台错误，请检查一下您的steam钱包是否有未支付的订单，请完成或取消该订单后再重试"
@@ -32414,923 +32414,923 @@ msgctxt ""
 msgid "sheet|InfoError.csv|en|9260acc27c8369d92a65cd04e40d0bee"
 msgstr "你不能对其他区域的玩家进行添加好友或发送留言的操作"
 
-#: InfoError.csv:56
+#: InfoError.csv:55
 msgctxt "This account has already been registered."
 msgid "sheet|InfoError.csv|en|5b2fd96b97c8ee00a2bbe11229b960cf"
 msgstr "嗨呀，这个账号已经注册过了"
 
-#: InfoError.csv:57
+#: InfoError.csv:56
 msgctxt "Account does not exist. Please create an account first."
 msgid "sheet|InfoError.csv|en|310e8322a0843bc05b7bf5cf66637d08"
 msgstr "账号不存在"
 
-#: InfoError.csv:58
+#: InfoError.csv:57
 msgctxt "Oops, wrong password."
 msgid "sheet|InfoError.csv|en|64f6ec9041911c5ff797cfa0c1cea41d"
 msgstr "嗨呀，密码错啦"
 
-#: InfoError.csv:59
+#: InfoError.csv:58
 msgctxt "Connection failed. Please try to refresh the page."
 msgid "sheet|InfoError.csv|en|3ebbd7264a409fd0ffbc1aa22590fa4d"
 msgstr "链接丢失，请尝试刷新页面"
 
-#: InfoError.csv:60
+#: InfoError.csv:59
 msgctxt "Your account is already logged in."
 msgid "sheet|InfoError.csv|en|5c2e0f40f5da69edd976c76bbcd1823b"
 msgstr "你的账号已经登录了"
 
-#: InfoError.csv:61
+#: InfoError.csv:60
 msgctxt "Oops, account does not exist."
 msgid "sheet|InfoError.csv|en|3c194b6b89d582f748d8f36df37a053d"
 msgstr "嗨呀，账号不存在"
 
-#: InfoError.csv:190
+#: InfoError.csv:187
 msgctxt "You don’t have this character yet."
 msgid "sheet|InfoError.csv|en|c5087b1a6ec6c3bcfb898aef5aaf0242"
 msgstr "你尚未获得这个形象"
 
-#: InfoError.csv:63
+#: InfoError.csv:62
 msgctxt "Character has been unlocked."
 msgid "sheet|InfoError.csv|en|9fd27867b3ba338d3f65a90b95fcf373"
 msgstr "人物角色已解锁"
 
-#: InfoError.csv:64
+#: InfoError.csv:63
 msgctxt "You are already logged in on another device."
 msgid "sheet|InfoError.csv|en|f0989f2d9a566a5dd872cf81a870d247"
 msgstr "你已在另一台设备登录"
 
-#: InfoError.csv:65
+#: InfoError.csv:64
 msgctxt "This name has already been taken. Please try another one."
 msgid "sheet|InfoError.csv|en|45d1b1e8a20de093348ce3af9c7f8cef"
 msgstr "这个名字已被使用，请换一个"
 
-#: InfoError.csv:66
+#: InfoError.csv:65
 msgctxt "You don’t have a nickname yet."
 msgid "sheet|InfoError.csv|en|e7c82074828d0cc28b58f9bb91179dd1"
 msgstr "尚未取名"
 
-#: InfoError.csv:67
+#: InfoError.csv:66
 msgctxt "You already have a nickname."
 msgid "sheet|InfoError.csv|en|c90d320a270fcbf1ae59fc01d77556f4"
 msgstr "已有昵称，无需重复命名"
 
-#: InfoError.csv:68
+#: InfoError.csv:67
 msgctxt "You need a Rename Scroll to change your nickname."
 msgid "sheet|InfoError.csv|en|314183ae1c820566635a984cb6f8421a"
 msgstr "需要持有更名卷轴才能变更昵称"
 
-#: InfoError.csv:69
+#: InfoError.csv:68
 msgctxt "You can only change your name once in the 30 days."
 msgid "sheet|InfoError.csv|en|a6010c70ba8af7ef03186699d63a2263"
 msgstr "你最近30天内已经改过名字了，请不要频繁改名"
 
-#: InfoError.csv:70
+#: InfoError.csv:69
 msgctxt "Real name authentication has already been completed."
 msgid "sheet|InfoError.csv|en|dd90c8f6e903ab242b2c0f8f04988e17"
 msgstr "你已经完成了实名认证，无需重复认证"
 
-#: InfoError.csv:71
+#: InfoError.csv:70
 msgctxt "Registration closed."
 msgid "sheet|InfoError.csv|en|42b0f9fe9c19f868ad4696d80d3ff7ef"
 msgstr "注册关闭"
 
-#: InfoError.csv:72
+#: InfoError.csv:71
 msgctxt "Insufficient VIP level."
 msgid "sheet|InfoError.csv|en|b480c0758b29fb22bf1f787b80824fd6"
 msgstr "契约等级不足"
 
-#: InfoError.csv:256
+#: InfoError.csv:253
 msgctxt "You have already claimed this reward."
 msgid "sheet|InfoError.csv|en|bbbe843ee8c1471a34d3124bd53e7ae8"
 msgstr "您已经领取过此奖励了"
 
-#: InfoError.csv:164
+#: InfoError.csv:161
 msgctxt "Unknown error. Please try to refresh the page.(Age)"
 msgid "sheet|InfoError.csv|en|2970472dc1cc4d1daccfef8ecbf5bf1e"
 msgstr "清先进行年龄认证"
 
-#: InfoError.csv:76
+#: InfoError.csv:75
 msgctxt "You are currently in a match."
 msgid "sheet|InfoError.csv|en|a1c2d59dc6f0f5b0eecbdf56df37671d"
 msgstr "你正在游戏中"
 
-#: InfoError.csv:77
+#: InfoError.csv:76
 msgctxt "Your character name is too long."
 msgid "sheet|InfoError.csv|en|e02ce1fc16302b081e45f8981ed2fbe8"
 msgstr "昵称过长"
 
-#: InfoError.csv:78
+#: InfoError.csv:77
 msgctxt "Multiple login attempts. Please try to quit the game and enter again"
 msgid "sheet|InfoError.csv|en|351fbe4359e919289196da2f31d309e2"
 msgstr "重复登录，请尝试退出后重新进入游戏"
 
-#: InfoError.csv:79
+#: InfoError.csv:78
 msgctxt "Can`t find this room, please check the room number"
 msgid "sheet|InfoError.csv|en|d501940f5e9ae66667d73bbea6b77180"
 msgstr "你输入的房间号不存在"
 
-#: InfoError.csv:80
+#: InfoError.csv:79
 msgctxt "Oops, room is full."
 msgid "sheet|InfoError.csv|en|2bfed0586471fc5f46769780697e79c3"
 msgstr "嗨呀，房间满啦"
 
-#: InfoError.csv:81
+#: InfoError.csv:80
 msgctxt ""
 "This player is no longer in the room. Try refreshing this page if you keep "
 "seeing this message."
 msgid "sheet|InfoError.csv|en|c10a30c410d0bd6ec22cec3a575ecd01"
 msgstr "这个玩家已经不在房间中了，如果继续出现此提示请尝试刷新页面"
 
-#: InfoError.csv:82
+#: InfoError.csv:81
 msgctxt "Unable to perform this action as you are not the room host."
 msgid "sheet|InfoError.csv|en|173c278409b933d5937e8eb0203d1211"
 msgstr "你不是房主，无法执行这个操作"
 
-#: InfoError.csv:83
+#: InfoError.csv:82
 msgctxt "One or more players are not ready yet. Please wait."
 msgid "sheet|InfoError.csv|en|cb3255d821216327415c87c85ef42935"
 msgstr "还有玩家尚未准备，请稍等"
 
-#: InfoError.csv:84
+#: InfoError.csv:83
 msgctxt "You have already joined this room."
 msgid "sheet|InfoError.csv|en|df5f822604d711ebc404f0876218b5c2"
 msgstr "你已经加入这个房间了"
 
-#: InfoError.csv:85
+#: InfoError.csv:84
 msgctxt "You have not joined any room."
 msgid "sheet|InfoError.csv|en|14babaceacfd68d3ce0443b7becb2548"
 msgstr "你没有加入任何房间"
 
-#: InfoError.csv:86
+#: InfoError.csv:85
 msgctxt "The player you are looking for is not in the room."
 msgid "sheet|InfoError.csv|en|9f0adf6de7e9217df84c4ee7d5e2e527"
 msgstr "你要找的玩家好像不在房间里"
 
-#: InfoError.csv:87
+#: InfoError.csv:86
 msgctxt "You cannot kick yourself from the room."
 msgid "sheet|InfoError.csv|en|e2742c66fd151aa8decd88501bbeae46"
 msgstr "自己踢自己还行，怕不是石乐志"
 
-#: InfoError.csv:88
+#: InfoError.csv:87
 msgctxt "The match in this room has started"
 msgid "sheet|InfoError.csv|en|132dfd49618ae488be4a0a754d2b4306"
 msgstr "该房间对局已经开始"
 
-#: InfoError.csv:89
+#: InfoError.csv:88
 msgctxt "Oops, there are no rooms available. Please try again later."
 msgid "sheet|InfoError.csv|en|19aaec90773ec3dfb2334695b21d643d"
 msgstr "咦，暂时没有可用的房间呢，请稍后重试"
 
-#: InfoError.csv:90
+#: InfoError.csv:89
 msgctxt "The room is full. Cannot add AI players."
 msgid "sheet|InfoError.csv|en|4366f9aa0ca5412dd1cc34f768c401de"
 msgstr "房间已满，无法添加AI"
 
-#: InfoError.csv:91
+#: InfoError.csv:90
 msgctxt "Room mode error. Try restarting the game."
 msgid "sheet|InfoError.csv|en|844feda0b359dc093b55044edf28d21f"
 msgstr "房间模式错误，请尝试重开游戏"
 
-#: InfoError.csv:92
+#: InfoError.csv:91
 msgctxt "Cannot change decoration when you are ready for a game"
 msgid "sheet|InfoError.csv|en|664cb957f9590720c310c8d581f72b03"
 msgstr "不能在准备的情况下进行装扮"
 
-#: InfoError.csv:97
+#: InfoError.csv:96
 msgctxt "The previous match has ended."
 msgid "sheet|InfoError.csv|en|cbf139ec97dc227f27af2fc2b295eb94"
 msgstr "之前的对局已结束"
 
-#: InfoError.csv:95
+#: InfoError.csv:94
 msgctxt "This game does not exist."
 msgid "sheet|InfoError.csv|en|90aaad920278c2c3c1e728780f0b3114"
 msgstr "这局游戏不存在"
 
-#: InfoError.csv:96
+#: InfoError.csv:95
 msgctxt "Oops, you don’t seem to satisfy the entry criteria."
 msgid "sheet|InfoError.csv|en|9d5cad1a002c362ff35b91294982b5d3"
 msgstr "嗨呀，你好像不满足进入这里的条件"
 
-#: InfoError.csv:98
+#: InfoError.csv:97
 msgctxt "Game has already ended."
 msgid "sheet|InfoError.csv|en|d72609b3808456505dad757b17e11fde"
 msgstr "游戏已经结束"
 
-#: InfoError.csv:99
+#: InfoError.csv:98
 msgctxt "Cannot manually end the game."
 msgid "sheet|InfoError.csv|en|c701005bef6c89704b256abe0eef0d98"
 msgstr "无法手动中断游戏"
 
-#: InfoError.csv:100
+#: InfoError.csv:99
 msgctxt "Failed to open match. Please try again later."
 msgid "sheet|InfoError.csv|en|a5884b111fb2a3f69a1b7ba688374cb3"
 msgstr "对局开启失败，请稍后重试"
 
-#: InfoError.csv:101
+#: InfoError.csv:100
 msgctxt "Game paused."
 msgid "sheet|InfoError.csv|en|8a02244b73e616126614bb72dbfbfb3b"
 msgstr "游戏暂停中"
 
-#: InfoError.csv:102
+#: InfoError.csv:101
 msgctxt "Game in progress (1210)"
 msgid "sheet|InfoError.csv|en|3c6b4dc4759d046e0f03c31beb661a16"
 msgstr "游戏进行中（1210）"
 
-#: InfoError.csv:103
+#: InfoError.csv:102
 msgctxt "The game has been paused for too long."
 msgid "sheet|InfoError.csv|en|93fba164360fa33c31a17a4a082bc5cd"
 msgstr "累计暂停时间过长"
 
-#: InfoError.csv:104
+#: InfoError.csv:103
 msgctxt "You have voted too frequently"
 msgid "sheet|InfoError.csv|en|ea61a40f8143caaa2397a017d330e1c1"
 msgstr "退出投票过于频繁"
 
-#: InfoError.csv:105
+#: InfoError.csv:104
 msgctxt "The voting has already ended"
 msgid "sheet|InfoError.csv|en|9188881c19c73191e425df5bf8a73f1e"
 msgstr "退出投票已结束"
 
-#: InfoError.csv:106
+#: InfoError.csv:105
 msgctxt "You can only quit the match in the Friendly Match room"
 msgid "sheet|InfoError.csv|en|18b3a2b5d77c1076d78cbb1c54b93a1e"
 msgstr "只有友人房可以退出比赛"
 
-#: InfoError.csv:107
+#: InfoError.csv:106
 msgctxt "Amount of spectators in this room has reached the limit"
 msgid "sheet|InfoError.csv|en|7f4ef2e1e89ec2738f4937ada8154369"
 msgstr "观战人员数量限制"
 
-#: InfoError.csv:108
+#: InfoError.csv:107
 msgctxt "You aren't allowed for this type of real-time spectating"
 msgid "sheet|InfoError.csv|en|1e9ed26a9981568e026b2106f90b1cfd"
 msgstr "不支持的实时OB类型"
 
-#: InfoError.csv:109
+#: InfoError.csv:108
 msgctxt "You aren't allowed to real-time spectate"
 msgid "sheet|InfoError.csv|en|ee7e23601f7ee3bf51506bc2824239ee"
 msgstr "没有实时OB的权限"
 
-#: InfoError.csv:110
+#: InfoError.csv:109
 msgctxt "You're already in matchmaking."
 msgid "sheet|InfoError.csv|en|d7da68afbd7fe9cc04eb1e24d4f7a651"
 msgstr "你已经在匹配中了"
 
-#: InfoError.csv:111
+#: InfoError.csv:110
 msgctxt "Oops, a strange error happened. Please close the pop up window."
 msgid "sheet|InfoError.csv|en|07e15c8cfe95629e4e2009e83f463a72"
 msgstr "嗨呀，发生了奇怪的错误，叉掉这个提示窗就好了"
 
-#: InfoError.csv:112
+#: InfoError.csv:111
 msgctxt "A strange error happened. Please try a different way."
 msgid "sheet|InfoError.csv|en|c3087c09a847c454941f226bbf16fa5c"
 msgstr "出现了奇怪的错误，请换个姿势试试"
 
-#: InfoError.csv:113
+#: InfoError.csv:112
 msgctxt ""
 "You don’t have enough Coins to enter this room. You can claim Revival Tokens"
 " in “Event” once per day."
 msgid "sheet|InfoError.csv|en|ae38025ea290c8b4653d41417c3034a3"
 msgstr "你的铜钱太少，无法进入这个房间，可在“活动”中领取复活币，每日一次"
 
-#: InfoError.csv:114
+#: InfoError.csv:113
 msgctxt ""
 "Unable to enter this room with your current rank. Please try another room."
 msgid "sheet|InfoError.csv|en|e83a848bb2572b470563328d75533157"
 msgstr "你的段位不适合进入这里，请换个地方吧"
 
-#: InfoError.csv:115
+#: InfoError.csv:114
 msgctxt "This room is under renovation. Please visit somewhere else."
 msgid "sheet|InfoError.csv|en|f6a98297526406799861e6cfbeb042ed"
 msgstr "该房间正在装修中，客官请去别处看看"
 
-#: InfoError.csv:116
+#: InfoError.csv:115
 msgctxt "Invalid login information, please try to relog your game"
 msgid "sheet|InfoError.csv|en|6e57ddec903cbd6cb757c5017433be03"
 msgstr "不正确的登录信息，请重启试试"
 
-#: InfoError.csv:117
+#: InfoError.csv:116
 msgctxt "Matching successful. Game starting soon."
 msgid "sheet|InfoError.csv|en|4e399b765867d2fe9d8ad1f9e432b102"
 msgstr "已经成功匹配，即将开始对局"
 
-#: InfoError.csv:118
+#: InfoError.csv:117
 msgctxt "Matching failed. Please try again later."
 msgid "sheet|InfoError.csv|en|90b27408d2b255ceb8175ca40e602883"
 msgstr "匹配失败，请稍后重新尝试匹配"
 
-#: InfoError.csv:119
+#: InfoError.csv:118
 msgctxt "You are not friends yet."
 msgid "sheet|InfoError.csv|en|43cf0b59a43ed2b3ce36a7f82bba27d8"
 msgstr "你们还不是朋友"
 
-#: InfoError.csv:120
+#: InfoError.csv:119
 msgctxt "You are already friends."
 msgid "sheet|InfoError.csv|en|0978ccf72ebd92465611e1f318825c99"
 msgstr "你们已经是朋友了"
 
-#: InfoError.csv:121
+#: InfoError.csv:120
 msgctxt ""
 "A strange problem happened while searching. Please try a different way."
 msgid "sheet|InfoError.csv|en|70e140594fe1505ba1c3ec4d114ac3bc"
 msgstr "查找时出现了奇怪的问题，请换个姿势试试"
 
-#: InfoError.csv:122
+#: InfoError.csv:121
 msgctxt "We can’t seem to process your query. Please try a different one."
 msgid "sheet|InfoError.csv|en|580d7944299dfd7aa2a840ac1ae9503c"
 msgstr "我们好像无法处理你的查询内容，请换一个试试"
 
-#: InfoError.csv:123
+#: InfoError.csv:122
 msgctxt ""
 "A strange problem happened during the application. Please try a different "
 "way."
 msgid "sheet|InfoError.csv|en|ad71d6bc1af4aa465d563c2adaf2e69b"
 msgstr "申请的过程中出现了奇怪的问题，请换个姿势试试"
 
-#: InfoError.csv:124
+#: InfoError.csv:123
 msgctxt "This player’s application list is full. Unable to send invitation."
 msgid "sheet|InfoError.csv|en|03be399641112a5a3f98d8d1af49b87d"
 msgstr "对方的申请列表已满，无法发起申请"
 
-#: InfoError.csv:125
+#: InfoError.csv:124
 msgctxt "You cannot have any more friends."
 msgid "sheet|InfoError.csv|en|3461c655742e6d22ce66912742de7535"
 msgstr "你的好友数量已达上限"
 
-#: InfoError.csv:126
+#: InfoError.csv:125
 msgctxt "You cannot add yourself as a friend."
 msgid "sheet|InfoError.csv|en|5791119957817c0a2618eba0baed21e6"
 msgstr "你不能将自己加为好友"
 
-#: InfoError.csv:127
+#: InfoError.csv:126
 msgctxt "This player cannot have any more friends."
 msgid "sheet|InfoError.csv|en|9effddf54cd1c1234c1da6909eee544d"
 msgstr "对方好友已满"
 
-#: InfoError.csv:128
+#: InfoError.csv:127
 msgctxt "You don’t have this item."
 msgid "sheet|InfoError.csv|en|10a4e64c4e8fabf4689bdd31a09fd7e9"
 msgstr "你没有这个道具"
 
-#: InfoError.csv:129
+#: InfoError.csv:128
 msgctxt "Insufficient items."
 msgid "sheet|InfoError.csv|en|5b5892ac17258ac2f2943c0717682d4e"
 msgstr "道具数量不足哦"
 
-#: InfoError.csv:130
+#: InfoError.csv:129
 msgctxt "This item cannot be used."
 msgid "sheet|InfoError.csv|en|d20275f020ecd8796f3b8f8030721139"
 msgstr "这个东西没办法使用，别弄了"
 
-#: InfoError.csv:131
+#: InfoError.csv:130
 msgctxt "This item cannot be created."
 msgid "sheet|InfoError.csv|en|d52f84bcf450ae1754da441b4f75e63e"
 msgstr "这个东西没办法合成，别挤了"
 
-#: InfoError.csv:132
+#: InfoError.csv:131
 msgctxt "You have not completed this achievement yet"
 msgid "sheet|InfoError.csv|en|4b51b85fd83c25d2bd294ea347972e86"
 msgstr "你还没有完成这个成就"
 
-#: InfoError.csv:133
+#: InfoError.csv:132
 msgctxt "You have already claimed the reward of this achievement"
 msgid "sheet|InfoError.csv|en|17ee706ac79215baa099997491764628"
 msgstr "你已经领取过这个成就的奖励了"
 
-#: InfoError.csv:134
+#: InfoError.csv:133
 msgctxt "This achievement does not give rewards"
 msgid "sheet|InfoError.csv|en|a9c8bad6f640d59cfe912d2e8b28110b"
 msgstr "这个成就没有配置奖励哦"
 
-#: InfoError.csv:135
+#: InfoError.csv:134
 msgctxt "Unable to find this daily quest."
 msgid "sheet|InfoError.csv|en|4ff07d9d227969b58cf60f1a86588ef3"
 msgstr "找不到该每日任务"
 
-#: InfoError.csv:136
+#: InfoError.csv:135
 msgctxt "The refresh attempts will reset at 5 A.M. tomorrow morning."
 msgid "sheet|InfoError.csv|en|34ac93d090bd2f2d65907ac3f33e772e"
 msgstr "你今天已经刷新过了，明天早上5点将会重置次数"
 
-#: InfoError.csv:137
+#: InfoError.csv:136
 msgctxt "Mailbox is empty."
 msgid "sheet|InfoError.csv|en|eef1596c9f360501a07bf8433c4eb96b"
 msgstr "不存在邮件"
 
-#: InfoError.csv:138
+#: InfoError.csv:137
 msgctxt "This mail does not have any attachments."
 msgid "sheet|InfoError.csv|en|5980161052f49b298591428d881bad2a"
 msgstr "该邮件没有附件，无法领取附件"
 
-#: InfoError.csv:139
+#: InfoError.csv:138
 msgctxt "You have already claimed the attachment."
 msgid "sheet|InfoError.csv|en|ddba74cae36439f2a90e23582f832296"
 msgstr "附件已领取，无需重复领取"
 
-#: InfoError.csv:140
+#: InfoError.csv:139
 msgctxt "Please claim your uncollected reward first"
 msgid "sheet|InfoError.csv|en|7f7dd9f63b7cf8f9e81b97c9ea0f5180"
 msgstr "你有奖励尚未领取，清先领取奖励"
 
-#: InfoError.csv:141
+#: InfoError.csv:140
 msgctxt "Live cast not found. Please try again."
 msgid "sheet|InfoError.csv|en|1e4f51316025ef5b1aedec6b6522b3a6"
 msgstr "没找到该直播，请刷新重试"
 
-#: InfoError.csv:142
+#: InfoError.csv:141
 msgctxt "You can`t view other region`s match."
 msgid "sheet|InfoError.csv|en|e8cdbd669de8c6be4074205c4533c7d2"
 msgstr "暂时不支持观看其他区域的对局，非常抱歉！"
 
-#: InfoError.csv:143
+#: InfoError.csv:142
 msgctxt "Recharge feature is temporarily unavailable."
 msgid "sheet|InfoError.csv|en|0c1f9e64100066e9b1ec7b105a89cb5b"
 msgstr "充值功能暂不可用"
 
-#: InfoError.csv:144
+#: InfoError.csv:143
 msgctxt "Order not found."
 msgid "sheet|InfoError.csv|en|149ad34562bd32ca88aac01cd023fce5"
 msgstr "未找到该订单"
 
-#: InfoError.csv:145
+#: InfoError.csv:144
 msgctxt "Order has been processed."
 msgid "sheet|InfoError.csv|en|a74bb3b320a64d53c70b364f68d114cf"
 msgstr "订单已经处理"
 
-#: InfoError.csv:146
+#: InfoError.csv:145
 msgctxt "Payment platform error."
 msgid "sheet|InfoError.csv|en|af449cd497011dfe44a5d9f1eb510197"
 msgstr "支付平台错误"
 
-#: InfoError.csv:147
+#: InfoError.csv:146
 msgctxt "Unable to find item ID."
 msgid "sheet|InfoError.csv|en|a4b8f5dd40d0ae27b6714ff021f92527"
 msgstr "找不到该商品ID"
 
-#: InfoError.csv:148
+#: InfoError.csv:147
 msgctxt "The payment platform is temporarily unavailable."
 msgid "sheet|InfoError.csv|en|30c95147eba965b15ebe52d10c44c32b"
 msgstr "该支付平台暂不可用"
 
-#: InfoError.csv:152
+#: InfoError.csv:149
 msgctxt "Google platform validation error. Please contact customer support."
 msgid "sheet|InfoError.csv|en|fafcf8dd0b5430bdc21c4730fd78f252"
 msgstr "谷歌平台验证签名错误，请联系游戏客服"
 
-#: InfoError.csv:153
+#: InfoError.csv:150
 msgctxt "WeChat Pay cannot be used at the moment."
 msgid "sheet|InfoError.csv|en|bc2df5cacacfe04c319795da32cf6387"
 msgstr "目前暂时无法使用微信支付"
 
-#: InfoError.csv:154
+#: InfoError.csv:151
 msgctxt "Payment expired. Please purchase again."
 msgid "sheet|InfoError.csv|en|15346d287b2afb0cf434aa09aa59d819"
 msgstr "付款凭证过期，请重新发起购买"
 
-#: InfoError.csv:155
+#: InfoError.csv:152
 msgctxt "Alipay cannot be used at the moment."
 msgid "sheet|InfoError.csv|en|c02e70c7e9f8f9d170bd9d9a215ae56c"
 msgstr "目前暂时无法使用支付宝支付"
 
-#: InfoError.csv:156
+#: InfoError.csv:153
 msgctxt "This payment method is currently unavailable."
 msgid "sheet|InfoError.csv|en|c2e4b435e3af6d3739a8dc53aa6dcc05"
 msgstr "目前暂时无法使用该方式付款"
 
-#: InfoError.csv:158
+#: InfoError.csv:155
 msgctxt "Failed to create the purchase order, please try again later(JP)"
 msgid "sheet|InfoError.csv|en|0fd871d53a924d2053fee5e733cdaac6"
 msgstr "创建订单失败，请稍后重试(JP)"
 
-#: InfoError.csv:159
+#: InfoError.csv:156
 msgctxt "In-game recharge is temporarily unavailable, sorry(JP)"
 msgid "sheet|InfoError.csv|en|7f2d9bfd8368cca62dc17083b9d61314"
 msgstr "充值功能暂时关闭，非常抱歉(JP)"
 
-#: InfoError.csv:160
+#: InfoError.csv:157
 msgctxt "Failed to create the purchase order, please try again later(YoStar)"
 msgid "sheet|InfoError.csv|en|52e9f96c4a066f290e3bca077d5728a1"
 msgstr "创建订单失败，请稍后重试(YoStar)"
 
-#: InfoError.csv:161
+#: InfoError.csv:158
 msgctxt "Failed to create the purchase order, please try again later(EN)"
 msgid "sheet|InfoError.csv|en|08329a08bd70b13f7bfb6348d1862a54"
 msgstr "创建订单失败，请稍后重试(EN)"
 
-#: InfoError.csv:162
+#: InfoError.csv:159
 msgctxt "In-game recharge is temporarily unavailable, sorry(EN)"
 msgid "sheet|InfoError.csv|en|6efb1dcb57e347c3d3a2d61320450b22"
 msgstr "充值功能暂时关闭，非常抱歉(EN)"
 
-#: InfoError.csv:171
+#: InfoError.csv:168
 msgctxt "An Email must be linked before making any purchase"
 msgid "sheet|InfoError.csv|en|abfc67efef53fefbfd20ce4f723dcef9"
 msgstr "支付需要绑定邮箱"
 
-#: InfoError.csv:172
+#: InfoError.csv:169
 msgctxt "You have already claimed Revival Tokens today."
 msgid "sheet|InfoError.csv|en|86992d68e41eab80b5da4de06b895830"
 msgstr "今天的复活币已经领过了，请明天再来"
 
-#: InfoError.csv:173
+#: InfoError.csv:170
 msgctxt "You still have lots of Coins and don’t need Revival Tokens."
 msgid "sheet|InfoError.csv|en|2379dfc81b392dc199b04adf1ff036b0"
 msgstr "你身上的铜币还很多，不需要复活币"
 
-#: InfoError.csv:174
+#: InfoError.csv:171
 msgctxt "You don’t have this title yet."
 msgid "sheet|InfoError.csv|en|f6314e5d8343e1caa4e5d9c7f9a4210b"
 msgstr "你尚未拥有该称号"
 
-#: InfoError.csv:175
+#: InfoError.csv:172
 msgctxt "This player only allows friends to leave messages."
 msgid "sheet|InfoError.csv|en|9ac972d51245334d0e8910a965080f18"
 msgstr "该玩家只允许好友留言"
 
-#: InfoError.csv:176
+#: InfoError.csv:173
 msgctxt "The player does not allow anyone to leave a message."
 msgid "sheet|InfoError.csv|en|b079680f92925f8bbc9052812a23a322"
 msgstr "该玩家不允许任何人留言"
 
-#: InfoError.csv:177
+#: InfoError.csv:174
 msgctxt "You cannot leave yourself a message."
 msgid "sheet|InfoError.csv|en|b158040edb22aa27167b8562d13ede6f"
 msgstr "你不能给自己留言"
 
-#: InfoError.csv:178
+#: InfoError.csv:175
 msgctxt "You cannot send message while in a match."
 msgid "sheet|InfoError.csv|en|dd6043039f80d2dccae9e0db60f8a98c"
 msgstr "游戏中不能发送留言哦"
 
-#: InfoError.csv:179
+#: InfoError.csv:176
 msgctxt "You cannot delete messages from other people."
 msgid "sheet|InfoError.csv|en|8a85dbc94cc224df81cf7c13f8debf46"
 msgstr "你不能删除其他人的留言"
 
-#: InfoError.csv:180
+#: InfoError.csv:177
 msgctxt ""
 "You are sending messages too frequently. Please wait for 8 seconds before "
 "sending again."
 msgid "sheet|InfoError.csv|en|2d38159a49260cf4fca362af744d974a"
 msgstr "你留言太频繁了，请8秒后再发"
 
-#: InfoError.csv:181
+#: InfoError.csv:178
 msgctxt "Unable to find this chest."
 msgid "sheet|InfoError.csv|en|76e661b145294cca1688c972ad8448a2"
 msgstr "未找到该抽卡宝箱"
 
-#: InfoError.csv:182
+#: InfoError.csv:179
 msgctxt "Incorrect summon attempts."
 msgid "sheet|InfoError.csv|en|b63579f489b24b32d436da3bc554b377"
 msgstr "错误的抽取次数"
 
-#: InfoError.csv:183
+#: InfoError.csv:180
 msgctxt "Game logs you saved have reached the limit"
 msgid "sheet|InfoError.csv|en|1ce4ac5f4f01906a126adafe439ed2ae"
 msgstr "收藏牌谱数量达到上限"
 
-#: InfoError.csv:184
+#: InfoError.csv:181
 msgctxt ""
 "Daily reward was already collected or Fortune Charm wasn't purchased yet"
 msgid "sheet|InfoError.csv|en|7b0cdcf0119e03ddad643f65762ee97f"
 msgstr "尚未购买月卡，或今天已经领取过每日奖励了"
 
-#: InfoError.csv:185
+#: InfoError.csv:182
 msgctxt "Fortune Charm maximum duration exseeded"
 msgid "sheet|InfoError.csv|en|8054092f94d6a2d07e54829106d72469"
 msgstr "月卡购买天数超过上限"
 
-#: InfoError.csv:186
+#: InfoError.csv:183
 msgctxt ""
 "The number of purchases has reached the ceiling and cannot be re-purchased"
 msgid "sheet|InfoError.csv|en|fcd3354cdcdcfbf93779f36790c7c2bd"
 msgstr "月卡购买次数已达上限，无法再次购买"
 
-#: InfoError.csv:188
+#: InfoError.csv:185
 msgctxt "This item cannot be sent as a gift. Keep it to yourself."
 msgid "sheet|InfoError.csv|en|cf832a9ca24aed3c11ebeb4e23a7df50"
 msgstr "这个东西没办法拿来送人，你自己留着吧"
 
-#: InfoError.csv:189
+#: InfoError.csv:186
 msgctxt "Cannot send any more gifts today."
 msgid "sheet|InfoError.csv|en|2899e96945a16e0e30500f01c07550b9"
 msgstr "今日送礼次数已经用完，请明天再来"
 
-#: InfoError.csv:191
+#: InfoError.csv:188
 msgctxt "Maximum Bond reached."
 msgid "sheet|InfoError.csv|en|11ed5c3d3eb742e85c42107217ef7a5e"
 msgstr "雀士羁绊等级已达MAX"
 
-#: InfoError.csv:192
+#: InfoError.csv:189
 msgctxt "The Bond between you and this character is not deep enough."
 msgid "sheet|InfoError.csv|en|96c6a84d287dd84d3735f15d302a80aa"
 msgstr "你和这名雀士之间的羁绊还不够深"
 
-#: InfoError.csv:193
+#: InfoError.csv:190
 msgctxt "You cannot have a bonding promise with this character yet."
 msgid "sheet|InfoError.csv|en|1c54e7c0599fd407dda37f56655c18b8"
 msgstr "这名雀士暂时无法缔结契约"
 
-#: InfoError.csv:194
+#: InfoError.csv:191
 msgctxt "Emoji locked. Unable to be used."
 msgid "sheet|InfoError.csv|en|be3220231b2e7bbf329f5a18e1b79595"
 msgstr "表情尚未解锁，无法使用"
 
-#: InfoError.csv:195
+#: InfoError.csv:192
 msgctxt "This outfit doesn't match the correct Jyanshi."
 msgid "sheet|InfoError.csv|en|cb59e27ad997be9bfd84b5720e1b468e"
 msgstr "服装与雀士不匹配"
 
-#: InfoError.csv:196
+#: InfoError.csv:193
 msgctxt "You have not bonded with this Jyanshi."
 msgid "sheet|InfoError.csv|en|1d274c23457eea742d0f2ab1762bcead"
 msgstr "你还没有和这位雀士缔结契约"
 
-#: InfoError.csv:197
+#: InfoError.csv:194
 msgctxt "Please finish watching the story to receive the reward."
 msgid "sheet|InfoError.csv|en|b4e1f071c0e59dc4036f1f9cd1384aba"
 msgstr "这段剧情尚未完成，完成后即可领取奖励"
 
-#: InfoError.csv:198
+#: InfoError.csv:195
 msgctxt "You have already received the story reward."
 msgid "sheet|InfoError.csv|en|44a66f1a9e88edab954a32e7baa503f9"
 msgstr "你已经领取过本段剧情的奖励了"
 
-#: InfoError.csv:199
+#: InfoError.csv:196
 msgctxt "The God doesn’t like this item."
 msgid "sheet|InfoError.csv|en|63cc66a821a36913fa84e079ff997ff3"
 msgstr "神并不喜欢这个东西"
 
-#: InfoError.csv:200
+#: InfoError.csv:197
 msgctxt "Item not found."
 msgid "sheet|InfoError.csv|en|eb54be9c4f538c494adafef0dc984ad4"
 msgstr "未找到该商品"
 
-#: InfoError.csv:201
+#: InfoError.csv:198
 msgctxt "Item sold out."
 msgid "sheet|InfoError.csv|en|a56ba75bbcb01a3a2f55dfd424714599"
 msgstr "商品已售罄"
 
-#: InfoError.csv:202
+#: InfoError.csv:199
 msgctxt "Attempt to buy items that have not appeared in Misc Shop."
 msgid "sheet|InfoError.csv|en|591d21c94dac9a2c9eded6ac3ec0474d"
 msgstr "尝试在杂货铺购买没有刷出来的道具"
 
-#: InfoError.csv:203
+#: InfoError.csv:200
 msgctxt "No more refresh chances today."
 msgid "sheet|InfoError.csv|en|5c1b28440ace4ea127204091d87d36f7"
 msgstr "今日刷新此时已用完"
 
-#: InfoError.csv:204
+#: InfoError.csv:201
 msgctxt "Item infor not received"
 msgid "sheet|InfoError.csv|en|480a01279e0bdf16fd1ccf4694596607"
 msgstr "购买礼包时没有传递礼包详细信息"
 
-#: InfoError.csv:205
+#: InfoError.csv:202
 msgctxt "Item price has changed, please refresh the page and purchase again"
 msgid "sheet|InfoError.csv|en|85d5754ea864f81cdc6ddb67aac118e0"
 msgstr "商品价格已变化，请刷新界面重新购买"
 
-#: InfoError.csv:206
+#: InfoError.csv:203
 msgctxt "Item can only be purchased once"
 msgid "sheet|InfoError.csv|en|fc59a1b53066f0730d6be2e86a94746d"
 msgstr "礼包只能一次购买一个"
 
-#: InfoError.csv:207
+#: InfoError.csv:204
 msgctxt "Item was not Offering period expired"
 msgid "sheet|InfoError.csv|en|7fd2c103eb7318006039729b282c639b"
 msgstr "商品没有在销售时间内"
 
-#: InfoError.csv:208
+#: InfoError.csv:205
 msgctxt "This product is not available in your area."
 msgid "sheet|InfoError.csv|en|4165490d7a6b67d1e842c144d6fba5cc"
 msgstr "您所在的地区不提供此商品"
 
-#: InfoError.csv:209
+#: InfoError.csv:206
 msgctxt "Cannot find this tournament. Refresh the page and try again."
 msgid "sheet|InfoError.csv|en|d1ade5c6ef9edebcb5b641085c7ec55e"
 msgstr "找不到该赛事，请刷新页面重试"
 
-#: InfoError.csv:210
+#: InfoError.csv:207
 msgctxt "Maximum number of tournaments reached."
 msgid "sheet|InfoError.csv|en|f2338ace40e74d90c38b693eddeb88f0"
 msgstr "赛事数量已达上限"
 
-#: InfoError.csv:211
+#: InfoError.csv:208
 msgctxt "Tournament ID generation error. Please try again later."
 msgid "sheet|InfoError.csv|en|4f21e135ed5753a3eb3af6a4ae9c8fda"
 msgstr "赛事ID生成出错，请稍后重试"
 
-#: InfoError.csv:212
+#: InfoError.csv:209
 msgctxt "Repeated login. Please try to refresh the page."
 msgid "sheet|InfoError.csv|en|85c6364af63d52957347f1c37bf44884"
 msgstr "重复登录，请刷新页面重试"
 
-#: InfoError.csv:213
+#: InfoError.csv:210
 msgctxt "Not logged in. Please login."
 msgid "sheet|InfoError.csv|en|a8dfaa77627a3b1cb435c4f3d66f7636"
 msgstr "尚未登录，请重新登录"
 
-#: InfoError.csv:214
+#: InfoError.csv:211
 msgctxt "You do not have the permission to do this."
 msgid "sheet|InfoError.csv|en|94f2b8f1094a94a5a776022bcba662a1"
 msgstr "你无权这么做"
 
-#: InfoError.csv:215
+#: InfoError.csv:212
 msgctxt "Tournament has not started yet."
 msgid "sheet|InfoError.csv|en|3adcb8fb44f67dcf617090dabee02404"
 msgstr "赛事尚未开始"
 
-#: InfoError.csv:216
+#: InfoError.csv:213
 msgctxt "Tournament has already ended."
 msgid "sheet|InfoError.csv|en|6f82873e791a7cf30221f433413c826d"
 msgstr "赛事已经结束"
 
-#: InfoError.csv:217
+#: InfoError.csv:214
 msgctxt ""
 "This player is not in the waiting list. Please try to refresh the page."
 msgid "sheet|InfoError.csv|en|ee5f63ac6191e77cb1da7c691bec2283"
 msgstr "该玩家不在等待列表中，请刷新页面重试"
 
-#: InfoError.csv:218
+#: InfoError.csv:215
 msgctxt "Other admin is working on this player."
 msgid "sheet|InfoError.csv|en|1a0ecd6d73cbbb87be7c19d38fc082ec"
 msgstr "该玩家整备其他管理员操作"
 
-#: InfoError.csv:219
+#: InfoError.csv:216
 msgctxt ""
 "You cannot participate in this tournament due to the name list restriction. "
 "Please contact a tournament admin."
 msgid "sheet|InfoError.csv|en|8881de2008ca1e456a106c774399297e"
 msgstr "由于比赛名单限制，你无法参加该比赛，请联系赛事管理员"
 
-#: InfoError.csv:220
+#: InfoError.csv:217
 msgctxt "You cannot send chat messages due to tournament room restrictions."
 msgid "sheet|InfoError.csv|en|b9d13823d31d6dd3afe0e7b807ea9f26"
 msgstr "由于比赛会场限制，你无法发送聊天信息"
 
-#: InfoError.csv:221
+#: InfoError.csv:218
 msgctxt "Only the tournament creator can perform this action."
 msgid "sheet|InfoError.csv|en|0e3bdaefdcf16738ca53f4c90d18ddf8"
 msgstr "只有比赛创建者可以这么做"
 
-#: InfoError.csv:222
+#: InfoError.csv:219
 msgctxt "You can only assign up to 20 admins."
 msgid "sheet|InfoError.csv|en|918343e8bed1f43084899f7b6ffc1292"
 msgstr "管理员最多只能有20个"
 
-#: InfoError.csv:223
+#: InfoError.csv:220
 msgctxt "Each account can only create up to 1 tournament every 7 days."
 msgid "sheet|InfoError.csv|en|6aa7b5d105d8e85d3f406a7e1ac6fa23"
 msgstr "每个账号每7天只能创建一个赛事"
 
-#: InfoError.csv:224
+#: InfoError.csv:221
 msgctxt "Your account does not have the permission to create a tournament."
 msgid "sheet|InfoError.csv|en|edceebfb5cd82fa2fd908d765997ca42"
 msgstr "你的账号无权创建赛事"
 
-#: InfoError.csv:225
+#: InfoError.csv:222
 msgctxt "Tournament parameter configuration error."
 msgid "sheet|InfoError.csv|en|a7b361ef2f557d4a5cbf85832fffd02b"
 msgstr "赛事设置参数错误"
 
-#: InfoError.csv:226
+#: InfoError.csv:223
 msgctxt ""
 "You cannot participate in this tournament because you have not reached the "
 "required rank. Please consult the tournament organizer for more details."
 msgid "sheet|InfoError.csv|en|771a7c28d0b59798f506b7b77a0ba1a0"
 msgstr "你的段位不足无法参赛，详情请咨询赛事举办者"
 
-#: InfoError.csv:227
+#: InfoError.csv:224
 msgctxt ""
 "You have played too many matches and cannot continue to take part in this "
 "tournament. Please consult the tournament organizer for more details."
 msgid "sheet|InfoError.csv|en|3e0e3590264aa78c0ac6738166c2511b"
 msgstr "你的对局数过多，无法继续参赛，详情请咨询赛事举办者"
 
-#: InfoError.csv:228
+#: InfoError.csv:225
 msgctxt "This player is in matchmaking."
 msgid "sheet|InfoError.csv|en|ffd0197ad4dbd701abf68465f614c12c"
 msgstr "玩家已经在匹配中"
 
-#: InfoError.csv:230
+#: InfoError.csv:227
 msgctxt ""
 "Due to the server entry limit, you cannot participate in this tournament."
 msgid "sheet|InfoError.csv|en|8b8afa90ec1fd5b8a05c043a76ca7d23"
 msgstr "由于赛事主办方设置的参赛限制，您的账号无法参加该比赛"
 
-#: InfoError.csv:231
+#: InfoError.csv:228
 msgctxt "Event does not exist. Please try to refresh the page."
 msgid "sheet|InfoError.csv|en|c400915f74a668736d9b12033ad4624d"
 msgstr "不存在的活动，请刷新界面重试"
 
-#: InfoError.csv:232
+#: InfoError.csv:229
 msgctxt "This event has already ended."
 msgid "sheet|InfoError.csv|en|5808c6ee4135178029c06817d4e44031"
 msgstr "这个活动已经结束了哦"
 
-#: InfoError.csv:233
+#: InfoError.csv:230
 msgctxt "You have claimed all available rewards."
 msgid "sheet|InfoError.csv|en|e75444345de8029076c61f1be9b58764"
 msgstr "你已经搬空了该奖励"
 
-#: InfoError.csv:234
+#: InfoError.csv:231
 msgctxt "Quest has not been accepted."
 msgid "sheet|InfoError.csv|en|71069eee24508bed8c0f527e0e0631cf"
 msgstr "未领取该任务"
 
-#: InfoError.csv:236
+#: InfoError.csv:233
 msgctxt "Quest incomplete."
 msgid "sheet|InfoError.csv|en|4f389a6871e058ebd253be9d0476a456"
 msgstr "这个任务尚未完成"
 
-#: InfoError.csv:237
+#: InfoError.csv:234
 msgctxt "Upper limit of collection"
 msgid "sheet|InfoError.csv|en|087f7e0549f4eeb04291378b78da92a1"
 msgstr "收藏牌谱数量达到上限"
 
-#: InfoError.csv:238
+#: InfoError.csv:235
 msgctxt "Unable to claim the rewards right now"
 msgid "sheet|InfoError.csv|en|5c5c010e0fa7b780d2dff9d035400b98"
 msgstr "当前无法领取奖励"
 
-#: InfoError.csv:239
+#: InfoError.csv:236
 msgctxt "The rewards has already been claimed"
 msgid "sheet|InfoError.csv|en|a9492c9f427221b753bc6b80f7dd88c6"
 msgstr "已经领取过该任务了"
 
-#: InfoError.csv:240
+#: InfoError.csv:237
 msgctxt "Not enough attempts"
 msgid "sheet|InfoError.csv|en|77904a17da6beffcd37f43ac06d89a5e"
 msgstr "翻牌次数用尽"
 
-#: InfoError.csv:241
+#: InfoError.csv:238
 msgctxt "Invalid block"
 msgid "sheet|InfoError.csv|en|f770812b420f5010617cb6c68d30899a"
 msgstr "不是奖励格子"
 
-#: InfoError.csv:242
+#: InfoError.csv:239
 msgctxt "Unable to claim rewards from this block"
 msgid "sheet|InfoError.csv|en|91c2383aaf0709c26b7fc87cfa2badf0"
 msgstr "奖励格任务不可领取"
 
-#: InfoError.csv:243
+#: InfoError.csv:240
 msgctxt "You have already checked in"
 msgid "sheet|InfoError.csv|en|1f3c5b2975bc67308ade37bf9c941817"
 msgstr "今天已经签到过了"
 
-#: InfoError.csv:244
+#: InfoError.csv:241
 msgctxt "The reward cannot be claimed yet."
 msgid "sheet|InfoError.csv|en|ce7c53c40558d54d41a90b428d08091d"
 msgstr "还没到可以领取奖励的时候哦"
 
-#: InfoError.csv:245
+#: InfoError.csv:242
 msgctxt ""
 "Mahjong Soul Shrine has received your response. Thank you for your "
 "contribution in making a better gaming environment!"
 msgid "sheet|InfoError.csv|en|11bf9a202a2d99ad289c54c4f344ecb9"
 msgstr "魂天神社已经收到了您的举报，感谢您为净化游戏环境做出的努力！"
 
-#: InfoError.csv:251
+#: InfoError.csv:248
 msgctxt "You have uncompleted quests on the Goal Ticket."
 msgid "sheet|InfoError.csv|en|cd8c01d6af67dcdc198857b87435aa54"
 msgstr "课题券上有尚未完成的任务"
 
-#: InfoError.csv:252
+#: InfoError.csv:249
 msgctxt ""
 "You have reached the max number of Goal Ticket re-publishing today. Please "
 "try again tomorrow."
 msgid "sheet|InfoError.csv|en|f90920b58d52d4ea85195913d0c7884f"
 msgstr "本日课题券的再发行次数已达到上限，请明天再尝试"
 
-#: InfoError.csv:253
+#: InfoError.csv:250
 msgctxt "There is no Path of Trial event in progress."
 msgid "sheet|InfoError.csv|en|1ba05ef5bcd812c4b82614fdf0ad3476"
 msgstr "目前没有正在进行的试炼之道活动"
 
-#: InfoError.csv:254
+#: InfoError.csv:251
 msgctxt ""
 "This Goal Ticket has been completed. Please refresh to see the result."
 msgid "sheet|InfoError.csv|en|40696d433787b94f965ce7f2adff0147"
 msgstr "此课题券已挑战完毕，请刷新查看结果"
 
-#: InfoError.csv:255
+#: InfoError.csv:252
 msgctxt "Current season of Path of Trial has not ended yet."
 msgid "sheet|InfoError.csv|en|521db4ed3f29f2c536146625e1a84061"
 msgstr "本期试炼之道尚未结束"
 
-#: InfoError.csv:257
+#: InfoError.csv:254
 msgctxt ""
 "Please wait until the ranking of the current season of Path of Trial is finalized."
 msgid "sheet|InfoError.csv|en|b87712624eb18f25b52be8634a081e1e"
 msgstr "本期试炼之道的排名正在统计中，请稍后查看"
 
-#: InfoError.csv:258
+#: InfoError.csv:255
 msgctxt "The record of this season is not found."
 msgid "sheet|InfoError.csv|en|154bd6128289e3b60f9f340e384583eb"
 msgstr "没有找到该赛季的信息"
 
-#: InfoError.csv:259
+#: InfoError.csv:256
 msgctxt ""
 "You have completed this Goal Ticket successfully. Please refresh to see the "
 "result."
@@ -41934,7 +41934,7 @@ msgctxt ""
 msgid "sheet|StrStr.csv|en|83b7514cf21aa855a87ac4592225b829"
 msgstr "嗨呀，您当前的段位无法进入这个房间，请去合适的场次"
 
-#: StrStr.csv:1504
+#: StrStr.csv:1361
 msgctxt ""
 msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
@@ -47987,14 +47987,14 @@ msgctxt "Locked"
 msgid "sheet|StrStr.csv|en|d0f2e5376298c880665077b565ffd7dd"
 msgstr "未解锁"
 
-#: StrStr.csv:1505
+#: StrStr.csv:1362
 msgctxt ""
 "請確認重啟後的語言版本所顯示的時間皆為UTC+8時區時間。\\nPlease confirm that the time displays in-"
 "game will be in (UTC+8) after restarting."
 msgid "sheet|StrStr.csv|en|0ee3555f0a4992a6d6088baf057992a6"
 msgstr ""
 
-#: StrStr.csv:1506
+#: StrStr.csv:1363
 msgctxt ""
 "Please confirm that the time displays in-game will be in (UTC-7) after "
 "restarting.\\n請確認重啟後的語言版本所顯示的時間皆為UTC-7時區時間。"
