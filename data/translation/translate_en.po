@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-05-12 15:08:23\n"
+"PO-Revision-Date: 2021-05-17 09:08:29\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -29570,7 +29570,7 @@ msgctxt "Beach Party"
 msgid "sheet|ActivityActivity.csv|name_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
 msgstr "Beach Party"
 
-#: ActivityActivity.csv:174
+#: ActivityActivity.csv:176
 msgctxt ""
 msgid "sheet|ActivityActivity.csv|name_en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
@@ -35823,14 +35823,14 @@ msgstr "Food, sleep"
 
 #: ItemDefinitionCharacter.csv:2
 msgctxt ""
-"One of the first characters to appear in the Mahjong Soul Temple. She is the"
-" current priestess of the temple who claims to be human, despite her cat "
+"One of the first characters to appear in the Mahjong Soul Shrine. She is the"
+" current priestess of the shrine who claims to be human, despite her cat "
 "ears. To Ichihime, nothing is more important than eating and napping."
 msgid ""
-"sheet|ItemDefinitionCharacter.csv|desc_en|f7bd300fcb7e90decdc832f06de37585"
+"sheet|ItemDefinitionCharacter.csv|desc_en|43ef25ead3cce011dc4664f643224be6"
 msgstr ""
-"One of the first characters to appear in the Mahjong Soul Temple. She is the"
-" current priestess of the temple who claims to be human, despite her cat "
+"One of the first characters to appear in the Mahjong Soul Shrine. She is the"
+" current priestess of the shrine who claims to be human, despite her cat "
 "ears. To Ichihime, nothing is more important than eating and napping."
 
 #: ItemDefinitionCharacter.csv:44
@@ -45193,7 +45193,7 @@ msgstr ""
 "Oops, you cannot enter this room with your current rank. Please select a "
 "room appropriate to your rank."
 
-#: StrStr.csv:1361
+#: StrStr.csv:1377
 msgctxt ""
 msgid "sheet|StrStr.csv|en|d41d8cd98f00b204e9800998ecf8427e"
 msgstr ""
@@ -51448,7 +51448,16 @@ msgctxt "Locked"
 msgid "sheet|StrStr.csv|en|d0f2e5376298c880665077b565ffd7dd"
 msgstr "Locked"
 
-#: StrStr.csv:1362
+#: StrStr.csv:1361
+msgctxt ""
+"Please redeem the rewards in the Tower of the Wise before 5/14 1:59 P.M. "
+"(UTC-7)."
+msgid "sheet|StrStr.csv|en|6e125de5caf2e1c73b0c9133e2c14faa"
+msgstr ""
+"Please redeem the rewards in the Tower of the Wise before 5/14 1:59 P.M. "
+"(UTC-7)."
+
+#: StrStr.csv:1378
 msgctxt ""
 "請確認重啟後的語言版本所顯示的時間皆為UTC+8時區時間。\\nPlease confirm that the time displays in-"
 "game will be in (UTC+8) after restarting."
@@ -51457,7 +51466,7 @@ msgstr ""
 "請確認重啟後的語言版本所顯示的時間皆為UTC+8時區時間。\\nPlease confirm that the time displays in-"
 "game will be in (UTC+8) after restarting."
 
-#: StrStr.csv:1363
+#: StrStr.csv:1379
 msgctxt ""
 "Please confirm that the time displays in-game will be in (UTC-7) after "
 "restarting.\\n請確認重啟後的語言版本所顯示的時間皆為UTC-7時區時間。"
