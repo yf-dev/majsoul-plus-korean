@@ -13,7 +13,7 @@ pylint = "*"
 
 [packages]
 protobuf = "~=3.12.1"
-pillow = "~=8.1.1"
+pillow = "~=8.2.0"
 rectpack = "~=0.2.1"
 aiohttp = "*"
 aiofiles = "*"
