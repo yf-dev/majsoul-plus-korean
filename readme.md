@@ -1,3 +1,13 @@
+# :rotating_light: 경고 :rotating_light:
+
+현재 [작혼 Plus 사용시 계정 밴 사례](https://github.com/MajsoulPlus/majsoul-plus/issues/127)가 보고되었습니다.  
+해당 문제가 해결될 때까지 본 프로젝트를 사용하지 않는 것을 권장드립니다.
+
+[작혼 Plus](https://github.com/MajsoulPlus/majsoul-plus)를 사용하지 않고 한국어 리소스를 적용하시려면
+[작혼 한국어 리소스](https://github.com/yf-dev/majsoul-korean-resources)를 사용해주세요.
+
+---
+
 작혼 Plus: 한국어 리소스 팩
 ========================
 
