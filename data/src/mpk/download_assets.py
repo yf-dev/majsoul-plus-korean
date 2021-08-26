@@ -8,6 +8,7 @@ import urllib.request
 from tqdm.asyncio import tqdm_asyncio
 import aiofiles
 import aiohttp
+import random
 
 from .common import (
     log_normal,
@@ -18,6 +19,13 @@ from .common import (
     order_version,
     mpk_lang,
 )
+
+HEADERS = {
+    "Referer": "https://mahjongsoul.game.yo-star.com/",
+    "sec-ch-ua": '"Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"',
+    "sec-ch-ua-mobile": "?0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+}
 
 
 def chunks(list_data, chunk_size):
@@ -69,7 +77,7 @@ async def download_files(urls, max_tries):
         log_info(f"Download... (Try {try_counter})")
         retry_urls = []
         connector = aiohttp.TCPConnector(limit=64)
-        async with aiohttp.ClientSession(connector=connector) as session:
+        async with aiohttp.ClientSession(connector=connector, headers=HEADERS) as session:
             download_futures = [download_file(session, url) for url in urls]
             first_error = None
             for download_future in tqdm_asyncio.as_completed(
@@ -113,7 +121,11 @@ def main(overwrite_exist, force_update, original_assets_path, max_tries):
 
     log_info("Try to get server asset version...")
     version = None
-    with urllib.request.urlopen(f"{server}/version.json") as response:
+    version_req = urllib.request.Request(
+        f"{server}/version.json?randv={random.randrange(1000000000)}{random.randrange(1000000000)}",
+        headers=HEADERS
+    )
+    with urllib.request.urlopen(version_req) as response:
         data = response.read()
         text = data.decode("utf-8")
         version = json.loads(text)["version"]
@@ -122,7 +134,11 @@ def main(overwrite_exist, force_update, original_assets_path, max_tries):
 
     log_info("Collect assets url...")
     urls = []
-    with urllib.request.urlopen(f"{server}/resversion{version}.json") as response:
+    resversion_req = urllib.request.Request(
+        f"{server}/resversion{version}.json",
+        headers=HEADERS
+    )
+    with urllib.request.urlopen(resversion_req) as response:
         data = response.read()
         text = data.decode("utf-8")
         res_dict = json.loads(text)["res"]
