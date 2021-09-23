@@ -5,26 +5,8 @@ on:
     - cron: '0 */3 * * *'
 
 jobs:
-  authorize: 
-    runs-on: ubuntu-latest
-    steps:
-#       - name: Setup tmate session
-#         uses: mxschmitt/action-tmate@v3
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#         with:
-#           limit-access-to-actor: true
-
-      - uses: octokit/request-action@v2.0.26
-        with:
-          route: GET /repos/:repository/collaborators/${{ github.actor }}
-          repository: ${{ github.repository }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
   check-majsoul-version:
     runs-on: ubuntu-latest
-    needs: [authorize]
     outputs:
       cache-hit: ${{ steps.cache.outputs.cache-hit }}
       cache-key: ${{ runner.os }}-${{ steps.get-majsoul-version.outputs.json }}
