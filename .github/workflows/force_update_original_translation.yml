@@ -9,13 +9,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
 
-      - name: Cache data
-        id: cache
-        uses: actions/cache@v2
-        with:
-          path: ./data/assets-original
-          key: ${{ needs.check-majsoul-version.outputs.cache-key }}
-
       - name: Login to Github Package Registry
         run: echo ${{ secrets.GITHUB_TOKEN }} | docker login docker.pkg.github.com -u $GITHUB_ACTOR --password-stdin
 
