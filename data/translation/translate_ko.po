@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020, 2021.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-09-30 01:14+0000\n"
+"PO-Revision-Date: 2021-10-01 08:39+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -4458,7 +4458,7 @@ msgstr "타이틀"
 #: translate_json.csv:1048
 msgctxt "Current"
 msgid "json|lobby/recharge|1|2|6|0|222a267cc5778206b253be35ee3ddab5"
-msgstr "현재"
+msgstr "스테이지"
 
 #: translate_json.csv:1049
 msgctxt "Claim"
@@ -20568,7 +20568,7 @@ msgstr "보상"
 #: translate_sheet.csv:2143
 msgctxt "Current"
 msgid "sheet|StrStr.csv|en|222a267cc5778206b253be35ee3ddab5"
-msgstr "현재"
+msgstr "스테이지"
 
 #: translate_sheet.csv:2142
 msgctxt "Title"
@@ -29041,7 +29041,7 @@ msgctxt ""
 "accept your kindness for now."
 msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/qianzhi/lobby_levelup2)|73c93382c119f7042e69bdd60f6d851b"
-msgstr "매일 치오리님의 비위를 맞추는 거... 확실히 귀찮지만!  뭐, 어쩔 수 없으니~ 받아 줄게."
+msgstr "매일 치오리님의 비위를 맞추는 거... 확실히 귀찮지만! 뭐, 어쩔 수 없으니~ 받아 줄게."
 
 #: translate_sheet.csv:3245
 msgctxt ""
@@ -68565,33 +68565,28 @@ msgid "sheet|ItemDefinitionItem.csv|name_en|e805195b77e441674c8a745c6ff9ccf2"
 msgstr "승리 - 토네이도"
 
 #: ItemDefinitionItem.csv:258
-#, fuzzy
 msgctxt "2022年1月31日まで"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|f3641379df20dc14c21aabe7bd0e9112"
 msgstr "2022年1月31日まで"
 
 #: ItemDefinitionItem.csv:258
-#, fuzzy
 msgctxt "にじさんじ麻雀杯2021優勝記念"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|3dad628a3269c556bbf5b76868eff541"
 msgstr "にじさんじ麻雀杯2021優勝記念"
 
 #: ItemDefinitionItem.csv:258
-#, fuzzy
 msgctxt "最強鴉天狗の愛弟子"
 msgid "sheet|ItemDefinitionItem.csv|name_en|c92685b6dd9717ad8f8170b937ef0e53"
 msgstr "最強鴉天狗の愛弟子"
 
 #: ItemDefinitionItem.csv:257
-#, fuzzy
 msgctxt "2021年11月23日23時59分まで"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|36ef0ac2949786ebf75d9f4faedac1a9"
 msgstr "2021年11月23日23時59分まで"
 
 #: ItemDefinitionItem.csv:257
-#, fuzzy
 msgctxt "雀魂バーチャルインターハイ優勝チームに贈る称号。"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|5d78281debff1f5aae13a7ea1c75e4e4"
 msgstr "雀魂バーチャルインターハイ優勝チームに贈る称号。"
@@ -68622,7 +68617,6 @@ msgstr ""
 "온천 합숙 이벤트 아이템. 온천 합숙 대국과 다과회에서 얻을 수 있다.. 기도신단에 기부하거나 급식실에서 보상과 교환할 수 있다."
 
 #: ItemDefinitionItem.csv:212
-#, fuzzy
 msgctxt "Taiyaki"
 msgid "sheet|ItemDefinitionItem.csv|name_en|a1c175a614f82dc15c772d4677442b72"
 msgstr "붕어빵"
@@ -68700,42 +68694,36 @@ msgid "sheet|ItemDefinitionItem.csv|name_en|b416db0e1f4d94730fc6e6fb96c9888e"
 msgstr "리치 봉 - 소악마"
 
 #: ItemDefinitionItem.csv:157
-#, fuzzy
 msgctxt "2021/2/21 1:59 P.M. (UTC-7)"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|76ec704c361b7b212343631330683270"
 msgstr "2021/2/21 1:59 P.M. (UTC-7)"
 
 #: ItemDefinitionItem.csv:154
-#, fuzzy
 msgctxt "2022/1/31 11:59 P.M. (UTC-7)"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|a82dd585c613c14b2005f52ca94e600f"
 msgstr "2022/1/31 11:59 P.M. (UTC-7)"
 
 #: ItemDefinitionItem.csv:153
-#, fuzzy
 msgctxt "2021年12月29日5時59分まで"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|b839e534099f7d425e99782bd78b2712"
 msgstr "2021年12月29日5時59分まで"
 
 #: ItemDefinitionItem.csv:152
-#, fuzzy
 msgctxt "2021-11-03 05:00:00"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|f67a0c92a7a57c1f41643f334f55976f"
 msgstr "2021-11-03 05:00:00"
 
 #: ItemDefinitionItem.csv:151
-#, fuzzy
 msgctxt "2021/10/31 1:59 P.M. (UTC-7)"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|caa3171f5031e82ca945fa115baffe7c"
 msgstr "2021/10/31 1:59 P.M. (UTC-7)"
 
 #: ItemDefinitionItem.csv:150
-#, fuzzy
 msgctxt "2021年10月1日5時59分まで"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|9c653f1190d4d0cb6c3004db624031a8"
@@ -68870,7 +68858,6 @@ msgid ""
 msgstr "9월 6일"
 
 #: ItemDefinitionCharacter.csv:37
-#, fuzzy
 msgctxt "127cm"
 msgid ""
 "sheet|ItemDefinitionCharacter.csv|desc_stature_en|d9a11776dce4d2b14087c9c49a406c42"
@@ -68898,7 +68885,6 @@ msgid ""
 msgstr "10월 4일"
 
 #: ItemDefinitionCharacter.csv:36
-#, fuzzy
 msgctxt "154cm"
 msgid ""
 "sheet|ItemDefinitionCharacter.csv|desc_stature_en|6aef2d321b0c208dca55aba115adc7b2"
@@ -68967,7 +68953,6 @@ msgid ""
 msgstr "신문, 꽃꽂이, 영화감상"
 
 #: ItemDefinitionCharacter.csv:34
-#, fuzzy
 msgctxt "26"
 msgid ""
 "sheet|ItemDefinitionCharacter.csv|desc_age_en|4e732ced3463d06de0ca9a15b6153677"
@@ -69018,7 +69003,6 @@ msgid ""
 msgstr "7월 15일"
 
 #: ItemDefinitionCharacter.csv:33
-#, fuzzy
 msgctxt "162cm"
 msgid ""
 "sheet|ItemDefinitionCharacter.csv|desc_stature_en|0d76a7e64c5b88c6d17e8daf63d741fa"
@@ -69089,49 +69073,41 @@ msgstr ""
 "연애 경험은 제로다. 패션과 화장품을 사랑해 많은 돈을 쏟아 붓고있다보니, 늘 돈이 부족한 것 같다."
 
 #: EventsBaseTask.csv:584
-#, fuzzy
 msgctxt "500"
 msgid "sheet|EventsBaseTask.csv|desc_en|cee631121c2ec9232f3a2f028ad5c89b"
 msgstr "500"
 
 #: EventsBaseTask.csv:507
-#, fuzzy
 msgctxt "100"
 msgid "sheet|EventsBaseTask.csv|desc_en|f899139df5e1059396431415e770c6dd"
 msgstr "100"
 
 #: EventsBaseTask.csv:586
-#, fuzzy
 msgctxt "50"
 msgid "sheet|EventsBaseTask.csv|desc_en|c0c7c76d30bd3dcaefc96f40275bdc0a"
 msgstr "50"
 
 #: EventsBaseTask.csv:585
-#, fuzzy
 msgctxt "5"
 msgid "sheet|EventsBaseTask.csv|desc_en|e4da3b7fbbce2345d7772b0674a318d5"
 msgstr "5"
 
 #: EventsBaseTask.csv:428
-#, fuzzy
 msgctxt "前三名"
 msgid "sheet|EventsBaseTask.csv|desc_en|75db33c16e169613d061d47d91bf3fcc"
 msgstr "前三名"
 
 #: EventsBaseTask.csv:434
-#, fuzzy
 msgctxt "前两名"
 msgid "sheet|EventsBaseTask.csv|desc_en|d37413db08d4412d3290abda88dbc591"
 msgstr "前两名"
 
 #: EventsBaseTask.csv:431
-#, fuzzy
 msgctxt "第一名"
 msgid "sheet|EventsBaseTask.csv|desc_en|b9cad5b7f48c2a5c9eb2b936427c28e1"
 msgstr "第一名"
 
 #: EventsBaseTask.csv:418
-#, fuzzy
 msgctxt "1"
 msgid "sheet|EventsBaseTask.csv|desc_en|c4ca4238a0b923820dcc509a6f75849b"
 msgstr "1"
@@ -69739,7 +69715,6 @@ msgid "sheet|StrStr.csv|en|1aef95218a68718f64fb3dfe8d6fc7b6"
 msgstr "11/30 1:59 P.M. (UTC-7)"
 
 #: StrStr.csv:1229
-#, fuzzy
 msgctxt "11/28 1:59 P.M. (UTC-7)"
 msgid "sheet|StrStr.csv|en|185a91ec364a345ad5d1b47d83538205"
 msgstr "11/28 1:59 P.M. (UTC-7)"
@@ -71173,14 +71148,12 @@ msgid "sheet|ItemDefinitionItem.csv|name_en|854354e7c2f1ae48c8aa53d7b60f5f94"
 msgstr "리치 봉 - 바이오닉 고양이"
 
 #: ItemDefinitionItem.csv:160
-#, fuzzy
 msgctxt "2022年3月25日5時59分まで"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|f1d894de453329a349b9a3a04b76c5c5"
 msgstr "2022年3月25日5時59分まで"
 
 #: ItemDefinitionItem.csv:159
-#, fuzzy
 msgctxt "2022-03-15 05:00:00"
 msgid ""
 "sheet|ItemDefinitionItem.csv|expire_desc_en|12e518b0ad8e0ca8b0c6a50943966955"
@@ -72153,18 +72126,16 @@ msgid ""
 msgstr ""
 
 #: lianggong/210004_en.bytes:9
-#, fuzzy
 msgctxt "\n"
 msgid ""
 "bytes|lianggong/210004_en.bytes|lianggong/210004|16|68b329da9893e34099c7d8ad5cb9c940"
-msgstr ""
+msgstr "\n"
 
 #: erjietang/200006_en.bytes:22
-#, fuzzy
 msgctxt "\n"
 msgid ""
 "bytes|erjietang/200006_en.bytes|erjietang/200006|152|68b329da9893e34099c7d8ad5cb9c940"
-msgstr ""
+msgstr "\n"
 
 #: ui_en.json
 msgctxt "Animated Outfit"
@@ -72284,7 +72255,6 @@ msgid ""
 msgstr "보상"
 
 #: ui_en.json
-#, fuzzy
 msgctxt "ATK:"
 msgid "json|lobby/activity_rpg|1|2|2|1|f5e7fd1910db8a5c7ed33784753dd9cb"
 msgstr "ATK:"
@@ -72320,3 +72290,1079 @@ msgctxt "Others"
 msgid ""
 "json|both_ui/otherplayerinfo_en|1|2|6|1|0|52ef9633d88a7480b3a938ff9eaa2a25"
 msgstr "기타"
+
+#: StrStr.csv:1390
+msgctxt "Announcement"
+msgid "sheet|StrStr.csv|en|feb4d2dfe1b2a637fdfd9e397cc4735f"
+msgstr "공지사항"
+
+#: ui_en.json
+msgctxt "Currently there are no announcement"
+msgid "json|lobby/info|0|4|fdf977d65149c7208efb2b8d3b3de70f"
+msgstr "공지사항이 없습니다"
+
+#: ui_en.json
+msgctxt "Others"
+msgid "json|lobby/playerinfo|1|5|6|1|0|52ef9633d88a7480b3a938ff9eaa2a25"
+msgstr "기타"
+
+#: ui_en.json
+msgctxt "Characters: 5% "
+msgid "json|lobby/treasure|5|2|2|2|2|b1e8207272c719e2490f460387a4386a"
+msgstr "캐릭터: 5% "
+
+#: ui_en.json
+msgctxt "ピックアップ装飾品提供確率：全装飾品の49%（その内、アイコンフレームの提供確率は全装飾品の6%）"
+msgid "json|lobby/treasure|5|2|2|5|11|777b90c97c3a8225d3de5c5f10304b2d"
+msgstr "ピックアップ装飾品提供確率：全装飾品の49%（その内、アイコンフレームの提供確率は全装飾品の6%）"
+
+#: ui_en.json
+msgctxt " (green/blue/purple gifts: 24%/51%/5%)"
+msgid "json|lobby/treasure|5|2|2|2|8|77c5d0d8216a5f4baff736881b41aec5"
+msgstr " (녹색/파란색/보라색 선물: 24%/51%/5%)"
+
+#: ui_en.json
+msgctxt "Character"
+msgid "json|lobby/waitingroom|3|1|2|0|0|76a40e4f974fd895a0a2598c1cee28b4"
+msgstr "캐릭터"
+
+#: ui_en.json
+msgctxt "Event"
+msgid "json|mj/desktopInfo|3|8|0|a4ecfc70574394990cf17bd83df499f7"
+msgstr "이벤트"
+
+#: AchievementAchievement.csv:234
+msgctxt "Log in for 7 consecutive days"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|fddd0937a4a19a1679aa4603314fa68e"
+msgstr "7일 연속 로그인"
+
+#: AchievementAchievement.csv:235
+msgctxt "In Honor of Logging in for 15 Consecutive Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|5d7145b9ad1b67bf0ce197fb5e1fc143"
+msgstr "15일 연속 로그인 기념"
+
+#: AchievementAchievement.csv:250
+msgctxt "In Honor of Logging in for 2000 Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|f5a9fca0312a39420b600356e6e8feb1"
+msgstr "누적 2000일 로그인 기념"
+
+#: AchievementAchievement.csv:399
+msgctxt "Obtain Jyanshi Ayako Morikawa"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|43f5f22b0df2fae2d21e2aa4e57361d9"
+msgstr "모리카와 아야코를 입수하기"
+
+#: ActivityActivity.csv:167
+msgctxt "Woodland Field Trip"
+msgid "sheet|ActivityActivity.csv|name_en|d1055f0766a3c18536b063649b074f85"
+msgstr "수학연림"
+
+#: ActivityActivity.csv:195
+msgctxt "Challenge to leave the room"
+msgid "sheet|ActivityActivity.csv|name_en|e0f75233d7fef75cb615b983a53f04d2"
+msgstr "히키코모리 탈피 선언"
+
+#: ui_en.json
+msgctxt "Get Field Trip PT"
+msgid "json|kuangdu/kuangdu_rules|1|0|3|0|2|33d0baa11edf6d0b378a3dd7434c324c"
+msgstr "PT 받기"
+
+#: CharacterEmoji.csv:205
+msgctxt "10/20  (PDT)"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|21a3c67710d07b2c2f5e40ad7a982169"
+msgstr "10/20  (PDT)"
+
+#: DesktopMatchmode.csv:40
+msgctxt "Bloodshed Skirmish"
+msgid ""
+"sheet|DesktopMatchmode.csv|room_name_en|e732fa46d6004d37b53d52dddbc178f8"
+msgstr "적혈전"
+
+#: EventsBaseTask.csv:237
+msgctxt "Win 3 games with 1 Han Yaku included"
+msgid "sheet|EventsBaseTask.csv|desc_en|b5892151de0d2c2a5a8dca11acfcca5d"
+msgstr "3 게임을 1판 역을 포함하여 화료"
+
+#: EventsBaseTask.csv:444
+msgctxt "Play the Woodland Field Trip matches daily for 1 day in total."
+msgid "sheet|EventsBaseTask.csv|desc_en|b83deb76a1f4a88bcc7bc529d615049d"
+msgstr "수학연림 대국에 누적 1일 참가하기."
+
+#: EventsBaseTask.csv:446
+msgctxt "Play the Woodland Field Trip matches daily for 3 days in total."
+msgid "sheet|EventsBaseTask.csv|desc_en|7051cbc37e52bb138db5bade40226fbc"
+msgstr "수학연림 대국에 누적 3일 참가하기."
+
+#: EventsBaseTask.csv:459
+msgctxt "Win 18 times in total in the Woodland Field Trip matches."
+msgid "sheet|EventsBaseTask.csv|desc_en|f7f65bdaf15acdbec42ceb8114b1f00c"
+msgstr "수학연림 대국에서 18회 화료하기."
+
+#: EventsBaseTask.csv:461
+msgctxt "Win 24 times in total in the Woodland Field Trip matches."
+msgid "sheet|EventsBaseTask.csv|desc_en|63870ca4d058c1deedb9b1d925b4b4aa"
+msgstr "수학연림 대국에서 24회 화료하기."
+
+#: EventsBaseTask.csv:463
+msgctxt "Win 30 times in total in the Woodland Field Trip matches."
+msgid "sheet|EventsBaseTask.csv|desc_en|2f3d7cc311d571c15c1ca6e8abb777f4"
+msgstr "수학연림 대국에서 30회 화료하기."
+
+#: AchievementAchievement.csv:243
+msgctxt "Log in for 30 days in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|c9b07425468450afbbb62323725bc604"
+msgstr "누적 30일 로그인"
+
+#: ui_en.json
+msgctxt "(Faith)."
+msgid "json|lobby/treasure|5|2|2|2|1|9a755e8a12a5b34d476374adb022ccc9"
+msgstr "(Faith)."
+
+#: ui_en.json
+msgctxt "3"
+msgid "json|lobby/waitingroom|3|1|3|1|2|1|eccbc87e4b5ce2fe28308fd9f2a7baf3"
+msgstr "3"
+
+#: ui_en.json
+msgctxt "4"
+msgid "json|lobby/waitingroom|3|1|3|1|3|1|a87ff679a2f3e71d9181a67b7542122c"
+msgstr "4"
+
+#: AchievementAchievement.csv:246
+msgctxt "Log in for 200 days in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|6f4aa21f683c95334a41e5bff3b0a7b0"
+msgstr "누적 200일 로그인"
+
+#: AchievementAchievement.csv:242
+msgctxt "Log in for 15 days in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|08ea1f9319f798929dfc6c8ba366be3e"
+msgstr "누적 15일 로그인"
+
+#: AchievementAchievement.csv:243
+msgctxt "In Honor of Logging in for 30 Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|a51e86c321e2de8df99f8681a8fa700b"
+msgstr "누적 30일 로그인 기념"
+
+#: AchievementAchievement.csv:396
+msgctxt "An Encounter with Ryan"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|30f9098fc99a4292d8fadbd48694e31b"
+msgstr "라이안과의 만남"
+
+#: AchievementAchievement.csv:396
+msgctxt "Obtain Jyanshi Ryan"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|52d019a59f5d63c70295e989422173ed"
+msgstr "라이안을 입수하기"
+
+#: AchievementAchievement.csv:397
+msgctxt "Bonded with Hibiki Himekawa"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|ff665045b972b32d768474d3014eb363"
+msgstr "히메카와 히비키의 계약자"
+
+#: EventsBaseTask.csv:457
+msgctxt "Win 12 times in total in the Woodland Field Trip matches."
+msgid "sheet|EventsBaseTask.csv|desc_en|7f726b5c379f976a82aed6c5c1e67efe"
+msgstr "수학연림 대국에서 12회 화료하기."
+
+#: AchievementAchievement.csv:233
+msgctxt "In Honor of Logging in for 3 Consecutive Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|df6bc69bd23a0bfd1ac5e4e54d690412"
+msgstr "3일 연속 로그인 기념"
+
+#: AchievementAchievement.csv:233
+msgctxt "Log in for 3 consecutive days"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|08138278ed7f93e55a3754ddb21bab9d"
+msgstr "3일 연속 로그인"
+
+#: AchievementAchievement.csv:234
+msgctxt "In Honor of Logging in for 7 Consecutive Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|089114c3012ab5e5adf58d95230f465c"
+msgstr "7일 연속 로그인 기념"
+
+#: AchievementAchievement.csv:235
+msgctxt "Log in for 15 consecutive days"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|9f15828e0c103a71013e6feb588f4100"
+msgstr "15일 연속 로그인"
+
+#: AchievementAchievement.csv:237
+msgctxt "In Honor of Logging in for 2 Month"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|9eb0b1218e73ecb8609212b2f01e5c67"
+msgstr "2개월 연속 로그인 기념"
+
+#: AchievementAchievement.csv:237
+msgctxt "Log in for 60 consecutive days"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b6fe805c0a73050e9bd4f603b3c18221"
+msgstr "60일 연속 로그인"
+
+#: AchievementAchievement.csv:238
+msgctxt "In Honor of Logging in for 100 Consecutive Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|64e61a0cc130e3f18d1be4b805c1c3a8"
+msgstr "100일 연속 로그인 기념"
+
+#: AchievementAchievement.csv:238
+msgctxt "Log in for 100 consecutive days"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a57f1a7e2e3e6af9901128e95384febd"
+msgstr "100일 연속 로그인"
+
+#: AchievementAchievement.csv:251
+msgctxt "In Honor of Logging in for 3000 Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|02b385018510694430a07106912d266d"
+msgstr "누적 3000일 로그인 기념"
+
+#: AchievementAchievement.csv:251
+msgctxt "Log in for 3000 days in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|0320658e7244f06ece820dc653512630"
+msgstr "누적 3000일 로그인"
+
+#: AchievementAchievement.csv:391
+msgctxt "An Encounter with Reina Nanami"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|879ec5d3603a80f35770eae9946126cd"
+msgstr "나나미 레이나와의 만남"
+
+#: AchievementAchievement.csv:391
+msgctxt "Obtain Jyanshi Reina Nanami"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7a43f7c255e74985f7b698f5807bbaa6"
+msgstr "나나미 레이나를 입수하기"
+
+#: AchievementAchievement.csv:392
+msgctxt "An Encounter with A-37"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|a23b64a0480334bb19c12e96d9bb1eea"
+msgstr "A-37과의 만남"
+
+#: AchievementAchievement.csv:392
+msgctxt "Obtain Jyanshi A-37"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b89f324c9e685e30960c7c39bd543aa3"
+msgstr "A-37을 입수하기"
+
+#: AchievementAchievement.csv:401
+msgctxt "Bond with Ayako Morikawa"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|cc82ba927a4b67753eab73c5ce6bf096"
+msgstr "모리카와 아야코와 계약 맺기"
+
+#: AchievementAchievement.csv:402
+msgctxt "Bonded with Natsuhiko Takigawa"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4e7e5a82b4ed48e6fcfed01c817a1cfe"
+msgstr "타키가와 나츠히코의 계약자"
+
+#: AchievementAchievement.csv:402
+msgctxt "Bond with Natsuhiko Takigawa"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|d3c34a6389ce244c452fe33ad225efcd"
+msgstr "타키가와 나츠히코와 계약을 맺기"
+
+#: EventsBaseTask.csv:453
+msgctxt "Play the Woodland Field Trip matches daily for 10 days in total."
+msgid "sheet|EventsBaseTask.csv|desc_en|ed4d8347f0458202c601e4183fbfb0d3"
+msgstr "수학연림 대국에 누적 10일 참가하기."
+
+#: CharacterEmoji.csv:363
+msgctxt "Unlock Event"
+msgid ""
+"sheet|CharacterEmoji.csv|unlock_desc_en|d372829725df4ec11266f3bae903e211"
+msgstr "이벤트로 해제"
+
+#: CharacterEmoji.csv:363
+msgctxt "2023/10/18 (UTC-7)"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|aeff8ac779ad8548c9f4852cd8e58dc4"
+msgstr "2023/10/18 (UTC-7)"
+
+#: ui_en.json
+msgctxt "12 Victories Rewards"
+msgid "json|lobby/activity_jjc|1|3|0|2|af80aa189bb930a176ad043b7a630df4"
+msgstr "12승 보상"
+
+#: ui_en.json
+msgctxt "Highest victory number"
+msgid "json|lobby/activity_jjc|1|3|1|0|cdd8e0c45a37a933bda1106fac1a503f"
+msgstr "최고 승수"
+
+#: ui_en.json
+msgctxt "Accumulated victory number"
+msgid "json|lobby/activity_jjc|1|3|1|3|4530ac78a3bd5df4f70381ee90f1e0a1"
+msgstr "누적 승수"
+
+#: ui_en.json
+msgctxt "Tickets owned:"
+msgid "json|lobby/activity_jjc|1|3|1|6|2|08c838c5a3e47ed19b62c8345eebd815"
+msgstr "보유 티켓:"
+
+#: ui_en.json
+msgctxt "Event ends at 9/25 6:59 P.M. (UTC-7)"
+msgid "json|lobby/activity_jjc|1|3|1|7|07de90444d928b6635770510db067148"
+msgstr "이벤트 기간: 9월 25일 6:59 PM (UTC-7) 까지"
+
+#: ui_en.json
+msgctxt "Current rewards:"
+msgid "json|lobby/activity_jjc|1|4|0|8448d3bc228b57770248d680f1de2236"
+msgstr "현재 보상:"
+
+#: ui_en.json
+msgctxt "Event ends at 9/25 6:59 P.M. (UTC-7)"
+msgid "json|lobby/activity_jjc|1|4|1|07de90444d928b6635770510db067148"
+msgstr "이벤트 기간: 9월 25일 6:59 PM (UTC-7) 까지"
+
+#: ui_en.json
+msgctxt "match(es) till gift box is upgraded"
+msgid "json|lobby/activity_jjc|1|4|2|2|1|1|75cb5fe713989a06861f7cf071ee26fa"
+msgstr "회 경기 필요"
+
+#: ui_en.json
+msgctxt "Victories in this round:"
+msgid "json|lobby/activity_jjc|1|4|9|01d10d176da5371ad66590d4cf1bf26d"
+msgstr "본선 승리 횟수:"
+
+#: ui_en.json
+msgctxt "Failures allowed:"
+msgid "json|lobby/activity_jjc|1|4|10|0|1e239019df648206364e2d1a709745c6"
+msgstr "실패 가능 횟수:"
+
+#: ui_en.json
+msgctxt "12 Victories Rewards"
+msgid "json|lobby/activity_jjc_en|1|3|0|2|af80aa189bb930a176ad043b7a630df4"
+msgstr "12승 보상"
+
+#: ui_en.json
+msgctxt "Highest victory number"
+msgid "json|lobby/activity_jjc_en|1|3|1|0|cdd8e0c45a37a933bda1106fac1a503f"
+msgstr "최고 승수"
+
+#: ui_en.json
+msgctxt "Accumulated victory number"
+msgid "json|lobby/activity_jjc_en|1|3|1|3|4530ac78a3bd5df4f70381ee90f1e0a1"
+msgstr "누적 승수"
+
+#: ui_en.json
+msgctxt "Tickets owned:"
+msgid "json|lobby/activity_jjc_en|1|3|1|6|2|08c838c5a3e47ed19b62c8345eebd815"
+msgstr "보유 티켓:"
+
+#: ui_en.json
+msgctxt "Event ends at 9/25 6:59 P.M. (UTC-7)"
+msgid "json|lobby/activity_jjc_en|1|3|1|7|07de90444d928b6635770510db067148"
+msgstr "이벤트 기간: 9월 25일 6:59 PM (UTC-7) 까지"
+
+#: ui_en.json
+msgctxt "Current rewards:"
+msgid "json|lobby/activity_jjc_en|1|4|0|8448d3bc228b57770248d680f1de2236"
+msgstr "현재 보상:"
+
+#: ui_en.json
+msgctxt "Event ends at 9/25 6:59 P.M. (UTC-7)"
+msgid "json|lobby/activity_jjc_en|1|4|1|07de90444d928b6635770510db067148"
+msgstr "이벤트 기간: 9월 25일 6:59 PM (UTC-7) 까지"
+
+#: ui_en.json
+msgctxt "match(es) till gift box is upgraded"
+msgid ""
+"json|lobby/activity_jjc_en|1|4|2|2|1|1|75cb5fe713989a06861f7cf071ee26fa"
+msgstr "회 경기 필요"
+
+#: ui_en.json
+msgctxt "Victories in this round:"
+msgid "json|lobby/activity_jjc_en|1|4|9|01d10d176da5371ad66590d4cf1bf26d"
+msgstr "본선 승리 횟수:"
+
+#: ui_en.json
+msgctxt "Failures allowed:"
+msgid "json|lobby/activity_jjc_en|1|4|10|0|1e239019df648206364e2d1a709745c6"
+msgstr "실패 가능 횟수:"
+
+#: ui_en.json
+msgctxt "Rewards can be claimed after finishing all matches in this round."
+msgid "json|lobby/activity_jjc_reward|0|3|9b867072357322aa0e7c82d319871a07"
+msgstr "이번 라운드의 모든 경기를 마친 후 보상을 받을 수 있습니다."
+
+#: ui_en.json
+msgctxt "Victories"
+msgid ""
+"json|lobby/activity_jjc_reward|0|4|4|0|ed837c950ae03759ae483804222fd610"
+msgstr "승수"
+
+#: ui_en.json
+msgctxt "Attribute Points"
+msgid "json|lobby/activity_rpg|1|3|0|2|322daebabbf7bf5ee87bcae3dec09f94"
+msgstr "속성 포인트"
+
+#: ui_en.json
+msgctxt "Introduction"
+msgid "json|lobby/activity_rpg|1|3|1|1|0b79795d3efc95b9976c7c5b933afce2"
+msgstr "세부 정보"
+
+#: ui_en.json
+msgctxt "Current"
+msgid "json|lobby/activity_rpg|1|4|2|222a267cc5778206b253be35ee3ddab5"
+msgstr "스테이지"
+
+#: ui_en.json
+msgctxt "关川麻"
+msgid "json|lobby/create_room|0|0|1|20|1|0|b506d85a216c6b2912c03403749ae3d8"
+msgstr "关川麻"
+
+#: ui_en.json
+msgctxt "开川麻"
+msgid "json|lobby/create_room|0|0|1|20|2|0|3bcf224fd1520b3aa49cce5326d170d4"
+msgstr "开川麻"
+
+#: ui_en.json
+msgctxt "Info"
+msgid "json|lobby/info|0|6|4059b0251f66a18cb56f544728796875"
+msgstr "정보"
+
+#: ui_en.json
+msgctxt "Battle Log"
+msgid "json|lobby/pop_rpg_info|1|1|8492a10f0aff8066ea1889128a4b4113"
+msgstr "전투 로그"
+
+#: ui_en.json
+msgctxt "pt"
+msgid "json|lobby/rank|0|2|0|0|8|1|fc9fdf084e290f26a270390dc49061a2"
+msgstr "pt"
+
+#: ui_en.json
+msgctxt "pt"
+msgid "json|lobby/rank|0|4|1|7|1|fc9fdf084e290f26a270390dc49061a2"
+msgstr "pt"
+
+#: ui_en.json
+msgctxt "Confirm"
+msgid "json|lobby/refund|1|7|0|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
+
+#: ui_en.json
+msgctxt "Cat Warrior Ichihime"
+msgid "json|lobby/rpg|4|1|5|c811a3a57579877cfb29c745d0aed141"
+msgstr "냐무라이 이치히메"
+
+#: ui_en.json
+msgctxt "Cat Warrior Ichihime"
+msgid "json|lobby/rpg|4|3|5|c811a3a57579877cfb29c745d0aed141"
+msgstr "냐무라이 이치히메"
+
+#: ui_en.json
+msgctxt "Current Stage"
+msgid "json|lobby/rpg|4|4|0|88619fb4b6d2321b55b87a1bcc9e59a5"
+msgstr "스테이지"
+
+#: ui_en.json
+msgctxt "Skip"
+msgid "json|lobby/rpg|6|0|0|2|72ef2b9b6965d078e3c7f95487a82d1c"
+msgstr "넘어가기"
+
+#: ui_en.json
+msgctxt "Exit"
+msgid "json|lobby/rpg|6|0|1|2|fef46e5063ce3dc78b8ae64fa474241d"
+msgstr "나가기"
+
+#: ui_en.json
+msgctxt "View Animation"
+msgid "json|lobby/skin_yulan|7|3|1|874888658d15324a04707fa39b566e14"
+msgstr "애니메이션 보기"
+
+#: ui_en.json
+msgctxt "中据一位"
+msgid "json|lobby/skin_yulan|7|3|6|5|0|0ea82c24df741939c9be84e60951a34a"
+msgstr "中据一位"
+
+#: ui_en.json
+msgctxt "@"
+msgid "json|lobby/sns|1|2|0|4|1|2|4|518ed29525738cebdac49c49e60ea9d3"
+msgstr "@"
+
+#: ui_en.json
+msgctxt "View Animation"
+msgid "json|lobby/sushe|1|5|3|1|874888658d15324a04707fa39b566e14"
+msgstr "애니메이션 보기"
+
+#: ui_en.json
+msgctxt "中据一位"
+msgid "json|lobby/sushe|1|5|3|6|5|0|0ea82c24df741939c9be84e60951a34a"
+msgstr "中据一位"
+
+#: ui_en.json
+msgctxt "Oops! It looks like you have reached the end, nyaa~"
+msgid "json|lobby/sns|1|2|1|0|5c5d08ac3936dbc491d69d6f965ab64e"
+msgstr "앗! 끝난것 같다냐~"
+
+#: ui_en.json
+msgctxt "Duplicate Characters will be converted into Wishing Stones."
+msgid "json|lobby/treasure|5|2|2|2|3|121b1a6eb07e733197e06a6c26e2e674"
+msgstr "중복된 캐릭터는 기도의 소옥으로 전환됩니다."
+
+#: ui_en.json
+msgctxt "Duplicate Decorations will be converted into Star Stones."
+msgid "json|lobby/treasure|5|2|2|2|6|fd990821b4eb0cea576f3dd67199c8cf"
+msgstr "중복된 장식은 별의 소옥으로 전환됩니다."
+
+#: ui_en.json
+msgctxt ""
+"You will get at least 1 purple gift when you perform a 10-summon using Jade."
+msgid "json|lobby/treasure|5|2|2|2|9|dfd203514802330ba394af0c56d39d0f"
+msgstr "휘옥을 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다."
+
+#: ui_en.json
+msgctxt "(Faith)."
+msgid "json|lobby/treasure|5|2|2|3|1|9a755e8a12a5b34d476374adb022ccc9"
+msgstr "(Faith)."
+
+#: ui_en.json
+msgctxt "Duplicate Characters will be converted into Wishing Stones."
+msgid "json|lobby/treasure|5|2|2|3|4|121b1a6eb07e733197e06a6c26e2e674"
+msgstr "중복된 캐릭터는 기도의 소옥으로 전환됩니다."
+
+#: ui_en.json
+msgctxt "Duplicate Decorations will be converted into Star Stones."
+msgid "json|lobby/treasure|5|2|2|3|7|fd990821b4eb0cea576f3dd67199c8cf"
+msgstr "중복된 장식은 별의 소옥으로 전환됩니다."
+
+#: ui_en.json
+msgctxt "(green/blue/purple gifts: 24%/51%/5%)"
+msgid "json|lobby/treasure|5|2|2|3|8|0|315154a40653623d92bf18d9ef438932"
+msgstr "(녹색/파란색/보라색 선물: 24%/51%/5%)"
+
+#: ui_en.json
+msgctxt ""
+"You will get at least 1 purple gift when you perform a 10-summon using Jade."
+msgid "json|lobby/treasure|5|2|2|3|10|dfd203514802330ba394af0c56d39d0f"
+msgstr "휘옥을 사용하여 10회 기원을 할 경우 최소 1개의 보라색 선물을 획득합니다."
+
+#: ui_en.json
+msgctxt "Decoration"
+msgid "json|lobby/waitingroom|3|1|2|1|0|24365794120e03b807acbd05c0a48db9"
+msgstr "장식"
+
+#: ui_en.json
+msgctxt "1"
+msgid "json|lobby/waitingroom|3|1|3|1|0|1|c4ca4238a0b923820dcc509a6f75849b"
+msgstr "1"
+
+#: ui_en.json
+msgctxt "2"
+msgid "json|lobby/waitingroom|3|1|3|1|1|1|c81e728d9d4c2f636f067f89cc14862c"
+msgstr "2"
+
+#: ui_en.json
+msgctxt "5"
+msgid "json|lobby/waitingroom|3|1|3|1|4|1|e4da3b7fbbce2345d7772b0674a318d5"
+msgstr "5"
+
+#: ui_en.json
+msgctxt "In Use"
+msgid "json|lobby/waitingroom|3|1|5|0|2|0|62554d450e691783ae8a8b4cc2ed8ae6"
+msgstr "사용중"
+
+#: ui_en.json
+msgctxt "Use"
+msgid "json|lobby/waitingroom|3|1|5|0|3|0|0|ad8783089f828b927473fb61d51940ec"
+msgstr "사용하기"
+
+#: ui_en.json
+msgctxt "Save"
+msgid "json|lobby/waitingroom|3|1|5|0|4|0|0|c9cc8cce247e49bae79f15173ce97354"
+msgstr "저장"
+
+#: ui_en.json
+msgctxt "Empty"
+msgid "json|lobby/waitingroom|3|1|5|1|6|0|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
+msgstr "비어있음"
+
+#: ui_en.json
+msgctxt "Empty"
+msgid "json|lobby/waitingroom|3|1|5|4|5|0|ce2c8aed9c2fa0cfbed56cbda4d8bf07"
+msgstr "비어있음"
+
+#: ui_en.json
+msgctxt "Change Outfit"
+msgid "json|lobby/waitingroom|3|1|6|1|1|da4ec73c94a592b2a1b0409efd9e1e8b"
+msgstr "의상 변경"
+
+#: ui_en.json
+msgctxt "Bloodshed Skirmish"
+msgid "json|mj/desktopInfo|3|8|1|e732fa46d6004d37b53d52dddbc178f8"
+msgstr "적혈전"
+
+#: AchievementAchievement.csv:236
+msgctxt "In Honor of Logging in for 1 Month"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|fda6db5a479a443e44159a4aaf8be6d5"
+msgstr "1개월 연속 로그인 기념"
+
+#: AchievementAchievement.csv:236
+msgctxt "Log in for 30 consecutive days"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f82ebbe34e9a7ef3155a0550436ca1be"
+msgstr "30일 연속 로그인"
+
+#: AchievementAchievement.csv:239
+msgctxt "Welcome to Mahjong Soul"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|99789179c124b7d355f9726f6c3cbfa8"
+msgstr "작혼에 오신 것을 환영합니다"
+
+#: AchievementAchievement.csv:239
+msgctxt "Log in for the first time"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|ed9cdf005e8f604518a6f9600ffff3c1"
+msgstr "첫 번째 로그인"
+
+#: AchievementAchievement.csv:240
+msgctxt "In Honor of Logging in for 3 Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c3f93ad68d9df806cf72bfd4659bd873"
+msgstr "누적 3일 로그인 기념"
+
+#: AchievementAchievement.csv:240
+msgctxt "Log in for 3 days in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|89469452f949f6f807b496843d265b0e"
+msgstr "누적 3일 로그인"
+
+#: AchievementAchievement.csv:241
+msgctxt "In Honor of Logging in for 7 Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|95a440b538a8eeb9fb07e92a245877b5"
+msgstr "누적 7일 로그인 기념"
+
+#: AchievementAchievement.csv:241
+msgctxt "Log in for 7 days in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e0f5431e68b1b5c5ffd017ce3aa5c47a"
+msgstr "누적 7일 로그인"
+
+#: AchievementAchievement.csv:242
+msgctxt "In Honor of Logging in for 15 Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|26499c4f038b83705111bceefa03815c"
+msgstr "누적 15일 로그인 기념"
+
+#: AchievementAchievement.csv:244
+msgctxt "In Honor of Logging in for 60 Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|ba76083f3a13d2900ffa8894992c3059"
+msgstr "누적 60일 로그인 기념"
+
+#: AchievementAchievement.csv:244
+msgctxt "Log in for 60 days in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b68174d662c64bee8e5d89ad48f6f37c"
+msgstr "누적 60일 로그인"
+
+#: AchievementAchievement.csv:245
+msgctxt "In Honor of Logging in for 100 Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|086723e9ce30bb8633c5f4100cc3ac93"
+msgstr "누적 100일 로그인 기념"
+
+#: AchievementAchievement.csv:245
+msgctxt "Log in for 100 days in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|a0963fff4be604006eb92b5a0715f0fe"
+msgstr "누적 100일 로그인"
+
+#: AchievementAchievement.csv:246
+msgctxt "In Honor of Logging in for 200 Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|2f21c4e42845718d204e81ee1c8dd223"
+msgstr "누적 200일 로그인 기념"
+
+#: AchievementAchievement.csv:247
+msgctxt "In Honor of Logging in for 365 Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|1b3fd9d477a49b25966365f17f7fff6d"
+msgstr "누적 365일 로그인 기념"
+
+#: AchievementAchievement.csv:247
+msgctxt "Log in for 365 days in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f4c6b927db35d99f2686029e783def82"
+msgstr "누적 365일 로그인"
+
+#: AchievementAchievement.csv:248
+msgctxt "In Honor of Logging in for 730 Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|8db60b71a49d4da8454869890bb3a1a5"
+msgstr "누적 730일 로그인 기념"
+
+#: AchievementAchievement.csv:248
+msgctxt "Log in for 730 days in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|802cbd0e9982b54095dedbdee55285de"
+msgstr "누적 730일 로그인"
+
+#: AchievementAchievement.csv:249
+msgctxt "In Honor of Logging in for 1000 Days"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|89b514046b8c87c58129c0532701ba90"
+msgstr "누적 1000일 로그인 기념"
+
+#: AchievementAchievement.csv:249
+msgctxt "Log in for 1000 days in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|b61b8a695f2a8ae7d40892ceebe5ace7"
+msgstr "누적 1000일 로그인"
+
+#: AchievementAchievement.csv:250
+msgctxt "Log in for 2000 days in total"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|f9a30f8d636dd4555954cfbe835c4859"
+msgstr "누적 2000일 로그인"
+
+#: AchievementAchievement.csv:393
+msgctxt "Bonded with Reina Nanami"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|4e5ebf69009361916c28c6662ad1bd41"
+msgstr "나나미 레이나의 계약자"
+
+#: AchievementAchievement.csv:393
+msgctxt "Bond with Reina Nanami"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|53c4fb1e714ea00787a90f94deb251cc"
+msgstr "나나미 레이나와 계약을 맺기"
+
+#: AchievementAchievement.csv:394
+msgctxt "Bonded with A-37"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|561132d317a11d851a7e03e2cc347372"
+msgstr "A-37의 계약자"
+
+#: AchievementAchievement.csv:394
+msgctxt "Bond with A-37"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|449de79e8149e85e7983eeec37f1e60e"
+msgstr "A-37과 계약을 맺기"
+
+#: AchievementAchievement.csv:395
+msgctxt "An Encounter with Hibiki Himekawa"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|7e46524ae802f2add083dcbded0170d9"
+msgstr "히메카와 히비키와의 만남"
+
+#: AchievementAchievement.csv:395
+msgctxt "Obtain Jyanshi Hibiki Himekawa"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|e05b2fa80e9d3ebd3c7d496cae97b4b2"
+msgstr "히메카와 히비키를 입수하기"
+
+#: AchievementAchievement.csv:397
+msgctxt "Bond with Hibiki Himekawa"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|cdd7debc0ff123055ccb8ad65603e5e9"
+msgstr "히메카와 히비키와 계약을 맺기"
+
+#: AchievementAchievement.csv:398
+msgctxt "Bonded with Ryan"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|eef26094758604fa6480dd8e32c31484"
+msgstr "라이안의 계약자"
+
+#: AchievementAchievement.csv:398
+msgctxt "Bond with Ryan"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|7e4963bfb7d2d3aac5ffb0b85b6babc3"
+msgstr "라이안과 계약을 맺기"
+
+#: AchievementAchievement.csv:399
+msgctxt "An Encounter with Ayako Morikawa"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|c2a91d67850bf0d99350d87bee3ca882"
+msgstr "모리카와 아야코와의 만남"
+
+#: AchievementAchievement.csv:400
+msgctxt "An Encounter with Natsuhiko Takigawa"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|da121bac2e5be3a74d8cda6696b501bf"
+msgstr "타키가와 나츠히코와의 만남"
+
+#: AchievementAchievement.csv:400
+msgctxt "Obtain Jyanshi Natsuhiko Takigawa"
+msgid ""
+"sheet|AchievementAchievement.csv|desc_en|cfb8507a185a99e456f50b557ff2a0f4"
+msgstr "타키가와 나츠히코를 입수하기"
+
+#: AchievementAchievement.csv:401
+msgctxt "Bonded with Ayako Morikawa"
+msgid ""
+"sheet|AchievementAchievement.csv|name_en|e5a086017969ba3954e87b15e08f85b1"
+msgstr "모리카와 아야코의 계약자"
+
+#: AchievementAchievementGroup.csv:8
+msgctxt "Exemplar"
+msgid ""
+"sheet|AchievementAchievementGroup.csv|name_en|2b83defd2ba1a6ccbd4c15725c8a710a"
+msgstr "모범시민"
+
+#: ActivityActivity.csv:177
+msgctxt "The Café's Routine"
+msgid "sheet|ActivityActivity.csv|name_en|c4b62c4bd0a3b4045d5d099e0817a0b0"
+msgstr "카페의 일상"
+
+#: ActivityActivity.csv:185
+msgctxt "Tasks of \\nAnca Ranch"
+msgid "sheet|ActivityActivity.csv|name_en|767c752cc351aeabea889854f184d928"
+msgstr ""
+"앙카 목장의\\n"
+"퀘스트"
+
+#: ActivityActivity.csv:186
+msgctxt "Treasure of \\nAnca Ranch"
+msgid "sheet|ActivityActivity.csv|name_en|c76742e8fd674eece66a26f3c9d505b5"
+msgstr ""
+"앙카 목장의\\n"
+"보물"
+
+#: ActivityActivity.csv:196
+msgctxt "Justice of ice cream"
+msgid "sheet|ActivityActivity.csv|name_en|495c2ca36cb152d1d1f2cb7b003efede"
+msgstr "정의의 아이스크림"
+
+#: ActivityActivity.csv:198
+msgctxt "Invincible Ichihime"
+msgid "sheet|ActivityActivity.csv|name_en|aa69e77692abfce5fe4f3c83732c9855"
+msgstr "일기냥천"
+
+#: ActivityActivity.csv:210
+msgctxt "Firework Date"
+msgid "sheet|ActivityActivity.csv|name_en|20fd6704aa95e42ead20102cd52522f5"
+msgstr "늦게 피는 불꽃"
+
+#: ActivityActivity.csv:211
+msgctxt "Shrine's Offertory Box"
+msgid "sheet|ActivityActivity.csv|name_en|f6c9628f7b7e0b0f95f2b6ce57a7b854"
+msgstr "혼천신사의 수여소"
+
+#: CharacterEmoji.csv:358
+msgctxt "Floral Dance"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|b924ca9fe83ac30f0bc9e261b2cf1ea8"
+msgstr "백화요란"
+
+#: CharacterEmoji.csv:362
+msgctxt "Bedtime Stories"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|5dab60c4b86b9f76fdb96fbb75bde7b2"
+msgstr "베드 타임 스토리"
+
+#: CharacterEmoji.csv:364
+msgctxt "Invincible Ichihime"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|aa69e77692abfce5fe4f3c83732c9855"
+msgstr "일기냥천"
+
+#: CharacterEmoji.csv:368
+msgctxt "Summer of Destiny"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|35b54ea8e8d8987d4a43e135a6e08d0c"
+msgstr "운명의 여름"
+
+#: CharacterEmoji.csv:372
+msgctxt "Firework Date"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|20fd6704aa95e42ead20102cd52522f5"
+msgstr "늦게 피는 불꽃"
+
+#: DesktopMatchmode.csv:42
+msgctxt "Event Room"
+msgid ""
+"sheet|DesktopMatchmode.csv|room_name_en|96387f8bdd3331d1f89fbf21b708b066"
+msgstr "특별 대국"
+
+#: EventsBaseTask.csv:239
+msgctxt "Win 2 games with at least a Red Five"
+msgid "sheet|EventsBaseTask.csv|desc_en|1b690e31150f19b06b391f11bb3d5ee6"
+msgstr "2 게임을 하나 이상의 적도라를 포함하여 화료"
+
+#: EventsBaseTask.csv:241
+msgctxt "Ron 4 times"
+msgid "sheet|EventsBaseTask.csv|desc_en|1c95030599cff6888ee4db6166596874"
+msgstr "4회 론 화료"
+
+#: EventsBaseTask.csv:242
+msgctxt "Win 3 games with Riichi"
+msgid "sheet|EventsBaseTask.csv|desc_en|2a4de3bca3fb78e9435ce820e101691d"
+msgstr "3 게임을 리치로 화료"
+
+#: EventsBaseTask.csv:243
+msgctxt "Win 1 game with Yaku: Seat/Prevalent Wind"
+msgid "sheet|EventsBaseTask.csv|desc_en|ee540514d5f1a0fb05d0ab31d6e20c83"
+msgstr "1 게임을 역: 자풍패/장풍패로 화료"
+
+#: EventsBaseTask.csv:244
+msgctxt "Win 1 game with at least a Ura Dora"
+msgid "sheet|EventsBaseTask.csv|desc_en|452349c4a760eb7158c8cdbc5489db18"
+msgstr "1 게임을 뒷도라를 하나 이상 포함하여 화료"
+
+#: EventsBaseTask.csv:245
+msgctxt "Win 1 game with a Yaku that values 2 Han or above"
+msgid "sheet|EventsBaseTask.csv|desc_en|e1bd42ceb9fc51d17d12329d196c6e55"
+msgstr "1 게임을 2판 이상의 역을 포함하여 화료"
+
+#: EventsBaseTask.csv:246
+msgctxt "Win 1 game with Fully Concealed Hand"
+msgid "sheet|EventsBaseTask.csv|desc_en|0831331c1227a36ebb2bdfc601e38f4e"
+msgstr "1 게임을 멘젠쯔모로 화료"
+
+#: EventsBaseTask.csv:247
+msgctxt "Win 4 games with at least a Dora"
+msgid "sheet|EventsBaseTask.csv|desc_en|9002972caf7e6eef007287951f2e2fa4"
+msgstr "4 게임을 도라를 하나 이상 포함하여 화료"
+
+#: EventsBaseTask.csv:248
+msgctxt "Win 8 games with Ron and Tsumo"
+msgid "sheet|EventsBaseTask.csv|desc_en|543dd5b834718add0db1865b85c3b476"
+msgstr "8 게임을 화료"
+
+#: EventsBaseTask.csv:249
+msgctxt "Win 1 game with Yaku: Dragon"
+msgid "sheet|EventsBaseTask.csv|desc_en|5c8022df4d51c79e5bdb90df941c9210"
+msgstr "1 게임을 삼원패로 화료"
+
+#: EventsBaseTask.csv:445
+msgctxt "Play the Woodland Field Trip matches daily for 2 days in total."
+msgid "sheet|EventsBaseTask.csv|desc_en|166e629988171b4cafaa9248ba0d9d2d"
+msgstr "수학연림 대국에 누적 2일 참가하기."
+
+#: EventsBaseTask.csv:447
+msgctxt "Play the Woodland Field Trip matches daily for 4 days in total."
+msgid "sheet|EventsBaseTask.csv|desc_en|c10c628589f9546d50c50bf2bdc9098a"
+msgstr "수학연림 대국에 누적 4일 참가하기."
+
+#: EventsBaseTask.csv:448
+msgctxt "Play the Woodland Field Trip matches daily for 5 days in total."
+msgid "sheet|EventsBaseTask.csv|desc_en|41f86e10366db39bc25926220b9c393c"
+msgstr "수학연림 대국에 누적 5일 참가하기."
+
+#: EventsBaseTask.csv:450
+msgctxt "Play the Woodland Field Trip matches daily for 7 days in total."
+msgid "sheet|EventsBaseTask.csv|desc_en|e42e1d0f19fcec1c37198e69be2c5241"
+msgstr "수학연림 대국에 누적 7일 참가하기."
+
+#: EventsBaseTask.csv:451
+msgctxt "Play the Woodland Field Trip matches daily for 8 days in total."
+msgid "sheet|EventsBaseTask.csv|desc_en|0f3125a465cb321243c3c383ad3d8622"
+msgstr "수학연림 대국에 누적 8일 참가하기."
+
+#: EventsBaseTask.csv:452
+msgctxt "Play the Woodland Field Trip matches daily for 9 days in total."
+msgid "sheet|EventsBaseTask.csv|desc_en|6941a50f9550bbf74e61c605924967d1"
+msgstr "수학연림 대국에 누적 9일 참가하기."
+
+#: EventsBaseTask.csv:454
+msgctxt "Win 3 times in total in the Woodland Field Trip matches."
+msgid "sheet|EventsBaseTask.csv|desc_en|e6f2563873808dadc122e23cbda5fdc2"
+msgstr "수학연림 대국에서 3회 화료하기."
+
+#: EventsBaseTask.csv:456
+msgctxt "Win 9 times in total in the Woodland Field Trip matches."
+msgid "sheet|EventsBaseTask.csv|desc_en|e8d42d13c6b3cf6a7191fe5d7f4d3026"
+msgstr "수학연림 대국에서 9회 화료하기."
+
+#: EventsBaseTask.csv:458
+msgctxt "Win 15 times in total in the Woodland Field Trip matches."
+msgid "sheet|EventsBaseTask.csv|desc_en|775857c0a222933f4129f57477c27b41"
+msgstr "수학연림 대국에서 15회 화료하기."
+
+#: EventsBaseTask.csv:460
+msgctxt "Win 21 times in total in the Woodland Field Trip matches."
+msgid "sheet|EventsBaseTask.csv|desc_en|ebca044970a8eca57c38d27bc73591c6"
+msgstr "수학연림 대국에서 21회 화료하기."
+
+#: EventsBaseTask.csv:462
+msgctxt "Win 27 times in total in the Woodland Field Trip matches."
+msgid "sheet|EventsBaseTask.csv|desc_en|dd6c8633bf55705e37faa9cc7c425167"
+msgstr "수학연림 대국에서 27회 화료하기."
+
+#: EventsBaseTask.csv:464
+msgctxt "Tsumo 10 times in the Woodland Field Trip Match."
+msgid "sheet|EventsBaseTask.csv|desc_en|0859ad5691ecd3f172ba44736391c2c3"
+msgstr "수학연림 대국에서 10회 쯔모하기."
+
+#: EventsBaseTask.csv:465
+msgctxt "Complete 3 event missions from the Notice Board."
+msgid "sheet|EventsBaseTask.csv|desc_en|ed4d121cde7aa7c55eee0f5123462f07"
+msgstr "게시판에서 이벤트 미션 3개 완료하기."
+
+#: ui_en.json
+msgctxt "Others"
+msgid "json|lobby/playerinfo_en|1|5|6|1|0|52ef9633d88a7480b3a938ff9eaa2a25"
+msgstr "기타"
+
+#: ui_en.json
+msgctxt "Decorations: 15%  "
+msgid "json|lobby/treasure|5|2|2|2|5|8f0afcc395edff867c96b0405b04b4ac"
+msgstr "장식 : 15%  "
+
+#: ui_en.json
+msgctxt "Gifts: 80%  "
+msgid "json|lobby/treasure|5|2|2|2|7|0eb5a70a1dc2cff3a4620694f2a9e73b"
+msgstr "선물 : 80%  "
+
+#: ui_en.json
+msgctxt "Characters: 5%  "
+msgid "json|lobby/treasure|5|2|2|3|2|fbf871e6cb4b5b4406bb24a846412a54"
+msgstr "캐릭터: 5%  "
+
+#: ui_en.json
+msgctxt "Decorations: 15%  "
+msgid "json|lobby/treasure|5|2|2|3|5|8f0afcc395edff867c96b0405b04b4ac"
+msgstr "장식 : 15%  "
+
+#: ui_en.json
+msgctxt "Gifts: 80%  "
+msgid "json|lobby/treasure|5|2|2|3|8|0eb5a70a1dc2cff3a4620694f2a9e73b"
+msgstr "선물 : 80%  "
+
+#: EventsBaseTask.csv:455
+msgctxt "Win 6 times in total in the Woodland Field Trip matches."
+msgid "sheet|EventsBaseTask.csv|desc_en|b08ac788f6fb975e58f28ade3d35b3e3"
+msgstr "수학연림 대국에서 6회 화료하기."
+
+#: ActivityActivity.csv:205
+msgctxt "Celestial Moon Rabbit"
+msgid "sheet|ActivityActivity.csv|name_en|ece43023d75ce962125df3141edb439a"
+msgstr "구름 속의 옥토끼"
+
+#: EventsBaseTask.csv:250
+msgctxt "Avoid dealing into others' in 8 games"
+msgid "sheet|EventsBaseTask.csv|desc_en|b45a3782f7f4029fa0cc6cb38c2a9b78"
+msgstr "8번 방총 회피하기"
+
+#: EventsBaseTask.csv:449
+msgctxt "Play the Woodland Field Trip matches daily for 6 days in total."
+msgid "sheet|EventsBaseTask.csv|desc_en|255ca7a502bba5ddaf1511e833f5f1c8"
+msgstr "수학연림 대국에 누적 6일 참가하기."
+
+#: ui_en.json
+msgctxt "Get Field Trip PT"
+msgid "json|hesu/hesu_rules|1|0|3|0|2|33d0baa11edf6d0b378a3dd7434c324c"
+msgstr "PT 받기"
+
+#: ui_en.json
+msgctxt "Confirm"
+msgid "json|mj/hu_xuezhan|7|3|70d9be9b139893aa6c69b5e77e614311"
+msgstr "확인"
