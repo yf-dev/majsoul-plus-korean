@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020, 2021.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-10-01 08:39+0000\n"
+"PO-Revision-Date: 2021-10-20 09:08+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -11701,7 +11701,7 @@ msgstr "쏘였다고 경기에서 패배한 것은 아니며, 최종국은 또�
 #: translate_sheet.csv:1658
 msgctxt "No matter how big your hand is, a Tanyao will end it all."
 msgid "sheet|StrStr.csv|en|3a22b8eb76a6cbb0a49e298b622e4a0e"
-msgstr "내 손패가 아무리 강해도, 탕야오 한번에 끝날 수 있습니다."
+msgstr "내 손패가 아무리 강해도, 탕야오 한번에 대국이 끝날 수 있습니다."
 
 #: translate_sheet.csv:1659
 msgctxt ""
@@ -11719,7 +11719,7 @@ msgstr "설정 메뉴에서 모든 역을 확인할 수 있습니다"
 msgctxt ""
 "In settings, you can choose to play a tile with single or double click"
 msgid "sheet|StrStr.csv|en|f509fa20d1f72688cc796373d1884606"
-msgstr "설정에서 한번 터치 또는 두번 터치로 타패하도록 변경할 수 있습니다"
+msgstr "한번 터치 또는 두번 터치로 타패하도록 설정에서 변경할 수 있습니다"
 
 #: translate_sheet.csv:1662
 msgctxt ""
@@ -16717,7 +16717,7 @@ msgstr "친구들이 오고 있습니다"
 #: translate_sheet.csv:1653
 msgctxt "Preparing tournament, stay tuned!"
 msgid "sheet|StrStr.csv|en|ecdf6108512f4675a81b4ce55f05141f"
-msgstr "대회 준비중입니다, 채널 고정!"
+msgstr "대회 준비중입니다, 잠시만 기다려주세요."
 
 #: translate_sheet.csv:1651
 msgctxt ""
@@ -73366,3 +73366,141 @@ msgstr "PT 받기"
 msgctxt "Confirm"
 msgid "json|mj/hu_xuezhan|7|3|70d9be9b139893aa6c69b5e77e614311"
 msgstr "확인"
+
+#: StrStr.csv:55
+msgctxt ""
+"You can now sort your favourite Jyanshis by using the mark function in the "
+"Dorm. There is also a toggle option that only display Jyanshis that are "
+"marked."
+msgid "sheet|StrStr.csv|en|43373364897499a163304ac73a2929a8"
+msgstr "숙소에서 별모양 마크를 사용하여 즐겨찾는 작사를 표시하고 정렬할 수 있습니다. 즐겨찾는 작사만 표시하도록 하는 옵션도 있습니다."
+
+#: StrStr.csv:60
+msgctxt ""
+"You can go to our official website (mahjongsoul.yo-star.com) to check out "
+"the manga, tournament information and other news."
+msgid "sheet|StrStr.csv|en|e7d3b40c3f6dad9d51933dfc65bac400"
+msgstr "공식 홈페이지(mahjongsoul.yo-star.com)에서 만화, 대회 정보 및 뉴스 등을 확인하실 수 있습니다."
+
+#: StrStr.csv:69
+msgctxt ""
+"3-Player Mahjong has no 2 to 8 Man tiles, so 1 Man and 9 Man are each "
+"other's Dora indicator."
+msgid "sheet|StrStr.csv|en|1d87f1b62e34f9b490da6f459236791c"
+msgstr "3인 마작에서는 2~8만수패가 없으며, 1만이 도라표시패일 경우 9만이 도라가 됩니다."
+
+#: StrStr.csv:74
+msgctxt "Ichihime loves eating and napping, do you have similar interests?"
+msgid "sheet|StrStr.csv|en|ce6acd058007f219b31638ff9e592b69"
+msgstr "이치히메의 취미는 먹고 자는 것인데, 혹시 비슷한 취미가 있으신가요?"
+
+#: StrStr.csv:56
+msgctxt ""
+"Four Concealed Triplets cannot be gained by winning with Ron, Seven Pairs "
+"won't be counted as Pure Double Sequence."
+msgid "sheet|StrStr.csv|en|fccdade0b2c6eb7bc000a5f963b891d6"
+msgstr "론으로 화료하면 스안커가 아니고, 치또이츠와 이페코는 동시에 인정되지 않습니다."
+
+#: StrStr.csv:57
+msgctxt ""
+"If you have any advice or need help with the game, go to [Settings] - "
+"[Others] - [Contact Us]"
+msgid "sheet|StrStr.csv|en|b7df7f987bd1436e569f39ff05ba09d6"
+msgstr "게임에 대한 조언 있거나 도움이 필요한 경우 [설정] - [기타] - [문의하기] 기능을 이용해주세요"
+
+#: StrStr.csv:58
+msgctxt ""
+"If you logged in with a social media account, you can go to [Setting] - "
+"[Others] and connect your account to an email address that hasn't been bound"
+" to a Yostar account before."
+msgid "sheet|StrStr.csv|en|4b35372bff39a62ed83bd777ee40e5f2"
+msgstr "SNS 계정으로 로그인한 경우 [설정] - [기타]에서 이메일 주소를 계정에 연결할 수 있습니다."
+
+#: StrStr.csv:59
+msgctxt ""
+"An account bound to email can log in on both the web version and the mobile "
+"version."
+msgid "sheet|StrStr.csv|en|593710e2df22687bffef35b46191d62f"
+msgstr "이메일에 연결된 계정은 웹 버전과 모바일 버전 모두에서 로그인할 수 있습니다."
+
+#: StrStr.csv:61
+msgctxt ""
+"Seven Pairs does not allow repeats in pairs, but Twice Pure Double Sequence "
+"does."
+msgid "sheet|StrStr.csv|en|62cfffc84a970281fc1223d1d4081629"
+msgstr "치또이츠는 중복된 또이츠로 만들 수 없지만, 량페코는 가능합니다."
+
+#: StrStr.csv:62
+msgctxt ""
+"The probability of getting Blessing of Heaven in 4-Player Mahjong is 1 in "
+"330,000."
+msgid "sheet|StrStr.csv|en|3c5c8771ca03928b2d4be6c7f7ac13ba"
+msgstr "4인 마작에서 천화의 확률은 약 330,000 분의 1 정도입니다."
+
+#: StrStr.csv:63
+msgctxt "When your point count is below 1000, you cannot declare Riichi."
+msgid "sheet|StrStr.csv|en|b55b2c5e299f9fe77ee29adc8d1ae956"
+msgstr "소지 점수가 1000 점 미만일 경우에는 리치 선언을 할 수 없습니다."
+
+#: StrStr.csv:64
+msgctxt ""
+"Robbing a Closed Kan is only possible with Thirteen Orphans, other Yakus "
+"cannot do this."
+msgid "sheet|StrStr.csv|en|cccdc6be21f6e54a56bd7339138c2dfc"
+msgstr "안깡에 대한 창깡은 국사무쌍으로 화료할 경우에만 가능하며, 다른 역으로는 불가능합니다."
+
+#: StrStr.csv:65
+msgctxt ""
+"There is a five minutes delay with streamed matches, so don't think about "
+"screen peeking."
+msgid "sheet|StrStr.csv|en|46e22cad5d8545e1173a31979c78a4a0"
+msgstr "대국의 관전은 5분 지연되어 표시됩니다."
+
+#: StrStr.csv:66
+msgctxt ""
+"Click on the star button in Log to add your favorite matches to your "
+"Collection."
+msgid "sheet|StrStr.csv|en|97b9ac792162d3c5c6bc94df7a8bc570"
+msgstr "로그의 별모양 버튼을 클릭하여 좋아하는 경기를 컬렉션에 추가하세요."
+
+#: StrStr.csv:67
+msgctxt ""
+"After you change your name, there is a 30 day cooldown period before you can"
+" change it again."
+msgid "sheet|StrStr.csv|en|d61a6f2eda68f85ac89991b07db5683c"
+msgstr "이름을 변경한 경우, 30일 이내에는 다시 변경할 수 없습니다."
+
+#: StrStr.csv:68
+msgctxt ""
+"Quest and Misc Shop will be refreshed every day at 5:00 A.M. (UTC-7)."
+msgid "sheet|StrStr.csv|en|f812aa3775eff6321e09743e1f42f7e2"
+msgstr "퀘스트와 잡화점은 매일 오전 5시(UTC-7)에 갱신됩니다."
+
+#: StrStr.csv:70
+msgctxt ""
+"When all players in a Ranked Match are at the Celestial rank, Final Showdown"
+" will be triggered."
+msgid "sheet|StrStr.csv|en|112f093955210ae0f5a7daf256336206"
+msgstr "단위전의 모든 작사가 혼천 등급이 되면, 정상 결전이 시작됩니다."
+
+#: StrStr.csv:71
+msgctxt ""
+"An outfit can only be used after you get the corresponding character."
+msgid "sheet|StrStr.csv|en|d30b38ccded646afb0d5c044a280873c"
+msgstr "의상은 해당 작사를 획득한 후에만 사용할 수 있습니다."
+
+#: StrStr.csv:72
+msgctxt ""
+"Mai Aihara is the priestess of the Temple of Moons, not Mahjong Soul Shrine."
+msgid "sheet|StrStr.csv|en|1b46b33f2dcfd0a082343904344827f3"
+msgstr "아이하라 마이는 혼천신사가 아니라 천월신사의 무녀입니다."
+
+#: StrStr.csv:73
+msgctxt "Yui Yagi loves coffee, but she actually has a poor sense of taste."
+msgid "sheet|StrStr.csv|en|1aba3d18f3efad8a3977a2019b6db552"
+msgstr "야기 유이는 커피를 좋아하지만, 맛의 차이는 잘 모릅니다."
+
+#: StrStr.csv:75
+msgctxt "However big your appetite is, you cannot Chii in 3-Player Mahjong."
+msgid "sheet|StrStr.csv|en|84c74be09fe525350543e926c028f0ce"
+msgstr "아무리 원하더라도, 3인 마작에서는 치를 선언할 수 없습니다."
