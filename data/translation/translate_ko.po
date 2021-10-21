@@ -67826,15 +67826,6 @@ msgctxt ""
 msgid "sheet|FandescFandesc.csv|desc_en|6675d92278419b4178065d2358595754"
 msgstr "친(오야)의 배패로 화료"
 
-#: ui_en.json
-msgctxt ""
-"3/3 14:00 - \r\n"
-"3/13 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_chs|1|3|1263f951609d13d2a73fdb89e117bc57"
-msgstr ""
-"3/3 14:00 - \n"
-"3/13 13:59 (UTC-7)"
-
 #: ItemDefinitionItem.csv:229
 msgctxt ""
 "Interesting fact: women have slightly higher body temperature than men."
