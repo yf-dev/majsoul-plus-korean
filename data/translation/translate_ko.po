@@ -45,11 +45,6 @@ msgctxt "BGM"
 msgid "json|both_ui/config|0|7|0|0|2|0|7cabb490f03302bbd6f4055c16c80f13"
 msgstr "BGM"
 
-#: translate_json.csv:27
-msgctxt "In-match BGM"
-msgid "json|both_ui/config|0|7|0|0|3|1|0|37e902988aeacfef10e1e1a5b991cbc8"
-msgstr "게임중 BGM"
-
 #: translate_json.csv:30
 msgctxt "SE"
 msgid "json|both_ui/config|0|7|0|0|4|0|f003c44deab679aa2edfaff864c77402"
@@ -355,22 +350,10 @@ msgctxt "您先需要绑定并验证邮箱，才能进行付费"
 msgid "json|both_ui/need_bind_mail|0|4|2ecb0aac1f082a761de6da6e91e3732f"
 msgstr "您先需要绑定并验证邮箱，才能进行付费"
 
-#: translate_json.csv:107
-msgctxt "Recent High Score"
-msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|0|0|0|fee382ba20496eafced1bc721b85304c"
-msgstr "최근 고득점"
-
 #: translate_json.csv:111
 msgctxt "SPD"
 msgid ""
 "json|both_ui/otherplayerinfo|0|2|6|1|1|4|ed504d8761c0f48e13d9d14e94a23627"
-msgstr "속도"
-
-#: translate_json.csv:115
-msgctxt "SPD"
-msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|1|8|2|ed504d8761c0f48e13d9d14e94a23627"
 msgstr "속도"
 
 #: translate_json.csv:121
@@ -379,23 +362,11 @@ msgid ""
 "json|both_ui/otherplayerinfo|0|2|6|1|2|7|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "순위"
 
-#: translate_json.csv:127
-msgctxt "Detailed Info"
-msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|3|0|0|b8a1f13f2a5318ec0079b7be00f9130b"
-msgstr "상세 정보"
-
 #: translate_json.csv:131
 msgctxt "3rd"
 msgid ""
 "json|both_ui/otherplayerinfo|0|2|6|1|4|1|4|b7b655045b89200c7a4dedb1303ca2f1"
 msgstr "3위"
-
-#: translate_json.csv:135
-msgctxt "Avg Score"
-msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|10|24b362a521bc6bbba7ca7f634f257cf2"
-msgstr "평균 점수"
 
 #: translate_json.csv:139
 msgctxt "Win Rate"
@@ -403,23 +374,11 @@ msgid ""
 "json|both_ui/otherplayerinfo|0|2|6|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
 msgstr "화료율"
 
-#: translate_json.csv:143
-msgctxt "Riichi Rate"
-msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|26|a27ffd0a6f4076f298f02add1dea77e9"
-msgstr "리치율"
-
 #: translate_json.csv:147
 msgctxt "3rd"
 msgid ""
 "json|both_ui/otherplayerinfo|0|2|6|1|5|1|4|b7b655045b89200c7a4dedb1303ca2f1"
 msgstr "3위"
-
-#: translate_json.csv:151
-msgctxt "Avg Score"
-msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|10|24b362a521bc6bbba7ca7f634f257cf2"
-msgstr "평균 점수"
 
 #: translate_json.csv:155
 msgctxt "Win Rate"
@@ -427,44 +386,21 @@ msgid ""
 "json|both_ui/otherplayerinfo|0|2|6|1|5|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
 msgstr "화료율"
 
-#: translate_json.csv:159
-msgctxt "Riichi Rate"
-msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|5|1|26|a27ffd0a6f4076f298f02add1dea77e9"
-msgstr "리치율"
-
 #: translate_json.csv:163
 msgctxt "Send"
 msgid ""
 "json|both_ui/otherplayerinfo|0|3|3|0|0|94966d90747b97d1f0f206c98a8b1ac3"
 msgstr "전송"
 
-#: translate_json.csv:167
-msgctxt "No signature yet"
-msgid "json|both_ui/otherplayerinfo|0|3|8|2|92bc3e31fe25efb615f0fd161ab415c7"
-msgstr "서명 없음"
-
 #: translate_json.csv:171
 msgctxt "Message"
 msgid "json|both_ui/otherplayerinfo|0|7|0|4c2a8fe7eaf24721cc7a9f0175115bd4"
 msgstr "메시지"
 
-#: translate_json.csv:176
-msgctxt "Recent High Score"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|6|1|0|0|0|fee382ba20496eafced1bc721b85304c"
-msgstr "최근 고득점"
-
 #: translate_json.csv:180
 msgctxt "SPD"
 msgid ""
 "json|both_ui/otherplayerinfo_en|0|2|6|1|1|4|ed504d8761c0f48e13d9d14e94a23627"
-msgstr "속도"
-
-#: translate_json.csv:184
-msgctxt "SPD"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|6|1|1|8|2|ed504d8761c0f48e13d9d14e94a23627"
 msgstr "속도"
 
 #: translate_json.csv:190
@@ -473,23 +409,11 @@ msgid ""
 "json|both_ui/otherplayerinfo_en|0|2|6|1|2|7|0|021da1b20f73dc252361a54d80497ef3"
 msgstr "순위"
 
-#: translate_json.csv:196
-msgctxt "Detailed Info"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|6|1|3|0|0|b8a1f13f2a5318ec0079b7be00f9130b"
-msgstr "상세 정보"
-
 #: translate_json.csv:200
 msgctxt "3rd"
 msgid ""
 "json|both_ui/otherplayerinfo_en|0|2|6|1|4|1|4|b7b655045b89200c7a4dedb1303ca2f1"
 msgstr "3위"
-
-#: translate_json.csv:204
-msgctxt "Avg Score"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|6|1|4|1|10|24b362a521bc6bbba7ca7f634f257cf2"
-msgstr "평균 점수"
 
 #: translate_json.csv:208
 msgctxt "Win Rate"
@@ -497,23 +421,11 @@ msgid ""
 "json|both_ui/otherplayerinfo_en|0|2|6|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
 msgstr "화료율"
 
-#: translate_json.csv:212
-msgctxt "Riichi Rate"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|6|1|4|1|26|a27ffd0a6f4076f298f02add1dea77e9"
-msgstr "리치율"
-
 #: translate_json.csv:216
 msgctxt "3rd"
 msgid ""
 "json|both_ui/otherplayerinfo_en|0|2|6|1|5|1|4|b7b655045b89200c7a4dedb1303ca2f1"
 msgstr "3위"
-
-#: translate_json.csv:220
-msgctxt "Avg Score"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|6|1|5|1|10|24b362a521bc6bbba7ca7f634f257cf2"
-msgstr "평균 점수"
 
 #: translate_json.csv:224
 msgctxt "Win Rate"
@@ -521,23 +433,11 @@ msgid ""
 "json|both_ui/otherplayerinfo_en|0|2|6|1|5|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
 msgstr "화료율"
 
-#: translate_json.csv:228
-msgctxt "Riichi Rate"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|6|1|5|1|26|a27ffd0a6f4076f298f02add1dea77e9"
-msgstr "리치율"
-
 #: translate_json.csv:232
 msgctxt "Send"
 msgid ""
 "json|both_ui/otherplayerinfo_en|0|3|3|0|0|94966d90747b97d1f0f206c98a8b1ac3"
 msgstr "전송"
-
-#: translate_json.csv:236
-msgctxt "No signature yet"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|3|8|2|92bc3e31fe25efb615f0fd161ab415c7"
-msgstr "서명 없음"
 
 #: translate_json.csv:240
 msgctxt "Message"
@@ -973,11 +873,6 @@ msgctxt "Please choose your server"
 msgid "json|entrance/choose_route|0|0|2|d7bf281b4b3d8f321848fd9682b23a1f"
 msgstr "서버를 선택하세요"
 
-#: translate_json.csv:328
-msgctxt "密码"
-msgid "json|entrance/entrance|1|2|0|3|2|a8105204604a0b11e916f3879aae3b0b"
-msgstr "密码"
-
 #: translate_json.csv:332
 msgctxt "切换"
 msgid "json|entrance/entrance|1|2|0|7|2|bec7e4d621a66bff059edb31816fbf52"
@@ -1084,11 +979,6 @@ msgctxt ""
 msgid "json|entrance/ios_webview_update|0|1|1c71a8231a36a83ac77afa778ce07885"
 msgstr "iOS에서 사용할 수 있는 새 업데이트가 있습니다. 공식 웹 사이트에서 다운로드하십시오."
 
-#: translate_json.csv:362
-msgctxt "正在连接服务器"
-msgid "json|entrance/mail_regist|1|1|1|3c8140d8bf1b94686f9c85fcaef9d0b8"
-msgstr "正在连接服务器"
-
 #: translate_json.csv:363
 msgctxt "OK"
 msgid "json|entrance/maintenance|0|0|2|0|e0aa021e21dddbd6d8cecec71e9cf564"
@@ -1154,21 +1044,10 @@ msgctxt "2/10"
 msgid "json|entrance/remind|7|0d8444667e1eb46855d3e2022ac49e0d"
 msgstr "2/10"
 
-#: translate_json.csv:380
-msgctxt "或"
-msgid "json|entrance/reset_password|0|0|1|5|a7185263988794ecaef531dde9f3a1e4"
-msgstr "或"
-
 #: translate_json.csv:385
 msgctxt "若未收到请检查一下垃圾邮件。"
 msgid "json|entrance/reset_password|0|0|2|3|1f70b8ca622a8bdaadaa58576ebf1cdf"
 msgstr "若未收到请检查一下垃圾邮件。"
-
-#: translate_json.csv:390
-msgctxt "手机号："
-msgid ""
-"json|entrance/reset_password_phone2|0|5|41fe816cd38eaea5f0c7ff5e6028c259"
-msgstr "手机号："
 
 #: translate_json.csv:393
 msgctxt "Claim"
@@ -2775,12 +2654,6 @@ msgctxt "Remarks are too long"
 msgid "json|lobby/paipu|3|1|5|3446be27fb0b88e43b4f87b6bbf59801"
 msgstr "메모가 너무 깁니다"
 
-#: translate_json.csv:856
-msgctxt "支付疑问请加 QQ：951307369"
-msgid ""
-"json|lobby/payment/choose_method_chs|0|8|b22f209b0eef1a09a58649ae09bba2c3"
-msgstr "支付疑问请加 QQ：951307369"
-
 #: translate_json.csv:879
 msgctxt "商品名称："
 msgid "json|lobby/payment/wxcode|0|5|90f08f734a506b793ade64d126617c51"
@@ -3860,11 +3733,6 @@ msgctxt "Your Title Book is empty."
 msgid "json|lobby/titlebook|1|6|729d312dbe323d4c32f3aaa22ca95fbf"
 msgstr "타이틀북이 비어있습니다."
 
-#: translate_json.csv:1115
-msgctxt "Summon 10 Times"
-msgid "json|lobby/treasure|0|0|5|0|a90a723e5e0a2a55af1842730b439df8"
-msgstr "10회 기원"
-
 #: translate_json.csv:1119
 msgctxt "Summon Once"
 msgid "json|lobby/treasure|0|1|5|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
@@ -3880,80 +3748,40 @@ msgctxt "Select the character/item you would like to redeem"
 msgid "json|lobby/treasure|3|4|19f3c26d730dccfc3cec60def81e119e"
 msgstr "교환할 캐릭터/아이템을 선택하세요"
 
-#: translate_json.csv:1135
-msgctxt "重复获取的雀士将转换为许愿石"
-msgid "json|lobby/treasure|4|2|2|1|2|0|fe1131907c7fb2562b4991589cec76f3"
-msgstr "重复获取的雀士将转换为许愿石"
-
 #: translate_json.csv:1139
 msgctxt "(UP装扮占49%、其他装扮占51%)"
 msgid "json|lobby/treasure|4|2|2|1|5|76a8cdef42e10d6cde4f3b3d9f35cc92"
 msgstr "(UP装扮占49%、其他装扮占51%)"
-
-#: translate_json.csv:1143
-msgctxt "(Faith), as well as all-new characters and decorations"
-msgid "json|lobby/treasure|4|2|2|2|1|47be30f42361f946252d782fa39f231f"
-msgstr ")과 새로운 캐릭터와 장식을 얻을 수 있습니다"
 
 #: translate_json.csv:1147
 msgctxt "Duplicate decorations will be converted into Star Stones"
 msgid "json|lobby/treasure|4|2|2|2|3|0|47958c936f775228a1c5e1232d6f67b9"
 msgstr "중복된 장식은 별의 돌로 전환됩니다"
 
-#: translate_json.csv:1151
-msgctxt "(Faith), as well as all-new characters and decorations"
-msgid "json|lobby/treasure|4|2|2|3|1|47be30f42361f946252d782fa39f231f"
-msgstr ")과 새로운 캐릭터와 장식을 얻을 수 있습니다"
-
 #: translate_json.csv:1155
 msgctxt "Chance to get decorations: 15%"
 msgid "json|lobby/treasure|4|2|2|3|4|463f53cda2cd30800f4267383bca9311"
 msgstr "장식 획득 확률: 15%"
-
-#: translate_json.csv:1159
-msgctxt "New characters and effects are limited-time Rate Up"
-msgid "json|lobby/treasure|4|2|2|3|7|24a81c9e865f32ceb5a5fe0abbb6f4af"
-msgstr "제한 기간까지 새 캐릭터와 효과 획득 확률 상승"
 
 #: translate_json.csv:1169
 msgctxt "1回祈願するたびに1点"
 msgid "json|lobby/treasure|4|2|2|5|0|1a77a881a4d8dc6a13df98eb167e906e"
 msgstr "1回祈願するたびに1点"
 
-#: translate_json.csv:1173
-msgctxt "再度入手した雀士は願い石に変換されます。"
-msgid "json|lobby/treasure|4|2|2|5|4|b0252a8aa96dd10373ceb18f825f4c31"
-msgstr "再度入手した雀士は願い石に変換されます。"
-
 #: translate_json.csv:1177
 msgctxt "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
 msgid "json|lobby/treasure|4|2|2|5|8|5efce653ee4327e40f849d0ddda668c2"
 msgstr "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
-
-#: translate_json.csv:1181
-msgctxt "Birthday:"
-msgid "json|lobby/treasure|4|3|1|2|0|1|2|39d595f1a4ce984b95e9b52821b62177"
-msgstr "생일:"
 
 #: translate_json.csv:1185
 msgctxt "Hobby:"
 msgid "json|lobby/treasure|4|3|1|2|0|1|10|bc94dc5a26d1a278aa125811045da9cc"
 msgstr "취미:"
 
-#: translate_json.csv:1189
-msgctxt "Sample 2"
-msgid "json|lobby/treasure|4|3|1|2|0|2|2|0|786e1405617a0c76f9a9ab76d9858d9e"
-msgstr "샘플 2"
-
 #: translate_json.csv:1193
 msgctxt "Cancel"
 msgid "json|lobby/treasure|5|0|12|0|ea4788705e6873b424c65e91c2846b19"
 msgstr "취소"
-
-#: translate_json.csv:1197
-msgctxt "Summon Stones?"
-msgid "json|lobby/treasure|5|0|16|fd6e806beffb1c6cb29de4856a60bf04"
-msgstr "기원의 돌?"
 
 #: translate_json.csv:1201
 msgctxt "Insufficient Jade ，Do you wish to Purchase ？"
@@ -3965,30 +3793,15 @@ msgctxt "Visit"
 msgid "json|lobby/visit|0|2|5e706a9b7eb9b142a619e4331d6976e6"
 msgstr "방문"
 
-#: translate_json.csv:1206
-msgctxt "Height:"
-msgid "json|lobby/visit|2|5|0|0|1|0|e933dc24fb245d863a43b4fefe9b45f5"
-msgstr "신장:"
-
 #: translate_json.csv:1210
 msgctxt "CV:"
 msgid "json|lobby/visit|2|5|0|0|1|8|42d6dd398ca223a660996ed83d84dd8d"
 msgstr "CV:"
 
-#: translate_json.csv:1214
-msgctxt "Bond"
-msgid "json|lobby/visit|2|5|0|0|3|1|0|1|0|7a3b691731db2969498907b960183633"
-msgstr "인연"
-
 #: translate_json.csv:1218
 msgctxt "Daily gift attempt:"
 msgid "json|lobby/visit|2|5|1|2|1|d34cd390688d0c9038850e48d2e23e10"
 msgstr "일간 선물 잔여수:"
-
-#: translate_json.csv:1222
-msgctxt "Info"
-msgid "json|lobby/visit|2|7|0|4059b0251f66a18cb56f544728796875"
-msgstr "정보"
 
 #: translate_json.csv:1224
 msgctxt "Change Outfit"
@@ -4049,11 +3862,6 @@ msgstr "경기중"
 msgctxt "There are no friends to invite"
 msgid "json|lobby/waitingroom|2|1|4|f5343e2cd4e50d59d710c397fdfe0ca7"
 msgstr "초대할 친구가 없습니다"
-
-#: translate_json.csv:1247
-msgctxt "Use"
-msgid "json|lobby/waitingroom|3|1|4|0|3|0|0|ad8783089f828b927473fb61d51940ec"
-msgstr "사용하기"
 
 #: translate_json.csv:1251
 msgctxt "Change Outfit"
@@ -12070,30 +11878,15 @@ msgctxt "Beach Party"
 msgid "sheet|ActivityActivity.csv|name_en|f247c2bbff75dabaef5fc1cf4e6dcb65"
 msgstr "비치 파티"
 
-#: translate_json.csv:1243
-msgctxt "3"
-msgid "json|lobby/waitingroom|3|1|2|1|2|1|eccbc87e4b5ce2fe28308fd9f2a7baf3"
-msgstr "3"
-
 #: translate_json.csv:1167
 msgctxt "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
 msgid "json|lobby/treasure|4|2|2|4|4|5efce653ee4327e40f849d0ddda668c2"
 msgstr "緑色の贈り物入手確率:24％　青色の贈り物入手確率:51％　紫色の贈り物入手確率:5％"
 
-#: translate_json.csv:1161
-msgctxt "1回祈願するたびに1点"
-msgid "json|lobby/treasure|4|2|2|4|0|1a77a881a4d8dc6a13df98eb167e906e"
-msgstr "1回祈願するたびに1点"
-
 #: translate_json.csv:1128
 msgctxt "装扮概率：15%"
 msgid "json|lobby/treasure|4|2|2|0|3|c8b16a2572d0ddba8f95d9142f7e7d3f"
 msgstr "装扮概率：15%"
-
-#: translate_json.csv:1124
-msgctxt "每次寻觅都可以获得1点"
-msgid "json|lobby/treasure|4|2|2|0|0|21981eda7c469476e8954a8885b1f108"
-msgstr "每次寻觅都可以获得1点"
 
 #: translate_json.csv:1100
 msgctxt "5"
@@ -12294,12 +12087,6 @@ msgid ""
 "json|lobby/payment/choose_method_en|0|3|8ecef15452f0d5cab69ac0439b88443c"
 msgstr "결제 방법을 선택해주세요"
 
-#: translate_json.csv:853
-msgctxt "6800辉玉"
-msgid ""
-"json|lobby/payment/choose_method_chs|0|5|b7605913e08fb9c365f0fc13f579ccd1"
-msgstr "6800辉玉"
-
 #: translate_json.csv:850
 msgctxt "VIP Point:"
 msgid "json|lobby/payment/buy_yueka_en|0|10|c0973598407d4024830180e713e871ff"
@@ -12324,11 +12111,6 @@ msgstr "아이템:"
 msgctxt "Choose a payment method"
 msgid "json|lobby/payment/buy_yueka_en|0|3|8ecef15452f0d5cab69ac0439b88443c"
 msgstr "결제 방법을 선택해주세요"
-
-#: translate_json.csv:842
-msgctxt "支付疑问请加 QQ：951307369"
-msgid "json|lobby/payment/buy_yueka_chs|0|10|b22f209b0eef1a09a58649ae09bba2c3"
-msgstr "支付疑问请加 QQ：951307369"
 
 #: translate_json.csv:836
 msgctxt "商品名称："
@@ -12972,11 +12754,6 @@ msgid ""
 "json|lobby/activitys/activity_task_newyear|0|0|1|1|3|e6b2b6819f82fa42dd4d1780458ccc5a"
 msgstr "对局中每次达成特定番型都可获得红灯笼"
 
-#: translate_json.csv:361
-msgctxt "发送验证码"
-msgid "json|entrance/mail_regist|0|0|10|0|c5c3583bfcc51de4ee921b5679a092cc"
-msgstr "发送验证码"
-
 #: translate_json.csv:345
 msgctxt "、"
 msgid "json|entrance/entrance|2|0|5|3|1|b505660a97c0ddf7d7209d22bc498ed1"
@@ -13071,12 +12848,6 @@ msgctxt "Delicate Fanzine"
 msgid "sheet|ItemDefinitionItem.csv|name_en|1badb464a5808d2fd78de3172cab071a"
 msgstr "훌륭한 동인지"
 
-#: translate_json.csv:187
-msgctxt "4"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|6|1|2|6|a87ff679a2f3e71d9181a67b7542122c"
-msgstr "4"
-
 #: translate_json.csv:120
 msgctxt "3"
 msgid ""
@@ -13108,20 +12879,10 @@ msgctxt "GO"
 msgid "json|both_ui/itemdetail|0|7|2|1|0|0|3d6954dd72e53b9015d2a6e6546058f8"
 msgstr "GO"
 
-#: translate_json.csv:16
-msgctxt "1"
-msgid "json|both_ui/bind_phone0|0|10|0|c4ca4238a0b923820dcc509a6f75849b"
-msgstr "1"
-
 #: translate_json.csv:12
 msgctxt "绑定手机"
 msgid "json|both_ui/bind_phone0|0|2|8dd066208f7f2b12d2f56501dccab177"
 msgstr "绑定手机"
-
-#: translate_json.csv:6
-msgctxt "28******@qq.com"
-msgid "json|both_ui/bind_mail0|0|10|0|14fad9b4fcb7e1bbc6d4cc1e3cc1ede8"
-msgstr "28******@qq.com"
 
 #: translate_json.csv:2
 msgctxt "绑定邮箱"
@@ -13806,13 +13567,6 @@ msgctxt ""
 "It's time for family reunion.(Spring Celebration Exclusive)"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|6d3b6f49a73dc55078146174971b4545"
 msgstr "밤하늘에 불꽃이 피어 모든 가정에 행운을 가져다줍니다. 가족이 다시 뭉칠 시간입니다.(봄 축제 한정)"
-
-#: translate_sheet.csv:1217
-msgctxt ""
-"It changes the BGM when you declare Riichi (You may activate it in Dorm - "
-"View - Effect)"
-msgid "sheet|ItemDefinitionItem.csv|desc_en|6c941e194f6cdd8074416788c5111370"
-msgstr "리치를 선언하면 배경 음악이 변경됩니다 (숙소 - 보기 - 효과에서 활성화할 수 있음)"
 
 #: translate_sheet.csv:1213
 msgctxt ""
@@ -19578,11 +19332,6 @@ msgctxt "User Agreement"
 msgid "json|both_ui/config|0|7|3|0|7|0|1|5ac23f06000fafde2c8f7501a80ebbfe"
 msgstr "이용 약관"
 
-#: translate_json.csv:1213
-msgctxt "裝扮概率：15%"
-msgid "json|lobby/treasure|4|2|2|7|4|b299f6de87bda3f0ce7e6fc4c8fbcc87"
-msgstr "裝扮概率：15%"
-
 #: translate_json.csv:1208
 msgctxt "每次尋覓都可以獲得1點"
 msgid "json|lobby/treasure|4|2|2|7|0|c8a45e1d2afe4fc915d87276d700a0c7"
@@ -19755,11 +19504,6 @@ msgstr "너무 자주 투표하셨습니다"
 msgctxt "四暗刻单骑"
 msgid "sheet|EventsBaseTask.csv|desc_en|59712a670f7ad495f042b32062b8a075"
 msgstr "四暗刻单骑"
-
-#: translate_json.csv:1206
-msgctxt "禮物概率：80%"
-msgid "json|lobby/treasure|4|2|2|6|4|4b00df9933d62ef84bad21e912d3b2c6"
-msgstr "禮物概率：80%"
 
 #: translate_json.csv:1201
 msgctxt "(信仰)，同時有可能獲得全新的雀士及各種裝扮"
@@ -39213,12 +38957,6 @@ msgid ""
 "sheet|VoiceSound.csv|name_en(audio/sound/yuesefu/act_tumo)|4a9a44674169dda05397df16a02fac8f"
 msgstr "쯔모"
 
-#: translate_sheet.csv:5248
-msgctxt "Finishing a game at 1st place"
-msgid ""
-"sheet|VoiceSound.csv|name_en(audio/sound/yizhilaikong/game_top)|6f5ccf5b6fcbfda863221b9243b1e312"
-msgstr "1위로 게임 종료"
-
 #: translate_sheet.csv:6842
 msgctxt "Voice when obtained"
 msgid ""
@@ -50412,11 +50150,6 @@ msgid ""
 "sheet|VoiceSound.csv|words_en(audio/sound/baishinainai/act_rich)|a24a259048cb6a113d9eeba1d7647fce"
 msgstr "리치!"
 
-#: translate_sheet.csv:1680
-msgctxt "首儲另贈2100輝玉"
-msgid "sheet|MallGoods.csv|first_desc_en|1f0a3e01dd3e5bf1858901b6b8718359"
-msgstr "首儲另贈2100輝玉"
-
 #: translate_sheet.csv:1343
 msgctxt "测试骰子"
 msgid "sheet|ItemDefinitionItem.csv|name_en|4090287f29e8f04be72099c73127e4d5"
@@ -57203,11 +56936,6 @@ msgctxt "Winning with at least 1 Dora in total"
 msgid "sheet|EventsBaseTask.csv|desc_en|7a0066fafd5dd67d8fbe459047a562af"
 msgstr "1개 이상의 도라를 포함하여 화료"
 
-#: translate_sheet.csv:385
-msgctxt "Ron 7 times in total"
-msgid "sheet|EventsBaseTask.csv|desc_en|6999fd1691da7763db61cb8d33be2c90"
-msgstr "론 총 7회"
-
 #: translate_sheet.csv:381
 msgctxt "Ron 3 times in total"
 msgid "sheet|EventsBaseTask.csv|desc_en|a5ae847570f473f89e1cf587869b5724"
@@ -57760,12 +57488,6 @@ msgstr "보상:"
 #: translate_json.csv:1084
 msgctxt "Path of Trial"
 msgid "json|lobby/shilian/shilian|2|2|c018f58f4c2074df948bc2e872faa998"
-msgstr "시련의 길"
-
-#: translate_json.csv:178
-msgctxt "Path of Trial"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|3|0|c018f58f4c2074df948bc2e872faa998"
 msgstr "시련의 길"
 
 #: translate_sheet.csv:2898
@@ -59188,11 +58910,6 @@ msgid "json|lobby/treasure|5|2|2|4|0|1a77a881a4d8dc6a13df98eb167e906e"
 msgstr "1回祈願するたびに1点"
 
 #: ui_en.json
-msgctxt "Chance to summon new characters: 2.95%"
-msgid "json|lobby/treasure|5|2|2|3|3|a5c047090c395032d772cbc0cd061bf5"
-msgstr "새 캐릭터 획득 확률: 2.95%"
-
-#: ui_en.json
 msgctxt "Each time you summon, you can get 1"
 msgid "json|lobby/treasure|5|2|2|3|0|4bff031238548fac07b2443c6deba794"
 msgstr "당신은 1번 기원할 때 마다 1개의 신앙("
@@ -59206,11 +58923,6 @@ msgstr "보상이 창고 - 장식 페이지에 반영되었습니다."
 msgctxt "Points"
 msgid "json|lobby/ab_match_reward|0|5|4|0|75dd5f1160a3f02b6fae89c54361a1b3"
 msgstr "점수"
-
-#: ui_en.json
-msgctxt "Duplicate characters will be converted to Wishing Stones"
-msgid "json|lobby/treasure|5|2|2|2|2|0|737618c1f8cd09f9d4c1c6abf2721269"
-msgstr "중복된 캐릭터는 기도의 돌로 전환됩니다"
 
 #: ui_en.json
 msgctxt "使用辉玉10连寻觅，至少会获得一个紫色礼物"
@@ -59241,12 +58953,6 @@ msgstr "남은 경기:"
 msgctxt "Restart"
 msgid "json|common/errorinfo|1|4|1|51cfbcff36da74a9fc47f3a5140f99f2"
 msgstr "재시작"
-
-#: ui_en.json
-msgctxt "4"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|2|6|a87ff679a2f3e71d9181a67b7542122c"
-msgstr "4"
 
 #: ui_en.json
 msgctxt "Each time you summon, you can get 1"
@@ -59315,22 +59021,10 @@ msgid "json|lobby/ab_match_en|1|3|2|0|bea3393cdde7466ae5a95a432f52e3e2"
 msgstr "진행중인 단계:"
 
 #: ui_en.json
-msgctxt "Avg Turns"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|16|ad2192da9ca93ed2365636871922f796"
-msgstr "평균 화료순"
-
-#: ui_en.json
 msgctxt "1st"
 msgid ""
 "json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|0|ec31383cc75b7ef7915803f99562cbe8"
 msgstr "1위"
-
-#: ui_en.json
-msgctxt "SPD"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|1|4|ed504d8761c0f48e13d9d14e94a23627"
-msgstr "속도"
 
 #: ui_en.json
 msgctxt "(UP装扮占49%、其他装扮占51%)"
@@ -59401,11 +59095,6 @@ msgstr "雀士概率：5%"
 msgctxt "(信仰)，同时有可能获得全新的雀士及各种装扮"
 msgid "json|lobby/treasure|5|2|2|0|1|7b1a8127a187db29a9b77aaf772d0071"
 msgstr "(信仰)，同时有可能获得全新的雀士及各种装扮"
-
-#: ui_en.json
-msgctxt "Summon Once"
-msgid "json|lobby/treasure|1|1|5|0|2a8ba22dd9ea4ed19216c8949d1e19a2"
-msgstr "1회 기원"
 
 #: ui_en.json
 msgctxt "Get"
@@ -59646,22 +59335,10 @@ msgid "json|common/disconnect|1|4|0|51cfbcff36da74a9fc47f3a5140f99f2"
 msgstr "재시작"
 
 #: ui_en.json
-msgctxt "All-time Ranking"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|8|0|0|d62defc1170ae6f624f2ea85ae644c5f"
-msgstr "순위 기록"
-
-#: ui_en.json
 msgctxt "Tsumo Rate"
 msgid ""
 "json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|20|f09fc617ff40790b7c0576a6c21b3bff"
 msgstr "쯔모율"
-
-#: ui_en.json
-msgctxt "Avg Score"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|5|1|10|24b362a521bc6bbba7ca7f634f257cf2"
-msgstr "평균 점수"
 
 #: ui_en.json
 msgctxt "1st"
@@ -59670,22 +59347,10 @@ msgid ""
 msgstr "1위"
 
 #: ui_en.json
-msgctxt "Win Rate"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
-msgstr "화료율"
-
-#: ui_en.json
 msgctxt "Total Played"
 msgid ""
 "json|both_ui/otherplayerinfo_en|0|2|5|1|4|1|8|9f489bc2f6bfada1c7495786b50c4184"
 msgstr "총 플레이 횟수"
-
-#: ui_en.json
-msgctxt "East Round"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|4|0|2|b854db72888d259be819bfde4fabb4e8"
-msgstr "동풍전"
 
 #: ui_en.json
 msgctxt "Rank"
@@ -59694,22 +59359,10 @@ msgid ""
 msgstr "순위"
 
 #: ui_en.json
-msgctxt "Play Style"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|1|9|0|4c21dd25c08f117cd644b37484cb60a9"
-msgstr "플레이 경향"
-
-#: ui_en.json
 msgctxt "DEF"
 msgid ""
 "json|both_ui/otherplayerinfo_en|0|2|5|1|1|2|822dd494b3e14a82aa76bd455e6b6f4b"
 msgstr "수비"
-
-#: ui_en.json
-msgctxt "All-time Ranking"
-msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|8|0|0|d62defc1170ae6f624f2ea85ae644c5f"
-msgstr "순위 기록"
 
 #: StrStr.csv:1241
 msgctxt "Completed"
@@ -65097,11 +64750,6 @@ msgid "json|lobby/playerinfo|1|5|7|1|8|0|0|c018f58f4c2074df948bc2e872faa998"
 msgstr "시련의 길"
 
 #: ui_en.json
-msgctxt "100%"
-msgid "json|lobby/achievement|3|0|0|2|2|30bd7ce7de206924302499f197c7a966"
-msgstr "100%"
-
-#: ui_en.json
 msgctxt "Close"
 msgid "json|hesu/hesu_rules|2|2|1|1|d3d2e617335f08df83599665eef8a418"
 msgstr "닫기"
@@ -65234,12 +64882,6 @@ msgstr ")"
 msgctxt "Hot Spring Camp"
 msgid "json|hesu/hesu|1|2|4f25017910f31e32c51f94b5aeb999b7"
 msgstr "온천 합숙"
-
-#: ui_en.json
-msgctxt "Event Match"
-msgid ""
-"json|both_ui/otherplayerinfo|0|2|5|3|0|d97f31fd695c04623859aef5ff3b6f57"
-msgstr "이벤트전"
 
 #: ItemDefinitionSkin.csv:86
 msgctxt ""
@@ -67713,15 +67355,6 @@ msgid "json|lobby/playerinfo|1|5|6|2|0|e933fed1bdd6f754fb8232129c38716b"
 msgstr "친선전"
 
 #: ui_en.json
-msgctxt ""
-"2/10 14:00 - \r\n"
-"2/17 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_chs|1|3|74aa794de241fc4f0b05adaab341df44"
-msgstr ""
-"2/10 14:00 - \n"
-"2/17 13:59 (UTC-7)"
-
-#: ui_en.json
 msgctxt "Battle of Asura"
 msgid "json|lobby/create_room|0|0|1|0|3|0|376b211226923889ce55af670da2cb41"
 msgstr "수라의 전투"
@@ -67767,12 +67400,6 @@ msgstr "남은 HP:"
 msgctxt "Total Dispel Time(s):"
 msgid "json|lobby/chunjie|1|4|1|cbf49f02a99bd70d7da1c579c2750020"
 msgstr "총 퇴치 횟수:"
-
-#: ui_en.json
-msgctxt "Ranked Match"
-msgid ""
-"json|both_ui/otherplayerinfo|0|2|5|3|0|76e1ad3f9b76ba224adc3f89dc021fbe"
-msgstr "단위전"
 
 #: ui_en.json
 msgctxt "Random"
