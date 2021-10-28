@@ -350,11 +350,6 @@ msgctxt "您先需要绑定并验证邮箱，才能进行付费"
 msgid "json|both_ui/need_bind_mail|0|4|2ecb0aac1f082a761de6da6e91e3732f"
 msgstr "您先需要绑定并验证邮箱，才能进行付费"
 
-#: translate_json.csv:171
-msgctxt "Message"
-msgid "json|both_ui/otherplayerinfo|0|7|0|4c2a8fe7eaf24721cc7a9f0175115bd4"
-msgstr "메시지"
-
 #: translate_json.csv:240
 msgctxt "Message"
 msgid "json|both_ui/otherplayerinfo_en|0|7|0|4c2a8fe7eaf24721cc7a9f0175115bd4"
@@ -3648,11 +3643,6 @@ msgstr "기원"
 msgctxt "Select the character/item you would like to redeem"
 msgid "json|lobby/treasure|3|4|19f3c26d730dccfc3cec60def81e119e"
 msgstr "교환할 캐릭터/아이템을 선택하세요"
-
-#: translate_json.csv:1201
-msgctxt "Insufficient Jade ，Do you wish to Purchase ？"
-msgid "json|lobby/treasure|6|0|6|9dcfd392f568bba3a473caf6bb8fa204"
-msgstr "휘옥이 부족합니다. 구매하시겠습니까?"
 
 #: translate_json.csv:1202
 msgctxt "Visit"
@@ -69558,27 +69548,9 @@ msgid "json|doupai/doupai_rules|2|0|1|1|374bea6cf8bd1e8fd64570b629cc6562"
 msgstr "다음 페이지"
 
 #: ui_en.json
-msgctxt ""
-"No Rank Limit\n"
-"No Rank PT"
-msgid "json|hesu/hesu_rules|1|0|3|2|2|61e48485ff70f832f9f7f6372470ead5"
-msgstr ""
-"등급 제한 없음\n"
-"등급PT 변동 없음"
-
-#: ui_en.json
 msgctxt "Battle of Clairvoyance"
 msgid "json|lobby/create_room|0|0|1|0|3|0|1307451972cab8669ce2663aa79fa2f7"
 msgstr "명경전"
-
-#: ui_en.json
-msgctxt ""
-"3/3 14:00 - \n"
-"3/13 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_chs|1|3|828a750ad76fe4ef5b45a39c0c7deb83"
-msgstr ""
-"3/3 14:00 - \n"
-"3/13 13:59 (UTC-7)"
 
 #: ui_en.json
 msgctxt "Got it"
@@ -69621,15 +69593,6 @@ msgid "json|lobby/create_room|0|0|1|21|2|0|c5743ad97506e582a2a7225f8bb1c8f1"
 msgstr "开暗牌"
 
 #: ui_en.json
-msgctxt ""
-"No Rank Limit\n"
-"No Rank PT"
-msgid "json|kuangdu/kuangdu_rules|1|0|3|2|2|61e48485ff70f832f9f7f6372470ead5"
-msgstr ""
-"등급 제한 없음\n"
-"등급PT 변동 없음"
-
-#: ui_en.json
 msgctxt "Battle of Darkness"
 msgid "json|lobby/create_room|0|0|1|0|4|0|64ec1b982eb3c9d2466e9ac00bd2145d"
 msgstr "암야전"
@@ -69643,25 +69606,7 @@ msgstr "수라전"
 msgctxt ""
 "3/3 14:00 - \n"
 "3/13 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_chs_t|1|3|828a750ad76fe4ef5b45a39c0c7deb83"
-msgstr ""
-"3/3 14:00 - \n"
-"3/13 13:59 (UTC-7)"
-
-#: ui_en.json
-msgctxt ""
-"3/3 14:00 - \n"
-"3/13 13:59 (UTC-7)"
 msgid "json|lobby/page_sign_en|1|3|828a750ad76fe4ef5b45a39c0c7deb83"
-msgstr ""
-"3/3 14:00 - \n"
-"3/13 13:59 (UTC-7)"
-
-#: ui_en.json
-msgctxt ""
-"3/3 14:00 - \n"
-"3/13 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_jp|1|3|828a750ad76fe4ef5b45a39c0c7deb83"
 msgstr ""
 "3/3 14:00 - \n"
 "3/13 13:59 (UTC-7)"
