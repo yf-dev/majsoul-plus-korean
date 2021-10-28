@@ -1,7 +1,7 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020, 2021.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-10-28 01:40+0000\n"
+"PO-Revision-Date: 2021-10-28 08:58+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -350,22 +350,10 @@ msgctxt "您先需要绑定并验证邮箱，才能进行付费"
 msgid "json|both_ui/need_bind_mail|0|4|2ecb0aac1f082a761de6da6e91e3732f"
 msgstr "您先需要绑定并验证邮箱，才能进行付费"
 
-#: translate_json.csv:139
-msgctxt "Win Rate"
-msgid ""
-"json|both_ui/otherplayerinfo|0|2|6|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
-msgstr "화료율"
-
 #: translate_json.csv:171
 msgctxt "Message"
 msgid "json|both_ui/otherplayerinfo|0|7|0|4c2a8fe7eaf24721cc7a9f0175115bd4"
 msgstr "메시지"
-
-#: translate_json.csv:208
-msgctxt "Win Rate"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|6|1|4|1|18|07a5b53f8af38d8d3cdb8a78e65d134c"
-msgstr "화료율"
 
 #: translate_json.csv:240
 msgctxt "Message"
@@ -3660,11 +3648,6 @@ msgstr "기원"
 msgctxt "Select the character/item you would like to redeem"
 msgid "json|lobby/treasure|3|4|19f3c26d730dccfc3cec60def81e119e"
 msgstr "교환할 캐릭터/아이템을 선택하세요"
-
-#: translate_json.csv:1169
-msgctxt "1回祈願するたびに1点"
-msgid "json|lobby/treasure|4|2|2|5|0|1a77a881a4d8dc6a13df98eb167e906e"
-msgstr "1回祈願するたびに1点"
 
 #: translate_json.csv:1201
 msgctxt "Insufficient Jade ，Do you wish to Purchase ？"
@@ -59140,12 +59123,6 @@ msgctxt "Restart"
 msgid "json|common/disconnect|1|4|0|51cfbcff36da74a9fc47f3a5140f99f2"
 msgstr "재시작"
 
-#: ui_en.json
-msgctxt "Rank"
-msgid ""
-"json|both_ui/otherplayerinfo_en|0|2|5|1|2|8|0|021da1b20f73dc252361a54d80497ef3"
-msgstr "순위"
-
 #: StrStr.csv:1241
 msgctxt "Completed"
 msgid "sheet|StrStr.csv|en|07ca5050e697392c9ed47e6453f1453f"
@@ -64921,7 +64898,6 @@ msgid "sheet|ItemDefinitionItem.csv|name_en|a1c175a614f82dc15c772d4677442b72"
 msgstr "붕어빵"
 
 #: ItemDefinitionItem.csv:181
-#, fuzzy
 msgctxt "Autumn Theme Background"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d605d1914a746f689607bb7f0c9eae47"
 msgstr "가을 테마 배경"
@@ -66581,7 +66557,7 @@ msgstr "엘리사"
 msgctxt "Battle of Asura"
 msgid ""
 "sheet|DesktopMatchmode.csv|room_name_en|376b211226923889ce55af670da2cb41"
-msgstr "수라의 전투"
+msgstr "수라전"
 
 #: AchievementAchievement.csv:382
 msgctxt "Win top 2 places 10 times in a row in 3-Player Ranked Room"
@@ -66665,7 +66641,7 @@ msgstr ""
 #: StrStr.csv:1305
 msgctxt "Battle of Asura"
 msgid "sheet|StrStr.csv|en|376b211226923889ce55af670da2cb41"
-msgstr "수라의 전투"
+msgstr "수라전"
 
 #: StrStr.csv:1302
 msgctxt ""
@@ -66686,7 +66662,7 @@ msgctxt ""
 "During the event, points earned in Ranked Match and Battle of Asura room can"
 " be used to dispel the Monster Nian."
 msgid "sheet|StrStr.csv|en|607367817f7f2765aa63e26201fe6a14"
-msgstr "이벤트 기간동안 단위전과 수라의 전투에서 획득한 포인트로 해괴수를 퇴치할 수 있습니다."
+msgstr "이벤트 기간동안 단위전과 수라전에서 획득한 포인트로 해괴수를 퇴치할 수 있습니다."
 
 #: StrStr.csv:1299
 msgctxt "Matches"
@@ -68812,11 +68788,6 @@ msgid "json|lobby/activity_rpg|1|4|2|222a267cc5778206b253be35ee3ddab5"
 msgstr "스테이지"
 
 #: ui_en.json
-msgctxt "开川麻"
-msgid "json|lobby/create_room|0|0|1|20|2|0|3bcf224fd1520b3aa49cce5326d170d4"
-msgstr "开川麻"
-
-#: ui_en.json
 msgctxt "Info"
 msgid "json|lobby/info|0|6|4059b0251f66a18cb56f544728796875"
 msgstr "정보"
@@ -69580,3 +69551,117 @@ msgstr "야기 유이는 커피를 좋아하지만, 맛의 차이는 잘 모릅�
 msgctxt "However big your appetite is, you cannot Chii in 3-Player Mahjong."
 msgid "sheet|StrStr.csv|en|84c74be09fe525350543e926c028f0ce"
 msgstr "아무리 원하더라도, 3인 마작에서는 치를 선언할 수 없습니다."
+
+#: ui_en.json
+msgctxt "Next page"
+msgid "json|doupai/doupai_rules|2|0|1|1|374bea6cf8bd1e8fd64570b629cc6562"
+msgstr "다음 페이지"
+
+#: ui_en.json
+msgctxt ""
+"No Rank Limit\n"
+"No Rank PT"
+msgid "json|hesu/hesu_rules|1|0|3|2|2|61e48485ff70f832f9f7f6372470ead5"
+msgstr ""
+"등급 제한 없음\n"
+"등급PT 변동 없음"
+
+#: ui_en.json
+msgctxt "Battle of Clairvoyance"
+msgid "json|lobby/create_room|0|0|1|0|3|0|1307451972cab8669ce2663aa79fa2f7"
+msgstr "명경전"
+
+#: ui_en.json
+msgctxt ""
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_chs|1|3|828a750ad76fe4ef5b45a39c0c7deb83"
+msgstr ""
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
+
+#: ui_en.json
+msgctxt "Got it"
+msgid "json|doupai/doupai_rules|2|0|2|0|78e981599281c16fe016b55b136edf5f"
+msgstr "알겠습니다"
+
+#: ui_en.json
+msgctxt "Previous page"
+msgid "json|doupai/doupai_rules|2|1|1|16ded2dc32322d80ce2362a47f4d7ef4"
+msgstr "이전 페이지"
+
+#: ui_en.json
+msgctxt "Skip"
+msgid "json|doupai/doupai_rules|2|2|0|1|72ef2b9b6965d078e3c7f95487a82d1c"
+msgstr "넘어가기"
+
+#: ui_en.json
+msgctxt "Close"
+msgid "json|doupai/doupai_rules|2|2|1|1|d3d2e617335f08df83599665eef8a418"
+msgstr "닫기"
+
+#: ui_en.json
+msgctxt "关鹫巢"
+msgid "json|lobby/create_room|0|0|1|20|1|0|a0fbb39216dc4673f11f6494a51efddc"
+msgstr "关鹫巢"
+
+#: ui_en.json
+msgctxt "开鹫巢"
+msgid "json|lobby/create_room|0|0|1|20|2|0|b5e478ed5bc4277560413e7a872eef27"
+msgstr "开鹫巢"
+
+#: ui_en.json
+msgctxt "关暗牌"
+msgid "json|lobby/create_room|0|0|1|21|1|0|0e2813b9a18525dd583f5801525d3886"
+msgstr "关暗牌"
+
+#: ui_en.json
+msgctxt "开暗牌"
+msgid "json|lobby/create_room|0|0|1|21|2|0|c5743ad97506e582a2a7225f8bb1c8f1"
+msgstr "开暗牌"
+
+#: ui_en.json
+msgctxt ""
+"No Rank Limit\n"
+"No Rank PT"
+msgid "json|kuangdu/kuangdu_rules|1|0|3|2|2|61e48485ff70f832f9f7f6372470ead5"
+msgstr ""
+"등급 제한 없음\n"
+"등급PT 변동 없음"
+
+#: ui_en.json
+msgctxt "Battle of Darkness"
+msgid "json|lobby/create_room|0|0|1|0|4|0|64ec1b982eb3c9d2466e9ac00bd2145d"
+msgstr "암야전"
+
+#: ui_en.json
+msgctxt "Battle of Asura"
+msgid "json|lobby/create_room|0|0|1|0|5|0|376b211226923889ce55af670da2cb41"
+msgstr "수라전"
+
+#: ui_en.json
+msgctxt ""
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_chs_t|1|3|828a750ad76fe4ef5b45a39c0c7deb83"
+msgstr ""
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
+
+#: ui_en.json
+msgctxt ""
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_en|1|3|828a750ad76fe4ef5b45a39c0c7deb83"
+msgstr ""
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
+
+#: ui_en.json
+msgctxt ""
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_jp|1|3|828a750ad76fe4ef5b45a39c0c7deb83"
+msgstr ""
+"3/3 14:00 - \n"
+"3/13 13:59 (UTC-7)"
