@@ -350,11 +350,6 @@ msgctxt "您先需要绑定并验证邮箱，才能进行付费"
 msgid "json|both_ui/need_bind_mail|0|4|2ecb0aac1f082a761de6da6e91e3732f"
 msgstr "您先需要绑定并验证邮箱，才能进行付费"
 
-#: translate_json.csv:240
-msgctxt "Message"
-msgid "json|both_ui/otherplayerinfo_en|0|7|0|4c2a8fe7eaf24721cc7a9f0175115bd4"
-msgstr "메시지"
-
 #: translate_json.csv:241
 msgctxt "Confirm"
 msgid "json|both_ui/popwindow|0|4|0|70d9be9b139893aa6c69b5e77e614311"
@@ -69601,12 +69596,3 @@ msgstr "암야전"
 msgctxt "Battle of Asura"
 msgid "json|lobby/create_room|0|0|1|0|5|0|376b211226923889ce55af670da2cb41"
 msgstr "수라전"
-
-#: ui_en.json
-msgctxt ""
-"3/3 14:00 - \n"
-"3/13 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_en|1|3|828a750ad76fe4ef5b45a39c0c7deb83"
-msgstr ""
-"3/3 14:00 - \n"
-"3/13 13:59 (UTC-7)"
