@@ -9220,11 +9220,6 @@ msgctxt "Entrance ticket to the Path of Trial."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|d4fc53d8c01b3a147ae24676491855d8"
 msgstr "시련의 길 입장권."
 
-#: translate_sheet.csv:1009
-msgctxt "Midorimiya Keita-Cup Ticket"
-msgid "sheet|ItemDefinitionItem.csv|name_en|d5521730303eb6984e839de5cd601ff0"
-msgstr "미도리야 케이타 컵 티켓"
-
 #: translate_sheet.csv:1010
 msgctxt "Entrance ticket used by the organizer of Midorimiya Keita-Cup."
 msgid "sheet|ItemDefinitionItem.csv|desc_en|6b601099315cd75edf294dd291753c79"
@@ -50590,15 +50585,6 @@ msgctxt "Sara"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|4733a44073c81970cccbca6e1ede188b"
 msgstr "사라"
 
-#: translate_sheet.csv:1486
-msgctxt ""
-"Available after making a Bonding Promise with Keikumusume\\n \"Do you also "
-"like to read light novels?\""
-msgid "sheet|ItemDefinitionSkin.csv|desc_en|042621a6d693d08e4238816c12c31206"
-msgstr ""
-"케이쿠무스메와 계약을 맺은 뒤 사용 가능\\n"
-"\"라이트 노벨 읽는 것도 좋아하나요?\""
-
 #: translate_sheet.csv:1485
 msgctxt "Keikumusume’s default look"
 msgid "sheet|ItemDefinitionSkin.csv|desc_en|3319ff7151f1c458620ff575bdc22ef0"
@@ -50618,15 +50604,6 @@ msgstr "아케치 히데키의 기본 의상"
 msgctxt "Hideki Akechi"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|c71ed70434c10fc1b9c861b0113d611a"
 msgstr "아케치 히데키"
-
-#: translate_sheet.csv:1480
-msgctxt ""
-"Christmas Carnival Exclusive\\n \"This is my first Christmas with you... Can"
-" we celebrate it again in the future together?\""
-msgid "sheet|ItemDefinitionSkin.csv|desc_en|fcdeb2ea02afc77f12501df4c85ecc88"
-msgstr ""
-"크리스마스 축제 한정\\n"
-"\"오늘은 당신과 보내는 첫 크리스마스에요... 앞으로도 함께 축하할 수 있을까요?\""
 
 #: translate_sheet.csv:1478
 msgctxt "Sora Ichinose’s default look"
@@ -50658,15 +50635,6 @@ msgctxt "Natsuki Shinomiya"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|0b45e930eee5e4a7ef2e153e2e060aee"
 msgstr "시노미야 나츠키"
 
-#: translate_sheet.csv:1465
-msgctxt ""
-"Halloween Party Exclusive\\n \"This costume mimics a creature known as a "
-"succubus in my country. They are very skillful at seduction...\""
-msgid "sheet|ItemDefinitionSkin.csv|desc_en|ba0aacecf0f9260f3525db18319fb86a"
-msgstr ""
-"할로윈 파티 한정\\n"
-"\"이 의상은 우리 나라에서 서큐버스라고 부르는 생물을 모방한거에요. 유혹에 아주 능숙하다고 하던데...\""
-
 #: translate_sheet.csv:1452
 msgctxt ""
 "Available after making a Bonding Promise with Nadeshiko\\n \"Pick one: go "
@@ -50675,15 +50643,6 @@ msgid "sheet|ItemDefinitionSkin.csv|desc_en|e61ec7ea55daea81f10c5a4764ade3b9"
 msgstr ""
 "나데시코와 계약을 맺은 뒤 사용 가능\\n"
 "\"하나 골라봐. . 나랑 오토바이 타러 갈래, 1대 1 마작할래?\""
-
-#: translate_sheet.csv:1434
-msgctxt ""
-"Spring Celebration Exclusive\\n \"You know, it's not nice to sneak a peek "
-"while girls are putting on makeup! I want you to see me at my best today!\""
-msgid "sheet|ItemDefinitionSkin.csv|desc_en|d872effdd4f377c15ae1fb748b7e9c14"
-msgstr ""
-"봄 축제 한정\\n"
-"\"여자들이 화장하는 걸 몰래 훔쳐보는건 좋지 않아요! 매일 최고의 모습으로 만나고 싶은걸요!\""
 
 #: translate_sheet.csv:1431
 msgctxt ""
@@ -64726,13 +64685,6 @@ msgctxt "Snowy New Year"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|3bf1604957d4650f9d5946efdc991bc3"
 msgstr "눈덮인 새해"
 
-#: ItemDefinitionSkin.csv:28
-msgctxt "Halloween Party Exclusive\\n \"Go, butterflies--Bring that person to me.\""
-msgid "sheet|ItemDefinitionSkin.csv|desc_en|3b383367a63fbbf1475e9b6ef57adf43"
-msgstr ""
-"할로윈 파티 한정\\n"
-"\"가라 나비들아- 그 사람을 내 앞으로 데려와 줘.\""
-
 #: ItemDefinitionSkin.csv:18
 msgctxt ""
 "Beach Party Exclusive\\n\"Even a commoner like you can have a great taste "
@@ -66762,15 +66714,6 @@ msgid "sheet|ItemDefinitionSkin.csv|name_en|885b496ea087da239e32a504ef67a08a"
 msgstr "후지"
 
 #: ItemDefinitionSkin.csv:83
-msgctxt ""
-"Wonderful Youth Exclusive\\n \"Why does Momo like Mr.Rabbit? Eh? Isn't this "
-"just as natural as how flowers bloom when spring comes?\""
-msgid "sheet|ItemDefinitionSkin.csv|desc_en|c018ae9460c00f9f3fa6d745972c5a17"
-msgstr ""
-"화창한 봄날 한정\\n"
-"\"모모가 왜 토끼 씨를 좋아하냐구요? 봄이 오면 꽃이 피는거랑 똑같은걸요?\""
-
-#: ItemDefinitionSkin.csv:83
 msgctxt "Wonderful Youth"
 msgid ""
 "sheet|ItemDefinitionSkin.csv|lock_tips_en|fac339a3933e4abfda2c4f155d6e1abb"
@@ -68301,12 +68244,6 @@ msgid "json|lobby/activity_jjc_en|1|3|1|5|0|69edde90a1c38b2efccc65419fc0e540"
 msgstr "비용:"
 
 #: ui_en.json
-msgctxt "Rewards"
-msgid ""
-"json|lobby/activity_jjc_reward|0|4|4|1|0d1c608c1498367815da8105e26b0a9e"
-msgstr "보상"
-
-#: ui_en.json
 msgctxt "ATK:"
 msgid "json|lobby/activity_rpg|1|2|2|1|f5e7fd1910db8a5c7ed33784753dd9cb"
 msgstr "ATK:"
@@ -68651,11 +68588,6 @@ msgid "json|lobby/activity_jjc|1|3|0|2|af80aa189bb930a176ad043b7a630df4"
 msgstr "12승 보상"
 
 #: ui_en.json
-msgctxt "Highest victory number"
-msgid "json|lobby/activity_jjc|1|3|1|0|cdd8e0c45a37a933bda1106fac1a503f"
-msgstr "최고 승수"
-
-#: ui_en.json
 msgctxt "Accumulated victory number"
 msgid "json|lobby/activity_jjc|1|3|1|3|4530ac78a3bd5df4f70381ee90f1e0a1"
 msgstr "누적 승수"
@@ -68666,19 +68598,9 @@ msgid "json|lobby/activity_jjc|1|3|1|6|2|08c838c5a3e47ed19b62c8345eebd815"
 msgstr "보유 티켓:"
 
 #: ui_en.json
-msgctxt "Event ends at 9/25 6:59 P.M. (UTC-7)"
-msgid "json|lobby/activity_jjc|1|3|1|7|07de90444d928b6635770510db067148"
-msgstr "이벤트 기간: 9월 25일 6:59 PM (UTC-7) 까지"
-
-#: ui_en.json
 msgctxt "Current rewards:"
 msgid "json|lobby/activity_jjc|1|4|0|8448d3bc228b57770248d680f1de2236"
 msgstr "현재 보상:"
-
-#: ui_en.json
-msgctxt "Event ends at 9/25 6:59 P.M. (UTC-7)"
-msgid "json|lobby/activity_jjc|1|4|1|07de90444d928b6635770510db067148"
-msgstr "이벤트 기간: 9월 25일 6:59 PM (UTC-7) 까지"
 
 #: ui_en.json
 msgctxt "match(es) till gift box is upgraded"
@@ -68701,11 +68623,6 @@ msgid "json|lobby/activity_jjc_en|1|3|0|2|af80aa189bb930a176ad043b7a630df4"
 msgstr "12승 보상"
 
 #: ui_en.json
-msgctxt "Highest victory number"
-msgid "json|lobby/activity_jjc_en|1|3|1|0|cdd8e0c45a37a933bda1106fac1a503f"
-msgstr "최고 승수"
-
-#: ui_en.json
 msgctxt "Accumulated victory number"
 msgid "json|lobby/activity_jjc_en|1|3|1|3|4530ac78a3bd5df4f70381ee90f1e0a1"
 msgstr "누적 승수"
@@ -68716,19 +68633,9 @@ msgid "json|lobby/activity_jjc_en|1|3|1|6|2|08c838c5a3e47ed19b62c8345eebd815"
 msgstr "보유 티켓:"
 
 #: ui_en.json
-msgctxt "Event ends at 9/25 6:59 P.M. (UTC-7)"
-msgid "json|lobby/activity_jjc_en|1|3|1|7|07de90444d928b6635770510db067148"
-msgstr "이벤트 기간: 9월 25일 6:59 PM (UTC-7) 까지"
-
-#: ui_en.json
 msgctxt "Current rewards:"
 msgid "json|lobby/activity_jjc_en|1|4|0|8448d3bc228b57770248d680f1de2236"
 msgstr "현재 보상:"
-
-#: ui_en.json
-msgctxt "Event ends at 9/25 6:59 P.M. (UTC-7)"
-msgid "json|lobby/activity_jjc_en|1|4|1|07de90444d928b6635770510db067148"
-msgstr "이벤트 기간: 9월 25일 6:59 PM (UTC-7) 까지"
 
 #: ui_en.json
 msgctxt "match(es) till gift box is upgraded"
@@ -68750,12 +68657,6 @@ msgstr "실패 가능 횟수:"
 msgctxt "Rewards can be claimed after finishing all matches in this round."
 msgid "json|lobby/activity_jjc_reward|0|3|9b867072357322aa0e7c82d319871a07"
 msgstr "이번 라운드의 모든 경기를 마친 후 보상을 받을 수 있습니다."
-
-#: ui_en.json
-msgctxt "Victories"
-msgid ""
-"json|lobby/activity_jjc_reward|0|4|4|0|ed837c950ae03759ae483804222fd610"
-msgstr "승수"
 
 #: ui_en.json
 msgctxt "Attribute Points"
@@ -68828,19 +68729,9 @@ msgid "json|lobby/skin_yulan|7|3|1|874888658d15324a04707fa39b566e14"
 msgstr "애니메이션 보기"
 
 #: ui_en.json
-msgctxt "@"
-msgid "json|lobby/sns|1|2|0|4|1|2|4|518ed29525738cebdac49c49e60ea9d3"
-msgstr "@"
-
-#: ui_en.json
 msgctxt "View Animation"
 msgid "json|lobby/sushe|1|5|3|1|874888658d15324a04707fa39b566e14"
 msgstr "애니메이션 보기"
-
-#: ui_en.json
-msgctxt "Oops! It looks like you have reached the end, nyaa~"
-msgid "json|lobby/sns|1|2|1|0|5c5d08ac3936dbc491d69d6f965ab64e"
-msgstr "앗! 끝난것 같다냐~"
 
 #: ui_en.json
 msgctxt "Duplicate Characters will be converted into Wishing Stones."
