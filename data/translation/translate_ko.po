@@ -50630,15 +50630,6 @@ msgctxt "Natsuki Shinomiya"
 msgid "sheet|ItemDefinitionSkin.csv|name_en|0b45e930eee5e4a7ef2e153e2e060aee"
 msgstr "시노미야 나츠키"
 
-#: translate_sheet.csv:1431
-msgctxt ""
-"Halloween Party Exclusive\\n \"If tonight's ball doesn't delight you, let me"
-" teach you something that will make you happy.\""
-msgid "sheet|ItemDefinitionSkin.csv|desc_en|f7778861c1b1f8838de5222289896247"
-msgstr ""
-"할로윈 파티 한정\\n"
-"\"오늘밤 무도회가 당신의 기분을 즐겁게 해줄 수 없다면, 내가 당신을 행복하게 해줄 무언가를 가르쳐 줄게.\""
-
 #: translate_sheet.csv:1429
 msgctxt ""
 "Available after making a Bonding Promise with Miki Nikaidou\\n\"Sure. I'm "
