@@ -86,24 +86,24 @@ def main(original_assets_path, dist_path):
         node["customProps"]["scale"][2] *= 1.1
         return node
 
-    log_info("Read mjdesktop_en.lh...")
+    log_info("Read mjdesktop_en.ls...")
     mjdesktop_en_lh = None
     with open(
-        Path(original_assets_path) / "scene" / "mjdesktop_en.lh", "r", encoding="utf-8"
+        Path(original_assets_path) / "scene" / "mjdesktop_en.ls", "r", encoding="utf-8"
     ) as jsonfile:
         mjdesktop_en_lh = json.load(jsonfile)
 
-    log_info("Update chang data on mjdesktop_en.lh...")
+    log_info("Update chang data on mjdesktop_en.ls...")
     update_node(
         mjdesktop_en_lh, mjdesktop_en_check_target_chang, mjdesktop_en_update_data_chang
     )
-    log_info("Update ju data on mjdesktop_en.lh...")
+    log_info("Update ju data on mjdesktop_en.ls...")
     update_node(
         mjdesktop_en_lh, mjdesktop_en_check_target_ju, mjdesktop_en_update_data_ju
     )
 
-    log_info("Write mjdesktop_en.lh...")
-    mjdesktop_en_lh_dist_path = Path(dist_path) / "assets" / "scene" / "mjdesktop_en.lh"
+    log_info("Write mjdesktop_en.ls...")
+    mjdesktop_en_lh_dist_path = Path(dist_path) / "assets" / "scene" / "mjdesktop_en.ls"
     mjdesktop_en_lh_dist_path.parent.mkdir(parents=True, exist_ok=True)
     with open(mjdesktop_en_lh_dist_path, "w", encoding="utf-8") as jsonfile:
         json.dump(mjdesktop_en_lh, jsonfile, separators=(",", ":"), ensure_ascii=False)
