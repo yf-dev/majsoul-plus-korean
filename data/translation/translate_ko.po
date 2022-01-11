@@ -1566,11 +1566,6 @@ msgctxt "Buy"
 msgid "json|lobby/checkpifuquan|0|11|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "구매"
 
-#: translate_json.csv:591
-msgctxt "4-Player"
-msgid "json|lobby/create_room|0|0|1|0|1|0|5dc72846529d753fec588a14a68f97f6"
-msgstr "4인"
-
 #: translate_json.csv:592
 msgctxt "3-Player"
 msgid "json|lobby/create_room|0|0|1|0|2|0|493c1194804e829e28dead722b2ac772"
@@ -16908,20 +16903,6 @@ msgstr "보너스 보상을 받으려면 현재 세로줄을 클리어하세요"
 msgctxt "Clear current row to get bonus rewards"
 msgid "sheet|StrStr.csv|en|1d40523dda1bc327ecfe8c96cc8a30e4"
 msgstr "보너스 보상을 받으려면 현재 가로줄을 클리어하세요"
-
-#: translate_sheet.csv:2380
-msgctxt ""
-"Starting Points: 35,000\\nExtension into West: At the end of 4th South game,"
-" if 1st place has less than 40,000 points\\nLength: Two-Wind Match\\nRed "
-"Five: 3\\nOpen Tanyao: On\\nWaiting Time: 5+20"
-msgid "sheet|StrStr.csv|en|1af620fbc913559d3ff29c8fbf31b872"
-msgstr ""
-"시작 점수: 35,000\\n"
-"서입:남4국 종료시 1위 점수가 40,000점 미만일 때\\n"
-"길이: 반장전\\n"
-"적도라: 3\\n"
-"쿠이탕: 허용\\n"
-"제한 시간:5+20"
 
 #: translate_sheet.csv:2378
 msgctxt "Not enough attempts, please try again tomorrow"
@@ -68792,11 +68773,6 @@ msgctxt "Change Outfit"
 msgid "json|lobby/waitingroom|3|1|6|1|1|da4ec73c94a592b2a1b0409efd9e1e8b"
 msgstr "의상 변경"
 
-#: ui_en.json
-msgctxt "Bloodshed Skirmish"
-msgid "json|mj/desktopInfo|3|8|1|e732fa46d6004d37b53d52dddbc178f8"
-msgstr "적혈전"
-
 #: AchievementAchievement.csv:236
 msgctxt "In Honor of Logging in for 1 Month"
 msgid ""
@@ -69401,11 +69377,6 @@ msgid "json|doupai/doupai_rules|2|0|1|1|374bea6cf8bd1e8fd64570b629cc6562"
 msgstr "다음 페이지"
 
 #: ui_en.json
-msgctxt "Battle of Clairvoyance"
-msgid "json|lobby/create_room|0|0|1|0|3|0|1307451972cab8669ce2663aa79fa2f7"
-msgstr "명경전"
-
-#: ui_en.json
 msgctxt "Got it"
 msgid "json|doupai/doupai_rules|2|0|2|0|78e981599281c16fe016b55b136edf5f"
 msgstr "알겠습니다"
@@ -69444,11 +69415,6 @@ msgstr "关暗牌"
 msgctxt "开暗牌"
 msgid "json|lobby/create_room|0|0|1|21|2|0|c5743ad97506e582a2a7225f8bb1c8f1"
 msgstr "开暗牌"
-
-#: ui_en.json
-msgctxt "Battle of Darkness"
-msgid "json|lobby/create_room|0|0|1|0|4|0|64ec1b982eb3c9d2466e9ac00bd2145d"
-msgstr "암야전"
 
 #: ui_en.json
 msgctxt "Battle of Asura"
