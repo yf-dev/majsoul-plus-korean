@@ -1566,11 +1566,6 @@ msgctxt "Buy"
 msgid "json|lobby/checkpifuquan|0|11|0|831a28f1e8df07c553fcd59546465d13"
 msgstr "구매"
 
-#: translate_json.csv:592
-msgctxt "3-Player"
-msgid "json|lobby/create_room|0|0|1|0|2|0|493c1194804e829e28dead722b2ac772"
-msgstr "3인"
-
 #: translate_json.csv:593
 msgctxt "1 Game"
 msgid "json|lobby/create_room|0|0|1|1|1|0|64741563cf82418d5b5f9d01c2848f28"
@@ -66692,16 +66687,6 @@ msgid "sheet|ItemDefinitionSkin.csv|name_en|fac339a3933e4abfda2c4f155d6e1abb"
 msgstr "화창한 봄날"
 
 #: ItemDefinitionItem.csv:226
-msgctxt ""
-"Unlocks all the characters' Lunar New Year limited-time Emote (excluding the"
-" collab characters). The stickers will be unavailable after 2021/3/12 1:59 "
-"P.M. (UTC-7)."
-msgid "sheet|ItemDefinitionItem.csv|desc_en|cecaa2dd12651c799c618332f2c26559"
-msgstr ""
-"소지한 모든 작사의 새해 한정 이모티콘을 사용 가능합니다. 이모티콘은 2021/3/12 1:59 P.M. (UTC-7) 이후에는 사용할 "
-"수 없습니다."
-
-#: ItemDefinitionItem.csv:226
 msgctxt "Spring Exclusive Emotes"
 msgid "sheet|ItemDefinitionItem.csv|name_en|3d0238a563ca0fafd5039679a161cf49"
 msgstr "봄 한정 이모티콘"
@@ -66826,12 +66811,6 @@ msgctxt "Fu Ji"
 msgid ""
 "sheet|ItemDefinitionCharacter.csv|name_en|885b496ea087da239e32a504ef67a08a"
 msgstr "후지"
-
-#: CharacterEmoji.csv:268
-msgctxt "3/12(UTC-7)"
-msgid ""
-"sheet|CharacterEmoji.csv|after_unlock_desc_en|15e1ea2f648d5434e1508dfac8f421d4"
-msgstr "3/12(UTC-7)"
 
 #: AudioBgm.csv:7
 msgctxt "Event Limited"
@@ -69415,8 +69394,3 @@ msgstr "关暗牌"
 msgctxt "开暗牌"
 msgid "json|lobby/create_room|0|0|1|21|2|0|c5743ad97506e582a2a7225f8bb1c8f1"
 msgstr "开暗牌"
-
-#: ui_en.json
-msgctxt "Battle of Asura"
-msgid "json|lobby/create_room|0|0|1|0|5|0|376b211226923889ce55af670da2cb41"
-msgstr "수라전"
