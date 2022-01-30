@@ -1,14 +1,14 @@
-# Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020, 2021.
+# Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020, 2021, 2022.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-10-28 08:58+0000\n"
+"PO-Revision-Date: 2022-01-31 02:44+0000\n"
 "Last-Translator: Sleeping C. elegans <sleeping.c.elegans@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8.1\n"
+"X-Generator: Weblate 4.9.1\n"
 
 #: translate_json.csv:17
 msgctxt "Send code"
@@ -69394,3 +69394,15 @@ msgstr "关暗牌"
 msgctxt "开暗牌"
 msgid "json|lobby/create_room|0|0|1|21|2|0|c5743ad97506e582a2a7225f8bb1c8f1"
 msgstr "开暗牌"
+
+#: ui_en.json
+msgctxt "Redeem"
+msgid ""
+"json|lobby/activitys/activity_wuyi_exchange|0|0|1|1|9|0|0|81ed4dcb851fefbbbc791eeef4cd97a2"
+msgstr "교환"
+
+#: ui_en.json
+msgctxt "x10"
+msgid ""
+"json|lobby/activitys/activity_wuyi_exchange|0|0|1|1|9|0|1|2040a28d572e0889b2b34e9c66814f57"
+msgstr "x10"
