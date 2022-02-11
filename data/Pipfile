@@ -12,7 +12,7 @@ black = "*"
 pylint = "*"
 
 [packages]
-protobuf = "~=3.12.1"
+protobuf = "~=3.15.0"
 pillow = "~=8.3.2"
 rectpack = "~=0.2.1"
 aiohttp = "*"
