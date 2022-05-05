@@ -4,7 +4,7 @@
 # Nesswit <rishubil+weblate@update.sh>, 2022.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-05 14:13+0000\n"
+"PO-Revision-Date: 2022-05-05 14:18+0000\n"
 "Last-Translator: hyeonsangyu <db159147357@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -69604,3 +69604,73 @@ msgstr ""
 "이벤트 퀘스트를 달성하여 식제료를 수집하세요.\n"
 "친구들과 서로 식재료를 교환할 수 있습니다.\n"
 "5가지 식재료를 모아 해괴수에게 먹여 보상을 얻으세요!"
+
+#: ui_en.json
+msgctxt ""
+"4/12 14:00 - \r\n"
+"4/22 13:59 (UTC-7)"
+msgid "json|lobby/page_sign_chs|1|3|a7971c25cb35da5c67dbadb2a9d855b6"
+msgstr ""
+"4/12 14:00 - \n"
+"4/22 13:59 (UTC-7)"
+
+#: ui_en.json
+msgctxt "Oops! It looks like you have reached the end, nyaa~"
+msgid "json|lobby/sns|1|0|1|1|0|5c5d08ac3936dbc491d69d6f965ab64e"
+msgstr "앗! 방금 전이 마지막이었다냐야~"
+
+#: ui_en.json
+msgctxt "Default"
+msgid "json|lobby/skin_yulan|7|3|6|2|0|7a1920d61156abc05a60135aefe8bc67"
+msgstr "기본"
+
+#: ui_en.json
+msgctxt "Greeting"
+msgid "json|lobby/skin_yulan|7|3|6|3|0|fd107d7940a40431d0646c5fa93cd140"
+msgstr "환영 인사"
+
+#: ui_en.json
+msgctxt "Touch"
+msgid "json|lobby/skin_yulan|7|3|6|4|0|f0f31c9700c6b10d8a20dc487b2ae6a8"
+msgstr "터치"
+
+#: ui_en.json
+msgctxt "Celebration"
+msgid "json|lobby/skin_yulan|7|3|6|5|0|3c896ab1d9c4f9cb99d3faf83fba8554"
+msgstr "축하"
+
+#: ui_en.json
+msgctxt "@"
+msgid "json|lobby/sns|1|0|1|0|4|1|2|4|518ed29525738cebdac49c49e60ea9d3"
+msgstr "@"
+
+#: erjietang/200004_en.bytes:1
+msgctxt ""
+"There are three primary concerns in life: what to eat for breakfast, lunch "
+"and dinner.//nJust as I was seriously thinking about the menu for dinner, I "
+"suddenly received a call from Miki Nikaidou.\n"
+msgid ""
+"bytes|erjietang/200004_en.bytes|erjietang/200004|230|aac77f7f5c5493c051c55150390030c0"
+msgstr ""
+"사람은 모두 세 가지 중요한 고민을 안고 산다. 아침밥은 뭘로 할까, 점심은 뭘로 할까, 그리고 저녁밥은 뭘로 할까……. 진지하게 오늘 "
+"저녁을 결정하려고 하고 있던 그때, 니카이도씨로부터 전화가 왔다.\n"
+
+#: ui_en.json
+msgctxt ""
+"Rate-up Characters: accounts for 59% of the odds when pulling a Character."
+msgid "json|lobby/treasure|5|2|2|3|3|f71054557f0b2bc22bcbb823b551704b"
+msgstr "픽업 확률 상승 캐릭터 : 캐릭터가 등장할 경우, 59%의 확률로 해당 캐릭터가 등장합니다."
+
+#: ui_en.json
+msgctxt ""
+"Rate-up Decorations: accounts for 49% of the odds when pulling a Decoration."
+msgid "json|lobby/treasure|5|2|2|3|6|7623a64b96a322fb698dea2eefbbb6a0"
+msgstr "픽업 확률 상승 장식 : 장식이 등장할 경우, 49%의 확률로 해당 장식이 등장합니다."
+
+#: erjietang/200004_en.bytes:3
+msgctxt ""
+"{character:Miki Nikaidou}Today, I will cook the dinner myself to reward you "
+"for your excellent performance recently. You-can-look-forward-to-it~\n"
+msgid ""
+"bytes|erjietang/200004_en.bytes|erjietang/200004|232|3e273bf63bcbf4272da71ce5328c9391"
+msgstr "{캐릭터:니카이도 미키} 항상 열심히 해 주고 있으니까 오늘은 특별히 내가 저녁을 차려 줄게! 우후후 기대하라구.\n"
