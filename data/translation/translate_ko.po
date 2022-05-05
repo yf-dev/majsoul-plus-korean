@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-05-05 14:18+0000\n"
-"Last-Translator: hyeonsangyu <db159147357@gmail.com>\n"
+"Last-Translator: Nesswit <rishubil+weblate@update.sh>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -69673,7 +69673,8 @@ msgctxt ""
 "for your excellent performance recently. You-can-look-forward-to-it~\n"
 msgid ""
 "bytes|erjietang/200004_en.bytes|erjietang/200004|232|3e273bf63bcbf4272da71ce5328c9391"
-msgstr "{캐릭터:니카이도 미키} 항상 열심히 해 주고 있으니까 오늘은 특별히 내가 저녁을 차려 줄게! 우후후 기대하라구.\n"
+msgstr ""
+"{character:Miki Nikaidou}항상 열심히 해 주고 있으니까 오늘은 특별히 내가 저녁을 차려 줄게! 우후후 기대하라구.\n"
 
 #: ui_en.json
 msgctxt ""
