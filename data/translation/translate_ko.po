@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-05-05 14:13+0000\n"
-"Last-Translator: Nesswit <rishubil+weblate@update.sh>\n"
+"Last-Translator: hyeonsangyu <db159147357@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -69574,3 +69574,33 @@ msgctxt "Battle of Asura"
 msgid ""
 "json|lobby/create_room|0|0|1|0|1|0|5|0|376b211226923889ce55af670da2cb41"
 msgstr "수라전"
+
+#: ui_en.json
+msgctxt "Victories"
+msgid ""
+"json|lobby/activity_jjc_reward|0|4|5|0|ed837c950ae03759ae483804222fd610"
+msgstr "승리 수"
+
+#: ui_en.json
+msgctxt "Dreamland Odyssey"
+msgid ""
+"json|lobby/create_room|0|0|1|0|1|0|6|0|344a44666e6a797d0c71e2d93f5bc476"
+msgstr "환계전투"
+
+#: ui_en.json
+msgctxt "Progress"
+msgid ""
+"json|lobby/nianshou/nianshou_main|1|11|1|1|46b5f8c58b679b4243cbdb5749642c86"
+msgstr "진행도"
+
+#: ui_en.json
+msgctxt ""
+"During event, complete daily missions to get ingredients.\r\n"
+"Ask friends for aid. You can give each other ingredients.\r\n"
+"Collect 5 types of ingredients, feed them to Monster Nian to get rewards."
+msgid ""
+"json|lobby/nianshou/nianshou_main|1|13|2|4be723cd23881a6a6c896eccf4d4cede"
+msgstr ""
+"이벤트 퀘스트를 달성하여 식제료를 수집하세요.\n"
+"친구들과 서로 식재료를 교환할 수 있습니다.\n"
+"5가지 식재료를 모아 해괴수에게 먹여 보상을 얻으세요!"
