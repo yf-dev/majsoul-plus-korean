@@ -1,9 +1,10 @@
 # Sleeping C. elegans <sleeping.c.elegans@gmail.com>, 2020, 2021, 2022.
 # Alex <alexanderhkim.342@gmail.com>, 2022.
+# hyeonsangyu <db159147357@gmail.com>, 2022.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-03 07:45+0000\n"
-"Last-Translator: Alex <alexanderhkim.342@gmail.com>\n"
+"PO-Revision-Date: 2022-05-05 14:07+0000\n"
+"Last-Translator: hyeonsangyu <db159147357@gmail.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -344,12 +345,12 @@ msgstr "획득 방법"
 #: translate_json.csv:101
 msgctxt "立即绑定"
 msgid "json|both_ui/need_bind_mail|0|2|0|fc76139a403e632484add14a6f957558"
-msgstr "立即绑定"
+msgstr "즉시 연동"
 
 #: translate_json.csv:102
 msgctxt "您先需要绑定并验证邮箱，才能进行付费"
 msgid "json|both_ui/need_bind_mail|0|4|2ecb0aac1f082a761de6da6e91e3732f"
-msgstr "您先需要绑定并验证邮箱，才能进行付费"
+msgstr "이메일을 인증한 후, 결제가 가능합니다."
 
 #: translate_json.csv:241
 msgctxt "Confirm"
@@ -538,17 +539,17 @@ msgstr "연결 해제"
 #: translate_json.csv:277
 msgctxt "好的，走起"
 msgid "json|common/android_change|0|2|0|7552af1517f84aa504e834c177d82841"
-msgstr "好的，走起"
+msgstr "확인, 이대로 진행합니다."
 
 #: translate_json.csv:278
 msgctxt "再等等"
 msgid "json|common/android_change|0|3|0|8eea774badd8ea744633866065a71109"
-msgstr "再等等"
+msgstr "잠시만요!"
 
 #: translate_json.csv:279
 msgctxt "好消息！好消息！"
 msgid "json|common/android_change|0|4|5ee4ea3add96ae46b2329cfdb78deee0"
-msgstr "好消息！好消息！"
+msgstr "기쁜 소식입니다!"
 
 #: translate_json.csv:280
 msgctxt ""
@@ -562,7 +563,7 @@ msgstr ""
 #: translate_json.csv:281
 msgctxt "是否立即前往官网下载？"
 msgid "json|common/android_change|0|6|02b039e644a0848142027fecfa7552b3"
-msgstr "是否立即前往官网下载？"
+msgstr "공식 홈페이지로 이동하여 앱을 다운로드 하시겠습니까?"
 
 #: translate_json.csv:282
 msgctxt "Confirm"
@@ -577,7 +578,7 @@ msgstr "계정이 다른 장소에서 로그인되었습니다"
 #: translate_json.csv:284
 msgctxt "绑定手机"
 msgid "json|common/bind_phone1|0|2|8dd066208f7f2b12d2f56501dccab177"
-msgstr "绑定手机"
+msgstr "휴대폰 연동"
 
 #: translate_json.csv:286
 msgctxt "绑定"
@@ -587,7 +588,7 @@ msgstr "绑定"
 #: translate_json.csv:287
 msgctxt "手机号码："
 msgid "json|common/bind_phone1|0|7|67d939e68162e8a472ea9e4847aa81de"
-msgstr "手机号码："
+msgstr "핸드폰 번호 :"
 
 #: translate_json.csv:288
 msgctxt "28******@qq.com"
@@ -597,7 +598,7 @@ msgstr "28******@qq.com"
 #: translate_json.csv:289
 msgctxt "根据网络游戏实名制的相关规定要求，请绑定手机完成认证。"
 msgid "json|common/bind_phone1|0|8|50043ce41cb38fb521fb96feb0f52ec3"
-msgstr "根据网络游戏实名制的相关规定要求，请绑定手机完成认证。"
+msgstr "온라인게임 실명제에 관한 규정에 의거하여 휴대폰을 연동하여 인증을 완료하시기 바랍니다."
 
 #: translate_json.csv:290
 msgctxt "Do you wish to close the game?"
@@ -742,7 +743,7 @@ msgstr "다음 페이지"
 #: translate_json.csv:317
 msgctxt "用户协议"
 msgid "json|common/user_xieyi_enjp|0|1|c96e43e93ba8ed1c5e066099244febdb"
-msgstr "用户协议"
+msgstr "이용약관"
 
 #: translate_json.csv:318
 msgctxt "Confirm"
@@ -12569,7 +12570,7 @@ msgstr "/"
 #: translate_json.csv:285
 msgctxt "发送验证码"
 msgid "json|common/bind_phone1|0|5|0|c5c3583bfcc51de4ee921b5679a092cc"
-msgstr "发送验证码"
+msgstr "인증 번호 보내기"
 
 #: translate_sheet.csv:1088
 msgctxt ""
@@ -19042,27 +19043,27 @@ msgstr "각 플레이어는 대회 중 {0}번만 게임에 참가할 수 있습�
 #: translate_json.csv:272
 msgctxt "解除绑定"
 msgid "json|both_ui/unbind_phone|0|2|c7b01a47bb996a938ac0c96ed5d618c1"
-msgstr "解除绑定"
+msgstr "연동 해제"
 
 #: translate_json.csv:78
 msgctxt "お問い合わせ"
 msgid "json|both_ui/dmm_kefu|0|3|e3daaddaff30447edea8c6b14def12a9"
-msgstr "お問い合わせ"
+msgstr "문의"
 
 #: translate_json.csv:77
 msgctxt "サポート窓口：https://mahjongsoul.com/feedback"
 msgid "json|both_ui/dmm_kefu|0|2|97e1bc2e64db5b2205460f4037abdcea"
-msgstr "サポート窓口：https://mahjongsoul.com/feedback"
+msgstr "고객 지원：https://mahjongsoul.com/feedback"
 
 #: translate_json.csv:65
 msgctxt "解除绑定"
 msgid "json|both_ui/config|0|7|3|2|3|2|3|c7b01a47bb996a938ac0c96ed5d618c1"
-msgstr "解除绑定"
+msgstr "연동 해제"
 
 #: translate_json.csv:63
 msgctxt "非登陆凭证"
 msgid "json|both_ui/config|0|7|3|2|3|2|0|ad7f5fc682469c459d4a78590a940e34"
-msgstr "非登陆凭证"
+msgstr "비등록증서"
 
 #: translate_json.csv:51
 msgctxt "お問い合わせ"
@@ -19127,37 +19128,37 @@ msgstr "暂无昵称"
 #: translate_json.csv:301
 msgctxt "当前账号昵称:"
 msgid "json|common/bind_phone1|0|9|673cd46a7d069fbd9df9778844f1827e"
-msgstr "当前账号昵称:"
+msgstr "계정의 닉네임 :"
 
 #: translate_json.csv:290
 msgctxt "根据网络游戏实名制的相关规定要求，请绑定手机完成认证。"
 msgid "json|common/bind_phone0|0|9|50043ce41cb38fb521fb96feb0f52ec3"
-msgstr "根据网络游戏实名制的相关规定要求，请绑定手机完成认证。"
+msgstr "온라인게임 실명제에 관한 규정에 의거하여 휴대폰을 연동하여 인증을 완료하시기 바랍니다."
 
 #: translate_json.csv:288
 msgctxt "手机号码："
 msgid "json|common/bind_phone0|0|8|67d939e68162e8a472ea9e4847aa81de"
-msgstr "手机号码："
+msgstr "핸드폰 번호 :"
 
 #: translate_json.csv:287
 msgctxt "发送验证码"
 msgid "json|common/bind_phone0|0|7|0|c5c3583bfcc51de4ee921b5679a092cc"
-msgstr "发送验证码"
+msgstr "인증 번호 보내기"
 
 #: translate_json.csv:286
 msgctxt "绑定手机"
 msgid "json|common/bind_phone0|0|2|8dd066208f7f2b12d2f56501dccab177"
-msgstr "绑定手机"
+msgstr "휴대폰 연동"
 
 #: translate_json.csv:274
 msgctxt "解除绑定"
 msgid "json|both_ui/unbind_phone|0|6|0|c7b01a47bb996a938ac0c96ed5d618c1"
-msgstr "解除绑定"
+msgstr "연동 해제"
 
 #: translate_json.csv:273
 msgctxt "发送验证码"
 msgid "json|both_ui/unbind_phone|0|5|0|c5c3583bfcc51de4ee921b5679a092cc"
-msgstr "发送验证码"
+msgstr "인증코드 보내기"
 
 #: translate_sheet.csv:2518
 msgctxt "your email address:"
@@ -19422,7 +19423,7 @@ msgstr "成功"
 msgctxt "不用了"
 msgid ""
 "json|common/create_phone_account|0|5|0|cfe05627c42653dd49d52db8d759aa2e"
-msgstr "不用了"
+msgstr "괜찮아요!"
 
 #: translate_json.csv:318
 msgctxt ""
@@ -19443,19 +19444,20 @@ msgstr "创建"
 msgctxt "您无法使用该手机号来登录或找回账号。"
 msgid ""
 "json|common/canot_create_phone_account|0|5|44fade50ed4040cd34c3c5981390eb52"
-msgstr "您无法使用该手机号来登录或找回账号。"
+msgstr "해당 휴대폰 번호로 로그인하거나 계정을 찾을 수 없습니다."
 
 #: translate_json.csv:311
 msgctxt "该手机号已经创建过通行证，无法为本账号创建通行证，仅作为手机实名信息使用。"
 msgid ""
 "json|common/canot_create_phone_account|0|4|0f2df21d17934e364e8d03d4b583514d"
-msgstr "该手机号已经创建过通行证，无法为本账号创建通行证，仅作为手机实名信息使用。"
+msgstr ""
+"해당 휴대폰 번호로 이미 패스가 생성되어 있어 이 계정으로 패스를 생성할 수 없습니다. 해당 휴대폰 번호는 실명 정보로만 사용됩니다."
 
 #: translate_json.csv:310
 msgctxt "了解了"
 msgid ""
 "json|common/canot_create_phone_account|0|3|0|b11a6f4cfbc74ab3e81ad85a52285d78"
-msgstr "了解了"
+msgstr "확인 완료"
 
 #: translate_json.csv:309
 msgctxt "信息"
@@ -19501,7 +19503,7 @@ msgstr "暂无昵称"
 #: translate_json.csv:291
 msgctxt "当前账号昵称:"
 msgid "json|common/bind_phone0|0|10|673cd46a7d069fbd9df9778844f1827e"
-msgstr "当前账号昵称:"
+msgstr "계정의 닉네임 :"
 
 #: translate_json.csv:289
 msgctxt "1"
@@ -19511,7 +19513,9 @@ msgstr "1"
 #: translate_json.csv:275
 msgctxt "注意！解除手机绑定以后该账号将永久冻结，无法登录和使用，请确认以后再进行操作！该操作不可撤销！"
 msgid "json|both_ui/unbind_phone|0|9|356f90c0bc571afb6d27729da89c3633"
-msgstr "注意！解除手机绑定以后该账号将永久冻结，无法登录和使用，请确认以后再进行操作！该操作不可撤销！"
+msgstr ""
+"주의! 휴대폰 연동 해제 이후 해당 계정은 영구적으로 동결되며 로그인 및 사용이 불가하오니 확인 후 조작하시기 바랍니다! 이 작업은 "
+"취소할 수 없습니다!"
 
 #: translate_json.csv:98
 msgctxt "Confirm"
@@ -68087,7 +68091,7 @@ msgstr "움직이는 의상"
 #: ui_en.json
 msgctxt "Agree to the"
 msgid "json|common/user_xieyi_update|0|1|5|4fd9087a780672e0d3e43aba93086c55"
-msgstr "동의:"
+msgstr "에 동의합니다."
 
 #: ui_en.json
 msgctxt "Agree to the"
