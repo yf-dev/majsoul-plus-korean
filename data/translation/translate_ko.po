@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-05-06 12:16+0000\n"
-"Last-Translator: hyeonsangyu <db159147357@gmail.com>\n"
+"Last-Translator: Nesswit <rishubil+weblate@update.sh>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -69769,7 +69769,7 @@ msgctxt ""
 msgid ""
 "bytes|erjietang/200004_en.bytes|erjietang/200004|237|85a86562c5efb389ee0d5ad2a3fc9c7f"
 msgstr ""
-"나는 텐호쿠 입구 앞에서 몹시 당황하고 있는 이치히메와 마주쳤다. 이치히메는 나를 보자마자, 헉! 하고 소스라치게 놀란 모습이다.\n"
+"나는 천화각 입구 앞에서 몹시 당황하고 있는 이치히메와 마주쳤다. 이치히메는 나를 보자마자, 헉! 하고 소스라치게 놀란 모습이다.\n"
 
 #: FanFan.csv:82
 msgctxt "Pure Single Wait after 4 Triplets"
@@ -69806,3 +69806,29 @@ msgstr ""
 msgctxt "Seven Pairs with One Duplicate"
 msgid "sheet|FanFan.csv|name_en|f3cdb7ae95aecdef7952b10cc8933a00"
 msgstr "용치또이"
+
+#: FandescFandesc.csv:83
+msgctxt "Pure Single Wait after 4 Triplets"
+msgid "sheet|FandescFandesc.csv|name_en|ea3dee7a865c3ed3932841a98d7ff5ae"
+msgstr "청금구조"
+
+#: FanFan.csv:76
+msgctxt "Single Wait after 4 Triplets"
+msgid "sheet|FanFan.csv|name_en|ec62e099bd474fe3666a6ac006084282"
+msgstr "금구조"
+
+#: FandescFandesc.csv:80
+msgctxt "Seven Pairs with One Duplicate"
+msgid "sheet|FandescFandesc.csv|name_en|f3cdb7ae95aecdef7952b10cc8933a00"
+msgstr "용치또이"
+
+#: erjietang/200004_en.bytes:9
+msgctxt "Ichihime\n"
+msgid ""
+"bytes|erjietang/200004_en.bytes|erjietang/200004|238|ff4890e77abb75a1e4c6c2dc0c242a4c"
+msgstr "이치히메\n"
+
+#: FandescFandesc.csv:77
+msgctxt "Single Wait after 4 Triplets"
+msgid "sheet|FandescFandesc.csv|name_en|ec62e099bd474fe3666a6ac006084282"
+msgstr "금구조"
