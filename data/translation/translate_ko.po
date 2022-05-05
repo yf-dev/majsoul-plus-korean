@@ -4,7 +4,7 @@
 # Nesswit <rishubil+weblate@update.sh>, 2022.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-05 14:18+0000\n"
+"PO-Revision-Date: 2022-05-05 14:19+0000\n"
 "Last-Translator: Nesswit <rishubil+weblate@update.sh>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -69742,4 +69742,16 @@ msgid ""
 "bytes|erjietang/200004_en.bytes|erjietang/200004|233|34adf6e39c696368a5e75783d2b92983"
 msgstr ""
 "나는 니카이도씨를 오랫동안 알고 있었지만 그녀의 요리를 맛보는 건 지금이 처음이다. 게다가 내가 근심 걱정으로 고민하던 저녁 식사 문제도 "
-"해결해 주다니! 나는 많은 기대를 안고 텐호쿠로 향했다.\n"
+"해결해 주다니! 나는 많은 기대를 안고 천화각으로 향했다.\n"
+
+#: erjietang/200004_en.bytes:5
+msgctxt "Tenhoukaku\n"
+msgid ""
+"bytes|erjietang/200004_en.bytes|erjietang/200004|234|5c58f0d0073b35259b5faa7c83175e5a"
+msgstr "천화각\n"
+
+#: erjietang/200004_en.bytes:6
+msgctxt "???\n"
+msgid ""
+"bytes|erjietang/200004_en.bytes|erjietang/200004|235|8df265b3eeaa509e34296426465d409f"
+msgstr "???\n"
