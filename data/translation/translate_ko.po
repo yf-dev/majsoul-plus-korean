@@ -4,8 +4,8 @@
 # Nesswit <rishubil+weblate@update.sh>, 2022.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-05 14:20+0000\n"
-"Last-Translator: hyeonsangyu <db159147357@gmail.com>\n"
+"PO-Revision-Date: 2022-05-06 12:16+0000\n"
+"Last-Translator: Nesswit <rishubil+weblate@update.sh>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -4952,7 +4952,7 @@ msgstr "잡화점에서 아이템 2회 구매"
 #: translate_sheet.csv:246
 msgctxt "Win a game with Seven Pairs"
 msgid "sheet|EventsBaseTask.csv|desc_en|8f872b547d0443ff573395a01584e2d2"
-msgstr "치또이츠로 화료"
+msgstr "1 게임을 치또이츠로 화료"
 
 #: translate_sheet.csv:247
 msgctxt "Win a game with Prevalent Wind"
@@ -69769,4 +69769,66 @@ msgctxt ""
 msgid ""
 "bytes|erjietang/200004_en.bytes|erjietang/200004|237|85a86562c5efb389ee0d5ad2a3fc9c7f"
 msgstr ""
-"나는 텐호쿠 입구 앞에서 몹시 당황하고 있는 이치히메와 마주쳤다. 이치히메는 나를 보자마자, 헉! 하고 소스라치게 놀란 모습이다.\n"
+"나는 천화각 입구 앞에서 몹시 당황하고 있는 이치히메와 마주쳤다. 이치히메는 나를 보자마자, 헉! 하고 소스라치게 놀란 모습이다.\n"
+
+#: FanFan.csv:82
+msgctxt "Pure Single Wait after 4 Triplets"
+msgid "sheet|FanFan.csv|name_en|ea3dee7a865c3ed3932841a98d7ff5ae"
+msgstr "청금구조"
+
+#: FanFan.csv:83
+msgctxt "Pure Seven Pairs with One Duplicate"
+msgid "sheet|FanFan.csv|name_en|d2aa5d933aa6d7187c470987537261d5"
+msgstr "청룡치또이"
+
+#: FandescFandesc.csv:86
+msgctxt "Pure Seven Pairs with One Duplicate"
+msgid "sheet|FandescFandesc.csv|name_en|d2aa5d933aa6d7187c470987537261d5"
+msgstr "청룡치또이"
+
+#: CharacterEmoji.csv:352
+msgctxt "3/2(UTC-7)"
+msgid ""
+"sheet|CharacterEmoji.csv|after_unlock_desc_en|9ef4f8cda9699a5bbdb01be099fdfe67"
+msgstr "3/2(UTC-7)"
+
+#: StrStr.csv:1303
+msgctxt ""
+"When Draw happens, only the Jyanshi who has not won will face a No-Ten "
+"penalty. When a special Draw happens in the middle of the match, the match "
+"will be restarted."
+msgid "sheet|StrStr.csv|en|744885aa9c20384c620fc2a57d06a435"
+msgstr ""
+"유국 시 텐파이가 아닌  작사들에게 벌금이  부과된다냐. 특수 유국이 발생했다면, 그 국의 처음부터 다시 진행한다냐! 유국 전까지 교환한 "
+"점수는 어쩔 수 없다냐…"
+
+#: FanFan.csv:79
+msgctxt "Seven Pairs with One Duplicate"
+msgid "sheet|FanFan.csv|name_en|f3cdb7ae95aecdef7952b10cc8933a00"
+msgstr "용치또이"
+
+#: FandescFandesc.csv:83
+msgctxt "Pure Single Wait after 4 Triplets"
+msgid "sheet|FandescFandesc.csv|name_en|ea3dee7a865c3ed3932841a98d7ff5ae"
+msgstr "청금구조"
+
+#: FanFan.csv:76
+msgctxt "Single Wait after 4 Triplets"
+msgid "sheet|FanFan.csv|name_en|ec62e099bd474fe3666a6ac006084282"
+msgstr "금구조"
+
+#: FandescFandesc.csv:80
+msgctxt "Seven Pairs with One Duplicate"
+msgid "sheet|FandescFandesc.csv|name_en|f3cdb7ae95aecdef7952b10cc8933a00"
+msgstr "용치또이"
+
+#: erjietang/200004_en.bytes:9
+msgctxt "Ichihime\n"
+msgid ""
+"bytes|erjietang/200004_en.bytes|erjietang/200004|238|ff4890e77abb75a1e4c6c2dc0c242a4c"
+msgstr "이치히메\n"
+
+#: FandescFandesc.csv:77
+msgctxt "Single Wait after 4 Triplets"
+msgid "sheet|FandescFandesc.csv|name_en|ec62e099bd474fe3666a6ac006084282"
+msgstr "금구조"
