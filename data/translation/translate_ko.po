@@ -13676,11 +13676,6 @@ msgctxt "Saint's Bag"
 msgid "sheet|ItemDefinitionItem.csv|desc_en|4a0762caa8fededb6159accec1aa4aa9"
 msgstr "성자의 주머니"
 
-#: translate_sheet.csv:1116
-msgctxt "Saint's Bag"
-msgid "sheet|ItemDefinitionItem.csv|name_en|4a0762caa8fededb6159accec1aa4aa9"
-msgstr "성자의 주머니"
-
 #: translate_sheet.csv:1115
 msgctxt ""
 "A gift bag left by an altruistic sage. Contains 1 random premium gift."
