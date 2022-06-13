@@ -14477,20 +14477,6 @@ msgctxt ""
 msgid "sheet|StrStr.csv|en|a28a59b285b8f14b64c6f3445e8a97e3"
 msgstr "연결이 불안정합니다. 네트워크 프록시 설정을 확인하고 다시 시도해주세요."
 
-#: translate_sheet.csv:1614
-msgctxt ""
-"Starting Points: 25,000\\nExtension into West: At the end of 4th South game,"
-" if 1st place has less than 30,000 points\\nLength: Two-Wind Match\\nRed "
-"Five: 3\\nOpen Tanyao: On\\nWaiting Time: 5+20"
-msgid "sheet|StrStr.csv|en|33a64ac83c300bceb21c663f7f7e1fc8"
-msgstr ""
-"시작 점수: 25,000\\n"
-"서입:남4국 종료시 1위 점수가 30,000점 미만일 때\\n"
-"길이: 반장전\\n"
-"적도라: 3\\n"
-"쿠이탕: 허용\\n"
-"제한 시간:5+20"
-
 #: translate_sheet.csv:1599
 msgctxt "Normal Dress"
 msgid "sheet|ShopsZhpGoods.csv|name_en|09f75b3d49f21d370a24ecdf2c6a48b4"
