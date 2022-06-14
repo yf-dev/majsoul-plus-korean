@@ -68693,15 +68693,6 @@ msgstr ""
 "5가지 식재료를 모아 해괴수에게 먹여 보상을 얻으세요!"
 
 #: ui_en.json
-msgctxt ""
-"4/12 14:00 - \r\n"
-"4/22 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_chs|1|3|a7971c25cb35da5c67dbadb2a9d855b6"
-msgstr ""
-"4/12 14:00 - \n"
-"4/22 13:59 (UTC-7)"
-
-#: ui_en.json
 msgctxt "Oops! It looks like you have reached the end, nyaa~"
 msgid "json|lobby/sns|1|0|1|1|0|5c5d08ac3936dbc491d69d6f965ab64e"
 msgstr "앗! 방금 전이 마지막이었다냐야~"
@@ -68767,15 +68758,6 @@ msgstr ""
 msgctxt ""
 "4/12 14:00 - \r\n"
 "4/22 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_en|1|3|a7971c25cb35da5c67dbadb2a9d855b6"
-msgstr ""
-"4/12 14:00 - \n"
-"4/22 13:59 (UTC-7)"
-
-#: ui_en.json
-msgctxt ""
-"4/12 14:00 - \r\n"
-"4/22 13:59 (UTC-7)"
 msgid "json|lobby/page_sign_jp|1|3|a7971c25cb35da5c67dbadb2a9d855b6"
 msgstr ""
 "4/12 14:00 - \n"
@@ -68795,15 +68777,6 @@ msgstr "터치"
 msgctxt "Confirm"
 msgid "json|mj/fieldspell|2|2|0|70d9be9b139893aa6c69b5e77e614311"
 msgstr "확인"
-
-#: ui_en.json
-msgctxt ""
-"4/12 14:00 - \r\n"
-"4/22 13:59 (UTC-7)"
-msgid "json|lobby/page_sign_chs_t|1|3|a7971c25cb35da5c67dbadb2a9d855b6"
-msgstr ""
-"4/12 14:00 - \n"
-"4/22 13:59 (UTC-7)"
 
 #: ui_en.json
 msgctxt "Celebration"
