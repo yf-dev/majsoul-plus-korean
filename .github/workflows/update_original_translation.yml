@@ -1,8 +1,8 @@
 name: Update original translation
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 */3 * * *'
+  # schedule:
+  #   - cron: '0 */3 * * *'
 
 jobs:
   check-majsoul-version:
