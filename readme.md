@@ -1,3 +1,8 @@
+2022년 7월 13일 이후 [작혼 EN 서버의 공식 한글화](https://twitter.com/MahjongSoul_KR/status/1546330081433653248?s=20&t=l3fLKBhAIZvzGjrDaX5ycw)가 적용됩니다.
+따라서 2022년 7월 13일부터는 리소스 팩을 사용하지 않는 것을 권장합니다.
+
+---
+
 # :rotating_light: 경고 :rotating_light:
 
 현재 [작혼 Plus 사용시 계정 밴 사례](https://github.com/MajsoulPlus/majsoul-plus/issues/127)가 보고되었습니다.  
